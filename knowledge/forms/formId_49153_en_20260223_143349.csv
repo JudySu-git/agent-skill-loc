@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+691f5ff30100006200cc164b,691e4d980100003f00548e76,49153,questionGroup,questionGroupText,49153,form,Vantage Data Centers Mitigation Plan Request Form
+691e55020100004300548e92,,189016,question,questionText,49153,form,Do you already have a written action plan addressing the flagged safety items related to this request?
+691e55020100004300548e92,,189016,question,responseOption1,49153,form,Yes
+691e55020100004300548e92,,189016,question,responseOption2,49153,form,No
+691e5515010000ea00548e95,,189017,question,questionText,49153,form,"If yes, please upload a copy of your written action plan."
+691e552001000042008b6294,,189018,question,questionText,49153,form,"For the following fields, include the date of the incident. \nIf there is more than one incident, identify the date for each.\nProvide an outline of the incident(s) or problem(s) and what happened."
+691e5542010000ce008b6297,,189019,question,questionText,49153,form,Provide an outline of the root causes that contributed to the incident(s) or problem(s).
+691e55550100003600548e99,,189020,question,questionText,49153,form,Provide an outline of the mitigation plan and steps that have been (or will be taken) to prevent a recurrence (corrective and preventative measures). 
+691e55600100003b008b6299,,189021,question,questionText,49153,form,Timeline of corrective measures and actions
+691e556c0100003600548e9c,,189022,question,description,49153,form,Enter your full name and title 
+691e556c0100003600548e9c,,189022,question,questionText,49153,form,Please provide your E-Signature

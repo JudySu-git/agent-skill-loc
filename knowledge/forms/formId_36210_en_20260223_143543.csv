@@ -1,0 +1,18 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+62a9fa9f2f0000c1cc66ddc9,626c3a0e2e000012d921e03b,36210,questionGroup,questionGroupText,36210,form,Avetta PQF - Hungary Company Information
+626c3a362e000012d921e045,,126692,question,description,36210,form,"If you are a sole owner, the same information should be indicated: Format 8-1-2 digits"
+626c3a362e000012d921e045,,126692,question,questionText,36210,form,Please enter your enterprise Tax Id number (adószám) or your individual Tax ID number (adóazonosító jel).
+626c3a502e000012d921e048,,126693,question,description,36210,form,cégjegyzékszám / nyilvántartási szám - format is 2-2-6 digit (XX-XX-XXXXXX)
+626c3a502e000012d921e048,,126693,question,questionText,36210,form,"Please provide your <a href="" https://www.companyregister.hu"" target=""_BLANK"">company registry number</a>. </br> If you are a sole owner, please indicate your registration number."
+626c3b272f00007442507dcf,,126694,question,description,36210,form,közösségi adószám
+626c3b272f00007442507dcf,,126694,question,questionText,36210,form,"Does your company have a  <a href="" https://ec.europa.eu/taxation_customs/vies/?locale=en"" target=""_BLANK"">EU (VIES) Tax ID number (EU VAT)</a>? (If you are a sole owner, the same information should be indicated.)"
+626c3b272f00007442507dcf,,126694,question,responseOption1,36210,form,Yes
+626c3b272f00007442507dcf,,126694,question,responseOption2,36210,form,No
+626c3b642f000074425081e7,,126695,question,questionText,36210,form,Please provide your company’s EU (VIES) Tax ID number.
+62a8f8d92f000046c802c0ec,,128433,question,questionText,36210,form,"Please indicate the full name, registered seat (additionally site, branch, if any) and website (if any) of your company. (If you are a sole owner, the same information should be indicated.)"
+62a9f5642e00006e276ee560,,128447,question,questionText,36210,form,Please indicate the main business activity (with the relevant NACE code) of your company as per the company register.
+62a9f59a2e00006e276ee706,,128448,question,description,36210,form,KATA or Kisadózó vállalkozás
+62a9f59a2e00006e276ee706,,128448,question,questionText,36210,form,Please indicate if you opted for the special small taxpayer regime.
+62a9f59a2e00006e276ee706,,128448,question,responseOption1,36210,form,Yes
+62a9f59a2e00006e276ee706,,128448,question,responseOption2,36210,form,No
+62a9f78c2e00006e276f001a,,128449,question,questionText,36210,form,Please name the person authorized to represent the company officially (signatory officer).

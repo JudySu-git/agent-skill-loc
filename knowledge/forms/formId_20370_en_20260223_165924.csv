@@ -1,0 +1,43 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65822cac160000d10048d96f,50c244d750494355ead8fcc8,3218,questionGroup,questionGroupText,20370,form,Belgium
+5269718e504943ebdaf8a3bc,5269718e504943ebdaf8a3bc,4669,questionGroup,questionGroupText,20370,form,NACE-BEL - Economic Activities Classification
+50c2469e504943bdf62ba7ee,,14816,question,questionText,20370,form,"Is your enterprise registered with <a href = ""https://business.belgium.be/en/setting_up_your_business/registration_with_the_crossroads_bank_for_enterprises"" target = ""_blank"">The Crossroads Bank for Enterprises (BCE/KBO)</a>?"
+50c2469e504943bdf62ba7ee,,14816,question,responseOptionNo,20370,form,No
+50c2469e504943bdf62ba7ee,,14816,question,responseOptionYes,20370,form,Yes
+50c246bf5049437064aefd5e,,14817,question,questionText,20370,form,"If Yes, please provide your enterprise number."
+50c246ea50494329c693e6ae,,14818,question,questionText,20370,form,"Does your company have a <a href = ""https://business.belgium.be/en/setting_up_your_business/registration_with_the_vat_authorities"" target = ""_blank"">VAT</a> registration number?"
+50c246ea50494329c693e6ae,,14818,question,responseOptionNo,20370,form,No
+50c246ea50494329c693e6ae,,14818,question,responseOptionYes,20370,form,Yes
+50c2470f504943762e833699,,14819,question,questionText,20370,form,"If Yes, please provide your registration number."
+658242751600001b0148e01a,5b1f405f220000f803b482c3,20370,questionGroup,questionGroupText,20370,form,Avetta PQF - Belgium Company Information
+526972e8504943fb82778c6e,,21418,question,linkhttps://statbel.fgov.be/en/about-statbel/methodology/classifications/nace-bel-2025,20370,form,Click here to locate your company's NACE-BEL code
+526972e8504943fb82778c6e,,21418,question,questionText,20370,form,What is your company's primary NACE-BEL Code?\n \n
+526973295049434336c96c09,,21419,question,linkhttps://statbel.fgov.be/en/about-statbel/methodology/classifications/nace-bel-2025,20370,form,Click here to locate your company's NACE-BEL code
+526973295049434336c96c09,,21419,question,questionText,20370,form,What is your company's secondary NACE-BEL Code?\n \n
+63699283180000ec03495981,,132489,question,questionText,20370,form,Is your enterprise registered with the social security institutions?
+63699283180000ec03495981,,132489,question,responseOption1,20370,form,Yes
+63699283180000ec03495981,,132489,question,responseOption2,20370,form,No
+6369937518000018044964f2,,132492,question,questionText,20370,form,"If Yes, please provide your registration number with the social security institutions."
+65822caa190000b300e313fc,,148652,question,questionText,20370,form,Please indicate your company's business entity / form of business within this country.
+65822caa190000b300e313fc,,148652,question,responseOption1,20370,form,Sole Proprietorship
+65822caa190000b300e313fc,,148652,question,responseOption2,20370,form,General Partnership
+65822caa190000b300e313fc,,148652,question,responseOption3,20370,form,Limited Partnership
+65822caa190000b300e313fc,,148652,question,responseOption4,20370,form,Limited Liability Company
+65822caa190000b300e313fc,,148652,question,responseOption5,20370,form,Corporation
+65822caa190000b300e313fc,,148652,question,responseOption6,20370,form,Foreign entity with no local fiscal presence
+65822caa190000b300e313fc,,148652,question,responseOption7,20370,form,Other
+65822ce8160000860048d971,,148653,question,questionText,20370,form,Please indicate where your company is established:
+65822ce8160000860048d971,,148653,question,responseOption1,20370,form,Yes
+65822ce8160000860048d971,,148653,question,responseOption2,20370,form,No
+65822cf91900009000e313ff,,148654,question,questionText,20370,form,"If Other, please explain:"
+65822cf91900009000e313ff,,148654,question,responseOption1,20370,form,Yes
+65822cf91900009000e313ff,,148654,question,responseOption2,20370,form,No
+65822d4d190000b400e314c8,,148655,question,questionText,20370,form,"If No, please explain why:"
+65822d4d190000b400e314c8,,148655,question,responseOption1,20370,form,Yes
+65822d4d190000b400e314c8,,148655,question,responseOption2,20370,form,No
+65822d7c160000ae0048d9d5,,148656,question,questionText,20370,form,"If No, please explain why:"
+65822d7c160000ae0048d9d5,,148656,question,responseOption1,20370,form,Yes
+65822d7c160000ae0048d9d5,,148656,question,responseOption2,20370,form,No
+65822dc6160000860048da00,,148657,question,questionText,20370,form,"If No, please explain why:"
+65822dc6160000860048da00,,148657,question,responseOption1,20370,form,Yes
+65822dc6160000860048da00,,148657,question,responseOption2,20370,form,No

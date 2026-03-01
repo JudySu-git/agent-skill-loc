@@ -1,0 +1,58 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68ffe1600100004f035be751,68bf3f0a01000034009bb2f6,47567,questionGroup,questionGroupText,47567,form,Vantage Data Centers Onboarding Form
+68f908030100003b0082f05c,68bf3f4201000034009bb2fb,47568,questionGroup,questionGroupText,47567,form,General
+68f9082c010000f500204c7f,68f9082c010000f500204c7e,48547,questionGroup,questionGroupText,47567,form,Excavation
+68f917f20100003c0082f126,68f917f20100003c0082f125,48549,questionGroup,questionGroupText,47567,form,EHS Training
+68bf3f4c010000b6009bb300,,180341,question,questionText,47567,form,Does your company provide excavation services for Vantage Data Centers?
+68bf3f4c010000b6009bb300,,180341,question,responseOption1,47567,form,Yes
+68bf3f4c010000b6009bb300,,180341,question,responseOption2,47567,form,No
+68bf3f6b010000b40001497f,,180342,question,questionText,47567,form,Does your company have procedures to control and manage all excavation and breaking ground activities?
+68bf3f6b010000b40001497f,,180342,question,responseOption1,47567,form,Yes
+68bf3f6b010000b40001497f,,180342,question,responseOption2,47567,form,No
+68bf3f760100003c009bb302,,180343,question,questionText,47567,form,Does your company ever perform work at Vantage Data Center site locations?
+68bf3f760100003c009bb302,,180343,question,responseOption1,47567,form,Yes
+68bf3f760100003c009bb302,,180343,question,responseOption2,47567,form,No
+68bf3f82010000b400014982,,180344,question,questionText,47567,form,"Does your company have a program in place to regularly inspect and audit environmental, health, and safety performance on site?"
+68bf3f82010000b400014982,,180344,question,responseOption1,47567,form,Yes
+68bf3f82010000b400014982,,180344,question,responseOption2,47567,form,No
+68f908db0100004503204c83,,185906,question,description,47567,form,This is a multiple choice question set. Please choose any location where you perform work for Vantage Data Centers
+68f908db0100004503204c83,,185906,question,questionText,47567,form,Please identify the Vantage Data Centers location(s) where you are currently working or anticipate performing work: 
+68f908db0100004503204c83,,185906,question,responseOption1,47567,form,Arizona
+68f908db0100004503204c83,,185906,question,responseOption10,47567,form,Italy
+68f908db0100004503204c83,,185906,question,responseOption11,47567,form,Japan
+68f908db0100004503204c83,,185906,question,responseOption12,47567,form,Luxembourg
+68f908db0100004503204c83,,185906,question,responseOption13,47567,form,Malaysia
+68f908db0100004503204c83,,185906,question,responseOption14,47567,form,Nevada
+68f908db0100004503204c83,,185906,question,responseOption15,47567,form,New Brunswick
+68f908db0100004503204c83,,185906,question,responseOption16,47567,form,Ohio
+68f908db0100004503204c83,,185906,question,responseOption17,47567,form,Poland
+68f908db0100004503204c83,,185906,question,responseOption18,47567,form,Quebec
+68f908db0100004503204c83,,185906,question,responseOption19,47567,form,Singapore
+68f908db0100004503204c83,,185906,question,responseOption2,47567,form,Australia
+68f908db0100004503204c83,,185906,question,responseOption20,47567,form,South Africa
+68f908db0100004503204c83,,185906,question,responseOption21,47567,form,Switzerland
+68f908db0100004503204c83,,185906,question,responseOption22,47567,form,Taiwan
+68f908db0100004503204c83,,185906,question,responseOption23,47567,form,Texas
+68f908db0100004503204c83,,185906,question,responseOption24,47567,form,Virginia
+68f908db0100004503204c83,,185906,question,responseOption25,47567,form,Wales
+68f908db0100004503204c83,,185906,question,responseOption26,47567,form,Washington
+68f908db0100004503204c83,,185906,question,responseOption27,47567,form,Wisconsin
+68f908db0100004503204c83,,185906,question,responseOption28,47567,form,Other APAC Location
+68f908db0100004503204c83,,185906,question,responseOption29,47567,form,Other Canada Location
+68f908db0100004503204c83,,185906,question,responseOption3,47567,form,California
+68f908db0100004503204c83,,185906,question,responseOption30,47567,form,Other EMEA Location
+68f908db0100004503204c83,,185906,question,responseOption31,47567,form,Other US Location
+68f908db0100004503204c83,,185906,question,responseOption4,47567,form,Colorado
+68f908db0100004503204c83,,185906,question,responseOption5,47567,form,England
+68f908db0100004503204c83,,185906,question,responseOption6,47567,form,Georgia
+68f908db0100004503204c83,,185906,question,responseOption7,47567,form,Germany
+68f908db0100004503204c83,,185906,question,responseOption8,47567,form,Hong Kong
+68f908db0100004503204c83,,185906,question,responseOption9,47567,form,Ireland
+68f917c3010000ca0682f121,,185910,question,questionText,47567,form,Please upload a copy of your procedures to control and manage all excavation and breaking ground activities.
+68f9189a0100008707204d39,,185911,question,description,47567,form,You have chosen that you perform work in New Brunswick for Vantage Data Centers. All form uploads and requirements must be submitted in both French and English. Please acknowledge you understand these requirements
+68f9189a0100008707204d39,,185911,question,questionText,47567,form,"Please sign and provide the title of the individual in the space provided. By acknowledging, you understand the requirements for documents provided in New Brunswick."
+68f918a5010000880782f131,,185912,question,description,47567,form,You have chosen that you perform work in Quebec for Vantage Data Centers. All form uploads and requirements must be submitted in French. Please acknowledge you understand these requirements
+68f918a5010000880782f131,,185912,question,questionText,47567,form,"Please sign and provide the title of the individual in the space provided. By acknowledging, you understand the requirements for documents provided in Quebec."
+68f9192b010000af06204d46,,185913,question,questionText,47567,form,"Please upload a copy of your program for regular inspection and audit of environmental, health, and safety performance."
+68f91934010000ca0682f137,,185914,question,description,47567,form,"To validate the effectiveness and implementation of your risk control measures, we require the following documents for review:\nYour full EHS Training Program documentation (e.g., policy, curriculum, or detailed plan).\nYour EHS Training Matrix (showing roles, required training modules, and frequency).\n"
+68f91934010000ca0682f137,,185914,question,questionText,47567,form,"Please confirm if your organization maintains a formal, structured training program to manage and mitigate Environmental, Health, and Safety (EHS) risks for your employees."

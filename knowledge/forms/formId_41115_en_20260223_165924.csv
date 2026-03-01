@@ -1,0 +1,53 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6944760d0100004300d1fdab,65a6c858190000a637223de6,41115,questionGroup,questionGroupText,41115,form,Avetta PQF - Iraq Company Information
+694042f6010000450040aa2e,65a6cbe21900000333223ee9,41117,questionGroup,questionGroupText,41115,form,Iraq
+65a6cc371900007037223ef4,,149770,question,questionText,41115,form,Please enter Foreign Company’s country of origin:
+65a6cc371900007037223ef4,,149770,question,responseOption1,41115,form,Yes
+65a6cc371900007037223ef4,,149770,question,responseOption2,41115,form,No
+65a6cc891900000333223ef6,,149771,question,questionText,41115,form,Please explain:
+65a6cc891900000333223ef6,,149771,question,responseOption1,41115,form,Yes
+65a6cc891900000333223ef6,,149771,question,responseOption2,41115,form,No
+65a6ccd61a0000f030581381,,149772,question,description,41115,form,"<a href=""https://tasjeel.mot.gov.iq/en/index.html"" target=""_blank"">Federal Ministry of Trade</a>\n<a href=""https://gov.krd/arabic/"" target=""_blank"">KRG Ministry of Trade and Industry (Directorate of Companies Registration) </a>\n"
+65a6ccd61a0000f030581381,,149772,question,questionText,41115,form, Is your company registered with the Iraqi competent trade authority (Federal Ministry of Trade or Kurdistan Regional Government Ministry of Trade and Industry)?
+65a6ccd61a0000f030581381,,149772,question,responseOption1,41115,form,Yes
+65a6ccd61a0000f030581381,,149772,question,responseOption2,41115,form,No
+65a6cd7e1a0000f030581387,,149774,question,questionText,41115,form,Please provide your company's registration number.
+65a6cd7e1a0000f030581387,,149774,question,responseOption1,41115,form,Yes
+65a6cd7e1a0000f030581387,,149774,question,responseOption2,41115,form,No
+65a6ce5a1a0000e03058138c,,149776,question,questionText,41115,form,Please upload a copy of your registration certificate.
+65a6ce5a1a0000e03058138c,,149776,question,responseOption1,41115,form,Yes
+65a6ce5a1a0000e03058138c,,149776,question,responseOption2,41115,form,No
+65a6cefa1900009137223f00,,149777,question,description,41115,form,"<a href=""https://mof.gov.iq/pages/en/AbtGCTaxes.aspx"" target=""_blank"">Federal General Commission for Taxes</a>\n<a href=""https://gov.krd/arabic/"" target=""_blank"">KRG General Directorate of Taxes (Ministry of Finance)</a>"
+65a6cefa1900009137223f00,,149777,question,questionText,41115,form,  Is your company registered with the Iraqi competent tax authority (Federal General Commission for Taxes or KRG General Directorate of Taxes)?
+65a6cefa1900009137223f00,,149777,question,responseOption1,41115,form,Yes
+65a6cefa1900009137223f00,,149777,question,responseOption2,41115,form,No
+65a6cf671a0000e930581396,,149778,question,questionText,41115,form,Please provide your company’s Iraqi tax identification number (TIN).
+65a6cf7a1900000333223f03,,149779,question,questionText,41115,form,Do you have an Iraqi VAT registration number?
+65a6cf7a1900000333223f03,,149779,question,responseOption1,41115,form,Yes
+65a6cf7a1900000333223f03,,149779,question,responseOption2,41115,form,No
+65a6cf841a0000e23058139a,,149780,question,questionText,41115,form,"If yes, please provide."
+65a6cf841a0000e23058139a,,149780,question,responseOption1,41115,form,Yes
+65a6cf841a0000e23058139a,,149780,question,responseOption2,41115,form,No
+65a6cfa31900007037223f06,,149781,question,description,41115,form,"<a href=""https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf"" target=""_blank"">Industry Classification Code of Economic Activities</a>"
+65a6cfa31900007037223f06,,149781,question,questionText,41115,form,Please indicate your company's Industry Classification Code of Economic Activities performed in Iraq:
+65a6cfa31900007037223f06,,149781,question,responseOption1,41115,form,Yes
+65a6cfa31900007037223f06,,149781,question,responseOption2,41115,form,No
+65a6d01d1a0000cd0058143a,,149786,question,questionText,41115,form,Primary Industry Classification Code of Activities performed in Iraq:
+65a6d01d1a0000cd0058143a,,149786,question,responseOption1,41115,form,Yes
+65a6d01d1a0000cd0058143a,,149786,question,responseOption2,41115,form,No
+65a6d0331a0000e03058143b,,149787,question,questionText,41115,form,Secondary Industry Classification Code of Activities performed in Iraq: (If applicable)
+65a6d0331a0000e03058143b,,149787,question,responseOption1,41115,form,Yes
+65a6d0331a0000e03058143b,,149787,question,responseOption2,41115,form,No
+66180f321c000031008abb8f,,152621,question,description,41115,form,
+66180f321c000031008abb8f,,152621,question,questionText,41115,form,Does your company have an Industry Classification code in Iraq?
+66180f321c000031008abb8f,,152621,question,responseOption1,41115,form,Yes
+66180f321c000031008abb8f,,152621,question,responseOption2,41115,form,No
+694042d5010000630040aa24,,193298,question,questionText,41115,form,Please select your company's business entity / form of business within Iraq:
+694042d5010000630040aa24,,193298,question,responseOption1,41115,form,Sole Proprietorship
+694042d5010000630040aa24,,193298,question,responseOption2,41115,form,Limited Liability Company (LLC)
+694042d5010000630040aa24,,193298,question,responseOption3,41115,form,Joint Stock Company
+694042d5010000630040aa24,,193298,question,responseOption4,41115,form,Partnership
+694042d5010000630040aa24,,193298,question,responseOption5,41115,form,Branch Office of a Foreign Company
+694042d5010000630040aa24,,193298,question,responseOption6,41115,form,Other
+694042d5010000630040aa24,,193298,question,responseOption7,41115,form,Foreign Company Not Established in Iraq (No Legal Entity Registered in Iraq)
+694042d5010000630040aa24,,193298,question,responseOption8,41115,form,Overseas Company without an Iraqi entity

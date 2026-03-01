@@ -1,0 +1,35 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+62d81dd32f0000b56a947171,62acbbf42f0000b22e260fa6,36643,questionGroup,questionGroupText,36643,form,Avetta PQF - Israel Company Information
+62d81d6d300000c3a2864b7f,62acbc422f0000b22e261867,36644,questionGroup,questionGroupText,36643,form,Israel
+62acbc972e0000991c29da9a,,128510,question,description,36643,form,Any entity that has business activities (except trusts) must register for VAT purposes
+62acbc972e0000991c29da9a,,128510,question,questionText,36643,form,Is your entity registered for VAT purposes?
+62acbc972e0000991c29da9a,,128510,question,responseOption1,36643,form,Yes
+62acbc972e0000991c29da9a,,128510,question,responseOption2,36643,form,No
+62acbc972e0000991c29da9a,,128510,question,responseOption3,36643,form,N/A for Trusts
+62acbd0a2f0000b22e261e25,,128511,question,questionText,36643,form,"Please enter your company’s main <a href\t= ""https://www.cbs.gov.il/en/publications/Pages/2015/Standard-Industrial-Classification-of-All-Economic-Activities-2011-Updated-edition.aspx""target=""_BLANK_"">Industry Classification</a> code:"
+62d6d5a32e00008b51a8a3c4,,129941,question,questionText,36643,form,What is your business entity type?
+62d6d5a32e00008b51a8a3c4,,129941,question,responseOption1,36643,form,A Limited Liability Company
+62d6d5a32e00008b51a8a3c4,,129941,question,responseOption2,36643,form,Sole Proprietor
+62d6d5a32e00008b51a8a3c4,,129941,question,responseOption3,36643,form,Partnership
+62d6d6482e0000418e97dd87,,129945,question,questionText,36643,form,"If a Limited Liability Company, please provide the registration number with the Registrar of Companies"
+62d6d6702e00008b51a8aa3d,,129946,question,description,36643,form,Sole proprietors use their personal ID number as the tax identification number. Each Israeli resident over the age of 16 is issued an ID card that carries the personal ID number and a photo.
+62d6d6702e00008b51a8aa3d,,129946,question,questionText,36643,form,"If a Sole Proprietor, please provide a 9-digit ID number."
+62d6d6ab2e00008b51a8ab31,,129947,question,questionText,36643,form,"If a Registered Partnership, please provide the registration number with the Registrar of Partnerships"
+62d6d7032e0000418e97efbf,,129948,question,description,36643,form,Any entity that has business activities must have a tax file with the ITA. Public database (Company Registrar) for companies and registered partnerships (partnership are not obligated to register and there is no public database for sole proprietorships) - https://ica.justice.gov.il/GenericCorporarionInfo/SearchCorporation?unit=8
+62d6d7032e0000418e97efbf,,129948,question,questionText,36643,form,Please provide your company entity's file number with the ITA
+62d6d7502e0000418e97f2c5,,129949,question,description,36643,form,"Any entity that is required to withhold taxes under the law (e.g., payroll, suppliers etc.) must have a withholding tax file with the ITA"
+62d6d7502e0000418e97f2c5,,129949,question,questionText,36643,form,Does your company have a withholding file with the ITA?
+62d6d7502e0000418e97f2c5,,129949,question,responseOption1,36643,form,Yes
+62d6d7502e0000418e97f2c5,,129949,question,responseOption2,36643,form,No
+62d6d77a2e00008b51a8ab76,,129950,question,questionText,36643,form,"If yes, please provide."
+62d6d7c42e00008b51a8abb1,,129951,question,description,36643,form,A certificate from the ITA that the account is in good order regarding its bookkeeping
+62d6d7c42e00008b51a8abb1,,129951,question,questionText,36643,form,Please provide a Bookkeeping certificate from the ITA.
+62d6d7e12e00008b51a8abb3,,129952,question,description,36643,form,A certificate from the ITA that indicates what is the WHT rate that was determined to this tax file
+62d6d7e12e00008b51a8abb3,,129952,question,questionText,36643,form,Please provide a tax withholding certificate from the ITA.
+62d6dbcc2e00008b51a8cece,,129965,question,questionText,36643,form,"If yes, please enter your entity's VAT registration number if different from your company's file number."
+62d6dbeb2e0000418e980db6,,129966,question,questionText,36643,form,Who is authorized to sign of behalf of the company? Please provide details.
+62d81d6c300000c3a2864b5e,,129978,question,description,36643,form,An entity must register with the National Insurance Institute if it has employees
+62d81d6c300000c3a2864b5e,,129978,question,questionText,36643,form,Is your entity registered with the National Insurance Institute?
+62d81d6c300000c3a2864b5e,,129978,question,responseOption1,36643,form,Yes
+62d81d6c300000c3a2864b5e,,129978,question,responseOption2,36643,form,No
+62d81dac2f0000b56a947019,,129981,question,questionText,36643,form,"If yes, please enter your file number."

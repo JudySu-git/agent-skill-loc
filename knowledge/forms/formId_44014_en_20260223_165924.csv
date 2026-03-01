@@ -1,0 +1,42 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+673e486c010000df00a805f1,6737a60b0100003800612b1a,44014,questionGroup,questionGroupText,44014,form,Avetta PQF - Papua New Guinea Company Information
+6737b4a801000034009408f5,6737b4a801000034009408f4,44015,questionGroup,questionGroupText,44014,form,Papua New Guinea
+6737b8630100002b00940905,,161925,question,description,44014,form,"Limited Liability Company (LLC): Common structure, considered a separate legal entity from its shareholders\nSole Proprietorship: Business owned and operated by a single individual, with no legal distinction between the business and the owner\nPartnership: Businesses jointly operated by two or more people.\nBranches of Foreign Companies: Foreign companies can operate as branches if registered with the Investment Promotion Authority (IPA).\nAssociations/Non-Profit Organizations: For charitable, religious, or community-focused operations.\nhttps://www.ipa.gov.pg/corp/search.aspx"
+6737b8630100002b00940905,,161925,question,questionText,44014,form,Please indicate your company's business entity / form of business within this country.
+6737b8630100002b00940905,,161925,question,responseOption1,44014,form,Limited Liability Company (LLC)
+6737b8630100002b00940905,,161925,question,responseOption2,44014,form,Associations/Non-Profit Organizations
+6737b8630100002b00940905,,161925,question,responseOption3,44014,form,Branches of Foreign Companies
+6737b8630100002b00940905,,161925,question,responseOption4,44014,form,Partnership
+6737b8630100002b00940905,,161925,question,responseOption5,44014,form,Sole Proprietorship
+6737b8630100002b00940905,,161925,question,responseOption6,44014,form,Other
+6737b8f8010000360094090c,,161927,question,questionText,44014,form,Please indicate your company's business entity / form of business within this country.
+6737b8f8010000360094090c,,161927,question,responseOption1,44014,form,Yes
+6737b8f8010000360094090c,,161927,question,responseOption2,44014,form,No
+6737b92d010000980194090f,,161928,question,description,44014,form,All registered companies in Papua New Guinea are registered at the Investment Promotion Authority (IPA) and have a registration number.\nhttps://facilitation.nto.gov.pg/ipa/
+6737b92d010000980194090f,,161928,question,questionText,44014,form,Is your company registered with the Investment Promotion Authority (IPA)?
+6737b92d010000980194090f,,161928,question,responseOption1,44014,form,Yes
+6737b92d010000980194090f,,161928,question,responseOption2,44014,form,No
+6737b9520100002e00612c17,,161929,question,questionText,44014,form,Please explain.
+6737b9520100002e00612c17,,161929,question,responseOption1,44014,form,Yes
+6737b9520100002e00612c17,,161929,question,responseOption2,44014,form,No
+6737b9740100003600940912,,161930,question,description,44014,form,https://nto.gov.pg/
+6737b9740100003600940912,,161930,question,questionText,44014,form,What is your company's IPA Registration Number?
+6737b9c20100003400612c19,,161931,question,description,44014,form,https://irc.gov.pg/
+6737b9c20100003400612c19,,161931,question,questionText,44014,form,Is your company registered with the Internal Revenue Commission (IRC)?
+6737b9c20100003400612c19,,161931,question,responseOption1,44014,form,Yes
+6737b9c20100003400612c19,,161931,question,responseOption2,44014,form,No
+6737b9e30100009a01940915,,161932,question,questionText,44014,form,Please explain.
+6737b9e30100009a01940915,,161932,question,responseOption1,44014,form,Yes
+6737b9e30100009a01940915,,161932,question,responseOption2,44014,form,No
+6737bb340100007d00612c24,,161933,question,questionText,44014,form,Please enter your GST Registration Number.
+6737bb500100004f0094095a,,161934,question,description,44014,form,https://nto.gov.pg/ ; \nhttps://www.ipa.gov.pg/Documentation/PG/PNG_Standard_Classification_Jan_09.pdf
+6737bb500100004f0094095a,,161934,question,questionText,44014,form,Please enter your company's Papua New Guinea Standard Industrial Classification Code (PNGSIC).
+6737ca790100003400613572,,161935,question,description,44014,form,https://irc.gov.pg/
+6737ca790100003400613572,,161935,question,questionText,44014,form,What is your company's Tax Identification Number (TIN)?
+6737caaa01000034009409ab,,161936,question,description,44014,form,https://irc.gov.pg/pages/taxes/businesses-and-employers/goods-services-tax
+6737caaa01000034009409ab,,161936,question,questionText,44014,form,Does your company have a GST Registration number?
+6737caaa01000034009409ab,,161936,question,responseOption1,44014,form,Yes
+6737caaa01000034009409ab,,161936,question,responseOption2,44014,form,No
+6737cad3010000380061360a,,161937,question,questionText,44014,form,Please explain.
+6737cad3010000380061360a,,161937,question,responseOption1,44014,form,Yes
+6737cad3010000380061360a,,161937,question,responseOption2,44014,form,No

@@ -1,0 +1,40 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4f264a90504943cca9666573,4f264a90504943cca9666573,2355,questionGroup,questionGroupText,20115,form,United Kingdom
+51754f23504943c2d2868858,51754f23504943c2d2868858,3732,questionGroup,questionGroupText,20115,form,SSIP
+52695de75049439eddb2666c,52695de75049439eddb2666c,4664,questionGroup,questionGroupText,20115,form,SIC Code - United Kingdom
+4f264ac250494327c37eb96c,,10459,question,description,20115,form,"Value Added Tax (VAT) is levied on the sale of goods or services by businesses. VAT is a type of consumption tax that is placed on a product whenever value is added at a stage of production and at final sale. Format for VAT number should be  Country code GB followed by standard: 9 digits (block of 3, block of 4, block of 2 – e.g. GB999 9999 73. The VAT number can be validated on <a href=""https://www.gov.uk/government/organisations/hm-revenue-customs"" target=""_BLANK"">HMRC</a>\r\n<a href=""ec.europa.eu/taxation_customs/vies/vieshome.do"" target=""_BLANK"">Europa</a>"
+4f264ac250494327c37eb96c,,10459,question,questionText,20115,form,Does your company have a VAT Registration number?
+4f264ac250494327c37eb96c,,10459,question,responseOptionNo,20115,form,No
+4f264ac250494327c37eb96c,,10459,question,responseOptionYes,20115,form,Yes
+4f264ae25049431253af7519,,10460,question,description,20115,form,"All limited companies in England, Wales, Scotland and Northern Ireland are registered at <a href=""https://find-and-update.company-information.service.gov.uk/"" target=""_BLANK"">Companies House</a> and have a registration number."
+4f264ae25049431253af7519,,10460,question,questionText,20115,form,Does your company have a Company Registration number?
+4f264ae25049431253af7519,,10460,question,responseOptionNo,20115,form,No
+4f264ae25049431253af7519,,10460,question,responseOptionYes,20115,form,Yes
+4f3b7bee504943dc15a91263,,10603,question,description,20115,form,"A Unique Taxpayer reference number (or UTR Number) is a 10 digit number that is issued by the HM Revenue & Customs when you, or your client have registered for self assessment.\r\n<a href=""https://online.hmrc.gov.uk/information/help?helpcategory=security&affinitygroup=&helpid=UniqueTaxpayReference"" target=""_BLANK"">HM Revenue & Customs</a>"
+4f3b7bee504943dc15a91263,,10603,question,questionText,20115,form,Does your company have a UTR (Unique Taxpayer Reference) number?
+4f3b7bee504943dc15a91263,,10603,question,responseOptionNo,20115,form,No
+4f3b7bee504943dc15a91263,,10603,question,responseOptionYes,20115,form,Yes
+4f3b7c43504943a91b525478,,10604,question,description,20115,form,"Please exclude any letters and only enter your 10 digit UTR number. <a href=""https://online.hmrc.gov.uk/information/help?helpcategory=security&affinitygroup=&helpid=UniqueTaxpayReference"" target=""_BLANK"">HM Revenue & Customs</a>"
+4f3b7c43504943a91b525478,,10604,question,questionText,20115,form,"If Yes, please provide your UTR number:"
+4f3b7de350494380528a9f70,,10606,question,questionText,20115,form,"If Yes, please provide your Company Registration number."
+4f3b7e59504943342544dd2b,,10607,question,description,20115,form,"Charities Commission  keeps  the online Register of Charities, which provides information about each of the thousands of registered charities in England and Wales.\r\n<a href=""https://www.gov.uk/government/organisations/charity-commission"" target=""_BLANK"">Charity Commission</a>"
+4f3b7e59504943342544dd2b,,10607,question,questionText,20115,form,Is your company registered with the Charity Commission?
+4f3b7e59504943342544dd2b,,10607,question,responseOptionNo,20115,form,No
+4f3b7e59504943342544dd2b,,10607,question,responseOptionYes,20115,form,Yes
+4f3b7ed3504943abe19ccf40,,10608,question,questionText,20115,form,Please provide your Charity Registration number:
+4f670eb75049431305f2a3c9,,11111,question,questionText,20115,form,"If Yes, Please provide your VAT Registration number."
+50488bbd50494389b3e9ba17,,13069,question,description,20115,form,"The Management of Health and Safety at Work Regulations require that young people are protected at work from risks to their health and safety. <a href=""https://www.hse.gov.uk/youngpeople/law/index.htm"" target=""_BLANK"">Young Persons</a>"
+50488bbd50494389b3e9ba17,,13069,question,questionText,20115,form,Does your company employ any young persons (anyone under the age of 18) ?
+50488bbd50494389b3e9ba17,,13069,question,responseOptionNo,20115,form,No
+50488bbd50494389b3e9ba17,,13069,question,responseOptionYes,20115,form,Yes
+516f0185504943a7fa19745a,,16914,question,description,20115,form,"If your company ONLY has an SSIP Certificate issued through Avetta, or you don’t have an SSIP certificate at all, please answer “No.”"
+516f0185504943a7fa19745a,,16914,question,questionText,20115,form,"Is your company registered with an <a href=""https://ssip.org.uk/"" target=""_blank"">SSIP</a> member scheme and has a valid SSIP certificate issued from an organization other than Avetta?"
+516f0185504943a7fa19745a,,16914,question,responseOptionNo,20115,form,No
+516f0185504943a7fa19745a,,16914,question,responseOptionYes,20115,form,Yes
+5bb6430d3700002e313eed98,5ab6b64b3a00001600cfbb1e,20115,questionGroup,questionGroupText,20115,form,Avetta PQF - United Kingdom Company Information
+52695e60504943fe3770cc97,,21410,question,linkhttps://www.siccodesupport.co.uk/,20115,form,Click here to locate your company's SIC code
+52695e60504943fe3770cc97,,21410,question,questionText,20115,form,What is your primary UK SIC Code? \nYour companies SIC code can be located on the [Companies House](https://find-and-update.company-information.service.gov.uk/) website
+52695e875049431958fc535a,,21411,question,linkhttps://www.siccodesupport.co.uk/,20115,form,Click here to locate your company's SIC code
+52695e875049431958fc535a,,21411,question,questionText,20115,form,What is your secondary UK SIC Code? \nYour companies SIC code can be located on the [Companies House](https://find-and-update.company-information.service.gov.uk/) website
+528d2ff350494363e7d7f224,,21873,question,description,20115,form,"Example: Ltd., LP, plc, etc."
+528d2ff350494363e7d7f224,,21873,question,questionText,20115,form,Please indicate your company's business entity / form of business within this country.

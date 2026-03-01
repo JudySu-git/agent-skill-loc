@@ -1,0 +1,41 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6230ed772e0000a275a234db,6230bbae2e0000a275a077de,35606,questionGroup,questionGroupText,35606,form,Avetta PQF - Slovakia Company Information
+6230ed682f0000728d2c4c87,6230bc482f0000728d2ab614,35607,questionGroup,questionGroupText,35606,form,Slovakia
+6230bc592f0000728d2ab619,,122136,question,description,35606,form,8 digits
+6230bc592f0000728d2ab619,,122136,question,questionText,35606,form,"Please enter your <a href=""https://www.orsr.sk/search_subjekt.asp"" target=""_BLANK"">Commercial Register</a> company ID"
+6230c1d52f0000728d2adf65,,122138,question,description,35606,form,8 digits
+6230c1d52f0000728d2adf65,,122138,question,questionText,35606,form,"Please enter your <a href=""https://www.zrsr.sk/zr_ico.aspx"" target=""_BLANK"">Trade Register</a> company ID"
+6230c2c72f0000728d2ae071,,122139,question,description,35606,form,A company might have multiple Industry Classification Codes. Between 2-5 digits.
+6230c2c72f0000728d2ae071,,122139,question,questionText,35606,form,"Please enter your company’s main <a href=""https://www.sknace.sk/sk-nace-podla-ico/"" target=""_BLANK"">SK-NACE classification of economic activities</a>"
+6230c3a92e0000a275a0bedf,,122140,question,questionText,35606,form,Does your company have any additional SK-NACE classification codes?
+6230c3a92e0000a275a0bedf,,122140,question,responseOption1,35606,form,Yes
+6230c3a92e0000a275a0bedf,,122140,question,responseOption2,35606,form,No
+6230c3c72f0000728d2aefb0,,122141,question,questionText,35606,form,Please provide the additional SK NACE classification code
+6230c3da2f0000728d2aefbc,,122142,question,questionText,35606,form,Does your company have any additional SK-NACE classification codes?
+6230c3da2f0000728d2aefbc,,122142,question,responseOption1,35606,form,Yes
+6230c3da2f0000728d2aefbc,,122142,question,responseOption2,35606,form,No
+6230c3ee2f0000728d2af002,,122143,question,questionText,35606,form,Please provide the additional SK NACE classification code
+6230c4012f0000728d2af081,,122144,question,questionText,35606,form,Does your company have any additional SK-NACE classification codes?
+6230c4012f0000728d2af081,,122144,question,responseOption1,35606,form,Yes
+6230c4012f0000728d2af081,,122144,question,responseOption2,35606,form,No
+6230c41a2f0000728d2af0d3,,122145,question,questionText,35606,form,Please provide the additional SK NACE classification code
+6230c4272e0000a275a0c2fb,,122146,question,questionText,35606,form,Does your company have any additional SK-NACE classification codes?
+6230c4272e0000a275a0c2fb,,122146,question,responseOption1,35606,form,Yes
+6230c4272e0000a275a0c2fb,,122146,question,responseOption2,35606,form,No
+6230c43c2f0000728d2af0d5,,122147,question,questionText,35606,form,Please provide the additional SK NACE classification code
+6230c44d2f0000728d2af0d7,,122148,question,questionText,35606,form,Does your company have any additional SK-NACE classification codes?
+6230c44d2f0000728d2af0d7,,122148,question,responseOption1,35606,form,Yes
+6230c44d2f0000728d2af0d7,,122148,question,responseOption2,35606,form,No
+6230c46c2f0000728d2af0d9,,122149,question,questionText,35606,form,Please provide the additional SK NACE classification code
+6230c4b02e0000a275a0c7ea,,122150,question,questionText,35606,form,"Is your company <a href=""https://ec.europa.eu/taxation_customs/vies"" target=""_BLANK"">VAT-registered</a>?"
+6230c4b02e0000a275a0c7ea,,122150,question,responseOption1,35606,form,Yes
+6230c4b02e0000a275a0c7ea,,122150,question,responseOption2,35606,form,No
+6230d2212e0000a275a147b0,,122151,question,description,35606,form,"8, 9 or 10 digits"
+6230d2212e0000a275a147b0,,122151,question,questionText,35606,form,Please enter your company’s VAT registration ID
+6230d23d2e0000a275a14902,,122152,question,questionText,35606,form,"Is your company listed as an <a href=""https://www.financnasprava.sk/sk/elektronicke-sluzby/verejne-sluzby/zoznamy/detail/_b6188880-e315-47f0-895d-a275008afcf2l"" target=""_BLANK""> unreliable VAT payer</a>?"
+6230d23d2e0000a275a14902,,122152,question,responseOption1,35606,form,Yes
+6230d23d2e0000a275a14902,,122152,question,responseOption2,35606,form,No
+6230d2a42f0000728d2b771b,,122153,question,description,35606,form,"Company might have several Registered Bank Account for VAT payer, but we are only requesting the bank account(s) related to their work with Avetta’s clients"
+6230d2a42f0000728d2b771b,,122153,question,questionText,35606,form,"Please enter your <a href=""https://www.financnasprava.sk/sk/elektronicke-sluzby/verejne-sluzby/zoznamy/detail/_3a11bae5-4c60-46fd-b57e-ae0700a98ee7"" target=""_BLANK""> Registered bank account(s) number(s) for VAT payers </a> for the product(s)/service(s) provided to your Client(s) in Avetta"
+6230d30a2f0000728d2b7fe0,,122154,question,description,35606,form,10 digits
+6230d30a2f0000728d2b7fe0,,122154,question,questionText,35606,form,Please enter your Tax ID for the verification of published Financial Statements

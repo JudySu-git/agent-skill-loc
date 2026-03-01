@@ -1,0 +1,39 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+652c9ac0170000905aa200b3,51b8a8cf504943f736183ab0,4021,questionGroup,questionGroupText,20877,form,Turkey
+51b8a97c504943a68d2fdd88,,18507,question,description,20877,form,"<a href=""https://mersis.ticaret.gov.tr/"" target=""_blank"">Central Registration System (MERSİS)</a>"
+51b8a97c504943a68d2fdd88,,18507,question,questionText,20877,form,Is your company registered with the Central Registration System (MERSİS)?
+51b8a97c504943a68d2fdd88,,18507,question,responseOptionNo,20877,form,No
+51b8a97c504943a68d2fdd88,,18507,question,responseOptionYes,20877,form,Yes
+51b8a9b0504943cbab8abf04,,18508,question,questionText,20877,form,Does your company have a MERSİS number?
+51b8a9b0504943cbab8abf04,,18508,question,responseOptionNo,20877,form,No
+51b8a9b0504943cbab8abf04,,18508,question,responseOptionYes,20877,form,Yes
+51b8a9f550494342b98d6393,,18509,question,questionText,20877,form,Please provide your company's MERSİS number.
+51b8aa2f504943fac45dacd3,,18510,question,description,20877,form,"You can consult Value Added Tax (VAT) = Vergi Kimlik Numarası on the Turkish Revenue Administration website: <a href = ""https://www.gib.gov.tr/"" target = ""_blank""> Gelir İdaresi Başkanlığı. </a>"
+51b8aa2f504943fac45dacd3,,18510,question,questionText,20877,form,Does your company have a VAT registration number?
+51b8aa2f504943fac45dacd3,,18510,question,responseOptionNo,20877,form,No
+51b8aa2f504943fac45dacd3,,18510,question,responseOptionYes,20877,form,Yes
+51b8aa73504943b4127b5387,,18511,question,questionText,20877,form,Please provide the VAT registration number.
+652ede5c160000404ce6a44b,5b91415b2d0000c62a76a747,20877,questionGroup,questionGroupText,20877,form,Avetta PQF - Turkey Company Information
+652c9abe1700009262896543,,145858,question,questionText,20877,form,Please indicate your company's business entity / form of business within this country.
+652c9abe1700009262896543,,145858,question,responseOption1,20877,form,Sole Proprietorship
+652c9abe1700009262896543,,145858,question,responseOption2,20877,form,General Partnership
+652c9abe1700009262896543,,145858,question,responseOption3,20877,form,Limited Partnership
+652c9abe1700009262896543,,145858,question,responseOption4,20877,form,Limited Liability Company
+652c9abe1700009262896543,,145858,question,responseOption5,20877,form,Corporation
+652c9abe1700009262896543,,145858,question,responseOption6,20877,form,Cooperative
+652c9abe1700009262896543,,145858,question,responseOption7,20877,form,Branch Office
+652c9abe1700009262896543,,145858,question,responseOption8,20877,form,Foreign entity with no local fiscal presence
+652c9abe1700009262896543,,145858,question,responseOption9,20877,form,Other
+652c9b2c1700006d5aa200b5,,145859,question,questionText,20877,form,Please indicate where your company is established:
+652c9b2c1700006d5aa200b5,,145859,question,responseOption1,20877,form,Yes
+652c9b2c1700006d5aa200b5,,145859,question,responseOption2,20877,form,No
+652c9b481700002d62896545,,145860,question,questionText,20877,form,"If Other, please explain:"
+652c9b481700002d62896545,,145860,question,responseOption1,20877,form,Yes
+652c9b481700002d62896545,,145860,question,responseOption2,20877,form,No
+652c9f881700009b62896549,,145861,question,questionText,20877,form,Please explain why:
+652c9f881700009b62896549,,145861,question,responseOption1,20877,form,Yes
+652c9f881700009b62896549,,145861,question,responseOption2,20877,form,No
+652c9fa21700009b6289654c,,145862,question,description,20877,form,"You can consult Türk İş Sınıflaması (TISK) code on the Turkish Statistical Institute website: <a href = ""https://www.tuik.gov.tr/"" target = ""_blank"">Türkiye İstatistik Kurumu (TÜİK)</a>"
+652c9fa21700009b6289654c,,145862,question,questionText,20877,form,What is your company's primary “Türk İş Sınıflaması (TISK)” code?
+652c9fa21700009b6289654c,,145862,question,responseOption1,20877,form,Yes
+652c9fa21700009b6289654c,,145862,question,responseOption2,20877,form,No

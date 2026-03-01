@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5ed5397b3500000fe6f42e3f,5ed5393a3500000fe6f42d98,30063,questionGroup,questionGroupText,30063,form,Verizon Specific - Brazil Company Information
+5ed539543500000fe6f42de2,,97294,question,questionText,30063,form,Does your company perform work or provide services to Verizon in Brazil?
+5ed539543500000fe6f42de2,,97294,question,responseOption1,30063,form,Yes
+5ed539543500000fe6f42de2,,97294,question,responseOption2,30063,form,No

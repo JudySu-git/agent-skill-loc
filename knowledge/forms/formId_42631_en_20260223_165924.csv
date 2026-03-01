@@ -1,0 +1,65 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6668958e010000c6009f82e8,66620058010000c000452626,42631,questionGroup,questionGroupText,42631,form,Avetta PQF - Nepal Company Information
+666201bc010000c100452697,666201bc010000c100452696,42632,questionGroup,questionGroupText,42631,form,Nepal
+666201e4010000c20045269b,,155882,question,questionText,42631,form,Please indicate your company's business entity / form of business within Nepal.
+666201e4010000c20045269b,,155882,question,responseOption1,42631,form,Sole Proprietorship: A business owned and operated by a single individual
+666201e4010000c20045269b,,155882,question,responseOption2,42631,form,Partnership: A business owned by two or more individuals who share profits and losses
+666201e4010000c20045269b,,155882,question,responseOption3,42631,form,"Private Limited Company (Pvt. Ltd.): A company with limited liability, owned by shareholders"
+666201e4010000c20045269b,,155882,question,responseOption4,42631,form,"Public Limited Company (Ltd.): A company with limited liability, whose shares are offered to the public"
+666201e4010000c20045269b,,155882,question,responseOption5,42631,form,"Limited Liability Company (LLC): A hybrid entity combining features of partnerships and corporations, providing limited liability to its owners"
+666201e4010000c20045269b,,155882,question,responseOption6,42631,form,Cooperative: A business organization owned and operated by a group of individuals for their mutual benefit
+666201e4010000c20045269b,,155882,question,responseOption7,42631,form,Foreign entity with no local fiscal presence
+666201e4010000c20045269b,,155882,question,responseOption8,42631,form,Other
+666203250100004d0045269f,,155883,question,questionText,42631,form,Please indicate where your company is established:
+666203250100004d0045269f,,155883,question,responseOption1,42631,form,Yes
+666203250100004d0045269f,,155883,question,responseOption2,42631,form,No
+66621d130100002f00a76a83,,155932,question,questionText,42631,form,Please explain:
+66621d130100002f00a76a83,,155932,question,responseOption1,42631,form,Yes
+66621d130100002f00a76a83,,155932,question,responseOption2,42631,form,No
+66621d36010000360045270f,,155933,question,description,42631,form,"<a href=""https://ocr.gov.np/"" target=""blank"">Nepal Office of the Company Registrar (OCR)</a>"
+66621d36010000360045270f,,155933,question,questionText,42631,form,"Is your company registered with the Nepal Office of the Company Registrar (OCR), also known as the Nepal Company Registrar's Office (CRO)?"
+66621d36010000360045270f,,155933,question,responseOption1,42631,form,Yes
+66621d36010000360045270f,,155933,question,responseOption2,42631,form,No
+66621d450100004c00a76a89,,155934,question,questionText,42631,form,Please explain:
+66621d450100004c00a76a89,,155934,question,responseOption1,42631,form,Yes
+66621d450100004c00a76a89,,155934,question,responseOption2,42631,form,No
+66621d8f0100004d00452713,,155935,question,questionText,42631,form,"Does your company have a  ""Company Registration Number"" or ""CR Number"" in the OCR/CRO?"
+66621d8f0100004d00452713,,155935,question,responseOption1,42631,form,Yes
+66621d8f0100004d00452713,,155935,question,responseOption2,42631,form,No
+66621dbd010000c200452716,,155936,question,questionText,42631,form,Please explain:
+66621dbd010000c200452716,,155936,question,responseOption1,42631,form,Yes
+66621dbd010000c200452716,,155936,question,responseOption2,42631,form,No
+66621dc8010000bf00452718,,155937,question,questionText,42631,form,
+66621dc8010000bf00452718,,155937,question,responseOption1,42631,form,Yes
+66621dc8010000bf00452718,,155937,question,responseOption2,42631,form,No
+66621ddd010000c20045271b,,155938,question,questionText,42631,form,Is your company registered with the Nepal Inland Revenue Department (IRD)?
+66621ddd010000c20045271b,,155938,question,responseOption1,42631,form,Yes
+66621ddd010000c20045271b,,155938,question,responseOption2,42631,form,No
+66621de50100004d0045271e,,155940,question,questionText,42631,form,Please explain:
+66621de50100004d0045271e,,155940,question,responseOption1,42631,form,Yes
+66621de50100004d0045271e,,155940,question,responseOption2,42631,form,No
+66621df3010000bf00452723,,155941,question,questionText,42631,form,Does your company have a Permanent Account Number (PAN) with the Nepal Inland Revenue Department (IRD)?
+66621df3010000bf00452723,,155941,question,responseOption1,42631,form,Yes
+66621df3010000bf00452723,,155941,question,responseOption2,42631,form,No
+66621dff0100003600452726,,155942,question,questionText,42631,form,Please explain:
+66621dff0100003600452726,,155942,question,responseOption1,42631,form,Yes
+66621dff0100003600452726,,155942,question,responseOption2,42631,form,No
+66621e120100003600452729,,155943,question,questionText,42631,form,Please provide your company's Permanent Account Number (PAN).
+66621e120100003600452729,,155943,question,responseOption1,42631,form,Yes
+66621e120100003600452729,,155943,question,responseOption2,42631,form,No
+66621e1f010000360045272c,,155944,question,questionText,42631,form,Does your company have a VAT registration number?
+66621e1f010000360045272c,,155944,question,responseOption1,42631,form,Yes
+66621e1f010000360045272c,,155944,question,responseOption2,42631,form,No
+66621e2c010000bf0045272e,,155945,question,questionText,42631,form,Please explain:
+66621e2c010000bf0045272e,,155945,question,responseOption1,42631,form,Yes
+66621e2c010000bf0045272e,,155945,question,responseOption2,42631,form,No
+66621e3b0100004b00a76a95,,155946,question,questionText,42631,form,Please provide the VAT registration number.
+66621e3b0100004b00a76a95,,155946,question,responseOption1,42631,form,Yes
+66621e3b0100004b00a76a95,,155946,question,responseOption2,42631,form,No
+66621e470100004a00a76a99,,155947,question,description,42631,form,"<a href=""https://www.ird.gov.np/public/pdf/2122820179.pdf"" target=""blank"">Nepal Standard Industrial Classification</a>"
+66621e470100004a00a76a99,,155947,question,questionText,42631,form,Do you know your company's Industry Classification code in Nepal?
+66621e470100004a00a76a99,,155947,question,responseOption1,42631,form,Yes
+66621e470100004a00a76a99,,155947,question,responseOption2,42631,form,No
+66621e620100003200452731,,155948,question,questionText,42631,form,Please provide your company's Industry Classification code in Nepal.
+66621e620100003200452731,,155948,question,responseOption1,42631,form,Yes
+66621e620100003200452731,,155948,question,responseOption2,42631,form,No

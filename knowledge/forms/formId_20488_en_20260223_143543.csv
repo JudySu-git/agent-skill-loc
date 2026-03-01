@@ -1,0 +1,33 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65808fdc1a0000fa05499f3c,4fd0fc0650494395de9aa74a,2719,questionGroup,questionGroupText,20488,form,Sweden
+4fd0fdbb504943dd494a6570,,12263,question,description,20488,form,"<a href=""https://www.bolagsverket.se"" target=""_blank"">www.bolagsverket.se</a>"
+4fd0fdbb504943dd494a6570,,12263,question,questionText,20488,form,Is your company registered with the Swedish Companies Registration Office?
+4fd0fdbb504943dd494a6570,,12263,question,responseOptionNo,20488,form,No
+4fd0fdbb504943dd494a6570,,12263,question,responseOptionYes,20488,form,Yes
+4fd0fe15504943ac1f8d6f4a,,12264,question,description,20488,form,"The Companies Registration Office (bolagsverket)  registers companies and receives annual reports. The Verksamt.se has been developed by three authoruities in collaboration the Bolagsverket (Companies registration office), Skatteverket (Regional growth and Tillväxtverket (taxation office).This website provides structured information  and services to anyone considering,starting,running developing or closing down a business."
+4fd0fe15504943ac1f8d6f4a,,12264,question,questionText,20488,form,Please provide your Company Registration number.
+4fd0fec7504943aeccc1b1a0,,12265,question,description,20488,form,VAT number in Sweden is called the Moms number and has 12 characters eg (123456789102) for international and the local Moms number has 10 characters.
+4fd0fec7504943aeccc1b1a0,,12265,question,questionText,20488,form,Does your company have a Mervardeskatt/Moms number?
+4fd0fec7504943aeccc1b1a0,,12265,question,responseOptionNo,20488,form,No
+4fd0fec7504943aeccc1b1a0,,12265,question,responseOptionYes,20488,form,Yes
+4fd0ff47504943bc12674546,,12266,question,questionText,20488,form,Please provide your Moms number.
+4fd0ff47504943bc12674546,,12266,question,responseOptionNo,20488,form,No
+4fd0ff47504943bc12674546,,12266,question,responseOptionYes,20488,form,Yes
+658094bf1a00009b0549a01d,5b6fb8503b0000c04320e512,20488,questionGroup,questionGroupText,20488,form,Avetta PQF - Sweden Company Information
+637e4789170000b4002b385c,,133925,question,questionText,20488,form,Is your company approved for F-skatt?
+637e4789170000b4002b385c,,133925,question,responseOption1,20488,form,Yes
+637e4789170000b4002b385c,,133925,question,responseOption2,20488,form,No
+658090e61a0000fe05499f42,,148456,question,questionText,20488,form,Please indicate your company's business entity / form of business within this country.
+658090e61a0000fe05499f42,,148456,question,responseOption1,20488,form,Sole proprietorship
+658090e61a0000fe05499f42,,148456,question,responseOption2,20488,form,Limited Liability Company
+658090e61a0000fe05499f42,,148456,question,responseOption3,20488,form,Limited Partnership
+658090e61a0000fe05499f42,,148456,question,responseOption4,20488,form,Trading Partnership
+658090e61a0000fe05499f42,,148456,question,responseOption5,20488,form,Branch Office
+658090e61a0000fe05499f42,,148456,question,responseOption6,20488,form,Foreign entity with no local fiscal presence
+658090e61a0000fe05499f42,,148456,question,responseOption7,20488,form,Other
+658091cd180000543a6e63a5,,148457,question,questionText,20488,form,Please indicate where your company is established:
+658091cd180000543a6e63a5,,148457,question,responseOption1,20488,form,Yes
+658091cd180000543a6e63a5,,148457,question,responseOption2,20488,form,No
+658091da1a00009b05499f47,,148458,question,questionText,20488,form,"If Other, please explain:"
+658091da1a00009b05499f47,,148458,question,responseOption1,20488,form,Yes
+658091da1a00009b05499f47,,148458,question,responseOption2,20488,form,No

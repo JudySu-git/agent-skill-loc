@@ -1,0 +1,33 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+652874481b00003a4c137a50,5011138e504943a160208ae2,2794,questionGroup,questionGroupText,20410,form,Norway
+5021f99450494326eec2d616,,12767,question,description,20410,form,https://www.brreg.no/en/?nocache=1666269848387.
+5021f99450494326eec2d616,,12767,question,questionText,20410,form,Is your company registered at the Brønnøysund Register Center?
+5021f99450494326eec2d616,,12767,question,responseOptionNo,20410,form,No
+5021f99450494326eec2d616,,12767,question,responseOptionYes,20410,form,Yes
+5021f9f35049437964f673a0,,12768,question,questionText,20410,form,"If Yes, Please provide your registration number:"
+5021fa295049438414910e1a,,12769,question,questionText,20410,form,
+5021fa295049438414910e1a,,12769,question,responseOptionNo,20410,form,No
+5021fa295049438414910e1a,,12769,question,responseOptionYes,20410,form,Yes
+5021fa65504943490799fb5e,,12770,question,questionText,20410,form,"If Yes, Please provide your 'MVA number:"
+6529681c1900008761734d90,5b45357d2200006700c4b0a5,20410,questionGroup,questionGroupText,20410,form,Avetta PQF - Norway Company Information
+65287446170000ce5c17b738,,145829,question,questionText,20410,form,Please indicate your company's business entity / form of business within this country.
+65287446170000ce5c17b738,,145829,question,responseOption1,20410,form,Sole Proprietorship
+65287446170000ce5c17b738,,145829,question,responseOption2,20410,form,General Partnership
+65287446170000ce5c17b738,,145829,question,responseOption3,20410,form,Limited Partnership
+65287446170000ce5c17b738,,145829,question,responseOption4,20410,form,Limited Liability Company
+65287446170000ce5c17b738,,145829,question,responseOption5,20410,form,Corporation
+65287446170000ce5c17b738,,145829,question,responseOption6,20410,form,Branch Office
+65287446170000ce5c17b738,,145829,question,responseOption7,20410,form,Foreign entity with no local fiscal presence
+65287446170000ce5c17b738,,145829,question,responseOption8,20410,form,Other
+652874b4170000d85c17b73a,,145830,question,questionText,20410,form,Please indicate where your company is established:
+652874b4170000d85c17b73a,,145830,question,responseOption1,20410,form,Yes
+652874b4170000d85c17b73a,,145830,question,responseOption2,20410,form,No
+652874ef1b0000324c137a55,,145831,question,questionText,20410,form,"If Other, please explain:\n\n"
+652874ef1b0000324c137a55,,145831,question,responseOption1,20410,form,Yes
+652874ef1b0000324c137a55,,145831,question,responseOption2,20410,form,No
+652875e01b00000b07137a9b,,145832,question,questionText,20410,form,Please explain why:
+652875e01b00000b07137a9b,,145832,question,responseOption1,20410,form,Yes
+652875e01b00000b07137a9b,,145832,question,responseOption2,20410,form,No
+6528760a1b00003a4c137a9d,,145833,question,questionText,20410,form,
+6528760a1b00003a4c137a9d,,145833,question,responseOption1,20410,form,Yes
+6528760a1b00003a4c137a9d,,145833,question,responseOption2,20410,form,No

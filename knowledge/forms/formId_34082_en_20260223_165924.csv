@@ -1,0 +1,49 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+658b6dce1800004d3efec8aa,6185b0652e00000f12a484be,34082,questionGroup,questionGroupText,34082,form,Avetta PQF - Ghana Company Information
+6524663e17000012528cd957,6185b1ac2e00000f12a4858a,34083,questionGroup,questionGroupText,34082,form,General
+6185b7de2e00000f12a4cc9b,6185b7de2e00000f12a4cc9a,34088,questionGroup,questionGroupText,34082,form,Indigenous Company 
+6185b7fe2d000021a7d4984e,6185b7fe2d000021a7d4984d,34089,questionGroup,questionGroupText,34082,form,Facilities
+6185b31e2e00000f12a49dc0,,115767,question,questionText,34082,form,"Is your company registered with the <a href=""https://rgd.gov.gh/index.html""target=""blank"">Registrar-General’s Department (RGD)</a>?"
+6185b31e2e00000f12a49dc0,,115767,question,responseOption1,34082,form,Yes
+6185b31e2e00000f12a49dc0,,115767,question,responseOption2,34082,form,No
+6185b3802e00000f12a4a17d,,115769,question,questionText,34082,form,"If Yes, please provide a copy of your Form 3."
+6185b39a2e00000f12a4a269,,115771,question,questionText,34082,form,"Is your company registered with <a href=""https://gra.gov.gh/""target=""blank"">Ghana Revenue Authority (GRA)</a>?"
+6185b39a2e00000f12a4a269,,115771,question,responseOption1,34082,form,Yes
+6185b39a2e00000f12a4a269,,115771,question,responseOption2,34082,form,No
+6185b4062d000021a7d46d71,,115773,question,questionText,34082,form,"If Yes, Please provide your Company’s <a href=""https://gra.gov.gh/tin/""target=""blank"">TIN </a>"
+6185b4e92d000021a7d47539,,115778,question,description,34082,form,"""Indigenous Ghanaian company"" means a company incorporated under the Companies Act, 1963 (Act 179)\nthat has at least fifty-one percent of its equity owned by a citizen of Ghana; and\nthat has Ghanaian citizens holding at least eighty percent of executive and senior management positions and one hundred percent of non-managerial and other positions\n\n\n"
+6185b4e92d000021a7d47539,,115778,question,questionText,34082,form,Is your company an Indigenous Ghanaian company? 
+6185b4e92d000021a7d47539,,115778,question,responseOption1,34082,form,Yes
+6185b4e92d000021a7d47539,,115778,question,responseOption2,34082,form,No
+6185b5982e00000f12a4b5cb,,115782,question,questionText,34082,form,"If no, do you have a joint venture in place with an Indigenous Ghanaian company?"
+6185b5982e00000f12a4b5cb,,115782,question,responseOption1,34082,form,Yes
+6185b5982e00000f12a4b5cb,,115782,question,responseOption2,34082,form,No
+6185b5ba2e00000f12a4b6b4,,115784,question,questionText,34082,form,Name of joint venture company
+6185b5d02d000021a7d47c6d,,115785,question,questionText,34082,form,Names of your partners together with registered address(es) and registration number(s): 
+6185b5ea2e00000f12a4b81d,,115786,question,questionText,34082,form,"What fixed infrastructure, mobile plants and equipment do you have in Ghana to support your in-country operations: "
+6524663c1700009d5207062f,,145755,question,questionText,34082,form,"If No, please provide an explanation:"
+6524663c1700009d5207062f,,145755,question,responseOption1,34082,form,Yes
+6524663c1700009d5207062f,,145755,question,responseOption2,34082,form,No
+652466db170000a352070632,,145756,question,questionText,34082,form,"If No, please provide an explanation:"
+652466db170000a352070632,,145756,question,responseOption1,34082,form,Yes
+652466db170000a352070632,,145756,question,responseOption2,34082,form,No
+658b5c6a1700005e4a61b9d5,,149193,question,questionText,34082,form,Please select your business entity type in Ghana:
+658b5c6a1700005e4a61b9d5,,149193,question,responseOption1,34082,form,Sole proprietorship
+658b5c6a1700005e4a61b9d5,,149193,question,responseOption2,34082,form,Partnership
+658b5c6a1700005e4a61b9d5,,149193,question,responseOption3,34082,form,Company limited by shares
+658b5c6a1700005e4a61b9d5,,149193,question,responseOption4,34082,form,Company limited by guarantee
+658b5c6a1700005e4a61b9d5,,149193,question,responseOption5,34082,form,Unlimited company
+658b5c6a1700005e4a61b9d5,,149193,question,responseOption6,34082,form,External company
+658b5c6a1700005e4a61b9d5,,149193,question,responseOption7,34082,form,Limited liability partnership (LLP)
+658b5c6a1700005e4a61b9d5,,149193,question,responseOption8,34082,form,Joint venture
+658b5c6a1700005e4a61b9d5,,149193,question,responseOption9,34082,form,Other
+658b5cc7180000183efebf9d,,149194,question,questionText,34082,form,If Other - Please explain
+658b5cc7180000183efebf9d,,149194,question,responseOption1,34082,form,Yes
+658b5cc7180000183efebf9d,,149194,question,responseOption2,34082,form,No
+658b614d180000183efec208,,149206,question,description,34082,form,"<a href=""/file-preview.html?fileId=2023-12-26T23%3A31%3A57.018Z~~*R0xTUzYgSVNJQyBDb2Rlcy5wZGY%3D"" \ntarget=""_Blank"">ISIC Reference</a>"
+658b614d180000183efec208,,149206,question,questionText,34082,form,Please select your primary Industry Classification Code in Ghana.
+658b614d180000183efec208,,149206,question,responseOption1,34082,form,Yes
+658b614d180000183efec208,,149206,question,responseOption2,34082,form,No
+658b640b180000233efec339,,149253,question,questionText,34082,form,Please select your secondary Industry Classification Code in Ghana.
+658b640b180000233efec339,,149253,question,responseOption1,34082,form,Yes
+658b640b180000233efec339,,149253,question,responseOption2,34082,form,No

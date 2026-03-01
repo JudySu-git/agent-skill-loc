@@ -1,0 +1,23 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+559c3e735049436cfd729c19,559c3e735049436cfd729c19,7086,questionGroup,questionGroupText,20418,form,Romania
+5c182de93600001ee742e544,5b468602230000fd0f46d015,20418,questionGroup,questionGroupText,20418,form,Avetta PQF - Romania Company Information
+559c54a1504943740255e73d,,31897,question,description,20418,form,"<a href=""https://portal.onrc.ro/ONRCPortalWeb/ONRCPortal.portal"" target=""_blank"">National Trade Register Office (ONRC)</a>"
+559c54a1504943740255e73d,,31897,question,questionText,20418,form,Is your company registered with the National Trade Register Office (ONRC)?
+559c54a1504943740255e73d,,31897,question,responseOptionNo,20418,form,No
+559c54a1504943740255e73d,,31897,question,responseOptionYes,20418,form,Yes
+559c54ef504943417b35b3c0,,31898,question,questionText,20418,form,What is your company's registration number in trade register?
+559c54f3504943381067361e,,31899,question,questionText,20418,form,Is the name of your company registered with the National Trade Register Office (ONRC) different from the company name as it appears on your Avetta account?
+559c54f3504943381067361e,,31899,question,responseOptionNo,20418,form,No
+559c54f3504943381067361e,,31899,question,responseOptionYes,20418,form,Yes
+559c55125049435bdd85b289,,31900,question,questionText,20418,form,What is the official name of your company as registered with the National Trade Register Office (ONRC)?
+559c552550494388e31b591e,,31901,question,description,20418,form,"<a href=""https://www.mfinante.ro/acasa.html?method=inceput&pagina=acasa"" target=""_blank"">Ministry of Public Finance</a>"
+559c552550494388e31b591e,,31901,question,questionText,20418,form,Is your company registered with the Ministry of Public Finance?
+559c552550494388e31b591e,,31901,question,responseOptionNo,20418,form,No
+559c552550494388e31b591e,,31901,question,responseOptionYes,20418,form,Yes
+559c5544504943be13845674,,31902,question,questionText,20418,form,What is your company's Unique Registration Code (CUI)?
+559c55795049434b75cc4894,,31903,question,description,20418,form,"The CAEN code can be referenced on the <a href=""https://insse.ro/cms/ro/caen"" target=""_blank"">National Institute of Statistics (INS)</a> website."
+559c55795049434b75cc4894,,31903,question,questionText,20418,form,What is your company's primary Classification of Activities from National Economy (CAEN) Code?
+559c557a5049433b0a9258ee,,31904,question,description,20418,form,"The CAEN code can be referenced on the <a href=""https://insse.ro/cms/ro/caen"" target=""_blank"">National Institute of Statistics (INS)</a> website."
+559c557a5049433b0a9258ee,,31904,question,questionText,20418,form,What is your company's secondary Classification of Activities from National Economy (CAEN) Code?
+559c558f5049433a9e4e0c79,,31905,question,description,20418,form,"Example: S.A., S.C.A., S.R.L., etc."
+559c558f5049433a9e4e0c79,,31905,question,questionText,20418,form,Please indicate your company's business entity / form of business within this country.

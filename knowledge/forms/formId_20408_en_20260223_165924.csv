@@ -1,0 +1,50 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+526961f7504943fec6287fd6,526961f7504943fec6287fd6,4666,questionGroup,questionGroupText,20408,form,NAF
+4f3b85e9504943e0cfdd3ce7,,10610,question,questionText,20408,form,What is your company's TVA registration number?
+4f3b8628504943afc1c70fbe,,10611,question,description,20408,form,Typically contains 9 digits
+4f3b8628504943afc1c70fbe,,10611,question,questionText,20408,form,Please provide your SIREN number:
+4f3b864a504943d40acf0703,,10612,question,description,20408,form,It Identifies a business entity and its specific location or establishment.
+4f3b864a504943d40acf0703,,10612,question,questionText,20408,form,"Does your company have a <a href\t= ""https://sirene.fr/sirene/public/accueil""target=""_BLANK_"">SIRET  (Système Informatique du Répertoire des Entreprises et de Leurs Établissement)</a>\nnumber?\n\n"
+4f3b864a504943d40acf0703,,10612,question,responseOptionNo,20408,form,No
+4f3b864a504943d40acf0703,,10612,question,responseOptionYes,20408,form,Yes
+4f3b86965049438f024df798,,10613,question,description,20408,form,Typically contains 14 digits
+4f3b86965049438f024df798,,10613,question,questionText,20408,form,Please provide your SIRET number:
+65809f7a1a00009b0549a09a,5b400e36230000600846b1f5,20408,questionGroup,questionGroupText,20408,form,Avetta PQF - France Company Information
+52696400504943d19822fe66,,21412,question,description,20408,form,NAF is a French industry code standardization.
+52696400504943d19822fe66,,21412,question,linkhttps://www.insee.fr/fr/information/2120875,20408,form,Click here to locate your company's NAF code
+52696400504943d19822fe66,,21412,question,questionText,20408,form,What is your primary NAF Code? \n
+5269641d504943fa2fa9f374,,21413,question,linkhttps://www.insee.fr/fr/information/2120875,20408,form,Click here to locate your company's NAF code
+5269641d504943fa2fa9f374,,21413,question,questionText,20408,form,What is your secondary NAF Code? \n
+6580962c180000523a6e6434,,148459,question,questionText,20408,form,Please indicate your company's business entity / form of business within this country.
+6580962c180000523a6e6434,,148459,question,responseOption1,20408,form,Sole Proprietorship
+6580962c180000523a6e6434,,148459,question,responseOption2,20408,form,Single-Member Limited Liability Company
+6580962c180000523a6e6434,,148459,question,responseOption3,20408,form,Limited Liability Company
+6580962c180000523a6e6434,,148459,question,responseOption4,20408,form,Corporation
+6580962c180000523a6e6434,,148459,question,responseOption5,20408,form, General Partnership
+6580962c180000523a6e6434,,148459,question,responseOption6,20408,form,Limited Partnership
+6580962c180000523a6e6434,,148459,question,responseOption7,20408,form,Worker Cooperative
+6580962c180000523a6e6434,,148459,question,responseOption8,20408,form,Foreign entity with no local fiscal presence
+6580962c180000523a6e6434,,148459,question,responseOption9,20408,form,Other
+658096611a00009b0549a02e,,148460,question,questionText,20408,form,Please indicate where your company is established:
+658096611a00009b0549a02e,,148460,question,responseOption1,20408,form,Yes
+658096611a00009b0549a02e,,148460,question,responseOption2,20408,form,No
+65809671180000543a6e6437,,148461,question,questionText,20408,form,"If Other, please explain:"
+65809671180000543a6e6437,,148461,question,responseOption1,20408,form,Yes
+65809671180000543a6e6437,,148461,question,responseOption2,20408,form,No
+658097ee1800005e3a6e6443,,148466,question,description,20408,form,"To obtain TVA information visit <a href\t= ""https://www.impots.gouv.fr/accueil""target=""_BLANK_"">Service des Impôts aux Entreprises (SIE)</a>.\n\n"
+658097ee1800005e3a6e6443,,148466,question,questionText,20408,form,Does your company have TVA registration number?
+658097ee1800005e3a6e6443,,148466,question,responseOption1,20408,form,Yes
+658097ee1800005e3a6e6443,,148466,question,responseOption2,20408,form,No
+658098691a0000b83849a04c,,148469,question,questionText,20408,form,Please explain why:
+658098691a0000b83849a04c,,148469,question,responseOption1,20408,form,Yes
+658098691a0000b83849a04c,,148469,question,responseOption2,20408,form,No
+658099661a0000090349a054,,148471,question,description,20408,form,It identifies a business entity.
+658099661a0000090349a054,,148471,question,questionText,20408,form,"Does your company have <a href\t= ""https://sirene.fr/sirene/public/accueil""target=""_BLANK_"">SIREN (Système National Informatique pour le Répertoire des Entreprises et des Etablissements)</a> number?\n\n"
+658099661a0000090349a054,,148471,question,responseOption1,20408,form,Yes
+658099661a0000090349a054,,148471,question,responseOption2,20408,form,No
+658099c2180000563a6e644f,,148472,question,questionText,20408,form,Please explain why:
+658099c2180000563a6e644f,,148472,question,responseOption1,20408,form,Yes
+658099c2180000563a6e644f,,148472,question,responseOption2,20408,form,No
+65809a6d1800005f3a6e6457,,148473,question,questionText,20408,form,Please explain why:
+65809a6d1800005f3a6e6457,,148473,question,responseOption1,20408,form,Yes
+65809a6d1800005f3a6e6457,,148473,question,responseOption2,20408,form,No

@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+60f08e15430000a8178121cd,60f08e15430000a8178121cd,33514,questionGroup,questionGroupText,33515,form,Canada
+60f8820942000001e5a04665,60f08e15430000a8178121cc,33515,questionGroup,questionGroupText,33515,form,QuadReal PQF - Canada Company Information
+60f08e15430000a8178121ce,,113252,question,questionText,33515,form,Does your company currently have a COR (certificate of recognition) or a SECOR (small employer certificate of recognition)?
+60f08e15430000a8178121ce,,113252,question,responseOptionNo,33515,form,No
+60f08e15430000a8178121ce,,113252,question,responseOptionYes,33515,form,Yes
+60f08e15430000a8178121cf,,113253,question,description,33515,form,"Example: Corporation, GP, LP, etc."
+60f08e15430000a8178121cf,,113253,question,questionText,33515,form,Please indicate your company's business entity / form of business within this country.
+60f08e15430000a8178121d0,,113254,question,questionText,33515,form,What is your company’s tax identification number?

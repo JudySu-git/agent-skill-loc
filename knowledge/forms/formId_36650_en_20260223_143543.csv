@@ -1,0 +1,19 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6317b3f52f0000e08f72e393,62b08a0230000014b6ae9f6e,36650,questionGroup,questionGroupText,36650,form,Avetta PQF - Bulgaria Company Information
+63168fe82f0000298cc04a48,62b08a7d2f0000388ba93359,36651,questionGroup,questionGroupText,36650,form,Bulgaria
+62b08bf92f0000388ba942d0,,128530,question,questionText,36650,form,"Is your company registered with  <a href=""https://portal.registryagency.bg/CR/Reports/VerificationPersonOrg"" target=""_BLANK"">Commercial Register or BULSTAT Register</a>?"
+62b08bf92f0000388ba942d0,,128530,question,responseOption1,36650,form,Yes
+62b08bf92f0000388ba942d0,,128530,question,responseOption2,36650,form,No
+62b08d9c2f0000388ba99e13,,128531,question,questionText,36650,form,"If yes, please provide your unified identification code (EIK)."
+62b08dbf2f0000388ba9a05a,,128532,question,description,36650,form,"<a href=""https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fportal.nra.bg&c=E,1,WgckteuikzCp1svMG2afgfWmWEBtAn2YoE5lU6OM_Qi78dxoDz8hn7jb2qlA6OCsMyDiGVIMdXZ7Fon-2jBuPDyKjk1J4ePxaFjExSzAj7C5_0l_Ns8,&typo=1"" target=""_BLANK"">https://portal.nra.bg/</a>"
+62b08dbf2f0000388ba9a05a,,128532,question,questionText,36650,form,Please provide your company’s  VAT Taxpayer Registry number.
+63168fe72e0000cd16431adf,,130930,question,questionText,36650,form,Please indicate your company's business entity / form of business within this country:
+63168fe72e0000cd16431adf,,130930,question,responseOption1,36650,form,Single person Limited Liability Company (EOOD)
+63168fe72e0000cd16431adf,,130930,question,responseOption2,36650,form,Private Limited Liability Company (OOD)
+63168fe72e0000cd16431adf,,130930,question,responseOption3,36650,form,Sole Owner (ET)
+63168fe72e0000cd16431adf,,130930,question,responseOption4,36650,form,Freelance
+63168fe72e0000cd16431adf,,130930,question,responseOption5,36650,form,Sole Owner Joint-Stock Company (EAD)
+63168fe72e0000cd16431adf,,130930,question,responseOption6,36650,form,Public Limited Company (AD)
+63168fe72e0000cd16431adf,,130930,question,responseOption7,36650,form,Branch
+631692c32f0000290ec05c7f,,130931,question,description,36650,form,"<a href=""/file-preview.html?fileId=2022-09-06T20:42:14.222Z~~~Economic_Activity_Classifier_2008_002.pdf"" target=""_BLANK"">Economic Activity Classifier 2008</a>"
+631692c32f0000290ec05c7f,,130931,question,questionText,36650,form,Please provide your company’s industry classification codes

@@ -1,0 +1,39 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63728aab160000d002bca376,5dc078853500008bc5e9dbac,27679,questionGroup,questionGroupText,27679,form,Avetta PQF - United Arab Emirates Company Information
+637288c11600001303bc9846,5dc078ff3600000431f24b48,27680,questionGroup,questionGroupText,27679,form,United Arab Emirates
+5dc079253600000431f2505c,,87541,question,description,27679,form,"Registration for membership at the Chamber of Commerce and Industry is required for all companies operating out of the United Arab Emirates (UAE). There is a Chamber of Commerce and Industry for each of the Emirates:<br>\n<a href=""https://www.abudhabichamber.ae/en"" target=""_blank"">Abu Dhabi Chamber</a><br>\n<a href=""https://www.ajmanchamber.ae/en/"" target=""_blank"">Ajman Chamber</a><br>\n<a href=""https://www.dubaichamber.com/en/home/"" target=""_blank"">Dubai Chamber</a><br>\n<a href=""https://www.onlinechamber.ae/english.php"" target=""_blank"">Fujairah Chamber</a><br>\n<a href=""https://www.rakchamber.ae/en/home"" target=""_blank"">Ras al-Khaimah Chamber</a><br>\n<a href=""https://www.sharjah.gov.ae/"" target=""_blank"">Sharjah Chamber</a><br>\n<a href=""https://uaqchamber.ae/"" target=""_blank"">Umm al-Quwain Chamber</a><br>"
+5dc079253600000431f2505c,,87541,question,questionText,27679,form,Is your company registered with the Chamber of Commerce and Industry?
+5dc079253600000431f2505c,,87541,question,responseOption1,27679,form,Yes
+5dc079253600000431f2505c,,87541,question,responseOption2,27679,form,No
+5dc07966340000cf193677d9,,87542,question,questionText,27679,form,Does your company have a company registration number?
+5dc07966340000cf193677d9,,87542,question,responseOption1,27679,form,Yes
+5dc07966340000cf193677d9,,87542,question,responseOption2,27679,form,No
+5dc0799c3600000431f266b0,,87544,question,questionText,27679,form,Please provide your company registration number.
+5dc079da360000e61a7954f3,,87547,question,questionText,27679,form,What Emirate or country is your company incorporated in?
+5dc079da360000e61a7954f3,,87547,question,responseOption1,27679,form,Abu Dhabi
+5dc079da360000e61a7954f3,,87547,question,responseOption2,27679,form,Ajman
+5dc079da360000e61a7954f3,,87547,question,responseOption3,27679,form,Dubai
+5dc079da360000e61a7954f3,,87547,question,responseOption4,27679,form,Fujairah
+5dc079da360000e61a7954f3,,87547,question,responseOption5,27679,form,Ras al-Khaimah
+5dc079da360000e61a7954f3,,87547,question,responseOption6,27679,form,Sharjah
+5dc079da360000e61a7954f3,,87547,question,responseOption7,27679,form,Umm al-Quwain
+5dc079da360000e61a7954f3,,87547,question,responseOption8,27679,form,Arab Gulf Cooperation Country (AGCC)
+5dc079da360000e61a7954f3,,87547,question,responseOption9,27679,form,Other Country
+5dc07a543500008bc5ea1e56,,87552,question,questionText,27679,form,Percent Owned by UAE National. Example: 51
+5dc07a96340000cf1936acdc,,87553,question,questionText,27679,form,Name of Owner(s);\nNationality;\n% of Ownership
+5dc07acc340000cf1936b496,,87554,question,questionText,27679,form,Is your company sponsored to work in the UAE?
+5dc07acc340000cf1936b496,,87554,question,responseOption1,27679,form,Yes
+5dc07acc340000cf1936b496,,87554,question,responseOption2,27679,form,No
+5dc07b4e3500008bc5ea3e3a,,87555,question,questionText,27679,form,"If yes, please provide details of your sponsor (such as Name of Sponsors, Address, Tel. No., Fax No., and E-Mail)"
+5dc07b81340000cf1936c7bd,,87556,question,description,27679,form,"Example: Inc., LLC, PJSC, etc."
+5dc07b81340000cf1936c7bd,,87556,question,questionText,27679,form,Please indicate your company's business entity / form of business within this country.
+637288c01600002f03bc9845,,133488,question,questionText,27679,form,Does your company have a valid trade/commercial/professional license?
+637288c01600002f03bc9845,,133488,question,responseOption1,27679,form,Yes
+637288c01600002f03bc9845,,133488,question,responseOption2,27679,form,No
+637288f61600001303bc98d1,,133490,question,questionText,27679,form,Please provide a copy of your trade/commercial/professional license(s)
+63728917160000d002bc9a9d,,133491,question,questionText,27679,form,Please provide a copy of your trade/commercial/professional license(s)
+6372892a160000d002bc9b91,,133492,question,questionText,27679,form,Please provide a copy of your trade/commercial/professional license(s)
+637289ab180000f902d5e5a0,,133493,question,questionText,27679,form,Is your company registered for VAT?
+637289ab180000f902d5e5a0,,133493,question,responseOption1,27679,form,Yes
+637289ab180000f902d5e5a0,,133493,question,responseOption2,27679,form,No
+637289d61600001403bc9f81,,133494,question,questionText,27679,form,Please provide your TRN

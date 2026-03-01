@@ -1,0 +1,39 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6335f07a2f00007b6d1d6b46,62acaeff2e0000991c298975,36637,questionGroup,questionGroupText,36637,form,Avetta PQF - Sri Lanka Company Information
+6335edb42f0000c2f11d432d,62acaf132f0000b22e25b2f0,36638,questionGroup,questionGroupText,36637,form,Sri Lanka
+62acaf1f2e0000991c298acd,,128479,question,questionText,36637,form, Please indicate the type of your company:
+62acaf1f2e0000991c298acd,,128479,question,responseOption1,36637,form,Sole Proprietor
+62acaf1f2e0000991c298acd,,128479,question,responseOption2,36637,form,Partnership
+62acaf1f2e0000991c298acd,,128479,question,responseOption3,36637,form,Company Limited Guarantee
+62acaf1f2e0000991c298acd,,128479,question,responseOption4,36637,form, Limited Liability Company (LLC)
+62acaf1f2e0000991c298acd,,128479,question,responseOption5,36637,form, Public Limited Company (PLC)
+62acaf1f2e0000991c298acd,,128479,question,responseOption6,36637,form,Sri Lanka Branch office
+62acaf1f2e0000991c298acd,,128479,question,responseOption7,36637,form,Sri Lanka Representative office
+6335edc72f0000cbf21d43c9,,131583,question,questionText,36637,form,Please provide your company’s registration number.
+6335ede32f00002ffe1d45dc,,131584,question,questionText,36637,form,Is your company registered with Board of Investment (BOI) Sri Lanka?
+6335ede32f00002ffe1d45dc,,131584,question,responseOption1,36637,form,Yes
+6335ede32f00002ffe1d45dc,,131584,question,responseOption2,36637,form,No
+6335edfd2f0000a0d21d4722,,131585,question,questionText,36637,form,"If Yes, Please provide BOI registration number:"
+6335ee0a2f0000919d5539c9,,131586,question,questionText,36637,form,Is your company registered with Inland Revenue Sri Lanka (IRD) as a tax payer?
+6335ee0a2f0000919d5539c9,,131586,question,responseOption1,36637,form,Yes
+6335ee0a2f0000919d5539c9,,131586,question,responseOption2,36637,form,No
+6335ee212f00009dc3553a76,,131587,question,questionText,36637,form,"If Yes, Please provide Tax Payer Identification Number (TIN)"
+6335ee782f00007ad8554088,,131588,question,questionText,36637,form,Is your company registered for Value Added Tax (VAT)?
+6335ee782f00007ad8554088,,131588,question,responseOption1,36637,form,Yes
+6335ee782f00007ad8554088,,131588,question,responseOption2,36637,form,No
+6335ee8b2f000002db5541ed,,131589,question,questionText,36637,form,"If Yes, Please provide your company’s VAT Taxpayer Registry number:"
+6335ee9a2f0000221c1d4e8b,,131590,question,questionText,36637,form,Is your company registered for Employees Provident Fund (EPF)?
+6335ee9a2f0000221c1d4e8b,,131590,question,responseOption1,36637,form,Yes
+6335ee9a2f0000221c1d4e8b,,131590,question,responseOption2,36637,form,No
+6335eeb42f0000eed6554473,,131591,question,questionText,36637,form,"If Yes, please provide employer registration number:"
+6335eec12f000074231d5100,,131592,question,questionText,36637,form,Is your company registered for Employees Trust Fund (ETF)?
+6335eec12f000074231d5100,,131592,question,responseOption1,36637,form,Yes
+6335eec12f000074231d5100,,131592,question,responseOption2,36637,form,No
+6335eed52f000056e255465c,,131593,question,questionText,36637,form,Is your company a member of National Chamber of Commerce of Sri Lanka (NCCSL)?
+6335eed52f000056e255465c,,131593,question,responseOption1,36637,form,Yes
+6335eed52f000056e255465c,,131593,question,responseOption2,36637,form,No
+6335eeea2f000058221d52f2,,131594,question,questionText,36637,form,"If Yes, please provide NCCSL Registration number"
+6335eef92f0000262c1d54a1,,131595,question,questionText,36637,form,Does your company have any Licenses?
+6335eef92f0000262c1d54a1,,131595,question,responseOption1,36637,form,Yes
+6335eef92f0000262c1d54a1,,131595,question,responseOption2,36637,form,No
+6335ef0e2f00009dc3554a5f,,131596,question,questionText,36637,form,"If Yes, Please upload your licenses:"

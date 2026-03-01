@@ -1,0 +1,21 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+62a281712e00005546b79d78,6286c0cd2f000058c511dd4a,36463,questionGroup,questionGroupText,36463,form,Avetta PQF - Bahrain Company Information
+62a25e0d2e000057ef21fe5b,6286cc372f000058c5122b42,36464,questionGroup,questionGroupText,36463,form,Bahrain
+6286cc442f000058c5122b44,,127749,question,questionText,36463,form,Please indicate your company's business entity / form of business within this country: 
+6286cc442f000058c5122b44,,127749,question,responseOption1,36463,form,The Limited Liability Company (LLC)
+6286cc442f000058c5122b44,,127749,question,responseOption2,36463,form,Branch Office
+6286cc442f000058c5122b44,,127749,question,responseOption3,36463,form,Partnership
+6286cc442f000058c5122b44,,127749,question,responseOption4,36463,form,Sole Proprietorship
+6286cc442f000058c5122b44,,127749,question,responseOption5,36463,form,Bahrain Shareholding Company
+6286cc442f000058c5122b44,,127749,question,responseOption6,36463,form,Other
+6286cde32f000058c5123d22,,127750,question,description,36463,form,https://www.moic.gov.bh/en
+6286cde32f000058c5123d22,,127750,question,questionText,36463,form,Please provide a copy of your company’s commercial registration CR provided by the Ministry of Commerce and Tourism (MOIC) 
+6286cf2a300000a36eaa8a59,,127752,question,questionText,36463,form,"Please provide your company’s <a href=""https://www.nbr.gov.bh/VAT/sme/get_ready"">VAT Taxpayer Registry Number</a>"
+6286cf6b2f000058c5124805,,127753,question,questionText,36463,form,Please enter your company’s main industry classification \n
+6286d0b92f000058c51255c4,,127754,question,questionText,36463,form,Does your company have another industry classification?
+6286d0b92f000058c51255c4,,127754,question,responseOption1,36463,form,Yes
+6286d0b92f000058c51255c4,,127754,question,responseOption2,36463,form,No
+6286d13f2f000058c512574d,,127756,question,questionText,36463,form,Please enter your company’s secondary industry classification
+6286d27b300000a36eaaa2f5,,127758,question,questionText,36463,form,"Please provide your company’s <a href=""https://www.bahrainbourse.com/new-industry-classification""target=""_blank"">Global Industrial Classification Standard (GICS)</a> (private companies) or the <a href=""https://unstats.un.org/unsd/classifications/Econ/isic""target=""_blank""> International Standard Industrial Classification (ISIC) </a> (public companies). Select the option that applies. \n\n"
+6286d27b300000a36eaaa2f5,,127758,question,responseOption1,36463,form,GICS
+6286d27b300000a36eaaa2f5,,127758,question,responseOption2,36463,form,ISIC

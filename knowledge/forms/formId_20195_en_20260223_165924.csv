@@ -1,0 +1,49 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6584b17819000036460eb112,57ebe8235049439937acdbc3,9545,questionGroup,questionGroupText,20195,form,Panama
+6584bbd2180000383d9be6c3,5ad11fe02a00007f0051e501,20195,questionGroup,questionGroupText,20195,form,Avetta PQF - Panama Company Information
+57ebf04150494313dd6cce10,,40660,question,questionText,20195,form,Does your company have a Resident Agent registered and domiciled in the Republic of Panama?
+57ebf04150494313dd6cce10,,40660,question,responseOptionNo,20195,form,No
+57ebf04150494313dd6cce10,,40660,question,responseOptionYes,20195,form,Yes
+57ebf0615049435d8be1eed7,,40661,question,questionText,20195,form,What is the name of the registered Resident Agent?
+57ebf07b504943582ddadba8,,40662,question,questionText,20195,form,"Is your company registered with the <a href = ""https://registro-publico.gob.pa/""target=""_BLANK_"">Public Register</a>?"
+57ebf07b504943582ddadba8,,40662,question,responseOptionNo,20195,form,No
+57ebf07b504943582ddadba8,,40662,question,responseOptionYes,20195,form,Yes
+57ebf0f15049435dc2243907,,40663,question,questionText,20195,form,Is the name of your company registered with the Public Register different from the company name as it appears on your Avetta account?
+57ebf0f15049435dc2243907,,40663,question,responseOptionNo,20195,form,No
+57ebf0f15049435dc2243907,,40663,question,responseOptionYes,20195,form,Yes
+57ebf11e5049435180d8d539,,40664,question,questionText,20195,form,What is the official name of your company as registered with the Public Register?
+57ebf14d50494367a85bcd15,,40665,question,questionText,20195,form,"Does your company have a tax identification number (<a href = ""https://dgi.mef.gob.pa/Ruc/Ruc.php""target=""_BLANK_"">RUC</a>)?"
+57ebf14d50494367a85bcd15,,40665,question,responseOptionNo,20195,form,No
+57ebf14d50494367a85bcd15,,40665,question,responseOptionYes,20195,form,Yes
+57ebf16c504943840680b98f,,40666,question,questionText,20195,form,What is your company's tax identification number (RUC)?
+57ebf186504943e78c238feb,,40667,question,questionText,20195,form,"Is your company registered with the <a href = ""https://w3.css.gob.pa/""target=""_BLANK_"">Panama Social Security Institute</a>?"
+57ebf186504943e78c238feb,,40667,question,responseOptionNo,20195,form,No
+57ebf186504943e78c238feb,,40667,question,responseOptionYes,20195,form,Yes
+57ebf25d50494397a7723910,,40668,question,questionText,20195,form,What is your employers' inscription number as issued by the Social Security Administration?
+57ebf28950494312588d8938,,40669,question,questionText,20195,form,What is your company’s primary National Industrial Classification of Economic Activities (CINU) Code?
+57ebf28d504943f2655bd8fd,,40670,question,questionText,20195,form,What is your company’s secondary National Industrial Classification of Economic Activities (CINU) Code?
+657759a81900008339815f2f,,148079,question,questionText,20195,form,Please indicate where your company is established:
+657759a81900008339815f2f,,148079,question,responseOption1,20195,form,Yes
+657759a81900008339815f2f,,148079,question,responseOption2,20195,form,No
+657759c91900000b01815f30,,148080,question,questionText,20195,form,"If Other, please explain:"
+657759c91900000b01815f30,,148080,question,responseOption1,20195,form,Yes
+657759c91900000b01815f30,,148080,question,responseOption2,20195,form,No
+65775ac11900002401815f37,,148081,question,questionText,20195,form,Please explain why:
+65775ac11900002401815f37,,148081,question,responseOption1,20195,form,Yes
+65775ac11900002401815f37,,148081,question,responseOption2,20195,form,No
+65775b431a0000c13a8585f7,,148082,question,questionText,20195,form,Please explain why:
+65775b431a0000c13a8585f7,,148082,question,responseOption1,20195,form,Yes
+65775b431a0000c13a8585f7,,148082,question,responseOption2,20195,form,No
+65775b95190000482c815f6a,,148083,question,questionText,20195,form,Please explain why:
+65775b95190000482c815f6a,,148083,question,responseOption1,20195,form,Yes
+65775b95190000482c815f6a,,148083,question,responseOption2,20195,form,No
+6584b176180000383d9be573,,148859,question,questionText,20195,form,Please indicate your company's business entity / form of business within this country.
+6584b176180000383d9be573,,148859,question,responseOption1,20195,form,Sole Proprietorship
+6584b176180000383d9be573,,148859,question,responseOption2,20195,form,Corporation
+6584b176180000383d9be573,,148859,question,responseOption3,20195,form,Limited Liability Company
+6584b176180000383d9be573,,148859,question,responseOption4,20195,form,  General Partnership
+6584b176180000383d9be573,,148859,question,responseOption5,20195,form,Limited Partnership
+6584b176180000383d9be573,,148859,question,responseOption6,20195,form,Civil Partnership
+6584b176180000383d9be573,,148859,question,responseOption7,20195,form,Branch Office
+6584b176180000383d9be573,,148859,question,responseOption8,20195,form,Foreign entity with no local fiscal presence
+6584b176180000383d9be573,,148859,question,responseOption9,20195,form,Other

@@ -1,0 +1,32 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6564edcc1700007e871f2159,546fca665049432ec6f23d4d,6153,questionGroup,questionGroupText,20192,form,Colombia
+656514f6170000df871f2871,5ad11c212200008500a5a931,20192,questionGroup,questionGroupText,20192,form,Avetta PQF - Colombia Company Information
+546fcd3c504943da9594192b,,27315,question,questionText,20192,form,Is your company registered within the Public Registry of Commerce? 
+546fcd3c504943da9594192b,,27315,question,responseOptionNo,20192,form,No
+546fcd3c504943da9594192b,,27315,question,responseOptionYes,20192,form,Yes
+546fcd5950494344bc7b6434,,27316,question,questionText,20192,form,Please upload a copy of your company's Certificate of Registration.
+546fcd685049439abe938d69,,27317,question,questionText,20192,form,Is your company registered with the Tax Authority (DIAN)?
+546fcd685049439abe938d69,,27317,question,responseOptionNo,20192,form,No
+546fcd685049439abe938d69,,27317,question,responseOptionYes,20192,form,Yes
+546fcdaa50494311866cf8f6,,27318,question,questionText,20192,form,What is your company's Tax Identification Number (RUT)?
+58506d535049439f5271709f,,43140,question,questionText,20192,form,"What is your company’s primary International Standard Industrial Classification <a href=""https://www.dane.gov.co/index.php/sistema-estadistico-nacional-sen/normas-y-estandares/nomenclaturas-y-clasificaciones/clasificaciones/clasificacion-industrial-internacional-uniforme-de-todas-las-actividades-economicas-ciiu"" target=""_blank""> (CIIU) </a>  Code?"
+58506d55504943493cf9dd5b,,43141,question,questionText,20192,form,"What is your company’s secondary International Standard Industrial Classification <a href=""https://www.dane.gov.co/index.php/sistema-estadistico-nacional-sen/normas-y-estandares/nomenclaturas-y-clasificaciones/clasificaciones/clasificacion-industrial-internacional-uniforme-de-todas-las-actividades-economicas-ciiu"" target=""_blank""> (CIIU) </a> Code?"
+6564edca17000070871f2157,,147408,question,questionText,20192,form,Please indicate your company's business entity / form of business within this country.
+6564edca17000070871f2157,,147408,question,responseOption1,20192,form,Sole Proprietorship
+6564edca17000070871f2157,,147408,question,responseOption2,20192,form,Corporation
+6564edca17000070871f2157,,147408,question,responseOption3,20192,form,Limited Liability Company
+6564edca17000070871f2157,,147408,question,responseOption4,20192,form,Branch Office
+6564edca17000070871f2157,,147408,question,responseOption5,20192,form,Foreign entity with no local fiscal presence
+6564edca17000070871f2157,,147408,question,responseOption6,20192,form,Other
+6564ee551700007e871f216b,,147409,question,questionText,20192,form,Please indicate where your company is established:
+6564ee551700007e871f216b,,147409,question,responseOption1,20192,form,Yes
+6564ee551700007e871f216b,,147409,question,responseOption2,20192,form,No
+6564ee8e17000080871f216f,,147410,question,questionText,20192,form,"If Other, please explain:"
+6564ee8e17000080871f216f,,147410,question,responseOption1,20192,form,Yes
+6564ee8e17000080871f216f,,147410,question,responseOption2,20192,form,No
+6564eec117000078871f2172,,147411,question,questionText,20192,form,Please explain why:
+6564eec117000078871f2172,,147411,question,responseOption1,20192,form,Yes
+6564eec117000078871f2172,,147411,question,responseOption2,20192,form,No
+6564eedb17000080871f2175,,147412,question,questionText,20192,form,Please explain why:
+6564eedb17000080871f2175,,147412,question,responseOption1,20192,form,Yes
+6564eedb17000080871f2175,,147412,question,responseOption2,20192,form,No

@@ -1,0 +1,33 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65258a3e1800003e61a22801,57f58b37504943f34943d6a6,9633,questionGroup,questionGroupText,20194,form,Honduras
+652596171800004461a22823,5ad11ecb2200008300a5a947,20194,questionGroup,questionGroupText,20194,form,Avetta PQF - Honduras Company Information
+57f8272850494322ecb37ddd,,40979,question,description,20194,form,"<a href=""/file-preview.html?fileId=2023-10-10T17%3A35%3A19.556Z~~*Q2xhc2lmaWNhZG9yLWRlLUFjdGl2aWRhZGVzLUVjb25vbWljYXMtSG9uZHVyYXMtMjAxOF9QREYtMS5wZGY%3D"" target=""_blank"">Clasificador Nacional de Actividades Economicas Honduras</a>"
+57f8272850494322ecb37ddd,,40979,question,questionText,20194,form,What is your company’s primary International Standard Industrial Classification (CIIU) Code?
+57f82855504943842dac03a8,,40981,question,description,20194,form,"<a href=""/file-preview.html?fileId=2023-10-10T17%3A35%3A19.556Z~~*Q2xhc2lmaWNhZG9yLWRlLUFjdGl2aWRhZGVzLUVjb25vbWljYXMtSG9uZHVyYXMtMjAxOF9QREYtMS5wZGY%3D"" target=""_blank"">Clasificador Nacional de Actividades Economicas Honduras</a>"
+57f82855504943842dac03a8,,40981,question,questionText,20194,form,What is your company’s secondary International Standard Industrial Classification (CIIU) Code?
+57fc0cbc50494393de77fa21,,40993,question,questionText,20194,form,Is your company registered with the Mercantile Registry at the Chamber of Commerce?
+57fc0cbc50494393de77fa21,,40993,question,responseOptionNo,20194,form,No
+57fc0cbc50494393de77fa21,,40993,question,responseOptionYes,20194,form,Yes
+57fc0ce65049435728a7d2d7,,40994,question,questionText,20194,form,Does your company have a tax identification number (RTN) issued by the tax authority (DEI)?
+57fc0ce65049435728a7d2d7,,40994,question,responseOptionNo,20194,form,No
+57fc0ce65049435728a7d2d7,,40994,question,responseOptionYes,20194,form,Yes
+57fc0da750494391a6fee916,,40995,question,questionText,20194,form,What is your company's tax identification number (RTN)?
+65258a3d1800003e61a22800,,145776,question,questionText,20194,form,Please indicate your company's business entity / form of business within this country.
+65258a3d1800003e61a22800,,145776,question,responseOption1,20194,form,Sole Proprietorship
+65258a3d1800003e61a22800,,145776,question,responseOption2,20194,form,Limited Liability Company
+65258a3d1800003e61a22800,,145776,question,responseOption3,20194,form,Corporation
+65258a3d1800003e61a22800,,145776,question,responseOption4,20194,form,General Partnership
+65258a3d1800003e61a22800,,145776,question,responseOption5,20194,form,Limited Partnership
+65258a3d1800003e61a22800,,145776,question,responseOption6,20194,form,Branch Office
+65258a3d1800003e61a22800,,145776,question,responseOption7,20194,form,Joint Stock Company
+65258a3d1800003e61a22800,,145776,question,responseOption8,20194,form,Foreign entity with no local fiscal presence
+65258a3d1800003e61a22800,,145776,question,responseOption9,20194,form,Other
+65258aa21a0000be046e55cd,,145777,question,questionText,20194,form,Please indicate where your company is established:
+65258aa21a0000be046e55cd,,145777,question,responseOption1,20194,form,Yes
+65258aa21a0000be046e55cd,,145777,question,responseOption2,20194,form,No
+65258ab81a0000b7046e55cf,,145778,question,questionText,20194,form,"If Other, please explain:"
+65258ab81a0000b7046e55cf,,145778,question,responseOption1,20194,form,Yes
+65258ab81a0000b7046e55cf,,145778,question,responseOption2,20194,form,No
+65258ae31800004461a22805,,145779,question,questionText,20194,form,Please explain why:
+65258ae31800004461a22805,,145779,question,responseOption1,20194,form,Yes
+65258ae31800004461a22805,,145779,question,responseOption2,20194,form,No

@@ -1,0 +1,36 @@
+#	filename	avettaId	field	old	new	note
+1	formId_14000_en_20260226_085847.csv	1331	description	for assistance.  \n\nIf you are 	Remove extra space(s)	Double/triple space
+2	formId_20115_en_20260223_143543.csv	10459	description	umber should be  Country code GB	Remove extra space(s)	Double/triple space
+3	formId_20115_en_20260223_143543.csv	10607	description	ties Commission  keeps  the onli	Remove extra space(s)	Double/triple space
+4	formId_20174_en_20260223_165924.csv	148443	questionText	se explain why:   	Remove extra space(s)	Double/triple space
+5	formId_20181_en_20260223_165924.csv	148116	questionText	se explain why:   	Remove extra space(s)	Double/triple space
+6	formId_20181_en_20260223_165924.csv	148117	questionText	se explain why:  	Remove extra space(s)	Double/triple space
+7	formId_20192_en_20260223_143543.csv	43140	questionText	"k""> (CIIU) </a>  Code?"	Remove extra space(s)	Double/triple space
+8	formId_20193_en_20260223_165924.csv	40672	questionText	strial Property  <a href='https:	Remove extra space(s)	Double/triple space
+9	formId_20193_en_20260223_165924.csv	40674	questionText	arget='_BLANK'>  (DGII)</a>?	Remove extra space(s)	Double/triple space
+10	formId_20239_en_20260223_165924.csv	18660	description	eginning of it.  \n	Remove extra space(s)	Double/triple space
+11	formId_20239_en_20260223_165924.csv	135449	description	l Security </a>  \n	Remove extra space(s)	Double/triple space
+12	formId_20240_en_20260223_165924.csv	145838	questionText	se explain why:       	Remove extra space(s)	Double/triple space
+13	formId_20408_en_20260223_165924.csv	10612	questionText	"""_BLANK_"">SIRET  (Système Inform"	Remove extra space(s)	Double/triple space
+14	formId_20416_en_20260223_143543.csv	133514	questionText	Does  your company ha	Remove extra space(s)	Double/triple space
+15	formId_20488_en_20260223_143543.csv	12264	description	 (bolagsverket)  registers compa	Remove extra space(s)	Double/triple space
+16	formId_20488_en_20260223_143543.csv	12264	description	ering,starting,ru	ering, starting,ru	Missing space after comma
+17	formId_27675_en_20260223_143543.csv	147178	questionText	"sification Code  (<a href\t= ""ht"	Remove extra space(s)	Double/triple space
+18	formId_33835_en_20260223_165924.csv	114681	description	Guidance: Ex.  Kabushiki Kaish	Remove extra space(s)	Double/triple space
+19	formId_33835_en_20260223_165924.csv	114686	description	Sole Proprietor  \n\n	Remove extra space(s)	Double/triple space
+20	formId_33835_en_20260223_165924.csv	135453	questionText	n ,	n ,,	Space before comma
+21	formId_36210_en_20260223_143543.csv	126694	questionText	" company have a  <a href="" https"	Remove extra space(s)	Double/triple space
+22	formId_36236_en_20260223_143543.csv	126838	description	NameSearch.jsp.  Although for ve	Remove extra space(s)	Double/triple space
+23	formId_36381_en_20260223_143543.csv	127602	questionText	"any a member of  <a href=""https:"	Remove extra space(s)	Double/triple space
+24	formId_36381_en_20260223_143543.csv	127604	questionText	" company’s main  <a href=""https:"	Remove extra space(s)	Double/triple space
+25	formId_36650_en_20260223_143543.csv	128530	questionText	"registered with  <a href=""https:"	Remove extra space(s)	Double/triple space
+26	formId_36650_en_20260223_143543.csv	128532	questionText	 your company’s  VAT Taxpayer Re	Remove extra space(s)	Double/triple space
+27	formId_36657_en_20260223_143543.csv	128960	questionText	 please explain  	Remove extra space(s)	Double/triple space
+28	formId_37902_en_20260223_143543.csv	134191	questionText	"ration with the  <a href=""https:"	Remove extra space(s)	Double/triple space
+29	formId_41115_en_20260223_165924.csv	149777	questionText	  Is your company	Remove extra space(s)	Double/triple space
+30	formId_42631_en_20260223_165924.csv	155935	questionText	" company have a  ""Company Regist"	Remove extra space(s)	Double/triple space
+31	formId_46784_en_20260223_165924.csv	177156	description	An ICE number  is a unique 15-	Remove extra space(s)	Double/triple space
+32	formId_48198_en_20260223_165924.csv	184021	description	Guidance: Ex.  Kabushiki Kaish	Remove extra space(s)	Double/triple space
+33	formId_48198_en_20260223_165924.csv	184023	questionText	n ,	n ,,	Space before comma
+34	formId_48198_en_20260223_165924.csv	184031	description	Sole Proprietor  \n\n	Remove extra space(s)	Double/triple space
+35	formId_48947_en_20260223_165924.csv	187710	description	Guidance: Ex.  Kabushiki Kaish	Remove extra space(s)	Double/triple space

@@ -1,0 +1,90 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+658485f8180000253d9bde42,50cf7c1350494314611745fc,3238,questionGroup,questionGroupText,20241,form,China
+51b1eda6504943b4d46e61c0,,18354,question,questionText,20241,form,Does your company have a Business License to operate a business in the People's Republic of China (PRC)?
+51b1eda6504943b4d46e61c0,,18354,question,responseOptionNA,20241,form,N/A
+51b1eda6504943b4d46e61c0,,18354,question,responseOptionNo,20241,form,No
+51b1eda6504943b4d46e61c0,,18354,question,responseOptionYes,20241,form,Yes
+51b1edc8504943e96963ebd3,,18355,question,questionText,20241,form,Please upload a copy of your company's Business License affixed with your company seal and legal person’s signature.
+51b1f27e5049437bcee5d7a8,,18368,question,description,20241,form,"Approved Seals for business use such as a Contract Seal, Invoice Seal, etc."
+51b1f27e5049437bcee5d7a8,,18368,question,questionText,20241,form,Are there any other approved Seals other than the Company Seal used by your company for business purposes?
+51b1f27e5049437bcee5d7a8,,18368,question,responseOptionNA,20241,form,N/A
+51b1f27e5049437bcee5d7a8,,18368,question,responseOptionNo,20241,form,No
+51b1f27e5049437bcee5d7a8,,18368,question,responseOptionYes,20241,form,Yes
+51b1f30150494329cadf6eb1,,18369,question,questionText,20241,form,Please upload samples/models of any other approved Seals used for business.
+51b1f4a75049435ff4270ed1,,18375,question,questionText,20241,form,Please upload a copy of your company's Foreign Exchange Registration Card.
+51b1f4f5504943836d2bf497,,18376,question,questionText,20241,form,Is your company registered with the Customs Bureau as a Customs Declaration Entity?
+51b1f4f5504943836d2bf497,,18376,question,responseOptionNA,20241,form,N/A
+51b1f4f5504943836d2bf497,,18376,question,responseOptionNo,20241,form,No
+51b1f4f5504943836d2bf497,,18376,question,responseOptionYes,20241,form,Yes
+51b1f514504943317f63a1e2,,18377,question,questionText,20241,form,"If yes, please upload a copy of your company's Customs Registration Certificate (if such certificate is not merged into your Business License yet)."
+51b1f63050494366826c1b03,,18382,question,questionText,20241,form,What is your company’s primary Industrial Classification for National Economic Activities (ICNEA) Code?
+51b1f63f504943d8ff18ac74,,18383,question,questionText,20241,form,What is your company’s secondary Industrial Classification for National Economic Activities (ICNEA) Code?
+51b1f64f504943b05f47d984,,18384,question,questionText,20241,form,What is your company's primary Product Classification for Statistics (PCS) Code (if any)?
+51b1f65d50494336202714c9,,18385,question,questionText,20241,form,What is your company's secondary Product Classification for Statistics (PCS) Code (if any)?
+65848aaf180000263d9bde98,5aea005d240000960091fbbd,20241,questionGroup,questionGroupText,20241,form,Avetta PQF - China Company Information
+63a2434119000055031adf8e,,135520,question,questionText,20241,form,Is your company directly or indirectly invested or controlled by a non-PRC entity or individual?
+63a2434119000055031adf8e,,135520,question,responseOption1,20241,form,Yes
+63a2434119000055031adf8e,,135520,question,responseOption2,20241,form,No
+63a2438519000096031ae311,,135521,question,questionText,20241,form,Please upload your company’s shareholding structure.
+63a24d311900002a051b5c9e,,135522,question,questionText,20241,form,Is your company engaged in importing or exporting commodities?
+63a24d311900002a051b5c9e,,135522,question,responseOption1,20241,form,Yes
+63a24d311900002a051b5c9e,,135522,question,responseOption2,20241,form,No
+63a24d581900002a051b5de9,,135523,question,questionText,20241,form,"If yes, is your company registered with Ministry of Commerce?"
+63a24d581900002a051b5de9,,135523,question,responseOption1,20241,form,Yes
+63a24d581900002a051b5de9,,135523,question,responseOption2,20241,form,No
+63a24dd91900002a051b6205,,135524,question,questionText,20241,form,Please upload a copy of your Filing of Foreign Trade Operators.
+63a24df719000039051b6486,,135525,question,questionText,20241,form,"If yes, Please upload a copy of your registration with List of Enterprises with Foreign Exchange Receipts and Payments for Trade."
+63a24fd91b0000ac04aac081,,135526,question,questionText,20241,form,Has your company opened the basic account with your bank?
+63a24fd91b0000ac04aac081,,135526,question,responseOption1,20241,form,Yes
+63a24fd91b0000ac04aac081,,135526,question,responseOption2,20241,form,No
+63a24ffc1b0000ac04aac284,,135527,question,questionText,20241,form,Please upload a copy of your company's Account Opening Permit.
+63a250451b0000da04aac633,,135528,question,questionText,20241,form,"Is the business of your company required to obtain any other qualification, permit, certification or filing from the authorities?"
+63a250451b0000da04aac633,,135528,question,responseOption1,20241,form,Yes
+63a250451b0000da04aac633,,135528,question,responseOption2,20241,form,No
+63a25063190000a9051b8b65,,135529,question,questionText,20241,form,Please list the qualification or permit that your company has obtained and please specify any qualification or permit that your company has not obtained.
+63a250981b0000f104aacbe2,,135530,question,questionText,20241,form,Please upload a copy of the certificate of your company's qualification or permit.
+63a250aa190000b2051b8e75,,135531,question,questionText,20241,form,"Is your company established, invested, sponsored, controlled, or managed by, or otherwise related to any PRC governmental organizations, state-owned enterprises or their respective officials or officers? "
+63a250aa190000b2051b8e75,,135531,question,responseOption1,20241,form,Yes
+63a250aa190000b2051b8e75,,135531,question,responseOption2,20241,form,No
+63a250aa190000b2051b8e75,,135531,question,responseOption3,20241,form,N/A
+63a250cd1b0000f104aace02,,135532,question,questionText,20241,form,Please explain the relationship between your company and these bodies or persons.
+63a250eb190000aa051b90eb,,135533,question,questionText,20241,form,"Is your company subject to any export control, import control or any other trade sanctions in any country? "
+63a250eb190000aa051b90eb,,135533,question,responseOption1,20241,form,Yes
+63a250eb190000aa051b90eb,,135533,question,responseOption2,20241,form,No
+63a250eb190000aa051b90eb,,135533,question,responseOption3,20241,form,N/A
+63a2510f190000b0051b9226,,135534,question,questionText,20241,form,Please explain the trade sanction that your company is subject to.
+63a25127190000b0051b92ec,,135535,question,questionText,20241,form,"Does your company comply with all the applicable laws and regulations in China, including but not limited to laws and regulations on labor, tax, contract, safe construction and manufacturing, quality of products, environment protection, IP, privacy and data protection?"
+63a25127190000b0051b92ec,,135535,question,responseOption1,20241,form,Yes
+63a25127190000b0051b92ec,,135535,question,responseOption2,20241,form,No
+63a2514d1b0000f104aad1dc,,135536,question,questionText,20241,form,"If not, please explain the circumstances of incompliance."
+63a25162190000b2051b97f5,,135537,question,questionText,20241,form,Has there been any administrative sanction or penalty imposed on your company? Is your company involved in any ongoing litigation or dispute?
+63a25162190000b2051b97f5,,135537,question,responseOption1,20241,form,Yes
+63a25162190000b2051b97f5,,135537,question,responseOption2,20241,form,No
+63a251a01b0000da04aad471,,135538,question,questionText,20241,form,"If so, please explain the reason of being sanctioned/the background and status of the litigation or dispute."
+658485f5180000143d9bde41,,148845,question,questionText,20241,form,Please indicate your company's business entity / form of business within China.
+658485f5180000143d9bde41,,148845,question,responseOption1,20241,form,Wholly Foreign-Owned Enterprise (WFOE)
+658485f5180000143d9bde41,,148845,question,responseOption10,20241,form,Build-Operate-Transfer (BOT)
+658485f5180000143d9bde41,,148845,question,responseOption11,20241,form,Sole Proprietorship Enterprise (SPE)
+658485f5180000143d9bde41,,148845,question,responseOption12,20241,form,Foreign-Invested Commercial Enterprise (FICE)
+658485f5180000143d9bde41,,148845,question,responseOption13,20241,form,Publicly Listed Company
+658485f5180000143d9bde41,,148845,question,responseOption14,20241,form,Branch Office
+658485f5180000143d9bde41,,148845,question,responseOption2,20241,form,Equity Joint Venture (EJV)
+658485f5180000143d9bde41,,148845,question,responseOption3,20241,form,Cooperative Joint Venture (CJV)
+658485f5180000143d9bde41,,148845,question,responseOption4,20241,form,Representative Office (RO)
+658485f5180000143d9bde41,,148845,question,responseOption5,20241,form,General Partnership Enterprise (GPE)
+658485f5180000143d9bde41,,148845,question,responseOption6,20241,form,Limited Partnership Enterprise (LPE)
+658485f5180000143d9bde41,,148845,question,responseOption7,20241,form,Foreign-Invested Partnerships (FIP)
+658485f5180000143d9bde41,,148845,question,responseOption8,20241,form,Free Trade Zone Company
+658485f5180000143d9bde41,,148845,question,responseOption9,20241,form,Holding Company
+65848812180000253d9bde48,,148846,question,questionText,20241,form,"If No, please explain:"
+65848812180000253d9bde48,,148846,question,responseOption1,20241,form,Yes
+65848812180000253d9bde48,,148846,question,responseOption2,20241,form,No
+65848899180000293d9bde7c,,148847,question,questionText,20241,form,"If No, please explain:"
+65848899180000293d9bde7c,,148847,question,responseOption1,20241,form,Yes
+65848899180000293d9bde7c,,148847,question,responseOption2,20241,form,No
+65848916180000293d9bde7f,,148848,question,questionText,20241,form,"If No, please explain:"
+65848916180000293d9bde7f,,148848,question,responseOption1,20241,form,Yes
+65848916180000293d9bde7f,,148848,question,responseOption2,20241,form,No
+6584894a180000093d9bde81,,148849,question,questionText,20241,form,"If No, please explain:"
+6584894a180000093d9bde81,,148849,question,responseOption1,20241,form,Yes
+6584894a180000093d9bde81,,148849,question,responseOption2,20241,form,No

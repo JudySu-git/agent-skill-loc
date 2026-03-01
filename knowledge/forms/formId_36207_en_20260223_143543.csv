@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+62a2498f2f00005a466d7d8a,626b04e82e000039ea4475c3,36207,questionGroup,questionGroupText,36207,form,Avetta PQF - Luxembourg Company Information
+62a2493c2e000057ef217c22,626b05492e000039ea4478c1,36208,questionGroup,questionGroupText,36207,form,Luxembourg
+626b05722f0000fb0f91329c,,126685,question,description,36207,form,(B+6 digits)
+626b05722f0000fb0f91329c,,126685,question,questionText,36207,form,"Please enter your <a href\t= ""https://www.lbr.lu/mjrcs/jsp/IndexActionNotSecured.action?time=1651505262183&loop=2""target=""_BLANK_"">Commercial Register</a> RCS Number:"
+626b05ac2e000039ea447bc5,,126687,question,questionText,36207,form,"Is your company <a href\t= ""https://ec.europa.eu/taxation_customs/vies/vatResponse.html""target=""_BLANK_"">VAT-registered</a>?\n\n"
+626b05ac2e000039ea447bc5,,126687,question,responseOption1,36207,form,Yes
+626b05ac2e000039ea447bc5,,126687,question,responseOption2,36207,form,No
+626b05c02f0000fb0f913365,,126688,question,description,36207,form,(LU + 8 digits)
+626b05c02f0000fb0f913365,,126688,question,questionText,36207,form,Please enter your company’s VAT registration ID:
+626b05d32e000039ea447c39,,126689,question,description,36207,form,(8 digits/1 digit)
+626b05d32e000039ea447c39,,126689,question,questionText,36207,form,Please provide your business permit number from the Ministry of the Economy:
+629907072e0000d55533361b,,128045,question,description,36207,form,(11 digits)
+629907072e0000d55533361b,,128045,question,questionText,36207,form,Please provide your company TIN/Fiscal number:

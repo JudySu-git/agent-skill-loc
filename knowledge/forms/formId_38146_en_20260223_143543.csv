@@ -1,0 +1,37 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+639caec51a000091012e90f6,639b7f731600004201ba0b90,38146,questionGroup,questionGroupText,38146,form,Avetta PQF - Mauritius Company Information
+639b7fd01600003e01ba0b96,639b7fd01600003e01ba0b95,38147,questionGroup,questionGroupText,38146,form,Mauritius
+639b7fde1600007e01181276,,135118,question,questionText,38146,form,Please indicate the type of your company:
+639b7fde1600007e01181276,,135118,question,responseOption1,38146,form,Limited Liability Company (LLC)
+639b7fde1600007e01181276,,135118,question,responseOption2,38146,form,Public Limited Company (PLC)
+639b7fde1600007e01181276,,135118,question,responseOption3,38146,form,Company Limited by Guarantee
+639b7fde1600007e01181276,,135118,question,responseOption4,38146,form,Sole Proprietor
+639b7fde1600007e01181276,,135118,question,responseOption5,38146,form,Partnership
+639b7fde1600007e01181276,,135118,question,responseOption6,38146,form,Mauritius Branch office
+639b7fde1600007e01181276,,135118,question,responseOption7,38146,form,Global Business Company or Authorized Company
+639b80301600003e01ba0b98,,135119,question,questionText,38146,form,Please provide company registration number:
+639b804b1600007801181279,,135120,question,questionText,38146,form,Is your company registered with the MRA?
+639b804b1600007801181279,,135120,question,responseOption1,38146,form,Yes
+639b804b1600007801181279,,135120,question,responseOption2,38146,form,No
+639b8062160000280118127b,,135121,question,questionText,38146,form,"If yes, please provide Tax Payer Identification Number (TAN):"
+639b8076160000780118127d,,135122,question,questionText,38146,form,Is your company registered for Value Added Tax (VAT)?
+639b8076160000780118127d,,135122,question,responseOption1,38146,form,Yes
+639b8076160000780118127d,,135122,question,responseOption2,38146,form,No
+639b80861600004101ba0b9d,,135123,question,questionText,38146,form,"If yes, please provide VAT number:"
+639b80aa1600007801181280,,135124,question,questionText,38146,form,Is your company registered as Employer?
+639b80aa1600007801181280,,135124,question,responseOption1,38146,form,Yes
+639b80aa1600007801181280,,135124,question,responseOption2,38146,form,No
+639b80c01600003e01ba0ba0,,135125,question,questionText,38146,form,"If yes, please provide employer registration number (ERN):"
+639b80ce1600007801181284,,135126,question,description,38146,form, <a href='https://www.mra.mu/index.php/business/csg?highlight=WyJjc2ciXQ==' target='_BLANK'>CSG - Mauritius Revenue Authority (mra.mu)</a>
+639b80ce1600007801181284,,135126,question,questionText,38146,form,"If yes, does your company contribute CSG (Contribution Sociale Generalisée’) for its employees?"
+639b80ce1600007801181284,,135126,question,responseOption1,38146,form,Yes
+639b80ce1600007801181284,,135126,question,responseOption2,38146,form,No
+639b811e1600003e01ba0ba2,,135127,question,description,38146,form,"<a href=""/file-preview.html?fileId=2022-12-15T21:03:01.220Z~~~TDSGuide.pdf"" target=""_BLANK"">TDSGuide.pdf (mra.mu)</a>"
+639b811e1600003e01ba0ba2,,135127,question,questionText,38146,form,Is your company obliged to withhold income tax under TDS (Tax Deduction at Source)?
+639b811e1600003e01ba0ba2,,135127,question,responseOption1,38146,form,Yes
+639b811e1600003e01ba0ba2,,135127,question,responseOption2,38146,form,No
+639b81881600000f01ba0ba4,,135128,question,questionText,38146,form,"If yes, please specify what are the applicable rules and regulations?"
+639b88731600003e01ba0baf,,135129,question,description,38146,form,"I.E. Board of Investment, Financial Services Commission, Bank of Mauritius"
+639b88731600003e01ba0baf,,135129,question,questionText,38146,form,Is your company regulated by a specific regulator in Mauritius?
+639b88731600003e01ba0baf,,135129,question,responseOption1,38146,form,Yes
+639b88731600003e01ba0baf,,135129,question,responseOption2,38146,form,No

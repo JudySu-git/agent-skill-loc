@@ -1,0 +1,42 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+658bb0161700005b4b61db71,5dbafae3330000cf19ec4bdd,27655,questionGroup,questionGroupText,27655,form,Avetta PQF - Portugal Company Information
+652831f5170000965c17b259,5dbafcdb340000ac1668fa13,27656,questionGroup,questionGroupText,27655,form,Portugal
+5dbafda3330000cf19ec4be4,,87478,question,description,27655,form,"<a href=""https://www2.gov.pt/espaco-empresa/empresa-online"" target=""_blank_"">Follow this link to the: Portuguese Business Portal</a>"
+5dbafda3330000cf19ec4be4,,87478,question,questionText,27655,form,Is your company registered on the Portuguese Business Portal?
+5dbafda3330000cf19ec4be4,,87478,question,responseOption1,27655,form,Yes
+5dbafda3330000cf19ec4be4,,87478,question,responseOption2,27655,form,No
+5dbafe50330000ac169ffe79,,87480,question,description,27655,form,"<a href=""https://www2.gov.pt/espaco-empresa/empresa-online"" target=""_blank_"">Follow this link to the: Portuguese Business Portal</a>"
+5dbafe50330000ac169ffe79,,87480,question,questionText,27655,form,Please provide your company registration number.
+5dbb00cc330000ac169ffe89,,87481,question,description,27655,form,"<a href=""https://www.nif.pt/"" target=""_blank_"">Follow this link to the NIF</a>"
+5dbb00cc330000ac169ffe89,,87481,question,questionText,27655,form,Does your company have a VAT registration number?
+5dbb00cc330000ac169ffe89,,87481,question,responseOption1,27655,form,Yes
+5dbb00cc330000ac169ffe89,,87481,question,responseOption2,27655,form,No
+5dbb03ad330000ac169ffe8b,,87482,question,description,27655,form,"<a href=""https://www.nif.pt/"" target=""_blank_"">Follow this link to the NIF</a>"
+5dbb03ad330000ac169ffe8b,,87482,question,questionText,27655,form,Please provide your company’s VAT registration number.
+652832cf170000c65c17b266,,145795,question,questionText,27655,form,Please indicate your company's business entity / form of business within this country.
+652832cf170000c65c17b266,,145795,question,responseOption1,27655,form,Sole Proprietorship
+652832cf170000c65c17b266,,145795,question,responseOption2,27655,form,Partnership
+652832cf170000c65c17b266,,145795,question,responseOption3,27655,form,Limited Liability Company
+652832cf170000c65c17b266,,145795,question,responseOption4,27655,form,Public Limited Company
+652832cf170000c65c17b266,,145795,question,responseOption5,27655,form,Branch
+652832cf170000c65c17b266,,145795,question,responseOption6,27655,form,EU Company
+652832cf170000c65c17b266,,145795,question,responseOption7,27655,form,Foreign entity with no local fiscal presence
+652832cf170000c65c17b266,,145795,question,responseOption8,27655,form,Other
+6528339d170000cb5c17b268,,145796,question,questionText,27655,form,Please indicate where your company is established:
+6528339d170000cb5c17b268,,145796,question,responseOption1,27655,form,Yes
+6528339d170000cb5c17b268,,145796,question,responseOption2,27655,form,No
+652833db1b0000f606137701,,145797,question,questionText,27655,form,"If Other, please explain:"
+652833db1b0000f606137701,,145797,question,responseOption1,27655,form,Yes
+652833db1b0000f606137701,,145797,question,responseOption2,27655,form,No
+652836241b0000fc00137702,,145798,question,questionText,27655,form,Please explain
+652836241b0000fc00137702,,145798,question,responseOption1,27655,form,Yes
+652836241b0000fc00137702,,145798,question,responseOption2,27655,form,No
+652836861b00002c4c137705,,145799,question,questionText,27655,form,Please explain
+652836861b00002c4c137705,,145799,question,responseOption1,27655,form,Yes
+652836861b00002c4c137705,,145799,question,responseOption2,27655,form,No
+652837061b0000f606137709,,145800,question,questionText,27655,form,"What is your company’s primary <a href=""https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=62683573&PUBLICACOESmodo=2"" \ntarget=""_Blank"">CAE Code</a>?"
+652837061b0000f606137709,,145800,question,responseOption1,27655,form,Yes
+652837061b0000f606137709,,145800,question,responseOption2,27655,form,No
+652837671b0000f60613770b,,145801,question,questionText,27655,form,"What is your company’s secondary <a href=""https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=62683573&PUBLICACOESmodo=2"" \ntarget=""_Blank"">CAE Code</a>?"
+652837671b0000f60613770b,,145801,question,responseOption1,27655,form,Yes
+652837671b0000f60613770b,,145801,question,responseOption2,27655,form,No

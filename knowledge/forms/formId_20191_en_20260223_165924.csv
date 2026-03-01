@@ -1,0 +1,92 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6584b4761800004e3d9be5c4,51ed4d8d50494343accf7375,4127,questionGroup,questionGroupText,20191,form,India
+51ed4e2b5049433148f452f8,,19203,question,description,20191,form,"The <a href=""https://www.mca.gov.in/"" target=""_blank"">Registrar of Companies</a> (RoC) appointed under <i>Section 609</i> of the <i>Companies Act</i> covering various States and Union Territories are vested with the primary duty of registering companies floated in the respective States and the Union Territories and ensuring that such companies comply with the statutory requirements under the Act. These offices function as registry of records, relating to the companies registered with them."
+51ed4e2b5049433148f452f8,,19203,question,questionText,20191,form,Is your company registered with the Registrar of Companies (RoC)?
+51ed4e2b5049433148f452f8,,19203,question,responseOptionNo,20191,form,No
+51ed4e2b5049433148f452f8,,19203,question,responseOptionYes,20191,form,Yes
+51ed4e8e5049434356608ffa,,19206,question,questionText,20191,form,Does your company have a RoC Registration Number?
+51ed4e8e5049434356608ffa,,19206,question,responseOptionNo,20191,form,No
+51ed4e8e5049434356608ffa,,19206,question,responseOptionYes,20191,form,Yes
+51ed4eb2504943c9335f0a92,,19208,question,questionText,20191,form,Please provide your company's RoC Registration Number.
+51ed4ece504943cf15ae9794,,19211,question,description,20191,form,Indian companies (listed or unlisted) have a unique 21 digit Corporate Identity Number (CIN). This is required to be included on all forms.
+51ed4ece504943cf15ae9794,,19211,question,questionText,20191,form,Does your company have a Corporate Identity Number (CIN)?
+51ed4ece504943cf15ae9794,,19211,question,responseOptionNo,20191,form,No
+51ed4ece504943cf15ae9794,,19211,question,responseOptionYes,20191,form,Yes
+51ed4efb504943ebb39ebce6,,19212,question,questionText,20191,form,Please provide your company's Corporate Identity Number (CIN).
+6584b5051800003e3d9be676,5ad11b432200008300a5a925,20191,questionGroup,questionGroupText,20191,form,Avetta PQF - India Company Information
+54737ab2504943b11aa98bdf,,27323,question,description,20191,form,
+54737ab2504943b11aa98bdf,,27323,question,questionText,20191,form,Is your company registered with the Employees' State Insurance Corporation (ESIC)?
+54737ab2504943b11aa98bdf,,27323,question,responseOptionNA,20191,form,N/A
+54737ab2504943b11aa98bdf,,27323,question,responseOptionNo,20191,form,No
+54737ab2504943b11aa98bdf,,27323,question,responseOptionYes,20191,form,Yes
+54737b0d5049433c6c1178e3,,27324,question,description,20191,form,The ESIC registration code should be 17 digits in length.
+54737b0d5049433c6c1178e3,,27324,question,questionText,20191,form,Please provide your company's ESIC code number.
+54737bb85049438218660e11,,27325,question,description,20191,form,
+54737bb85049438218660e11,,27325,question,questionText,20191,form,Is your company registered with the Employees' Provident Fund Organization (EPFO)?
+54737bb85049438218660e11,,27325,question,responseOptionNA,20191,form,N/A
+54737bb85049438218660e11,,27325,question,responseOptionNo,20191,form,No
+54737bb85049438218660e11,,27325,question,responseOptionYes,20191,form,Yes
+54737bfb50494367fdc5cb4d,,27326,question,questionText,20191,form,Please provide your company's PF code.
+549dcf3350494372bafe4dde,,28017,question,questionText,20191,form,Please explain why your company is not required to register with ESIC.
+549dcf8a504943bf54b1be5f,,28018,question,questionText,20191,form,Please explain why your company is not required to register with EPFO.
+549dd0705049433ab9e06452,,28019,question,questionText,20191,form,Is your company registered under the Contract Labour (R&A) Act and register maintained?
+549dd0705049433ab9e06452,,28019,question,responseOptionNA,20191,form,N/A
+549dd0705049433ab9e06452,,28019,question,responseOptionNo,20191,form,No
+549dd0705049433ab9e06452,,28019,question,responseOptionYes,20191,form,Yes
+549dd0ac504943d1c977c0c3,,28020,question,questionText,20191,form,Please explain why your company is not required to register under the Contract Labour (R&A) Act?
+549dd12e504943c1686fc799,,28021,question,description,20191,form,"The Factories Act, is a social legislation which has been enacted for occupational safety, health and welfare of workers at work places."
+549dd12e504943c1686fc799,,28021,question,questionText,20191,form,"Does your company hold a valid licence under the Factories Act, 1948?"
+549dd12e504943c1686fc799,,28021,question,responseOptionNA,20191,form,N/A
+549dd12e504943c1686fc799,,28021,question,responseOptionNo,20191,form,No
+549dd12e504943c1686fc799,,28021,question,responseOptionYes,20191,form,Yes
+549dd291504943caacb60988,,28022,question,questionText,20191,form,Please provide your company's license number.
+549dd31d5049432e2994b0c7,,28023,question,questionText,20191,form,"Please explain why your company is not required to register under the Factories Act, 1948."
+549dd3cb5049436cf852c90b,,28024,question,description,20191,form,This license is a state based labour license and is to be obtained under the Shops and Establishment Act enacted by the respective state in which the shop or establishment has been set-up.
+549dd3cb5049436cf852c90b,,28024,question,questionText,20191,form,"Does your company hold a valid licence under the Shops & Establishment Act, 1958?"
+549dd3cb5049436cf852c90b,,28024,question,responseOptionNA,20191,form,N/A
+549dd3cb5049436cf852c90b,,28024,question,responseOptionNo,20191,form,No
+549dd3cb5049436cf852c90b,,28024,question,responseOptionYes,20191,form,Yes
+549dd3f050494347035ab4d9,,28025,question,questionText,20191,form,Please provide your company's license number.
+549dd40d504943e07e725ac7,,28026,question,questionText,20191,form,"Please explain why your company is not required to register under the Shops & Establishment Act, 1958?"
+5c803fd63900000eecb90e09,,82495,question,questionText,20191,form,Does your company have a Goods & Services Tax (GST) Registration Number (GSTN)?
+5c803fd63900000eecb90e09,,82495,question,responseOption1,20191,form,Yes
+5c803fd63900000eecb90e09,,82495,question,responseOption2,20191,form,No
+5c8040b3360000f4b09d4ed1,,82496,question,questionText,20191,form,Please provide your company's GST Registration Number.
+635bf1941800005801e51815,,132059,question,questionText,20191,form,Please provide your Permanent Account Number (PAN).
+635bf2081600005101c3cf20,,132063,question,questionText,20191,form,Please provide your PAN card:
+635bf2211800009701e51a34,,132064,question,questionText,20191,form,"Is your company registered under the Micro, Small and Medium Enterprises (MSME) Development Act, 2006?"
+635bf2211800009701e51a34,,132064,question,responseOption1,20191,form,Yes
+635bf2211800009701e51a34,,132064,question,responseOption2,20191,form,No
+635bf25b1800005701e51b75,,132065,question,questionText,20191,form,"If yes, please provide your MSME registration number."
+65833838190000c7b20e46ac,,148795,question,questionText,20191,form,"If No, please explain:"
+65833838190000c7b20e46ac,,148795,question,responseOption1,20191,form,Yes
+65833838190000c7b20e46ac,,148795,question,responseOption2,20191,form,No
+65833869190000c7b20e46b9,,148796,question,questionText,20191,form,"If No, please explain:"
+65833869190000c7b20e46b9,,148796,question,responseOption1,20191,form,Yes
+65833869190000c7b20e46b9,,148796,question,responseOption2,20191,form,No
+6583388019000058b39265ee,,148797,question,questionText,20191,form,"If No, please explain:"
+6583388019000058b39265ee,,148797,question,responseOption1,20191,form,Yes
+6583388019000058b39265ee,,148797,question,responseOption2,20191,form,No
+6583389a1900005ab39265f3,,148798,question,questionText,20191,form,"If No, please explain:"
+6583389a1900005ab39265f3,,148798,question,responseOption1,20191,form,Yes
+6583389a1900005ab39265f3,,148798,question,responseOption2,20191,form,No
+658339c01900005bb3926717,,148799,question,questionText,20191,form,Does your company have a Permanent Account Number (PAN)?
+658339c01900005bb3926717,,148799,question,responseOption1,20191,form,Yes
+658339c01900005bb3926717,,148799,question,responseOption2,20191,form,No
+65833a4c19000062b3926747,,148802,question,questionText,20191,form,"If No, please explain:"
+65833a4c19000062b3926747,,148802,question,responseOption1,20191,form,Yes
+65833a4c19000062b3926747,,148802,question,responseOption2,20191,form,No
+6584b2f2180000503d9be57b,,148860,question,questionText,20191,form,Please indicate your company's business entity / form of business within India.
+6584b2f2180000503d9be57b,,148860,question,responseOption1,20191,form,Sole Proprietorship
+6584b2f2180000503d9be57b,,148860,question,responseOption10,20191,form,Subsidiary
+6584b2f2180000503d9be57b,,148860,question,responseOption11,20191,form,Producer Company
+6584b2f2180000503d9be57b,,148860,question,responseOption12,20191,form,Branch Office
+6584b2f2180000503d9be57b,,148860,question,responseOption13,20191,form,Liaison Office/Representative Office/Project Office
+6584b2f2180000503d9be57b,,148860,question,responseOption2,20191,form,General Partnership
+6584b2f2180000503d9be57b,,148860,question,responseOption3,20191,form,Limited Liability Partnership (LLP)
+6584b2f2180000503d9be57b,,148860,question,responseOption4,20191,form,Private Limited Company
+6584b2f2180000503d9be57b,,148860,question,responseOption5,20191,form,Public Limited Company
+6584b2f2180000503d9be57b,,148860,question,responseOption6,20191,form,One Person Company (OPC)
+6584b2f2180000503d9be57b,,148860,question,responseOption7,20191,form,Section 8 Company (Non-Profit Organization)
+6584b2f2180000503d9be57b,,148860,question,responseOption8,20191,form,Trust and Societies
+6584b2f2180000503d9be57b,,148860,question,responseOption9,20191,form,Joint Venture

@@ -1,0 +1,42 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6283d7782f0000fe7023a7db,62617f7a2e0000ab41b85f1d,35920,questionGroup,questionGroupText,35920,form,Avetta PQF - Lithuania Company Information
+6261800e2e0000ab41b86384,,124333,question,description,35920,form,"Register at the Company Register, including registration with State Tax Inspectorate (the Lithuanian Revenue Authority) for corporate tax, VAT, and State Social Insurance Fund\nBoard (SODRA) "
+6261800e2e0000ab41b86384,,124333,question,questionText,35920,form,Lithuania General Business Compliance requirements:\n
+626180602e0000ab41b865b2,,124334,question,questionText,35920,form,"Is your company registered with the <a href=""https://www.vmi.lt/evmi/en/mokesciu-moketoju-registravimas"" target=""_BLANK"">State Tax Inspectorate</a>?"
+626180602e0000ab41b865b2,,124334,question,responseOption1,35920,form,Yes
+626180602e0000ab41b865b2,,124334,question,responseOption2,35920,form,No
+6261808d2e00002ff297ca05,,124335,question,description,35920,form,9 digits
+6261808d2e00002ff297ca05,,124335,question,questionText,35920,form,"Please provide your company’s <a href=""https://www.registrucentras.lt/jar/p_en/"" target=""_BLANK"">State Enterprise Centre of Registers</a>’ code"
+626182982e0000ab41b878c6,,124336,question,description,35920,form,2-5 digits
+626182982e0000ab41b878c6,,124336,question,questionText,35920,form,"Please enter your company’s main <a href=""https://osp.stat.gov.lt/en_GB/600"" target=""_BLANK""> Classification of Economic Activities</a>"
+626182b62e0000ab41b87af3,,124337,question,questionText,35920,form,Does your company have any additional LT-NACE classification?
+626182b62e0000ab41b87af3,,124337,question,responseOption1,35920,form,Yes
+626182b62e0000ab41b87af3,,124337,question,responseOption2,35920,form,No
+626182d42e00002ff297da0b,,124338,question,description,35920,form,2-5 digits
+626182d42e00002ff297da0b,,124338,question,questionText,35920,form,Please enter your company’s additional Classification of Economic Activities
+626184b22e00002ff297e6ec,,124339,question,questionText,35920,form,Does your company have any additional LT-NACE classification?
+626184b22e00002ff297e6ec,,124339,question,responseOption1,35920,form,Yes
+626184b22e00002ff297e6ec,,124339,question,responseOption2,35920,form,No
+626184c72e0000ab41b88c15,,124340,question,description,35920,form,2-5 digits
+626184c72e0000ab41b88c15,,124340,question,questionText,35920,form,Please enter your company’s additional Classification of Economic Activities
+626184ec2e00002ff297e7e8,,124341,question,questionText,35920,form,"Is your company <a href=""https://ec.europa.eu/taxation_customs/vies/vatResponse.html"" target=""_BLANK""> VAT-registered</a>?"
+626184ec2e00002ff297e7e8,,124341,question,responseOption1,35920,form,Yes
+626184ec2e00002ff297e7e8,,124341,question,responseOption2,35920,form,No
+626185032e0000ab41b88d81,,124342,question,description,35920,form,LT+ 9-12 digits 
+626185032e0000ab41b88d81,,124342,question,questionText,35920,form,Please enter your company’s VAT registration ID
+6283c24d2f0000fe70215cab,,127620,question,questionText,35920,form,Is your business incorporated in Lithuania? 
+6283c24d2f0000fe70215cab,,127620,question,responseOption1,35920,form,Yes
+6283c24d2f0000fe70215cab,,127620,question,responseOption2,35920,form,No
+6283c37d2f0000b6e037cb61,,127621,question,description,35920,form,10 digits
+6283c37d2f0000b6e037cb61,,127621,question,questionText,35920,form,Please provide your business’ taxpayer identification number.
+6283c4362f0000b6e037ee70,,127622,question,questionText,35920,form,Is (are) your business activity(ies) licensed?
+6283c4362f0000b6e037ee70,,127622,question,responseOption1,35920,form,Yes
+6283c4362f0000b6e037ee70,,127622,question,responseOption2,35920,form,No
+6283c58e2f0000b6e0380b57,,127623,question,questionText,35920,form,Please upload your business license.
+6283c6652f0000b6e038228d,,127624,question,questionText,35920,form,"Is your company listed as an <a href=""https://www.vmi.lt/evmi/en/mokesciu-moketoju-informacija"" target=""_BLANK""> unreliable tax payer</a>?"
+6283c6652f0000b6e038228d,,127624,question,responseOption1,35920,form,Yes
+6283c6652f0000b6e038228d,,127624,question,responseOption2,35920,form,No
+6283c7ec2f0000fe7022008a,,127625,question,description,35920,form,Note: This may be verified by your client for compliance purposes. 
+6283c7ec2f0000fe7022008a,,127625,question,questionText,35920,form,"Are there any <a href=""https://rekvizitai.vz.lt/en/company/"" target=""_BLANK""> adverse actions</a> open currently against your company or its owners/executives? "
+6283c7ec2f0000fe7022008a,,127625,question,responseOption1,35920,form,Yes
+6283c7ec2f0000fe7022008a,,127625,question,responseOption2,35920,form,No

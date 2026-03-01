@@ -1,0 +1,38 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+656a2479170000091d7e47fc,52af89875049437f28a5fe94,4842,questionGroup,questionGroupText,20415,form,Greece
+656e06a11b0000a80b285c15,5b4686012200005903c4be39,20415,questionGroup,questionGroupText,20415,form,Avetta PQF - Greece Company Information
+52b1ed57504943b4b39ac7a0,,22127,question,questionText,20415,form,Is your company registered with the local Chambers of Commerce?
+52b1ed57504943b4b39ac7a0,,22127,question,responseOptionNo,20415,form,No
+52b1ed57504943b4b39ac7a0,,22127,question,responseOptionYes,20415,form,Yes
+52b1ede3504943a9e7ed89d0,,22129,question,questionText,20415,form,Please provide your company's registration number.
+52b1ee3f504943b5fab547e4,,22130,question,description,20415,form,VAT is known locally in Greece as the ΦΠΑ or FPA.
+52b1ee3f504943b5fab547e4,,22130,question,questionText,20415,form,Does your company have a VAT registration number?
+52b1ee3f504943b5fab547e4,,22130,question,responseOptionNo,20415,form,No
+52b1ee3f504943b5fab547e4,,22130,question,responseOptionYes,20415,form,Yes
+52b1ee865049436877ca7da7,,22131,question,questionText,20415,form,Please provide the VAT registration number.
+656a247d17000007117e4928,,147481,question,questionText,20415,form,Please indicate your company's business entity / form of business within this country.
+656a247d17000007117e4928,,147481,question,responseOption1,20415,form,Sole Proprietorship
+656a247d17000007117e4928,,147481,question,responseOption2,20415,form,Corporation
+656a247d17000007117e4928,,147481,question,responseOption3,20415,form,Limited Liability Company
+656a247d17000007117e4928,,147481,question,responseOption4,20415,form,General Partnership
+656a247d17000007117e4928,,147481,question,responseOption5,20415,form,Limited Partnership
+656a247d17000007117e4928,,147481,question,responseOption6,20415,form,Foreign entity with no local fiscal presence
+656a247d17000007117e4928,,147481,question,responseOption7,20415,form,Other
+656a253e17000013117ea57d,,147482,question,questionText,20415,form,Please explain why:
+656a253e17000013117ea57d,,147482,question,responseOption1,20415,form,Yes
+656a253e17000013117ea57d,,147482,question,responseOption2,20415,form,No
+656a256e170000fc0b7ec780,,147483,question,questionText,20415,form,Please explain why:
+656a256e170000fc0b7ec780,,147483,question,responseOption1,20415,form,Yes
+656a256e170000fc0b7ec780,,147483,question,responseOption2,20415,form,No
+656a259a170000a40b7ed9d2,,147484,question,questionText,20415,form,"What is your company’s primary <a href = ""https://www.statistics.gr/en/economic-activities""target=""BLANK"">Industry Classification Code</a>?"
+656a259a170000a40b7ed9d2,,147484,question,responseOption1,20415,form,Yes
+656a259a170000a40b7ed9d2,,147484,question,responseOption2,20415,form,No
+656a25b31700004f0b7edec3,,147485,question,questionText,20415,form,"What is your company’s secondary <a href = ""https://www.statistics.gr/en/economic-activities""target=""BLANK"">Industry Classification Code</a>?"
+656a25b31700004f0b7edec3,,147485,question,responseOption1,20415,form,Yes
+656a25b31700004f0b7edec3,,147485,question,responseOption2,20415,form,No
+656a264b170000961a7efdb8,,147486,question,questionText,20415,form,Please indicate where your company is established:
+656a264b170000961a7efdb8,,147486,question,responseOption1,20415,form,Yes
+656a264b170000961a7efdb8,,147486,question,responseOption2,20415,form,No
+656a26651700001c0c7f0493,,147487,question,questionText,20415,form,"If Other, please explain:"
+656a26651700001c0c7f0493,,147487,question,responseOption1,20415,form,Yes
+656a26651700001c0c7f0493,,147487,question,responseOption2,20415,form,No

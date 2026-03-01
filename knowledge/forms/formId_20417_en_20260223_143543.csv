@@ -1,0 +1,41 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65259adf1800002527a2283c,55ae96985049438559a97ced,7157,questionGroup,questionGroupText,20417,form,Nicaragua
+65259eb11a000065046e565b,5b4686022200003a03c4be3b,20417,questionGroup,questionGroupText,20417,form,Avetta PQF - Nicaragua Company Information
+55ae975850494323abdc75b5,,32176,question,description,20417,form,"<a href=""https://www.mific.gob.ni/"" target=""_blank"">MIFIC</a>"
+55ae975850494323abdc75b5,,32176,question,questionText,20417,form,Is your company registered with the Commercial Registry of Nicaragua?
+55ae975850494323abdc75b5,,32176,question,responseOptionNo,20417,form,No
+55ae975850494323abdc75b5,,32176,question,responseOptionYes,20417,form,Yes
+55ae979950494313488b0ae4,,32177,question,questionText,20417,form,Is the name of your company registered with the Commercial Registry different from the company name as it appears on your Avetta account?
+55ae979950494313488b0ae4,,32177,question,responseOptionNo,20417,form,No
+55ae979950494313488b0ae4,,32177,question,responseOptionYes,20417,form,Yes
+55ae97c55049438d5c21ab94,,32178,question,questionText,20417,form,What is the official name of your company as registered with the Commercial Registry?
+55ae981f504943d045cc59fe,,32179,question,description,20417,form,"<a href=""https://www.dgi.gob.ni/"" target=""_blank"">DGI</a>"
+55ae981f504943d045cc59fe,,32179,question,questionText,20417,form,Is your company registered with the Directorate General of Revenue (DGI) for taxes?
+55ae981f504943d045cc59fe,,32179,question,responseOptionNo,20417,form,No
+55ae981f504943d045cc59fe,,32179,question,responseOptionYes,20417,form,Yes
+55ae983e5049438cf04ba5ad,,32180,question,questionText,20417,form,What is your company's Unique Taxpayer Registration (RUC) number?
+55ae985c504943b36aae21ef,,32181,question,description,20417,form,"<a href=""https://www.inss.gob.ni/"" target=""_blank"">INSS</a>"
+55ae985c504943b36aae21ef,,32181,question,questionText,20417,form,Is your company registered with the Nicaragua Social Security Institute (INSS)?
+55ae985c504943b36aae21ef,,32181,question,responseOptionNo,20417,form,No
+55ae985c504943b36aae21ef,,32181,question,responseOptionYes,20417,form,Yes
+55ae98745049434c6b53b1b3,,32182,question,questionText,20417,form,What is your company's INSS identification number?
+55ae98b2504943ad3776fef3,,32183,question,linkhttps://www.inide.gob.ni/censos2005/cuaen/cuaen.pdf,20417,form,Click here to locate your company's CUAEN code
+55ae98b2504943ad3776fef3,,32183,question,questionText,20417,form,What is your company's primary Uniform Classifier of Economic Activities in Nicaragua (CUAEN) Code? \n
+55ae98b35049433b55a3acc1,,32184,question,linkhttps://www.inide.gob.ni/censos2005/cuaen/cuaen.pdf,20417,form,Click here to locate your company's additional CUAEN code
+55ae98b35049433b55a3acc1,,32184,question,questionText,20417,form,What is your company's secondary Uniform Classifier of Economic Activities in Nicaragua (CUAEN) Code? \n
+65259add1800003e61a2283b,,145780,question,questionText,20417,form,Please indicate your company's business entity / form of business within this country.
+65259add1800003e61a2283b,,145780,question,responseOption1,20417,form,Sole Proprietorship
+65259add1800003e61a2283b,,145780,question,responseOption2,20417,form,Limited Liability Company
+65259add1800003e61a2283b,,145780,question,responseOption3,20417,form,Corporation
+65259add1800003e61a2283b,,145780,question,responseOption4,20417,form,General Partnership
+65259add1800003e61a2283b,,145780,question,responseOption5,20417,form,Limited Partnership
+65259add1800003e61a2283b,,145780,question,responseOption6,20417,form,Branch Office
+65259add1800003e61a2283b,,145780,question,responseOption7,20417,form,Representative Office
+65259add1800003e61a2283b,,145780,question,responseOption8,20417,form,Foreign entity with no local fiscal presence
+65259add1800003e61a2283b,,145780,question,responseOption9,20417,form,Other
+65259b341a0000b7046e5619,,145782,question,questionText,20417,form,Please indicate where your company is established:
+65259b341a0000b7046e5619,,145782,question,responseOption1,20417,form,Yes
+65259b341a0000b7046e5619,,145782,question,responseOption2,20417,form,No
+65259b421a0000ea596e561a,,145783,question,questionText,20417,form,"If Other, please explain:"
+65259b421a0000ea596e561a,,145783,question,responseOption1,20417,form,Yes
+65259b421a0000ea596e561a,,145783,question,responseOption2,20417,form,No

@@ -1,0 +1,43 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+654d34d9180000b7421ee0b8,654d1c8717000075325936e8,40671,questionGroup,questionGroupText,40671,form,Avetta PQF - Bolivia Company Information
+654d1fbc180000d3071edf26,654d1fbc180000d3071edf25,40673,questionGroup,questionGroupText,40671,form,Bolivia
+654d1ca61700001a315936e9,,146844,question,questionText,40671,form,Please indicate your company's business entity / form of business within this country.
+654d1ca61700001a315936e9,,146844,question,responseOption1,40671,form,Sole Proprietorship
+654d1ca61700001a315936e9,,146844,question,responseOption2,40671,form,Limited Liability Company
+654d1ca61700001a315936e9,,146844,question,responseOption3,40671,form,Corporation
+654d1ca61700001a315936e9,,146844,question,responseOption4,40671,form,Limited Partnership
+654d1ca61700001a315936e9,,146844,question,responseOption5,40671,form,Cooperative
+654d1ca61700001a315936e9,,146844,question,responseOption6,40671,form,Branch Office
+654d1ca61700001a315936e9,,146844,question,responseOption7,40671,form,Foreign entity with no local fiscal presence
+654d1ca61700001a315936e9,,146844,question,responseOption8,40671,form,Other
+654d1d4217000099325936ed,,146845,question,questionText,40671,form,Please indicate where your company is established:
+654d1d4217000099325936ed,,146845,question,responseOption1,40671,form,Yes
+654d1d4217000099325936ed,,146845,question,responseOption2,40671,form,No
+654d1faa18000039071edf24,,146848,question,questionText,40671,form,"If Other, please explain:"
+654d1faa18000039071edf24,,146848,question,responseOption1,40671,form,Yes
+654d1faa18000039071edf24,,146848,question,responseOption2,40671,form,No
+654d2032180000d6071edf32,,146852,question,questionText,40671,form,"Are you registered with the Plurinational Commerce Registration Service (<a href=""https://www.seprec.gob.bo/"" \ntarget=""_Blank"">SEPREC</a>)?"
+654d2032180000d6071edf32,,146852,question,responseOption1,40671,form,Yes
+654d2032180000d6071edf32,,146852,question,responseOption2,40671,form,No
+654d20bb1700009832593706,,146856,question,questionText,40671,form,Please provide your Commercial Registration number.
+654d20bb1700009832593706,,146856,question,responseOption1,40671,form,Yes
+654d20bb1700009832593706,,146856,question,responseOption2,40671,form,No
+654d20ee1700009832593707,,146858,question,questionText,40671,form,Please explain why:
+654d20ee1700009832593707,,146858,question,responseOption1,40671,form,Yes
+654d20ee1700009832593707,,146858,question,responseOption2,40671,form,No
+654d2139170000943259370a,,146859,question,description,40671,form,"NIT is assigned by the <a href=""https://www.impuestos.gob.bo/"" \ntarget=""_Blank"">National Tax Service (SIN)</a> ."
+654d2139170000943259370a,,146859,question,questionText,40671,form,Do you have Tax identification number (NIT)?
+654d2139170000943259370a,,146859,question,responseOption1,40671,form,Yes
+654d2139170000943259370a,,146859,question,responseOption2,40671,form,No
+654d26a0180000b7421ee051,,146860,question,questionText,40671,form,Please provide your Tax identification number (NIT).
+654d26a0180000b7421ee051,,146860,question,responseOption1,40671,form,Yes
+654d26a0180000b7421ee051,,146860,question,responseOption2,40671,form,No
+654d26b2180000ad421ee054,,146861,question,questionText,40671,form,Please explain why:
+654d26b2180000ad421ee054,,146861,question,responseOption1,40671,form,Yes
+654d26b2180000ad421ee054,,146861,question,responseOption2,40671,form,No
+654d2b631700007148593860,,146862,question,questionText,40671,form,"Please provide your primary Industry Classification Code (<a href=""https://www.ine.gob.bo/index.php/publicaciones/clasificacion-de-actividades-economicas-de-bolivia-caeb-2022/"" \ntarget=""_Blank"">CAEB</a>)."
+654d2b631700007148593860,,146862,question,responseOption1,40671,form,Yes
+654d2b631700007148593860,,146862,question,responseOption2,40671,form,No
+654d2f02180000b9421ee0b1,,146863,question,questionText,40671,form,"Please provide your secondary Industry Classification Code (<a href=""https://www.ine.gob.bo/index.php/publicaciones/clasificacion-de-actividades-economicas-de-bolivia-caeb-2022/"" \ntarget=""_Blank"">CAEB</a>)."
+654d2f02180000b9421ee0b1,,146863,question,responseOption1,40671,form,Yes
+654d2f02180000b9421ee0b1,,146863,question,responseOption2,40671,form,No

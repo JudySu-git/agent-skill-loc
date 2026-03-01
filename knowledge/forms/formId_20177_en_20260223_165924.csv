@@ -1,0 +1,64 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6580a2aa180000683a6e66b9,5214fc9c504943bd592a3598,4370,questionGroup,questionGroupText,20177,form,Brazil
+6580a8a21a0000ee3849a4b1,5ac46c8224000022011e3346,20177,questionGroup,questionGroupText,20177,form,Avetta PQF - Brazil Company Information
+521b7a245049439f607b3c88,,20531,question,description,20177,form,Businesses legally registered in Brazil will have a NIRE (<i>Número de Identificação do Registro de Empresa</i>) identification number available.
+521b7a245049439f607b3c88,,20531,question,questionText,20177,form,Does your company have a NIRE identification number?
+521b7a245049439f607b3c88,,20531,question,responseOptionNo,20177,form,No
+521b7a245049439f607b3c88,,20531,question,responseOptionYes,20177,form,Yes
+521b7ad15049437a0be08614,,20532,question,questionText,20177,form,Please provide your company's NIRE identification number at the State Commercial Registry.
+521b7bab5049431296c828e9,,20535,question,questionText,20177,form,Please provide your company's CNPJ number.
+5fd0154e2b0000b802599bf5,,105400,question,questionText,20177,form,Please upload a copy of the State Commercial Chamber Simplified Certificate (Certidão Simplificada de Registro na Junta Comercial) of your company 
+5fd016c62b0000b80259b072,,105401,question,questionText,20177,form,Please upload a copy of your company’s CNPJ Card.
+5fd017182b0000b80259c45b,,105402,question,description,20177,form,"As a general rule, all companies that sell products must have State Registration. Those who only work with services are not obliged to perform it, as they must pay the ISS tax (Services Tax), which is a municipal responsibility. There are companies that offer both products and services, which is why they also need to have State Registration."
+5fd017182b0000b80259c45b,,105402,question,questionText,20177,form,Does your company have a State Tax Number?
+5fd017182b0000b80259c45b,,105402,question,responseOption1,20177,form,Yes
+5fd017182b0000b80259c45b,,105402,question,responseOption2,20177,form,No
+5fd017182b0000b80259c45b,,105402,question,responseOption3,20177,form,No
+5fd018062c0000124bae9fdf,,105403,question,questionText,20177,form,Please provide your company's State Tax Number
+5fd018752b0000b8025a176e,,105404,question,questionText,20177,form,Please upload a certificate or other supporting documentation verifying your company's State Tax Number.
+5fd018a62c0000124baeb97a,,105406,question,description,20177,form,The Municipal Tax number is mandatory for all companies. 
+5fd018a62c0000124baeb97a,,105406,question,questionText,20177,form,Please provide your company's Municipal Tax Number.
+5fd018c22c0000124baeb99e,,105407,question,questionText,20177,form,Please upload a certificate or other supporting documentation verifying your company's Municipal Tax Number.\n\n
+6580a2c0180000e2066e66bc,,148476,question,questionText,20177,form,Please indicate your company's business entity / form of business within this country.
+6580a2c0180000e2066e66bc,,148476,question,responseOption1,20177,form,Sole Proprietorship
+6580a2c0180000e2066e66bc,,148476,question,responseOption2,20177,form,Corporation
+6580a2c0180000e2066e66bc,,148476,question,responseOption3,20177,form,Cooperative
+6580a2c0180000e2066e66bc,,148476,question,responseOption4,20177,form,Branch Office
+6580a2c0180000e2066e66bc,,148476,question,responseOption5,20177,form,Foreign entity with no local fiscal presence
+6580a2c0180000e2066e66bc,,148476,question,responseOption6,20177,form,Other
+6580a2c0180000e2066e66bc,,148476,question,responseOption7,20177,form,Limited Liability Company
+6580a2e5180000733a6e66bf,,148477,question,questionText,20177,form,Please indicate where your company is established:
+6580a2e5180000733a6e66bf,,148477,question,responseOption1,20177,form,Yes
+6580a2e5180000733a6e66bf,,148477,question,responseOption2,20177,form,No
+6580a2ef1a0000d53849a3b7,,148478,question,questionText,20177,form,"If Other, please explain:"
+6580a2ef1a0000d53849a3b7,,148478,question,responseOption1,20177,form,Yes
+6580a2ef1a0000d53849a3b7,,148478,question,responseOption2,20177,form,No
+6580a31c1800005e3a6e66c1,,148479,question,questionText,20177,form,Please explain why:
+6580a31c1800005e3a6e66c1,,148479,question,responseOption1,20177,form,Yes
+6580a31c1800005e3a6e66c1,,148479,question,responseOption2,20177,form,No
+6580a44d180000a9066e680a,,148480,question,description,20177,form,The Simplified Certificate is an extract of information that reflects the updated situation of the company with the State Commercial Chamber of the State where the company is legally incorporated.
+6580a44d180000a9066e680a,,148480,question,questionText,20177,form,Does your company have State Commercial Chamber Simplified Certificate (Certidão Simplificada de Registro na Junta Comercial)?
+6580a44d180000a9066e680a,,148480,question,responseOption1,20177,form,Yes
+6580a44d180000a9066e680a,,148480,question,responseOption2,20177,form,No
+6580a4651800007a3a6e680c,,148481,question,questionText,20177,form,Please explain why:
+6580a4651800007a3a6e680c,,148481,question,responseOption1,20177,form,Yes
+6580a4651800007a3a6e680c,,148481,question,responseOption2,20177,form,No
+6580a4e81800007d3a6e6810,,148482,question,description,20177,form,"The CNPJ card is a mandatory document that proves that a company exists and is duly registered. The number is issued upon registration with the <a href\t= ""https://www.gov.br/receitafederal/pt-br""target=""_BLANK_"">Federal Revenue of Brazil (RFB).</a>\n\n\n\n\n"
+6580a4e81800007d3a6e6810,,148482,question,questionText,20177,form,Does your company have CNPJ Card?
+6580a4e81800007d3a6e6810,,148482,question,responseOption1,20177,form,Yes
+6580a4e81800007d3a6e6810,,148482,question,responseOption2,20177,form,No
+6580a56c1a0000090349a441,,148485,question,questionText,20177,form,Please explain why:
+6580a56c1a0000090349a441,,148485,question,responseOption1,20177,form,Yes
+6580a56c1a0000090349a441,,148485,question,responseOption2,20177,form,No
+6580a6b51a00009b0549a449,,148486,question,questionText,20177,form,Please explain why:
+6580a6b51a00009b0549a449,,148486,question,responseOption1,20177,form,Yes
+6580a6b51a00009b0549a449,,148486,question,responseOption2,20177,form,No
+6580a6e01a0000dc3849a44c,,148487,question,questionText,20177,form,Does your company have a Municipal Tax Number?
+6580a6e01a0000dc3849a44c,,148487,question,responseOption1,20177,form,Yes
+6580a6e01a0000dc3849a44c,,148487,question,responseOption2,20177,form,No
+6580a71a1a0000d23849a451,,148488,question,questionText,20177,form,Please explain why:
+6580a71a1a0000d23849a451,,148488,question,responseOption1,20177,form,Yes
+6580a71a1a0000d23849a451,,148488,question,responseOption2,20177,form,No
+6580a72a1a0000dc3849a453,,148489,question,questionText,20177,form,"I hereby certify that, to the best of my knowledge, the provided information is true and accurate."
+6580a72a1a0000dc3849a453,,148489,question,responseOption1,20177,form,Yes
+6580a72a1a0000dc3849a453,,148489,question,responseOption2,20177,form,No

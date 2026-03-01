@@ -1,0 +1,30 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65296b2d190000427ac84988,4f3b7543504943766a7965bc,2398,questionGroup,questionGroupText,20118,form,Germany
+6344adb72f00007f9375e4a5,526968f25049438e2a5d55d7,4667,questionGroup,questionGroupText,20118,form,WZ - Classification of Economic Activities
+4f5602655049434c7cce4732,,11072,question,questionText,20118,form,What is your company's VAT registration number?
+6529afc6190000db617352b4,5ab6bdd93a00006600cfbb32,20118,questionGroup,questionGroupText,20118,form,Avetta PQF - Germany Company Information
+6344a35c2f0000aaf03518d9,,131776,question,description,20118,form,(10-11 digits; example formats XXX/XXXX/XXXX or XX/XXX/XXXXX)
+6344a35c2f0000aaf03518d9,,131776,question,questionText,20118,form,What is your local registration/tax identification number?
+6344a7af2f0000bd5d75b45d,,131777,question,questionText,20118,form,What is your company's primary WZ Code?\n\n
+6344ae6c2f0000b3b675e9a8,,131778,question,questionText,20118,form,What is your company's secondary WZ Code?\n\n
+6529ad5e190000cd617352a8,,145842,question,questionText,20118,form,Please indicate your company's business entity / form of business within this country.
+6529ad5e190000cd617352a8,,145842,question,responseOption1,20118,form,Sole Proprietorship
+6529ad5e190000cd617352a8,,145842,question,responseOption2,20118,form,Limited Liability Company
+6529ad5e190000cd617352a8,,145842,question,responseOption3,20118,form,Corporation
+6529ad5e190000cd617352a8,,145842,question,responseOption4,20118,form,General Partnership
+6529ad5e190000cd617352a8,,145842,question,responseOption5,20118,form,Limited Partnership
+6529ad5e190000cd617352a8,,145842,question,responseOption6,20118,form,Branch Office
+6529ad5e190000cd617352a8,,145842,question,responseOption7,20118,form,Foreign entity with no local fiscal presence
+6529ad5e190000cd617352a8,,145842,question,responseOption8,20118,form,Other
+6529ad87190000de617352ab,,145843,question,questionText,20118,form,Please indicate where your company is established:
+6529ad87190000de617352ab,,145843,question,responseOption1,20118,form,Yes
+6529ad87190000de617352ab,,145843,question,responseOption2,20118,form,No
+6529ad92190000cd617352ae,,145844,question,questionText,20118,form,"If Other, please explain:"
+6529ad92190000cd617352ae,,145844,question,responseOption1,20118,form,Yes
+6529ad92190000cd617352ae,,145844,question,responseOption2,20118,form,No
+6529adc2190000d9617352b1,,145845,question,questionText,20118,form,Does your company have VAT registration number?
+6529adc2190000d9617352b1,,145845,question,responseOption1,20118,form,Yes
+6529adc2190000d9617352b1,,145845,question,responseOption2,20118,form,No
+6529adcb190000d9617352b2,,145846,question,questionText,20118,form,Please explain why:
+6529adcb190000d9617352b2,,145846,question,responseOption1,20118,form,Yes
+6529adcb190000d9617352b2,,145846,question,responseOption2,20118,form,No

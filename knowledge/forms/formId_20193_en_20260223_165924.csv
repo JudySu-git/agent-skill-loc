@@ -1,0 +1,37 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+658b4693170000494a61b27b,57ec1023504943b66e34fb2d,9546,questionGroup,questionGroupText,20193,form,Dominican Republic
+658b4d59180000cc3dfeb9f2,5ad11d412200008300a5a93d,20193,questionGroup,questionGroupText,20193,form,Avetta PQF - Dominican Republic Company Information
+57ec10df504943d42c36d133,,40672,question,questionText,20193,form,Is your company registered with the National Office of Industrial Property  <a href='https://www.onapi.gob.do/' target='_BLANK'>  (ONAPI)</a>?
+57ec10df504943d42c36d133,,40672,question,responseOptionNo,20193,form,No
+57ec10df504943d42c36d133,,40672,question,responseOptionYes,20193,form,Yes
+57ec1131504943af7b56bb5a,,40673,question,questionText,20193,form,Please upload a copy of your company's certificate of registration.
+57ec11435049439be75fa2e4,,40674,question,questionText,20193,form,Does your company have a tax identification number (RNC) as issued by the National Agency of Internal Revenue<a href='https://dgii.gov.do/cicloContribuyente/registroRNC/Paginas/default.aspx' target='_BLANK'>  (DGII)</a>?
+57ec11435049439be75fa2e4,,40674,question,responseOptionNo,20193,form,No
+57ec11435049439be75fa2e4,,40674,question,responseOptionYes,20193,form,Yes
+57ec11615049437306374d9d,,40675,question,questionText,20193,form,What is your company's tax identification number (RNC)?
+658b4692170000494a61b27a,,149136,question,questionText,20193,form,Please indicate your company's business entity / form of business within this country:
+658b4692170000494a61b27a,,149136,question,responseOption1,20193,form,Sole Proprietorship
+658b4692170000494a61b27a,,149136,question,responseOption2,20193,form,Limited Liability Company
+658b4692170000494a61b27a,,149136,question,responseOption3,20193,form,Corporation
+658b4692170000494a61b27a,,149136,question,responseOption4,20193,form,General Partnership
+658b4692170000494a61b27a,,149136,question,responseOption5,20193,form,Limited Partnership
+658b4692170000494a61b27a,,149136,question,responseOption6,20193,form,Branch Office
+658b4692170000494a61b27a,,149136,question,responseOption7,20193,form,Representative Office
+658b4692170000494a61b27a,,149136,question,responseOption8,20193,form,Foreign entity with no local fiscal presence
+658b4692170000494a61b27a,,149136,question,responseOption9,20193,form,Other
+658b4756180000e43dfeb7e3,,149137,question,questionText,20193,form,Please indicate where your company is established:
+658b4756180000e43dfeb7e3,,149137,question,responseOption1,20193,form,Yes
+658b4756180000e43dfeb7e3,,149137,question,responseOption2,20193,form,No
+658b47721700003c4a61b299,,149138,question,questionText,20193,form,"If Other, please explain:"
+658b47721700003c4a61b299,,149138,question,responseOption1,20193,form,Yes
+658b47721700003c4a61b299,,149138,question,responseOption2,20193,form,No
+658b4814180000dd3dfeb86a,,149139,question,questionText,20193,form,Please explain why:
+658b4814180000dd3dfeb86a,,149139,question,responseOption1,20193,form,Yes
+658b4814180000dd3dfeb86a,,149139,question,responseOption2,20193,form,No
+658b4841180000bf3dfeb875,,149140,question,questionText,20193,form,Please explain why:
+658b4841180000bf3dfeb875,,149140,question,responseOption1,20193,form,Yes
+658b4841180000bf3dfeb875,,149140,question,responseOption2,20193,form,No
+658b48ce170000494a61b391,,149141,question,description,20193,form,The CIIU code can be referenced on DGII (Dirección General de Impuestos Internos) website (Spanish only).\n\n<a href='https://dgii.gov.do/herramientas/consultas/Paginas/Consulta-Actividades-Economicas.aspx' target='_BLANK'>Actividades Economicas</a>:\n
+658b48ce170000494a61b391,,149141,question,questionText,20193,form,What is your company's primary Classification of Economic Activities in Dominican Republic (CIIU) Code?
+658b48ce170000494a61b391,,149141,question,responseOption1,20193,form,Yes
+658b48ce170000494a61b391,,149141,question,responseOption2,20193,form,No

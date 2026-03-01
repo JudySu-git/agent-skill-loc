@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+660afaf11c00009a00ae3173,6540327b1b00009a553890a4,40573,questionGroup,description,40574,form,You are receiving this category because you selected Small Disadvantaged Business in the United States Supplier Diversity Certification Questionnaire.
+660afaf11c00009a00ae3173,6540327b1b00009a553890a4,40573,questionGroup,questionGroupText,40574,form,Small Disadvantaged Business
+667b462c0100000801247080,6540327b1b00009a553890a3,40574,questionGroup,questionGroupText,40574,form,Avetta PQF - US Supplier Diversity: Small Disadvantaged Business
+6540327b1b00009a553890a5,,146385,question,questionText,40574,form,Please enter the issue date of your company’s Small Disadvantaged Business certificate:
+6540327b1b00009a553890a5,,146385,question,responseOption1,40574,form,Yes
+6540327b1b00009a553890a5,,146385,question,responseOption2,40574,form,No
+6540327b1b00009a553890a6,,146386,question,questionText,40574,form,Expiration Date:
+6540327b1b00009a553890a6,,146386,question,responseOption1,40574,form,Yes
+6540327b1b00009a553890a6,,146386,question,responseOption2,40574,form,No
+6540327b1b00009a553890a7,,146387,question,questionText,40574,form,Certificate Number:
+6540327b1b00009a553890a7,,146387,question,responseOption1,40574,form,Yes
+6540327b1b00009a553890a7,,146387,question,responseOption2,40574,form,No
+6540327b1b00009a553890a8,,146388,question,questionText,40574,form,Please upload a copy of your certification certificate:
+6540327b1b00009a553890a8,,146388,question,responseOption1,40574,form,Yes
+6540327b1b00009a553890a8,,146388,question,responseOption2,40574,form,No

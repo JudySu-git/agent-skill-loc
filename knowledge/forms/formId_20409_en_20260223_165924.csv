@@ -1,0 +1,35 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+535565b3504943a9e489a3a8,535565b3504943a9e489a3a8,5253,questionGroup,questionGroupText,20409,form,NOGA - General Classification of Economic Activities
+519a728450494328ad9ee262,,17856,question,description,20409,form,"The Central Business Names Index (<a href=""https://www.zefix.admin.ch/"">Zefix</a>) contains information and business names of corporate bodies (corporations, corporations with unlimited partners, limited liability companies, co-operatives, non-profit associations and foundations) and public-law corporations registered in the Commercial Register. There are currently forty-five cantonal commercial registers in Switzerland. New entries and changes in the commercial register are published in the Swiss Commercial Gazette (<a href=""https://www.shab.ch/"">SHAB</a>) in English, French, German and Italian."
+519a728450494328ad9ee262,,17856,question,questionText,20409,form,Is your company registered on the commercial register?
+519a728450494328ad9ee262,,17856,question,responseOptionNo,20409,form,No
+519a728450494328ad9ee262,,17856,question,responseOptionYes,20409,form,Yes
+519a72f7504943b0629544c0,,17857,question,questionText,20409,form,Does your company have a Company Registration number?
+519a72f7504943b0629544c0,,17857,question,responseOptionNo,20409,form,No
+519a72f7504943b0629544c0,,17857,question,responseOptionYes,20409,form,Yes
+519a7353504943c9303e24db,,17858,question,questionText,20409,form,Please provide the Company Registration number.
+519a73a4504943ab26ad518e,,17859,question,description,20409,form,"<a href=""https://www.ch.ch/en/vat/"" target=""_blank"">Swiss VAT</a> was introduced in 1995. It is known as Mehrwertsteuer (MwSt.); Taxe sur la valeur ajoutée (TVA); Imposta sul valore aggiunto (IVA). While Switzerland is not part of the European Union, its VAT regulations have followed the EU template in terms of all fundamental principles. Revisions were made in 2011."
+519a73a4504943ab26ad518e,,17859,question,questionText,20409,form,Does your company have a VAT registration number?
+519a73a4504943ab26ad518e,,17859,question,responseOptionNo,20409,form,No
+519a73a4504943ab26ad518e,,17859,question,responseOptionYes,20409,form,Yes
+519a74645049436124bdc1d5,,17860,question,questionText,20409,form,Please provide the VAT registration number.
+6584b8e31900004f460eb21c,5b401421230000250546b201,20409,questionGroup,questionGroupText,20409,form,Avetta PQF - Switzerland Company Information
+535566665049434668dd894f,,23323,question,link,20409,form,Click here to locate your company's NOGA code
+535566665049434668dd894f,,23323,question,questionText,20409,form,What is your company's primary NOGA Code? \n
+53556698504943a07379a622,,23324,question,linkhttps://www.bfs.admin.ch/bfs/portal/en/index/infothek/nomenklaturen/blank/blank/noga0/vue_d_ensemble.html,20409,form,Click here to locate your company's NOGA code
+53556698504943a07379a622,,23324,question,questionText,20409,form,What is your company's secondary NOGA Code? \n
+657b87691b0000e84c80d1f4,,148359,question,questionText,20409,form,Please indicate where your company is established:
+657b87691b0000e84c80d1f4,,148359,question,responseOption1,20409,form,Yes
+657b87691b0000e84c80d1f4,,148359,question,responseOption2,20409,form,No
+657b8d2b1900002a0049a457,,148362,question,questionText,20409,form,Please explain: 
+657b8d2b1900002a0049a457,,148362,question,responseOption1,20409,form,Yes
+657b8d2b1900002a0049a457,,148362,question,responseOption2,20409,form,No
+6584b674180000563d9be69b,,148861,question,questionText,20409,form,Please indicate your company's business entity / form of business within this country.
+6584b674180000563d9be69b,,148861,question,responseOption1,20409,form,Sole proprietorship
+6584b674180000563d9be69b,,148861,question,responseOption2,20409,form,Limited Liability Company
+6584b674180000563d9be69b,,148861,question,responseOption3,20409,form,General Partnership
+6584b674180000563d9be69b,,148861,question,responseOption4,20409,form,Joint-stock Company / Corporation
+6584b674180000563d9be69b,,148861,question,responseOption5,20409,form,Limited Partnership
+6584b674180000563d9be69b,,148861,question,responseOption6,20409,form,Branch Office
+6584b674180000563d9be69b,,148861,question,responseOption7,20409,form,Foreign entity with no local fiscal presence
+6584b674180000563d9be69b,,148861,question,responseOption8,20409,form,Other

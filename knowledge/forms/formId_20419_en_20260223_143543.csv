@@ -1,0 +1,51 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+655b8b31180000cd0364526e,556df7085049437a228337ac,6951,questionGroup,questionGroupText,20419,form,Vietnam
+655d312c180000517fa35816,5b468602230000e00f46d016,20419,questionGroup,questionGroupText,20419,form,Avetta PQF - Vietnam Company Information
+556df8a8504943f01e9f6873,,31099,question,description,20419,form,"<a href=""https://www.mpi.gov.vn/en/Pages/default.aspx"" target=""_blank"">Ministry of Planning and Investment</a>"
+556df8a8504943f01e9f6873,,31099,question,questionText,20419,form,Is your company registered with the Ministry of Planning and Investment?
+556df8a8504943f01e9f6873,,31099,question,responseOptionNo,20419,form,No
+556df8a8504943f01e9f6873,,31099,question,responseOptionYes,20419,form,Yes
+556df90b5049433caf313601,,31100,question,description,20419,form,
+556df90b5049433caf313601,,31100,question,questionText,20419,form,What is your company's enterprise code?
+556df90d5049432ffe4c5616,,31101,question,questionText,20419,form,Please upload a copy of your company's business registration certificate.
+556df92f504943ddb38f7d9b,,31102,question,questionText,20419,form,Does your company have an approved Company Seal?
+556df92f504943ddb38f7d9b,,31102,question,responseOptionNA,20419,form,N/A
+556df92f504943ddb38f7d9b,,31102,question,responseOptionNo,20419,form,No
+556df92f504943ddb38f7d9b,,31102,question,responseOptionYes,20419,form,Yes
+556df971504943245ad74bc8,,31103,question,questionText,20419,form,Is the Company Seal registered with the appropriate local police department?
+556df971504943245ad74bc8,,31103,question,responseOptionNo,20419,form,No
+556df971504943245ad74bc8,,31103,question,responseOptionYes,20419,form,Yes
+556df972504943e76bff3571,,31104,question,questionText,20419,form,Please upload a sample/model of the Company Seal.
+556df9ab50494355c97f4d60,,31105,question,description,20419,form,"The <a href=""https://baohiemxahoi.gov.vn/"" target=""_blank"">Social Insurance Fund of Vietnam</a> provides benefits and compensation for employees should a qualifying event occur. Both employer and employees are required to pay into this fund."
+556df9ab50494355c97f4d60,,31105,question,questionText,20419,form,Does your company pay contributions to the Social Insurance Fund of Vietnam?
+556df9ab50494355c97f4d60,,31105,question,responseOptionNA,20419,form,N/A
+556df9ab50494355c97f4d60,,31105,question,responseOptionNo,20419,form,No
+556df9ab50494355c97f4d60,,31105,question,responseOptionYes,20419,form,Yes
+556df9f45049437b27d9dd38,,31106,question,questionText,20419,form,Please explain why your company does not pay contributions to the Social Insurance Fund.
+556dfa3850494378eac77e64,,31108,question,linkhttps://www.gso.gov.vn/en/homepage/,20419,form,Click here to locate your company's VSIC code
+556dfa3850494378eac77e64,,31108,question,questionText,20419,form,What is your company's primary Vietnam Standard Industrial Classification (VSIC) Code? \n
+556dfa3a5049438ab74f1837,,31109,question,linkhttps://www.gso.gov.vn/en/homepage/,20419,form,Click here to locate your company's additional VSIC code
+556dfa3a5049438ab74f1837,,31109,question,questionText,20419,form,What is your company's secondary Vietnam Standard Industrial Classification (VSIC) Code? \n
+655b8b301800008802645231,,147131,question,questionText,20419,form,Please indicate your company's business entity / form of business within Vietnam.
+655b8b301800008802645231,,147131,question,responseOption1,20419,form,Limited Liability Company (LLC)
+655b8b301800008802645231,,147131,question,responseOption10,20419,form,Other
+655b8b301800008802645231,,147131,question,responseOption2,20419,form,Multiple Member Limited Liability Company (MMLLC): Owned by two to fifty members or shareholders. The liability of the members is limited to their capital contribution.
+655b8b301800008802645231,,147131,question,responseOption3,20419,form,"Joint Stock Company (JSC): Suitable for large businesses with a structure similar to corporations in other jurisdictions. They can issue shares and bonds, and their shares can be listed on Vietnam's stock exchange. Shareholders' liability is limited to their capital contribution."
+655b8b301800008802645231,,147131,question,responseOption4,20419,form,"Partnership: A business entity with at least two individual co-owners. The partners can have unlimited liability (general partners) or limited liability (limited partners), depending on their involvement and the terms of the partnership agreement."
+655b8b301800008802645231,,147131,question,responseOption5,20419,form,"Representative Office (RO): For foreign companies looking to explore the Vietnamese market without direct commercial activities. A representative office can conduct market research, act as a liaison for its parent company, and promote the parent company's business. It cannot engage in profit-generating activities."
+655b8b301800008802645231,,147131,question,responseOption6,20419,form,"Branch Office: A foreign company can establish a branch office in Vietnam. Unlike the representative office, a branch office can conduct profit-generating activities. However, there are restrictions on the sectors in which foreign branches can operate."
+655b8b301800008802645231,,147131,question,responseOption7,20419,form,Business Cooperation Contract (BCC): A cooperation agreement between foreign investors and at least one Vietnamese partner to conduct specific business activities. It allows for profit-sharing without forming a separate legal entity.
+655b8b301800008802645231,,147131,question,responseOption8,20419,form,Public Private Partnership (PPP): A form of cooperation between a government agency and a private-sector company for infrastructure development or the provision of public services. This model has been increasingly promoted in Vietnam to attract foreign investment in infrastructure projects.
+655b8b301800008802645231,,147131,question,responseOption9,20419,form,"Build-Operate-Transfer (BOT), Build-Transfer-Operate (BTO), and Build-Transfer (BT) contracts: These are specific types of contracts between private investors and the government to develop infrastructure projects. The investor funds the project and then may operate it for a period to recover their investment before transferring it to the government."
+655b8c11180000280364903e,,147132,question,questionText,20419,form,"If No, please explain."
+655b8c11180000280364903e,,147132,question,responseOption1,20419,form,Yes
+655b8c11180000280364903e,,147132,question,responseOption2,20419,form,No
+655cd4411800001d0e9211e4,,147186,question,questionText,20419,form,Limited Liability Company (LLC):
+655cd4411800001d0e9211e4,,147186,question,responseOption1,20419,form,Single Member Limited Liability Company (SMLLC): Owned by one individual or organization. This is a separate legal entity from its owner.
+655cd4411800001d0e9211e4,,147186,question,responseOption2,20419,form,Multiple Member Limited Liability Company (MMLLC): Owned by two to fifty members or shareholders. The liability of the members is limited to their capital contribution.
+655cd6f7180000f90d92d0b8,,147187,question,questionText,20419,form,"If No, please explain."
+655cd6f7180000f90d92d0b8,,147187,question,responseOption1,20419,form,Yes
+655cd6f7180000f90d92d0b8,,147187,question,responseOption2,20419,form,No
+655d2a1c180000507fa35483,,147305,question,questionText,20419,form,"If other, please explain."
+655d2a1c180000507fa35483,,147305,question,responseOption1,20419,form,Yes
+655d2a1c180000507fa35483,,147305,question,responseOption2,20419,form,No

@@ -1,0 +1,46 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+688297cd0100005800889d80,68826cae0100003a00ed17ce,46784,questionGroup,description,46784,form,You received this form because you connected to a client site in Morocco.
+688297cd0100005800889d80,68826cae0100003a00ed17ce,46784,questionGroup,questionGroupText,46784,form,Avetta PQF - Morocco Company Information
+68826db70100004100889cfa,68826db70100004100889cf9,46785,questionGroup,questionGroupText,46784,form,Morocco
+68826dd60100003c00ed17d5,,177151,question,description,46784,form,"<b>Limited Liability Company (SARL)</b>\nA SARL is a private limited liability company, widely used by small and medium-sized enterprises (SMEs) in Morocco.\n\n<b>Public Limited Company (SA)</b>\nA SA is a public limited company suitable for large enterprises and those seeking to raise capital from the public.\n\n<b>Simplified Joint-Stock Company (SAS)</b>\nThe SAS is a flexible corporate structure introduced to provide more adaptable and innovative governance options.\n\n<b>Sole Proprietorship</b>\nA sole proprietorship indicates that a business is owned and operated by a single individual.\n\n<b>Branch Office</b>\nA branch office is registered in the Commercial Register but is not a separate legal entity from its foreign parent company.\n\n<b>Liaison Office (Representative Office)</b>\nA liaison office allows foreign companies to officially represent themselves in Morocco without creating a separate Moroccan legal entity."
+68826dd60100003c00ed17d5,,177151,question,questionText,46784,form,Please indicate your company's business entity / form of business within Morocco.
+68826dd60100003c00ed17d5,,177151,question,responseOption1,46784,form,Limited Liability Company (SARL)
+68826dd60100003c00ed17d5,,177151,question,responseOption2,46784,form,Public Limited Company (SA)
+68826dd60100003c00ed17d5,,177151,question,responseOption3,46784,form,Simplified Joint-Stock Company (SAS)
+68826dd60100003c00ed17d5,,177151,question,responseOption4,46784,form,Sole Proprietorship
+68826dd60100003c00ed17d5,,177151,question,responseOption5,46784,form,Branch Office
+68826dd60100003c00ed17d5,,177151,question,responseOption6,46784,form,Liaison Office (Representative Office)
+68826dd60100003c00ed17d5,,177151,question,responseOption7,46784,form, Other
+688273010100000801889d12,,177152,question,questionText,46784,form,"If other, please explain."
+688273240100003e00889d14,,177153,question,description,46784,form,
+688273240100003e00889d14,,177153,question,questionText,46784,form,Does your company have a Nomenclature Marocaine des Activités (NMA2010) code?
+688273240100003e00889d14,,177153,question,responseOption1,46784,form,Yes
+688273240100003e00889d14,,177153,question,responseOption2,46784,form,No
+688273610100003a00ed1811,,177154,question,description,46784,form,"The assigned NMA2010 code appears on official business registration documents, including trade register certificates, tax identification records (IF), and business licenses. Find more information on the <a href=""https://www.hcp.ma/region-drda/Nomenclature-marocaine-d-activites-NMA-2010_a122.html""target=""_blank"">Haut Commissariat au Plan (HCP) website</a>. "
+688273610100003a00ed1811,,177154,question,questionText,46784,form,Please provide your company's Nomenclature Marocaine des Activités (NMA2010) code?
+688273750100003800ed1814,,177155,question,description,46784,form,"Find more information on the <a href=""https://www.hcp.ma/region-drda/Nomenclature-marocaine-d-activites-NMA-2010_a122.html""target=""_blank"">Haut Commissariat au Plan (HCP) website</a>. "
+688273750100003800ed1814,,177155,question,questionText,46784,form,Please explain why your company does not have a Nomenclature Marocaine des Activités (NMA2010) code.
+688273840100000801889d16,,177156,question,description,46784,form,"An ICE number  is a unique 15-digit number assigned to every company operating in Morocco. It serves as the company’s universal identifier for all administrative, fiscal, and legal activities. You can find your ICE on the <a href=""https://www.ice.gov.ma""target=""_blank"">official government portal for ICE</a>."
+688273840100000801889d16,,177156,question,questionText,46784,form,Does your company have a ICE (Identifiant Commun d’Entreprise)?
+688273840100000801889d16,,177156,question,responseOption1,46784,form,Yes
+688273840100000801889d16,,177156,question,responseOption2,46784,form,No
+688273960100004100889d18,,177157,question,description,46784,form,"You can find your ICE on the <a href=""https://www.ice.gov.ma""target=""_blank"">official government portal for ICE</a>."
+688273960100004100889d18,,177157,question,questionText,46784,form,Please provide your company's ICE number.
+688273a20100001601ed1817,,177158,question,description,46784,form,"Find more information on the <a href=""https://www.ice.gov.ma""target=""_blank"">official government portal for ICE</a>."
+688273a20100001601ed1817,,177158,question,questionText,46784,form,Please explain why your company does not have a ICE number.
+688273af0100005800889d1b,,177159,question,description,46784,form,
+688273af0100005800889d1b,,177159,question,questionText,46784,form,Does your company have an IF Tax Identification Number?
+688273af0100005800889d1b,,177159,question,responseOption1,46784,form,Yes
+688273af0100005800889d1b,,177159,question,responseOption2,46784,form,No
+688273c40100004100889d1e,,177160,question,description,46784,form,
+688273c40100004100889d1e,,177160,question,questionText,46784,form,Please provide your company's IF Tax Identification Number.
+688273d20100003c00ed181b,,177161,question,description,46784,form,"Find more information about the <a href=""https://www.tax.gov.ma/wps/portal/DGI/Accueil""target=""_blank"">IF Tax Identification Number</a> on the DGI Official Website."
+688273d20100003c00ed181b,,177161,question,questionText,46784,form,Please explain why your company does not have an IF Tax Identification Number.
+688273e00100003c00ed181e,,177162,question,description,46784,form,"This <a href=""https://www.ompic.ma/en/content/rcc-services""target=""_blank"">Certificate of Registration</a> serves as the official confirmation that your company has been established and is recognized by the state. Find more information on the Office Marocain de la Propriété Industrielle et Commerciale (OMPIC) ""DirectInfo"" portal."
+688273e00100003c00ed181e,,177162,question,questionText,46784,form,Does your company have a Certificate of Registration of a legal entity?
+688273e00100003c00ed181e,,177162,question,responseOption1,46784,form,Yes
+688273e00100003c00ed181e,,177162,question,responseOption2,46784,form,No
+688273ef0100001301ed1821,,177163,question,description,46784,form,"The <a href=""https://www.ompic.ma/en/content/rcc-services""target=""_blank"">Certificate of Registration</a> can be obtained on your Office Marocain de la Propriété Industrielle et Commerciale (OMPIC) ""DirectInfo"" portal."
+688273ef0100001301ed1821,,177163,question,questionText,46784,form,Please upload your company's Certificate of Registration of a legal entity.
+688273ff0100004100889d21,,177164,question,description,46784,form,"Find more information on the <a href=""https://www.ompic.ma/en/content/rcc-services""target=""_blank"">Certificate of Registration</a> on the Office Marocain de la Propriété Industrielle et Commerciale (OMPIC) ""DirectInfo"" portal."
+688273ff0100004100889d21,,177164,question,questionText,46784,form,Please explain why your company does not have a Certificate of Registration of a legal entity.

@@ -1,0 +1,27 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65734a88190000b601ff5bb4,4ffc2284504943e58fae798f,2769,questionGroup,questionGroupText,27658,form,Finland
+4ffc3a2250494395d3ddbcd2,,12626,question,questionText,27658,form,Is your company registered to the Finnish Trade Register?
+4ffc3a2250494395d3ddbcd2,,12626,question,responseOptionNo,27658,form,No
+4ffc3a2250494395d3ddbcd2,,12626,question,responseOptionYes,27658,form,Yes
+4ffc3afc504943a33486d02b,,12627,question,questionText,27658,form,"If yes, please provide the Finnish Business-ID of your company."
+4ffc3d2a504943a873b5cfdd,,12628,question,questionText,27658,form,Is your company registered as VAT liable in Finland?
+4ffc3d2a504943a873b5cfdd,,12628,question,responseOptionNo,27658,form,No
+4ffc3d2a504943a873b5cfdd,,12628,question,responseOptionYes,27658,form,Yes
+4ffc3d5f50494393b5b11bf0,,12629,question,questionText,27658,form,"If yes, please provide your VAT number."
+657794bd1a0000f23a858e5d,5dbb1a0d3400006ed981d27d,27658,questionGroup,questionGroupText,27658,form,Avetta PQF - Finland Company Information
+65734a931900004b01ff5bb6,,148043,question,questionText,27658,form,Please indicate your company's business entity / form of business within this country.
+65734a931900004b01ff5bb6,,148043,question,responseOption1,27658,form,Sole Proprietorship
+65734a931900004b01ff5bb6,,148043,question,responseOption2,27658,form,Limited Liability Company (LLC)
+65734a931900004b01ff5bb6,,148043,question,responseOption3,27658,form,General Partnership
+65734a931900004b01ff5bb6,,148043,question,responseOption4,27658,form,Limited Partnership
+65734a931900004b01ff5bb6,,148043,question,responseOption5,27658,form,Public Limited Company (PLC)
+65734a931900004b01ff5bb6,,148043,question,responseOption6,27658,form,Cooperatives
+65734a931900004b01ff5bb6,,148043,question,responseOption7,27658,form,Branch Office of a Foreign Company
+65734a931900004b01ff5bb6,,148043,question,responseOption8,27658,form,Foreign company with no fiscal presence in Finland
+65734a931900004b01ff5bb6,,148043,question,responseOption9,27658,form,Other
+65734bc41a00009900b9a0bd,,148044,question,questionText,27658,form,Please indicate where your company is established:
+65734bc41a00009900b9a0bd,,148044,question,responseOption1,27658,form,Yes
+65734bc41a00009900b9a0bd,,148044,question,responseOption2,27658,form,No
+65734be51900009100ff5be6,,148045,question,questionText,27658,form,"If Other, please explain:"
+65734be51900009100ff5be6,,148045,question,responseOption1,27658,form,Yes
+65734be51900009100ff5be6,,148045,question,responseOption2,27658,form,No

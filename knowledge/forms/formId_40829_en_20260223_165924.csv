@@ -1,0 +1,43 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+656e3d371b00003f7d32f949,656e3d371b00003f7d32f949,40828,questionGroup,questionGroupText,40829,form,Kenya
+656e453f1b0000717d32fd22,656e3d371b00003f7d32f948,40829,questionGroup,questionGroupText,40829,form,Avetta PQF - Kenya Company Information
+656e3d371b00003f7d32f94a,,147629,question,questionText,40829,form,Please indicate your company's business entity / form of business within this country.
+656e3d371b00003f7d32f94a,,147629,question,responseOption1,40829,form,Sole Proprietorship
+656e3d371b00003f7d32f94a,,147629,question,responseOption2,40829,form,Private Limited Company (Ltd.)
+656e3d371b00003f7d32f94a,,147629,question,responseOption3,40829,form,Public Limited Company (PLC)
+656e3d371b00003f7d32f94a,,147629,question,responseOption4,40829,form,Limited Liability Partnership (LLP)
+656e3d371b00003f7d32f94a,,147629,question,responseOption5,40829,form,General Partnership
+656e3d371b00003f7d32f94a,,147629,question,responseOption6,40829,form,Limited Partnership
+656e3d371b00003f7d32f94a,,147629,question,responseOption7,40829,form,Branch Office
+656e3d371b00003f7d32f94a,,147629,question,responseOption8,40829,form,Foreign entity with no local fiscal presence
+656e3d371b00003f7d32f94a,,147629,question,responseOption9,40829,form,Other
+656e3d371b00003f7d32f94b,,147630,question,questionText,40829,form,Please indicate where your company is established:
+656e3d371b00003f7d32f94b,,147630,question,responseOption1,40829,form,Yes
+656e3d371b00003f7d32f94b,,147630,question,responseOption2,40829,form,No
+656e3d371b00003f7d32f94c,,147631,question,questionText,40829,form,"If Other, please explain:"
+656e3d371b00003f7d32f94c,,147631,question,responseOption1,40829,form,Yes
+656e3d371b00003f7d32f94c,,147631,question,responseOption2,40829,form,No
+656e3d371b00003f7d32f94d,,147632,question,questionText,40829,form,"Is your company registered with the <a href=""https://brs.go.ke/"" \ntarget=""_Blank"">Business Registrar Services (BRS)</a> in Kenya?"
+656e3d371b00003f7d32f94d,,147632,question,responseOption1,40829,form,Yes
+656e3d371b00003f7d32f94d,,147632,question,responseOption2,40829,form,No
+656e3d371b00003f7d32f94e,,147633,question,questionText,40829,form,Please provide your company's registration number from the Business Registrar Services (BRS).
+656e3d371b00003f7d32f94e,,147633,question,responseOption1,40829,form,Yes
+656e3d371b00003f7d32f94e,,147633,question,responseOption2,40829,form,No
+656e3d371b00003f7d32f94f,,147634,question,questionText,40829,form,Please explain why:
+656e3d371b00003f7d32f94f,,147634,question,responseOption1,40829,form,Yes
+656e3d371b00003f7d32f94f,,147634,question,responseOption2,40829,form,No
+656e3d371b00003f7d32f950,,147635,question,questionText,40829,form,"Is your company registered with the <a href=""https://www.kra.go.ke/"" \ntarget=""_Blank"">Kenya Revenue Authority (KRA)</a>?"
+656e3d371b00003f7d32f950,,147635,question,responseOption1,40829,form,Yes
+656e3d371b00003f7d32f950,,147635,question,responseOption2,40829,form,No
+656e3d371b00003f7d32f951,,147636,question,questionText,40829,form,Please provide your company's Tax Identification Number (TIN) / (PIN).
+656e3d371b00003f7d32f951,,147636,question,responseOption1,40829,form,Yes
+656e3d371b00003f7d32f951,,147636,question,responseOption2,40829,form,No
+656e3d371b00003f7d32f952,,147637,question,questionText,40829,form,Please explain why:
+656e3d371b00003f7d32f952,,147637,question,responseOption1,40829,form,Yes
+656e3d371b00003f7d32f952,,147637,question,responseOption2,40829,form,No
+656e3d371b00003f7d32f953,,147638,question,questionText,40829,form,"Please provide your primary Industry Classification Code (<a href=""/file-preview.html?fileId=2023-12-04T21%3A18%3A19.345Z~~*UFJJTlQtQ09QWS1PRi1LRVNJQy1TVEFOREFSRC5wZGY%3D"" \ntarget=""_Blank"">KeSIC</a>)."
+656e3d371b00003f7d32f953,,147638,question,responseOption1,40829,form,Yes
+656e3d371b00003f7d32f953,,147638,question,responseOption2,40829,form,No
+656e3d371b00003f7d32f954,,147639,question,questionText,40829,form,"Please provide your secondary Industry Classification Code (<a href=""/file-preview.html?fileId=2023-12-04T21%3A18%3A19.345Z~~*UFJJTlQtQ09QWS1PRi1LRVNJQy1TVEFOREFSRC5wZGY%3D"" \ntarget=""_Blank"">KeSIC</a>)."
+656e3d371b00003f7d32f954,,147639,question,responseOption1,40829,form,Yes
+656e3d371b00003f7d32f954,,147639,question,responseOption2,40829,form,No

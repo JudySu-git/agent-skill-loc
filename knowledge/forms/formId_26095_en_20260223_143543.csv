@@ -1,0 +1,46 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6524976a17000038528cdefb,5c267a595200006f225e9209,26095,questionGroup,questionGroupText,26095,form,Avetta PQF - Peru Company Information
+57eabf2f504943c0b52bfdec,,40633,question,questionText,26095,form,"Is your company registered at the <a href=""https://www.gob.pe/sunarp"" \ntarget=""_Blank"">Public Register of Commerce</a>?"
+57eabf2f504943c0b52bfdec,,40633,question,responseOptionNo,26095,form,No
+57eabf2f504943c0b52bfdec,,40633,question,responseOptionYes,26095,form,Yes
+57eabfae504943780dd8254b,,40634,question,questionText,26095,form,Please upload a copy of your company's certificate of registration.
+57eabfd6504943a2708ce7e9,,40635,question,questionText,26095,form,Is the name of your company registered with the Public Register of Commerce different from the company name as it appears on your Avetta account?
+57eabfd6504943a2708ce7e9,,40635,question,responseOptionNo,26095,form,No
+57eabfd6504943a2708ce7e9,,40635,question,responseOptionYes,26095,form,Yes
+57eac00850494331f4f47306,,40636,question,questionText,26095,form,What is the official name of your company as registered with the Public Register of Commerce?
+57eac00850494331f4f47306,,40636,question,responseOptionNo,26095,form,No
+57eac00850494331f4f47306,,40636,question,responseOptionYes,26095,form,Yes
+57eac01d5049437b5de14456,,40637,question,questionText,26095,form,"Does your company have a tax identification number (<a href=""https://orientacion.sunat.gob.pe/ruc-empresas"" \ntarget=""_Blank"">RUC</a>)?"
+57eac01d5049437b5de14456,,40637,question,responseOptionNo,26095,form,No
+57eac01d5049437b5de14456,,40637,question,responseOptionYes,26095,form,Yes
+57eac035504943fe7dbef9b9,,40638,question,questionText,26095,form,
+6524832a1700008e520709d3,,145769,question,questionText,26095,form,Please indicate your company's business entity / form of business within this country.
+6524832a1700008e520709d3,,145769,question,responseOption1,26095,form,Sole Proprietorship
+6524832a1700008e520709d3,,145769,question,responseOption2,26095,form,Limited Liability Company
+6524832a1700008e520709d3,,145769,question,responseOption3,26095,form,Corporation
+6524832a1700008e520709d3,,145769,question,responseOption4,26095,form,General Partnership
+6524832a1700008e520709d3,,145769,question,responseOption5,26095,form,Limited Partnership
+6524832a1700008e520709d3,,145769,question,responseOption6,26095,form,Branch Office
+6524832a1700008e520709d3,,145769,question,responseOption7,26095,form,Joint Stock Company
+6524832a1700008e520709d3,,145769,question,responseOption8,26095,form,Foreign entity with no local fiscal presence
+6524832a1700008e520709d3,,145769,question,responseOption9,26095,form,Other
+652488c41700008e520709d7,,145770,question,questionText,26095,form,Please indicate where your company is established:
+652488c41700008e520709d7,,145770,question,responseOption1,26095,form,Yes
+652488c41700008e520709d7,,145770,question,responseOption2,26095,form,No
+65248bc117000036528cdedf,,145771,question,questionText,26095,form,"If Other, please explain:"
+65248bc117000036528cdedf,,145771,question,responseOption1,26095,form,Yes
+65248bc117000036528cdedf,,145771,question,responseOption2,26095,form,No
+65248de31700008e520709e3,,145772,question,questionText,26095,form,Please explain why:
+65248de31700008e520709e3,,145772,question,responseOption1,26095,form,Yes
+65248de31700008e520709e3,,145772,question,responseOption2,26095,form,No
+65248f07170000a3520709e7,,145773,question,questionText,26095,form,Please explain why:
+65248f07170000a3520709e7,,145773,question,responseOption1,26095,form,Yes
+65248f07170000a3520709e7,,145773,question,responseOption2,26095,form,No
+65248f23170000a8520709e9,,145774,question,description,26095,form,The CIIU code can be referenced on (Spanish only): https://proyectos.inei.gob.pe/CIIU/
+65248f23170000a8520709e9,,145774,question,questionText,26095,form,What is your company’s primary Industry Classification Code (CIIU)?
+65248f23170000a8520709e9,,145774,question,responseOption1,26095,form,Yes
+65248f23170000a8520709e9,,145774,question,responseOption2,26095,form,No
+6524915b17000010528cdef4,,145775,question,description,26095,form,The CIIU code can be referenced on (Spanish only): https://proyectos.inei.gob.pe/CIIU/
+6524915b17000010528cdef4,,145775,question,questionText,26095,form,What is your company’s secondary Industry Classification Code (CIIU)?
+6524915b17000010528cdef4,,145775,question,responseOption1,26095,form,Yes
+6524915b17000010528cdef4,,145775,question,responseOption2,26095,form,No

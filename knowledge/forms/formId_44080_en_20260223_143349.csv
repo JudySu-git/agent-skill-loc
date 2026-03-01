@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+673e509b010000e000a8080e,673d58d30100008700430fa5,44080,questionGroup,questionGroupText,44080,form,New Zealand Totika - Advantage Billing
+673d59100100003800430fa7,,162300,question,questionText,44080,form,New Zealand Totika - Advantage Billing
+673d59100100003800430fa7,,162300,question,responseOption1,44080,form,Yes
+673d59100100003800430fa7,,162300,question,responseOption2,44080,form,No
