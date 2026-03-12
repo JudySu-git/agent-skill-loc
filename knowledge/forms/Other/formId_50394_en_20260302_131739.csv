@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+696ac0e70100004500c68f31,696abf250100004600c68f0b,50394,questionGroup,description,50394,form,This requirement is triggered because you indicated your organization maintains a valid Authorization Certificate in the Czech Republic Trade Licensing Commercial Register Applicability Assessment questionnaire.
+696ac0e70100004500c68f31,696abf250100004600c68f0b,50394,questionGroup,questionGroupText,50394,form,Czech Republic Advocates Authorization
+696abfca0100006200c68f28,,197117,question,description,50394,form,"<p>Upload your company’s authorization issued under the <a href=""https://www.e-sbirka.cz/sb/1996/85?zalozka=text"" target=""_BLANK_"">Advocates Act (85/1996 Coll.)</a>.\n\nA company must obtain an authorization under special laws if its intended activity is explicitly excluded from the Trade Licensing Act or requires additional sectoral approval.\n"
+696abfca0100006200c68f28,,197117,question,questionText,50394,form,Please upload proof of registration or authorization from your relevant professional chamber or authority.

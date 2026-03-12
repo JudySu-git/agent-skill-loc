@@ -1,0 +1,46 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6525a2b21800000827a22924,559bf121504943a9e021b167,7075,questionGroup,questionGroupText,20413,form,Costa Rica
+6525a8e21800004661a229e4,5b4686002200003303c4be37,20413,questionGroup,questionGroupText,20413,form,Avetta PQF - Costa Rica Company Information
+559bf1f05049432a1e12e90f,,31834,question,description,20413,form,"<a href=""https://www.rnpdigital.com/eng_principal/index.htm"" target=""_blank"">National Registry</a>"
+559bf1f05049432a1e12e90f,,31834,question,questionText,20413,form,Is your company registered with the National Registry of Costa Rica?
+559bf1f05049432a1e12e90f,,31834,question,responseOptionNo,20413,form,No
+559bf1f05049432a1e12e90f,,31834,question,responseOptionYes,20413,form,Yes
+559bf283504943c031a83bf6,,31835,question,description,20413,form,"The corporate identification number typically starts with ""3-101"" or ""3-102""."
+559bf283504943c031a83bf6,,31835,question,questionText,20413,form,What is your company's corporate identification number?
+559bf285504943f897f241c3,,31836,question,questionText,20413,form,Is your company registered to pay taxes?
+559bf285504943f897f241c3,,31836,question,responseOptionNo,20413,form,No
+559bf285504943f897f241c3,,31836,question,responseOptionYes,20413,form,Yes
+559bf307504943d18240c5da,,31837,question,description,20413,form,Costa Rica imposes an annual tax on registered companies. The tax amount differs for those companies considered 'Active' or 'Inactive'. You can check your company's status with the National Registry.
+559bf307504943d18240c5da,,31837,question,questionText,20413,form,Is your company's status considered 'Active' or 'Inactive' for tax purposes?
+559bf307504943d18240c5da,,31837,question,responseOptionActiveCR,20413,form,Active
+559bf307504943d18240c5da,,31837,question,responseOptionInactiveCR,20413,form,Inactive
+559bf3c65049439f566a5f56,,31838,question,description,20413,form,"Labor Risk Insurance is compulsory and the <a href=""https://www.ins-cr.com/index.html"" target=""_blank"">National Insurance Institute (INS)</a> is the only provider of this insurance in Costa Rica."
+559bf3c65049439f566a5f56,,31838,question,questionText,20413,form,Is your company registered with the National Insurance Institute (INS) for Labor Risk Insurance?
+559bf3c65049439f566a5f56,,31838,question,responseOptionNo,20413,form,No
+559bf3c65049439f566a5f56,,31838,question,responseOptionYes,20413,form,Yes
+559bf3e250494325d85e1ec4,,31839,question,questionText,20413,form,Please explain why your company is not registered for Labor Risk Insurance with the National Insurance Institute (INS).
+559bf40e504943650eceee86,,31840,question,description,20413,form,"<a href=""https://www.ccss.sa.cr/"" target=""_blank"">Social Security Institution (CCSS)</a>"
+559bf40e504943650eceee86,,31840,question,questionText,20413,form,Is your company registered for Social Security with the Social Security Institution (CCSS)?
+559bf40e504943650eceee86,,31840,question,responseOptionNo,20413,form,No
+559bf40e504943650eceee86,,31840,question,responseOptionYes,20413,form,Yes
+559bf427504943eb7b3c9f18,,31841,question,questionText,20413,form,Please explain why your company is not registered for Social Security with the Social Security Institution (CCSS).
+559bf60e5049432bbc66644c,,31844,question,description,20413,form,"The CAECR code can be referenced on the National Institute of Statistics and Censuses (INEC) \n<a href=""/file-preview.html?fileId=2023-10-10T19%3A13%3A48.812Z~~*YW5leG9fMV9kZV80MzQzMl9zLnBkZg%3D%3D"" target=""_blank"">CLASIFICACIÓN DE ACTIVIDADES COMERCIALES, INDUSTRIALES Y DE SERVICIOS </a>\n"
+559bf60e5049432bbc66644c,,31844,question,questionText,20413,form,What is your company's primary Classification of Economic Activities in Costa Rica (CAECR) Code?
+559bf6115049437cbf3c9034,,31845,question,description,20413,form,"The CAECR code can be referenced on the National Institute of Statistics and Censuses (INEC) \n<a href=""/file-preview.html?fileId=2023-10-10T19%3A13%3A48.812Z~~*YW5leG9fMV9kZV80MzQzMl9zLnBkZg%3D%3D"" target=""_blank"">CLASIFICACIÓN DE ACTIVIDADES COMERCIALES, INDUSTRIALES Y DE SERVICIOS </a>\n\n"
+559bf6115049437cbf3c9034,,31845,question,questionText,20413,form,What is your company's secondary Classification of Economic Activities in Costa Rica (CAECR) Code?
+6525a2b01a0000ea596e5694,,145784,question,questionText,20413,form,Please indicate your company's business entity / form of business within this country.
+6525a2b01a0000ea596e5694,,145784,question,responseOption1,20413,form,Sole Proprietorship
+6525a2b01a0000ea596e5694,,145784,question,responseOption2,20413,form,Limited Liability Company
+6525a2b01a0000ea596e5694,,145784,question,responseOption3,20413,form,Corporation
+6525a2b01a0000ea596e5694,,145784,question,responseOption4,20413,form,General Partnership
+6525a2b01a0000ea596e5694,,145784,question,responseOption5,20413,form,Limited Partnership
+6525a2b01a0000ea596e5694,,145784,question,responseOption6,20413,form,Branch Office
+6525a2b01a0000ea596e5694,,145784,question,responseOption7,20413,form,Representative Office
+6525a2b01a0000ea596e5694,,145784,question,responseOption8,20413,form,Foreign entity with no local fiscal presence
+6525a2b01a0000ea596e5694,,145784,question,responseOption9,20413,form,Other
+6525a2f41a000079046e5697,,145787,question,questionText,20413,form,Please indicate where your company is established:
+6525a2f41a000079046e5697,,145787,question,responseOption1,20413,form,Yes
+6525a2f41a000079046e5697,,145787,question,responseOption2,20413,form,No
+6525a301180000c927a2292b,,145788,question,questionText,20413,form,"If Other, please explain:"
+6525a301180000c927a2292b,,145788,question,responseOption1,20413,form,Yes
+6525a301180000c927a2292b,,145788,question,responseOption2,20413,form,No

@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+60707fda43000090e8650550,5d3758a6360000a7bcb086d2,27016,questionGroup,description,27016,form,This policy was triggered by the Avetta PQF - Workers' Compensation Questionnaire
+60707fda43000090e8650550,5d3758a6360000a7bcb086d2,27016,questionGroup,questionGroupText,27016,form,Washington Workers' Compensation
+606f7f8e4300008efba5f866,5d3758bc3500002f3cacf49d,27017,questionGroup,questionGroupText,27016,form,Policy Information
+5d3758d6360000b66a8e3cf2,,84869,question,questionText,27016,form,Date of Commencement: 
+5d3758e4360000a7bcb086e0,,84870,question,questionText,27016,form,Expiration Date: 
+5d375914360000b66a8e3d38,,84871,question,questionText,27016,form,Please upload Washington Workers' Compensation Certificate
+606f7f8d4400004cc1370656,,108584,question,description,27016,form,Used to provide instructions from Client
+606f7f8d4400004cc1370656,,108584,question,questionText,27016,form,Comments
+606f7fa94300008efba5f869,,108585,question,description,27016,form,Date the instructions from Client expire
+606f7fa94300008efba5f869,,108585,question,questionText,27016,form,VARIANCE Expiration Date

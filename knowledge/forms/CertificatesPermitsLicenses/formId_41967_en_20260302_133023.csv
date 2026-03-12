@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce3f7f0100002a00ebdbad,662bd9871b00002e00b79301,41967,questionGroup,description,41967,form,You are getting this category because you selected a license in the Avetta PQF - Australia Capital Territory Contractor License.
+66ce3f7f0100002a00ebdbad,662bd9871b00002e00b79301,41967,questionGroup,questionGroupText,41967,form,Australian Capital Territory Contractor License - Drainers
+662bd9871b00002f00b79302,,153215,question,questionText,41967,form,Please upload your license:\n
+662bd9871b00002f00b79302,,153215,question,responseOption1,41967,form,Yes
+662bd9871b00002f00b79302,,153215,question,responseOption2,41967,form,No
+662bd9871b00002f00b79303,,153216,question,questionText,41967,form,Expiration Date:
+662bd9871b00002f00b79303,,153216,question,responseOption1,41967,form,Yes
+662bd9871b00002f00b79303,,153216,question,responseOption2,41967,form,No
+662bd9871b00003400b79304,,153217,question,questionText,41967,form,License Number:
+662bd9871b00003400b79304,,153217,question,responseOption1,41967,form,Yes
+662bd9871b00003400b79304,,153217,question,responseOption2,41967,form,No

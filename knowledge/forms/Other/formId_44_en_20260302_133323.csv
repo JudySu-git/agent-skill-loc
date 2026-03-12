@@ -1,0 +1,178 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6594850c1c00007f4d83ef3c,5afe1752270000ab00d5c10d,-20222,questionGroup,questionGroupText,44,form,service evaluation hidden category
+62a3b11d2f00000f1051939c,5af09cad2600001c012c5163,-20215,questionGroup,description,44,form,VAT ID.
+62a3b11d2f00000f1051939c,5af09cad2600001c012c5163,-20215,questionGroup,questionGroupText,44,form,Value Added Tax ID
+62a3b1072e0000ad32ef50af,5ae7824b3100009500af32c5,-20205,questionGroup,questionGroupText,44,form,QuickVett
+5c3e61f4380000687e33d2d4,5b32ecfa280000130026f45f,-236,questionGroup,questionGroupText,44,form,SSIP
+5bad13d537000094dc3e036c,5b316b9f23000015000d8c49,-226,questionGroup,description,44,form,List Only account level setting.
+5bad13d537000094dc3e036c,5b316b9f23000015000d8c49,-226,questionGroup,questionGroupText,44,form,List Only
+59f76add2d0000320fca5895,,19,question,questionText,44,form,Please select all services that your company performs. It is common to select more than one.
+59f76add2d0000320fca5895,,19,question,responseOption1,44,form,"<div class=""mt-6 mb-12"">Onsite Industrial or Construction Services</div> <div class=""regular mb-12""> Services or operations performed at a client/operator site relating to the construction, demolition, maintenance or repair of equipment, buildings, or properties. Examples may include: </div> <div class=""flex wrap regular mb-12""> <ul class=""grow""> <li>Construction</li> <li>Installation</li> <li>Maintenance</li> <li>Electrical Work</li> <li>Infrastructure</li> </ul> <ul class=""grow""> <li>Equipment/Plant Operation</li> <li>Demolition</li> <li>Explosives</li> <li>Operating/Maintaining Machinery</li> <li>HVAC Repair/Installation</li> </ul> <ul class=""grow""> <li>Working at Heights</li> <li>Tower Climbing/Construction/Maintenance</li> <li>Tree Trimming</li> </ul> </div>"
+59f76add2d0000320fca5895,,19,question,responseOption2,44,form,"<div class=""mt-6 mb-12"">Offsite Services</div> <div class=""regular mb-12""> Services or operations <u>not</u> performed at a client/operator site or location. Examples may include: </div> <div class=""flex wrap regular mb-12""> <ul class=""grow""> <li>Laboratories</li> <li>Clinics</li><li>Warehouses & Storage</li> </ul> <ul class=""grow""> <li>Fabrication Shops</li> <li>Maintenance Facilities</li> <li>Office & Administrative Buildings</li> </ul> <ul class=""grow""> <li>Server Locations</li> </ul> </div>"
+59f76add2d0000320fca5895,,19,question,responseOption3,44,form,"<div class=""mt-6 mb-12"">Material Supplier or Manufacturing Services</div> <div class=""regular mb-12""> Manufacturing, processing, supplying, or assembling raw materials or products. Examples may include: </div> <div class=""flex wrap regular mb-12""> <ul class=""grow""> <li>Chemicals</li> <li>Industrial Gases (not delivered via pipeline)</li> <li>Electrical Components</li> <li>Construction Materials</li> <li>Electronics</li> <li>Paper Products</li> </ul> <ul class=""grow""> <li>Packaging</li> <li>Consumables</li> <li>Textiles</li> <li> Apparel</li> <li>Plastics & Rubber</li> </ul> <ul class=""grow""> <li>Metals</li> <li>Wholesale & Retail Trade</li> <li>Fiberoptic cables</li> <li>Furniture</li> <li>Supplies (i.e. Office, Laboratory, Life Science Products, etc.)</li> <li>Equipment Rental or Leasing without Operator</li> </ul> </div>"
+59f76add2d0000320fca5895,,19,question,responseOption4,44,form,"<div class=""mt-6 mb-12"">Transportation Services</div> <div class=""regular mb-12""> Any party, person, agent, or carrier that provides freight, goods, or passenger transportation. Examples may include: </div> <div class=""flex wrap regular mb-12""> <ul class=""grow""> <li>Air Transportation</li> <li>Marine</li> <li>Shuttle</li> <li>Courier</li> </ul> <ul class=""grow""> <li>Tanker</li> <li>Delivery</li> <li>Precious Cargo</li> <li>Hauler</li> </ul> <ul class=""grow""> <li>Trucking</li> <li>Charter</li> <li>Rail</li> </ul> </div>"
+59f76add2d0000320fca5895,,19,question,responseOption5,44,form,"<div class=""mt-6 mb-12"">Onsite Support Services</div> <div class=""regular mb-12""> Activities performed at a client/operator site relating to facilities or property maintenance. Examples may include:</div> <div class=""flex wrap regular mb-12""> <ul class=""grow""> <li>Exterminating & Pest Control</li> <li>Locksmith</li> <li>Janitorial</li> <li>Landscaping/Lawn Care</li> </ul> <ul class=""grow""> <li>Snow Removal</li> <li>Emergency Services</li><li>Security</li> <li>Food Services/Caterers</li> </ul> <ul class=""grow""> <li>Vending Machines</li> <li> Non-Hazardous Waste Collection (i.e. Garbage Collection)</li></ul> </div>"
+59f76add2d0000320fca5895,,19,question,responseOption6,44,form,"<div class=""mt-6 mb-12"">IT, Hardware and Software Services</div> <div class=""regular mb-12""> Providing services to facilitate the use of applications or technology. Examples may include: </div> <div class=""flex wrap regular mb-12""> <ul class=""grow""> <li>Software Development and Engineering</li> <li>Software (Systems & Application)</li> <li>Internet Services</li> <li>Hardware Installation and Servicing</li> <li>Hardwire Networking</li> </ul> <ul class=""grow""> <li>Server Installation and Maintenance</li> <li>Cable</li> <li>Satellite</li> <li>TV and/or Communications</li> <li>Wireless Data</li> </ul> <ul class=""grow""> <li>Telephonic and Video Conference Services</li> <li>Help Desk Services</li> <li>IT, Engineering and Consulting Services</li> </ul> </div>"
+59f76add2d0000320fca5895,,19,question,responseOption7,44,form,"<div class=""mt-6 mb-12"">Professional, Technical, Engineering or Real Estate Services</div> <div class=""regular mb-12""> Services provided using technical or industry expertise, typically requiring certifications or licenses. Examples may include: </div> <div class=""flex wrap regular mb-12""> <ul class=""grow""> <li>Insurance Brokers</li> <li>Legal Services</li> <li>Accounting and Payroll Services</li><li>Financial Services</li><li>Design Services</li><li>Printing Services</li> </ul> <ul class=""grow""> <li>Marketing</li><li>Advertising</li><li>Publishing</li> <li>Surveying</li> <li>Engineering & Consulting</li> <li>Geophysical Surveying and Mapping</li> </ul> <ul class=""grow""> <li>Architectural Services</li> <li>Drafting</li><li>Building Inspection</li><li>Environmental Consulting</li><li>Real Estate</li><li>Rental and Leasing Services</li> </ul> </div>"
+59f76add2d0000320fca5895,,19,question,responseOption8,44,form,"<div class=""mt-6 mb-12"">Education Services</div> <div class=""regular mb-12""> Services designed to engage, prepare, or teach others. Examples may include: </div> <div class=""flex wrap regular mb-12""> <ul class=""grow""> <li>Technical and Trade Schools such as Apprenticeship Training programs</li> <li>Professional and Management Development Training</li> <li>Professional Schools</li> </ul> <ul class=""grow""> <li>Health and Safety Training Services</li> <li>First Aid and CPR (Cardiopulmonary Resuscitation) Instruction and Educational and Support Services</li> <li>Exam Preparation Services</li> </ul> <ul class=""grow""> <li>Professional Certification Services</li> </ul> </div>"
+59f76b2c2d00003b0fca589d,,20,question,questionText,44,form,"Are you a Sole Owner with no employees? A Sole Owner means you don't employ anyone (this includes full-time, part-time, seasonal, and administrative help) and you do all the company work yourself."
+59f76b2c2d00003b0fca589d,,20,question,responseOption1,44,form,Yes
+59f76b2c2d00003b0fca589d,,20,question,responseOption2,44,form,No
+59f76b3e2d0000320fca589f,,21,question,questionText,44,form,"Other than the owners of the company, how many employees do you have?"
+59f76b6b2d0000260fca58a6,,22,question,questionText,44,form,Are you a QuickVett or bid only supplier?
+59f76b6b2d0000260fca58a6,,22,question,responseOption1,44,form,Yes
+59f76b6b2d0000260fca58a6,,22,question,responseOption2,44,form,No
+65b1501f1700009138191dc5,59f76a4e2d0000f70eca588e,44,questionGroup,questionGroupText,44,form,Service Evaluation
+640a6c17140000a00a506698,59f76aa92d0000220fca5893,45,questionGroup,questionGroupText,44,form,Services Performed
+62799e293000002603790cab,5d716d7535000005b10675c0,27334,questionGroup,questionGroupText,44,form,CNPJ 
+60edea17450000705e012db1,60edea17450000705e012db0,33493,questionGroup,questionGroupText,44,form,Onsite Industrial or Construction Services
+60edea1f450000705e012db5,60edea1f450000705e012db4,33494,questionGroup,questionGroupText,44,form,Onsite Support Services
+60edea25450000705e012dbd,60edea25450000705e012dbc,33495,questionGroup,questionGroupText,44,form,Offsite Services
+60edea30440000e4cbc970fa,60edea30440000e4cbc970f9,33496,questionGroup,questionGroupText,44,form,Material Supplier or Manufacturing Services
+60edea36440000e4cbc97149,60edea36440000e4cbc97148,33497,questionGroup,questionGroupText,44,form,Transportation Services
+60edea3f440000e4cbc971cd,60edea3f440000e4cbc971cc,33498,questionGroup,questionGroupText,44,form,"Professional, Technical, Engineering or Real Estate Services"
+60edea45440000e4cbc971e4,60edea45440000e4cbc971e3,33499,questionGroup,questionGroupText,44,form,"IT, Hardware and Software Services"
+60edea4b450000705e012e48,60edea4b450000705e012e47,33500,questionGroup,questionGroupText,44,form,Education Services
+62a908a32f0000bef3945369,62a908a32f0000bef3945368,36605,questionGroup,questionGroupText,44,form,NZBN
+62a908b22f000046c8034d0a,62a908b22f000046c8034d09,36606,questionGroup,questionGroupText,44,form,ABN
+659485851c0000b64d83ef43,659485851c0000b64d83ef42,41071,questionGroup,questionGroupText,44,form,GSTIN
+6594863b1c0000ac4d83ef4c,6594863b1c0000ac4d83ef4b,41072,questionGroup,questionGroupText,44,form,RFC
+5b32ecb6280000160026f45d,,60063,question,questionText,44,form,Requires SSIP category
+5b32ecb6280000160026f45d,,60063,question,responseOption1,44,form,Yes
+5d716a48350000a8a8f12874,,86282,question,questionText,44,form,Please enter your company's Brazilian CNPJ number:\n\n
+5d716ccb35000005b10673cf,,86283,question,questionText,44,form,Requires CNPJ ID category
+5b315d4b23000013000d894a,,106970,question,questionText,44,form,Requires List Only category
+5b315d4b23000013000d894a,,106970,question,responseOption1,44,form,Yes
+5b3162db23000059000d8a69,,106971,question,questionText,44,form,Are you a List Only supplier?
+5b3162db23000059000d8a69,,106971,question,responseOption1,44,form,Yes
+5b3162db23000059000d8a69,,106971,question,responseOption2,44,form,No
+5b329df4330000460178a197,,106972,question,description,44,form,"If your company ONLY has an SSIP Certificate issued through Avetta, or you don’t have an SSIP certificate at all, please answer “No.”"
+5b329df4330000460178a197,,106972,question,questionText,44,form,"Is your company registered with an <a href=""https://ssip.org.uk/"" target=""_blank"">SSIP</a> member scheme and has a valid SSIP certificate issued from an organization other than Avetta?"
+5b329df4330000460178a197,,106972,question,responseOption1,44,form,Yes
+5b329df4330000460178a197,,106972,question,responseOption2,44,form,No
+5b329e613300005e0178a1a3,,106973,question,questionText,44,form,Please enter the date your SSIP certificate expires:
+5ae781b23100008e00af32c1,,106974,question,questionText,44,form,requires bid only category
+5ae781b23100008e00af32c1,,106974,question,responseOption1,44,form,yes
+5af09ccd26000037012c516c,,106975,question,questionText,44,form,Please enter your company's VAT (Value Added Tax) ID number:
+5af09f6226000037012c5172,,106976,question,questionText,44,form,Requires VAT ID category
+5af09f6226000037012c5172,,106976,question,responseOption1,44,form,Yes
+60edea56440000e4cbc971fc,,113129,question,questionText,44,form,"Do your company's workers ever use or handle power, pneumatic, or hydraulic tools?\n\nExamples may include drills, circular saws, jackhammers, grinders, etc."
+60edea56440000e4cbc971fc,,113129,question,responseOption1,44,form,Yes
+60edea56440000e4cbc971fc,,113129,question,responseOption2,44,form,No
+60edea69450000705e012ef8,,113130,question,questionText,44,form,Do your company's workers ever use or handle hazardous chemicals that require Safety Data Sheets (SDS)?
+60edea69450000705e012ef8,,113130,question,responseOption1,44,form,Yes
+60edea69450000705e012ef8,,113130,question,responseOption2,44,form,No
+60edea77440000e4cbc9726b,,113131,question,questionText,44,form,"Are your company's workers required to wear any specialized PPE for high risk activities?\n\nThis does not include any mandatory PPE items such as high visibility clothing, safety boots, safety glasses, or gloves required for visitors.\n\nExamples include, but are not limited to, air purifying respirators, SCBAs, fall protection, welding helmets/goggles, chemical protective clothing, etc."
+60edea77440000e4cbc9726b,,113131,question,responseOption1,44,form,Yes
+60edea77440000e4cbc9726b,,113131,question,responseOption2,44,form,No
+60edea96440000e4cbc97348,,113132,question,questionText,44,form,"Do your company's workers operate any heavy mobile equipment or specialized vehicles to carry out your operations?\n\nExamples may include cranes, forklifts, aerial lifts/elevated work platforms, bulldozers, skid steer loaders, front end loaders, excavators, etc."
+60edea96440000e4cbc97348,,113132,question,responseOption1,44,form,Yes
+60edea96440000e4cbc97348,,113132,question,responseOption2,44,form,No
+60edeaa6440000e4cbc973e0,,113133,question,questionText,44,form,"Is your company required to complete or obtain a “permit to work” in order to conduct any of your operations?\n\nExamples may include confined space permit, hot work permit, energy isolation (LOTO), working at heights, etc."
+60edeaa6440000e4cbc973e0,,113133,question,responseOption1,44,form,Yes
+60edeaa6440000e4cbc973e0,,113133,question,responseOption2,44,form,No
+60edeac8440000e4cbc97472,,113134,question,questionText,44,form,"When visiting sites, are your company's workers escorted 100% of the time?"
+60edeac8440000e4cbc97472,,113134,question,responseOption1,44,form,Yes
+60edeac8440000e4cbc97472,,113134,question,responseOption2,44,form,No
+60edead5440000e4cbc9747a,,113135,question,questionText,44,form,"When visiting sites, will all work or labor be provided within administrative areas?"
+60edead5440000e4cbc9747a,,113135,question,responseOption1,44,form,Yes
+60edead5440000e4cbc9747a,,113135,question,responseOption2,44,form,No
+60edeae3450000705e0130c9,,113136,question,questionText,44,form,"When providing onsite support services, do you operate equipment, handle chemicals, handle/prepare food, or operate culinary equipment? (i.e. exterminating and pest control, janitorial, landscaping, snow removal, etc.)?"
+60edeae3450000705e0130c9,,113136,question,responseOption1,44,form,Yes
+60edeae3450000705e0130c9,,113136,question,responseOption2,44,form,No
+60edeafa450000705e013130,,113137,question,questionText,44,form,Do services provided by your company occur at self-managed facilities?\n\nSelf-managed facilities are defined as a fixed site/manufacturing or processing facility where your services are conducted independently from your client base.
+60edeafa450000705e013130,,113137,question,responseOption1,44,form,Yes
+60edeafa450000705e013130,,113137,question,responseOption2,44,form,No
+60edeb0e450000705e013134,,113138,question,questionText,44,form,"Are workers potentially exposed to any physical hazards?\n\nExamples may include ergonomic, noise exposure, heat/cold stress, or vibrations."
+60edeb0e450000705e013134,,113138,question,responseOption1,44,form,Yes
+60edeb0e450000705e013134,,113138,question,responseOption2,44,form,No
+60edeb20440000e4cbc97507,,113139,question,questionText,44,form,"Are workers potentially exposed to any chemical, biological, or radiological hazards?\n\nExamples may include environmental exposures."
+60edeb20440000e4cbc97507,,113139,question,responseOption1,44,form,Yes
+60edeb20440000e4cbc97507,,113139,question,responseOption2,44,form,No
+60edeb31440000e4cbc97509,,113140,question,questionText,44,form,"Are workers potentially exposed to hazards due to working with machinery, tools, or equipment?\n\nExamples may include mobile or heavy equipment."
+60edeb31440000e4cbc97509,,113140,question,responseOption1,44,form,Yes
+60edeb31440000e4cbc97509,,113140,question,responseOption2,44,form,No
+60edeb48440000e4cbc97653,,113141,question,questionText,44,form,Please select the type of product(s) your company manufactures and/or supplies.
+60edeb48440000e4cbc97653,,113141,question,responseOption1,44,form,"Food, Beverage & Tobacco"
+60edeb48440000e4cbc97653,,113141,question,responseOption2,44,form,"Wood Products, Paper, Printing and Related Support Activities, Plastics and Rubber Products, Nonmetallic Mineral Products (i.e. Clay, Glass, Cement, Concrete, Lime, Gypsum, Abrasive Products), Computer and Electronic Products, Electrical Equipment, Appliance and Component Manufacturing, Furniture and Related Products, and Laboratory and Medical Products and Equipment"
+60edeb48440000e4cbc97653,,113141,question,responseOption3,44,form,"Petroleum and Coal Products, Chemicals, Primary Metals (i.e. Iron and Steel Mills, Steel Products from Purchased Steel, Alumina and Aluminum Production and Processing, Nonferrous Metals, Foundries), Fabricated Metal, Machinery, Transportation Equipment"
+60edeb7b440000e4cbc9770f,,113142,question,questionText,44,form,"Does your company strictly transport parcels, mail, or packages as a service? "
+60edeb7b440000e4cbc9770f,,113142,question,responseOption1,44,form,Yes
+60edeb7b440000e4cbc9770f,,113142,question,responseOption2,44,form,No
+60edeb89450000705e0133b6,,113143,question,questionText,44,form,Does your company transport or haul oversized/permit-required loads?
+60edeb89450000705e0133b6,,113143,question,responseOption1,44,form,Yes
+60edeb89450000705e0133b6,,113143,question,responseOption2,44,form,No
+60edeb97450000705e013417,,113144,question,questionText,44,form,"Does your company transport precious cargo?\n\nPrecious cargo is defined as very dear things being moved, typically referring to humans and other living creatures. "
+60edeb97450000705e013417,,113144,question,responseOption1,44,form,Yes
+60edeb97450000705e013417,,113144,question,responseOption2,44,form,No
+60edeba9440000e4cbc97739,,113145,question,questionText,44,form,"At delivery, do drivers come into contact with secured loads, or loads requiring assisted lift?\n\nExamples may include:\n-Transferring materials over 50lb (23kg)\n-Removal of securing straps, tie down, or chains\n-Mobile equipment such as cranes, forklifts, aerial platforms, earth movers, or vehicles"
+60edeba9440000e4cbc97739,,113145,question,responseOption1,44,form,Yes
+60edeba9440000e4cbc97739,,113145,question,responseOption2,44,form,No
+60edebcb450000705e0134e2,,113146,question,questionText,44,form,Do your company's drivers transport potentially hazardous materials that would require an SDS (Safety Data Sheets)?
+60edebcb450000705e0134e2,,113146,question,responseOption1,44,form,Yes
+60edebcb450000705e0134e2,,113146,question,responseOption2,44,form,No
+60edebe0440000e4cbc977fe,,113147,question,questionText,44,form,Are all services performed within administrative areas?
+60edebe0440000e4cbc977fe,,113147,question,responseOption1,44,form,Yes
+60edebe0440000e4cbc977fe,,113147,question,responseOption2,44,form,No
+60edebee440000e4cbc9794d,,113148,question,questionText,44,form,Are your company's workers escorted 100% onsite?
+60edebee440000e4cbc9794d,,113148,question,responseOption1,44,form,Yes
+60edebee440000e4cbc9794d,,113148,question,responseOption2,44,form,No
+60edebfa440000e4cbc9794f,,113149,question,questionText,44,form,Are there services provided by your company classified as lone-working?\n\nLone working is defined as work activities that are carried out in isolation.
+60edebfa440000e4cbc9794f,,113149,question,responseOption1,44,form,Yes
+60edebfa440000e4cbc9794f,,113149,question,responseOption2,44,form,No
+60edec11440000e4cbc979ea,,113150,question,questionText,44,form,Do your company's workers visit client sites to perform services?
+60edec11440000e4cbc979ea,,113150,question,responseOption1,44,form,Yes
+60edec11440000e4cbc979ea,,113150,question,responseOption2,44,form,No
+60edec1e440000e4cbc979ee,,113151,question,questionText,44,form,"When visiting sites, will work or labor be performed within administrative areas?"
+60edec1e440000e4cbc979ee,,113151,question,responseOption1,44,form,Yes
+60edec1e440000e4cbc979ee,,113151,question,responseOption2,44,form,No
+60edec29450000705e013703,,113152,question,questionText,44,form,"When visiting sites and not performing work or labor in administrative areas, are your company's workers 100% escorted?"
+60edec29450000705e013703,,113152,question,responseOption1,44,form,Yes
+60edec29450000705e013703,,113152,question,responseOption2,44,form,No
+60edec3a450000705e013704,,113153,question,questionText,44,form,Do your company's workers visit client sites to perform services?
+60edec3a450000705e013704,,113153,question,responseOption1,44,form,Yes
+60edec3a450000705e013704,,113153,question,responseOption2,44,form,No
+60edec47450000705e013741,,113154,question,questionText,44,form,"When visiting sites, will work or labor be performed within administrative areas?"
+60edec47450000705e013741,,113154,question,responseOption1,44,form,Yes
+60edec47450000705e013741,,113154,question,responseOption2,44,form,No
+60edec54440000e4cbc97a59,,113155,question,questionText,44,form,"When visiting sites and not performing work or labor in administrative areas, are your company's workers 100% escorted?"
+60edec54440000e4cbc97a59,,113155,question,responseOption1,44,form,Yes
+60edec54440000e4cbc97a59,,113155,question,responseOption2,44,form,No
+62a908162f000046c803490a,,128434,question,questionText,44,form,Requires NZBN ID category
+62a908162f000046c803490a,,128434,question,responseOption1,44,form,Yes
+62a908542f000046c803495b,,128436,question,questionText,44,form,Requires ABN ID category
+62a908542f000046c803495b,,128436,question,responseOption1,44,form,Yes
+62a908ca2f0000bef394536d,,128437,question,description,44,form,"<a href = ""https://www.nzbn.govt.nz/"" target = ""_blank""> **New Zealand Business Number Search**</a>"
+62a908ca2f0000bef394536d,,128437,question,questionText,44,form,Is your company registered with the New Zealand Companies Office?
+62a908ca2f0000bef394536d,,128437,question,responseOption1,44,form,Yes
+62a908ca2f0000bef394536d,,128437,question,responseOption2,44,form,No
+62a908eb2f000046c8034e6b,,128438,question,description,44,form,
+62a908eb2f000046c8034e6b,,128438,question,questionText,44,form,What is your company's NZBN?
+62a909242f000046c8034e71,,128439,question,description,44,form,"<a href = ""https://www.abn.business.gov.au/"" target = ""_blank""> **Australia Business Number Search**</a>"
+62a909242f000046c8034e71,,128439,question,questionText,44,form,Does your company have an Australian Business Number (ABN) and therefore registered with the Australian Business Register (ABR)?
+62a909242f000046c8034e71,,128439,question,responseOption1,44,form,Yes
+62a909242f000046c8034e71,,128439,question,responseOption2,44,form,No
+62a909442f000046c8034e73,,128440,question,description,44,form,Please enter your organisation's ABN without spaces.\n
+62a909442f000046c8034e73,,128440,question,questionText,44,form,What is your company’s Australian Business Number (ABN)?
+6594853c1c0000ac4d83ef3f,,149519,question,questionText,44,form,Requires GSTIN ID category
+6594853c1c0000ac4d83ef3f,,149519,question,responseOption1,44,form,Yes
+6594853c1c0000ac4d83ef3f,,149519,question,responseOption2,44,form,No
+659485651c0000b74d83ef41,,149520,question,questionText,44,form,Requires RFC ID category
+659485651c0000b74d83ef41,,149520,question,responseOption1,44,form,Yes
+659485651c0000b74d83ef41,,149520,question,responseOption2,44,form,No
+65948599180000833d1432d9,,149521,question,description,44,form,"<a href=""https://cbic-gst.gov.in/#"" target=""_blank"">Central Board of Indirect Taxes and Customs</a>\n<a href=""https://www.gst.gov.in"" target=""_blank"">Government of India - Goods and Services Tax</a>"
+65948599180000833d1432d9,,149521,question,questionText,44,form,Is your company registered with the India Central Board of Indirect Taxes and Customs (CBIC) and have a Goods and Services Tax Identification Number (GSTIN)?
+65948599180000833d1432d9,,149521,question,responseOption1,44,form,Yes
+65948599180000833d1432d9,,149521,question,responseOption2,44,form,No
+659485b11c0000b44d83ef49,,149522,question,questionText,44,form,Please enter your company's Goods and Services Tax Identification Number (GSTIN):
+65948600180000833d1432df,,149523,question,questionText,44,form,Our company does not have a Goods and Services Tax Identification Number (GSTIN) and:
+65948600180000833d1432df,,149523,question,responseOption1,44,form,I/we are exempt from registering for GST in India
+65948600180000833d1432df,,149523,question,responseOption2,44,form,I/we are currently in the process of registering for GST and will provide our GST registration number once available
+65948600180000833d1432df,,149523,question,responseOption3,44,form,I/we acknowledge that we are willing to forego any potential GST input credits that would otherwise be attributable to our business by not providing our GST number
+659486451c0000b64d83ef4f,,149524,question,questionText,44,form,Does your company have a RFC (Registro Federal de Contribuyentes)?
+659486451c0000b64d83ef4f,,149524,question,responseOption1,44,form,Yes
+659486451c0000b64d83ef4f,,149524,question,responseOption2,44,form,No
+659486641c0000704d83ef52,,149525,question,questionText,44,form,What is your company’s RFC?
+659486831c0000b74d83ef55,,149526,question,questionText,44,form,"By checking the box below, you acknowledge that you are not providing your RFC and that you are opting out of being able to claim input tax credits."
+659486831c0000b74d83ef55,,149526,question,responseOption1,44,form,I accept
+659486831c0000b74d83ef55,,149526,question,responseOption2,44,form,No

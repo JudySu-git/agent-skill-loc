@@ -1,0 +1,1220 @@
+================================================================================
+S700 环境、职业健康与安全管理程序 V2.0
+Environment, Occupational Health & Safety Management Procedure V2.0
+================================================================================
+File No.:       S700-P
+Version:        V2.0
+Responsible:    HSE Department
+Initial Date:   2023-12-06
+Revision Date:  2026-03-06
+Pages:          This document supersedes S700-P V1.0
+
+Approved by:
+VP / [Name]          HSE Director / [Name]
+Plant HSE / [Name]   Region EHS / [Name]
+
+Revision Summary (V1.0 → V2.0):
+  Full compliance update against SCA-German Safety Audit Standards.
+  Added: hazard assessment methodology, fall protection, confined space program,
+  electrical safety (LOTO), fire safety officer and drills, ATEX, noise/vibration
+  limits, heat/UV, CMR substances, OHS committee, PPE assessment, respiratory
+  protection, emergency lighting, energy isolation, excavation safety, ladder
+  safety, scaffolding, crane inspections, manual handling, traffic safety,
+  workplace conditions, alcohol/drug prohibition, and all other SCA-German
+  compliance requirements.
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+ 1.  Purpose
+ 2.  Scope
+ 3.  Definitions
+ 4.  Responsibilities
+ 5.  Process
+     5.1   General Principles and Hazard Assessment
+     5.2   Occupational Health Management
+       5.2.1  Health Examinations
+       5.2.2  Personal Protective Equipment (PPE)
+       5.2.3  First Aid
+       5.2.4  Respiratory Protection
+       5.2.5  Occupational Health Records
+     5.3   Safe Operation Management
+       5.3.1  General Safety Responsibilities
+       5.3.2  Contractor and Visitor Safety
+       5.3.3  High-Risk Work Permit System
+       5.3.4  Confined Space Entry
+       5.3.5  Electrical Safety
+       5.3.6  Fall Protection and Work at Height
+       5.3.7  Ladder Safety
+       5.3.8  Roof Work
+       5.3.9  Scaffolding
+       5.3.10 Excavation Safety
+       5.3.11 Fire Safety
+       5.3.12 Hot Work
+       5.3.13 Explosive Atmospheres (ATEX)
+       5.3.14 Special Equipment and Cranes
+       5.3.15 Lifting Operations and Hoists
+       5.3.16 Manual Handling and Material Storage
+       5.3.17 Traffic Safety
+       5.3.18 Working On, Over, or Near Water
+       5.3.19 Demolition
+       5.3.20 Abrasive Blasting
+       5.3.21 Road Transport of Dangerous Goods
+     5.4   Physical Agents
+       5.4.1  Noise
+       5.4.2  Vibration
+       5.4.3  Heat Stress and UV Radiation
+       5.4.4  Ionising Radiation
+       5.4.5  Optical Radiation (Non-Ionising)
+       5.4.6  Electromagnetic Fields (EMF)
+     5.5   Chemical and Hazardous Substance Management
+       5.5.1  General Chemical Controls
+       5.5.2  Carcinogenic, Mutagenic, and Reprotoxic (CMR) Substances
+       5.5.3  Lead and Lead Paint
+       5.5.4  Explosives
+     5.6   Environmental Management
+     5.7   Emergency Preparedness and Response
+     5.8   Incident Recording and Reporting
+     5.9   Workplace Conditions
+     5.10  Training
+     5.11  Multi-Employer Coordination
+     5.12  OHS Committee
+     5.13  Performance Management and Continuous Improvement
+ 6.  Related Documents
+ 7.  Revision History
+
+================================================================================
+1. PURPOSE
+================================================================================
+This procedure is established to prevent safety accidents, eliminate potential
+occupational injuries, ensure the safety and health of all employees and related
+parties in KION China, comply with all applicable national and international
+occupational health and safety laws and regulations, and satisfy the requirements
+of the SCA-German Safety Compliance Audit Standards. It establishes comprehensive
+controls for all significant safety hazards identified in the company's operations.
+
+================================================================================
+2. SCOPE
+================================================================================
+2.1  Applicable to all KION China Plants (Linde (China), Linde (China) Zhangzhou
+     Branch, KION Baoli, KION (Jinan)) and all KION Regions.
+
+2.2  Applies to all employees regardless of employment type (full-time, part-time,
+     contract, temporary, agency workers, and apprentices).
+
+2.3  Covers the following processes:
+     - Occupational health operation management
+     - Safe operation management
+     - Environmental operation management
+     - Incident investigation management
+     - Physical agent exposure management
+     - Chemical and hazardous substance management
+     - Emergency preparedness and response
+
+================================================================================
+3. DEFINITIONS
+================================================================================
+3.1  HSE Department: The department or team responsible for occupational health,
+     safety, and environment.
+
+3.2  Occupational Disease: Disease resulting from exposure to dust, radioactive
+     substances, or other toxic and harmful substances during work activities.
+
+3.3  PPE (Personal Protective Equipment): Personal protective equipment provided
+     by the company to avoid or reduce accident injury and occupational hazards.
+
+3.4  Interested Party: Any person or organization that can affect, be affected by,
+     or perceive itself to be affected by a decision or activity, including
+     suppliers, contractors, customers, owners, regulators, and community.
+
+3.5  Special Equipment: Equipment involving significant safety risk, including
+     boilers, pressure vessels (including gas cylinders), pressure pipelines,
+     elevators, cranes/lifting appliances, and special factory vehicles (forklifts,
+     bridge cranes).
+
+3.6  Dangerous Chemical: Chemical with toxicity, corrosivity, explosivity, or
+     flammability that may harm health, facilities, or the environment.
+
+3.7  SDS/MSDS: Safety Data Sheet / Material Safety Data Sheet — chemical safety
+     documentation required under applicable chemical regulations.
+
+3.8  Hazard Assessment: A systematic documented evaluation of workplace hazards
+     covering design, equipment, materials, processes, and work methods, with
+     documented control measures.
+
+3.9  Permit-to-Work (PTW): A formal written authorisation that must be issued and
+     signed before high-risk work begins, confirming all protective measures are
+     in place.
+
+3.10 Confined Space: An enclosed or partially enclosed space not designed for
+     continuous occupancy, with restricted entry/exit, including tanks, silos,
+     shafts, pits, trenches, ditches, ducts, and pipelines.
+
+3.11 ATEX Zone: Area classified by the probability of explosive atmosphere
+     formation (gas zones 0/1/2; dust zones 20/21/22) under the Explosive
+     Atmospheres Directive.
+
+3.12 LEL: Lower Explosion Limit — the minimum concentration of a flammable
+     substance in air at which ignition can occur.
+
+3.13 CMR Substances: Carcinogenic, Mutagenic, or Reprotoxic substances classified
+     under applicable chemical regulations.
+
+3.14 LOTO (Lockout/Tagout): Energy isolation procedure ensuring equipment is
+     de-energised and cannot be re-energised before maintenance is completed.
+
+3.15 Competent Person: A person with sufficient training, experience, and
+     knowledge to identify hazards and make judgements about their management.
+
+3.16 OHS Committee: Occupational Health and Safety Committee — the formal
+     worker-management consultation body for safety matters.
+
+================================================================================
+4. RESPONSIBILITIES
+================================================================================
+4.1  HSE Department:
+     - Arrange occupational health examinations and manage health records
+     - Develop, maintain, and train all HSE emergency plans
+     - Conduct and document hazard assessments and risk reviews
+     - Manage the permit-to-work system
+     - Monitor physical agent exposures (noise, vibration, radiation, heat)
+     - Maintain the OHS Committee secretariat
+     - Report performance metrics and drive continuous improvement
+     - Maintain CMR exposure registers and chemical inventory
+
+4.2  Each Department:
+     - Fulfil all HSE legal obligations within their area of responsibility
+     - Implement local hazard controls and update risk assessments
+     - Ensure employees complete required training before starting work
+     - Report all incidents, near-misses, and hazardous conditions immediately
+     - Participate in OHS Committee meetings
+
+4.3  Safety Team / Worker Representatives:
+     - Participate in accident investigation, safety inspections, and safety
+       scheme discussions
+     - Collect and escalate safety opinions from employees
+     - Represent employees in OHS Committee consultations
+
+4.4  All Employees:
+     - Comply with all safety rules, procedures, and instructions
+     - Report hazards, near-misses, and incidents immediately
+     - Attend all required training and health examinations
+     - Use PPE correctly and maintain it in good condition
+     - Not work while impaired by alcohol, drugs, or medication
+
+4.5  Site/Facility Manager:
+     - Ensure qualified supervision for all work activities
+     - Confirm all protective measures are in place before high-risk work begins
+     - Maintain safe access, egress, and workplace conditions
+
+================================================================================
+5. PROCESS
+================================================================================
+
+--------------------------------------------------------------------------------
+5.1 GENERAL PRINCIPLES AND HAZARD ASSESSMENT
+--------------------------------------------------------------------------------
+5.1.1  All departments shall identify, assess, and control hazards in their area
+       using the documented hazard assessment procedure. Assessments must cover:
+       - Workplace design, layout, and equipment
+       - Materials and substances in use
+       - Work processes, methods, and human factors
+       - Normal operations, maintenance, and emergency situations
+
+5.1.2  Hazard assessments shall:
+       - Be documented with identified hazards, risk ratings, and control measures
+       - Apply the hierarchy of controls: Elimination → Substitution →
+         Engineering Controls → Administrative Controls → PPE (in that order)
+       - Prioritise collective protection over individual protection
+       - Be completed before work begins and before any significant change
+
+5.1.3  Hazard assessments shall be reviewed and updated:
+       - After any accident, near-miss, or occupational illness
+       - After changes to equipment, processes, materials, or layout
+       - After introduction of new work methods or products
+       - At the request of the HSE department or regulatory authority
+       - At least annually
+
+5.1.4  Control measures from hazard assessments shall be documented, assigned to
+       a responsible person, and tracked to completion.
+
+5.1.5  The three-simultaneities principle (simultaneous design, construction, and
+       acceptance) applies to all new facilities, major renovations, and projects.
+
+--------------------------------------------------------------------------------
+5.2 OCCUPATIONAL HEALTH MANAGEMENT
+--------------------------------------------------------------------------------
+
+5.2.1  Health Examinations
+
+       a) Pre-employment: Health examinations required before assignment to any
+          role with occupational hazard exposure.
+       b) Periodic: Annual health examinations for all employees; bi-annual for
+          employees working night shifts or with significant hazard exposure.
+       c) Job transfer: Examination required before and after transfer to/from a
+          hazardous role.
+       d) Departure (including retirees): Exit health examination required for
+          employees who have been exposed to occupational hazards.
+       e) Hazard-specific examinations: Additional examinations required for
+          exposure to noise (hearing), vibration, chemicals, radiation, heat,
+          respiratory hazards, and CMR substances at intervals specified by the
+          relevant sub-procedure.
+       f) Medical examination results shall be communicated to each employee.
+       g) Findings requiring action (job reassignment, treatment, reduced hours)
+          shall be acted upon by management based on physician recommendation.
+       h) Examination findings for occupational disease cases shall be reported
+          to the competent regulatory/labor inspectorate authority.
+       i) Refer to: HSE-09-O Occupational Disease Management Regulation.
+
+5.2.2  Personal Protective Equipment (PPE)
+
+       a) A documented PPE hazard assessment shall identify: which hazards exist,
+          what PPE type and specification is required, and which tasks require PPE.
+          Assessments shall be updated when task conditions change.
+       b) PPE shall be selected to match the identified hazard and workplace
+          environmental conditions. Selection criteria shall be documented.
+       c) PPE shall be provided by the company at no cost to the employee.
+       d) PPE shall be properly fitted to each individual wearer.
+       e) Employees shall be trained on correct PPE use before first use and at
+          least annually thereafter. Training shall be documented.
+       f) PPE shall be inspected regularly; defective PPE shall be removed from
+          service and replaced immediately.
+       g) Employees shall not be permitted to work without required PPE.
+       h) Refer to: HSE-11-O Personal Protective Equipment Management Regulation.
+
+5.2.3  First Aid
+
+       a) First aid kits shall be provided on each office floor and in each
+          production workshop, accessible at all times. Locations shall be clearly
+          marked and communicated to all employees.
+       b) Each department and area shall designate at least one trained first aider
+          (minimum 16-hour certified first aid training) per workforce size and
+          risk level as determined by the HSE department.
+       c) First aider names, company emergency number, and local medical emergency
+          number shall be posted in the rest area, on bulletin boards, or on the
+          first aid kit.
+       d) First aid supplies shall be maintained in stock and inspected regularly.
+       e) Refer to: HSE-10-O Emergency First-Aid Management Regulation.
+
+5.2.4  Respiratory Protection
+
+       a) Respiratory protective equipment (RPE) shall be provided where hazardous
+          substance concentrations or oxygen deficiency risks exist.
+       b) RPE shall be selected to reduce inhalation exposure below occupational
+          exposure limits.
+       c) Employees shall be trained on RPE use, maintenance, proper donning and
+          doffing before first use.
+       d) Donning/doffing drills with functional checks shall be conducted at
+          least every six (6) months for all users. Drills shall be documented.
+       e) RPE shall be inspected at least quarterly and after each use.
+          Defective devices shall be withdrawn and replaced.
+       f) A medical fitness examination shall be completed before assignment to
+          frequent or prolonged RPE use.
+
+5.2.5  Occupational Health Records
+
+       a) The HSE department shall maintain occupational health records for all
+          employees exposed to occupational hazards.
+       b) Records shall include: employee identity, role, hazard exposure type,
+          dates of exposure, examination dates, findings, and any actions taken.
+       c) Health records shall be retained for a minimum of five (5) years
+          after cessation of exposure, or longer as required by applicable law.
+       d) Employee health information shall be handled confidentially.
+
+--------------------------------------------------------------------------------
+5.3 SAFE OPERATION MANAGEMENT
+--------------------------------------------------------------------------------
+
+5.3.1  General Safety Responsibilities
+
+       Each department shall:
+       - Implement the safety policy "Safety First, Precaution Crucial,
+         Treatment Comprehensive"
+       - Maintain area-specific safety responsibility systems
+       - Enforce all safety operating procedures
+       - Ensure employees do not work while impaired by alcohol, drugs, or
+         any substance that could compromise their own safety or others
+       - Refer to: HSE-17-O Occupational Health & Safety Management Regulation.
+
+5.3.2  Contractor and Visitor Safety
+
+       a) No contractor, visitor, or other third party shall enter the production
+          area without authorisation from the responsible department.
+       b) The HSE department shall communicate HSE requirements to all contractors
+          before work commences. Contractors must sign acknowledgement.
+       c) Host departments shall share workplace hazard information with all
+          contractors and their employees before work begins.
+       d) Contractors must comply with all applicable requirements of this
+          procedure. Contractor safety performance shall be monitored.
+       e) Training and site safety induction shall be provided to all external
+          workers before they begin work on company premises.
+       f) Refer to: HSE-14-O Interested Party EHS Management Regulation;
+          HSE-15-O Contractor EHS Management Regulation;
+          HSE-16-O Workshop Visit Safety Management Regulation.
+
+5.3.3  High-Risk Work Permit System
+
+       The following high-risk operations require a written Permit-to-Work (PTW)
+       approved by both the responsible department manager AND the HSE department
+       before work commences. All stated protective measures must be confirmed
+       in place before approval is granted:
+
+       - Confined space entry
+       - Hot work (welding, cutting, grinding, open flame)
+       - Work at height (>2 m fall risk)
+       - Electrical live work or work on de-energised systems
+       - Explosive atmosphere areas (ATEX zones)
+       - Excavations deeper than 1.25 m
+       - Temporary electrical supply installation
+       - Equipment installation or major maintenance
+       - Any other work identified in the hazard assessment as requiring PTW
+
+       PTW forms shall be retained for at least five (5) years.
+
+5.3.4  Confined Space Entry
+
+       a) All confined spaces (tanks, silos, shafts, pits, trenches, ducts,
+          pipelines) shall be identified and documented before work begins.
+       b) A written Confined Space Entry Permit shall be issued by the responsible
+          supervisor before any entry. The permit shall specify: identified hazards,
+          required protective measures, and the named responsible person.
+       c) Atmospheric testing is mandatory before entry and continuously during
+          work to verify: no oxygen deficiency (<19.5%), no flammable gas
+          concentration above 10% LEL, and no toxic substance above exposure limits.
+          Oxygen shall NOT be used for ventilation purposes.
+       d) Fresh air ventilation shall be established and maintained throughout the
+          operation. Ventilation effectiveness shall be verified.
+       e) A trained attendant shall remain at the entry point throughout the
+          operation and shall not enter the space.
+       f) A reliable communication system (radio/telephone) shall be established
+          between the entrant and attendant when direct voice contact is not possible.
+       g) Rescue equipment (harness, lifeline, winch or hoist capable of extracting
+          the entrant from above) shall be provided before entry.
+       h) Entry shall only be authorised after the responsible person confirms all
+          protective measures are in place.
+       i) Notification shall be submitted to the relevant authority for operations
+          requiring written protective measures.
+
+5.3.5  Electrical Safety
+
+       a) Electrical work shall only be performed by qualified electricians, or by
+          instructed persons under direct supervision of a qualified electrician.
+       b) Electrical equipment shall be suitable for its intended use and
+          environmental conditions (mechanical, thermal, chemical influences).
+       c) Live parts shall be insulated, enclosed, or otherwise guarded to prevent
+          direct contact.
+       d) All electrical installations shall include at least one effective fault
+          protection measure against indirect contact.
+       e) De-energised Work (LOTO): Before commencing any electrical maintenance
+          or repair work:
+          - The work area shall be clearly defined
+          - Circuits shall be isolated, locked out, and tagged
+          - Absence of voltage shall be verified
+          - Adjacent live parts shall be covered or safeguarded
+          - LOTO devices shall not be removed by anyone other than the person
+            who applied them
+       f) Inspection schedule:
+          - Construction site electrical installations: visual inspection at least
+            weekly for visible defects
+          - All installations: tested before commissioning and after modification
+            or repair
+          - Testing shall verify: basic protection, fault protection, and
+            effectiveness of additional protective measures
+       g) Electrical installations shall be tested and certified before first use.
+       h) Personnel performing live electrical work shall have specialised training
+          and receive annual refresher training. Required safety distances and PPE
+          for live work shall be specified before work begins.
+
+5.3.6  Fall Protection and Work at Height
+
+       a) Fall protection measures shall be provided wherever:
+          - Fall height exceeds 1 m at walls, stairs, and machine platforms
+          - Fall height exceeds 2 m at general workplaces and traffic routes
+       b) Hierarchy of fall protection (must be applied in this order):
+          1. Guardrails, barriers, or covers (collective protection — preferred)
+          2. Safety nets or catchment platforms
+          3. Personal fall arrest systems (harness/lanyard) — only where
+             collective measures are not feasible
+       c) Openings in floors, roofs, or elevated surfaces shall be guarded by
+          load-bearing covers, guardrails, or equivalent protective measures.
+          Where covers are not possible, clear hazard marking is required.
+       d) Where persons may be endangered by falling objects, protective roofs,
+          barriers, or restricted zones shall be established below work areas.
+       e) When working near unprotected edges, appropriate safety distances,
+          barriers, or clearly marked restricted zones shall be maintained.
+       f) Access to edge protection barrier zones shall be limited to operational
+          necessity only.
+       g) Employees working at height shall be trained in fall protection measures
+          before beginning work.
+
+5.3.7  Ladder Safety
+
+       a) Ladders shall only be used for access/egress or short-duration light
+          work where other means are impractical.
+       b) Ladders shall be positioned at the correct angle (approximately 75°
+          or 1 horizontal : 4 vertical).
+       c) Ladder feet shall be secured against slipping. The top shall be
+          secured or held by another person when in use.
+       d) Both hands shall be free for climbing. Tools and materials shall be
+          carried in a belt or hoisted separately.
+       e) Roof ladders shall only be used where specifically designed for that
+          purpose; standard ladders shall not be used on roofs.
+       f) Ladders shall be inspected before each use and removed from service
+          if damaged.
+
+5.3.8  Roof Work
+
+       a) Fall protection measures shall be provided for all roof work:
+          - Roofs pitched ≤20°: guardrails or fall-arrest systems at all open
+            edges where fall height exceeds 3 m
+          - Roofs pitched >20° to ≤45°: secured walkways or equivalent required
+          - Roofs pitched >45°: special access methods (fixed rungs, crawl boards,
+            or equivalent) required
+       b) A minimum of two (2) workers shall be present for high-risk roof work
+          with fall heights exceeding 5 m.
+       c) Work on roofs for more than five (5) working days with fall height >5 m
+          shall be notified to the relevant authority before commencement.
+       d) Fragile roof surfaces shall be clearly marked and fitted with
+          load-bearing covers or walkways before access is permitted.
+       e) Qualified personnel shall supervise all roof work activities.
+
+5.3.9  Scaffolding
+
+       a) Scaffolding shall be erected, altered, and dismantled only by qualified
+          and competent personnel.
+       b) Scaffolding shall be designed and erected to meet required load limits.
+          Maximum load capacity shall be clearly marked.
+       c) Scaffolding shall be inspected before each use (shift) by a competent
+          person. Inspection records shall be maintained.
+       d) Access to scaffolding shall be restricted until a competent person
+          confirms it is safe for use.
+       e) Employees using scaffolding shall be trained in its safe use before
+          commencing work.
+
+5.3.10 Excavation Safety
+
+       a) Before any excavation begins, all underground utilities (pipes,
+          cables, water, gas) and soil hazard conditions shall be identified.
+       b) For excavations deeper than 1.25 m, an approved protective method
+          shall be selected and implemented: sloping, shoring, or ground
+          stabilisation.
+       c) A 50 cm edge loading restriction shall be maintained around excavation
+          edges unless specific collapse-prevention measures are in place.
+       d) Loose materials, rocks, or structural elements at excavation faces
+          shall be removed or secured to prevent falling.
+       e) Workers shall not enter an excavation until sloping, shoring, or
+          stabilisation measures are fully in place and confirmed by a
+          competent person.
+       f) Inspections shall be conducted: before work begins each day, after
+          any event affecting stability (heavy rain, blasting, vibration), and
+          after any work interruption exceeding one shift.
+       g) All excavation work shall be supervised by a competent person.
+
+5.3.11 Fire Safety
+
+       a) A Fire Safety Officer shall be appointed where required by law or by
+          risk assessment. Responsibilities include: employee fire behaviour
+          briefing, fire self-monitoring, incipient fire response, evacuation
+          co-ordination, and preparation for fire brigade operations.
+       b) Designated fire response persons familiar with fire extinguisher use
+          and evacuation procedures shall be appointed in each area.
+       c) Fire prevention measures shall be established to prevent, control, and
+          respond to fire hazards, including: ignition source controls, vapor
+          accumulation prevention, and per-shift flammable waste removal.
+       d) Suitable fire extinguishing equipment (appropriate to fire class and
+          facility size) shall be provided, clearly marked, and kept accessible.
+       e) Fire extinguishers and fixed suppression systems shall be inspected
+          at least every two (2) years by a competent person. Inspection records
+          shall be retained for at least three (3) years.
+       f) Annual fire and evacuation drills shall be conducted for all occupied
+          facilities. Drills shall be documented including attendance, findings,
+          and remedial actions.
+       g) A fire safety logbook shall record: inspections, deficiencies, drills,
+          and any fires. Records shall be retained for at least three (3) years.
+       h) Each factory shall comply with all applicable fire protection laws,
+          regulations, and national standards.
+
+5.3.12 Hot Work
+
+       a) All hot work (welding, cutting, grinding, brazing, open-flame
+          operations) requires a Hot Work Permit approved by the department
+          manager and HSE before work begins.
+       b) Gas cylinders shall be secured upright at all times and stored
+          separately from oxygen and fuel gases when not in use. Valves shall
+          be closed when not in use.
+       c) The work area shall be cleared of flammable materials to a radius of
+          at least 10 m before hot work begins. Flammable surfaces shall be
+          wetted or protected with non-combustible blankets.
+       d) A fire extinguisher shall be immediately available at the hot work site.
+       e) After hot work is completed, a fire watch shall be maintained for a
+          minimum of 30 minutes (or longer as determined by risk assessment).
+       f) Hot work in explosive atmosphere zones is prohibited unless the area
+          has been fully classified as safe and the ATEX permit is also in place.
+       g) Annual training on hot work safety, gas cylinder handling, and fire
+          prevention shall be provided to all employees who perform hot work.
+
+5.3.13 Explosive Atmospheres (ATEX)
+
+       a) An explosion hazard assessment shall be conducted for all areas where
+          flammable gases, vapours, mists, or dusts may be present. The assessment
+          shall address: probability and duration of explosive atmosphere formation,
+          properties of flammable substances, and potential ignition sources.
+       b) An Explosion Protection Document shall be created before work begins in
+          any area with explosion risk. The document shall be kept up to date.
+       c) Explosive atmosphere areas shall be classified into zones:
+          - Zone 0 (gas): explosive atmosphere present continuously
+          - Zone 1 (gas): explosive atmosphere present occasionally during
+            normal operation
+          - Zone 2 (gas): explosive atmosphere not likely in normal operation
+          - Zone 20/21/22: equivalent zones for combustible dust
+       d) Only equipment rated and certified for the applicable ATEX zone shall
+          be used in classified areas. Zone markings shall be posted.
+       e) A competent person shall issue a Work Release before any work in
+          classified zones, confirming all controls are in place.
+       f) Atmospheric monitoring shall measure flammable substance concentration
+          to verify primary explosion protection effectiveness. Where concentrations
+          exceed 25% LEL, annual control measurements are mandatory.
+       g) Electrical installations in explosive atmosphere zones shall be
+          inspected at least every three (3) years.
+       h) Annual training on explosion hazards, zone classification, safe equipment
+          use, work practices, and required PPE shall be provided to all workers
+          in or near classified zones.
+
+5.3.14 Special Equipment and Cranes
+
+       a) Special equipment operators (cranes, forklifts, pressure vessels,
+          elevators) must hold valid operating certificates. Certificates shall
+          be verified before assignment.
+       b) Special equipment safety management systems shall be implemented per
+          HSE-28-O Special Equipment Use Safety Management Regulation.
+       c) Crane-specific requirements:
+          - Pre-use daily inspection by a qualified person before each shift
+          - Load capacity limits shall be posted on each crane; limits shall
+            not be exceeded
+          - Restricted access zones shall be established under suspended loads
+          - A banksman/signal person shall direct crane movements when the
+            operator's view is obstructed
+          - Communication (radio or hand signals) shall be established before
+            each lift
+          - Cranes shall be tested before commissioning and after any
+            structural modification or repair
+
+5.3.15 Lifting Operations and Hoists
+
+       a) Pre-lift inspection shall be completed before each lifting operation,
+          verifying: load attachment, sling condition, hook latch, and rated
+          capacity.
+       b) Load attachment points shall be confirmed secured before any lift.
+          Loads shall not be left suspended unattended.
+       c) Hoists shall be securely installed, marked with maximum load capacity,
+          and have guarded moving parts.
+       d) Restricted access shall be maintained below hoist travel paths during
+          operation.
+
+5.3.16 Manual Handling and Material Storage
+
+       a) The need for manual handling shall be minimised through mechanisation,
+          trolleys, lift assists, or work area redesign.
+       b) A manual handling risk assessment shall be conducted for tasks involving
+          repeated lifting, carrying, pushing, or pulling.
+       c) Maximum manual handling load limits shall be defined in the assessment.
+          Loads exceeding limits require mechanical assistance.
+       d) Workers shall be trained in safe manual handling techniques before
+          performing such tasks.
+       e) Material storage requirements:
+          - Stacked materials shall not exceed 2 m in height unless specific
+            engineering controls are in place
+          - Stacks shall be founded on stable, level surfaces
+          - Heavy items shall be stored at lower levels
+          - Storage areas shall be inspected regularly and kept clear of hazards
+          - Authorised load zones shall be defined and marked
+
+5.3.17 Traffic Safety
+
+       a) Designated traffic routes shall be established and clearly marked for
+          vehicle and pedestrian movement within all factory and site areas.
+       b) Traffic routes shall provide minimum clearances of:
+          - Width: sufficient for vehicle type plus 0.5 m each side
+          - Height: at least 2.0 m above the highest point of vehicles using
+            the route
+       c) Vehicle and pedestrian routes shall be physically separated wherever
+          practicable.
+       d) Workers in areas with vehicle traffic shall wear high-visibility (hi-vis)
+          clothing at all times.
+       e) Traffic routes shall be maintained in good condition, free from
+          obstructions and surface hazards.
+       f) Traffic management measures shall be in place to control vehicle
+          movement near worksites and conveyors.
+
+5.3.18 Working On, Over, or Near Water
+
+       a) Employees working on, over, or near water shall wear appropriate PPE
+          including personal flotation devices.
+       b) At least one trained rescue person shall be present and on standby
+          whenever work over water is in progress.
+       c) A manned motorboat or rescue craft shall be available where required
+          by risk assessment.
+       d) Annual water rescue drills shall be conducted and documented for all
+          teams with regular water work exposure.
+       e) All employees assigned to water work shall be trained in water safety
+          and rescue procedures before commencing such work.
+
+5.3.19 Demolition
+
+       a) A structural evaluation by a competent engineer shall be conducted
+          before any demolition work commences to assess stability risks.
+       b) All hazardous materials (asbestos, lead paint, PCBs) shall be
+          identified and safely removed by certified contractors before any
+          structural demolition begins.
+       c) All utilities (electricity, gas, water, telecommunications) shall be
+          isolated, disconnected, and capped before demolition.
+       d) Debris control measures (screens, containment, restricted access
+          zones) shall be in place throughout demolition.
+       e) Access to demolition areas shall be restricted to authorised workers
+          with appropriate PPE.
+       f) Demolition work shall be supervised by a competent person at all times.
+
+5.3.20 Abrasive Blasting
+
+       a) Abrasive materials containing more than 2% free crystalline silica
+          (quartz) are prohibited for blasting operations.
+       b) Dust control measures (wet blasting, local exhaust ventilation, or
+          equivalent) shall be implemented during all blasting operations.
+       c) Respiratory protection (minimum P3/FFP3 or supplied-air respirator
+          as determined by exposure assessment) shall be provided and worn
+          during blasting.
+       d) Access to blast areas shall be restricted and posted with hazard
+          warning signs during operations.
+       e) Notification shall be submitted to the relevant authority before
+          blasting operations exceeding the statutory threshold.
+
+5.3.21 Road Transport of Dangerous Goods
+
+       a) All dangerous goods transported by road shall be classified and
+          authorised in accordance with applicable transport regulations (ADR
+          or equivalent national standard).
+       b) Appropriate transport documents shall accompany all dangerous goods
+          shipments.
+       c) Approved packaging, containers, and tanks shall be used for all
+          dangerous goods. Packages shall be correctly marked and placarded.
+       d) Vehicles transporting dangerous goods shall be equipped with mandatory
+          emergency equipment (fire extinguisher, first aid kit, eye wash,
+          emergency information card).
+       e) Drivers transporting dangerous goods shall hold valid training
+          certificates for the categories of goods carried.
+       f) Dangerous goods transport vehicles shall be inspected before each
+          journey.
+
+--------------------------------------------------------------------------------
+5.4 PHYSICAL AGENTS
+--------------------------------------------------------------------------------
+
+5.4.1  Noise
+
+       a) Noise hazard identification shall be conducted for all areas where
+          significant noise exposure cannot be ruled out. Workplace noise
+          measurements shall be conducted considering both continuous and
+          impulse noise. Measurements shall be repeated after any significant
+          change to equipment or work processes.
+       b) Exposure limits:
+          - Action level: 80 dBA (8-hour average) — controls required
+          - Limit value: 85 dBA (8-hour average) — must not be exceeded
+          - Peak sound pressure: 135 dBC must not be exceeded
+       c) When the 80 dBA action level is exceeded:
+          - Noise reduction measures shall be implemented (engineering then
+            administrative then hearing protection)
+          - Employees shall be enrolled in hearing surveillance
+          - Hearing protection shall be made available
+          - Noise areas shall be marked and, where justified, demarcated
+       d) When the 85 dBA limit is exceeded:
+          - Immediate corrective action is required
+          - Use of hearing protection is mandatory
+          - Restricted access control shall be enforced
+       e) Pre-assignment hearing examinations shall be conducted before
+          assigning workers to tasks with hazardous noise exposure.
+          Periodic hearing examinations shall follow at frequency determined
+          by risk level.
+       f) A noise exposure register shall be maintained listing all employees
+          exposed above action levels. The register shall be kept current and
+          submitted to insurance authorities when required.
+       g) Noise training shall be provided: at initial assignment and whenever
+          action level exceedance is identified. Training shall cover: health
+          risks, limits, measurement results, controls, and PPE.
+       h) Refer to: HSE-13-O Pollutant and Noise Emission Management Regulation.
+
+5.4.2  Vibration
+
+       a) Vibration exposure limits (must not be exceeded, 8-hour average):
+          - Hand-arm vibration (HAV): 5 m/s²
+          - Whole-body vibration (WBV): 1.15 m/s²
+       b) Vibration action values (controls required when exceeded):
+          - Hand-arm: 2.5 m/s²
+          - Whole-body: 0.5 m/s²
+       c) Representative vibration measurements shall be conducted wherever
+          assessments cannot reliably exclude exceedance of action values.
+       d) When action values are exceeded:
+          - Engineering controls shall be applied to reduce vibration at source
+            (anti-vibration mountings, suspension seats, low-vibration tools)
+          - Work rotation or rest breaks shall be introduced
+          - Health surveillance shall be initiated
+       e) When limit values are exceeded, immediate corrective action is required.
+       f) High-vibration areas shall be marked; restricted access applied where
+          justified.
+       g) Training on vibration risks, controls, limits, health effects, and safe
+          work methods shall be provided when action values are exceeded.
+
+5.4.3  Heat Stress and UV Radiation
+
+       a) A heat stress risk assessment shall be conducted for all outdoor work
+          and indoor work in hot environments.
+       b) A documented heat and UV action programme shall be established based
+          on the risk assessment, covering technical, organisational, and personal
+          protective measures. The programme shall be activated when weather
+          authorities issue a heat warning at or above the threshold equivalent
+          to significant heat stress risk (≥Level 2 or equivalent national alert).
+       c) Technical and organisational heat control measures shall include:
+          - Scheduling heavy work during cooler hours
+          - Providing shaded rest areas with adequate ventilation
+          - Providing cool drinking water and rest breaks
+          - Acclimatisation programme for workers new to hot work
+          - Reduced work/rest ratios during high heat alerts
+       d) First aid measures for heat-related illness (heat exhaustion, heat
+          stroke) shall be defined and communicated to all workers. At least
+          one first aider trained in heat illness response shall be present.
+       e) UV radiation controls for outdoor workers shall include: UV-protective
+          clothing, hats, sunscreen (SPF 30+), and scheduling to avoid peak
+          UV hours (typically 10:00–15:00).
+       f) Training on heat and UV hazards, warning signs of heat illness, and
+          protective measures shall be provided before and during the hot season.
+       g) Medical examinations addressing heat strain shall be provided for
+          workers with significant heat exposure.
+
+5.4.4  Ionising Radiation
+
+       a) Ionising radiation exposure shall be assessed for all work involving
+          radioactive sources, X-ray equipment, or naturally occurring
+          radioactive materials (NORM).
+       b) Radiation dose limits shall comply with applicable national regulations.
+          Workers shall not exceed annual effective dose limits.
+       c) Engineering controls (shielding, distance, enclosure) shall be
+          applied to reduce exposure to as low as reasonably achievable (ALARA).
+       d) Access to radiation areas shall be controlled. Areas shall be marked
+          with ionising radiation warning symbols.
+       e) Pre-work and periodic medical examinations (including bioassay where
+          relevant) shall be conducted for all classified radiation workers.
+       f) Annual training on radiation hazards, dose limits, controls, and
+          emergency procedures shall be provided before first assignment and
+          annually thereafter.
+       g) Radiation workers shall be enrolled in a dose monitoring register.
+          Personal dosimeters shall be worn and dose records retained.
+
+5.4.5  Optical Radiation (Non-Ionising)
+
+       a) A hazard assessment shall be conducted for all work involving
+          significant optical radiation sources (lasers, arc welding, UV lamps,
+          intense light sources).
+       b) Exposure shall not exceed applicable limit values for the eyes and skin.
+       c) Engineering controls (enclosures, interlocks, screens) shall be
+          applied at source. Administrative controls (restricted access, warning
+          signs) shall supplement engineering measures.
+       d) Appropriate eye and face protection (laser safety goggles, welding
+          helmets, UV-blocking eyewear) shall be provided and worn.
+       e) Training on optical radiation hazards, exposure limits, controls, and
+          PPE shall be provided to all affected workers.
+
+5.4.6  Electromagnetic Fields (EMF)
+
+       a) EMF exposure assessment shall be conducted for all work near high-power
+          electrical equipment, large motors, induction heaters, MRI equipment,
+          or welding machines.
+       b) Exposure shall not exceed applicable action values or limit values.
+       c) Where action values are exceeded, technical controls (shielding,
+          increased distance, process optimisation) shall be implemented.
+          Administrative controls (restricted access, rotation) shall supplement
+          technical measures.
+       d) PPE shall be provided where residual exposure risk remains after
+          engineering and administrative controls.
+       e) Training on EMF hazards, controls, and any relevant health effects
+          shall be provided to all workers with significant EMF exposure.
+
+--------------------------------------------------------------------------------
+5.5 CHEMICAL AND HAZARDOUS SUBSTANCE MANAGEMENT
+--------------------------------------------------------------------------------
+
+5.5.1  General Chemical Controls
+
+       a) Safety Data Sheets (SDS/MSDS) shall be obtained for all hazardous
+          chemicals before use. SDS shall be accessible to employees and
+          regulatory authorities at all times. SDS shall be reviewed and updated
+          when new versions are issued by the supplier.
+       b) All substances used in the workplace shall be assessed for hazardous
+          properties using CLP/GHS classification criteria. Substances meeting
+          criteria for explosive, flammable, toxic, CMR, or biological hazard
+          shall be managed under this procedure.
+       c) A chemical inventory shall be maintained listing all hazardous substances
+          on site, their locations, quantities, and SDS reference.
+       d) Exposure assessment:
+          - Worker exposure type, extent, and duration shall be assessed initially,
+            periodically, after any process change, and when health concerns arise.
+          - Exposure shall be maintained below applicable occupational exposure
+            limits (OELs/MAK values). Where carcinogenic substances are involved,
+            exposure shall be reduced to as low as reasonably practicable.
+          - Measurement methods shall comply with applicable standards.
+       e) Hierarchy of chemical controls:
+          1. Elimination of the hazardous substance
+          2. Substitution with a less hazardous alternative
+          3. Engineering controls (local exhaust ventilation, enclosure)
+          4. Administrative controls (reduced exposure time, rotation)
+          5. PPE as last resort
+       f) Containers and pipelines containing hazardous substances shall be
+          permanently and clearly labelled with hazard markings (GHS/CLP symbols,
+          signal words, hazard statements).
+       g) Storage of hazardous substances:
+          - Storage areas shall be appropriate for the hazard (ventilated,
+            temperature-controlled, compatible materials separated)
+          - Storage rooms and cabinets shall be marked with hazard symbols
+          - Incompatible substances (e.g., oxidisers and flammables) shall be
+            separated
+       h) Residual chemicals shall not be discarded arbitrarily. They shall be
+          returned to the warehouse or stored in a designated area for HSE
+          disposal per HSE-13-O.
+       i) Refer to: HSE-12-O Chemical Storage and Using Management Regulation.
+
+5.5.2  Carcinogenic, Mutagenic, and Reprotoxic (CMR) Substances
+
+       a) Before any CMR substance is first used in the workplace, a notification
+          shall be submitted to the relevant regulatory/labor authority.
+       b) Access to areas where CMR substances are handled shall be restricted
+          to authorised and trained employees only.
+       c) A CMR Exposure Register shall be maintained, listing:
+          - Names of all workers potentially exposed to CMR substances
+          - Names and CAS numbers of CMR substances
+          - Nature of work and duration/frequency of exposure
+          - Results of exposure measurements
+       d) The exposure register shall be retained for at least 40 years (or as
+          required by applicable law) given the long latency of associated diseases.
+       e) Substitution of CMR substances with less hazardous alternatives shall
+          be actively pursued. Use of CMR substances shall be minimised.
+       f) Pre-employment and periodic health examinations shall be conducted for
+          all workers exposed to CMR substances.
+
+5.5.3  Lead and Lead Paint
+
+       a) Materials containing more than 2% lead in surface coatings are prohibited
+          for use in construction and maintenance activities.
+       b) Where lead paint is present in existing structures (e.g., during
+          renovation or demolition), it shall be identified and managed by
+          qualified contractors using appropriate dust controls, respiratory
+          protection, and hygiene provisions.
+       c) Workers handling lead shall be provided with appropriate RPE and
+          protective clothing. Eating, drinking, and smoking in lead work areas
+          is strictly prohibited.
+       d) Notification shall be submitted to the relevant authority before lead
+          work expected to last more than five (5) working days.
+
+5.5.4  Explosives
+
+       a) Possession and use of explosives requires a valid permit from the
+          relevant regulatory authority. No explosives shall be stored or used
+          on company premises without current authorisation.
+       b) Only qualified, licensed blasters shall handle or use explosives.
+       c) Explosives shall be stored in approved, secure storage facilities
+          complying with applicable regulations.
+       d) An Explosives Officer shall be appointed for any project using explosives.
+       e) Only approved disposal methods shall be used for expired or surplus
+          explosives.
+       f) Explosives records (purchase, use, stock, disposal) shall be retained
+          for at least ten (10) years.
+
+--------------------------------------------------------------------------------
+5.6 ENVIRONMENTAL MANAGEMENT
+--------------------------------------------------------------------------------
+5.6.1  The company shall comply with all applicable national and regional
+       environmental laws and regulations regarding waste, emissions, and
+       pollution control.
+
+5.6.2  Effective control shall be implemented for exhaust gas, solid waste, noise,
+       and wastewater emissions from all facilities.
+
+5.6.3  The three-simultaneities principle applies to all new facilities and
+       major process changes.
+
+5.6.4  Hazardous waste shall be managed, stored, and disposed of through approved
+       channels. Records of hazardous waste disposal shall be maintained.
+
+5.6.5  Refer to: HSE-13-O Pollutant and Noise Emission Management Regulation.
+
+--------------------------------------------------------------------------------
+5.7 EMERGENCY PREPAREDNESS AND RESPONSE
+--------------------------------------------------------------------------------
+5.7.1  The company shall maintain an emergency preparedness and response
+       management system covering all foreseeable emergencies including: fire,
+       chemical spill, explosion, medical emergency, power failure, flood,
+       and natural disaster.
+
+5.7.2  Emergency notification:
+       - Precautions ensuring immediate employee notification in case of danger
+         shall be in place at all times
+       - Emergency alarm systems shall be tested regularly
+       - Emergency contact numbers (HSE, fire brigade, medical services, local
+         authority) shall be posted in all occupied areas
+
+5.7.3  Escape routes:
+       - At least one unobstructed escape route shall be accessible within 10 m
+         of any workplace location
+       - Escape routes shall be clearly marked with directional signage
+       - Escape routes shall remain unobstructed at all times when employees
+         are present
+       - Emergency lighting shall be provided along all escape routes and in
+         areas with no natural light, sufficient to support safe evacuation in
+         darkness
+
+5.7.4  Annual emergency drills:
+       - At least one full emergency drill (evacuation + fire response) shall
+         be conducted annually at each facility
+       - Desktop/tabletop exercises shall supplement physical drills
+       - All employees must participate
+       - Drills shall be documented: date, participants, findings, remedial
+         actions, and completion sign-off
+
+5.7.5  Emergency equipment:
+       - Fire extinguishers, first aid kits, eye wash stations, spill kits,
+         and emergency lighting shall be maintained in serviceable condition
+       - All emergency equipment shall be inspected regularly and defects
+         corrected promptly
+
+5.7.6  Chemical spill response:
+       - Chemical-specific emergency plans shall be maintained
+       - Spill kits appropriate to chemical hazards on site shall be readily
+         available
+       - All relevant employees shall be trained in spill response procedures
+
+5.7.7  Refer to: HSE-18-O Emergency Preparation and Response Management Regulation.
+
+--------------------------------------------------------------------------------
+5.8 INCIDENT RECORDING AND REPORTING
+--------------------------------------------------------------------------------
+5.8.1  All employees are required to report immediately to their department head
+       and the HSE department any:
+       - Injury accident (however minor)
+       - Near-miss event
+       - Dangerous condition or safety defect
+       - Occupational illness symptom
+
+5.8.2  The HSE department shall investigate all reported incidents to identify
+       root causes and implement corrective actions to prevent recurrence.
+
+5.8.3  Accidents resulting in more than three (3) days of incapacity, any
+       work-related fatality, and any diagnosed occupational disease shall be
+       reported to the relevant accident insurance institution and regulatory
+       authority within five (5) days of occurrence.
+
+5.8.4  All accident records, investigation reports, and corrective action plans
+       shall be retained for a minimum of five (5) years.
+
+5.8.5  Permit-to-Work records shall be retained for a minimum of five (5) years.
+
+5.8.6  Refer to: HSE-23-O Incidents Investigation Management Regulation.
+
+--------------------------------------------------------------------------------
+5.9 WORKPLACE CONDITIONS
+--------------------------------------------------------------------------------
+5.9.1  Alcohol and Drug Prohibition:
+       Employees shall not place themselves in a condition — due to alcohol,
+       medication, or drugs — that compromises their own safety or the safety
+       of others. Any employee found impaired shall be removed from work
+       immediately. This applies to all employees including contractors.
+
+5.9.2  Hazard Signage:
+       - All workplace hazards (obstacles, holes, depressions, restricted zones,
+         hazardous substance areas, noise zones, radiation areas, ATEX zones)
+         shall be marked with appropriate warning signs and/or physical barriers
+       - Signage shall comply with applicable national standards for colour,
+         symbol, and format
+
+5.9.3  Workplace Lighting:
+       - All occupied areas shall be provided with adequate artificial lighting
+         where natural light is insufficient
+       - Minimum illumination: 30 lux in indoor areas; higher levels required
+         for detailed or precision work
+       - Glare shall be prevented through appropriate fixture selection and
+         positioning
+       - Emergency lighting shall be maintained as specified in Section 5.7.3
+
+5.9.4  Ventilation:
+       - All workrooms shall be provided with adequate ventilation appropriate
+         to the intended use, occupancy, and any processes generating
+         contaminants
+       - Ventilation systems shall be inspected and maintained regularly
+
+5.9.5  Hygiene Facilities:
+       - Sufficient toilet facilities with flushing, toilet paper, and
+         adjacent handwashing facilities shall be provided
+       - Separate changing facilities and, where required, shower facilities
+         shall be provided for workers in dirty or hazardous roles
+       - Rest areas with seating shall be provided
+
+5.9.6  Housekeeping:
+       - All work areas shall be maintained in a clean, orderly condition
+       - Walkways shall be kept clear at all times
+       - Waste and debris shall be removed regularly
+
+--------------------------------------------------------------------------------
+5.10 TRAINING
+--------------------------------------------------------------------------------
+5.10.1 Safety training shall be provided before work begins and repeated as
+       needed. Specifically:
+       a) Pre-employment induction: mandatory for all employees before starting
+          work, covering site rules, emergency procedures, hazards, and PPE
+       b) Job-change training: required before assignment to any new task with
+          different hazard profile
+       c) Hazard-specific training: required for all employees working with or
+          near specific hazards (chemicals, noise, vibration, radiation, height,
+          confined spaces, electrical, etc.) — frequency as specified in
+          relevant sections of this procedure
+       d) Supervisor/manager safety training: required for all supervisory staff
+       e) Refresher training: required after incidents, after process changes,
+          after new equipment introduction, and at intervals specified by
+          applicable regulations
+
+5.10.2 All training shall be:
+       - Delivered during working hours
+       - Conducted in a language and format that participants understand,
+         with confirmed comprehension (e.g., written test or verbal check)
+       - Documented with: date, trainer, attendees, topics covered, and
+         sign-off by each participant
+       - Records retained for at least five (5) years
+
+5.10.3 Contractors and external workers shall receive site safety induction
+       and hazard information relevant to their work before commencing
+       operations on company premises.
+
+--------------------------------------------------------------------------------
+5.11 MULTI-EMPLOYER COORDINATION
+--------------------------------------------------------------------------------
+5.11.1 Where multiple employers' workers share the same workplace, the host
+       employer shall:
+       - Co-ordinate hazard prevention activities among all employers
+       - Share comprehensive workplace hazard information with all employer
+         representatives and their workers before work begins
+       - Agree on protective measures and ensure they do not create risks
+         for the workers of other employers
+       - Designate a co-ordination point of contact for safety matters
+
+5.11.2 External employers shall:
+       - Ensure their workers comply with the host employer's safety rules
+       - Inform the host employer of any hazards their work creates
+       - Provide hazard-specific training to their own workers
+
+5.11.3 Refer to: HSE-14-O Interested Party EHS Management Regulation;
+       HSE-15-O Contractor EHS Management Regulation.
+
+--------------------------------------------------------------------------------
+5.12 OHS COMMITTEE
+--------------------------------------------------------------------------------
+5.12.1 An Occupational Health and Safety (OHS) Committee shall be established
+       at all facilities with 100 or more workers. Smaller facilities should
+       establish equivalent worker consultation mechanisms.
+
+5.12.2 Committee composition:
+       - HSE Director or designee (Committee Chair)
+       - Department safety representatives (management side)
+       - Elected worker representatives (at least equal in number to management
+         representatives)
+       - Industrial physician / occupational health adviser (advisory role)
+       - HSE Secretariat (HR or HSE department)
+
+5.12.3 The OHS Committee shall meet at least monthly. Extraordinary sessions
+       shall be convened for urgent safety matters.
+
+5.12.4 Mandatory agenda items:
+       - Review of accidents, near-misses, and occupational diseases since
+         last meeting
+       - Review of outstanding corrective actions
+       - Review of hazard assessment updates
+       - Employee safety concerns and suggestions
+       - Review of audit and inspection findings
+       - Planning of drills, training, and health examinations
+
+5.12.5 Meeting minutes shall be prepared and distributed to all members and
+       posted for general employee information. Minutes shall be retained for
+       at least three (3) years.
+
+5.12.6 An Accident Response Committee shall be convened for any serious accident
+       or dangerous occurrence to investigate root causes and develop
+       recurrence prevention measures.
+
+5.12.7 The OHS Committee secretariat shall be managed by the HSE department.
+
+--------------------------------------------------------------------------------
+5.13 PERFORMANCE MANAGEMENT AND CONTINUOUS IMPROVEMENT
+--------------------------------------------------------------------------------
+5.13.1 HSE performance indicators shall be established, including leading and
+       lagging metrics:
+       - Leading: training completion rates, hazard assessment completion,
+         inspection completion, near-miss reports
+       - Lagging: accident frequency rate (AFR), severity rate, occupational
+         disease incidence, audit findings
+
+5.13.2 HSE performance shall be reviewed monthly by the OHS Committee and
+       quarterly by senior management.
+
+5.13.3 Corrective and preventive measures shall be implemented promptly when
+       performance targets are not met or non-conformances are identified.
+       Actions shall be tracked to completion.
+
+5.13.4 The HSE management system shall undergo an internal audit at least
+       annually. Results shall be reported to senior management.
+
+5.13.5 Refer to: HSE-27-O HSE and Energy Performance Monitoring and Measuring
+       Management Regulation.
+
+================================================================================
+6. RELATED DOCUMENTS
+================================================================================
+HSE-09-O   Occupational Disease Management Regulation
+HSE-10-O   Emergency First-Aid Management Regulation
+HSE-11-O   Personal Protective Equipment Management Regulation
+HSE-12-O   Chemical Storage and Using Management Regulation
+HSE-13-O   Pollutant and Noise Emission Management Regulation
+HSE-14-O   Interested Party Environment Health & Safety Management Regulation
+HSE-15-O   Contractor Environment, Health & Safety Management Regulation
+HSE-16-O   Workshop Visit Safety Management Regulation
+HSE-17-O   Occupational Health & Safety Management Regulation
+HSE-18-O   Emergency Preparation and Response Management Regulation
+HSE-23-O   Incidents Investigation Management Regulation
+HSE-27-O   HSE & Energy Performance Monitoring and Measuring Management Regulation
+HSE-28-O   Special Equipment Use Safety Management Regulation
+HSE-29-O   [NEW] Confined Space Entry Management Regulation
+HSE-30-O   [NEW] Electrical Safety and Lockout/Tagout Regulation
+HSE-31-O   [NEW] Fall Protection and Work at Height Regulation
+HSE-32-O   [NEW] Physical Agents (Noise, Vibration, Radiation, Heat) Management Regulation
+HSE-33-O   [NEW] CMR Substance Exposure Register and Control Regulation
+HSE-34-O   [NEW] Explosive Atmospheres (ATEX) Management Regulation
+HSE-35-O   [NEW] Hot Work and Fire Prevention Regulation
+
+================================================================================
+7. REVISION HISTORY
+================================================================================
+Ver.   Date         Editor           Description
+V1.0   2023-12-06   Wang Xiaozhou    Initial Issue
+V2.0   2026-03-06   HSE Department   Full compliance revision against SCA-German
+                                     Safety Audit Standards. Added 44 gap areas
+                                     across: hazard assessment methodology,
+                                     confined space program, electrical LOTO,
+                                     fall protection, fire safety officer and
+                                     drills, ATEX, noise/vibration limits and
+                                     registers, heat/UV, CMR substances and
+                                     register, OHS committee, PPE assessment and
+                                     fit, respiratory protection drills, emergency
+                                     lighting, escape routes, excavation safety,
+                                     ladder/roof/scaffolding, crane daily
+                                     inspection, manual handling, traffic safety,
+                                     workplace lighting, hazard signage, alcohol/
+                                     drug prohibition, 5-year record retention,
+                                     near-miss reporting, and new sub-procedures
+                                     HSE-29-O through HSE-35-O.
+
+================================================================================
+END OF DOCUMENT — S700-P V2.0
+================================================================================

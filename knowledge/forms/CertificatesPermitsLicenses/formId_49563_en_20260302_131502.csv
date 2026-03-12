@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+693761a5010000e0019e548d,69375fa601000060009e5480,49563,questionGroup,description,49563,form,"If your company is required to maintain the relevant certification(s) outlined in this form, you will be asked to provide your certificate in a subsequent form."
+693761a5010000e0019e548d,69375fa601000060009e5480,49563,questionGroup,questionGroupText,49563,form,Honduras Environmental License Applicability Assessment
+69375fa601000052029e5481,,192039,question,description,49563,form,"The Environmental License, issued by the Ministry of Natural Resources and Environment (MiAmbiente+/SERNA) and required by <a href = ""https://www.tsc.gob.hn/biblioteca/index.php/leyes/18-ley-general-del-ambiente""target=""_BLANK_"">General Environmental Law, Decree No. 104-93 (Article 19)</a>, is a mandatory license for all projects, activities or works that may significantly impact the environment. The law and associated regulations require an environmental impact assessment, resulting in a license, before such projects can commence. More information on the procedure of obtaining a certificate can be found <a href = ""https://honduras.eregulations.org/procedure/175/223/step/544?l=es""target=""_BLANK_"">here.</a>"
+69375fa601000052029e5481,,192039,question,questionText,49563,form,"Does your company carry out work in Honduras in areas such as construction, industry, agriculture, or infrastructure that are considered high-risk under official regulations and require an Environmental License?"
+69375fa601000052029e5481,,192039,question,responseOption1,49563,form,Yes
+69375fa601000052029e5481,,192039,question,responseOption2,49563,form,No
+69375fa601000061009e5483,,192040,question,questionText,49563,form,Please explain why your company is exempt from needing an Environmental License.
+69375fa601000048009e5484,,192041,question,questionText,49563,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Honduran legislation."
+69375fa6010000e0019e5482,,192042,question,description,49563,form,"<a href=""https://honduras.eregulations.org/media/Acuerdo%20Ministerial%20016-2015%20Tabla%20de%20Categorizacio%CC%81n%20Ambiental%20.pdf""target=""_BLANK_"">Ministerial Agreement 016-2015 Environmental Categorization Table</a>"
+69375fa6010000e0019e5482,,192042,question,questionText,49563,form,Please select from the following reasons your company is exempt from needing an Environmental License.
+69375fa6010000e0019e5482,,192042,question,responseOption1,49563,form,The company is a sole proprietorship with no other employees. 
+69375fa6010000e0019e5482,,192042,question,responseOption2,49563,form,The company does not perform work in Honduras.
+69375fa6010000e0019e5482,,192042,question,responseOption3,49563,form,Other

@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+64d578e3190000815c2afc09,64d578e3190000815c2afc09,40135,questionGroup,questionGroupText,40137,form,Policy Limits
+64d578e3190000815c2afc0d,64d578e3190000815c2afc0d,40136,questionGroup,questionGroupText,40137,form,Policy Information
+64dbc4fd190000e76207d565,64d578e3190000815c2afc08,40137,questionGroup,questionGroupText,40137,form,Plant & Equipment Insurance
+64d578e3190000815c2afc0a,,144293,question,questionText,40137,form,Road Risk Limit (Registered Machine Liability) - Third Party Liability Limit
+64d578e3190000815c2afc0b,,144294,question,questionText,40137,form,Damage to Machines - Total Sum Insured
+64d578e3190000815c2afc0c,,144295,question,questionText,40137,form,Currency used in Certificate of Insurance (COI)
+64d578e3190000815c2afc0e,,144296,question,questionText,40137,form,Expiration Date:
+64d578e3190000815c2afc0f,,144297,question,questionText,40137,form,Date of Commencement:
+64d578e3190000815c2afc10,,144298,question,questionText,40137,form,Insurance Carrier:
+64d578e3190000815c2afc11,,144299,question,questionText,40137,form,Please upload Plant & Equipment Insurance Certificate
+64d578e3190000815c2afc12,,144300,question,description,40137,form,Used to provide instructions from Client
+64d578e3190000815c2afc12,,144300,question,questionText,40137,form,Comments
+64d578e3190000815c2afc13,,144301,question,description,40137,form,Date the instructions from Client expire
+64d578e3190000815c2afc13,,144301,question,questionText,40137,form,VARIANCE Expiration Date

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61324f12470000efa7f80248,61324d48470000efa7f7fb50,33802,questionGroup,questionGroupText,33802,form,Pesticide Licensing and Certification
+61324d48470000efa7f7fb51,,114508,question,questionText,33802,form,Contractor License Classifications:
+61324d48470000efa7f7fb52,,114509,question,questionText,33802,form,Expiration Date:
+61324d48470000efa7f7fb53,,114510,question,description,33802,form,A URL will make verification quicker if provided.
+61324d48470000efa7f7fb53,,114510,question,questionText,33802,form,"Upload a copy of your license, and or provide the URL of the license."
+61324d48470000efa7f7fb53,,114510,question,responseOption1,33802,form,File Upload
+61324d48470000efa7f7fb53,,114510,question,responseOption2,33802,form,URL
+61324d48470000efa7f7fb54,,114511,question,questionText,33802,form,Please upload a copy of your license:
+61324d48470000efa7f7fb55,,114512,question,questionText,33802,form,Please enter the URL of the license:
+61324d48470000efa7f7fb56,,114513,question,description,33802,form,<a href='https://search.dca.ca.gov/' target='_BLANK'>DCA LICENSE</a>
+61324d48470000efa7f7fb56,,114513,question,questionText,33802,form,Contractor License Number:

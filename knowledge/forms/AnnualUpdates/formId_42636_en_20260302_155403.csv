@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66677df80100002d006db11a,666352f10100003500c81b42,42636,questionGroup,questionGroupText,42636,form,Avetta Macao Annual Update
+666352f10100003600c81b43,666352f10100003600c81b43,42637,questionGroup,questionGroupText,42636,form,Macao Specific Updates
+666356600100003300c81b60,666352f10100003600c81b44,42638,questionGroup,questionGroupText,42636,form,Macao
+666352f10100003a00c81b45,,156019,question,questionText,42636,form,What is the total number of employees for the given year? Approximate if necessary.
+666352f10100003b00c81b46,,156020,question,questionText,42636,form,Were there recordable incidents for the given year?
+666352f10100003b00c81b46,,156020,question,responseOptionNo,42636,form,No
+666352f10100003b00c81b46,,156020,question,responseOptionYes,42636,form,Yes
+666352f10100003600c81b47,,156021,question,questionText,42636,form,What is the total number of hours worked?
+666352f10100003800c81b48,,156022,question,questionText,42636,form,Total number of _cases_ with days away from work
+666352f10100003300c81b4a,,156023,question,questionText,42636,form,Total number of other recordable _cases_
+666352f10100003b00c81b49,,156024,question,questionText,42636,form,Total number of _days_ away from work
+666352f10100003800c81b4c,,156025,question,questionText,42636,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+666352f10100002900c81b4b,,156026,question,questionText,42636,form,Total number of _days_ of job transfer or restriction
+666352f10100003800c81b4f,,156027,question,questionText,42636,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+666352f10100003800c81b4d,,156028,question,questionText,42636,form,Total number of _cases_ with job transfer or restriction
+666352f10100003800c81b4e,,156029,question,questionText,42636,form,How many fatalities were there for the given year?

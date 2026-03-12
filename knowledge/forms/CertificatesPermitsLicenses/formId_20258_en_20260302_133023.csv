@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+606f80434400004cc1370cb2,507c250a5049435c86564654,3083,questionGroup,questionGroupText,20258,form,Policy Information
+507c25da50494389caae23cf,507c25da50494389caae23cf,3084,questionGroup,questionGroupText,20258,form,Policy Limits
+507c25225049438012b5b5f8,,14334,question,questionText,20258,form,Policy Effective Date
+507c25955049431c573c9519,,14335,question,questionText,20258,form,Expiration Date:
+507c25ec5049434cb15c758f,,14337,question,questionText,20258,form,Each Occurrence
+606f808b4300008efba601ac,5af522883400005900f8fd03,20258,questionGroup,questionGroupText,20258,form,Warehousemans Liability
+5af522f32b00009f006fc17b,,70102,question,questionText,20258,form,Please upload Warehousemans Liability Certificate.
+5d713dfb350000a8a8f0e8b4,,86279,question,questionText,20258,form,Insurance Carrier:
+606f80414300008efba5fe2a,,108586,question,description,20258,form,Used to provide instructions from Client
+606f80414300008efba5fe2a,,108586,question,questionText,20258,form,Comments
+606f805f4400004cc1370d62,,108588,question,description,20258,form,Date the instructions from Client expire
+606f805f4400004cc1370d62,,108588,question,questionText,20258,form,VARIANCE Expiration Date
+62f53f2c82eb52eab3c18fa4,,130521,question,questionText,20258,form,Currency used in Certificate of Insurance (COI)

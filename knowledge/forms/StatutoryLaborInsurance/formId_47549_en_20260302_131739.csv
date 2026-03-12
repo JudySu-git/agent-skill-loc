@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68e53ef5010000fa0430f098,68b9d9e10100005a00c9f736,47549,questionGroup,description,47549,form,This requirement is triggered because you indicated your organization maintains valid Argentina Statutory Labor Insurance documentation in the Argentina Statutory Labor Insurance Applicability Assessment questionnaire.
+68e53ef5010000fa0430f098,68b9d9e10100005a00c9f736,47549,questionGroup,questionGroupText,47549,form,Argentina Statutory Labor Insurance Certificate
+68b9f4ce0100003e00c9f7a2,,180280,question,description,47549,form,
+68b9f4ce0100003e00c9f7a2,,180280,question,questionText,47549,form,Please upload your company's valid Certificate of ART Coverage to confirm your company's compliance with Argentina Workers’ Compensation Insurance requirement.

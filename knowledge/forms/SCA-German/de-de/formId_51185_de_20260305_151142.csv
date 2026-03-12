@@ -1,0 +1,19 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a9cebe0100004700fde31b,69a87752a36b6c4c63546800,51185,questionGroup,questionGroupText,51185,form,Verkehrssicherheit,
+69a87751a36b6c4c635467ed,,200230,question,description,51185,form,"Verkehrssicherheitsmaßnahmen müssen den Verkehrsvorschriften entsprechen und Beschilderungen sowie Absperrungen zum Schutz der Arbeitnehmer umfassen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 109 Abs. 1</a>",
+69a87751a36b6c4c635467ed,,200230,question,questionText,51185,form,Verkehrssicherheitsmaßnahmen,
+69a87751a36b6c4c635467ee,,200231,question,description,51185,form,"Für Straßenbaupersonal, das dem Verkehr ausgesetzt ist, muss Warnschutzkleidung bereitgestellt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 109 Abs. 2</a>",
+69a87751a36b6c4c635467ee,,200231,question,questionText,51185,form,Warnschutzkleidung,
+69a87752a36b6c4c635467fc,,200241,question,description,51185,form,"Verkehrswege und -flächen im Freien müssen sicher begehbar oder befahrbar sein und dürfen benachbarte Arbeitnehmer nicht gefährden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 24 Abs. 3</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Arbeitsstättenverordnung, § 2 Abs. 3, § 3 Abs. 2 Z 1</a>",
+69a87752a36b6c4c635467fc,,200241,question,questionText,51185,form,Ausgewiesene Verkehrswege,
+69a87752a36b6c4c635467fd,,200242,question,description,51185,form,"Verkehrswege müssen so gestaltet und instand gehalten werden, dass sie ihrer Zweckbestimmung entsprechend sicher begangen oder befahren werden können.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 24 Abs. 3</a>",
+69a87752a36b6c4c635467fd,,200242,question,questionText,51185,form,Instandhaltung von Verkehrswegen,
+69a87752a36b6c4c635467fe,,200243,question,description,51185,form,"Für Verkehrswege ist eine lichte Höhe von mindestens 2,0 Metern einzuhalten.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Arbeitsstättenverordnung, § 2 Abs. 4, § 3 Abs. 3</a>",
+69a87752a36b6c4c635467fe,,200243,question,questionText,51185,form,Mindestdurchgangshöhe (>2 Meter),
+69a87752a36b6c4c635467ff,,200244,question,questionText,51185,form,<div></div>,

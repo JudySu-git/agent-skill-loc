@@ -1,0 +1,25 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774ea36b6c4c635467d2,69a8774ea36b6c4c635467d1,51179,questionGroup,questionGroupText,51179,form,个人防护装备 (PPE),
+69a8774ea36b6c4c635467ca,,200203,question,description,51179,form,"PPE 评估必须识别危害并界定所需的防护性能。当评估标准发生变化时，必须重新进行 PPE 评估。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第 70(5-6) 条</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">个人防护装备条例，第 4(1) 条</a>",
+69a8774ea36b6c4c635467ca,,200203,question,questionText,51179,form,危害评估,
+69a8774ea36b6c4c635467cb,,200204,question,description,51179,form,"PPE 的适用性必须与工作场所条件及危害相匹配。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第 70(1)2-3 条</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">个人防护装备条例，第 7(2)(3) 条</a>",
+69a8774ea36b6c4c635467cb,,200204,question,questionText,51179,form,装备选择,
+69a8774ea36b6c4c635467cc,,200205,question,description,51179,form,"当危害无法通过其他方式得到控制时，必须由雇主承担费用提供 PPE。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第 69(2) 条</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">个人防护装备条例，第 3(1) 条</a>",
+69a8774ea36b6c4c635467cc,,200205,question,questionText,51179,form,使用配备,
+69a8774ea36b6c4c635467cd,,200206,question,description,51179,form,"PPE 的合身程度必须适合穿戴者，包括必要的调整。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第 70(1)5 条</a>",
+69a8774ea36b6c4c635467cd,,200206,question,questionText,51179,form,合身性,
+69a8774ea36b6c4c635467ce,,200207,question,description,51179,form,"必须通过清洁、维护、修理和更换来保持 PPE 的状态与卫生。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第 17(1-2)、69(6) 条</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">个人防护装备条例，第 3(5) 条</a>",
+69a8774ea36b6c4c635467ce,,200207,question,questionText,51179,form,检查,
+69a8774ea36b6c4c635467cf,,200208,question,description,51179,form,"必须在首次使用 PPE 前及至少每年进行一次 PPE 信息告知与指导，除非有正当理由延长间隔周期。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">个人防护装备条例，第 7(1) 条</a>",
+69a8774ea36b6c4c635467cf,,200208,question,questionText,51179,form,培训（使用前、每年）,
+69a8774ea36b6c4c635467d0,,200209,question,questionText,51179,form,<div></div>,

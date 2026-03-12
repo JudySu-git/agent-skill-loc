@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce3fb70100004e00ebdbb5,662bd9b01c00006300ff8acd,41969,questionGroup,description,41969,form,You are getting this category because you selected a license in the Avetta PQF - Australia Capital Territory Contractor License.
+66ce3fb70100004e00ebdbb5,662bd9b01c00006300ff8acd,41969,questionGroup,questionGroupText,41969,form,Australian Capital Territory Contractor License - Gas Fitting
+662bd9b01c00006200ff8ace,,153221,question,questionText,41969,form,Please upload your license:\n
+662bd9b01c00006200ff8ace,,153221,question,responseOption1,41969,form,Yes
+662bd9b01c00006200ff8ace,,153221,question,responseOption2,41969,form,No
+662bd9b01c00006200ff8acf,,153222,question,questionText,41969,form,Expiration Date:
+662bd9b01c00006200ff8acf,,153222,question,responseOption1,41969,form,Yes
+662bd9b01c00006200ff8acf,,153222,question,responseOption2,41969,form,No
+662bd9b01c00006100ff8ad0,,153223,question,questionText,41969,form,License Number:
+662bd9b01c00006100ff8ad0,,153223,question,responseOption1,41969,form,Yes
+662bd9b01c00006100ff8ad0,,153223,question,responseOption2,41969,form,No

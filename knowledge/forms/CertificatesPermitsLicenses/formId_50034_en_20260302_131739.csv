@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69618c8a010000a9035e8912,694ade7701000045007ff98b,50034,questionGroup,description,50034,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+69618c8a010000a9035e8912,694ade7701000045007ff98b,50034,questionGroup,questionGroupText,50034,form,Mainland Europe - Contractor Safety Certification
+694adefd01000044007ff994,,194216,question,description,50034,form,"This may be a nationally recognized certificate that is required by clients or specific industrial sectors. Various certificates exist across Europe, and if the company holds multiple certifications, these should be confirmed (e.g., VCA, SCC, MASE)."
+694adefd01000044007ff994,,194216,question,questionText,50034,form,"Does the company possess a valid certificate recognized by industry to demonstrate your organization meets the minimum standard requirements for safety, health and environment in the European country of operation?"
+694adefd01000044007ff994,,194216,question,responseOption1,50034,form,Yes
+694adefd01000044007ff994,,194216,question,responseOption2,50034,form,No
+694adf2d0100004700ee343a,,194217,question,questionText,50034,form,Please confirm the type of safety certification used by the company:
+694adf2d0100004700ee343a,,194217,question,responseOption1,50034,form,VCA* - For companies with <35 employees who do not perform complex high-risk work / do not use subcontractors
+694adf2d0100004700ee343a,,194217,question,responseOption3,50034,form,SCC** - For companies with >35 employees and/or using subcontractors
+694adf2d0100004700ee343a,,194217,question,responseOption4,50034,form,SCC* - For companies with <35 employees. Sole Proprietors may alternatively upload an SCC personal certificate.
+694adf2d0100004700ee343a,,194217,question,responseOption5,50034,form,VCA P - For companies carrying out assignments in the petrochemical sector
+694adf2d0100004700ee343a,,194217,question,responseOption6,50034,form,VCA** - For companies with >35 employees and/or using subcontractors and/or are performing complex risky work
+694adf2d0100004700ee343a,,194217,question,responseOption7,50034,form,MASE - (Manual for Improvement of Safety in Companies) The MASE/France-Chimie common system for audit of the safety assessment – all sectors
+694adf2d0100004700ee343a,,194217,question,responseOption8,50034,form,SCP - for Personnel Service Providers
+694adf2d0100004700ee343a,,194217,question,responseOption9,50034,form,SCCP - For companies working in petrochemical industry

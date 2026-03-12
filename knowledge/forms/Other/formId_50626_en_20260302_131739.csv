@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6984a6760100006500c96b68,69837b340100004500c9626b,50626,questionGroup,description,50626,form,"If your company is required to comply with Iceland's company registration requirements, you will be asked to provide relevant documents in a subsequent form(s)."
+6984a6760100006500c96b68,69837b340100004500c9626b,50626,questionGroup,questionGroupText,50626,form,Iceland Company Registration Applicability Assessment
+69837d830100006300c96283,,197925,question,description,50626,form,
+69837d830100006300c96283,,197925,question,questionText,50626,form,Does your company have a Company Registration ID issued by the Iceland Revenue and Customs agency?
+69837d830100006300c96283,,197925,question,responseOption1,50626,form,Yes
+69837d830100006300c96283,,197925,question,responseOption2,50626,form,No
+69837e490100004a0042321d,,197926,question,questionText,50626,form,Please explain why your company does not have a Company Registration ID.
+69837e79010000430042321f,,197927,question,description,50626,form,"The Official extract from the Business Register or Register of Limited Companies can be obtained directly from the <a href=""https://www.skatturinn.is/english/company-registration/"" target=""blank"">Iceland Revenue and Customs agency</a> or the <a href=""https://www.skatturinn.is/fyrirtaekjaskra/thjonusta/upplysingar-ur-fyrirtaekjaskra/"" target=""blank"">Icelandic Business Register</a> via online request or contacting the agency."
+69837e79010000430042321f,,197927,question,questionText,50626,form,Does your company have an Official extract from the Business Register or Register of Limited Companies?
+69837e79010000430042321f,,197927,question,responseOption1,50626,form,Yes
+69837e79010000430042321f,,197927,question,responseOption2,50626,form,No
+69837f740100004600423221,,197928,question,questionText,50626,form,Please explain why your company does not have an Official extract from the Business Register or Register of Limited Companies.

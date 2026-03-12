@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec610100002d00a473a5,5d30c2713500004e4d88ef8d,26870,questionGroup,questionGroupText,26870,form,Kentucky Contractor License
+5d559681360000a743a9acd0,5d30c2a1350000434197b975,26871,questionGroup,questionGroupText,26870,form,Kentucky Contractor License
+5d30c2b3350000434197b97b,,84361,question,description,26870,form,"<a href = ""https://dhbc.ky.gov/newstatic_Info.aspx?static_ID=573 ""target=""_BLANK_"">Kentucky – Department of Housing, Building and Construction</a>\n"
+5d30c2b3350000434197b97b,,84361,question,questionText,26870,form,Kentucky Contractor License Number:\n
+5d30c314350000434197b97d,,84362,question,description,26870,form,"<a href = ""https://dhbc.ky.gov/newstatic_Info.aspx?static_ID=573 ""target=""_BLANK_"">Kentucky – Department of Housing, Building and Construction</a>\n"
+5d30c314350000434197b97d,,84362,question,questionText,26870,form,Kentucky Contractor License Classifications:\n
+5d30c325350000434197b97f,,84363,question,questionText,26870,form,Kentucky License Expiration Date:\n
+5d30c332350000434197b981,,84364,question,description,26870,form,A URL will make verification quicker if provided\n
+5d30c332350000434197b981,,84364,question,questionText,26870,form,"Upload a copy of your license, and or provide the URL of the license."
+5d30c332350000434197b981,,84364,question,responseOption1,26870,form,File Upload
+5d30c332350000434197b981,,84364,question,responseOption2,26870,form,URL
+5d30c34c350000434197b983,,84365,question,questionText,26870,form,Please upload a copy of your Kentucky license:\n
+5d30c35d350000434197b985,,84366,question,questionText,26870,form,Please enter the URL of the license:\n

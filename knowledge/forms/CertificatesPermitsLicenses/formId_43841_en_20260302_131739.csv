@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67bce183010000ae0030cdfc,672558580100004d00e84166,43841,questionGroup,questionGroupText,43841,form,Japan Workers' Accident Compensation Insurance
+67255b74010000d80077e11f,67255b74010000d80077e11e,43842,questionGroup,questionGroupText,43841,form,Japan Workers' Accident Compensation Insurance
+67255b7f0100003100e84178,,161380,question,description,43841,form,"<a href=""https://www.mhlw.go.jp/english/org/policy/p19.html"">https://www.mhlw.go.jp/english/org/policy/p19.html</a>"
+67255b7f0100003100e84178,,161380,question,questionText,43841,form,Is your company required to comply with Workers' Accident Compensation Insurance in Japan?
+67255b7f0100003100e84178,,161380,question,responseOption1,43841,form,Yes
+67255b7f0100003100e84178,,161380,question,responseOption2,43841,form,No
+67255c200100003100e8417b,,161381,question,questionText,43841,form,Please explain
+67255c200100003100e8417b,,161381,question,responseOption1,43841,form,Yes
+67255c200100003100e8417b,,161381,question,responseOption2,43841,form,No
+67255c37010000360077e12c,,161386,question,description,43841,form,The certificate must be issued within 3 months prior to the submission date
+67255c37010000360077e12c,,161386,question,questionText,43841,form,Please upload a copy of your Workers' Accident Compensation Insurance Premium Payment Certificate
+67255c37010000360077e12c,,161386,question,responseOption1,43841,form,Yes
+67255c37010000360077e12c,,161386,question,responseOption2,43841,form,No

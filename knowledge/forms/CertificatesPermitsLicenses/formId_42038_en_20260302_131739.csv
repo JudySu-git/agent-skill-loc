@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4a6d0100002a00ebe52b,663008211a00002d0045d445,42038,questionGroup,description,42038,form,You are getting this category because you selected a license in the Avetta PQF - South Australia License.
+66ce4a6d0100002a00ebe52b,663008211a00002d0045d445,42038,questionGroup,questionGroupText,42038,form,South Australia Contractor License - Security Master
+663008211a0000610045d448,,153419,question,questionText,42038,form,Please upload your license:\n
+663008211a0000610045d448,,153419,question,responseOption1,42038,form,Yes
+663008211a0000610045d448,,153419,question,responseOption2,42038,form,No
+663008211a00005f0045d447,,153420,question,questionText,42038,form,Expiration Date:
+663008211a00005f0045d447,,153420,question,responseOption1,42038,form,Yes
+663008211a00005f0045d447,,153420,question,responseOption2,42038,form,No
+663008211a0000280045d446,,153421,question,questionText,42038,form,License Number:
+663008211a0000280045d446,,153421,question,responseOption1,42038,form,Yes
+663008211a0000280045d446,,153421,question,responseOption2,42038,form,No

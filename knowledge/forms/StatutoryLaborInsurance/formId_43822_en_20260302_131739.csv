@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67d48c320100003b00382420,6723c2a20100003000aa6d57,43822,questionGroup,questionGroupText,43822,form,Belgium Occupational Health and Safety Insurance (FEDRIS)
+6723c2d40100003400aa6d60,,161342,question,description,43822,form,https://www.fedris.be/en/node/468.html
+6723c2d40100003400aa6d60,,161342,question,questionText,43822,form,Is your company required to comply with the statutory occupational health and safety insurance through FEDRIS (Federal Agency for Occupational Risks) in Belgium?
+6723c2d40100003400aa6d60,,161342,question,responseOption1,43822,form,Yes
+6723c2d40100003400aa6d60,,161342,question,responseOption2,43822,form,No
+6723c2e20100003400aa6d63,,161343,question,questionText,43822,form,Please explain
+6723c2eb010000370091b14f,,161344,question,description,43822,form,The certificate must be issued within 3 months prior to the submission date
+6723c2eb010000370091b14f,,161344,question,questionText,43822,form,Please upload a copy of your Certificate of Compliance or Contribution Regularity Certificate from FEDRIS
+6723c2eb010000370091b14f,,161344,question,responseOption1,43822,form,Yes
+6723c2eb010000370091b14f,,161344,question,responseOption2,43822,form,No

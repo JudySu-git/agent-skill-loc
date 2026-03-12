@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6945d1df0100004300d4db4d,6945a1c50100006100d4d3ef,49975,questionGroup,description,49975,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+6945d1df0100004300d4db4d,6945a1c50100006100d4d3ef,49975,questionGroup,questionGroupText,49975,form,Spain Social Security Applicability Assessment
+6945a2290100006300d4d403,,193883,question,description,49975,form,"Employers in Spain must register their company, register and deregister employees in the correct Social Security scheme, and manage contributions and payments through the <a href = ""https://www.seg-social.es/wps/portal/wss/internet/Empresarios?changeLanguage=es""target=""BLANK"">TGSS</a>."
+6945a2290100006300d4d403,,193883,question,questionText,49975,form,Is your company required to comply with social security obligations in Spain and hold applicable documentation as dictated by the Spanish Social Security Treasury (TGSS)?
+6945a2290100006300d4d403,,193883,question,responseOption1,49975,form,Yes
+6945a2290100006300d4d403,,193883,question,responseOption2,49975,form,No
+6945a28f0100003f00d4d40d,,193884,question,questionText,49975,form,Please select one of the following reasons why your company is exempt from complying with social security requirements in Spain.
+6945a28f0100003f00d4d40d,,193884,question,responseOption1,49975,form,The company does not have any employees in Spain.
+6945a28f0100003f00d4d40d,,193884,question,responseOption2,49975,form,Other
+6945a2c0010000460076a2a0,,193885,question,questionText,49975,form,Please explain why your company is exempt from complying with social security requirements in Spain.
+6945a2da010000640076a2a6,,193886,question,questionText,49975,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Spanish legislation."

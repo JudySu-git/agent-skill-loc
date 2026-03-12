@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce42b9010000bd0021f639,662fd0b11a0000660045d2ad,41989,questionGroup,description,41989,form,You are getting this category because you selected a license in the Avetta PQF - New South Wales Contractor License.
+66ce42b9010000bd0021f639,662fd0b11a0000660045d2ad,41989,questionGroup,questionGroupText,41989,form,New South Wales Contractor License - Asbestos Assessor
+662fd0b11a00005e0045d2ae,,153274,question,questionText,41989,form,Please upload your license:\n
+662fd0b11a00005e0045d2ae,,153274,question,responseOption1,41989,form,Yes
+662fd0b11a00005e0045d2ae,,153274,question,responseOption2,41989,form,No
+662fd0b11a00005c0045d2b0,,153275,question,questionText,41989,form,Expiration Date:
+662fd0b11a00005c0045d2b0,,153275,question,responseOption1,41989,form,Yes
+662fd0b11a00005c0045d2b0,,153275,question,responseOption2,41989,form,No
+662fd0b11a00005e0045d2af,,153276,question,questionText,41989,form,License Number:
+662fd0b11a00005e0045d2af,,153276,question,responseOption1,41989,form,Yes
+662fd0b11a00005e0045d2af,,153276,question,responseOption2,41989,form,No

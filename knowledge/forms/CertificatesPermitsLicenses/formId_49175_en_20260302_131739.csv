@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6920adb701000064001c8d51,6920ac310100004000193cf6,49175,questionGroup,description,49175,form,This requirement is triggered because you indicated your organization maintains a valid Germany Safety Statement Certification in the Germany Safety Statement Certification Applicability Assessment questionnaire.
+6920adb701000064001c8d51,6920ac310100004000193cf6,49175,questionGroup,questionGroupText,49175,form,Germany Safety Statement Certification
+6920ac8a01000062001c8d3c,,189106,question,description,49175,form,
+6920ac8a01000062001c8d3c,,189106,question,questionText,49175,form,Please upload your Germany Safety Statement Certification.

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4a7f0100005b0021f996,663007d31a00002d0045d438,42035,questionGroup,description,42035,form,You are getting this category because you selected a license in the Avetta PQF - South Australia License.
+66ce4a7f0100005b0021f996,663007d31a00002d0045d438,42035,questionGroup,questionGroupText,42035,form,South Australia Contractor License - Transport Explosives and / or Security Sensitive Dangerous Substance
+663007d31a0000650045d43a,,153410,question,questionText,42035,form,Expiration Date:
+663007d31a0000650045d43a,,153410,question,responseOption1,42035,form,Yes
+663007d31a0000650045d43a,,153410,question,responseOption2,42035,form,No
+663007d31a00002c0045d439,,153411,question,questionText,42035,form,Please upload your license:\n
+663007d31a00002c0045d439,,153411,question,responseOption1,42035,form,Yes
+663007d31a00002c0045d439,,153411,question,responseOption2,42035,form,No
+663007d31a00002c0045d43b,,153412,question,questionText,42035,form,License Number:
+663007d31a00002c0045d43b,,153412,question,responseOption1,42035,form,Yes
+663007d31a00002c0045d43b,,153412,question,responseOption2,42035,form,No

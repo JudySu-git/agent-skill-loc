@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67211dee0100003301133e6a,670d806c0100003300c9d7d5,43548,questionGroup,description,43548,form,"You are getting this category because you selected ISO/AQI 44001 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for the a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+67211dee0100003301133e6a,670d806c0100003300c9d7d5,43548,questionGroup,questionGroupText,43548,form,ISO/AQI 44001 - Collaborative Business Relationship Management Systems
+670d810901000031009337d8,,160078,question,questionText,43548,form,Please upload your ISO/AQI 44001 - Collaborative Business Relationship Management Systems certificate:
+670d810901000031009337d8,,160078,question,responseOption1,43548,form,Yes
+670d810901000031009337d8,,160078,question,responseOption2,43548,form,No
+670d811b0100002b009337db,,160079,question,questionText,43548,form,Please enter the certificate expiration date:
+670d811b0100002b009337db,,160079,question,responseOption1,43548,form,Yes
+670d811b0100002b009337db,,160079,question,responseOption2,43548,form,No

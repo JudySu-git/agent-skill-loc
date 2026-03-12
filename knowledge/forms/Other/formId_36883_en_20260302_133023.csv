@@ -1,0 +1,27 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+643595d41500003d481b80c9,62d6d87a2e0000418e97f753,36883,questionGroup,questionGroupText,36883,form,Risk Assessment
+62f29b7c300000f7be15008e,62d6d8ec2e00008b51a8c11b,36887,questionGroup,questionGroupText,36883,form,Risk or Hazard
+62f29ff23000006356153d2c,62d6d9372e00008b51a8c11e,36889,questionGroup,questionGroupText,36883,form,Prevention Measure
+62d6d9492e0000418e97f773,,129953,question,questionText,36883,form,Risk or Hazard:
+62d6d9682e0000418e97f775,,129954,question,questionText,36883,form,Resources Impacted:
+62d6d9b42e00008b51a8c802,,129955,question,questionText,36883,form,Existing control measures:
+62d6d9c22e00008b51a8c85d,,129956,question,questionText,36883,form,Probability:
+62d6d9c22e00008b51a8c85d,,129956,question,responseOption1,36883,form,4 - Unavoidable
+62d6d9c22e00008b51a8c85d,,129956,question,responseOption2,36883,form,3 - High
+62d6d9c22e00008b51a8c85d,,129956,question,responseOption3,36883,form,2 - Moderate
+62d6d9c22e00008b51a8c85d,,129956,question,responseOption4,36883,form,1 - Low
+62d6d9c22e00008b51a8c85d,,129956,question,responseOption5,36883,form,0 - Nonexistent
+62d6d9e52e0000418e980ad8,,129957,question,questionText,36883,form,Severity:
+62d6d9e52e0000418e980ad8,,129957,question,responseOption1,36883,form,4 - Extreme
+62d6d9e52e0000418e980ad8,,129957,question,responseOption2,36883,form,3 - High
+62d6d9e52e0000418e980ad8,,129957,question,responseOption3,36883,form,2 - Moderate
+62d6d9e52e0000418e980ad8,,129957,question,responseOption4,36883,form,1 - Low
+62d6d9e52e0000418e980ad8,,129957,question,responseOption5,36883,form,0 - Not Applicable
+62d6d9ef2e0000418e980adb,,129958,question,questionText,36883,form,Upload supporting documentation:\n
+62d6da022e0000418e980af2,,129959,question,questionText,36883,form,Upload a photo:
+62d6da2b2e0000418e980af9,,129960,question,questionText,36883,form,Prevention Measure:\n
+62d6da3d2e00008b51a8c876,,129961,question,questionText,36883,form,Will this prevention measure be implemented?\n
+62d6da3d2e00008b51a8c876,,129961,question,responseOption1,36883,form,Yes
+62d6da3d2e00008b51a8c876,,129961,question,responseOption2,36883,form,No
+62d6da522e0000418e980d4b,,129962,question,questionText,36883,form,Please enter your full name and title:
+62d6db332e00008b51a8cecb,,129964,question,questionText,36883,form,Please explain:

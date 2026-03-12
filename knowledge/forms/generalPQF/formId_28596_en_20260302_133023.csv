@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4dd41a57504943b4e23b952f,,7679,question,description,28596,form,"Failure of your products could be life-threatening, which will help determine what kind of information we need from you.  In order to be approved to supply safety-critical products, you must have med or high listed."
+4dd41a57504943b4e23b952f,,7679,question,questionText,28596,form,What amount of risk do your product failures place on the health & safety of the users of your products?
+4dd41a57504943b4e23b952f,,7679,question,responseOptionHigh,28596,form,"High - i.e. Valves, Pumps, Chemicals, Cranes/Heavy Equipment, Rigging Equipment, etc."
+4dd41a57504943b4e23b952f,,7679,question,responseOptionLow,28596,form,"Low - i.e. Bottled Water, Office Equipment, Catering, etc."
+4dd41a57504943b4e23b952f,,7679,question,responseOptionMedium,28596,form,"Medium - i.e. Lawn Care Equipment, Hand/Power Tools, etc."
+5c182c7d36000070e142e4b7,5a5ffa31340000ad1c0e6dff,28596,questionGroup,questionGroupText,28596,form,Avetta PQF - Product Safety Evaluation

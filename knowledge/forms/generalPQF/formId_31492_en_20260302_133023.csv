@@ -1,0 +1,88 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5f31b9102f0000467fef54a1,5f31b4ab2b000094e2071b04,31492,questionGroup,questionGroupText,31492,form,Avetta PQF - New Zealand Offices and Locations of Work Performed
+5f31b5462f0000467fef4f3b,5f31b5462f0000467fef4f3a,31493,questionGroup,questionGroupText,31492,form,New Zealand
+5f31b55b2b000094e2071eaf,,101853,question,questionText,31492,form,Auckland
+5f31b55b2b000094e2071eaf,,101853,question,responseOption1,31492,form,"Yes, with Office"
+5f31b55b2b000094e2071eaf,,101853,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b55b2b000094e2071eaf,,101853,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b55b2b000094e2071eaf,,101853,question,responseOption4,31492,form,No
+5f31b5b02f0000467fef4f58,,101854,question,questionText,31492,form,Bay of Plenty
+5f31b5b02f0000467fef4f58,,101854,question,responseOption1,31492,form,"Yes, with Office"
+5f31b5b02f0000467fef4f58,,101854,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b5b02f0000467fef4f58,,101854,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b5b02f0000467fef4f58,,101854,question,responseOption4,31492,form,No
+5f31b6072d00001bae6a285c,,101855,question,questionText,31492,form,Canterbury
+5f31b6072d00001bae6a285c,,101855,question,responseOption1,31492,form,"Yes, with Office"
+5f31b6072d00001bae6a285c,,101855,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b6072d00001bae6a285c,,101855,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b6072d00001bae6a285c,,101855,question,responseOption4,31492,form,No
+5f31b6322f0000467fef4f9b,,101856,question,questionText,31492,form,Chatham Islands Territory
+5f31b6322f0000467fef4f9b,,101856,question,responseOption1,31492,form,"Yes, with Office"
+5f31b6322f0000467fef4f9b,,101856,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b6322f0000467fef4f9b,,101856,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b6322f0000467fef4f9b,,101856,question,responseOption4,31492,form,No
+5f31b6682f0000467fef50de,,101857,question,questionText,31492,form,Gisborne
+5f31b6682f0000467fef50de,,101857,question,responseOption1,31492,form,"Yes, with Office"
+5f31b6682f0000467fef50de,,101857,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b6682f0000467fef50de,,101857,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b6682f0000467fef50de,,101857,question,responseOption4,31492,form,No
+5f31b68f2d00001bae6a29f8,,101858,question,questionText,31492,form,Hawke's Bay
+5f31b68f2d00001bae6a29f8,,101858,question,responseOption1,31492,form,"Yes, with Office"
+5f31b68f2d00001bae6a29f8,,101858,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b68f2d00001bae6a29f8,,101858,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b68f2d00001bae6a29f8,,101858,question,responseOption4,31492,form,No
+5f31b6a82b000094e20722b8,,101859,question,questionText,31492,form,Manawatu-Wanganui
+5f31b6a82b000094e20722b8,,101859,question,responseOption1,31492,form,"Yes, with Office"
+5f31b6a82b000094e20722b8,,101859,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b6a82b000094e20722b8,,101859,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b6a82b000094e20722b8,,101859,question,responseOption4,31492,form,No
+5f31b6d12b000094e2072408,,101860,question,questionText,31492,form,Marlborough
+5f31b6d12b000094e2072408,,101860,question,responseOption1,31492,form,"Yes, with Office"
+5f31b6d12b000094e2072408,,101860,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b6d12b000094e2072408,,101860,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b6d12b000094e2072408,,101860,question,responseOption4,31492,form,No
+5f31b6f82f0000467fef52f5,,101861,question,questionText,31492,form,Nelson
+5f31b6f82f0000467fef52f5,,101861,question,responseOption1,31492,form,"Yes, with Office"
+5f31b6f82f0000467fef52f5,,101861,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b6f82f0000467fef52f5,,101861,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b6f82f0000467fef52f5,,101861,question,responseOption4,31492,form,No
+5f31b70d2b000094e2072456,,101862,question,questionText,31492,form,Northland
+5f31b70d2b000094e2072456,,101862,question,responseOption1,31492,form,"Yes, with Office"
+5f31b70d2b000094e2072456,,101862,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b70d2b000094e2072456,,101862,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b70d2b000094e2072456,,101862,question,responseOption4,31492,form,No
+5f31b7252b000094e2072460,,101863,question,questionText,31492,form,Otago
+5f31b7252b000094e2072460,,101863,question,responseOption1,31492,form,"Yes, with Office"
+5f31b7252b000094e2072460,,101863,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b7252b000094e2072460,,101863,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b7252b000094e2072460,,101863,question,responseOption4,31492,form,No
+5f31b73e2d00001bae6a2a68,,101864,question,questionText,31492,form,Southland
+5f31b73e2d00001bae6a2a68,,101864,question,responseOption1,31492,form,"Yes, with Office"
+5f31b73e2d00001bae6a2a68,,101864,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b73e2d00001bae6a2a68,,101864,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b73e2d00001bae6a2a68,,101864,question,responseOption4,31492,form,No
+5f31b75a2f0000467fef5334,,101865,question,questionText,31492,form,Taranaki
+5f31b75a2f0000467fef5334,,101865,question,responseOption1,31492,form,"Yes, with Office"
+5f31b75a2f0000467fef5334,,101865,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b75a2f0000467fef5334,,101865,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b75a2f0000467fef5334,,101865,question,responseOption4,31492,form,No
+5f31b8122f0000467fef53a5,,101866,question,questionText,31492,form,Tasman
+5f31b8122f0000467fef53a5,,101866,question,responseOption1,31492,form,"Yes, with Office"
+5f31b8122f0000467fef53a5,,101866,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b8122f0000467fef53a5,,101866,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b8122f0000467fef53a5,,101866,question,responseOption4,31492,form,No
+5f31b8272d00002c0326b390,,101867,question,questionText,31492,form,Waikato
+5f31b8272d00002c0326b390,,101867,question,responseOption1,31492,form,"Yes, with Office"
+5f31b8272d00002c0326b390,,101867,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b8272d00002c0326b390,,101867,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b8272d00002c0326b390,,101867,question,responseOption4,31492,form,No
+5f31b8412d00001bae6a2f4e,,101868,question,questionText,31492,form,Wellington
+5f31b8412d00001bae6a2f4e,,101868,question,responseOption1,31492,form,"Yes, with Office"
+5f31b8412d00001bae6a2f4e,,101868,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b8412d00001bae6a2f4e,,101868,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b8412d00001bae6a2f4e,,101868,question,responseOption4,31492,form,No
+5f31b85b2f0000467fef53d2,,101869,question,questionText,31492,form,West Coast
+5f31b85b2f0000467fef53d2,,101869,question,responseOption1,31492,form,"Yes, with Office"
+5f31b85b2f0000467fef53d2,,101869,question,responseOption2,31492,form,"Yes, On a permanent basis without an office"
+5f31b85b2f0000467fef53d2,,101869,question,responseOption3,31492,form,"Yes, On a periodic basis without an office"
+5f31b85b2f0000467fef53d2,,101869,question,responseOption4,31492,form,No

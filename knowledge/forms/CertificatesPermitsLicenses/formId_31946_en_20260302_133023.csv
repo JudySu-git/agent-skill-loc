@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+60707ab343000090e864d15e,5f988c422a0000ae40e9d79b,31946,questionGroup,questionGroupText,31946,form,Forest Fire Liability
+607079a04500009d89bd213a,5f988d422c000044f7f2a428,31947,questionGroup,questionGroupText,31946,form,Policy Information
+5f99ee4b2700003502713822,5f99ee4b2700003502713821,31950,questionGroup,questionGroupText,31946,form,Policy Limits
+5f988d6028000002fb81fc0b,,104282,question,questionText,31946,form,Date of Commencement:
+5f988d7928000002fb81fc24,,104283,question,questionText,31946,form,Expiration Date:
+5f988d992c000044f7f2a5c0,,104284,question,questionText,31946,form,Insurance Carrier:
+5f988de32a0000ae40e9dadd,,104285,question,questionText,31946,form,Please upload Forest Fire Liability Certificate.
+5f99ee57290000fde549eec9,,104289,question,questionText,31946,form,Each Occurrence: 
+6070799f43000090e864cc57,,108705,question,description,31946,form,Used to provide instructions from Client
+6070799f43000090e864cc57,,108705,question,questionText,31946,form,Comments
+607079ae43000090e864cc5d,,108706,question,description,31946,form,Date the instructions from Client expire
+607079ae43000090e864cc5d,,108706,question,questionText,31946,form,VARIANCE Expiration Date
+62f53f4582eb52eab3c18fd0,,130565,question,questionText,31946,form,Currency used in Certificate of Insurance (COI)

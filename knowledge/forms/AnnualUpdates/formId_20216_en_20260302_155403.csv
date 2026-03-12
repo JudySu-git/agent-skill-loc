@@ -1,0 +1,46 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+55afab0e5049434df3b9d35e,55afab0e5049434df3b9d35e,7162,questionGroup,questionGroupText,20216,form,Costa Rica Specific Updates
+691d0405010000e6019bf1c5,55afab76504943c746b6e6a1,7163,questionGroup,questionGroupText,20216,form,Costa Rica
+691d0652010000ef019bf201,5ae8d88a240000860091f998,20216,questionGroup,questionGroupText,20216,form,Avetta Costa Rica Annual Update
+55afd80050494342a6eaae01,,32201,question,description,20216,form,"IMPORTANT: Please make sure to all include Full-Time, Part-Time, Seasonal, and Contract workers under your supervision, even if they were not under your direct employment. "
+55afd80050494342a6eaae01,,32201,question,questionText,20216,form,Please enter the Average Number of Employees your company had during the given year:
+55afd802504943ed71e32d41,,32202,question,description,20216,form,"<a href=""https://www.mtss.go.cr/elministerio/marco-legal/documentos/Codigo_Trabajo_RPL.pdf""target=""_blank"">(Article 196)</a>"
+55afd802504943ed71e32d41,,32202,question,questionText,20216,form,Did your company experience any work accidents or occupational diseases/illnesses for the given year?
+55afd802504943ed71e32d41,,32202,question,responseOptionNo,20216,form,No
+55afd802504943ed71e32d41,,32202,question,responseOptionYes,20216,form,Yes
+55afd89c504943a78d8c3dd2,,32203,question,description,20216,form,"Include hours worked by salaried, hourly, part-time and seasonal workers including temporary help services workers under your supervision, even if they were not under your direct employment.\nDo not include vacation, sick leave, holidays, or any other non-work time, even if employees were paid for it. If your establishment keeps records of only the hours paid or if you have employees who are not paid by the hour, please estimate the hours that the employees actually worked. If this number isn't available, an estimate is still needed."
+55afd89c504943a78d8c3dd2,,32203,question,questionText,20216,form,Please enter the total number of hours worked by all employees during the given year. Please round your answer to the next highest whole number.
+55afd9a5504943b68bebff4e,,32204,question,description,20216,form,Fatal accident: An event in which injuries cause the death of the worker.
+55afd9a5504943b68bebff4e,,32204,question,questionText,20216,form,Please enter the total number of fatal accidents for the given year
+55afd9aa504943885ac5c678,,32205,question,description,20216,form,"<a href=""https://www.mtss.go.cr/elministerio/marco-legal/documentos/Codigo_Trabajo_RPL.pdf""target=""_blank"">(Article 223)</a>"
+55afd9aa504943885ac5c678,,32205,question,questionText,20216,form,Please enter the total number of temporary disability incidents for the given year
+55afd9ac50494353d031c137,,32206,question,questionText,20216,form,Please enter the total number of lost work days due to temporary disability incidents for the given year
+55afd9b0504943bad6fe1a39,,32208,question,description,20216,form,"<a href=""https://www.mtss.go.cr/elministerio/marco-legal/documentos/Codigo_Trabajo_RPL.pdf""target=""_blank"">(Article 223)</a>"
+55afd9b0504943bad6fe1a39,,32208,question,questionText,20216,form,Please enter the total number of minor permanent disability incidents for the given year
+55afd9b2504943d5ff33ae28,,32209,question,description,20216,form,"<a href=""https://www.mtss.go.cr/elministerio/marco-legal/documentos/Codigo_Trabajo_RPL.pdf""target=""_blank"">(Article 223)</a>"
+55afd9b2504943d5ff33ae28,,32209,question,questionText,20216,form,Please enter the total number of partial permanent disability incidents for the given year
+55afd9b45049435068e70102,,32210,question,description,20216,form,"<a href=""https://www.mtss.go.cr/elministerio/marco-legal/documentos/Codigo_Trabajo_RPL.pdf""target=""_blank"">(Article 223)</a>"
+55afd9b45049435068e70102,,32210,question,questionText,20216,form,Please enter the total number of total permanent disability incidents for the given year
+55afd9b6504943b1cab3f3cd,,32211,question,description,20216,form,"<a href=""https://www.mtss.go.cr/elministerio/marco-legal/documentos/Codigo_Trabajo_RPL.pdf""target=""_blank"">(Article 223)</a>"
+55afd9b6504943b1cab3f3cd,,32211,question,questionText,20216,form,Please enter the total number of severe disability incidents for the given year
+5df3be3e370000fe2dc9b109,,89560,question,questionText,20216,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+5df3be51350000fecba1db7a,,89561,question,questionText,20216,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+655157511b0000db86a259e3,,146932,question,description,20216,form,"<a href=""https://www.mtss.go.cr/elministerio/marco-legal/documentos/Codigo_Trabajo_RPL.pdf""target=""_blank"">(Article 197)</a>"
+655157511b0000db86a259e3,,146932,question,questionText,20216,form,Please enter the total number of occupational diseases/illnesses for the given year
+68d179460100007e00db6da6,,181749,question,description,20216,form,"<a href=""https://www.mtss.go.cr/elministerio/marco-legal/documentos/Codigo_Trabajo_RPL.pdf""target=""_blank"">(Article 196)</a> "
+68d179460100007e00db6da6,,181749,question,questionText,20216,form,Please enter the total number of Commute Accidents
+68e057370100003e0130e311,,184015,question,description,20216,form,Apartado I
+68e057370100003e0130e311,,184015,question,questionText,20216,form,Please enter the Annual Accident Incidence Percentage from your Informe Annual for the given year.
+68e057680100003e0130e313,,184016,question,description,20216,form,Apartado II
+68e057680100003e0130e313,,184016,question,questionText,20216,form,Please enter the Frequency Index (IF) from your Informe Anual for the given year.
+68e0578101000089029a0730,,184017,question,description,20216,form,Apartado III
+68e0578101000089029a0730,,184017,question,questionText,20216,form,Please enter the Severity Index (IG) from your Informe Anual for the given year.
+68e0578e010000420030e317,,184018,question,description,20216,form,Apartado IV
+68e0578e010000420030e317,,184018,question,questionText,20216,form,Please enter the Average Duration (DM) from your Informe Anual for the given year.
+691d03cf01000039009bf1bf,,188962,question,description,20216,form,"All companies required to establish an Occupational Health and Safety Office/Department must record their occupational incidents, diseases, workforce numbers, and hours worked through the CSO’s online registry. The system then generates the Informe Anual, which must be downloaded and retained.\n\n<a href=""https://www.cso.go.cr/tramites/registro.aspx""target=""_blank"">CSO Registry Guide</a>\n\n<a href=""https://www.youtube.com/watch?v=R_RQlABao80""target=""_blank"">Instructional video for step-by-step guidance</a>\n\nYour response will be reviewed by your connected clients."
+691d03cf01000039009bf1bf,,188962,question,questionText,20216,form,Has your company submitted its occupational health and safety statistics to the Consejo de Salud Ocupacional (CSO) and obtained the official Informe Anual de Oficina o Departamento de Salud Ocupacional?
+691d03cf01000039009bf1bf,,188962,question,responseOption1,20216,form,Yes
+691d03cf01000039009bf1bf,,188962,question,responseOption2,20216,form,No - The company does not have any employees in Costa Rica so there is no requirement to register with the CSO.
+691d03cf01000039009bf1bf,,188962,question,responseOption3,20216,form,No - The company has fewer than 10 permanent employees in Costa Rica and is not required or eligible to register with the CSO.
+691d04d2010000f0014d11eb,,188965,question,description,20216,form,"All companies registered with the Consejo de Salud Ocupacional (CSO) must complete the annual submission of occupational health and safety data through the CSO online system.\n\nUpon submission, the system generates the official **Informe Anual de Oficina o Departamento de Salud Ocupacional**, which must be downloaded and retained."
+691d04d2010000f0014d11eb,,188965,question,questionText,20216,form,Please upload a copy of the official “Informe Anual de Oficina o Departamento de Salud Ocupacional” or the confirmation PDF generated by the CSO system upon submission.

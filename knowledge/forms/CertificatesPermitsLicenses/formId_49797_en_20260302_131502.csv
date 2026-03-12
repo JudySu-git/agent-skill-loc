@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69409edd0100004200a4b4e6,693c97e20100006100e9a1dd,49797,questionGroup,description,49797,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+69409edd0100004200a4b4e6,693c97e20100006100e9a1dd,49797,questionGroup,questionGroupText,49797,form,Italy Register of Enterprises Applicability Assessment
+693c97e20100005f00e9a1de,,193291,question,description,49797,form,"In Italy, all companies must obtain a Register of Enterprises Certificate to certify registration in the national Business Register maintained by the local <a href=""https://www.registroimprese.it/le-camere-di-commercio/"" target=""_BLANK_"">Chambers of Commerce</a>. The certificate acts as official proof of a business’s legal existence and compliance. The Register of Enterprises Certificate is kept by the network of the Chambers of Commerce and registration takes place in the same way as for the <a href=""https://www.registroimprese.it/l-anagrafe-nazionale-delle-imprese"" target=""_BLANK_"">National Business Register</a>.\n"
+693c97e20100005f00e9a1de,,193291,question,questionText,49797,form,Does your company perform work in Italy and maintain business entity certificates?
+693c97e20100005f00e9a1de,,193291,question,responseOption1,49797,form,Yes
+693c97e20100005f00e9a1de,,193291,question,responseOption2,49797,form,No
+693c97e20100005f00e9a1e0,,193292,question,questionText,49797,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Italian legislation."
+693c97e2010000f200e9a1e1,,193293,question,questionText,49797,form,Please select from the following reasons your company is exempt from needing business entity certificates in Italy.
+693c97e2010000f200e9a1e1,,193293,question,responseOption1,49797,form,The company is a foreign company that is solely engaged in preparatory or exploratory initiatives in Italy and has registered with the Economic and Administrative Repertory (REA).
+693c97e2010000f200e9a1e1,,193293,question,responseOption2,49797,form,Other
+693c97e20100005f00e9a1df,,193294,question,questionText,49797,form,Please explain why your company is exempt from needing a business entity certificate in Italy.

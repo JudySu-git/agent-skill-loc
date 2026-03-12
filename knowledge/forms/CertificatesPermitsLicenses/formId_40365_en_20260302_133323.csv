@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+651c7cb2180000aa489be287,6516f28d1a0000f771659ac4,40365,questionGroup,questionGroupText,40365,form,Ghana Petroleum Commission Registration Permit
+651c4fb3180000af489bdbac,6516f4461900004e019ac2d5,40367,questionGroup,questionGroupText,40365,form,Ghana Petroleum Commission Registration Permit
+6516f4561900004e019ac2d9,,145597,question,questionText,40365,form,"Is your company or any of its affiliates registered with the Ghana <a href = ""https://www.petrocom.gov.gh/""target=""_BLANK_"">Petroleum Commission</a>:"
+6516f4561900004e019ac2d9,,145597,question,responseOption1,40365,form,Yes
+6516f4561900004e019ac2d9,,145597,question,responseOption2,40365,form,No
+6516f46f1a00001372659ad8,,145598,question,questionText,40365,form,Please provide a valid Petroleum Commissioning registration permit
+6516f46f1a00001372659ad8,,145598,question,responseOption1,40365,form,Yes
+6516f46f1a00001372659ad8,,145598,question,responseOption2,40365,form,No
+651c4fb0180000af489bdbab,,145680,question,questionText,40365,form,Issuance date:
+651c4fb0180000af489bdbab,,145680,question,responseOption1,40365,form,Yes
+651c4fb0180000af489bdbab,,145680,question,responseOption2,40365,form,No
+651c501c1800005d019bdbc6,,145683,question,questionText,40365,form,Expiry date:
+651c501c1800005d019bdbc6,,145683,question,responseOption1,40365,form,Yes
+651c501c1800005d019bdbc6,,145683,question,responseOption2,40365,form,No

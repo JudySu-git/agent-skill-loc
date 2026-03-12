@@ -1,0 +1,4 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6830c37c0100003c006c783a,6830c36b0100003c00cc53c8,46141,questionGroup,questionGroupText,46141,form,Spain Certification for Gas Installations and Maintenance Providers
+6830c36b0100003d00cc53c9,,174458,question,description,46141,form,"You are receiving this form because you answered ""Yes"" to maintaining a Certificate of Authorization for Gas Installation and Maintenance in the Spanish Trade Licenses Applicability Assessment questionnaire."
+6830c36b0100003d00cc53c9,,174458,question,questionText,46141,form,Please upload a copy of your company's Certificate of Authorization for Gas Installation and Maintenance.

@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67ec4f16010000a00147a334,67eaf79201000042008c69cf,45110,questionGroup,questionGroupText,45110,form,Brazil DSST Asbestos Handling Applicability Assessment
+67eaf7920100003e008c69d0,,167137,question,questionText,45110,form,"Does your company<a href=""https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/amianto"" target=""_blank""> produce, use, commercialize, or remove asbestos or asbestos-containing materials in Brazil?</a>"
+67eaf7920100003e008c69d0,,167137,question,responseOption1,45110,form,Yes
+67eaf7920100003e008c69d0,,167137,question,responseOption2,45110,form,No

@@ -1,0 +1,137 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4f39dc9d504943fa983b2508,4f39dc9d504943fa983b2508,22,questionGroup,questionGroupText,20132,form,Marine Vessels
+431e73d050494319e0c4adb7,,707,question,questionText,20132,form,Does your company have vessels under US Coast Guard regulations?
+431e73d050494319e0c4adb7,,707,question,responseOptionNo,20132,form,No
+431e73d050494319e0c4adb7,,707,question,responseOptionYes,20132,form,Yes
+431e73d0504943a9c3f2c6a4,,708,question,questionText,20132,form,Does your company operate cargo vessels of 500 gross tons or greater?
+431e73d0504943a9c3f2c6a4,,708,question,responseOptionNo,20132,form,No
+431e73d0504943a9c3f2c6a4,,708,question,responseOptionYes,20132,form,Yes
+431e73d0504943d0973aa2c3,,709,question,description,20132,form,"<a href=""http://www.imo.org/OurWork/HumanElement/SafetyManagement/Pages/Default.aspx"" target=""_BLANK"">International Maritime Organization</a> <a href=""http://www.imo.org/OurWork/HumanElement/SafetyManagement/Documents/ISMCode_4March2010_.pdf"" target=""_BLANK"">International Safety Management Code</a>"
+431e73d0504943d0973aa2c3,,709,question,questionText,20132,form,Does your company maintain ISM Code (International Management Code for the Safe Operation of Ships and for Pollution Prevention) certification?
+431e73d0504943d0973aa2c3,,709,question,responseOptionNo,20132,form,No
+431e73d0504943d0973aa2c3,,709,question,responseOptionYes,20132,form,Yes
+431e73d05049438366e118b9,,710,question,questionText,20132,form,"Does your company have written Health, Safety, and Environmental (HSE) policies and procedures for marine vessels?"
+431e73d05049438366e118b9,,710,question,responseOptionNo,20132,form,No
+431e73d05049438366e118b9,,710,question,responseOptionYes,20132,form,Yes
+431e73d0504943eb47f51cf1,,711,question,questionText,20132,form,Are your (HSE) policies and procedures for marine vessels located both at your shoreside headquarters and aboard each vessel?
+431e73d0504943eb47f51cf1,,711,question,responseOptionNo,20132,form,No
+431e73d0504943eb47f51cf1,,711,question,responseOptionYes,20132,form,Yes
+431e73d050494317b9574767,,712,question,questionText,20132,form,Does your HSE program include written procedures for the safe operation of vessels?
+431e73d050494317b9574767,,712,question,responseOptionNo,20132,form,No
+431e73d050494317b9574767,,712,question,responseOptionYes,20132,form,Yes
+431e73d05049436d391c4832,,713,question,questionText,20132,form,Does your HSE program include written procedures for pollution prevention?
+431e73d05049436d391c4832,,713,question,responseOptionNo,20132,form,No
+431e73d05049436d391c4832,,713,question,responseOptionYes,20132,form,Yes
+431e73d050494325bd57d91c,,714,question,questionText,20132,form,Does your HSE program include written procedures for reporting shipboard incidents and non-conformance to shoreside management?
+431e73d050494325bd57d91c,,714,question,responseOptionNo,20132,form,No
+431e73d050494325bd57d91c,,714,question,responseOptionYes,20132,form,Yes
+431e73d0504943460646935f,,716,question,questionText,20132,form,Explain your method for ensuring that the objectives of your HSE policies are achieved.
+431e73d05049437ecea64e16,,717,question,questionText,20132,form,"Explain how your company verifies that your HSE policies are implemented at all levels of the company, both shoreside and aboard all vessels."
+431e73d0504943c31bdc9d54,,718,question,questionText,20132,form,How does your company ensure that safety and environmental protection responsibilities are communicated to and understood by vessel personnel and shoreside personnel?
+431e73d050494315c196ee7a,,719,question,questionText,20132,form,Does your company give your Vessel Master(s) primary responsibility and authority for ensuring safety aboard their vessels?
+431e73d050494315c196ee7a,,719,question,responseOptionNo,20132,form,No
+431e73d050494315c196ee7a,,719,question,responseOptionYes,20132,form,Yes
+431e73d0504943c164122b22,,720,question,questionText,20132,form,"If you answered yes to the previous question, is this communicated in writing?"
+431e73d0504943c164122b22,,720,question,responseOptionNo,20132,form,No
+431e73d0504943c164122b22,,720,question,responseOptionYes,20132,form,Yes
+431e73d0504943d6aa2ad14f,,721,question,questionText,20132,form,How does your company monitor your operations to ensure that HSE policies and procedures are being followed aboard your vessels?
+431e73d050494322181a04b3,,722,question,questionText,20132,form,Explain your method for ensuring that vessel personnel are medically fit for their work activities.
+431e73d0504943fbcfccfd90,,723,question,questionText,20132,form,Explain your method for ensuring that vessel personnel are properly trained and licensed for their work activities.
+431e73d0504943fd869ca764,,724,question,questionText,20132,form,How does your company ensure that new personnel or personnel receiving new vessel assignments are given proper familiarization with the vessel and their shipboard duties?
+431e73d0504943f6b11b8263,,725,question,questionText,20132,form,"If you answered the previous question, is this familiarization process documented?"
+431e73d0504943f6b11b8263,,725,question,responseOptionNo,20132,form,No
+431e73d0504943f6b11b8263,,725,question,responseOptionYes,20132,form,Yes
+431e73d05049436576a8cad9,,726,question,questionText,20132,form,Do all vessels have detailed written procedures that address safety and environmental protection for key shipboard operations?
+431e73d05049436576a8cad9,,726,question,responseOptionNo,20132,form,No
+431e73d05049436576a8cad9,,726,question,responseOptionYes,20132,form,Yes
+431e73d05049432b91af78ac,,727,question,questionText,20132,form,"If you answered yes to the previous question, do these procedures clearly identify and assign the personnel who are qualified to perform specific functions?"
+431e73d05049432b91af78ac,,727,question,responseOptionNo,20132,form,No
+431e73d05049432b91af78ac,,727,question,responseOptionYes,20132,form,Yes
+431e73d0504943faa5e6d326,,728,question,questionText,20132,form,"What procedures are in place for identifying and responding to shipboard emergencies (i.e., fire, man overboard, abandon ship)?"
+431e73d0504943922e166dcb,,729,question,questionText,20132,form,How often do your vessels conduct fire drills?
+431e73d0504943922e166dcb,,729,question,responseOptionAnnually,20132,form,Annually
+431e73d0504943922e166dcb,,729,question,responseOptionBi-Annually,20132,form,Bi-Annually
+431e73d0504943922e166dcb,,729,question,responseOptionDaily,20132,form,Daily
+431e73d0504943922e166dcb,,729,question,responseOptionEvery2Years,20132,form,Every 2 Years
+431e73d0504943922e166dcb,,729,question,responseOptionEvery3Years,20132,form,Every 3 Years
+431e73d0504943922e166dcb,,729,question,responseOptionMonthly,20132,form,Monthly
+431e73d0504943922e166dcb,,729,question,responseOptionNotApplicable,20132,form,Not Applicable
+431e73d0504943922e166dcb,,729,question,responseOptionOther,20132,form,Other
+431e73d0504943922e166dcb,,729,question,responseOptionQuarterly,20132,form,Quarterly
+431e73d0504943922e166dcb,,729,question,responseOptionWeekly,20132,form,Weekly
+431e73d0504943899a7cb9bf,,730,question,questionText,20132,form,How often do your vessels conduct man overboard drills?
+431e73d0504943899a7cb9bf,,730,question,responseOptionAnnually,20132,form,Annually
+431e73d0504943899a7cb9bf,,730,question,responseOptionBi-Annually,20132,form,Bi-Annually
+431e73d0504943899a7cb9bf,,730,question,responseOptionDaily,20132,form,Daily
+431e73d0504943899a7cb9bf,,730,question,responseOptionEvery2Years,20132,form,Every 2 Years
+431e73d0504943899a7cb9bf,,730,question,responseOptionEvery3Years,20132,form,Every 3 Years
+431e73d0504943899a7cb9bf,,730,question,responseOptionMonthly,20132,form,Monthly
+431e73d0504943899a7cb9bf,,730,question,responseOptionNotApplicable,20132,form,Not Applicable
+431e73d0504943899a7cb9bf,,730,question,responseOptionOther,20132,form,Other
+431e73d0504943899a7cb9bf,,730,question,responseOptionQuarterly,20132,form,Quarterly
+431e73d0504943899a7cb9bf,,730,question,responseOptionWeekly,20132,form,Weekly
+431e73d0504943c2d267ed13,,731,question,questionText,20132,form,How often do your vessels conduct abandon ship drills?
+431e73d0504943c2d267ed13,,731,question,responseOptionAnnually,20132,form,Annually
+431e73d0504943c2d267ed13,,731,question,responseOptionBi-Annually,20132,form,Bi-Annually
+431e73d0504943c2d267ed13,,731,question,responseOptionDaily,20132,form,Daily
+431e73d0504943c2d267ed13,,731,question,responseOptionEvery2Years,20132,form,Every 2 Years
+431e73d0504943c2d267ed13,,731,question,responseOptionEvery3Years,20132,form,Every 3 Years
+431e73d0504943c2d267ed13,,731,question,responseOptionMonthly,20132,form,Monthly
+431e73d0504943c2d267ed13,,731,question,responseOptionNotApplicable,20132,form,Not Applicable
+431e73d0504943c2d267ed13,,731,question,responseOptionOther,20132,form,Other
+431e73d0504943c2d267ed13,,731,question,responseOptionQuarterly,20132,form,Quarterly
+431e73d0504943c2d267ed13,,731,question,responseOptionWeekly,20132,form,Weekly
+431e73d05049439f2be410b4,,732,question,questionText,20132,form,Does your company have a program in place to ensure that your shoreside headquarters can respond to a vessel emergency at any time?
+431e73d05049439f2be410b4,,732,question,responseOptionNo,20132,form,No
+431e73d05049439f2be410b4,,732,question,responseOptionYes,20132,form,Yes
+431e73d0504943a6d185e7c2,,733,question,questionText,20132,form,"Does your company have a program in place to ensure that non-conformances, accidents, and hazardous situations (near misses, spills, etc.) occurring during maritime operations are reported to shoreside management, investigated, and responded to with appropriate corrective action?"
+431e73d0504943a6d185e7c2,,733,question,responseOptionNo,20132,form,No
+431e73d0504943a6d185e7c2,,733,question,responseOptionYes,20132,form,Yes
+431e73d050494399106b9d20,,734,question,questionText,20132,form,Does your company have a program in place to ensure that each vessel's equipment and machinery are properly maintained in accordance with manufacturer specifications and applicable regulations?
+431e73d050494399106b9d20,,734,question,responseOptionNo,20132,form,No
+431e73d050494399106b9d20,,734,question,responseOptionYes,20132,form,Yes
+431e73d05049433eded7839d,,735,question,questionText,20132,form,Does your preventative maintenance program identify and give special consideration to certain critical equipment to avoid hazardous situations if it should fail?
+431e73d05049433eded7839d,,735,question,responseOptionNo,20132,form,No
+431e73d05049433eded7839d,,735,question,responseOptionYes,20132,form,Yes
+431e73d050494398f5663e82,,736,question,questionText,20132,form,"If you answered yes to the previous question, how does your company ensure that all vessels maintain the necessary documentation onboard?"
+431e73d05049432459630337,,737,question,questionText,20132,form,Does your company conduct internal audits onboard vessels and at shoreside headquarters?
+431e73d05049432459630337,,737,question,responseOptionNo,20132,form,No
+431e73d05049432459630337,,737,question,responseOptionYes,20132,form,Yes
+431e73d05049438204610a88,,738,question,questionText,20132,form,"If you answered yes to the previous questions, explain your company's method for ensuring company-wide implementation of the corrective actions necessary to address audit findings."
+431e73d05049434f2858ab33,,739,question,questionText,20132,form,Has your company undergone a shoreside ISM Code Audit?
+431e73d05049434f2858ab33,,739,question,responseOptionNo,20132,form,No
+431e73d05049434f2858ab33,,739,question,responseOptionYes,20132,form,Yes
+431e73d0504943bddebb5608,,740,question,questionText,20132,form,"If yes, when was your last shoreside ISM Code compliance audit conducted?"
+431e73d05049436f13d95dd7,,741,question,questionText,20132,form,Were any non-conformances identified?
+431e73d05049436f13d95dd7,,741,question,responseOptionNo,20132,form,No
+431e73d05049436f13d95dd7,,741,question,responseOptionYes,20132,form,Yes
+431e73d0504943119b8bf0bf,,742,question,questionText,20132,form,Have non-conformances been resolved?
+431e73d0504943119b8bf0bf,,742,question,responseOptionNA,20132,form,N/A
+431e73d0504943119b8bf0bf,,742,question,responseOptionNo,20132,form,No
+431e73d0504943119b8bf0bf,,742,question,responseOptionYes,20132,form,Yes
+431e73d050494396e04e919e,,743,question,questionText,20132,form,"If no, what is your target date to resolve them?"
+431e73d0504943a435595815,,744,question,questionText,20132,form,Has your company undergone a vessel ISM Code Audit?
+431e73d0504943a435595815,,744,question,responseOptionNo,20132,form,No
+431e73d0504943a435595815,,744,question,responseOptionYes,20132,form,Yes
+431e73d0504943b2177e6b05,,745,question,questionText,20132,form,"If yes, when was your last vessel ISM Code Audit conducted?"
+431e73d050494351d1fdd8ab,,746,question,questionText,20132,form,Were any non-conformances identified?
+431e73d050494351d1fdd8ab,,746,question,responseOptionNo,20132,form,No
+431e73d050494351d1fdd8ab,,746,question,responseOptionYes,20132,form,Yes
+431e73d05049432fc5b55189,,747,question,questionText,20132,form,Have non-conformances been resolved?
+431e73d05049432fc5b55189,,747,question,responseOptionNA,20132,form,N/A
+431e73d05049432fc5b55189,,747,question,responseOptionNo,20132,form,No
+431e73d05049432fc5b55189,,747,question,responseOptionYes,20132,form,Yes
+431e73d05049431b47386f2c,,748,question,questionText,20132,form,"If no, what is your target date to resolve them?"
+547c9d1c504943f9d3dfe220,547c9d1c504943f9d3dfe220,6182,questionGroup,questionGroupText,20132,form,Procedures
+547c9dde50494371f07a0b6f,547c9dde50494371f07a0b6f,6183,questionGroup,questionGroupText,20132,form,Vessel Operations
+547ca628504943fc689fe62d,547ca628504943fc689fe62d,6184,questionGroup,questionGroupText,20132,form,International Maritime Organization
+5c1824cb370000f8d0bf9c05,5ab80f452f00006501af6150,20132,questionGroup,questionGroupText,20132,form,Avetta PQF - Marine Vessels
+547caa73504943867ff3843c,,27387,question,questionText,20132,form,Does your company own or operate any marine vessels?
+547caa73504943867ff3843c,,27387,question,responseOptionNo,20132,form,No
+547caa73504943867ff3843c,,27387,question,responseOptionYes,20132,form,Yes
+547caab15049434e157bde4c,,27388,question,questionText,20132,form,Does your company ensure that vessel personnel are properly trained and licensed?
+547caab15049434e157bde4c,,27388,question,responseOptionNo,20132,form,No
+547caab15049434e157bde4c,,27388,question,responseOptionYes,20132,form,Yes
+547cab8f504943a5fa2855ba,,27390,question,questionText,20132,form,Does your company ensure that vessel personnel are medically fit to perform their work activities?
+547cab8f504943a5fa2855ba,,27390,question,responseOptionNo,20132,form,No
+547cab8f504943a5fa2855ba,,27390,question,responseOptionYes,20132,form,Yes

@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6937586201000043009e53ff,693754af01000045009e536d,49559,questionGroup,description,49559,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+6937586201000043009e53ff,693754af01000045009e536d,49559,questionGroup,questionGroupText,49559,form,Costa Rica Occupational Health Commission Applicability Assessment
+693754af01000043009e536e,,192018,question,description,49559,form,"This requirement is regulated by <a href = ""https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=190&nValor3=200&strTipM=TC""target=""_BLANK_"">Article 288 of the Labor Code</a> and detailed in the <a href = ""https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=13985&nValor3=15018&strTipM=TC""target=""_BLANK_"">Regulations of Occupational Health Commissions and Offices or Departments</a> (Decree N.º 39408-MTSS)."
+693754af01000043009e536e,,192018,question,questionText,49559,form,Is your company required to form an Occupational Health Commission and register it with the Ministry of Labor and Social Security (MTSS) in accordance with the Costa Rican Labor Code?
+693754af01000043009e536e,,192018,question,responseOption1,49559,form,Yes
+693754af01000043009e536e,,192018,question,responseOption2,49559,form,No
+693754af010000e0019e536f,,192019,question,description,49559,form,"Registration requirements can be found on the <a href = ""https://www.cso.go.cr/tramites/registro.aspx""target=""_BLANK_"">Occupational Health Council (CSO) website.</a>\n"
+693754af010000e0019e536f,,192019,question,questionText,49559,form,Please select from the following reasons your company is exempt from needing to register an Occupational Health Commission and register it with the Ministry of Labor and Social Security (MTSS).
+693754af010000e0019e536f,,192019,question,responseOption1,49559,form,The company has fewer than 10 employees working in Costa Rica.
+693754af010000e0019e536f,,192019,question,responseOption3,49559,form,Other
+693754af01000049009e5370,,192020,question,questionText,49559,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Costa Rican legislation."
+693754af01000049009e5371,,192021,question,questionText,49559,form,Please explain why your company is exempt from needing to register an Occupational Health Commission and register it with the Ministry of Labor and Social Security (MTSS).

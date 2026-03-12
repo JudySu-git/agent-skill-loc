@@ -1,0 +1,27 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+672a589a0100008700a63e8e,671bc0990100004a004dae6c,43589,questionGroup,questionGroupText,43589,form,Brazil Environmental Compliance
+671bc12901000029004dae90,671bc12901000029004dae8f,43590,questionGroup,questionGroupText,43589,form,LF - Operating License
+671bc1320100003400e90b34,671bc1320100003400e90b33,43591,questionGroup,questionGroupText,43589,form,LO - Environmental Operating License
+671bc13b01000033004dae93,671bc13b01000033004dae92,43592,questionGroup,questionGroupText,43589,form,IBAMA Clearance
+672169f7010000480113462e,672169f7010000480113462d,43752,questionGroup,questionGroupText,43589,form,Acknowledgement
+671bc14d01000033004dae95,,160245,question,questionText,43589,form,Is your company required to maintain an Operating License (Licença de Funcionamento) from the local City Hall?
+671bc14d01000033004dae95,,160245,question,responseOption1,43589,form,Yes
+671bc14d01000033004dae95,,160245,question,responseOption2,43589,form,No
+671bc16d01000030004daea0,,160246,question,questionText,43589,form,Please explain
+671bc16d01000030004daea0,,160246,question,responseOption1,43589,form,Yes
+671bc16d01000030004daea0,,160246,question,responseOption2,43589,form,No
+671bc1ba0100002f004daeb3,,160247,question,questionText,43589,form,Is your company required to maintain a state or municipal Environmental Operating License (Licença de Operação) from IBAMA or the state/municipal environmental agency?
+671bc1ba0100002f004daeb3,,160247,question,responseOption1,43589,form,Yes
+671bc1ba0100002f004daeb3,,160247,question,responseOption2,43589,form,No
+671bc1c90100002f004daeb7,,160248,question,questionText,43589,form,Sign below to confirm the information and/or document provided is correct and updated
+671bc1c90100002f004daeb7,,160248,question,responseOption1,43589,form,Yes
+671bc1c90100002f004daeb7,,160248,question,responseOption2,43589,form,No
+671bc1fa0100004b004daeb8,,160249,question,questionText,43589,form,Please explain
+671bc1fa0100004b004daeb8,,160249,question,responseOption1,43589,form,Yes
+671bc1fa0100004b004daeb8,,160249,question,responseOption2,43589,form,No
+671bc21901000032004daeba,,160250,question,questionText,43589,form,Is your company required to comply with any IBAMA regulations?
+671bc21901000032004daeba,,160250,question,responseOption1,43589,form,Yes
+671bc21901000032004daeba,,160250,question,responseOption2,43589,form,No
+671bc2210100004a004daebd,,160251,question,questionText,43589,form,Please explain
+671bc2210100004a004daebd,,160251,question,responseOption1,43589,form,Yes
+671bc2210100004a004daebd,,160251,question,responseOption2,43589,form,No

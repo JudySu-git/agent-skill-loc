@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774aa36b6c4c635467a1,69a8774aa36b6c4c635467a0,51173,questionGroup,questionGroupText,51173,form,Lifting Equipment,
+69a8774aa36b6c4c6354679c,,200169,question,description,51173,form,"Setup and dismantling must occur under supervision of a competent person.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Work Equipment Ordinance, Section 18(2)(2)</a>",
+69a8774aa36b6c4c6354679c,,200169,question,questionText,51173,form,Supervised Assembly and Dismantling,
+69a8774aa36b6c4c6354679d,,200170,question,description,51173,form,"Permissible loads must be clearly marked on lifting equipment and slings.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Work Equipment Ordinance, Section 18(7)</a>",
+69a8774aa36b6c4c6354679d,,200170,question,questionText,51173,form,Load Limits,
+69a8774aa36b6c4c6354679e,,200171,question,description,51173,form,"The stability of equipment during lifting must be ensured through defined safety measures. A secure setup on stable ground must be ensured for lifting equipment.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Work Equipment Ordinance, Section 18(2)</a>",
+69a8774aa36b6c4c6354679e,,200171,question,questionText,51173,form,Equipment Stability Measures,
+69a8774aa36b6c4c6354679f,,200172,question,questionText,51173,form,<div></div>,

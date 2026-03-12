@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+606f7bdd4400004cc136e6ea,526aa30b50494368682a6c8b,4691,questionGroup,questionGroupText,20271,form,Policy Information
+526ea9e050494358aa4bd239,526ea9e050494358aa4bd239,4710,questionGroup,questionGroupText,20271,form,Policy Documentation
+606f7c704300008efba5e196,5af87800340000c203f8fdd5,20271,questionGroup,questionGroupText,20271,form,WorkCover Tasmania
+526ea4e250494339a9fe6fbb,,21526,question,questionText,20271,form,Date of Commencement:
+526ea685504943d31394fe7d,,21535,question,questionText,20271,form,Expiration Date:
+526eabff50494320e0d8febf,,21542,question,questionText,20271,form,Please upload a Certificate of Currency or other supporting documentation for this policy.
+606f7bdc4400004cc136e6e9,,108574,question,description,20271,form,Used to provide instructions from Client
+606f7bdc4400004cc136e6e9,,108574,question,questionText,20271,form,Comments
+606f7c034300008efba5def3,,108575,question,description,20271,form,Date the instructions from Client expire
+606f7c034300008efba5def3,,108575,question,questionText,20271,form,VARIANCE Expiration Date

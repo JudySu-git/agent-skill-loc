@@ -1,0 +1,54 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5e54112b350000c680d49f44,5e277032320000ad619c0d48,28498,questionGroup,questionGroupText,28498,form,Avetta PQF – Modern Slavery Statement (Australia)
+5e2b4c7035000064e422b560,5e2b4c7035000064e422b55f,28553,questionGroup,questionGroupText,28498,form,Modern Slavery Statement
+5e2b4e3735000064e422ba0e,5e2b4e3735000064e422ba0d,28555,questionGroup,questionGroupText,28498,form,Corporate Policies and Management Procedures
+5defc48d360000cf1643d0d1,,89185,question,questionText,28498,form,Is your company required to produce a Modern Slavery Statement (MSS)? 
+5defc48d360000cf1643d0d1,,89185,question,responseOption1,28498,form,Yes
+5defc48d360000cf1643d0d1,,89185,question,responseOption2,28498,form,No
+5defc8a7350000f7bf563714,,89186,question,questionText,28498,form,"If yes, please confirm when your Modern Slavery Statement will be submitted"
+5defc8cc340000ec043ad1f8,,89187,question,questionText,28498,form,"If your company does not have turnover equal to or greater than $100m, does your company wish to demonstrate its commitment to stopping modern slavery by producing a company statement voluntarily?"
+5defc8cc340000ec043ad1f8,,89187,question,responseOption1,28498,form,Yes
+5defc8cc340000ec043ad1f8,,89187,question,responseOption2,28498,form,No
+5defc926360000cf1644bc5b,,89188,question,questionText,28498,form,"If yes, please confirm when your Modern Slavery Statement will be developed"
+5defc9d0350000f7bf566ee2,,89189,question,questionText,28498,form,Please upload a copy (If available): 
+5df16ad53700009d4b33eb03,,89418,question,questionText,28498,form,Please confirm what elements are documented within your company statement
+5df16ad53700009d4b33eb03,,89418,question,responseOption1,28498,form,Information on your company structure
+5df16ad53700009d4b33eb03,,89418,question,responseOption10,28498,form,The statement is undersigned by a senior person within the business who can influence the enforcement of the company philosophy throughout the business
+5df16ad53700009d4b33eb03,,89418,question,responseOption11,28498,form,"There is confirmation that where applicable, there is a formal response mechanism in the event of any reports of human trafficking or slavery"
+5df16ad53700009d4b33eb03,,89418,question,responseOption12,28498,form,There is a reference to the prevention of underage labour being used in the manufacture and assembly of products within the supply chain
+5df16ad53700009d4b33eb03,,89418,question,responseOption13,28498,form,Other
+5df16ad53700009d4b33eb03,,89418,question,responseOption14,28498,form,None of the above
+5df16ad53700009d4b33eb03,,89418,question,responseOption2,28498,form,Information on the business and the supply chain including geographical locations
+5df16ad53700009d4b33eb03,,89418,question,responseOption3,28498,form,Commitment to the prevention of human trafficking and prevention of slavery
+5df16ad53700009d4b33eb03,,89418,question,responseOption4,28498,form,The statement defines the different types of slavery
+5df16ad53700009d4b33eb03,,89418,question,responseOption5,28498,form,The statement confirms that the content will be adopted throughout the business and all personnel employed directly or indirectly will adhere to the content
+5df16ad53700009d4b33eb03,,89418,question,responseOption6,28498,form,Commitment to training/guidance to the workforce on preventing human trafficking and slavery
+5df16ad53700009d4b33eb03,,89418,question,responseOption7,28498,form,"Confirms what due diligence is undertaken to prevent human trafficking, slavery and supporting human rights throughout the supply chain"
+5df16ad53700009d4b33eb03,,89418,question,responseOption8,28498,form,Identifies the areas of the business and the supply chain where there is a risk of slavery and human trafficking and how the company will assess and manage that risk
+5df16ad53700009d4b33eb03,,89418,question,responseOption9,28498,form,Confirmation that there is appropriate due diligence (This can be inhouse / independent 3rd party or combination of the two) to monitor the effectiveness of all mitigation measures and they are measured against specific performance criteria
+5df16b863700009d4b341faf,,89419,question,questionText,28498,form,"If different or additional information is included, please specify:\n\t\n"
+5df16bbb370000c041c567eb,,89420,question,questionText,28498,form,"Indicate below other company policies, management procedures or codes of conduct that have been developed and implemented throughout the business to address the potential of slavery within operations or the supply chain (Applied to all stages of the procurement and supplier evaluation process)?”"
+5df16bbb370000c041c567eb,,89420,question,responseOption1,28498,form,Supplier Code of Conduct
+5df16bbb370000c041c567eb,,89420,question,responseOption10,28498,form,Ethical Trading Policy / Guidance
+5df16bbb370000c041c567eb,,89420,question,responseOption11,28498,form,Management / Company Procedures
+5df16bbb370000c041c567eb,,89420,question,responseOption12,28498,form,Use of a 3rd party to assist with due diligence in high risk locations
+5df16bbb370000c041c567eb,,89420,question,responseOption13,28498,form,Other
+5df16bbb370000c041c567eb,,89420,question,responseOption14,28498,form,None of the above
+5df16bbb370000c041c567eb,,89420,question,responseOption15,28498,form,Health and Safety Policy
+5df16bbb370000c041c567eb,,89420,question,responseOption16,28498,form,Company Grievance Procedure
+5df16bbb370000c041c567eb,,89420,question,responseOption17,28498,form,Anti-bribery / Prevention of Corruption Policy
+5df16bbb370000c041c567eb,,89420,question,responseOption18,28498,form,Ethical Trading Policy / Guidance
+5df16bbb370000c041c567eb,,89420,question,responseOption19,28498,form,Use of a 3rd party to assist with due diligence in high risk locations
+5df16bbb370000c041c567eb,,89420,question,responseOption2,28498,form,Employment Code of Conduct / Handbook
+5df16bbb370000c041c567eb,,89420,question,responseOption20,28498,form,Guidance on sourcing from countries with a potential for modern day slavery
+5df16bbb370000c041c567eb,,89420,question,responseOption21,28498,form,None of the above
+5df16bbb370000c041c567eb,,89420,question,responseOption22,28498,form,Other
+5df16bbb370000c041c567eb,,89420,question,responseOption3,28498,form,Human Rights Policy
+5df16bbb370000c041c567eb,,89420,question,responseOption4,28498,form,Sustainability Policy
+5df16bbb370000c041c567eb,,89420,question,responseOption5,28498,form,Policy / Procedure to mitigate underage labour
+5df16bbb370000c041c567eb,,89420,question,responseOption6,28498,form,Guidance on sourcing from countries with a high probability of slavery
+5df16bbb370000c041c567eb,,89420,question,responseOption7,28498,form,Guidance on sourcing from countries with a potential for use of underage labour
+5df16bbb370000c041c567eb,,89420,question,responseOption8,28498,form,Anti-bribery / Prevention of Corruption Policy
+5df16bbb370000c041c567eb,,89420,question,responseOption9,28498,form,Whistle-blowing Policy
+5df16c7a3700009d4b344ce0,,89421,question,questionText,28498,form,"If different or additional information is included, please specify?"
+5df16c953700009d4b344d04,,89422,question,questionText,28498,form,Please upload supporting evidence

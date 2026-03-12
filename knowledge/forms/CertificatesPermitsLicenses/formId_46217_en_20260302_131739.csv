@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+684219b70100002301f673ea,684200070100003600f6720e,46217,questionGroup,questionGroupText,46217,form,Portugal Occupational Risk Insurance Compliance Applicability Assessment
+684200ea0100002501f67218,684200ea0100002501f67217,46218,questionGroup,questionGroupText,46217,form,Statutory Insurance
+684200fa01000058006db346,,174687,question,description,46217,form,"<a href=""https://www.seg-social.pt/declaracao-da-situacao-contributiva1""target=""_blank"">Certidão de Situação Regularizada da Segurança Social</a> "
+684200fa01000058006db346,,174687,question,questionText,46217,form,Is your company required to comply with social security obligations in Portugal?
+684200fa01000058006db346,,174687,question,responseOption1,46217,form,Yes
+684200fa01000058006db346,,174687,question,responseOption2,46217,form,No
+6842016a0100000b02f6721d,,174688,question,questionText,46217,form,Please select one of the below options:
+6842016a0100000b02f6721d,,174688,question,responseOption1,46217,form,Our company is a foreign entity providing short-term work or only shipping materials to Portugal without any permanent employees in the country
+6842016a0100000b02f6721d,,174688,question,responseOption2,46217,form, Other
+6842018b01000042006db349,,174689,question,questionText,46217,form,Please explain.

@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6859b7a6010000e5015faac7,6855d5a70100003a00ec3ea1,46364,questionGroup,description,46364,form,"You are receiving this form because you answered ""Yes"" to maintaining a Road Transport Operation Permit in the China Transportation and Logistics Applicability Assessment questionnaire."
+6859b7a6010000e5015faac7,6855d5a70100003a00ec3ea1,46364,questionGroup,questionGroupText,46364,form,China Road Transport Operation Permit 
+6855dbdf0100005701af2675,,175097,question,questionText,46364,form,Please upload your Road Transport Operation Permit.
+6855dbe60100005a00af2678,,175098,question,questionText,46364,form,Please enter the issue date of your Road Transport Operation Permit.
+6855dbee0100004100ec3ea6,,175099,question,description,46364,form,The standard validity period is 4 years.
+6855dbee0100004100ec3ea6,,175099,question,questionText,46364,form,Please enter the expiration date of your Road Transport Operation Permit.

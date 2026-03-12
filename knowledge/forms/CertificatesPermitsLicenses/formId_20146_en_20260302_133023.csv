@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+606f77cc4300008efba5c68d,4ba139b3504943da70383c68,560,questionGroup,questionGroupText,20146,form,Policy Information
+51b76f53504943f6314db3af,51b76f53504943f6314db3af,4010,questionGroup,questionGroupText,20146,form,Policy Limits
+51b76fdd5049432c7560cd27,,18459,question,questionText,20146,form,Disability - Each Occurrence
+51b76fed5049435ea2a6c302,,18460,question,questionText,20146,form,Death - Each Occurrence
+51b76ffa50494335e8e942d5,,18461,question,questionText,20146,form,Medical Expenses - Each Occurrence
+51b7703950494378d385360d,,18464,question,questionText,20146,form,Aggregate
+606f78474400004cc136c580,5abd35922100001400f29065,20146,questionGroup,questionGroupText,20146,form,Workers Compensation (China)
+5ff4adee460000d7dde758ea,,106193,question,questionText,20146,form,Insurance Carrier:
+606f77cb4300008efba5c68c,,108566,question,description,20146,form,Used to provide instructions from Client
+606f77cb4300008efba5c68c,,108566,question,questionText,20146,form,Comments
+606f77f14400004cc136c559,,108568,question,description,20146,form,Date the instructions from Client expire
+606f77f14400004cc136c559,,108568,question,questionText,20146,form,VARIANCE Expiration Date
+62f53f3082eb52eab3c18fac,,130529,question,questionText,20146,form,Currency used in Certificate of Insurance (COI)

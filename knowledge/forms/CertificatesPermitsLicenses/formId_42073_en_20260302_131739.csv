@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4d93010000bd0021f9d8,66302e0c1b00005f00b6e88f,42073,questionGroup,description,42073,form,You are getting this category because you selected a license in the Avetta PQF - Western Australia License.
+66ce4d93010000bd0021f9d8,66302e0c1b00005f00b6e88f,42073,questionGroup,questionGroupText,42073,form,Western Australia Contractor License - Security Master
+66302e0c1b00003200b6e890,,153520,question,questionText,42073,form,Please upload your license:\n
+66302e0c1b00003200b6e890,,153520,question,responseOption1,42073,form,Yes
+66302e0c1b00003200b6e890,,153520,question,responseOption2,42073,form,No
+66302e0c1b00003200b6e892,,153521,question,questionText,42073,form,Expiration Date:
+66302e0c1b00003200b6e892,,153521,question,responseOption1,42073,form,Yes
+66302e0c1b00003200b6e892,,153521,question,responseOption2,42073,form,No
+66302e0c1b00002e00b6e891,,153522,question,questionText,42073,form,License Number:
+66302e0c1b00002e00b6e891,,153522,question,responseOption1,42073,form,Yes
+66302e0c1b00002e00b6e891,,153522,question,responseOption2,42073,form,No

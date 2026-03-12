@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+660c8b281c00006e00c0132f,62320b96300000c639792985,35614,questionGroup,questionGroupText,35614,form,Nova Scotia Letter of Good Standing
+624721d7300000de48b213dc,62320ebf300000c6397943e2,35615,questionGroup,questionGroupText,35614,form,Nova Scotia (Workers' Compensation Board of Nova Scotia)
+62320bd4300000c639792b76,,122177,question,questionText,35614,form,When is your Letter of Good Standing valid until?
+624721d6300000b56a834cdf,,122540,question,questionText,35614,form,Please upload your Nova Scotia Letter of Good Standing within 30 days* (date of upload)

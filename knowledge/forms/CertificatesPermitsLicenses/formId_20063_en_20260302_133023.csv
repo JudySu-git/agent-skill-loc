@@ -1,0 +1,26 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6453befb1b0000852965fae4,4f39dd3a504943a8015147a6,89,questionGroup,questionGroupText,20063,form,Security
+6453bf811800004d420f22b9,4f44217d504943d257a08b99,420,questionGroup,questionGroupText,20063,form,Workplace Security
+44bb1950504943e25e25083f,,1385,question,questionText,20063,form,Does your company perform background checks on your workers?
+44bb1950504943e25e25083f,,1385,question,responseOptionNo,20063,form,No
+44bb1950504943e25e25083f,,1385,question,responseOptionYes,20063,form,Yes
+44bb1950504943bbd0878382,,1389,question,questionText,20063,form,Criminal Background Check?
+44bb1950504943bbd0878382,,1389,question,responseOptionNA,20063,form,N/A
+44bb1950504943bbd0878382,,1389,question,responseOptionNo,20063,form,No
+44bb1950504943bbd0878382,,1389,question,responseOptionYes,20063,form,Yes
+44bb195050494318d84d8742,,1392,question,questionText,20063,form,Verification of worker eligibility to work?
+44bb195050494318d84d8742,,1392,question,responseOptionNA,20063,form,N/A
+44bb195050494318d84d8742,,1392,question,responseOptionNo,20063,form,No
+44bb195050494318d84d8742,,1392,question,responseOptionYes,20063,form,Yes
+44bb1950504943f7292386ed,,1400,question,description,20063,form,"Examples: Passport, Military issued ID, Driver's License, Identification Card, Work Permit, Work Visa, etc."
+44bb1950504943f7292386ed,,1400,question,questionText,20063,form,Does your company require employees to present a form of government issued picture identification?
+44bb1950504943f7292386ed,,1400,question,responseOptionNA,20063,form,N/A
+44bb1950504943f7292386ed,,1400,question,responseOptionNo,20063,form,No
+44bb1950504943f7292386ed,,1400,question,responseOptionYes,20063,form,Yes
+44bb1950504943466282d3a9,,1411,question,questionText,20063,form,Does your company issue identification badges to workers?
+44bb1950504943466282d3a9,,1411,question,responseOptionNA,20063,form,N/A
+44bb1950504943466282d3a9,,1411,question,responseOptionNo,20063,form,No
+44bb1950504943466282d3a9,,1411,question,responseOptionYes,20063,form,Yes
+6453bf10180000c0440f22b3,547f46ca50494318b1e4cedb,6195,questionGroup,description,20063,form,Does your company undertake any of the following:
+6453bf10180000c0440f22b3,547f46ca50494318b1e4cedb,6195,questionGroup,questionGroupText,20063,form,Background Checks
+6453c2d51800004d420f22c2,5ab0493e2b0000ee4bd44403,20063,questionGroup,questionGroupText,20063,form,Avetta PQF - Security

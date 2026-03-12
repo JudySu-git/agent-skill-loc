@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4caa1f875049434568f8e3fc,4caa1f875049434568f8e3fc,976,questionGroup,questionGroupText,976,category,Goodyear Corporate
+4caa21f15049436adf76207e,,4919,question,linkResources!download.action?id=1128,976,category,Goodyear Insurance Requirements
+4caa21f15049436adf76207e,,4919,question,linkresources!download.action?id=1128,976,category,Goodyear Insurance Requirements
+4caa21f15049436adf76207e,,4919,question,questionText,976,category,"This insurance policy complies with all additional Goodyear Corporate requirements. ""The Goodyear Tire & Rubber Company"" is named as Additional Insured. \nThe address MUST be: \nc/o Avetta \nP.O. Box 51387 \nIrvine, CA 92619 \nA waiver of subrogation endorsement is required. \n \n\r\n<a href=""/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_1128.pdf"" target=""_blank"">Goodyear Insurance Requirements</a>"
+4caa21f15049436adf76207e,,4919,question,responseOptionNo,976,category,No
+4caa21f15049436adf76207e,,4919,question,responseOptionYes,976,category,Yes
+4caa209450494388bdfbe201,,5623,question,questionText,976,category,Upload a Certificate of Insurance or other supporting documentation for this policy.

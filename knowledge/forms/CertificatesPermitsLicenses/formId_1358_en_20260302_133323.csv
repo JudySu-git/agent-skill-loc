@@ -1,0 +1,19 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4d1a62635049434d558269b3,4d1a62635049434d558269b3,1358,questionGroup,questionGroupText,1358,category,"Excavations, Trenching & Shoring"
+4d07bf9f5049439b05514f4f,,6230,question,description,1358,category,"Please provide your program to address all applicable codes concerning the Excavations, Trenches and Shoring."
+4d07bf9f5049439b05514f4f,,6230,question,linkhttp://apps.leg.wa.gov/wac/default.aspx?cite=296-155-650,1358,category,WAC 296-155-650
+4d07bf9f5049439b05514f4f,,6230,question,questionText,1358,category,"Does the contractor have or is required to have a program to address all applicable codes concerning performing Excavations, Trenches and Shoring? <a href=""http://apps.leg.wa.gov/wac/default.aspx?cite=296-155-650"" target=""_BLANK"">WAC 296-155-650</a>"
+4d07bf9f5049439b05514f4f,,6230,question,responseOptionNA,1358,category,N/A
+4d07bf9f5049439b05514f4f,,6230,question,responseOptionNo,1358,category,No
+4d07bf9f5049439b05514f4f,,6230,question,responseOptionYes,1358,category,Yes
+4d07bfdc504943a57b577c54,,6231,question,description,1358,category,"Please provide the section of your program on Excavations, Trenches and Shoring that addresses General requirement."
+4d07bfdc504943a57b577c54,,6231,question,linkhttp://apps.leg.wa.gov/wac/default.aspx?cite=296-155-655,1358,category,WAC 296-155-655
+4d07bfdc504943a57b577c54,,6231,question,questionText,1358,category,"Does the contractors program on Excavations, Trenching & Shoring address General Requirements? <a href=""http://apps.leg.wa.gov/wac/default.aspx?cite=296-155-655"" target=""_BLANK"">WAC 296-155-655</a>"
+4d07bfdc504943a57b577c54,,6231,question,responseOptionNo,1358,category,No
+4d07bfdc504943a57b577c54,,6231,question,responseOptionYes,1358,category,Yes
+4d07c003504943a4fa427081,,6232,question,description,1358,category,"Please provide the section of your program on Excavations, Trenches and Shoring that addresses requirement for Protective Systems."
+4d07c003504943a4fa427081,,6232,question,linkhttp://apps.leg.wa.gov/wac/default.aspx?cite=296-155-657,1358,category,WAC 296-155-657
+4d07c003504943a4fa427081,,6232,question,questionText,1358,category,"Does the contractors program on Excavations, Trenching & Shoring address Requirements for Protective Systems? <a href=""http://apps.leg.wa.gov/wac/default.aspx?cite=296-155-657"" target=""_BLANK"">WAC 296-155-657</a>"
+4d07c003504943a4fa427081,,6232,question,responseOptionNo,1358,category,No
+4d07c003504943a4fa427081,,6232,question,responseOptionYes,1358,category,Yes
+4d18e443504943540f819b0c,,6356,question,questionText,1358,category,"Please upload your program on Excavations, Trenches and Shoring that addresses the above requirements."

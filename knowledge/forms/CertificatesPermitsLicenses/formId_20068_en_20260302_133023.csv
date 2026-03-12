@@ -1,0 +1,35 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+429fe3d0504943fc07ccb748,,355,question,questionText,20068,form,Does your company have training/certification programs for certifying Craftsmen?
+429fe3d0504943fc07ccb748,,355,question,responseOptionNA,20068,form,N/A
+429fe3d0504943fc07ccb748,,355,question,responseOptionNo,20068,form,No
+429fe3d0504943fc07ccb748,,355,question,responseOptionYes,20068,form,Yes
+429fe3d0504943fb7e93545a,,356,question,questionText,20068,form,Does your company have practical (hands-on) testing programs for certifying Craftsmen?
+429fe3d0504943fb7e93545a,,356,question,responseOptionNA,20068,form,N/A
+429fe3d0504943fb7e93545a,,356,question,responseOptionNo,20068,form,No
+429fe3d0504943fb7e93545a,,356,question,responseOptionYes,20068,form,Yes
+4365b2e0504943ce295cd12b,,358,question,questionText,20068,form,Does your company have written Workforce Development policies and procedures?
+4365b2e0504943ce295cd12b,,358,question,responseOptionNA,20068,form,N/A
+4365b2e0504943ce295cd12b,,358,question,responseOptionNo,20068,form,No
+4365b2e0504943ce295cd12b,,358,question,responseOptionYes,20068,form,Yes
+429fe3d0504943be2272c12a,,372,question,questionText,20068,form,Does your company have a Short Service Employee (SSE) policy that identifies new employees or experienced employees new to your company or new in their position?
+429fe3d0504943be2272c12a,,372,question,responseOptionNo,20068,form,No
+429fe3d0504943be2272c12a,,372,question,responseOptionYes,20068,form,Yes
+4365b2e0504943e35d38908d,,373,question,questionText,20068,form,Does your company's SSE policy include a means to visually identify a SSE?
+4365b2e0504943e35d38908d,,373,question,responseOptionNA,20068,form,N/A
+4365b2e0504943e35d38908d,,373,question,responseOptionNo,20068,form,No
+4365b2e0504943e35d38908d,,373,question,responseOptionYes,20068,form,Yes
+4365b2e050494340b989f002,,374,question,questionText,20068,form,Does your company's SSE policy include assigning a mentor to the SSE?
+4365b2e050494340b989f002,,374,question,responseOptionNA,20068,form,N/A
+4365b2e050494340b989f002,,374,question,responseOptionNo,20068,form,No
+4365b2e050494340b989f002,,374,question,responseOptionYes,20068,form,Yes
+4365b2e0504943ef822fbb3c,,375,question,questionText,20068,form,Does your company's SSE policy define the roles and responsibility of the SSE mentor?
+4365b2e0504943ef822fbb3c,,375,question,responseOptionNA,20068,form,N/A
+4365b2e0504943ef822fbb3c,,375,question,responseOptionNo,20068,form,No
+4365b2e0504943ef822fbb3c,,375,question,responseOptionYes,20068,form,Yes
+429fe3d050494326e6ae21fb,,377,question,description,20068,form,"Emergencies may include but not limited to fire, explosion, or toxic release hazards"
+429fe3d050494326e6ae21fb,,377,question,questionText,20068,form,Does your company instruct each employee the process and the applicable provisions of the emergency action plan related to his/her job?
+429fe3d050494326e6ae21fb,,377,question,responseOptionNA,20068,form,N/A
+429fe3d050494326e6ae21fb,,377,question,responseOptionNo,20068,form,No
+429fe3d050494326e6ae21fb,,377,question,responseOptionYes,20068,form,Yes
+4cd0c1575049435514b4c0b4,4cd0c1575049435514b4c0b4,1195,questionGroup,questionGroupText,20068,form,US Training
+5c17f8e0320000e97b3962ca,5ab06af12b0000404cd45b00,20068,questionGroup,questionGroupText,20068,form,Avetta PQF - United States Training

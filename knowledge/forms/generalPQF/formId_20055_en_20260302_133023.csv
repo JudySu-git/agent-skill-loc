@@ -1,0 +1,64 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+429d40d0504943a96e409cb5,,150,question,linkhttp://www.dir.ca.gov/dosh/dosh_publications/IIPP.html#4,20055,form,Cal/OSHA Injury & Illness Prevention Program
+429d40d0504943a96e409cb5,,150,question,linkhttp://www.dir.ca.gov/dosh/dosh_publications/iipp.html#4,20055,form,Cal/OSHA Injury & Illness Prevention Program
+429d40d0504943a96e409cb5,,150,question,questionText,20055,form,"If your company works in the State of California, does your company have an Injury, Illness, Prevention Program (IIPP)? \n<a href=""http://www.dir.ca.gov/dosh/dosh_publications/IIPP.html#4"" target=""_BLANK"">Cal/OSHA Injury & Illness Prevention Program</a>"
+429d40d0504943a96e409cb5,,150,question,responseOptionNA,20055,form,N/A
+429d40d0504943a96e409cb5,,150,question,responseOptionNo,20055,form,No
+429d40d0504943a96e409cb5,,150,question,responseOptionYes,20055,form,Yes
+433f69505049437decbf2fd9,,157,question,questionText,20055,form,Does your program satisfy your responsibility under the law for ensuring your employees follow the safety rules of the facility?
+433f69505049437decbf2fd9,,157,question,responseOptionNA,20055,form,N/A
+433f69505049437decbf2fd9,,157,question,responseOptionNo,20055,form,No
+433f69505049437decbf2fd9,,157,question,responseOptionYes,20055,form,Yes
+433f695050494352283d3d4d,,158,question,questionText,20055,form,Does your program satisfy your responsibility under the law for advising the owner/operator of any unique hazards presented by the contractor's work and any hazards found by the contractor?
+433f695050494352283d3d4d,,158,question,responseOptionNA,20055,form,N/A
+433f695050494352283d3d4d,,158,question,responseOptionNo,20055,form,No
+433f695050494352283d3d4d,,158,question,responseOptionYes,20055,form,Yes
+429e925050494398ed5aa6c3,,178,question,questionText,20055,form,Does your company have a documented H2S Awareness Specific program?
+429e925050494398ed5aa6c3,,178,question,responseOptionNA,20055,form,N/A
+429e925050494398ed5aa6c3,,178,question,responseOptionNo,20055,form,No
+429e925050494398ed5aa6c3,,178,question,responseOptionYes,20055,form,Yes
+429e9250504943da7a54716c,,179,question,questionText,20055,form,Does your company have a documented HAZCOM program?
+429e9250504943da7a54716c,,179,question,responseOptionNA,20055,form,N/A
+429e9250504943da7a54716c,,179,question,responseOptionNo,20055,form,No
+429e9250504943da7a54716c,,179,question,responseOptionYes,20055,form,Yes
+429e9250504943e6c6a48e2f,,180,question,questionText,20055,form,Does your company have a documented Hazardous Waste Operations and Emergency Response program?
+429e9250504943e6c6a48e2f,,180,question,responseOptionNA,20055,form,N/A
+429e9250504943e6c6a48e2f,,180,question,responseOptionNo,20055,form,No
+429e9250504943e6c6a48e2f,,180,question,responseOptionYes,20055,form,Yes
+429e9250504943660cd637be,,187,question,questionText,20055,form,Does your company have a documented NORM (Naturally Occurring Radioactive Material) program?
+429e9250504943660cd637be,,187,question,responseOptionNA,20055,form,N/A
+429e9250504943660cd637be,,187,question,responseOptionNo,20055,form,No
+429e9250504943660cd637be,,187,question,responseOptionYes,20055,form,Yes
+42ddda50504943b1468cfc4a,,190,question,questionText,20055,form,Does your company have a documented PSM (Process Safety Management) program?
+42ddda50504943b1468cfc4a,,190,question,responseOptionNA,20055,form,N / A
+42ddda50504943b1468cfc4a,,190,question,responseOptionNo,20055,form,No
+42ddda50504943b1468cfc4a,,190,question,responseOptionYes,20055,form,Yes
+4365b2e0504943ff9f271f86,,206,question,questionText,20055,form,"When applicable, does your company require eye protection (ANSI-Z87.1)(29 CFR 1910.133 & 1926.102)?"
+4365b2e0504943ff9f271f86,,206,question,responseOptionNo,20055,form,No
+4365b2e0504943ff9f271f86,,206,question,responseOptionYes,20055,form,Yes
+42d89450504943a10948c254,,212,question,questionText,20055,form,"When applicable, does your company require hand protection (29 CFR 1910.138)?"
+42d89450504943a10948c254,,212,question,responseOptionNo,20055,form,No
+42d89450504943a10948c254,,212,question,responseOptionYes,20055,form,Yes
+42d894505049439ba486cd33,,214,question,questionText,20055,form,"When applicable, does your company require hard hats (ANSI-Z89.1)(29 CFR 1910.135 & 1926.100)?"
+42d894505049439ba486cd33,,214,question,responseOptionNo,20055,form,No
+42d894505049439ba486cd33,,214,question,responseOptionYes,20055,form,Yes
+42d8945050494396ae580da0,,222,question,questionText,20055,form,"When applicable, does your company require safety shoes (ANSI-Z41/ASTM F-2412/F2413)(29 CFR 1910.136 & 1926.96)?"
+42d8945050494396ae580da0,,222,question,responseOptionNo,20055,form,No
+42d8945050494396ae580da0,,222,question,responseOptionYes,20055,form,Yes
+4cd0a0e650494345344f0a55,4cd0a0e650494345344f0a55,1191,questionGroup,questionGroupText,20055,form,US HSE Programs
+4a16d926504943a4704bc4bd,,2433,question,linkhttp://www.nfpa.org/aboutthecodes/AboutTheCodes.asp?DocNum=70E,20055,form,NFPA 70E
+4a16d926504943a4704bc4bd,,2433,question,linkhttp://www.nfpa.org/aboutthecodes/aboutthecodes.asp?docnum=70e,20055,form,NFPA 70E
+4a16d926504943a4704bc4bd,,2433,question,questionText,20055,form,"Does your company's Electrical program include NFPA 70E? \n<a href=""http://www.nfpa.org/aboutthecodes/AboutTheCodes.asp?DocNum=70E"" target=""_BLANK"">NFPA 70E</a>"
+4a16d926504943a4704bc4bd,,2433,question,responseOptionNA,20055,form,N/A
+4a16d926504943a4704bc4bd,,2433,question,responseOptionNo,20055,form,No
+4a16d926504943a4704bc4bd,,2433,question,responseOptionYes,20055,form,Yes
+5c182adb36000071db42e39f,5aadfc682b00001300d3e156,20055,questionGroup,questionGroupText,20055,form,Avetta PQF - United States HSE Programs
+522a07be5049437a4ad466f7,,20600,question,description,20055,form,"<a href=""http://www.call811.com/state-specific.aspx"" target=""_BLANK"">US: 811 Call Before You Dig</a>"
+522a07be5049437a4ad466f7,,20600,question,questionText,20055,form,"Does your company have a program that addresses procedures for calling the appropriate one-call center by dialing 811 at least 48 hours before digging, driving equipment into the ground or engaging in any earth-moving activities?"
+522a07be5049437a4ad466f7,,20600,question,responseOptionNA,20055,form,N/A
+522a07be5049437a4ad466f7,,20600,question,responseOptionNo,20055,form,No
+522a07be5049437a4ad466f7,,20600,question,responseOptionYes,20055,form,Yes
+5240a90f504943eceb716369,,20890,question,questionText,20055,form,Does your company ensure the utilities are properly marked prior to digging through local utility companies?
+5240a90f504943eceb716369,,20890,question,responseOptionNo,20055,form,No
+5240a90f504943eceb716369,,20890,question,responseOptionYes,20055,form,Yes
+5240a961504943502e2cbe9d,,20891,question,questionText,20055,form,"If no, please provide a detailed explanation as to why Call Before you Dig is not addressed."

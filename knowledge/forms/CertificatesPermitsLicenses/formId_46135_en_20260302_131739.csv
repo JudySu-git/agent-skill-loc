@@ -1,0 +1,35 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+689f5c7e0100004400251b2b,6830bd3101000038006c7807,46135,questionGroup,description,46135,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+689f5c7e0100004400251b2b,6830bd3101000038006c7807,46135,questionGroup,questionGroupText,46135,form, Spain Trade Licenses Applicability Assessment
+6830bd8a0100003600cc538a,,174447,question,description,46135,form,"<a href = ""https://www.boe.es/buscar/act.php?id=BOE-A-2021-16407"" target = ""_BLANK_"" >Ministry of Industry, Trade and Tourism Royal Decree 809/2021</a>\n"
+6830bd8a0100003600cc538a,,174447,question,questionText,46135,form,Does your company perform Installation or Maintenance of Pressure Equipment in Spain and is required to maintain a Certificate of Authorization for Installation and Maintenance of Pressure Equipment?
+6830bd8a0100003600cc538a,,174447,question,responseOption1,46135,form,Yes
+6830bd8a0100003600cc538a,,174447,question,responseOption2,46135,form,No
+6830bdb20100003b006c7810,,174448,question,description,46135,form,"<a href = ""https://www.boe.es/buscar/doc.php?id=BOE-A-1986-2249"" target = ""_BLANK_"" >Ministry of Industry, Trade and Tourism Royal Decree 2291/1985</a>\n\nand \n\n<a href = ""https://www.boe.es/eli/es/rd/2024/04/02/355"" target = ""_BLANK_"" >Ministry of Industry, Trade and Tourism Royal Decree 355/2024</a>"
+6830bdb20100003b006c7810,,174448,question,questionText,46135,form,Does your company perform Elevator Installation or Maintenance services  in Spain and is required to maintain a Certificate of Authorization for Elevator Maintenance?
+6830bdb20100003b006c7810,,174448,question,responseOption1,46135,form,Yes
+6830bdb20100003b006c7810,,174448,question,responseOption2,46135,form,No
+6830bdd901000033006c7813,,174449,question,description,46135,form,"<a href = ""https://www.boe.es/buscar/doc.php?id=BOE-A-2003-16419"" target = ""_BLANK_"" >Ministry of Industry, Trade and Tourism Royal Decree 837/2003</a>"
+6830bdd901000033006c7813,,174449,question,questionText,46135,form,Does your company perform Mobile Crane Maintenance services in Spain and is required to maintain a  Certificate of Authorization for Mobile Crane Maintenance?
+6830bdd901000033006c7813,,174449,question,responseOption1,46135,form,Yes
+6830bdd901000033006c7813,,174449,question,responseOption2,46135,form,No
+6830bde80100004000cc538c,,174450,question,description,46135,form,"<a href = ""https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2364"" target = ""_BLANK_"" >Ministry of Industry, Trade and Tourism Royal Decree 178/2021</a>\n\n"
+6830bde80100004000cc538c,,174450,question,questionText,46135,form,Does your company perform Heating and Air Conditioning Installation in Spain and is required to maintain a  Certificate of Authorization for Heating and Air Conditioning Installation?
+6830bde80100004000cc538c,,174450,question,responseOption1,46135,form,Yes
+6830bde80100004000cc538c,,174450,question,responseOption2,46135,form,No
+6830bee10100003c00cc538f,,174451,question,description,46135,form,"<a href = ""https://www.boe.es/buscar/doc.php?id=BOE-A-2006-22104"" target = ""_BLANK_"" >Ministry of Industry, Trade and Tourism Royal Decree 919/2006</a>"
+6830bee10100003c00cc538f,,174451,question,questionText,46135,form,Does your company perform Gas Installations and Maintenance in Spain and is required to maintain a  Certificate of Authorization for Gas Installation and Maintenance?
+6830bee10100003c00cc538f,,174451,question,responseOption1,46135,form,Yes
+6830bee10100003c00cc538f,,174451,question,responseOption2,46135,form,No
+6830bf020100003d00cc5392,,174452,question,description,46135,form,"<a href = ""https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5035"" target = ""_BLANK_"" >Ministry of Industry, Trade and Tourism Royal Decree 244/2010</a>"
+6830bf020100003d00cc5392,,174452,question,questionText,46135,form,Does your company perform Telecommunications Installations services  in Spain and is required to maintain a  Certificate of Registration for Telecommunications Installation?
+6830bf020100003d00cc5392,,174452,question,responseOption1,46135,form,Yes
+6830bf020100003d00cc5392,,174452,question,responseOption2,46135,form,No
+689e4a3e0100003700404dbd,,178561,question,description,46135,form,"<a href=""https://www.boe.es/buscar/doc.php?id=BOE-A-2002-18099""target=""_blank"">Ministry of Industry, Trade and Tourism Royal Decree 842/2002</a>"
+689e4a3e0100003700404dbd,,178561,question,questionText,46135,form,Does your company perform low voltage electrical installation services in Spain and is required to submit a Self Declaration to the responsible authority before commencing activities?
+689e4a3e0100003700404dbd,,178561,question,responseOption1,46135,form,Yes
+689e4a3e0100003700404dbd,,178561,question,responseOption2,46135,form,No
+689e4a4e010000cd00d52646,,178562,question,description,46135,form,"<a href=""https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6084""target=""_blank"">Ministry of Industry, Trade and Tourism Royal Decree 337/2014</a>"
+689e4a4e010000cd00d52646,,178562,question,questionText,46135,form,Does your company perform high voltage electrical installation services in Spain and is required to submit a Self Declaration to the responsible authority before commencing activities?
+689e4a4e010000cd00d52646,,178562,question,responseOption1,46135,form,Yes
+689e4a4e010000cd00d52646,,178562,question,responseOption2,46135,form,No

@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+691e5232010000ea00548e7e,648b559c190000b3278abe0f,39563,questionGroup,questionGroupText,39563,form,Avetta PQF - Spain Payroll Contribution Receipt (TGSS)
+648b56931900002a027d2e92,,142020,question,description,39563,form,Document must be issued within 30 days of submission.
+648b56931900002a027d2e92,,142020,question,questionText,39563,form,"Please upload your company’s most recent Social Security contribution settlement receipt (Recibo de Liquidación de Cotizaciones – RLC) for the latest payroll period.\n\nIf the RLC is not available, upload the payment proof (Justificante de ingreso de cuotas TGSS) for the same period."
+648b56e6190000f8047d2e95,,142021,question,questionText,39563,form,"As an authorized signatory, I confirm that Payroll Contributions are up-to-date and records are available upon request."
+649db76c19000050017df47e,,142354,question,description,39563,form,The Issue date must be within the last 30 days
+649db76c19000050017df47e,,142354,question,questionText,39563,form,Issue date
+655297d0170000f78f9e3822,,146962,question,questionText,39563,form,Does your company manage payroll in Spain?
+655297d0170000f78f9e3822,,146962,question,responseOption1,39563,form,Yes
+655297d0170000f78f9e3822,,146962,question,responseOption2,39563,form,No
+655297e817000006909e3825,,146963,question,questionText,39563,form,Please explain why:
+655297e817000006909e3825,,146963,question,responseOption1,39563,form,Yes
+655297e817000006909e3825,,146963,question,responseOption2,39563,form,No

@@ -1,0 +1,27 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8773ea36b6c4c6354671f,69a8773ea36b6c4c6354671e,51158,questionGroup,questionGroupText,51158,form,爆炸性气氛,
+69a8773ea36b6c4c63546715,,200064,question,description,51158,form,"爆炸危害评估必须涵盖爆炸性气氛的发生概率和持续时间，以及能够形成爆炸性气氛的物质特性。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Explosive Atmospheres Ordinance, Section 4(1)</a>",
+69a8773ea36b6c4c63546715,,200064,question,questionText,51158,form,危害评估,
+69a8773ea36b6c4c63546716,,200065,question,description,51158,form,"必须根据危害评估创建并持续更新爆炸防护文件。爆炸防护文件必须在作业开始前完成。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Explosive Atmospheres Ordinance, Section 5(1,3)</a>",
+69a8773ea36b6c4c63546716,,200065,question,questionText,51158,form,防护文件（作业前）,
+69a8773ea36b6c4c63546717,,200066,question,description,51158,form,"必须针对已识别的危害明确规定爆炸预防和缓解措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Explosive Atmospheres Ordinance, Section 5(2)(2), 10</a>",
+69a8773ea36b6c4c63546717,,200066,question,questionText,51158,form,控制措施（消除、工程控制、行政管理及/或个人防护装备）,
+69a8773ea36b6c4c63546718,,200067,question,description,51158,form,"爆炸危险区域必须按照区域等级进行分类。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Explosive Atmospheres Ordinance, Section 5(2)(3), 12(1-2)</a>",
+69a8773ea36b6c4c63546718,,200067,question,questionText,51158,form,限制进入管控,
+69a8773ea36b6c4c63546719,,200068,question,description,51158,form,"必须建立包含防护和救援措施的作业许可制度，并由具备资质的人员进行监督。在存在爆炸风险的设备中作业，必须经指定的具备资质人员核实并颁发作业许可后方可进行。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Explosive Atmospheres Ordinance, Section 6(4-5)</a>",
+69a8773ea36b6c4c63546719,,200068,question,questionText,51158,form,作业许可,
+69a8773ea36b6c4c6354671a,,200069,question,description,51158,form,"在无法排除爆炸性气氛的情况下，必须通过浓度测量验证一级爆炸防护措施的有效性。当浓度超过25% LEL时，必须每年进行控制测量。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Explosive Atmospheres Ordinance, Section 8(1,3)</a>",
+69a8773ea36b6c4c6354671a,,200069,question,questionText,51158,form,大气环境监测,
+69a8773ea36b6c4c6354671b,,200070,question,description,51158,form,"在投入使用前，必须完成对装置、通风设施、分区及防护措施的爆炸安全检查。对爆炸性气氛中电气装置的定期检查必须至少每三年进行一次。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Explosive Atmospheres Ordinance, Section 7(1-3)</a>",
+69a8773ea36b6c4c6354671b,,200070,question,questionText,51158,form,检查,
+69a8773ea36b6c4c6354671c,,200071,question,description,51158,form,"必须向在潜在爆炸性气氛中工作的员工提供有关爆炸风险和警报响应的信息。必须每年向接触爆炸危险的员工提供有关爆炸危害、设备安全使用、安全作业规程以及所需服装和PPE的培训。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Explosive Atmospheres Ordinance, Section 6(1-2)</a>",
+69a8773ea36b6c4c6354671c,,200071,question,questionText,51158,form,培训（年度）,
+69a8773ea36b6c4c6354671d,,200072,question,questionText,51158,form,<div></div>,

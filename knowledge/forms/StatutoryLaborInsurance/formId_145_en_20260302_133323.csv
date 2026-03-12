@@ -1,0 +1,26 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5755c9af504943fce94bd075,5755c9af504943fce94bd075,145,questionGroup,questionGroupText,145,category,Golden Rules (In Place and Followed?)
+48acf65050494359255dce66,,1994,question,questionText,145,category,Permit to Work/ In place and followed?
+48acf65050494359255dce66,,1994,question,responseOptionNA,145,category,N/A
+48acf65050494359255dce66,,1994,question,responseOptionNo,145,category,No
+48acf65050494359255dce66,,1994,question,responseOptionYes,145,category,Yes
+48acf650504943b996968735,,1995,question,questionText,145,category,Energy Isolation/ In place and followed?
+48acf650504943b996968735,,1995,question,responseOptionNA,145,category,N/A
+48acf650504943b996968735,,1995,question,responseOptionNo,145,category,No
+48acf650504943b996968735,,1995,question,responseOptionYes,145,category,Yes
+48acf650504943b3dfbfc75e,,1997,question,questionText,145,category,Confined Space Entry/ In place and followed?
+48acf650504943b3dfbfc75e,,1997,question,responseOptionNA,145,category,N/A
+48acf650504943b3dfbfc75e,,1997,question,responseOptionNo,145,category,No
+48acf650504943b3dfbfc75e,,1997,question,responseOptionYes,145,category,Yes
+48acf650504943a346e10b21,,1998,question,questionText,145,category,Working at Heights/ In place and followed?
+48acf650504943a346e10b21,,1998,question,responseOptionNA,145,category,N/A
+48acf650504943a346e10b21,,1998,question,responseOptionNo,145,category,No
+48acf650504943a346e10b21,,1998,question,responseOptionYes,145,category,Yes
+48acf6505049438b63f5d12a,,1999,question,questionText,145,category,Lifting Operations/ In place and followed?
+48acf6505049438b63f5d12a,,1999,question,responseOptionNA,145,category,N/A
+48acf6505049438b63f5d12a,,1999,question,responseOptionNo,145,category,No
+48acf6505049438b63f5d12a,,1999,question,responseOptionYes,145,category,Yes
+48acf6505049434aea6521fa,,2001,question,questionText,145,category,Management of Change/ In place and followed?
+48acf6505049434aea6521fa,,2001,question,responseOptionNA,145,category,N/A
+48acf6505049434aea6521fa,,2001,question,responseOptionNo,145,category,No
+48acf6505049434aea6521fa,,2001,question,responseOptionYes,145,category,Yes

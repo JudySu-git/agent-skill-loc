@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61324ed9470000efa7f801b4,61323c52470000efa7f789c5,33794,questionGroup,questionGroupText,33794,form,Hazardous Waste Facility Permit
+61323c52470000efa7f789c6,,114473,question,questionText,33794,form,Contractor License Classifications:
+61323c52470000efa7f789c7,,114474,question,questionText,33794,form,Expiration Date:
+61323c52470000efa7f789c8,,114475,question,description,33794,form,A URL will make verification quicker if provided.
+61323c52470000efa7f789c8,,114475,question,questionText,33794,form,"Upload a copy of your license, and or provide the URL of the license."
+61323c52470000efa7f789c8,,114475,question,responseOption1,33794,form,File Upload
+61323c52470000efa7f789c8,,114475,question,responseOption2,33794,form,URL
+61323c52470000efa7f789c9,,114476,question,questionText,33794,form,Please upload a copy of your license:
+61323c52470000efa7f789ca,,114477,question,questionText,33794,form,Please enter the URL of the license:
+61323c52470000efa7f789cb,,114478,question,description,33794,form,<a href='https://www.envirostor.dtsc.ca.gov/public/report_permitted_public.asp' target='_BLANK'>DTSC</a>
+61323c52470000efa7f789cb,,114478,question,questionText,33794,form,Contractor License Number:

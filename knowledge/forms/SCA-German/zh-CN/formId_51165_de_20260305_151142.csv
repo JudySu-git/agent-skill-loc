@@ -1,0 +1,15 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87744a36b6c4c6354675a,69a87744a36b6c4c63546759,51165,questionGroup,questionGroupText,51165,form,健康监测,
+69a87744a36b6c4c63546754,,200113,question,description,51165,form,"在分配从事具有职业病风险的活动之前，必须进行就业前适应性检查。当危险活动持续进行时，必须定期进行随访检查。检查必须针对具体的健康危害。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 49(1)(1-2)</a>",
+69a87744a36b6c4c63546754,,200113,question,questionText,51165,form,检查（就业前检查、定期检查）,
+69a87744a36b6c4c63546755,,200114,question,description,51165,form,"医疗检查必须涵盖涉及危险物质、物理因素或高压工作条件的活动。检查必须考虑相关健康风险。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 51(2)</a>",
+69a87744a36b6c4c63546755,,200114,question,questionText,51165,form,危险暴露检查,
+69a87744a36b6c4c63546756,,200115,question,description,51165,form,"医疗检查报告必须记录检查结果和评估意见。报告必须记录检查结论。员工医疗档案必须包括身份信息、活动类型、活动日期、医师信息及检查日期。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 52(2), 58(4-6)</a>",
+69a87744a36b6c4c63546756,,200115,question,questionText,51165,form,医疗档案,
+69a87744a36b6c4c63546757,,200116,question,description,51165,form,"检查结果必须及时转送劳动监察机构的医疗服务部门。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 52(5)</a>",
+69a87744a36b6c4c63546757,,200116,question,questionText,51165,form,向劳动监察机构报告,
+69a87744a36b6c4c63546758,,200117,question,questionText,51165,form,<div></div>,

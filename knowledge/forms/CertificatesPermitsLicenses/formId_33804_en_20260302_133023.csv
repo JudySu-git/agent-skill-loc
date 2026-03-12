@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61324f26480000bdbda021fc,61324d89470000efa7f7fbec,33804,questionGroup,questionGroupText,33804,form,Solid Waste Permit
+61324d89470000efa7f7fbed,,114520,question,questionText,33804,form,Contractor License Classifications:
+61324d89470000efa7f7fbee,,114521,question,questionText,33804,form,Expiration Date:
+61324d89470000efa7f7fbef,,114522,question,description,33804,form,A URL will make verification quicker if provided.
+61324d89470000efa7f7fbef,,114522,question,questionText,33804,form,"Upload a copy of your license, and or provide the URL of the license."
+61324d89470000efa7f7fbef,,114522,question,responseOption1,33804,form,File Upload
+61324d89470000efa7f7fbef,,114522,question,responseOption2,33804,form,URL
+61324d89470000efa7f7fbf0,,114523,question,questionText,33804,form,Please upload a copy of your license:
+61324d8a470000efa7f7fbf1,,114524,question,questionText,33804,form,Please enter the URL of the license:
+61324d8a470000efa7f7fbf2,,114525,question,description,33804,form,<a href='https://www2.calrecycle.ca.gov/SolidWaste/Site/Search' target='_BLANK'>CalRecycle</a>
+61324d8a470000efa7f7fbf2,,114525,question,questionText,33804,form,Contractor License Number:

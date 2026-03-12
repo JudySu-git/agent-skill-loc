@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68af6cd20100003f00de3584,68acc33f010000640046b605,47310,questionGroup,description,47310,form,"If your company is required to comply with Iraq Statutory Labor Insurance, you will be asked to provide relevant documents in a subsequent form(s)."
+68af6cd20100003f00de3584,68acc33f010000640046b605,47310,questionGroup,questionGroupText,47310,form,Iraq Statutory Labor Insurance Applicability Assessment
+68acc36e0100004700971d1e,,179433,question,description,47310,form,"Under <a href = ""https://www.moj.gov.iq/view.8464/"" target = ""_BLANK_"" > Iraqi Law No. 18 of 2023 on Retirement and Social Security for Workers</a>, all private, mixed, cooperative, and informal-sector employers are legally required to register with the Department of Retirement and Social Security for Workers (Federal – Baghdad) or the Kurdistan Regional Government’s Ministry of Labor and Social Affairs (KRG – MoLSA) and enroll all eligible workers in the applicable regional social security scheme."
+68acc36e0100004700971d1e,,179433,question,questionText,47310,form,Is your company required to comply with Iraq's Retirement and Social Security for Workers requirement and maintain applicable documentation to show compliance?
+68acc36e0100004700971d1e,,179433,question,responseOption1,47310,form,Yes
+68acc36e0100004700971d1e,,179433,question,responseOption2,47310,form,No
+68acc3aa0100004600971d21,,179434,question,description,47310,form,"<a href = ""https://www.moj.gov.iq/view.8464/"" target = ""_BLANK_"" > Article 24 of Law No. 18/2023</a>"
+68acc3aa0100004600971d21,,179434,question,questionText,47310,form,Please select from the following reason(s) your company is exempt from complying with Iraq's Retirement and Social Security for Workers requirement.
+68acc3aa0100004600971d21,,179434,question,responseOption1,47310,form,The company is a construction company employing only construction workers whom are exempt by Article 24 of Law No. 18/2023.
+68acc3aa0100004600971d21,,179434,question,responseOption2,47310,form,Other
+68acc3bf0100004500971d23,,179435,question,questionText,47310,form,Please explain the reason(s) your company is exempt from complying with Iraq's Retirement and Social Security for Workers requirement.

@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68f7cf6e010000c90682e7c9,68e6cc30010000c50731050e,48226,questionGroup,questionGroupText,48226,form,Independence Companies Insurance Variance Form
+68e6cc66010000bf07310514,,184126,question,questionText,48226,form,Please upload the Certificate of Insurance associated with the policy you are requesting a variance on.
+68e6cc71010000b707310517,,184127,question,questionText,48226,form,Policy Expiration Date
+68e6cc7c010000c3059a2904,,184128,question,questionText,48226,form,Please explain why you are requesting a variance on this insurance policy.

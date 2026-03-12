@@ -1,0 +1,25 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5c08c4253d0000527d02b397,57fd521d5049431978322b44,1206,questionGroup,questionGroupText,1206,form,Quarterly Statistics
+57fd52625049431961b6e688,57fd52625049431961b6e688,9669,questionGroup,description,1206,form,Please answer the questions below with regards to your company's quarterly statistics.
+57fd52625049431961b6e688,57fd52625049431961b6e688,9669,questionGroup,questionGroupText,1206,form,Quarterly Statistics
+57fd530b504943594cab5c47,,41113,question,questionText,1206,form,How many full-time employees were there for the given quarter?
+57fd5323504943516ddd927c,,41114,question,questionText,1206,form,"How many seasonal, temporary, or part-time employees were there for the given quarter?"
+57fd53515049432fd9d2c67e,,41115,question,questionText,1206,form,What is the total number of hours worked for this given quarter?
+57fd53e4504943b933fdb3f5,,41116,question,questionText,1206,form,Were there any recordable injuries for the given quarter?
+57fd53e4504943b933fdb3f5,,41116,question,responseOptionNo,1206,form,No
+57fd53e4504943b933fdb3f5,,41116,question,responseOptionYes,1206,form,Yes
+57fd547f50494330e4e74428,,41117,question,questionText,1206,form,How many fatalities were there for the given quarter?
+57fd54cf504943948eaa83f4,,41118,question,questionText,1206,form,Total number of _cases_ with days away from work.
+57fd5505504943d1c6c1c237,,41119,question,questionText,1206,form,Total number of _days_ away from work.
+57fd55435049437ec3f0583d,,41120,question,questionText,1206,form,Total number of _cases_ with job transfer or restriction.
+57fd56ef504943f91e47ec81,,41121,question,questionText,1206,form,Total number of _days_ of job transfer or restriction.
+57fd576e5049433d49c79545,,41122,question,questionText,1206,form,Total number of other recordable _cases_.
+57fd579c504943abf3954e0b,,41123,question,questionText,1206,form,Driving-Related Incident Statistics: \nDid you perform any driving for the given quarter?
+57fd579c504943abf3954e0b,,41123,question,responseOptionNo,1206,form,No
+57fd579c504943abf3954e0b,,41123,question,responseOptionYes,1206,form,Yes
+57fd5824504943503a79049b,,41124,question,questionText,1206,form,Number of accidents for the given quarter:
+57fd586e50494350296e372b,,41125,question,questionText,1206,form,Number of _serious_ accidents (tow away or recordable injury) for the given quarter.
+57fd58e9504943c33ab30125,,41126,question,questionText,1206,form,Number of _minor_ accidents for the given quarter:
+57fd592550494380e836b053,,41127,question,questionText,1206,form,"Number of determined ""Driver at Fault"" accidents for the given quarter."
+57fd596c5049436eb68581e0,,41128,question,questionText,1206,form,"Number of determined ""Driver _NOT_ at Fault"" accidents for the given quarter."
+57fd59dd504943c8ae9f51b3,,41129,question,questionText,1206,form,Total miles driven for the given quarter.

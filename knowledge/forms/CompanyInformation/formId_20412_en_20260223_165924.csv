@@ -1,0 +1,33 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+658088221a00002903499ec9,5266e3a550494328fb861bee,4651,questionGroup,questionGroupText,20412,form,Argentina
+65809ed31a0000090349a095,5b4685ff2200003303c4be36,20412,questionGroup,questionGroupText,20412,form,Avetta PQF - Argentina Company Information
+526802e15049436924de9d34,,21400,question,questionText,20412,form,Is your company registered with the Public Registry of Commerce?
+526802e15049436924de9d34,,21400,question,responseOptionNo,20412,form,No
+526802e15049436924de9d34,,21400,question,responseOptionYes,20412,form,Yes
+526803265049433da46860aa,,21401,question,questionText,20412,form,Is the name of your company registered with the Public Registry of Commerce different from the company name as it appears on your Avetta account?
+526803265049433da46860aa,,21401,question,responseOptionNo,20412,form,No
+526803265049433da46860aa,,21401,question,responseOptionYes,20412,form,Yes
+5268034e50494350f44ba5d3,,21402,question,questionText,20412,form,What is the official name of your company as registered with the Public Registry of Commerce?
+5268040e504943775e71e8c2,,21403,question,questionText,20412,form,Is your company registered with the National Tax Office (AFIP)?
+5268040e504943775e71e8c2,,21403,question,responseOptionNo,20412,form,No
+5268040e504943775e71e8c2,,21403,question,responseOptionYes,20412,form,Yes
+5268049b504943c36f8b7202,,21404,question,questionText,20412,form,What is your company’s Tax Identification Number (CUIT)?
+65808821180000be066e62b8,,148447,question,questionText,20412,form,Please indicate your company's business entity / form of business within this country.
+65808821180000be066e62b8,,148447,question,responseOption1,20412,form,Corporation
+65808821180000be066e62b8,,148447,question,responseOption2,20412,form,Multi-member Limited Liability Company
+65808821180000be066e62b8,,148447,question,responseOption3,20412,form,Simplified joint stock company
+65808821180000be066e62b8,,148447,question,responseOption4,20412,form,Limited Liability Company
+65808821180000be066e62b8,,148447,question,responseOption5,20412,form,Limited Partnership
+65808821180000be066e62b8,,148447,question,responseOption6,20412,form,General Partnership
+65808821180000be066e62b8,,148447,question,responseOption7,20412,form,Branch
+65808821180000be066e62b8,,148447,question,responseOption8,20412,form,Foreign Company with no Fiscal presence in Argentina
+65808821180000be066e62b8,,148447,question,responseOption9,20412,form,Self-employed Individual
+65808cba1a0000ba38499ef1,,148454,question,questionText,20412,form,Please explain
+65808cba1a0000ba38499ef1,,148454,question,responseOption1,20412,form,Yes
+65808cba1a0000ba38499ef1,,148454,question,responseOption2,20412,form,No
+65809a6e1800005f3a6e6458,,148474,question,questionText,20412,form,"Please provide your primary <a href = ""https://www.indec.gob.ar/micro_sitios/clanae/documentos/NOTAS_METODOLOGICAS_CLANAE-2010.pdf"" target = ""_blank"">Industry Classification</a> code"
+65809a6e1800005f3a6e6458,,148474,question,responseOption1,20412,form,Yes
+65809a6e1800005f3a6e6458,,148474,question,responseOption2,20412,form,No
+65809ada180000a9066e645e,,148475,question,questionText,20412,form,"If applicable, please provide your secondary <a href = ""https://www.indec.gob.ar/micro_sitios/clanae/documentos/NOTAS_METODOLOGICAS_CLANAE-2010.pdf"" target = ""_blank"">Industry Classification</a> code"
+65809ada180000a9066e645e,,148475,question,responseOption1,20412,form,Yes
+65809ada180000a9066e645e,,148475,question,responseOption2,20412,form,No

@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+692dd2d50100006100319415,6920a81c0100004500193cad,49171,questionGroup,description,49171,form,"If your company is required to comply with Germany Safety Statement Certification requirements, you will be asked to provide relevant documents in a subsequent form."
+692dd2d50100006100319415,6920a81c0100004500193cad,49171,questionGroup,questionGroupText,49171,form,Germany Safety Statement Certification Applicability Assessment
+6920a87f0100006000193cc0,,189099,question,description,49171,form,
+6920a87f0100006000193cc0,,189099,question,questionText,49171,form,Is your company required to maintain a Germany Safety Statement Certification in compliance with Federal Ministry of Labor and Social Affairs regulations?
+6920a87f0100006000193cc0,,189099,question,responseOption1,49171,form,Yes
+6920a87f0100006000193cc0,,189099,question,responseOption2,49171,form,No
+6920a9c50100004500193cc3,,189100,question,questionText,49171,form,Please select from the following reasons your company is exempt from needing a Germany Safety Statement Certification.
+6920a9c50100004500193cc3,,189100,question,responseOption1,49171,form,The company is a Sole Proprietorship
+6920a9c50100004500193cc3,,189100,question,responseOption2,49171,form,"The company has fewer than a set number of employees (below 10, depending on industry and risk level)."
+6920a9c50100004500193cc3,,189100,question,responseOption3,49171,form,The company operates exclusively with non-hazardous materials or in low-risk sectors.
+6920a9c50100004500193cc3,,189100,question,responseOption4,49171,form,Other
+6920aa1001000043001c8ce8,,189101,question,questionText,49171,form,Please explain why your company is exempt from needing a Germany Safety Statement Certification.
+6920aa1c0100006100193cc6,,189102,question,questionText,49171,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Germany legislation."

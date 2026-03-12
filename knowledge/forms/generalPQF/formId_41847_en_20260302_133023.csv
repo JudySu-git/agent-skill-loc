@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+665669f90100003700fabf95,6619c5581c00002d008f15d9,41847,questionGroup,description,41847,form,You are receiving this category because you selected Disability-Owned Business in the UK Supplier Diversity Questionnaire.
+665669f90100003700fabf95,6619c5581c00002d008f15d9,41847,questionGroup,questionGroupText,41847,form,Avetta PQF - UK Supplier Diversity Disability-Owned Business
+6619c5581c000031008f15da,,152707,question,questionText,41847,form,Does your company have any documentation to provide to support your Disability-Owned Business status?
+6619c5581c000031008f15da,,152707,question,responseOption1,41847,form,Yes
+6619c5581c000031008f15da,,152707,question,responseOption2,41847,form,No
+6619c5581c000030008f15dd,,152708,question,questionText,41847,form,Does this documentation have an expiration date?
+6619c5581c000030008f15dd,,152708,question,responseOption1,41847,form,Yes
+6619c5581c000030008f15dd,,152708,question,responseOption2,41847,form,No
+6619c5581c00002f008f15dc,,152709,question,questionText,41847,form,Please provide the expiration date:
+6619c5581c00002f008f15dc,,152709,question,responseOption1,41847,form,Yes
+6619c5581c00002f008f15dc,,152709,question,responseOption2,41847,form,No
+6619c5581c000031008f15db,,152710,question,questionText,41847,form,Please upload any supporting documentation:
+6619c5581c000031008f15db,,152710,question,responseOption1,41847,form,Yes
+6619c5581c000031008f15db,,152710,question,responseOption2,41847,form,No

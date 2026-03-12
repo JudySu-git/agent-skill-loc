@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6924b6850100006500d74145,6920a4a00100006100193bb4,49168,questionGroup,description,49168,form,This requirement is triggered because you indicated your organization has an External Prevention Service (SPA) in the Spain Occupational Risk Prevention Services Applicability Assessment.
+6924b6850100006500d74145,6920a4a00100006100193bb4,49168,questionGroup,questionGroupText,49168,form,Spain Occupational Risk Prevention Services - External Prevention Service
+6920a50c01000045001c8b8a,,189064,question,description,49168,form,"Employers are required to assess and prevent workplace risks and to implement preventive measures to protect workers’ health and safety. \n\n<a href=""https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/trabajo-jubilacion/seguridad-salud/prevencion-riesgos.html"" target=""blank"">Law 31</a>\n\n<a href=""https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/trabajo-jubilacion/seguridad-salud/prevencion-riesgos.html"" target=""blank"">Royal Decree 39</a>\n\n<a href=""https://www.boe.es/buscar/act.php?id=BOE-A-2004-1848"" target=""blank"">Royal Decree 171</a>\n\nProof of payment would usually be available from your Finance Department, or whomever in your organization is responsible for making payments to your suppliers."
+6920a50c01000045001c8b8a,,189064,question,questionText,49168,form,Please upload a recent payment certificate for your External Prevention Service contract:
+6920a64a0100004400193c8b,,189085,question,questionText,49168,form,Please select the preventive areas covered by your External Prevention Service:
+6920a64a0100004400193c8b,,189085,question,responseOption1,49168,form,Safety
+6920a64a0100004400193c8b,,189085,question,responseOption2,49168,form,Industrial Hygiene
+6920a64a0100004400193c8b,,189085,question,responseOption3,49168,form,Ergonomics
+6920a64a0100004400193c8b,,189085,question,responseOption4,49168,form,Psychosocial risks 
+6920a64a0100004400193c8b,,189085,question,responseOption5,49168,form,Health surveillance
+6920a66c0100006000193c90,,189086,question,description,49168,form,First Name Last Name
+6920a66c0100006000193c90,,189086,question,questionText,49168,form,"Please enter the name of the assigned SPA technician, as documented within your  External Prevention Service contract:"
+6920a68c01000044001c8cd7,,189087,question,questionText,49168,form,Please enter the issue date of your SPA contract:
+6920a69a0100004400193ca0,,189088,question,questionText,49168,form,Please enter the expiry date of your SPA contract:

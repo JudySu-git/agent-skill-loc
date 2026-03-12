@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6818e34e0100003f0072bf2b,6815542101000042008f1238,45605,questionGroup,questionGroupText,45605,form,Contractors Pollution Liability
+6815542101000040008f1239,6815542101000040008f1239,45606,questionGroup,questionGroupText,45605,form,Policy Information
+6815542101000040008f123a,6815542101000040008f123a,45607,questionGroup,questionGroupText,45605,form,Policy Limits
+681554210100005b008f123c,,169408,question,questionText,45605,form,Date of Commencement:
+6815542101000059008f123b,,169409,question,questionText,45605,form,Expiration Date:
+681554210100005b008f123d,,169410,question,questionText,45605,form,Please upload a certificate showing coverage for Contractors Pollution Liability
+6815542101000059008f123e,,169411,question,description,45605,form,Used to provide instructions from Client
+6815542101000059008f123e,,169411,question,questionText,45605,form,Comments
+6815542101000059008f123f,,169412,question,description,45605,form,Date the instructions from Client expire
+6815542101000059008f123f,,169412,question,questionText,45605,form,VARIANCE Expiration Date
+6815542101000059008f1240,,169413,question,questionText,45605,form,Each Occurrence:
+6815542101000059008f1241,,169414,question,questionText,45605,form,Aggregate:
+6815542101000059008f1242,,169415,question,questionText,45605,form,Currency used in Certificate of Insurance (COI)
+6818e2b80100005700f899c6,,169443,question,questionText,45605,form,Insurance Carrier:

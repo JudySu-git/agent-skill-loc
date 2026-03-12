@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+690a3302010000de000b3210,690397ee0100004000e9bbe8,48663,questionGroup,description,48663,form,This requirement is triggered because you indicated your organization maintains valid Austrian Social Security documentation in the Austria Social Security Applicability Assessment questionnaire.
+690a3302010000de000b3210,690397ee0100004000e9bbe8,48663,questionGroup,questionGroupText,48663,form,Austria Social Security Certificate
+690398b6010000f2006c9370,,186394,question,description,48663,form,
+690398b6010000f2006c9370,,186394,question,questionText,48663,form,"Please upload your company’s valid Certificate of No Arrears, issued within the last 6 months, to confirm compliance with Austria’s Social Security requirements."

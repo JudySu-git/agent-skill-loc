@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4e1e05a650494313a826db47,,8089,question,questionText,37237,form,Employer Number:
+63a4db83180000ef02fc4a43,632ca7562e000052f03334d4,37236,questionGroup,questionGroupText,37237,form,New Brunswick (WorkSafe NB)
+64111276170000ff0f02605d,632ca7562e000052f03334d3,37237,questionGroup,questionGroupText,37237,form,New Brunswick Letter of Good Standing
+632ca7562e000052f03334d6,,131437,question,questionText,37237,form,Please upload your New Brunswick Letter of Good Standing within 30 days* (date of upload)

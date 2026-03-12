@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87734a36b6c4c63546698,69a87734a36b6c4c63546697,51143,questionGroup,questionGroupText,51143,form,Construction - Equipment,
+69a87733a36b6c4c63546692,,199963,question,description,51143,form,"Use of equipment and operating resources must occur only after required inspections and defect correction.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 151(1)</a>",
+69a87733a36b6c4c63546692,,199963,question,questionText,51143,form,Inspections (Before Use),
+69a87733a36b6c4c63546693,,199964,question,description,51143,form,"Equipment inspection programs must include pre-use and regular inspections to eliminate defects.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 3a(1)4</a>",
+69a87733a36b6c4c63546693,,199964,question,questionText,51143,form,Documentation of Inspections,
+69a87733a36b6c4c63546694,,199965,question,description,51143,form,"Instruction on equipment use, methods, and protective measures must be provided for high-risk work.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 154(3)</a>",
+69a87733a36b6c4c63546694,,199965,question,questionText,51143,form,Training,
+69a87733a36b6c4c63546695,,199966,question,description,51143,form,"Where inspection obligations exist and no specific inspection interval is prescribed, inspections must be carried out at least once per calendar year.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 151(2)</a>",
+69a87733a36b6c4c63546695,,199966,question,questionText,51143,form,Annual Inspection by Competent Person,
+69a87733a36b6c4c63546696,,199967,question,questionText,51143,form,<div></div>,

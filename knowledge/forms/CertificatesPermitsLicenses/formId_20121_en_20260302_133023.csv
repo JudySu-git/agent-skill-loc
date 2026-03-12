@@ -1,0 +1,18 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+60526ad4490000edbdff6ec9,4a171e015049434d8739c5ac,563,questionGroup,questionGroupText,20121,form,Policy Information
+5cd5cea2350000b2fce4e0c9,5755c9af5049432845fc094d,564,questionGroup,questionGroupText,20121,form,Policy Limits
+3a501ce0504943629b61eedc,,2108,question,questionText,20121,form,Insurance Carrier:
+3a501ce0504943bb9a8fba72,,2110,question,questionText,20121,form,Date of Commencement:
+3a501ce05049438bd5fbfd29,,2111,question,questionText,20121,form,Expiration Date:
+3a501ce0504943cbee9b3956,,2155,question,questionText,20121,form,Combined Single Limit (Each accident)
+3a501ce0504943945213f11b,,2156,question,questionText,20121,form,Bodily Injury (Per person)
+3a501ce050494376bd25e108,,2157,question,questionText,20121,form,Bodily Injury (Per accident)
+3a501ce0504943392c9c39b2,,2158,question,questionText,20121,form,Property Damage (Per accident)
+4b15a86750494329722cc579,,2968,question,questionText,20121,form,Automobile Aggregate
+606f33124400004cc135072b,5ab73826350000f7008e75bf,20121,questionGroup,questionGroupText,20121,form,Automobile Liability
+5ab737d22f0000bc00af5dd5,,70070,question,questionText,20121,form,Please Upload Automobile Liability Certificate
+60526a03490000edbdff6afa,,107590,question,description,20121,form,Used to provide instructions from Client
+60526a03490000edbdff6afa,,107590,question,questionText,20121,form,Comments
+60526a0c490000edbdff6e0d,,107591,question,description,20121,form,Date the instructions from Client expire
+60526a0c490000edbdff6e0d,,107591,question,questionText,20121,form,VARIANCE Expiration Date
+62f53f1f82eb52eab3c18f8d,,130498,question,questionText,20121,form,Currency used in Certificate of Insurance (COI)

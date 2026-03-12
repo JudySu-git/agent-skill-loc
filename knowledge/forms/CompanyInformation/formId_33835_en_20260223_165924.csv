@@ -1,0 +1,36 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+692dd39c0100006400319478,613fa1b946000077cf7d9a90,33835,questionGroup,questionGroupText,33835,form,Avetta PQF - Japan Company Information
+692dd3260100004500319425,613fa3b549000003a06c918b,33836,questionGroup,questionGroupText,33835,form,Japan
+613fa3bf46000077cf7da039,,114681,question,description,33835,form,"Guidance: Ex.  Kabushiki Kaisha (KK), Goudou Kaisha (GK)"
+613fa3bf46000077cf7da039,,114681,question,questionText,33835,form,Please indicate your company’s business entity or form of business within this country
+613fa3bf46000077cf7da039,,114681,question,responseOption1,33835,form,Sole proprietorship
+613fa3bf46000077cf7da039,,114681,question,responseOption2,33835,form,Joint-Stock Company (Kabushiki-Kaisha)
+613fa3bf46000077cf7da039,,114681,question,responseOption3,33835,form,Limited Liability Company (Godo-Kaisha) (Yugen-Kaisha)
+613fa3bf46000077cf7da039,,114681,question,responseOption4,33835,form,General Partnership Company (Gomei-Kaisha)
+613fa3bf46000077cf7da039,,114681,question,responseOption5,33835,form,Limited Partnership Company (Goshi-Kaisha)
+613fa3bf46000077cf7da039,,114681,question,responseOption6,33835,form,Other
+613fa3f446000077cf7da03c,,114682,question,questionText,33835,form,Please indicate the date your company was founded
+613fa40e49000003a06c91a8,,114683,question,questionText,33835,form,Please indicate the date of Incorporation / registration (if applicable) 
+613fa42549000003a06c91bb,,114684,question,description,33835,form,"Guidance: <a href=""https://www.jcci.or.jp/english/"" target=""_blank"">https://www.jcci.or.jp/english/ </a>"
+613fa42549000003a06c91bb,,114684,question,questionText,33835,form,Is your company a member of the Japanese Chamber of Commerce (JCCI)? 
+613fa42549000003a06c91bb,,114684,question,responseOption1,33835,form,Yes
+613fa42549000003a06c91bb,,114684,question,responseOption2,33835,form,No
+613fa43b46000077cf7da1e8,,114685,question,questionText,33835,form,"If Yes, please enter your membership number\n"
+613fa49a46000077cf7da2ad,,114686,question,description,33835,form,"Help: The Corporate number is a 13-digit identifier assigned by the National Tax Agency. \n\nGuidance: <a href=""https://www.houjin-bangou.nta.go.jp/"" target=""_blank"">https://www.houjin-bangou.nta.go.jp/</a>\n\n\nAn Exclusion to the Corporate number requirement is if you are a Sole Proprietor  \n\n"
+613fa49a46000077cf7da2ad,,114686,question,questionText,33835,form,What is your company’s Japanese Corporate Number (JCN)?\n
+63a0f77f1600000908572bef,,135450,question,questionText,33835,form,"Is your company subject to any export control, import control, or any other trade sanctions in any country?\n"
+63a0f77f1600000908572bef,,135450,question,responseOption1,33835,form,Yes
+63a0f77f1600000908572bef,,135450,question,responseOption2,33835,form,No
+63a0f7aa1600002e075e8f38,,135453,question,questionText,33835,form,"Does your company comply with all the applicable laws and regulations in , including but not limited to laws and regulations on labor, export control, tax, environmental protection, IP, privacy, and data protection?"
+63a0f7aa1600002e075e8f38,,135453,question,responseOption1,33835,form,Yes
+63a0f7aa1600002e075e8f38,,135453,question,responseOption2,33835,form,No
+63a0f7c5160000a907572eb8,,135454,question,questionText,33835,form,"If not, please explain the circumstances of non-compliance."
+63a0f81d1600000d085731d1,,135455,question,questionText,33835,form,Have any administrative sanctions or penalties been imposed on your company? Is your company involved in any ongoing litigation or dispute?
+63a0f81d1600000d085731d1,,135455,question,responseOption1,33835,form,Yes
+63a0f81d1600000d085731d1,,135455,question,responseOption2,33835,form,No
+63a0f83616000008085732ab,,135456,question,questionText,33835,form,"If so, please explain the reason for being sanctioned/the background and status of the litigation or dispute.\n"
+63a0f8aa1600000908573af0,,135457,question,questionText,33835,form,Are there any matters other than those listed above that would be of significant concern in conducting business with your company?
+63a0f8aa1600000908573af0,,135457,question,responseOption1,33835,form,Yes
+63a0f8aa1600000908573af0,,135457,question,responseOption2,33835,form,No
+63a0f9021600003b075e9a63,,135458,question,questionText,33835,form,"If so, please explain the details.\n"
+63e12d31150000510599910d,,138309,question,questionText,33835,form,"Please specify ""Other"""

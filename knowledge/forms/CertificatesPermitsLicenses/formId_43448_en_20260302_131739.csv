@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66fed4d30100004c00c2ada5,66f5d5530100004d00c8b0dd,43448,questionGroup,questionGroupText,43448,form,Kleinfelder Insurance Variance Form
+66f5d9020100004b00c8b0ec,,159700,question,questionText,43448,form,Please upload a copy of your executed Master Service Agreement (MSA) / Contract with Kleinfelder
+66f5d9020100004b00c8b0ec,,159700,question,responseOption1,43448,form,Yes
+66f5d9020100004b00c8b0ec,,159700,question,responseOption2,43448,form,No
+66f5d922010000ab01835760,,159701,question,questionText,43448,form,"Please provide the name, title and contact information of your Kleinfelder Project Manager"
+66f5d922010000ab01835760,,159701,question,responseOption1,43448,form,Yes
+66f5d922010000ab01835760,,159701,question,responseOption2,43448,form,No

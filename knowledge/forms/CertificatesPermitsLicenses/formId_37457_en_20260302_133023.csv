@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6365756a1700003b06cf8799,6365755f1700003d06cf8730,37457,questionGroup,questionGroupText,37457,form,Electrical Contractor Licences – New South Wales
+6365755f1700003d06cf8731,,132383,question,questionText,37457,form,Please upload current Electrical Licence
+6365755f1700003d06cf8732,,132384,question,questionText,37457,form,Licence Number
+6365755f1700003d06cf8733,,132385,question,questionText,37457,form,Effective Date
+6365755f1700003d06cf8734,,132386,question,questionText,37457,form,Expiration Date

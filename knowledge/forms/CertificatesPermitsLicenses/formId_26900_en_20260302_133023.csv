@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec600100003100a4738f,5d30eb5d350000434197e1ad,26900,questionGroup,questionGroupText,26900,form,Nevada Contractor License
+5d5c378b330000767d88e43a,5d30eb6c350000434197e1bd,26901,questionGroup,questionGroupText,26900,form,Nevada Contractor License
+5d30eb7b350000434197e1f7,,84442,question,description,26900,form,"<a href = ""https://app.nvcontractorsboard.com/Clients/NVSCB/Public/ContractorLicenseSearch/ContractorLicenseSearch.aspx""target=""_BLANK_"">Nevada State Contractors Board</a>\n"
+5d30eb7b350000434197e1f7,,84442,question,questionText,26900,form,Nevada Contractor License Number:\n
+5d30eba93500004e4d891c42,,84443,question,description,26900,form,"<a href = ""https://app.nvcontractorsboard.com/Clients/NVSCB/Public/ContractorLicenseSearch/ContractorLicenseSearch.aspx""target=""_BLANK_"">Nevada State Contractors Board</a>\n"
+5d30eba93500004e4d891c42,,84443,question,questionText,26900,form,Nevada Contractor License Classifications:\n
+5d30ebc0350000434197e238,,84444,question,questionText,26900,form,Nevada License Expiration Date:\n
+5d30ebd33500004e4d891c4f,,84445,question,description,26900,form,A URL will make verification quicker if provided\n
+5d30ebd33500004e4d891c4f,,84445,question,questionText,26900,form,"Upload a copy of your license, and or provide the URL of the license."
+5d30ebd33500004e4d891c4f,,84445,question,responseOption1,26900,form,File Upload
+5d30ebd33500004e4d891c4f,,84445,question,responseOption2,26900,form,URL
+5d30ec03350000434197e262,,84446,question,questionText,26900,form,Please upload a copy of your Nevada license:\n
+5d30ec1f3500004e4d891cb1,,84447,question,questionText,26900,form,Please enter the URL of the license:\n

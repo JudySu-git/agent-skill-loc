@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4d1d0100003200ebe564,66302d251a0000280045d5eb,42065,questionGroup,description,42065,form,You are getting this category because you selected a license in the Avetta PQF - Western Australia License.
+66ce4d1d0100003200ebe564,66302d251a0000280045d5eb,42065,questionGroup,questionGroupText,42065,form,Western Australia Contractor License - Builders
+66302d251a0000610045d5ec,,153496,question,questionText,42065,form,Please upload your license:\n
+66302d251a0000610045d5ec,,153496,question,responseOption1,42065,form,Yes
+66302d251a0000610045d5ec,,153496,question,responseOption2,42065,form,No
+66302d251a0000610045d5ed,,153497,question,questionText,42065,form,Expiration Date:
+66302d251a0000610045d5ed,,153497,question,responseOption1,42065,form,Yes
+66302d251a0000610045d5ed,,153497,question,responseOption2,42065,form,No
+66302d251a0000610045d5ee,,153498,question,questionText,42065,form,License Number:
+66302d251a0000610045d5ee,,153498,question,responseOption1,42065,form,Yes
+66302d251a0000610045d5ee,,153498,question,responseOption2,42065,form,No

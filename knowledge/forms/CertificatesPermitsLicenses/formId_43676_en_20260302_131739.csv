@@ -1,0 +1,18 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+672a77f10100008500a64497,671fd00d0100003300c272a6,43676,questionGroup,questionGroupText,43676,form,Brazil Social Security & National Insurance Fund Certificate of Regularity (FGTS)
+671fd03b0100002e00a749c1,,160610,question,questionText,43676,form,Does your company have any employees in Brazil?
+671fd03b0100002e00a749c1,,160610,question,responseOption1,43676,form,Yes
+671fd03b0100002e00a749c1,,160610,question,responseOption2,43676,form,No
+671fd0410100003200a749c4,,160611,question,questionText,43676,form,Is your company required to Contribute to the Brazil Social Security & National Insurance Fund (FGTS)?
+671fd0410100003200a749c4,,160611,question,responseOption1,43676,form,Yes
+671fd0410100003200a749c4,,160611,question,responseOption2,43676,form,No
+671fd0480100003200a749c6,,160612,question,questionText,43676,form,Please explain why your company is exempt from FGTS obligations
+671fd0480100003200a749c6,,160612,question,responseOption1,43676,form,Yes
+671fd0480100003200a749c6,,160612,question,responseOption2,43676,form,No
+671fd051010000fa00c272ab,,160613,question,description,43676,form,The certificate must be issued within 3 months prior to the submission date
+671fd051010000fa00c272ab,,160613,question,questionText,43676,form,Please upload a copy of your valid FGTS Certificate of Regularity
+671fd051010000fa00c272ab,,160613,question,responseOption1,43676,form,Yes
+671fd051010000fa00c272ab,,160613,question,responseOption2,43676,form,No
+671fd0670100003000c272ae,,160614,question,questionText,43676,form,Sign below to confirm the information and/or document provided is correct and updated
+671fd0670100003000c272ae,,160614,question,responseOption1,43676,form,Yes
+671fd0670100003000c272ae,,160614,question,responseOption2,43676,form,No

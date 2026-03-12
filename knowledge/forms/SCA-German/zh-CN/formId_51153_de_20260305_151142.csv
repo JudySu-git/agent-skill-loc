@@ -1,0 +1,15 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8773ba36b6c4c635466ec,69a8773ba36b6c4c635466eb,51153,questionGroup,questionGroupText,51153,form,起重机,
+69a8773ba36b6c4c635466e6,,200027,question,description,51153,form,"通信规则必须明确吊装工、信号员与操作员之间的协调方式。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">《工作设备条例》第19条第(1)款第(3)项</a>",
+69a8773ba36b6c4c635466e6,,200027,question,questionText,51153,form,通信,
+69a8773ba36b6c4c635466e7,,200028,question,description,51153,form,"必须采取措施防止未经授权使用起重机。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">《工作设备条例》第19条第(1)款第(10)项</a>",
+69a8773ba36b6c4c635466e7,,200028,question,questionText,51153,form,限制进入控制,
+69a8773ba36b6c4c635466e8,,200029,question,description,51153,form,"起重机操作必须限于经许可的操作员。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">《工作设备条例》第19条第(3)款</a>",
+69a8773ba36b6c4c635466e8,,200029,question,questionText,51153,form,合格操作员,
+69a8773ba36b6c4c635466e9,,200030,question,description,51153,form,"每日检查必须涵盖制动器、限位开关及警告装置。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">《工作设备条例》第19条第(4)款</a>",
+69a8773ba36b6c4c635466e9,,200030,question,questionText,51153,form,每日检查,
+69a8773ba36b6c4c635466ea,,200031,question,questionText,51153,form,<div></div>,

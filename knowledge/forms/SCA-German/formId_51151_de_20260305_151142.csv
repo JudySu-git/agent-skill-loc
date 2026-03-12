@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87739a36b6c4c635466d2,69a87739a36b6c4c635466d1,51151,questionGroup,questionGroupText,51151,form,Construction - Training,
+69a87739a36b6c4c635466ce,,200007,question,description,51151,form,"Initial instruction on safe work execution and health protection must be provided before first site work.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 154(1)</a>",
+69a87739a36b6c4c635466ce,,200007,question,questionText,51151,form,Site Safety Induction (Pre-Work),
+69a87739a36b6c4c635466cf,,200008,question,description,51151,form,"Refresher training must occur annually and when changes, accidents, or near misses create hazards.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 154(7)</a>",
+69a87739a36b6c4c635466cf,,200008,question,questionText,51151,form,Refresher Training (Annual and After Events),
+69a87739a36b6c4c635466d0,,200009,question,questionText,51151,form,<div></div>,

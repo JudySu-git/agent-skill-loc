@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87737a36b6c4c635466b4,69a87737a36b6c4c635466b3,51147,questionGroup,questionGroupText,51147,form,Construction - Lifting Operations,
+69a87736a36b6c4c635466b0,,199985,question,description,51147,form,"Before commencement of lifting operations, lifting equipment must be inspected to ensure it is in safe working condition. Safety devices, including brakes, emergency stops, and warning devices, must be checked before any lifting operation.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 145(6)</a>",
+69a87736a36b6c4c635466b0,,199985,question,questionText,51147,form,Pre-Lift Inspections,
+69a87736a36b6c4c635466b1,,199986,question,description,51147,form,"Loads must be attached so tipping, slipping, or falling cannot occur.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 145(7)</a>",
+69a87736a36b6c4c635466b1,,199986,question,questionText,51147,form,Secured Load Attachment,
+69a87736a36b6c4c635466b2,,199987,question,questionText,51147,form,<div></div>,

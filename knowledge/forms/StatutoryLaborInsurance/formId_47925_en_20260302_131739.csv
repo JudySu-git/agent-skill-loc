@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68dc0f250100004200816b96,68d4551801000014014ce581,47925,questionGroup,description,47925,form,"If your company is required to comply with Philippines Statutory Labor Insurance, you will be asked to provide relevant documents in a subsequent form(s)."
+68dc0f250100004200816b96,68d4551801000014014ce581,47925,questionGroup,questionGroupText,47925,form,Philippines Statutory Labor Insurance Applicability Assessment
+68d459bd01000045004ce58b,,182812,question,description,47925,form,"The  <a href = ""https://www.sss.gov.ph/employees-compensation-program/""target=""_BLANK_"">Employees’ Compensation (EC) Program</a>, administered by the \nEmployees’ Compensation Commission (ECC), is a government-mandated program that provides compensation benefits to employees and their dependents in cases of work-related sickness, injury, disability, or death."
+68d459bd01000045004ce58b,,182812,question,questionText,47925,form,Is your company required to comply with Philippines’ Employees’ Compensation (EC) Program requirement and maintain applicable documentation to show compliance?
+68d459bd01000045004ce58b,,182812,question,responseOption1,47925,form,Yes
+68d459bd01000045004ce58b,,182812,question,responseOption2,47925,form,No
+68d45bf3010000b200db84d5,,182814,question,questionText,47925,form,"Please select from the following reason(s) your company is exempt from compling with <a href=""https://ecc.gov.ph/frequently-asked-questions/""target=""_BLANK_"">Philippines’ Employees’ Compensation (EC) Program</a> requirement."
+68d45bf3010000b200db84d5,,182814,question,responseOption1,47925,form,The company is a sole proprietorship with no other employees. 
+68d45bf3010000b200db84d5,,182814,question,responseOption2,47925,form,Other
+68d4620401000016014ce5b9,,182819,question,questionText,47925,form,"If ""other"", please explain."

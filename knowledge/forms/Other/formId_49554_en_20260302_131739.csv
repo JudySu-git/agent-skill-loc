@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69374d8a0100004500e1e8c0,6937444801000043009e5137,49554,questionGroup,description,49554,form,"If your company is required to comply with Costa Rica Social Security requirements, you will be asked to provide relevant documents in a subsequent form(s)."
+69374d8a0100004500e1e8c0,6937444801000043009e5137,49554,questionGroup,questionGroupText,49554,form,Costa Rica Social Security CCSS Applicability Assessment
+6937444801000060009e5138,,192002,question,description,49554,form,"Costa Rica’s <a href = ""https://www.ccss.sa.cr/patronos""target=""_BLANK_""> Caja Costarricense de Seguro Social (CCSS)</a> mandates that all companies with employees must register and comply with social security requirements, which include providing insurance and paying contributions for their workforce."
+6937444801000060009e5138,,192002,question,questionText,49554,form,Is your company required to comply with Costa Rica's Social Security requirements as regulated by CCSS (Caja Costarricense de Seguro Social) and maintain applicable documentation to show compliance?
+6937444801000060009e5138,,192002,question,responseOption1,49554,form,Yes
+6937444801000060009e5138,,192002,question,responseOption2,49554,form,No
+693744480100003e009e5139,,192003,question,questionText,49554,form,Please upload your company’s valid Certificate of Affiliation to verify compliance with Costa Rica’s Social Security requirements.
+693744480100003e009e513a,,192004,question,questionText,49554,form,"If ""Other"", please explain."
+693744480100003e009e513b,,192005,question,questionText,49554,form,Please select from the following reason(s) your company is exempt from complying with Costa Rica's Social Security requirements.
+693744480100003e009e513b,,192005,question,responseOption1,49554,form,The company is a sole proprietorship with no other employees. 
+693744480100003e009e513b,,192005,question,responseOption2,49554,form,The company does not have any employees in Costa Rica.
+693744480100003e009e513b,,192005,question,responseOption3,49554,form,Other

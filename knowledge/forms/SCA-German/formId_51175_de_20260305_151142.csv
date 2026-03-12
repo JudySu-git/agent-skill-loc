@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774ba36b6c4c635467b1,69a8774ba36b6c4c635467b0,51175,questionGroup,questionGroupText,51175,form,Multi-Employer Coordination,
+69a8774ba36b6c4c635467ac,,200181,question,description,51175,form,"Coordination of hazard prevention among employers at shared workplaces must be ensured. Agreed protective measures for external employees based on workplace hazards must be determined and implemented.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 8(1)(1), 8(2)(3), 8(2)(4)</a>",
+69a8774ba36b6c4c635467ac,,200181,question,questionText,51175,form,Coordinate Hazard Prevention Activities,
+69a8774ba36b6c4c635467ad,,200182,question,description,51175,form,"Mutual information on workplace hazards to employers, employees, and representatives must be ensured.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 8(1)(2), 9(4)</a>",
+69a8774ba36b6c4c635467ad,,200182,question,questionText,51175,form,Share Hazard Information,
+69a8774ba36b6c4c635467ae,,200183,question,description,51175,form,"Hazard information and appropriate instruction for external employees must be provided.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 8(2)(1)</a>",
+69a8774ba36b6c4c635467ae,,200183,question,questionText,51175,form,Training for External Workers,
+69a8774ba36b6c4c635467af,,200184,question,questionText,51175,form,<div></div>,

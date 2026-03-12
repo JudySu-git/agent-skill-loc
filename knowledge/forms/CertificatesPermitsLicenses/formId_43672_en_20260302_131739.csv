@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68a74483010000ca010adfff,671fc07c0100004c00a7487d,43672,questionGroup,questionGroupText,43672,form,Brazil Labor Debt Clearance Certificate (CNDT)
+671fc0bf0100003700c26ccb,,160477,question,questionText,43672,form,Does your company have any workers in Brazil?
+671fc0bf0100003700c26ccb,,160477,question,responseOption1,43672,form,Yes
+671fc0bf0100003700c26ccb,,160477,question,responseOption2,43672,form,No
+671fc0c90100003300a74884,,160478,question,questionText,43672,form,Please explain
+671fc0c90100003300a74884,,160478,question,responseOption1,43672,form,Yes
+671fc0c90100003300a74884,,160478,question,responseOption2,43672,form,No
+671fc0d20100003400c26ccd,,160479,question,questionText,43672,form,Please upload a copy of your Labor Debt Clearance Certificate (CNDT)
+671fc0d20100003400c26ccd,,160479,question,responseOption1,43672,form,Yes
+671fc0d20100003400c26ccd,,160479,question,responseOption2,43672,form,No
+6733e2b00100007900e63ce7,,161773,question,questionText,43672,form,Sign below to confirm the information and/or document provided is correct and updated
+6733e2b00100007900e63ce7,,161773,question,responseOption1,43672,form,Yes
+6733e2b00100007900e63ce7,,161773,question,responseOption2,43672,form,No

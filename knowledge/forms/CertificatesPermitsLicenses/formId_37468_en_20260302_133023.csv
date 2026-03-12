@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+636576df1700003d06cf918d,636576d6180000e204c0cc2a,37468,questionGroup,questionGroupText,37468,form,Scaffolding Contractor Licences – South Australia
+636576d6180000e204c0cc2b,,132432,question,questionText,37468,form,Please upload current Scaffolding Licence
+636576d6180000e204c0cc2c,,132433,question,questionText,37468,form,Licence Number
+636576d6180000e204c0cc2d,,132434,question,questionText,37468,form,Effective Date
+636576d6180000e204c0cc2e,,132435,question,questionText,37468,form,Expiration Date

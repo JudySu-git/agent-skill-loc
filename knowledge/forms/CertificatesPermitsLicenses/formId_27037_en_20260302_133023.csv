@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec5f0100004a00a47371,5d387eee3a0000a7bcaad71b,27037,questionGroup,questionGroupText,27037,form,Texas Contractor License
+5d5c3c9237000082069284ae,5d38823e3a0000a7bcaad71d,27038,questionGroup,questionGroupText,27037,form,Texas Contractor License
+5d388245360000b8284d2e5a,,84935,question,description,27037,form,"<a href = ""https://www.tdlr.texas.gov/LicenseSearch/ ""target=""_BLANK_"">Texas Department of Licensing & Regulation</a>\n"
+5d388245360000b8284d2e5a,,84935,question,questionText,27037,form,Texas Contractor License Number:
+5d388260360000b8284d2e5b,,84936,question,description,27037,form,"<a href = ""https://www.tdlr.texas.gov/LicenseSearch/ ""target=""_BLANK_"">Texas Department of Licensing & Regulation</a>\n"
+5d388260360000b8284d2e5b,,84936,question,questionText,27037,form,Texas Contractor License Classifications:
+5d3882713300002f3c432803,,84937,question,questionText,27037,form,Texas License Expiration Date:
+5d38827f3300002f3c432804,,84938,question,description,27037,form,A URL will make verification quicker if provided
+5d38827f3300002f3c432804,,84938,question,questionText,27037,form,"Upload a copy of your license, and or provide the URL of the license."
+5d38827f3300002f3c432804,,84938,question,responseOption1,27037,form,File Upload
+5d38827f3300002f3c432804,,84938,question,responseOption2,27037,form,URL
+5d3882913300002f3c432805,,84939,question,questionText,27037,form,Please upload a copy of your Texas license:
+5d38829d3300002f3c432806,,84940,question,questionText,27037,form,Please enter the URL of the license:

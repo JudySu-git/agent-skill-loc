@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67eeb9c80100003900ba795b,67ed5a170100003d00a35680,45126,questionGroup,questionGroupText,45126,form,Brazil Regional Engineering Council (CREA) Compliance
+67ed5a17010000ce00a35681,,167189,question,description,45126,form,The Certificate of Registration and Fee Compliance must be issued within one year to be valid.
+67ed5a17010000ce00a35681,,167189,question,questionText,45126,form,Please upload the Certificate of Registration and Fee Compliance (Engineering Council).
+67ed5a17010000ce00a35681,,167189,question,responseOption1,45126,form,Yes
+67ed5a17010000ce00a35681,,167189,question,responseOption2,45126,form,No
+67ed5a17010000ce00a35682,,167190,question,questionText,45126,form,Please enter the expiration date.
+67ed5a17010000ce00a35682,,167190,question,responseOption1,45126,form,Yes
+67ed5a17010000ce00a35682,,167190,question,responseOption2,45126,form,No

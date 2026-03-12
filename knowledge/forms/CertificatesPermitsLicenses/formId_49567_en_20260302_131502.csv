@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69385a750100004500356550,693767b501000052029e54d1,49567,questionGroup,description,49567,form,This requirement is triggered because you indicated your organization maintains a valid Nicaraguan Industrial Hygiene and Safety License in the Nicaragua Hygiene and Safety Applicability Assessment questionnaire.
+69385a750100004500356550,693767b501000052029e54d1,49567,questionGroup,questionGroupText,49567,form,Nicaragua Industrial Hygiene and Safety License
+693767b501000045009e54d2,,192056,question,description,49567,form,"The Industrial Hygiene and Safety License certifies that a company complies with all Nicaraguan legal requirements for occupational hygiene and safety, allowing legal operation. The license can be obtained directly from the <a href=""http://www.mitrab.gob.ni/servicios/hysdeltrabajo2015/higiene-y-seguridad-del-trabajo"" target=""_blank"">Ministry of Labor (MITRAB)</a>.\n<b></b>\n<a href=""http://legislacion.asamblea.gob.ni/normaweb.nsf/($All)/16624DBD812ACC1B06257347006A6C8C?OpenDocument"" target=""_blank"">Law No. 618, General Law on Occupational Health and Safety (Art. 7, 41, 48, 50, 52)</a>\n"
+693767b501000045009e54d2,,192056,question,questionText,49567,form,Please upload your Industrial Hygiene and Safety License.
+693767b501000045009e54d3,,192057,question,questionText,49567,form,Please enter the issue date of your Industrial Hygiene and Safety License.
+693767b501000045009e54d4,,192058,question,description,49567,form,The standard validity period is three years.
+693767b501000045009e54d4,,192058,question,questionText,49567,form,Please enter the expiration date of your Industrial Hygiene and Safety License.

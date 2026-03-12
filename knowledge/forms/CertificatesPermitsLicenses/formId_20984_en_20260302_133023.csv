@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5819429e504943be1a77ede7,5819429e504943be1a77ede7,9811,questionGroup,description,20984,form,Please provide a Certificate of Insurance below.
+5819429e504943be1a77ede7,5819429e504943be1a77ede7,9811,questionGroup,questionGroupText,20984,form,Certificate of Insurance
+611bd199420000f46fc6c0c5,5bff03033100002e09a21fc6,20984,questionGroup,questionGroupText,20984,form,QuickVett - Insurance
+56413e3b50494371de9cfac1,,35047,question,questionText,20984,form,Does your company have insurance for general liability?
+56413e3b50494371de9cfac1,,35047,question,responseOptionNo,20984,form,No
+56413e3b50494371de9cfac1,,35047,question,responseOptionYes,20984,form,Yes
+56413eae504943bb48d17ca4,,35048,question,questionText,20984,form,Does your company have insurance for worker's compensation?
+56413eae504943bb48d17ca4,,35048,question,responseOptionNo,20984,form,No
+56413eae504943bb48d17ca4,,35048,question,responseOptionYes,20984,form,Yes
+56413ec5504943e594176f6e,,35049,question,questionText,20984,form,Does your company have insurance for automobile liability?
+56413ec5504943e594176f6e,,35049,question,responseOptionNo,20984,form,No
+56413ec5504943e594176f6e,,35049,question,responseOptionYes,20984,form,Yes
+56413eed50494384705fe373,,35050,question,questionText,20984,form,Does your company have insurance for professional liability?
+56413eed50494384705fe373,,35050,question,responseOptionNo,20984,form,No
+56413eed50494384705fe373,,35050,question,responseOptionYes,20984,form,Yes
+581942e650494391275c6667,,41651,question,questionText,20984,form,Upload a Certificate of Insurance or other supporting documentation to support proof of coverage:

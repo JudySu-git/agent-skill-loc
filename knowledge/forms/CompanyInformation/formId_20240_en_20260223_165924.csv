@@ -1,0 +1,47 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65298b07190000a561734e85,4fffafca5049433854f345df,2775,questionGroup,questionGroupText,20240,form,Netherlands
+52696b9f504943182d40e06f,52696b9f504943182d40e06f,4668,questionGroup,questionGroupText,20240,form,SBI Code - Netherlands
+501b9ac9504943c60412c1f9,,12753,question,description,20240,form,"Kamer van Koophandel: <a href\t= ""https://www.kvk.nl"" target=""_BLANK_"">Trade Register</a>\n"
+501b9ac9504943c60412c1f9,,12753,question,questionText,20240,form,Is your company registered with the Trade Register of the Chamber of Commerce?
+501b9ac9504943c60412c1f9,,12753,question,responseOptionNo,20240,form,No
+501b9ac9504943c60412c1f9,,12753,question,responseOptionYes,20240,form,Yes
+501b9b29504943cbbbe26493,,12754,question,questionText,20240,form,
+501b9b29504943cbbbe26493,,12754,question,responseOptionNo,20240,form,No
+501b9b29504943cbbbe26493,,12754,question,responseOptionYes,20240,form,Yes
+501b9b6e50494318c394a527,,12755,question,questionText,20240,form,"If Yes, Please provide your 'BTW' number:"
+6529a557190000d861734f6d,5ae9f84a240000960091fbb3,20240,questionGroup,questionGroupText,20240,form,Avetta PQF - Netherlands Company Information
+52696cb6504943b6feb67ea7,,21416,question,linkhttps://www.cbs.nl/nl-nl/onze-diensten/methoden/classificaties/activiteiten/standaard-bedrijfsindeling--sbi--,20240,form,Click here to locate your company's SBI code
+52696cb6504943b6feb67ea7,,21416,question,linkhttps://www.cbs.nl/nl-nl/onze-diensten/methoden/classificaties/activiteiten/standaard-bedrijfsindeling--sbi--,20240,form,Click here to locate your company's SBI code
+52696cb6504943b6feb67ea7,,21416,question,questionText,20240,form,What is your company's primary SBI Code?\r\n \n
+52696cd15049436b7fd60004,,21417,question,linkhttps://www.cbs.nl/nl-nl/onze-diensten/methoden/classificaties/activiteiten/standaard-bedrijfsindeling--sbi--,20240,form,Click here to locate your company's SBI code
+52696cd15049436b7fd60004,,21417,question,linkhttps://www.cbs.nl/nl-nl/onze-diensten/methoden/classificaties/activiteiten/standaard-bedrijfsindeling--sbi--,20240,form,Click here to locate your company's SBI code
+52696cd15049436b7fd60004,,21417,question,questionText,20240,form,What is your company's secondary SBI Code?\r\n \n
+637277da1600001d02bc152a,,133482,question,questionText,20240,form,"If Yes, Please provide your Dutch Chamber of Commerce number."
+637277fe1800000202d55ce9,,133483,question,questionText,20240,form,Please provide your RSIN number:
+6529949e190000d961734f5c,,145835,question,questionText,20240,form,Please indicate your company's business entity / form of business within this country.
+6529949e190000d961734f5c,,145835,question,responseOption1,20240,form,Sole Proprietorship
+6529949e190000d961734f5c,,145835,question,responseOption2,20240,form,General Partnership
+6529949e190000d961734f5c,,145835,question,responseOption3,20240,form,Limited Partnership
+6529949e190000d961734f5c,,145835,question,responseOption4,20240,form,Limited Liability Company
+6529949e190000d961734f5c,,145835,question,responseOption5,20240,form,Corporation
+6529949e190000d961734f5c,,145835,question,responseOption6,20240,form,Cooperative
+6529949e190000d961734f5c,,145835,question,responseOption7,20240,form,Foreign entity with no local fiscal presence
+6529949e190000d961734f5c,,145835,question,responseOption8,20240,form,Other
+65299b9f190000dc61734f5e,,145836,question,questionText,20240,form,Please indicate where your company is established:
+65299b9f190000dc61734f5e,,145836,question,responseOption1,20240,form,Yes
+65299b9f190000dc61734f5e,,145836,question,responseOption2,20240,form,No
+65299bb0190000e97ac84ad8,,145837,question,questionText,20240,form,"If Other, please explain:"
+65299bb0190000e97ac84ad8,,145837,question,responseOption1,20240,form,Yes
+65299bb0190000e97ac84ad8,,145837,question,responseOption2,20240,form,No
+6529a0e7190000db61734f61,,145838,question,questionText,20240,form,Please explain why:       
+6529a0e7190000db61734f61,,145838,question,responseOption1,20240,form,Yes
+6529a0e7190000db61734f61,,145838,question,responseOption2,20240,form,No
+6529a15d190000d97ac84adb,,145839,question,questionText,20240,form,Please explain why:
+6529a15d190000d97ac84adb,,145839,question,responseOption1,20240,form,Yes
+6529a15d190000d97ac84adb,,145839,question,responseOption2,20240,form,No
+6529a2be190000d961734f66,,145840,question,questionText,20240,form,"Does your company have a <a href\t= ""https://business.gov.nl/starting-your-business/registering-your-business/an-rsin-number-for-your-business/""target=""_BLANK_"">RSIN</a> number (Rechtspersonen en Samenwerkingsverbanden Identificatie Nummer)?"
+6529a2be190000d961734f66,,145840,question,responseOption1,20240,form,Yes
+6529a2be190000d961734f66,,145840,question,responseOption2,20240,form,No
+6529a2ec190000db61734f68,,145841,question,questionText,20240,form,Please explain why:
+6529a2ec190000db61734f68,,145841,question,responseOption1,20240,form,Yes
+6529a2ec190000db61734f68,,145841,question,responseOption2,20240,form,No

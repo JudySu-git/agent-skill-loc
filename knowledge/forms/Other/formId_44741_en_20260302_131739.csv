@@ -1,0 +1,36 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67d344c30100002601ac54a4,67d344850100003600ac5481,44741,questionGroup,questionGroupText,44741,form,KaMin Performance Review
+67d344850100005900ac5482,67d344850100005900ac5482,44742,questionGroup,questionGroupText,44741,form,Review - General Information
+67d344850100005900ac5484,67d344850100005900ac5484,44743,questionGroup,questionGroupText,44741,form,Review - Quality
+67d344850100005900ac5486,67d344850100005900ac5486,44744,questionGroup,questionGroupText,44741,form,Review - Cost/Financial/Budget
+67d344850100005900ac5487,67d344850100005900ac5487,44745,questionGroup,questionGroupText,44741,form,Review - Environmental and Sustainability
+67d344850100005900ac5485,67d344850100005900ac5485,44746,questionGroup,questionGroupText,44741,form,Review - Schedule/Time
+67d344850100005900ac5483,67d344850100005900ac5483,44747,questionGroup,questionGroupText,44741,form,Review - Safety
+67d344850100005900ac5488,67d344850100005900ac5488,44748,questionGroup,questionGroupText,44741,form,Review - General Comments
+67d344850100003b00ac5489,,166491,question,questionText,44741,form,Project Name
+67d344850100002601ac548c,,166492,question,questionText,44741,form,Project Completion Date
+67d344850100003b00ac548d,,166493,question,questionText,44741,form,How well did the contractor/supplier complete the project with regards to quality of materials and workmanship?
+67d344850100002601ac548a,,166494,question,questionText,44741,form,Comment - Quality of Materials and Workmanship
+67d344850100003d00ac548b,,166495,question,questionText,44741,form,Comments:
+67d344850100003d00ac5490,,166496,question,questionText,44741,form,How well did the contractor/supplier adhere to all applicable environmental regulations and sustainability practices?
+67d344850100003b00ac5491,,166497,question,questionText,44741,form,Comment - Environment and Sustainability
+67d344850100003d00ac548e,,166498,question,questionText,44741,form,Comments:
+67d344850100002601ac5492,,166499,question,questionText,44741,form,Please provide any additional comments or constructive feedback for this contractor:
+67d344850100003d00ac548f,,166500,question,questionText,44741,form,Attachments (Optional):
+67d344850100004100ac5493,,166501,question,questionText,44741,form,How well did the contractor/supplier complete the project within the agreed-upon time frames and schedules?
+67d344850100003d00ac5495,,166502,question,questionText,44741,form,"If changes in schedule took place, how well did the contractor/supplier effectively communicate the changes?"
+67d344850100004100ac5496,,166503,question,questionText,44741,form,Comment- Project Completion
+67d344850100005b00ac5499,,166504,question,questionText,44741,form,Comment - Changes in Schedule
+67d344850100002601ac5498,,166505,question,questionText,44741,form,Comments:
+67d344850100003a00ac5497,,166506,question,questionText,44741,form,How well did the contractor/supplier adhere to agreed-upon budget and costs?
+67d344850100002601ac549c,,166507,question,questionText,44741,form,Comments:
+67d344850100005900ac5494,,166508,question,questionText,44741,form,Comments:
+67d344850100003b00ac54a0,,166509,question,questionText,44741,form,"If there was an incident, how well did the contractor/supplier resolve the issue in accordance with all applicable guidelines and regulation?"
+67d344850100002601ac54a3,,166510,question,questionText,44741,form,Comment - Cost Changes
+67d344850100005b00ac54a1,,166511,question,questionText,44741,form,"If cost changes were made, how well did the contractor communicate those changes?"
+67d344850100003b00ac549d,,166512,question,questionText,44741,form,Comment - Incident Resolution
+67d344850100005b00ac549b,,166513,question,questionText,44741,form,How well did the contractor/supplier properly use personal protection equipment if required?
+67d344850100005b00ac549a,,166514,question,questionText,44741,form,Comment - Budget and Costs
+67d344850100003b00ac549e,,166515,question,questionText,44741,form,Comment - Use of Personal Protection Equipment
+67d344850100005b00ac549f,,166516,question,questionText,44741,form,How well did the contractor/supplier follow all applicable health and safety guidelines throughout the duration of the project?
+67d344850100003b00ac54a2,,166517,question,questionText,44741,form,Comment - Health and Safety Guidelines

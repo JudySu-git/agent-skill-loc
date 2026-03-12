@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4bd50100002a00ebe532,66300d7e1b00002900b6e6dc,42042,questionGroup,description,42042,form,You are getting this category because you selected a license in the Avetta PQF - Tasmania License.
+66ce4bd50100002a00ebe532,66300d7e1b00002900b6e6dc,42042,questionGroup,questionGroupText,42042,form,Tasmania Contractor License - Fire
+66300d7e1b00006100b6e6de,,153429,question,questionText,42042,form,License Number:
+66300d7e1b00006100b6e6de,,153429,question,responseOption1,42042,form,Yes
+66300d7e1b00006100b6e6de,,153429,question,responseOption2,42042,form,No
+66300d7e1b00003300b6e6dd,,153430,question,questionText,42042,form,Expiration Date:
+66300d7e1b00003300b6e6dd,,153430,question,responseOption1,42042,form,Yes
+66300d7e1b00003300b6e6dd,,153430,question,responseOption2,42042,form,No
+66300d7e1b00002d00b6e6df,,153431,question,questionText,42042,form,Please upload your license:\n
+66300d7e1b00002d00b6e6df,,153431,question,responseOption1,42042,form,Yes
+66300d7e1b00002d00b6e6df,,153431,question,responseOption2,42042,form,No

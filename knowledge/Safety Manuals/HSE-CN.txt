@@ -1,0 +1,413 @@
+[Source: HSE-CN.pdf | Pages: 10]
+
+--- Page 1 ---
+S700 环境、职业健康与安全管理程序
+Environment Occupational Health & Safety
+S700-P
+Management Procedure
+目录 Content
+1. 目的 Purpose
+2. 适用范围 Scope
+3. 定义 Definition
+4. 职责 Responsibility
+5. 工作程序 Process
+6. 其他 Others
+7. 相关文件、附件、记录
+Related Documents, Appendixes and Records
+8. 变更履历 Revision History
+Approved by:
+VP / Zhu Xudong HSE / Lin Yixin
+JN_HSE /Zhu Xiaojun
+BL_EHS /Wu Qiuwei
+文件编号 版号 修 订 负 责 首 版 日 期 最 新 版 日 期 页 共
+File No. Version Responsible Dept. Initial Date Last Revision Date Page Total Pages
+S700-P V1.0 HSE 2023.12.06 2023.12.06 1 10
+
+--- Page 2 ---
+S700 环境、职业健康与安全管理程序
+Environment Occupational Health & Safety
+S700-P
+Management Procedure
+1 目的 Purpose
+为了预防安全事故，消除潜在的职业伤害，保障凯傲中国区所有员工、以及相关方人员的生命安
+全和身体健康，遵循可持续发展的原则，提高全员安全、环保意识，能更好遵守国家安全生产法
+律法规，规范安全生产，保证生产的顺利进行、避免凯傲中国的财产损失和公共形象受损，特制
+定本程序。
+This procedure is formulated to prevent safety accidents, eliminate potential occupational injuries,
+ensure the safety and health of all employees and related parties in KION China, follow the
+principle of sustainable development, improve the safety and environmental awareness of all staff,
+better comply with national safety production laws and regulations, regulate safety production,
+ensure the smooth progress of production, and avoid property damage and public image damage
+to KION China.
+2 适用范围 Scope
+2.1 本程序适用于凯傲中国区各工厂（包括林德（中国），林德（中国）漳州分公司，凯傲宝骊，凯
+傲（济南））及凯傲区域。
+Applicable to KION China Plants (Including Linde (China), Linde (China)Zhangzhou Branch,
+KION Baoli, KION(Jinan)) and KION Regions.
+2.2 本程序覆盖了以下业务过程：
+This program covers the following business processes：
+● 职业健康运行管理 Occupational health operation management
+● 安全运行管理 Safe operation management
+● 环境运行管理 Environmental operation management
+● 事件调查管理 Incident investigation management
+3 定义 Definition
+3.1 HSE部门：负责职业健康、安全、环境的部门或团队。
+HSE Dept.: Responsible for occupational health, safety and environmental department or team.
+3.2 职业病：职业活动中因接触粉尘、放射性物质和其他有毒、有害物质等因素而引起的疾病。
+Occupational disease: The disease results from contacting with dust, radioactive substances and
+other poisonous and harmful substances in work.
+3.3 劳动防护用品（简称 PPE）：是指由公司为员工配备的，使其在作业过程中免遭或者减轻事故伤
+害及职业病危害的个体防护装备。
+Personal Protective Equipment (in short “PPE”): The personal protective equipment provided by
+the company for employees to avoid or reduce accident injury and occupational hazards in the
+process of operation.
+文件编号 版号 修 订 负 责 首 版 日 期 最 新 版 日 期 页 共
+File No. Version Responsible Dept. Initial Date Last Revision Date Page Total Pages
+S700-P V1.0 HSE 2023.12.06 2023.12.06 2 10
+
+--- Page 3 ---
+S700 环境、职业健康与安全管理程序
+Environment Occupational Health & Safety
+S700-P
+Management Procedure
+3.4 相关方：可影响决策或活动、受决策或活动所影响，或者自认为受决策或活动影响的个人或组织；
+如供应商、承包商、客户、所有者、监管者、社会群体及公司周围居民等。
+Interested party: person or organization that can affect, be affected by, or perceive itself to be
+affected by a decision or activity. Such as suppliers, contractors, customers, owners, regulators,
+social groups and residents around the company, etc.
+3.5 特种设备：指涉及生命安全、危险性较大的锅炉、压力容器(含气瓶)、压力管道、电梯、起重机械、
+客运索道、大型游乐设施和场(厂)内专用机动车辆这八大类设备。公司目前使用的特种设备主要有
+但不限于以下内容：叉车、行车、压力容器、电梯。
+Special equipment refers to boilers, pressure vessels (including gas cylinders), pressure
+pipelines, elevators, lifting appliances, passenger ropeways, large amusement devices and
+special motor vehicles in the field (factory), which relate to safety of human lives or have high
+risks. The special equipment currently used by the company mainly include but not limited forklift
+trucks, bridge cranes, pressure vessels and elevators.
+3.6 危险化学品：指具有毒害、腐蚀、爆炸、燃烧、助燃等性质，对人体、设施、环境具有危害的剧
+毒化学品和其他化学品。
+Dangerous chemicals refer to the chemicals with toxicity, causticity, blastability and flammability
+etc and which may do harm to health, facility and environment.
+3.7 MSDS/SDS：化学品安全技术说明书。
+MSDS/SDS: It is Material Safety Data Sheet.
+3.8 污染物：是指进入环境后能够直接或者间接损害于生物生长、发育和繁殖的物质。
+Pollutant is the substance which enters the environment and will directly or indirectly do harm to
+the growth, development and reproduction of biology.
+3.9 应急预案：应对具体的事故类别、重要生产设施、重大危险源和应急保障而制定的计划或方案；
+应急预案应制定明确的救援程序和具体的应急救援措施。
+Emergence plan: a plan or scheme formulated to deal with specific accident categories, important
+production facilities, major hazard sources and emergency support; The emergency plan shall
+formulate clear rescue procedures and specific emergency rescue measures.
+4 职责 Responsibility
+4.1 HSE部门负责安排接触职业危害因素员工的职业健康体检，管理职业健康档案。
+HSE department is responsible for arranging occupational health examinations and managing
+occupational health records for employees who are exposed to occupational hazards.
+4.2 HSE部门负责组织制定各工厂 HSE相关应急预案/现场处置方案，指导凯傲区域制定 HSE相关现
+场处置方案/应急预案，并对应急预案进行策划、宣传、培训。
+HSE Dept.：The HSE department is responsible for organizing the development of HSE related
+emergency plans/on-site disposal plans for each factory, guiding the KION Regions to develop
+HSE related on-site disposal plans/emergency plans, and planning, promoting, and training the
+emergency plans.
+4.3 各部门履行HSE有关法律法规要求，落实属地HSE主体责任，确保部门各项HSE工作有序开展。
+文件编号 版号 修 订 负 责 首 版 日 期 最 新 版 日 期 页 共
+File No. Version Responsible Dept. Initial Date Last Revision Date Page Total Pages
+S700-P V1.0 HSE 2023.12.06 2023.12.06 3 10
+
+--- Page 4 ---
+S700 环境、职业健康与安全管理程序
+Environment Occupational Health & Safety
+S700-P
+Management Procedure
+Each department shall fulfil the requirements of relevant HSE laws and regulations, implement
+the main responsibilities of local HSE, and ensure the orderly development of various HSE work
+in the department.
+4.4 安全小组（员工代表）参与工伤事故调查、安全方案讨论、安全检查、收集安全意见，以及安全
+事务的协商。
+Safety Team (Worker Representation) participate in industrial accident investigation, safety
+scheme discussion, safety inspection, collection of safety opinions, and negotiation of safety
+affairs.
+5 工作程序 Process
+5.1 总则 General
+在KION APAC环境、职业健康安全和能源方针的指导下，KION中国的工厂和地区应遵循三同时
+原则（同时设计、同时施工、同时验收）。当生产工艺、设备设施、新项目和产品类型发生变化
+时，需要对工厂和地区重新进行环境评估和职业健康安全评估。为确保员工、相关方及其社区提
+供环境、健康和安全保护，公司各部门应识别、评估和控制环境、职业健康安全体系中潜在、实
+际的或可能出现的危险情况，采取合理的预防措施，消除危险事故，快速应对紧急情况和事故，
+调查发生的事件，实施纠正和持续改进，确保职业健康安全和环境的有效管理。
+Guided by the implementation of KION APAC's environmental, occupational health and safety,
+and energy policies, the HSE department identifies, evaluates, and controls potential, actual, or
+potential hazardous situations in the environmental, occupational health and safety systems in
+accordance with the occupational disease regulations of the host country/region. When there are
+changes in production processes, equipment and facilities, new projects and product types, etc.,
+all factories and regions of KION China should follow the principle of three simultaneities
+(simultaneous design, construction and simultaneous acceptance), and need to conduct
+environmental assessments and occupational health and safety evaluations again for the
+factories and regions. Identify occupational hazards that may cause occupational diseases in the
+workplace, identify occupational hazard positions, and cooperate with third parties to test and
+evaluate the exposure levels of occupational hazards to ensure that employees, relevant parties,
+and the community provide environmental, health, and safety protection. The All department
+should take reasonable preventive measures to eliminate hazardous accidents, respond quickly
+to emergencies and accidents, investigate incidents and near misses, implement corrections and
+continuous improvement, and ensure the effective operation of occupational health, safety, and
+environmental management.
+5.2 职业健康运行管理 Occupational Health Operation Management
+为确保职业健康运行的有效实施，各工厂及区域应及时发现和防止职业危害因素对作业员工的健
+康影响，控制职业病危害；给接触职业危害因素员工配备合理的劳动防护用品，定期做职业健康
+检查，预防职业病发生；组织对突发生命安全健康事件应急救援培训和管理工作。
+To ensure the effective implementation of occupational health operations, factories and regions
+should promptly detect and prevent the impact of occupational hazards on the health of workers,
+and control occupational disease hazards; Provide employees who are exposed to occupational
+hazards with reasonable PPE, conduct regular occupational health examinations, and prevent
+文件编号 版号 修 订 负 责 首 版 日 期 最 新 版 日 期 页 共
+File No. Version Responsible Dept. Initial Date Last Revision Date Page Total Pages
+S700-P V1.0 HSE 2023.12.06 2023.12.06 4 10
+
+--- Page 5 ---
+S700 环境、职业健康与安全管理程序
+Environment Occupational Health & Safety
+S700-P
+Management Procedure
+the occurrence of occupational diseases; Organize emergency rescue training and management
+for sudden life safety and health incidents.
+5.2.1 HSE部门应向人力资源部门提供职业危害岗位，公司应对接触职业危害因素员工名单和岗位进行
+管理，组织员工上岗前、岗中、调岗、离岗前（包括退休）的健康体检，具体见《HSE-09-O 职
+业病管理规定》。
+The HSE department shall provide occupational hazard positions to the human resources
+department, the company of the Company shall manage the list and positions of employees
+exposed to occupational hazards, and organize physical examination of employees before
+employment, transfer-position and departure (retiree is included). See the <HSE-09-O
+Occupational Disease Management Regulation>.
+5.2.2 为保障员工在作业过程中的安全与身体健康，根据法规政策要求，结合公司工作的具体情况，本
+着安全、经济、实用、合理发放的原则，由公司为员工配备合理的劳动防护用品，并对劳动防护
+用品的实施标准化、制度化管理，具体见《HSE-11-O 劳动防护用品管理规定》。
+To ensure the safety and physical health of employees during the work process, in accordance
+with regulations and policy requirements, combined with the specific situation of the company's
+work, the company provides reasonable PPE for employees. Based on the principles of safety,
+economy, practicality, and reasonable distribution, the company implements standardized and
+institutionalized management of PPE. Specific requirements can be found in <HSE-11-O
+Personal Protective Equipment Management Regulation>.
+5.2.3 为确保员工在公司内发生伤害时或突然生病时能够及时得到紧急救护，各工厂及区域根据情况为
+行政办公楼层、生产车间配备急救药箱，作为紧急救护之用。各部门/区域应配备一名急救员，并
+在员工休息区或宣传栏张贴本部门/区域急救员名单、属地医疗急救电话和公司医疗紧急救护电
+话。如无休息区或宣传栏的部门，则应张贴在急救药箱上。紧急救护管理要求及报告流程具体见
+《HSE-10-O 紧急救护管理规定》。
+Each factory and region shall provide first aid kits for administrative office floors and production
+workshops according to the situation, to ensure that employees can receive timely emergency
+medical attention in case of injury or sudden illness within the company. Each department and
+each area should be equipped with one first aider and post the name-list, the company emergency
+phone code and the local city medical emergency phone code at the workplace, and post in the
+rest area or bulletin board. If some departments do not have rest area or bulletin board, then
+please post on the first-aid kits. The requirements and reporting process for emergency rescue
+management are detailed in <HSE-10-O Emergency First-Aid Management Regulation>.
+5.3 安全运行管理 Safe Operation Management
+公司高度重视安全运营管理，遵循“安全第一，预防为主，综合治理”的安全方针，严格遵守法
+律法规和行业规范，明确安全目标，制定相应的员工职业健康安全、利益相关方的环境健康安
+全、访客安全、特种设备使用安全及消防安全的管理要求，对突发事件做出有效及时的应急响应
+管理及应急预案措施。
+The company attaches great importance to safety operation management, follows the safety
+policy of " Safety First, Precaution Crucial, Treatment Comprehensive ", strictly abides by laws,
+regulations, and industry norms, clarifies safety goals, and formulates corresponding
+文件编号 版号 修 订 负 责 首 版 日 期 最 新 版 日 期 页 共
+File No. Version Responsible Dept. Initial Date Last Revision Date Page Total Pages
+S700-P V1.0 HSE 2023.12.06 2023.12.06 5 10
+
+--- Page 6 ---
+S700 环境、职业健康与安全管理程序
+Environment Occupational Health & Safety
+S700-P
+Management Procedure
+management requirements for employee occupational health and safety, environmental health
+and safety of stakeholders, visitor safety, safety of special equipment use, and fire safety, Make
+effective and timely emergency response management and contingency plans for emergencies.
+5.3.1 各部门强化区域安全责任制，树立属地安全管理的意识，监督区域人员安全要求的落实，认真贯
+彻执行国家有关安全生产法律法规，严格遵守安全技术操作规程和各项安全生产规章制度。公司
+对职业病危害预防、消防安全、特种设备安全、化学品安全等管理实施控制，保障员工的生命安
+全和身体健康，具体见《HSE-17-O 职业健康安全管理规定》。
+Each department shall strengthen the regional safety responsibility system, establish awareness
+of local safety management, and supervise the implementation of safety requirements for regional
+personnel, conscientiously implement relevant national safety production laws and regulations,
+and strictly abide by safety technology operating procedures and various safety production rules
+and regulations. The company should implement control measures for occupational disease
+hazard prevention, special equipment safety, chemical safety, and other management measures
+to ensure the life safety and physical health of employees. Please refer to the <HSE-17-O
+Occupational Health & Safety Management Regulation >.
+5.3.2 公司应利用邮件、电话沟通、网络媒体或协议等方式积极宣传公司的职业健康安全管理方针，让
+相关方了解公司环境安全政策中和相关方有关的目标及相关改善方案，以利于相关方能更好地配
+合公司做好各种环境改善活动。涉及相关方的环境职业健康安全管理活动及要求见《HSE-14-O
+相关方的环保健康和安全管理规定》、《HSE-15-O 承包商的环保健康和安全管理规定》。
+Reception department should convey the requirement of environment, occupational health &
+safety to those personnel in time, and ask them to obey the requirement. Environmental and
+occupational health and safety management activities and requirements involving relevant parties
+can be found in <HSE-14-O Interested Party Environment Health & Safety Management
+Regulation> and <HSE-15-O Environment, Health & Safety Management Regulation for
+Contractors>.
+5.3.3 任何相关方在没有授权或得到相应部门的允许之前，不得进入工厂生产区域。接待部门应将公司
+环境健康安全要求及时传达与相关方人员要求其遵守，严格按《HSE-16-O 访客车间参观安全管
+理规定》要求执行。
+No relevant party shall enter the production area of the factory without authorization or permission
+from the corresponding department. The reception department should promptly communicate the
+company's environmental health and safety requirements to relevant personnel to comply with
+them, and strictly follow the requirements of the <HSE-16-O Workshop Visit Safety Management
+Regulation>.
+5.3.4 所有员工入岗前必须做岗前安全培训，公司应组织宣传、贯彻特种设备有关的法律法规、安全技
+术规范及相关标准，制定特种设备使用安全管理制度，督促落实特种设备使用安全责任制，具体
+要求见《HSE-28-O 特种设备使用安全管理规定》，特种设备操作人员必须持证上岗。高风险作
+业（包括高温明火作业、高处作业、有限空间作业、设备安装作业和临时用电等），必须经归口
+管理部门和HSE部门审批，确认安全防护措施落实到位后，方可作业。
+All employees must undergo pre job safety training before entering the workforce. The company
+should organize the promotion and implementation of laws and regulations, safety technical
+specifications, and related standards related to special equipment, develop a safety management
+文件编号 版号 修 订 负 责 首 版 日 期 最 新 版 日 期 页 共
+File No. Version Responsible Dept. Initial Date Last Revision Date Page Total Pages
+S700-P V1.0 HSE 2023.12.06 2023.12.06 6 10
+
+--- Page 7 ---
+S700 环境、职业健康与安全管理程序
+Environment Occupational Health & Safety
+S700-P
+Management Procedure
+system for the use of special equipment, and supervise the implementation of the safety
+responsibility system for the use of special equipment. Specific requirements can be found in the
+<HSE-28-O Special Equipment Use Safety Management Regulation>. Special equipment
+operators must hold a certificate to work. High risk operations (including high-temperature open
+flame operations, high-altitude operations, confined space operations, equipment installation
+operations, and temporary electricity use, etc.) must be approved by the centralized management
+department and HSE department, and safety protection measures must be confirmed to be in
+place before operations can be carried out.
+5.3.5 各工厂应按要求配备相应的消防设施，遵守消防法律、法规和规章制度，落实预防为主、防消结
+合的消防工作方针，履行消防安全责任，确保消防安全。消防设施所在部位的部门、车间、岗位
+应对消防设施器材实施日常管理，发现问题及时报修归口管理部门。
+Each factory should be equipped with corresponding fire protection facilities as required, comply
+with fire protection laws, regulations, and rules, implement the fire protection work policy of
+prevention first and combining prevention and fire prevention, fulfill fire safety responsibilities, and
+ensure fire safety. The departments, workshops, and positions where fire protection facilities are
+located should implement daily management of fire protection equipment and promptly report any
+problems to the centralized management department.
+5.3.6 为了预防和控制潜在的事故或紧急情况发生时，如何做出应急预警和响应，最大限度地减少或消
+除可能产生的事故损失，公司须建立应急准备和响应管理制度，各工厂/区域应制订年度HSE应急
+预案演习计划，按计划进行应急预案演习（包括进行桌面推演），所有人员必须积极参加掌握必
+要的消防知识和灭火技能。具体实施要求见《HSE-18-O 应急准备和响应管理规定》。
+In order to prevent and control potential accidents or emergencies, how to make emergency
+warnings and responses, minimize or eliminate possible accident losses, the company must
+establish an emergency preparedness and response management system. Each factory/region
+should develop an annual HSE emergency plan exercise plan and conduct emergency plan
+exercises (including desktop exercises) according to the plan, all personnel must actively
+participate in mastering necessary firefighting knowledge and skills. The specific implementation
+requirements can be found in the <HSE-18-O Emergency Preparation Response Management
+Regulation>.
+5.4 环境运行管理Environmental Operation Management
+5.4.1 公司为实现发展统筹规划，保障公司安全生产和所有员工及周围社区群众的身体健康和生命安
+全，必须认真贯彻执行国家、地区环境方面的方针、政策和法令，在生产建设过程中应最大限度
+地利用各种资源和能源，避免环境污染，对化学品、危废品实施有效控制和管理。
+The company should coordinate and plan to ensure the safety of production and the physical
+health and safety of all employees and surrounding communities. It must conscientiously
+implement national and regional environmental policies, laws and regulations, and make
+maximum use of various resources and energy in the production and construction process to
+avoid environmental pollution. Effective control and management of hazardous chemicals and
+waste should be implemented.
+5.4.2 公司应对化学品采购、贮存、使用及报废实施控制，以确保职业健康安全，防止污染或工伤事故
+的发生，具体要求见《HSE-12-O 化学品贮存使用管理规定》。若发生异常情况的处理，详见各
+文件编号 版号 修 订 负 责 首 版 日 期 最 新 版 日 期 页 共
+File No. Version Responsible Dept. Initial Date Last Revision Date Page Total Pages
+S700-P V1.0 HSE 2023.12.06 2023.12.06 7 10
+
+--- Page 8 ---
+S700 环境、职业健康与安全管理程序
+Environment Occupational Health & Safety
+S700-P
+Management Procedure
+化学品MSDS、《HSE-18-O 应急准备和响应管理规定》，并启动各工厂化学品泄露的应急预
+案。对使用后的残留化学品不得随意销毁或废弃，应随容器交还仓库或存放于指定地点由HSE部
+门统一处理，处理按《HSE-13-O 污染物及噪声排放管理规定》执行。
+To ensure occupational health and safety, prevent accidents such as pollution or injury to
+personnel, the company should implement control measures for the procurement, storage, use,
+and disposal of chemicals. Specific requirements can be found in the <HSE-12-O Chemical
+Storage and Using Management Regulation>. If abnormal situations occur, please refer to the
+MSDS for each chemical and the <HSE-18-O Emergency Preparation Response Management
+Regulation>, and initiate emergency plans for chemical leakage in each factory. Residual
+chemicals after use shall not be arbitrarily destroyed or discarded. They shall be returned to the
+warehouse with the container or stored in a designated location for unified disposal by the HSE
+department. The disposal shall be carried out in accordance with the <HSE-13-O Pollutant and
+Noise Emission Management Regulation>.
+5.4.3 应加强公司污染物排放控制，减少对环境及人员健康的不利影响，对凯傲中国各工厂及凯傲区域
+的废气、固体废物、噪声、废水排放等实施有效管理，具体要求见《HSE-13-O 污染物及噪声排
+放管理规定》。
+The company should strengthen pollutant emission control, reduce adverse effects on the
+environment and personnel health, and implement effective management of exhaust gas, solid
+waste, noise, and wastewater emissions from various factories in the KION China Plants and
+KION Regions. Specific requirements can be found in the <HSE-13-O Pollutant and Noise
+Emission Management Regulation>.
+5.5 事件调查管理 Incident Investigation Management
+5.5.1 一切事故都要立即向所属部门主管和HSE部门报告。HSE部门协助各部门/区域开展对已发生的事
+件及时进行报告、调查、分析和处理，防止类似事故、事件的重复发生，并最大限度地降低事故
+可能造成的损失。事件调查和处理的实施要求见《HSE-23-O 事件调查和处理管理规定》。
+All injury accidents must be immediately reported to the department head and HSE
+department. The HSE department assists each department/region in promptly reporting,
+investigating, analysing, and handling incidents that have occurred, to prevent similar accidents
+and incidents from recurring and minimize potential losses caused by accidents. The
+implementation requirements for incident investigation and handling can be found in the <HSE-
+23-O Incidents Investigation Management Regulation>.
+5.6 绩效管理 Performance Management
+5.6.1 公司为避免发生各类安全事件，确保员工职业健康安全，制定相关的HSE项目指标，并实施周
+期监测，以及绩效管理，并对监测和测量的不合格数据及时采取纠正预防措施，具体见《HSE-
+27-O 环境、职业健康安全及能源绩效监测和测量管理规定》。
+To avoid various safety incidents and ensure the occupational health and safety of employees,
+the company has developed relevant HSE project indicators, implemented periodic monitoring,
+and performance management. Corrective and preventive measures have been taken in a timely
+manner for unqualified data monitored and measured. Please refer to the <HSE-27-O HSE & En
+Performance Monitoring and Measuring Management Regulation>.
+文件编号 版号 修 订 负 责 首 版 日 期 最 新 版 日 期 页 共
+File No. Version Responsible Dept. Initial Date Last Revision Date Page Total Pages
+S700-P V1.0 HSE 2023.12.06 2023.12.06 8 10
+
+--- Page 9 ---
+S700 环境、职业健康与安全管理程序
+Environment Occupational Health & Safety
+S700-P
+Management Procedure
+5.6.2 各工厂及区域按集团和属地的实况执行相关目标的考核要求。
+Each factory and region shall meet the assessment requirements for implementing relevant goals
+based on the actual situation of the group and its territory.
+6 其它 Others
+6.1 文件属类：本文件归属程序文件、体系文件、二级保密。
+Document Type: Procedure Document, System Document, Security Level 2.
+6.2 生效：本文件将在公司管理层签字后生效，旧有版本同时失效。
+Effectiveness: The procedure will take effect with top management signature and replace the old
+version.
+7 相关文件、附件、记录 Related Documents Appendix and Records
+7.1 相关文件 Related Documents
+7.1.1 《HSE-09-O 职业病管理规定》
+< HSE-09-O Occupational Disease Management Regulation>
+7.1.2 《HSE-12-O 化学品贮存使用管理规定》
+< HSE-12-O Chemical Storage Using Management Regulation>
+7.1.3 《HSE-13-O 污染物及噪声排放管理规定》
+< HSE-13-O Pollutants and Noise Emissions Management Regulation>
+7.1.4 《HSE-16-O 访客车间参观安全管理规定》
+< HSE-16-O Workshop Visit Safety Management Regulation >
+7.1.5 《HSE-17-O 职业健康安全管理规定》
+<HSE-17-O Occupational Health & Safety Management Regulation >
+7.1.6 《HSE-18-O 应急准备和响应管理规定 》
+< HSE-18-O Emergence Preparation & Response Management Regulation>
+7.1.7 《HSE-23-O 事件调查和处理管理规定》
+< HSE-23-O Incidents Investigation Management Regulation>
+7.1.8 《HSE-27-O 环境、职业健康安全及能源绩效监测和测量管理规定》
+<HSE-27-O HSE & En Performance Monitoring and Measuring Management Regulation>
+7.1.9 《HSE-28-O 特种设备使用安全管理规定》
+<HSE-28-O Special Equipment Use Safety Management Regulation>
+7.2 相关附件（无） Related Appendixes（None）
+7.3 相关表单（无） Related Records Form（None）
+文件编号 版号 修 订 负 责 首 版 日 期 最 新 版 日 期 页 共
+File No. Version Responsible Dept. Initial Date Last Revision Date Page Total Pages
+S700-P V1.0 HSE 2023.12.06 2023.12.06 9 10
+
+--- Page 10 ---
+S700 环境、职业健康与安全管理程序
+Environment Occupational Health & Safety
+S700-P
+Management Procedure
+8 变更履历 Revision History
+版本号 变更日期 编制人 修订说明 备注
+Ver. No. Date Editor Revision Description Comment
+V1.0 2023.12.06 Wang Xiaozhou 首版 Initial Issue.
+文件编号 版号 修 订 负 责 首 版 日 期 最 新 版 日 期 页 共
+File No. Version Responsible Dept. Initial Date Last Revision Date Page Total Pages
+S700-P V1.0 HSE 2023.12.06 2023.12.06 10 10

@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec600100002d00a4739b,5d30cb87350000434197b9e7,26882,questionGroup,questionGroupText,26882,form,Michigan Contractor License
+5d5598a23800008972800d45,5d30cbb5350000434197b9e9,26883,questionGroup,questionGroupText,26882,form,Michigan Contractor License
+5d30cbbd350000434197b9ec,,84391,question,description,26882,form,"<a href = ""https://aca-prod.accela.com/LARA/GeneralProperty/PropertyLookUp.aspx?isLicensee=Y&TabName=APO""target=""_BLANK_"">Michigan Department of Licensing and Regulatory Affairs</a>\n\n\n"
+5d30cbbd350000434197b9ec,,84391,question,questionText,26882,form,Michigan Contractor License Number:\n
+5d30cbde350000434197b9ee,,84392,question,description,26882,form,"<a href = ""https://aca-prod.accela.com/LARA/GeneralProperty/PropertyLookUp.aspx?isLicensee=Y&TabName=APO""target=""_BLANK_"">Michigan Department of Licensing and Regulatory Affairs</a>\n\n\n"
+5d30cbde350000434197b9ee,,84392,question,questionText,26882,form,Michigan Contractor License Classifications:\n
+5d30cbe53500004e4d88f009,,84393,question,questionText,26882,form,Michigan License Expiration Date:\n
+5d30ce9d3500004e4d88f00b,,84394,question,description,26882,form,A URL will make verification quicker if provided\n
+5d30ce9d3500004e4d88f00b,,84394,question,questionText,26882,form,"Upload a copy of your license, and or provide the URL of the license."
+5d30ce9d3500004e4d88f00b,,84394,question,responseOption1,26882,form,File Upload
+5d30ce9d3500004e4d88f00b,,84394,question,responseOption2,26882,form,URL
+5d30cfa23500004e4d88f00d,,84395,question,questionText,26882,form,Please upload a copy of your Michigan license:\n
+5d30cfb53500004e4d88f00f,,84396,question,questionText,26882,form,Please enter the URL of the license:\n

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce48310100003200ebe504,662fe6341b00002d00b6e5a7,42013,questionGroup,description,42013,form,You are getting this category because you selected a license in the Avetta PQF - Northern Territory License.
+66ce48310100003200ebe504,662fe6341b00002d00b6e5a7,42013,questionGroup,questionGroupText,42013,form,Northern Territory Contractor License - Plumbing
+662fe6341b00005d00b6e5a8,,153345,question,questionText,42013,form,License Number:
+662fe6341b00005d00b6e5a8,,153345,question,responseOption1,42013,form,Yes
+662fe6341b00005d00b6e5a8,,153345,question,responseOption2,42013,form,No
+662fe6341b00003100b6e5aa,,153346,question,questionText,42013,form,Please upload your license:\n
+662fe6341b00003100b6e5aa,,153346,question,responseOption1,42013,form,Yes
+662fe6341b00003100b6e5aa,,153346,question,responseOption2,42013,form,No
+662fe6341b00002e00b6e5a9,,153347,question,questionText,42013,form,Expiration Date:
+662fe6341b00002e00b6e5a9,,153347,question,responseOption1,42013,form,Yes
+662fe6341b00002e00b6e5a9,,153347,question,responseOption2,42013,form,No

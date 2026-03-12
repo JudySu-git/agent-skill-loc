@@ -1,0 +1,42 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+656903d81a00002300c89838,6568fb501a00005500c897e5,40784,questionGroup,questionGroupText,40784,form,Avetta PQF - South Sudan Company Information
+6568fc231a00005500c897f2,6568fc231a00005500c897f1,40785,questionGroup,questionGroupText,40784,form,South Sudan
+6568fc561a00002900c897f8,,147465,question,questionText,40784,form,Please indicate your company's business entity / form of business within this country.
+6568fc561a00002900c897f8,,147465,question,responseOption1,40784,form,Sole Proprietorship
+6568fc561a00002900c897f8,,147465,question,responseOption2,40784,form,Business Corporation
+6568fc561a00002900c897f8,,147465,question,responseOption3,40784,form,Limited Liability Company
+6568fc561a00002900c897f8,,147465,question,responseOption4,40784,form,General Partnership
+6568fc561a00002900c897f8,,147465,question,responseOption5,40784,form,Cooperative
+6568fc561a00002900c897f8,,147465,question,responseOption6,40784,form,Branch Office
+6568fc561a00002900c897f8,,147465,question,responseOption7,40784,form,Foreign entity with no local fiscal presence
+6568fc561a00002900c897f8,,147465,question,responseOption8,40784,form,Other
+6568fcfd1a00002200c897fb,,147466,question,questionText,40784,form,Please indicate where your company is established:
+6568fcfd1a00002200c897fb,,147466,question,responseOption1,40784,form,Yes
+6568fcfd1a00002200c897fb,,147466,question,responseOption2,40784,form,No
+6568fd2f1a00002300c897ff,,147467,question,questionText,40784,form,"If Other, please explain:"
+6568fd2f1a00002300c897ff,,147467,question,responseOption1,40784,form,Yes
+6568fd2f1a00002300c897ff,,147467,question,responseOption2,40784,form,No
+6568fe4a1a00005100c89803,,147468,question,questionText,40784,form,"Is your company registered with the <a href=""https://business.eservices.gov.ss/"" target=""_BLANK"">Business Registration Services</a> in South Sudan?"
+6568fe4a1a00005100c89803,,147468,question,responseOption1,40784,form,Yes
+6568fe4a1a00005100c89803,,147468,question,responseOption2,40784,form,No
+6568fed31a00005400c89806,,147469,question,questionText,40784,form,Please provide your company's registration number issued by the Business Registration Services.
+6568fed31a00005400c89806,,147469,question,responseOption1,40784,form,Yes
+6568fed31a00005400c89806,,147469,question,responseOption2,40784,form,No
+6568ff001a00005100c89809,,147470,question,questionText,40784,form, Please explain why:
+6568ff001a00005100c89809,,147470,question,responseOption1,40784,form,Yes
+6568ff001a00005100c89809,,147470,question,responseOption2,40784,form,No
+6568ff1f1a00005100c8980c,,147471,question,questionText,40784,form," Is your company registered with the <a href=""https://nra.gov.ss/business/tin-registration-for-business/1/how-a-business-can-register-for-tax"" target=""_BLANK"">National Revenue Authority (NRA)</a>?"
+6568ff1f1a00005100c8980c,,147471,question,responseOption1,40784,form,Yes
+6568ff1f1a00005100c8980c,,147471,question,responseOption2,40784,form,No
+6568ff611a00002900c8980f,,147472,question,questionText,40784,form,
+6568ff611a00002900c8980f,,147472,question,responseOption1,40784,form,Yes
+6568ff611a00002900c8980f,,147472,question,responseOption2,40784,form,No
+6568ffa71a00005100c89812,,147473,question,questionText,40784,form,Please explain why:
+6568ffa71a00005100c89812,,147473,question,responseOption1,40784,form,Yes
+6568ffa71a00005100c89812,,147473,question,responseOption2,40784,form,No
+6569001a1a00002900c89815,,147474,question,questionText,40784,form,"Please provide your primary Industry Classification Code (<a href=""https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf"" target=""_BLANK"">ISIC</a>)."
+6569001a1a00002900c89815,,147474,question,responseOption1,40784,form,Yes
+6569001a1a00002900c89815,,147474,question,responseOption2,40784,form,No
+656900891a00002a00c89819,,147475,question,questionText,40784,form,"Please provide your primary Industry Classification Code (<a href=""https://unstats.un.org/unsd/publication/seriesm/seriesm_4rev4e.pdf"" target=""_BLANK"">ISIC</a>)."
+656900891a00002a00c89819,,147475,question,responseOption1,40784,form,Yes
+656900891a00002a00c89819,,147475,question,responseOption2,40784,form,No

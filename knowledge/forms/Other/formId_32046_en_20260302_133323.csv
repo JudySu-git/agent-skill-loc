@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6807be5d01000040001939b4,5fc69caf2a0000124bcb5fcf,32046,questionGroup,questionGroupText,32046,form,Brazil Technical Report on Environmental Conditions (LTCAT)
+672900730100003300b443f7,5fc69cc82a0000124bcb5fd7,32047,questionGroup,questionGroupText,32046,form,Brazil Technical Report on Environmental Conditions (LTCAT)
+5fc69cd22a0000124bcb5fde,,104787,question,questionText,32046,form,Please upload the Technical Report on Environmental Conditions (LTCAT).\n
+5fc69ceb2a0000124bcb5fe7,,104788,question,questionText,32046,form,Sign below to confirm  the uploaded document is correct and updated.\n

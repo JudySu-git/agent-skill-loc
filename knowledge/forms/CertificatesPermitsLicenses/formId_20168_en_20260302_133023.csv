@@ -1,0 +1,19 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+605269e7440000cbc363025e,4fc7822650494366956cd6ae,2707,questionGroup,questionGroupText,20168,form,Policy Information
+5c140c193f0000263f7bd9e6,4fc7822d504943dc7027ae37,2708,questionGroup,questionGroupText,20168,form,Policy Limits
+4fc78d625049439e373e076f,,12156,question,questionText,20168,form,Policy Effective Date
+4fc78d6f5049433b7e5f6224,,12157,question,questionText,20168,form,Policy Expiration Date
+4fc78dcb5049432a6f9605d5,,12158,question,questionText,20168,form,Insurance Carrier
+4fcf75cf504943efcf55ccd7,,12258,question,questionText,20168,form,Combined Single Limit (Each accident)
+4fcf75d9504943ad927273a1,,12259,question,questionText,20168,form,Bodily Injury (Per person)
+4fcf75e3504943238c3a6164,,12260,question,questionText,20168,form,Bodily Injury (Per accident)
+4fcf75f2504943a942af29c7,,12261,question,questionText,20168,form,Property Damage (Per accident)
+4fcf75fb504943700812ad56,,12262,question,questionText,20168,form,Aircraft Aggregate
+606f2f494400004cc134f2eb,5ac3adf82b0000f0006a2a75,20168,questionGroup,questionGroupText,20168,form,Aircraft Liability
+5ad149f92200001700a5a9aa,,70093,question,description,20168,form,Please upload Aircraft Liability Certificate
+5ad149f92200001700a5a9aa,,70093,question,questionText,20168,form,Please upload Aircraft Liability Certificate
+605269e6440000cbc363025d,,107588,question,description,20168,form,Used to provide instructions from Client
+605269e6440000cbc363025d,,107588,question,questionText,20168,form,Comments
+605269fc440000cbc3630288,,107589,question,description,20168,form,Date the instructions from Client expire
+605269fc440000cbc3630288,,107589,question,questionText,20168,form,VARIANCE Expiration Date
+62f53f2982eb52eab3c18f9f,,130516,question,questionText,20168,form,Currency used in Certificate of Insurance (COI)

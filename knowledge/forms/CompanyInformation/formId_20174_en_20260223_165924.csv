@@ -1,0 +1,51 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+658078011a0000aa05499d81,50f043175049436c0e81fa78,3307,questionGroup,questionGroupText,20174,form,Australia
+50f05d6a504943a40d32fcad,,15139,question,description,20174,form,"**The below field requires 11 digits to be entered. If you receive a red error message below the field, please review your ABN entered to ensure the correct amount of digits have been entered.**\n\n"
+50f05d6a504943a40d32fcad,,15139,question,questionText,20174,form,What is your company's Australian Business Number (ABN)?
+50f05f53504943e2c6f4e9c3,,15140,question,description,20174,form,"The below field requires 9 digits to be entered. If your ACN starts with leading zeroes please ensure these are entered. Prior to submission, please review your ACN entered to ensure the correct amount of digits have been entered."
+50f05f53504943e2c6f4e9c3,,15140,question,questionText,20174,form,What is your company's Australian Company Number (ACN)?
+519dce3150494398cb4337f2,,17949,question,description,20174,form,
+519dce3150494398cb4337f2,,17949,question,questionText,20174,form,Does your company have an Australian Business Number (ABN) and therefore registered with the Australian Business Register (ABR)?
+519dce3150494398cb4337f2,,17949,question,responseOptionNo,20174,form,No
+519dce3150494398cb4337f2,,17949,question,responseOptionYes,20174,form,Yes
+519dcfc250494365b632e748,,17950,question,description,20174,form,
+519dcfc250494365b632e748,,17950,question,questionText,20174,form,Does your company have an Australian Company Number (ACN)?
+519dcfc250494365b632e748,,17950,question,responseOptionNo,20174,form,No
+519dcfc250494365b632e748,,17950,question,responseOptionYes,20174,form,Yes
+6580825318000096066e620e,5ac460c122000047017e55b7,20174,questionGroup,questionGroupText,20174,form,Avetta PQF - Australia Company Information
+63f563351600006b001b6fe1,,138541,question,description,20174,form,https://abr.business.gov.au/
+63f563351600006b001b6fe1,,138541,question,questionText,20174,form,Does the company's name in Connect match the name on the ABN website?
+63f563351600006b001b6fe1,,138541,question,responseOption1,20174,form,Yes
+63f563351600006b001b6fe1,,138541,question,responseOption2,20174,form,No
+63f5637016000066001b6fe7,,138543,question,questionText,20174,form,What is the company's ABN status?
+63f5637016000066001b6fe7,,138543,question,responseOption1,20174,form,Active
+63f5637016000066001b6fe7,,138543,question,responseOption2,20174,form,Cancelled
+65807800180000be066e61a3,,148439,question,questionText,20174,form,Please indicate your company's business entity / form of business within this country.
+65807800180000be066e61a3,,148439,question,responseOption1,20174,form,Sole Proprietorship
+65807800180000be066e61a3,,148439,question,responseOption10,20174,form,Other
+65807800180000be066e61a3,,148439,question,responseOption2,20174,form,Partnership
+65807800180000be066e61a3,,148439,question,responseOption3,20174,form,Limited liability partnership (LLP)
+65807800180000be066e61a3,,148439,question,responseOption4,20174,form,Proprietary limited company (Pty Ltd)
+65807800180000be066e61a3,,148439,question,responseOption5,20174,form,Public company limited by shares (Ltd)
+65807800180000be066e61a3,,148439,question,responseOption6,20174,form,No liability company (NLC)
+65807800180000be066e61a3,,148439,question,responseOption7,20174,form,Cooperative
+65807800180000be066e61a3,,148439,question,responseOption8,20174,form,Branch Office
+65807800180000be066e61a3,,148439,question,responseOption9,20174,form,Foreign entity with no local fiscal presence
+65807867180000e2066e61e3,,148441,question,questionText,20174,form,Please indicate where your company is established:
+65807867180000e2066e61e3,,148441,question,responseOption1,20174,form,Yes
+65807867180000e2066e61e3,,148441,question,responseOption2,20174,form,No
+6580787b180000a9066e61e6,,148442,question,questionText,20174,form,"If Other, please explain:"
+6580787b180000a9066e61e6,,148442,question,responseOption1,20174,form,Yes
+6580787b180000a9066e61e6,,148442,question,responseOption2,20174,form,No
+658078f51a0000aa05499db2,,148443,question,questionText,20174,form,Please explain why:   
+658078f51a0000aa05499db2,,148443,question,responseOption1,20174,form,Yes
+658078f51a0000aa05499db2,,148443,question,responseOption2,20174,form,No
+65807972180000be066e61ea,,148444,question,questionText,20174,form,Please explain why:
+65807972180000be066e61ea,,148444,question,responseOption1,20174,form,Yes
+65807972180000be066e61ea,,148444,question,responseOption2,20174,form,No
+65807a2c1a0000aa05499db7,,148445,question,questionText,20174,form,
+65807a2c1a0000aa05499db7,,148445,question,responseOption1,20174,form,Yes
+65807a2c1a0000aa05499db7,,148445,question,responseOption2,20174,form,No
+65807b5b180000b6066e6205,,148446,question,questionText,20174,form,
+65807b5b180000b6066e6205,,148446,question,responseOption1,20174,form,Yes
+65807b5b180000b6066e6205,,148446,question,responseOption2,20174,form,No

@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec620100003100a473bc,5d2cfd7e39000008998bacd3,26837,questionGroup,questionGroupText,26837,form,Colorado Contractor License
+5d558b423800008972800d07,5d2cfd853500005b1432ad09,26838,questionGroup,questionGroupText,26837,form,Colorado Contractor License
+5d2d060c39000008998bd4db,,84281,question,description,26837,form,"<a href = ""https://apps2.colorado.gov/DORA/licensing/Lookup/LicenseLookup.aspx""target=""_BLANK_"">Colorado Department of Regulatory Agencies</a>\n"
+5d2d060c39000008998bd4db,,84281,question,questionText,26837,form,Colorado Contractor License Number:\n
+5d2d06233400004e4d9e09ac,,84282,question,description,26837,form,"<a href = ""https://apps2.colorado.gov/DORA/licensing/Lookup/LicenseLookup.aspx""target=""_BLANK_"">Colorado Department of Regulatory Agencies</a>\n"
+5d2d06233400004e4d9e09ac,,84282,question,questionText,26837,form,Colorado Contractor License Classifications:\n
+5d2d06303400004e4d9e09d5,,84283,question,questionText,26837,form,Colorado License Expiration Date:\n
+5d2d063d3400004e4d9e09e8,,84284,question,questionText,26837,form,Please upload a copy of your Colorado license:\n
+5d2d064839000008998bd5bf,,84285,question,questionText,26837,form,Please enter the URL of the license:
+5d2de8dd370000be9420e4e2,,84304,question,description,26837,form,A URL will make verification quicker if provided\n
+5d2de8dd370000be9420e4e2,,84304,question,questionText,26837,form,"Upload a copy of your license, and or provide the URL of the license."
+5d2de8dd370000be9420e4e2,,84304,question,responseOption1,26837,form,File Upload
+5d2de8dd370000be9420e4e2,,84304,question,responseOption2,26837,form,URL

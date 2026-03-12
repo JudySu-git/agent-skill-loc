@@ -1,0 +1,21 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6286ac742f000058c510f63f,6286ac742f000058c510f63f,36461,questionGroup,questionGroupText,36462,form,Bahrain
+6286ad192f000058c510f651,6286ac742f000058c510f63e,36462,questionGroup,questionGroupText,36462,form,Avetta Bahrain Annual Update
+6286ac742f000058c510f640,,127738,question,questionText,36462,form,What is the total number of employees for the given year? Approximate if necessary.
+6286ac742f000058c510f641,,127739,question,questionText,36462,form,"Did your company record/report any workplace accidents, occupational diseases, or specified dangerous occurrences (near misses)?"
+6286ac742f000058c510f641,,127739,question,responseOptionNo,36462,form,No
+6286ac742f000058c510f641,,127739,question,responseOptionYes,36462,form,Yes
+6286ac742f000058c510f642,,127740,question,description,36462,form,Corporate hours are defined as all hours your employees have worked within the country this Annual Update applies to.
+6286ac742f000058c510f642,,127740,question,questionText,36462,form,What is the total number of corporate hours?
+6286ac742f000058c510f643,,127741,question,questionText,36462,form,How many fatalities were there for the given year?
+6286ac742f000058c510f644,,127742,question,description,36462,form,"Examples of major injuries include broken bones, amputations, unconsciousness and death. They also include injuries that would result in not being able to attend work for more than 3 consecutive days."
+6286ac742f000058c510f644,,127742,question,questionText,36462,form,Number of _major_ injuries that are classified as _over-three-day_ injuries?
+6286ac742f000058c510f645,,127743,question,questionText,36462,form,Number of _major_ injuries that are classified as _under-three-day_ injuries?
+6286ac742f000058c510f646,,127744,question,description,36462,form,"Minor injuries are typically those injuries not classified as a major such as a paper cut, twisted ankle, bruising or knock."
+6286ac742f000058c510f646,,127744,question,questionText,36462,form,Number of _minor_ injuries?
+6286ac742f000058c510f647,,127745,question,description,36462,form,"A list of specific disease and the manners in which they are contracted. Examples such as anthrax, hepatitis, legionellosis or leptospirosis."
+6286ac742f000058c510f647,,127745,question,questionText,36462,form,Number of reportable diseases (including gas incidents)?
+6286ac742f000058c510f648,,127746,question,description,36462,form,Dangerous occurrences are certain listed near-miss events. Not every near miss event must be reported.
+6286ac742f000058c510f648,,127746,question,questionText,36462,form,Number of reportable dangerous occurrences (or near misses)?
+6286ac742f000058c510f649,,127747,question,questionText,36462,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+6286ac742f000058c510f64a,,127748,question,questionText,36462,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."

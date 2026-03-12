@@ -1,0 +1,11 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8773ba36b6c4c635466ec,69a8773ba36b6c4c635466eb,51153,questionGroup,questionGroupText,51153,form,Krane,
+69a8773ba36b6c4c635466e6,,200027,question,description,51153,form,"Kommunikationsregeln müssen die Koordination zwischen Anschläger, Einweiser und Bediener festlegen.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Arbeitsmittelverordnung, § 19 Abs. 1 Z 3</a>",
+69a8773ba36b6c4c635466e6,,200027,question,questionText,51153,form,Kommunikation,
+69a8773ba36b6c4c635466e7,,200028,question,description,51153,form,"Es müssen Maßnahmen getroffen werden, um die unbefugte Nutzung von Kranen zu verhindern.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Arbeitsmittelverordnung, § 19 Abs. 1 Z 10</a>",
+69a8773ba36b6c4c635466e7,,200028,question,questionText,51153,form,Zugangskontrolle,
+69a8773ba36b6c4c635466e8,,200029,question,description,51153,form,"Der Kranbetrieb darf nur autorisierten Bedienern gestattet sein.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Arbeitsmittelverordnung, § 19 Abs. 3</a>",
+69a8773ba36b6c4c635466e8,,200029,question,questionText,51153,form,Qualifizierte Bediener,
+69a8773ba36b6c4c635466e9,,200030,question,description,51153,form,"Tägliche Prüfungen müssen Bremsen, Endschalter und Warneinrichtungen umfassen.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Arbeitsmittelverordnung, § 19 Abs. 4</a>",
+69a8773ba36b6c4c635466e9,,200030,question,questionText,51153,form,Tägliche Prüfungen,
+69a8773ba36b6c4c635466ea,,200031,question,questionText,51153,form,<div></div>,

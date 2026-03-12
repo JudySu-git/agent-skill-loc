@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce484a010000bc00ebe506,662fe6481a00005e0045d35a,42014,questionGroup,description,42014,form,You are getting this category because you selected a license in the Avetta PQF - Northern Territory License.
+66ce484a010000bc00ebe506,662fe6481a00005e0045d35a,42014,questionGroup,questionGroupText,42014,form,Northern Territory Contractor License - Security Master
+662fe6481a0000660045d35b,,153348,question,questionText,42014,form,Please upload your license:\n
+662fe6481a0000660045d35b,,153348,question,responseOption1,42014,form,Yes
+662fe6481a0000660045d35b,,153348,question,responseOption2,42014,form,No
+662fe6481a0000660045d35c,,153349,question,questionText,42014,form,License Number:
+662fe6481a0000660045d35c,,153349,question,responseOption1,42014,form,Yes
+662fe6481a0000660045d35c,,153349,question,responseOption2,42014,form,No
+662fe6481a0000660045d35d,,153350,question,questionText,42014,form,Expiration Date:
+662fe6481a0000660045d35d,,153350,question,responseOption1,42014,form,Yes
+662fe6481a0000660045d35d,,153350,question,responseOption2,42014,form,No

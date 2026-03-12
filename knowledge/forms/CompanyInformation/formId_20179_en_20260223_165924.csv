@@ -1,0 +1,70 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+655b84ca1800005603604726,5451636e5049439aef85109d,5948,questionGroup,questionGroupText,20179,form,Hong Kong
+65806363180000b8246c797a,5ac46d2324000022011e334e,20179,questionGroup,questionGroupText,20179,form,Avetta PQF - Hong Kong Company Information
+5451645a50494331726bcf3b,,26356,question,description,20179,form,"<a href=""https://www.eregistry.gov.hk/icris-ext/apps/por01a/index?locale=en_US"" target=""_blank"">Hong Kong Companies Registry</a>"
+5451645a50494331726bcf3b,,26356,question,questionText,20179,form,Is your company registered with the Companies Registry (CR)?
+5451645a50494331726bcf3b,,26356,question,responseOptionNo,20179,form,No
+5451645a50494331726bcf3b,,26356,question,responseOptionYes,20179,form,Yes
+5451653a50494386b35e1585,,26357,question,description,20179,form,
+5451653a50494386b35e1585,,26357,question,questionText,20179,form,What is your company's Companies Registry (CR) number?
+545165955049433250c14fcf,,26358,question,questionText,20179,form,Please upload a copy of your company's Certificate of Incorporation.
+545165a95049434f9e2a2ac0,,26359,question,questionText,20179,form,Please upload a copy of your company's Business Registration Certificate.
+545166ba504943a79d16a784,,26362,question,description,20179,form,"<a href=""https://www.mpfa.org.hk/eng/main/index.jsp"" target=""_blank"">Mandatory Provident Fund Schemes Authority (MPFA)</a>"
+545166ba504943a79d16a784,,26362,question,questionText,20179,form,Is your company required to be enrolled in a Mandatory Provident Fund (MPF) Scheme?
+545166ba504943a79d16a784,,26362,question,responseOptionNo,20179,form,No
+545166ba504943a79d16a784,,26362,question,responseOptionYes,20179,form,Yes
+545167925049434a6e30309a,,26363,question,description,20179,form,"<a href=""https://www.mpfa.org.hk/eng/mpf_system/schemes/index.jsp"" target=""_blank"">Types of MPF Schemes</a>"
+545167925049434a6e30309a,,26363,question,questionText,20179,form,What type of MPF Scheme is your company enrolled in?
+545167925049434a6e30309a,,26363,question,responseOptionEmployerSponsoredScheme,20179,form,Employer Sponsored Scheme
+545167925049434a6e30309a,,26363,question,responseOptionIndustryScheme,20179,form,Industry Scheme
+545167925049434a6e30309a,,26363,question,responseOptionMasterTrustScheme,20179,form,Master Trust Scheme
+545167925049434a6e30309a,,26363,question,responseOptionOther,20179,form,Other / Not Listed
+545167f0504943f1a857b7d6,,26364,question,description,20179,form,"<a href=""https://www.mpfa.org.hk/eng/public_registers/approved_mpf_trustees/trlist.do"" target=""_blank"">List of MPF Approved Trustees</a>"
+545167f0504943f1a857b7d6,,26364,question,questionText,20179,form,Is the MPF Scheme your company is registered with administered by an MPF Approved Trustee?
+545167f0504943f1a857b7d6,,26364,question,responseOptionNo,20179,form,No
+545167f0504943f1a857b7d6,,26364,question,responseOptionYes,20179,form,Yes
+5451689c504943b19e80ef81,,26365,question,questionText,20179,form,Please provide the MPF Registration Number of the Approved Trustee.
+54516a765049436d25f5fa6b,,26370,question,questionText,20179,form,Please upload a copy of your company's participation certificate as issued by the Mandatory Provident Fund Schemes Authority (MPFA).
+54516c08504943a6744e5890,,26371,question,questionText,20179,form,Does your company have a Corporate Seal?
+54516c08504943a6744e5890,,26371,question,responseOptionNA,20179,form,N/A
+54516c08504943a6744e5890,,26371,question,responseOptionNo,20179,form,No
+54516c08504943a6744e5890,,26371,question,responseOptionYes,20179,form,Yes
+54516c25504943745c5ac4f6,,26372,question,questionText,20179,form,Please upload a sample/model of the Corporate Seal.
+54516c4750494358c39b8142,,26373,question,questionText,20179,form,What is your company’s primary Hong Kong Standard Industrial Classification (HSIC) Code?
+54516d10504943ff3c49ab43,,26374,question,questionText,20179,form,What is your company’s secondary Hong Kong Standard Industrial Classification (HSIC) Code?
+545170ec50494318ee3c25ed,,26376,question,questionText,20179,form,Please indicate what type of MPF Scheme your company is enrolled in.
+655b84c9180000da02604707,,147122,question,questionText,20179,form,Please indicate your company's business entity / form of business within this country.
+655b84c9180000da02604707,,147122,question,responseOption1,20179,form,Sole proprietorship
+655b84c9180000da02604707,,147122,question,responseOption2,20179,form,Partnership
+655b84c9180000da02604707,,147122,question,responseOption3,20179,form,Limited liability company (LLC)
+655b84c9180000da02604707,,147122,question,responseOption4,20179,form,Public limited company (PLC)
+655b84c9180000da02604707,,147122,question,responseOption5,20179,form,Company limited by guarantee
+655b84c9180000da02604707,,147122,question,responseOption6,20179,form,Branch office
+655b84c9180000da02604707,,147122,question,responseOption7,20179,form,Representative office
+655b86461800001a03616ed5,,147123,question,questionText,20179,form,Please upload a copy of your company's latest register of members.
+655b86461800001a03616ed5,,147123,question,responseOption1,20179,form,Yes
+655b86461800001a03616ed5,,147123,question,responseOption2,20179,form,No
+655b865818000089026174b5,,147124,question,questionText,20179,form,Please upload a copy of your company's latest significant controllers register.
+655b865818000089026174b5,,147124,question,responseOption1,20179,form,Yes
+655b865818000089026174b5,,147124,question,responseOption2,20179,form,No
+655b866b180000ce036182e5,,147125,question,questionText,20179,form,Please explain.
+655b866b180000ce036182e5,,147125,question,responseOption1,20179,form,Yes
+655b866b180000ce036182e5,,147125,question,responseOption2,20179,form,No
+655b87191800004703623cd9,,147126,question,questionText,20179,form,Please provide the list of your incumbent Director(s).
+655b87191800004703623cd9,,147126,question,responseOption1,20179,form,Yes
+655b87191800004703623cd9,,147126,question,responseOption2,20179,form,No
+655b8764180000d702627c2a,,147127,question,questionText,20179,form,Please upload a copy of your company's latest register of directors.
+655b8764180000d702627c2a,,147127,question,responseOption1,20179,form,Yes
+655b8764180000d702627c2a,,147127,question,responseOption2,20179,form,No
+655b87811800004f0362990f,,147128,question,questionText,20179,form,Who is your company's secretary?
+655b87811800004f0362990f,,147128,question,responseOption1,20179,form,Yes
+655b87811800004f0362990f,,147128,question,responseOption2,20179,form,No
+655b87d9180000c90362d29c,,147129,question,questionText,20179,form,Please explain.
+655b87d9180000c90362d29c,,147129,question,responseOption1,20179,form,Yes
+655b87d9180000c90362d29c,,147129,question,responseOption2,20179,form,No
+655b88901800009a026380f9,,147130,question,questionText,20179,form,Please upload a copy of the notice of insurance in relation to the currently effective employees’ compensation insurance policy subscribed by your company.
+655b88901800009a026380f9,,147130,question,responseOption1,20179,form,Yes
+655b88901800009a026380f9,,147130,question,responseOption2,20179,form,No
+657cfd7a1700001d1a796f33,,148420,question,questionText,20179,form,Please explain.
+657cfd7a1700001d1a796f33,,148420,question,responseOption1,20179,form,Yes
+657cfd7a1700001d1a796f33,,148420,question,responseOption2,20179,form,No

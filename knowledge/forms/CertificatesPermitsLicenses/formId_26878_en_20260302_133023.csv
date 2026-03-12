@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec610100002d00a4739f,5d30c74c3500004e4d88efde,26878,questionGroup,questionGroupText,26878,form,Maryland Contractor License
+5d5597bd33000051365fae5e,5d30c75f350000434197b9c2,26879,questionGroup,questionGroupText,26878,form,Maryland Contractor License
+5d30c769350000434197b9c5,,84379,question,description,26878,form,"<a href = ""https://www.dllr.state.md.us/pq/""target=""_BLANK_"">Maryland Department of Labor</a>\n\n"
+5d30c769350000434197b9c5,,84379,question,questionText,26878,form,Maryland Contractor License Number:\n
+5d30c783350000434197b9c7,,84380,question,description,26878,form,"<a href = ""https://www.dllr.state.md.us/pq/""target=""_BLANK_"">Maryland Department of Labor</a>"
+5d30c783350000434197b9c7,,84380,question,questionText,26878,form,Maryland Contractor License Classifications:\n
+5d30c792350000434197b9c9,,84381,question,questionText,26878,form,Maryland License Expiration Date:\n
+5d30c79e350000434197b9cb,,84382,question,description,26878,form,A URL will make verification quicker if provided\n
+5d30c79e350000434197b9cb,,84382,question,questionText,26878,form,"Upload a copy of your license, and or provide the URL of the license."
+5d30c79e350000434197b9cb,,84382,question,responseOption1,26878,form,File Upload
+5d30c79e350000434197b9cb,,84382,question,responseOption2,26878,form,URL
+5d30c7b5350000434197b9cd,,84383,question,questionText,26878,form,Please upload a copy of your Maryland license:\n
+5d30c7c2350000434197b9cf,,84384,question,questionText,26878,form,Please enter the URL of the license:\n

@@ -1,0 +1,250 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5ef26a37350000c5514fb92d,5ee8faa33600007c60aa9cbf,30481,questionGroup,questionGroupText,30481,form,Avetta PQF - Canada Carrier Safety Ratings
+5ee8fc153600007c60aa9f14,5ee8fc153600007c60aa9f13,30482,questionGroup,questionGroupText,30481,form,Carrier General Information and Safety Rating
+5ee8fc39320000da3a4c9102,5ee8fc39320000da3a4c9101,30484,questionGroup,questionGroupText,30481,form,Carrier Details and Statistics
+5ee8fc3b350000444c0c2636,5ee8fc3b350000444c0c2635,30485,questionGroup,questionGroupText,30481,form,Convictions and Violations
+5ee8fc3d320000da3a4c9109,5ee8fc3d320000da3a4c9108,30486,questionGroup,questionGroupText,30481,form,Carrier Disclosure
+5ef0f8bc310000decab3ab34,5ef0f8bc310000decab3ab33,30687,questionGroup,questionGroupText,30481,form,Alberta
+5ef0f8cb360000509e44d692,5ef0f8cb360000509e44d691,30688,questionGroup,questionGroupText,30481,form,British Columbia
+5ef0f8cd310000decab3ab37,5ef0f8cd310000decab3ab36,30689,questionGroup,questionGroupText,30481,form,Manitoba
+5ef0f8cf310000decab3ab39,5ef0f8cf310000decab3ab38,30690,questionGroup,questionGroupText,30481,form,New Brunswick
+5ef0f8d2340000deb50e6903,5ef0f8d2340000deb50e6902,30691,questionGroup,questionGroupText,30481,form,Newfoundland and Labrador
+5ef0f8d43200007c603fc09f,5ef0f8d43200007c603fc09e,30692,questionGroup,questionGroupText,30481,form,Northwest Territories
+5ef0f8d63200007c603fc0a1,5ef0f8d63200007c603fc0a0,30693,questionGroup,questionGroupText,30481,form,Nova Scotia
+5ef0f8d8360000509e44d697,5ef0f8d8360000509e44d696,30694,questionGroup,questionGroupText,30481,form,Nunavut
+5ef0f8da360000509e44d699,5ef0f8da360000509e44d698,30695,questionGroup,questionGroupText,30481,form,Ontario
+5ef0f8dc310000decab3ab3d,5ef0f8dc310000decab3ab3c,30696,questionGroup,questionGroupText,30481,form,Prince Edward Island
+5ef0f8df310000decab3ab3f,5ef0f8df310000decab3ab3e,30697,questionGroup,questionGroupText,30481,form,Quebec
+5ef0f8e0340000deb50e6909,5ef0f8e0340000deb50e6908,30698,questionGroup,questionGroupText,30481,form,Saskatchewan
+5ef0f8e23200007c603fc0a5,5ef0f8e23200007c603fc0a4,30699,questionGroup,questionGroupText,30481,form,Yukon
+5ef0fbff3200007c603fc0d0,5ef0fbff3200007c603fc0cf,30708,questionGroup,questionGroupText,30481,form,Carrier Safety Ratings
+5ef100e6360000509e44d720,5ef100e6360000509e44d71f,30709,questionGroup,questionGroupText,30481,form,Carrier Safety Ratings
+5ef1030f360000509e44dc3c,5ef1030f360000509e44dc3b,30714,questionGroup,questionGroupText,30481,form,Carrier Safety Ratings
+5ef103af3200007c603fc3a9,5ef103af3200007c603fc3a8,30715,questionGroup,questionGroupText,30481,form,Carrier Safety Ratings
+5ef105743200007c603fcfdd,5ef105743200007c603fcfdc,30724,questionGroup,questionGroupText,30481,form,Carrier Safety Ratings
+5ef10600340000deb50e7d26,5ef10600340000deb50e7d25,30725,questionGroup,questionGroupText,30481,form,Carrier Safety Ratings
+5ef1065f310000decab3b7f6,5ef1065f310000decab3b7f5,30726,questionGroup,questionGroupText,30481,form,Carrier Safety Ratings
+5ef106d9340000deb50e7e0d,5ef106d9340000deb50e7e0c,30727,questionGroup,questionGroupText,30481,form,Carrier Safety Ratings
+5ef107953200007c603fdde4,5ef107953200007c603fdde3,30728,questionGroup,questionGroupText,30481,form,Carrier Safety Ratings
+5ef107fa340000deb50e7e53,5ef107fa340000deb50e7e52,30729,questionGroup,questionGroupText,30481,form,Carrier Safety Ratings
+5ef108593200007c603fdf71,5ef108593200007c603fdf70,30730,questionGroup,questionGroupText,30481,form,Carrier Safety Ratings
+5ef108bf340000deb50e7e5f,5ef108bf340000deb50e7e5e,30731,questionGroup,questionGroupText,30481,form,Carrier Safety Ratings
+5ef10927310000decab3c17e,5ef10927310000decab3c17d,30732,questionGroup,questionGroupText,30481,form,Carrier Safety Ratings
+5ee8fc85320000da3a4c9139,,98829,question,questionText,30481,form,Provincial Registration Information\n\nPlease select  the province or territory you are registered as commercial vehicle operator or carrier.
+5ee8fc85320000da3a4c9139,,98829,question,responseOption1,30481,form,Alberta
+5ee8fc85320000da3a4c9139,,98829,question,responseOption10,30481,form,Prince Edward Island
+5ee8fc85320000da3a4c9139,,98829,question,responseOption11,30481,form,Quebec
+5ee8fc85320000da3a4c9139,,98829,question,responseOption12,30481,form,Saskatchewan
+5ee8fc85320000da3a4c9139,,98829,question,responseOption13,30481,form,Yukon
+5ee8fc85320000da3a4c9139,,98829,question,responseOption2,30481,form,British Columbia
+5ee8fc85320000da3a4c9139,,98829,question,responseOption3,30481,form,Manitoba
+5ee8fc85320000da3a4c9139,,98829,question,responseOption4,30481,form,New Brunswick
+5ee8fc85320000da3a4c9139,,98829,question,responseOption5,30481,form,Newfoundland and Labrador
+5ee8fc85320000da3a4c9139,,98829,question,responseOption6,30481,form,Northwest Territories
+5ee8fc85320000da3a4c9139,,98829,question,responseOption7,30481,form,Nova Scotia
+5ee8fc85320000da3a4c9139,,98829,question,responseOption8,30481,form,Nunavut
+5ee8fc85320000da3a4c9139,,98829,question,responseOption9,30481,form,Ontario
+5eea94a63400007c601bbfb8,,98868,question,questionText,30481,form,Number of Commercial Vehicles
+5eea94c034000008247333e9,,98869,question,questionText,30481,form,Number of Drivers
+5eea94eb330000c551a71c47,,98870,question,questionText,30481,form,Transportation of dangerous goods & hazardous materials
+5eea94eb330000c551a71c47,,98870,question,responseOption1,30481,form,Yes
+5eea94eb330000c551a71c47,,98870,question,responseOption2,30481,form,No
+5eea9557330000c551a71fc3,,98871,question,questionText,30481,form,Type of Commercial Vehicles\n
+5eea956b3400000824733b43,,98872,question,questionText,30481,form,Total number of KMs traveled in the last 12 months
+5eea957e3400000824733caf,,98873,question,description,30481,form,"Enter ""0"" if none"
+5eea957e3400000824733caf,,98873,question,questionText,30481,form,Intra-province number of kilometers (KM) traveled in the last 12 months
+5eea95bd3600007c60159672,,98874,question,description,30481,form,"Enter ""0"" if none"
+5eea95bd3600007c60159672,,98874,question,questionText,30481,form,Out-of-province number of kilometers (KM) traveled in the last 12 months (excluding United States)
+5eea95eb330000c551a72f62,,98875,question,description,30481,form,"Enter ""0"" if none"
+5eea95eb330000c551a72f62,,98875,question,questionText,30481,form,United States number of kilometers (KM) traveled in the last 12 months (excluding Canada)
+5eea9602330000c551a731f1,,98876,question,questionText,30481,form,US DOT Number (if available)
+5eea967a330000c551a736be,,98877,question,description,30481,form,"Enter ""0"" if none"
+5eea967a330000c551a736be,,98877,question,questionText,30481,form,Total number of collisions  for the last 24 months (all types)
+5eea968e3600007c60159af8,,98878,question,description,30481,form,"Enter ""0"" if none"
+5eea968e3600007c60159af8,,98878,question,questionText,30481,form,Total number of collisions for the last 24 months (Fatal only)
+5eea9810330000c551a73f77,,98879,question,description,30481,form,"Enter ""0"" if none"
+5eea9810330000c551a73f77,,98879,question,questionText,30481,form,Total number of collisions for the last 24 months (Personal Injury only)
+5eea982d3400000824734b63,,98880,question,description,30481,form,"Enter ""0"" if none"
+5eea982d3400000824734b63,,98880,question,questionText,30481,form,Total number of collisions for the last 24 months (Property damage only)
+5eea98433400007c601be1de,,98881,question,questionText,30481,form,"If any reported collisions, please provide an explanation (optional)."
+5eea986e3400000824734bf1,,98882,question,description,30481,form,"Enter ""0"" if none"
+5eea986e3400000824734bf1,,98882,question,questionText,30481,form,Total number of convictions/violations  for the last 24 months (all types)
+5eea98943600007c6015a549,,98883,question,description,30481,form,"Enter ""0"" if none"
+5eea98943600007c6015a549,,98883,question,questionText,30481,form,Total number of convictions/violations  for the last 24 months (Driver only)
+5eea98aa3400000824734c85,,98884,question,description,30481,form,"Enter ""0"" if none"
+5eea98aa3400000824734c85,,98884,question,questionText,30481,form,Total number of convictions/violations  for the last 24 months (Vehicle only)
+5eea98c33400000824734cb2,,98885,question,description,30481,form,"Enter ""0"" if none"
+5eea98c33400000824734cb2,,98885,question,questionText,30481,form,Total number of convictions/violations  for the last 24 months (Load only)
+5eea98da3400000824734d0f,,98886,question,description,30481,form,"Enter ""0"" if none"
+5eea98da3400000824734d0f,,98886,question,questionText,30481,form,Total number of convictions/violations  for the last 24 months (Other)
+5eea98f03600007c6015a6a5,,98887,question,questionText,30481,form,"If any reported convictions or violations, please provide an explanation (optional)"
+5eea9903330000c551a74319,,98888,question,questionText,30481,form,"Disclosure: I certify that the information provided on this form and all attachments/documents are accurate, current and complete. If our carrier status and safety rating changes, the updated information shall be reported to Avetta/client and make the updated to my Avetta account and notify the client in a timely fashion."
+5ef0fa36340000deb50e691d,,99406,question,questionText,30481,form,"Carrier number (example:  RPVEL,CVOR, Operating Permit, Certificate Number, etc.)"
+5ef0fa4d340000deb50e691f,,99407,question,questionText,30481,form,"Please upload a copy of your carrier's  permit, profile or certificate document (including your carrier safety rating information)"
+5ef0fa5e360000509e44d6b2,,99408,question,questionText,30481,form,Carrier permit's or certificate's Registration Date
+5ef0fa8b3200007c603fc0bf,,99412,question,questionText,30481,form,"Carrier Permit/Certificate document published Date (issuance date, or search date if indicated on certificate, or website  - if available)"
+5ef0fbe9310000decab3ab68,,99427,question,questionText,30481,form,Carrier Permit/Certificate Expiration Date (or next update/renewal date)
+5ef0fd84340000deb50e6998,,99435,question,questionText,30481,form,Carrier safety fitness rating (as reported by your provincial regulating body). 
+5ef0fd84340000deb50e6998,,99435,question,responseOption1,30481,form,Excellent
+5ef0fd84340000deb50e6998,,99435,question,responseOption2,30481,form,Satisfactory
+5ef0fd84340000deb50e6998,,99435,question,responseOption3,30481,form,Satisfactory – Unaudited
+5ef0fd84340000deb50e6998,,99435,question,responseOption4,30481,form,Conditional
+5ef0fd84340000deb50e6998,,99435,question,responseOption5,30481,form,Conditional – Unaudited
+5ef0fd84340000deb50e6998,,99435,question,responseOption6,30481,form,Unsatisfactory
+5ef0fd84340000deb50e6998,,99435,question,responseOption7,30481,form,"Other, or no rating available"
+5ef10009310000decab3ab77,,99436,question,questionText,30481,form,"Carrier number (example:  RPVEL,CVOR, Operating Permit, Certificate Number, etc.)"
+5ef100b0310000decab3ab86,,99437,question,questionText,30481,form,"Please upload a copy of your carrier's  permit, profile or certificate document (including your carrier safety rating information)"
+5ef100bd310000decab3ab87,,99438,question,questionText,30481,form,Carrier permit's or certificate's Registration Date
+5ef100c9310000decab3ab88,,99439,question,questionText,30481,form,"Carrier Permit/Certificate document published Date (issuance date, or search date if indicated on certificate, or website  - if available)"
+5ef100d9310000decab3ab9d,,99440,question,questionText,30481,form,Carrier Permit/Certificate Expiration Date (or next update/renewal date)
+5ef1010d360000509e44db82,,99441,question,questionText,30481,form,Carrier safety fitness rating (as reported by your provincial regulating body).
+5ef1010d360000509e44db82,,99441,question,responseOption1,30481,form,Excellent
+5ef1010d360000509e44db82,,99441,question,responseOption2,30481,form,Satisfactory
+5ef1010d360000509e44db82,,99441,question,responseOption3,30481,form,Satisfactory – Unaudited
+5ef1010d360000509e44db82,,99441,question,responseOption4,30481,form,Conditional
+5ef1010d360000509e44db82,,99441,question,responseOption5,30481,form,Conditional – Unaudited
+5ef1010d360000509e44db82,,99441,question,responseOption6,30481,form,Unsatisfactory
+5ef1010d360000509e44db82,,99441,question,responseOption7,30481,form,"Other, or no rating available"
+5ef102bb360000509e44dbd7,,99442,question,questionText,30481,form,"Carrier number (example:  RPVEL,CVOR, Operating Permit, Certificate Number, etc.)"
+5ef102c3360000509e44dbd8,,99443,question,questionText,30481,form,"Please upload a copy of your carrier's  permit, profile or certificate document (including your carrier safety rating information)"
+5ef102d5360000509e44dbe1,,99444,question,questionText,30481,form,Carrier permit's or certificate's Registration Date
+5ef102e4360000509e44dbf4,,99445,question,questionText,30481,form,"Carrier Permit/Certificate document published Date (issuance date, or search date if indicated on certificate, or website  - if available)"
+5ef102f0340000deb50e6e2e,,99446,question,questionText,30481,form,Carrier Permit/Certificate Expiration Date (or next update/renewal date)
+5ef10321340000deb50e6e31,,99447,question,questionText,30481,form,Carrier safety fitness rating (as reported by your provincial regulating body).
+5ef10321340000deb50e6e31,,99447,question,responseOption1,30481,form,Excellent
+5ef10321340000deb50e6e31,,99447,question,responseOption2,30481,form,Satisfactory
+5ef10321340000deb50e6e31,,99447,question,responseOption3,30481,form,Satisfactory – Unaudited
+5ef10321340000deb50e6e31,,99447,question,responseOption4,30481,form,Conditional
+5ef10321340000deb50e6e31,,99447,question,responseOption5,30481,form,Conditional – Unaudited
+5ef10321340000deb50e6e31,,99447,question,responseOption6,30481,form,Unsatisfactory
+5ef10321340000deb50e6e31,,99447,question,responseOption7,30481,form,"Other, or no rating available"
+5ef1036a3200007c603fc38d,,99451,question,questionText,30481,form,"Carrier number (example:  RPVEL,CVOR, Operating Permit, Certificate Number, etc.)"
+5ef10376340000deb50e6e56,,99452,question,questionText,30481,form,"Please upload a copy of your carrier's  permit, profile or certificate document (including your carrier safety rating information)"
+5ef10384310000decab3ae03,,99453,question,questionText,30481,form,Carrier permit's or certificate's Registration Date
+5ef1038d310000decab3af49,,99454,question,questionText,30481,form,"Carrier Permit/Certificate document published Date (issuance date, or search date if indicated on certificate, or website  - if available)"
+5ef1039f310000decab3af4d,,99455,question,questionText,30481,form,Carrier Permit/Certificate Expiration Date (or next update/renewal date)
+5ef103bf310000decab3af80,,99456,question,questionText,30481,form,Carrier safety fitness rating (as reported by your provincial regulating body).
+5ef103bf310000decab3af80,,99456,question,responseOption1,30481,form,Excellent
+5ef103bf310000decab3af80,,99456,question,responseOption2,30481,form,Satisfactory
+5ef103bf310000decab3af80,,99456,question,responseOption3,30481,form,Satisfactory – Unaudited
+5ef103bf310000decab3af80,,99456,question,responseOption4,30481,form,Conditional
+5ef103bf310000decab3af80,,99456,question,responseOption5,30481,form,Conditional – Unaudited
+5ef103bf310000decab3af80,,99456,question,responseOption6,30481,form,Unsatisfactory
+5ef103bf310000decab3af80,,99456,question,responseOption7,30481,form,"Other, or no rating available"
+5ef1053c310000decab3b339,,99457,question,questionText,30481,form,"Carrier number (example:  RPVEL,CVOR, Operating Permit, Certificate Number, etc.)"
+5ef10546340000deb50e7265,,99458,question,questionText,30481,form,"Please upload a copy of your carrier's  permit, profile or certificate document (including your carrier safety rating information)"
+5ef10550360000509e44e7a4,,99459,question,questionText,30481,form,Carrier permit's or certificate's Registration Date
+5ef1055d360000509e44e807,,99460,question,questionText,30481,form,"Carrier Permit/Certificate document published Date (issuance date, or search date if indicated on certificate, or website  - if available)"
+5ef10565360000509e44e809,,99461,question,questionText,30481,form,Carrier Permit/Certificate Expiration Date (or next update/renewal date)
+5ef105813200007c603fcfde,,99462,question,questionText,30481,form,Carrier safety fitness rating (as reported by your provincial regulating body).
+5ef105813200007c603fcfde,,99462,question,responseOption1,30481,form,Excellent
+5ef105813200007c603fcfde,,99462,question,responseOption2,30481,form,Satisfactory
+5ef105813200007c603fcfde,,99462,question,responseOption3,30481,form,Satisfactory – Unaudited
+5ef105813200007c603fcfde,,99462,question,responseOption4,30481,form,Conditional
+5ef105813200007c603fcfde,,99462,question,responseOption5,30481,form,Conditional – Unaudited
+5ef105813200007c603fcfde,,99462,question,responseOption6,30481,form,Unsatisfactory
+5ef105813200007c603fcfde,,99462,question,responseOption7,30481,form,"Other, or no rating available"
+5ef105c83200007c603fd046,,99463,question,questionText,30481,form,"Carrier number (example:  RPVEL,CVOR, Operating Permit, Certificate Number, etc.)"
+5ef105d4360000509e44e8f4,,99464,question,questionText,30481,form,"Please upload a copy of your carrier's  permit, profile or certificate document (including your carrier safety rating information)"
+5ef105e03200007c603fd23f,,99465,question,questionText,30481,form,Carrier permit's or certificate's Registration Date
+5ef105ec3200007c603fd248,,99466,question,questionText,30481,form,"Carrier Permit/Certificate document published Date (issuance date, or search date if indicated on certificate, or website  - if available)"
+5ef105f5340000deb50e7d22,,99467,question,questionText,30481,form,Carrier Permit/Certificate Expiration Date (or next update/renewal date)
+5ef1060c360000509e44eac6,,99468,question,questionText,30481,form,Carrier safety fitness rating (as reported by your provincial regulating body).
+5ef1060c360000509e44eac6,,99468,question,responseOption1,30481,form,Excellent
+5ef1060c360000509e44eac6,,99468,question,responseOption2,30481,form,Satisfactory
+5ef1060c360000509e44eac6,,99468,question,responseOption3,30481,form,Satisfactory – Unaudited
+5ef1060c360000509e44eac6,,99468,question,responseOption4,30481,form,Conditional
+5ef1060c360000509e44eac6,,99468,question,responseOption5,30481,form,Conditional – Unaudited
+5ef1060c360000509e44eac6,,99468,question,responseOption6,30481,form,Unsatisfactory
+5ef1060c360000509e44eac6,,99468,question,responseOption7,30481,form,"Other, or no rating available"
+5ef1062f340000deb50e7d33,,99469,question,questionText,30481,form,"Carrier number (example:  RPVEL,CVOR, Operating Permit, Certificate Number, etc.)\n"
+5ef10638340000deb50e7d3a,,99470,question,questionText,30481,form,"Please upload a copy of your carrier's  permit, profile or certificate document (including your carrier safety rating information)"
+5ef10641360000509e44ead1,,99471,question,questionText,30481,form,Carrier permit's or certificate's Registration Date
+5ef10649360000509e44ead2,,99472,question,questionText,30481,form,"Carrier Permit/Certificate document published Date (issuance date, or search date if indicated on certificate, or website  - if available)"
+5ef10652310000decab3b7f3,,99473,question,questionText,30481,form,Carrier Permit/Certificate Expiration Date (or next update/renewal date)
+5ef106703200007c603fd287,,99474,question,questionText,30481,form,Carrier safety fitness rating (as reported by your provincial regulating body).
+5ef106703200007c603fd287,,99474,question,responseOption1,30481,form,Excellent
+5ef106703200007c603fd287,,99474,question,responseOption2,30481,form,Satisfactory
+5ef106703200007c603fd287,,99474,question,responseOption3,30481,form,Satisfactory – Unaudited
+5ef106703200007c603fd287,,99474,question,responseOption4,30481,form,Conditional
+5ef106703200007c603fd287,,99474,question,responseOption5,30481,form,Conditional – Unaudited
+5ef106703200007c603fd287,,99474,question,responseOption6,30481,form,Unsatisfactory
+5ef106703200007c603fd287,,99474,question,responseOption7,30481,form,"Other, or no rating available"
+5ef106a8340000deb50e7d57,,99475,question,questionText,30481,form,"Carrier number (example:  RPVEL,CVOR, Operating Permit, Certificate Number, etc.)"
+5ef106b0340000deb50e7d58,,99476,question,questionText,30481,form,"Please upload a copy of your carrier's  permit, profile or certificate document (including your carrier safety rating information)"
+5ef106bb360000509e44ebd0,,99477,question,questionText,30481,form,Carrier permit's or certificate's Registration Date
+5ef106c53200007c603fd408,,99478,question,questionText,30481,form,"Carrier Permit/Certificate document published Date (issuance date, or search date if indicated on certificate, or website  - if available)"
+5ef106cc3200007c603fd409,,99479,question,questionText,30481,form,Carrier Permit/Certificate Expiration Date (or next update/renewal date)
+5ef106e6310000decab3b81f,,99480,question,questionText,30481,form,Carrier safety fitness rating (as reported by your provincial regulating body).
+5ef106e6310000decab3b81f,,99480,question,responseOption1,30481,form,Excellent
+5ef106e6310000decab3b81f,,99480,question,responseOption2,30481,form,Satisfactory
+5ef106e6310000decab3b81f,,99480,question,responseOption3,30481,form,Satisfactory – Unaudited
+5ef106e6310000decab3b81f,,99480,question,responseOption4,30481,form,Conditional
+5ef106e6310000decab3b81f,,99480,question,responseOption5,30481,form,Conditional – Unaudited
+5ef106e6310000decab3b81f,,99480,question,responseOption6,30481,form,Unsatisfactory
+5ef106e6310000decab3b81f,,99480,question,responseOption7,30481,form,"Other, or no rating available"
+5ef10707340000deb50e7e0f,,99481,question,questionText,30481,form,"Carrier number (example:  RPVEL,CVOR, Operating Permit, Certificate Number, etc.)"
+5ef1076d3200007c603fda0c,,99482,question,questionText,30481,form,"Please upload a copy of your carrier's  permit, profile or certificate document (including your carrier safety rating information)"
+5ef10775310000decab3b821,,99483,question,questionText,30481,form,Carrier permit's or certificate's Registration Date
+5ef107803200007c603fdda7,,99484,question,questionText,30481,form,"Carrier Permit/Certificate document published Date (issuance date, or search date if indicated on certificate, or website  - if available)"
+5ef107883200007c603fddd1,,99485,question,questionText,30481,form,Carrier Permit/Certificate Expiration Date (or next update/renewal date)
+5ef107a33200007c603fde94,,99486,question,questionText,30481,form,Carrier safety fitness rating (as reported by your provincial regulating body).
+5ef107a33200007c603fde94,,99486,question,responseOption1,30481,form,Excellent
+5ef107a33200007c603fde94,,99486,question,responseOption2,30481,form,Satisfactory
+5ef107a33200007c603fde94,,99486,question,responseOption3,30481,form,Satisfactory – Unaudited
+5ef107a33200007c603fde94,,99486,question,responseOption4,30481,form,Conditional
+5ef107a33200007c603fde94,,99486,question,responseOption5,30481,form,Conditional – Unaudited
+5ef107a33200007c603fde94,,99486,question,responseOption6,30481,form,Unsatisfactory
+5ef107a33200007c603fde94,,99486,question,responseOption7,30481,form,"Other, or no rating available"
+5ef107c13200007c603fdf50,,99487,question,questionText,30481,form,"Carrier number (example:  RPVEL,CVOR, Operating Permit, Certificate Number, etc.)"
+5ef107cf310000decab3ba73,,99488,question,questionText,30481,form,"Please upload a copy of your carrier's  permit, profile or certificate document (including your carrier safety rating information)\n"
+5ef107e03200007c603fdf52,,99489,question,questionText,30481,form,Carrier permit's or certificate's Registration Date
+5ef107e8310000decab3bbaf,,99490,question,questionText,30481,form,"Carrier Permit/Certificate document published Date (issuance date, or search date if indicated on certificate, or website  - if available)"
+5ef107f0310000decab3bbb6,,99491,question,questionText,30481,form,Carrier Permit/Certificate Expiration Date (or next update/renewal date)
+5ef10808340000deb50e7e54,,99492,question,questionText,30481,form,Carrier safety fitness rating (as reported by your provincial regulating body).
+5ef10808340000deb50e7e54,,99492,question,responseOption1,30481,form,Excellent
+5ef10808340000deb50e7e54,,99492,question,responseOption2,30481,form,Satisfactory
+5ef10808340000deb50e7e54,,99492,question,responseOption3,30481,form,Satisfactory – Unaudited
+5ef10808340000deb50e7e54,,99492,question,responseOption4,30481,form,Conditional
+5ef10808340000deb50e7e54,,99492,question,responseOption5,30481,form,Conditional – Unaudited
+5ef10808340000deb50e7e54,,99492,question,responseOption6,30481,form,Unsatisfactory
+5ef10808340000deb50e7e54,,99492,question,responseOption7,30481,form,"Other, or no rating available"
+5ef1082d310000decab3bcaa,,99493,question,questionText,30481,form,"Carrier number (example:  RPVEL,CVOR, Operating Permit, Certificate Number, etc.)"
+5ef10836310000decab3bcab,,99494,question,questionText,30481,form,"Please upload a copy of your carrier's  permit, profile or certificate document (including your carrier safety rating information)"
+5ef1083f310000decab3bcac,,99495,question,questionText,30481,form,Carrier permit's or certificate's Registration Date
+5ef10847310000decab3bcad,,99496,question,questionText,30481,form,"Carrier Permit/Certificate document published Date (issuance date, or search date if indicated on certificate, or website  - if available)"
+5ef1084e310000decab3bcae,,99497,question,questionText,30481,form,Carrier Permit/Certificate Expiration Date (or next update/renewal date)
+5ef10867310000decab3bd89,,99498,question,questionText,30481,form,Carrier safety fitness rating (as reported by your provincial regulating body).
+5ef10867310000decab3bd89,,99498,question,responseOption1,30481,form,Excellent
+5ef10867310000decab3bd89,,99498,question,responseOption2,30481,form,Satisfactory
+5ef10867310000decab3bd89,,99498,question,responseOption3,30481,form,Satisfactory – Unaudited
+5ef10867310000decab3bd89,,99498,question,responseOption4,30481,form,Conditional
+5ef10867310000decab3bd89,,99498,question,responseOption5,30481,form,Conditional – Unaudited
+5ef10867310000decab3bd89,,99498,question,responseOption6,30481,form,Unsatisfactory
+5ef10867310000decab3bd89,,99498,question,responseOption7,30481,form,"Other, or no rating available"
+5ef108883200007c603fe0b6,,99499,question,questionText,30481,form,"Carrier number (example:  RPVEL,CVOR, Operating Permit, Certificate Number, etc.)"
+5ef10899340000deb50e7e5a,,99500,question,questionText,30481,form,"Please upload a copy of your carrier's  permit, profile or certificate document (including your carrier safety rating information)"
+5ef108a2340000deb50e7e5b,,99501,question,questionText,30481,form,Carrier permit's or certificate's Registration Date
+5ef108aa340000deb50e7e5c,,99502,question,questionText,30481,form,"Carrier Permit/Certificate document published Date (issuance date, or search date if indicated on certificate, or website  - if available)"
+5ef108b2340000deb50e7e5d,,99503,question,questionText,30481,form,Carrier Permit/Certificate Expiration Date (or next update/renewal date)
+5ef108ca3200007c603fe0e9,,99504,question,questionText,30481,form,Carrier safety fitness rating (as reported by your provincial regulating body).
+5ef108ca3200007c603fe0e9,,99504,question,responseOption1,30481,form,Excellent
+5ef108ca3200007c603fe0e9,,99504,question,responseOption2,30481,form,Satisfactory
+5ef108ca3200007c603fe0e9,,99504,question,responseOption3,30481,form,Satisfactory – Unaudited
+5ef108ca3200007c603fe0e9,,99504,question,responseOption4,30481,form,Conditional
+5ef108ca3200007c603fe0e9,,99504,question,responseOption5,30481,form,Conditional – Unaudited
+5ef108ca3200007c603fe0e9,,99504,question,responseOption6,30481,form,Unsatisfactory
+5ef108ca3200007c603fe0e9,,99504,question,responseOption7,30481,form,"Other, or no rating available"
+5ef108ea3200007c603fe0ee,,99505,question,questionText,30481,form,"Carrier number (example:  RPVEL,CVOR, Operating Permit, Certificate Number, etc.)"
+5ef108f73200007c603fe105,,99506,question,questionText,30481,form,"Please upload a copy of your carrier's  permit, profile or certificate document (including your carrier safety rating information)"
+5ef109023200007c603fe112,,99507,question,questionText,30481,form,Carrier permit's or certificate's Registration Date
+5ef1090f3200007c603fe113,,99508,question,questionText,30481,form,"Carrier Permit/Certificate document published Date (issuance date, or search date if indicated on certificate, or website  - if available)"
+5ef1091a3200007c603fe2bd,,99509,question,questionText,30481,form,Carrier Permit/Certificate Expiration Date (or next update/renewal date)
+5ef109353200007c603fe2d2,,99510,question,questionText,30481,form,Carrier safety fitness rating (as reported by your provincial regulating body).
+5ef109353200007c603fe2d2,,99510,question,responseOption1,30481,form,Excellent
+5ef109353200007c603fe2d2,,99510,question,responseOption2,30481,form,Satisfactory
+5ef109353200007c603fe2d2,,99510,question,responseOption3,30481,form,Satisfactory – Unaudited
+5ef109353200007c603fe2d2,,99510,question,responseOption4,30481,form,Conditional
+5ef109353200007c603fe2d2,,99510,question,responseOption5,30481,form,Conditional – Unaudited
+5ef109353200007c603fe2d2,,99510,question,responseOption6,30481,form,Unsatisfactory
+5ef109353200007c603fe2d2,,99510,question,responseOption7,30481,form,"Other, or no rating available"

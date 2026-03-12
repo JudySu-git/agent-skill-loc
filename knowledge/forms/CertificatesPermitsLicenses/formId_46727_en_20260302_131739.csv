@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+687abba00100003f000cb576,687aaf2801000055000caf06,46727,questionGroup,description,46727,form,"This requirement is triggered because you answered ""Yes"" to maintaining a Mexico Industrial Operation License in the Mexico Industrial Operation License Applicability Assessment."
+687abba00100003f000cb576,687aaf2801000055000caf06,46727,questionGroup,questionGroupText,46727,form,Mexico Industrial Operation License
+687ab61a0100003b00364004,,176704,question,questionText,46727,form,Please upload your Mexico Industrial Operation License.
+687ab6260100003d000cb263,,176705,question,questionText,46727,form,Please enter the issue date of your Mexico Industrial Operation License.
+687ab63701000056000cb265,,176706,question,questionText,46727,form,Please enter the expiration date of your Mexico Industrial Operation License.

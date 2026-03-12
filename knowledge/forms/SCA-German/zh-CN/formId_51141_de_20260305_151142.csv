@@ -1,0 +1,33 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87732a36b6c4c63546687,69a87732a36b6c4c63546686,51141,questionGroup,questionGroupText,51141,form,建筑施工 - 受限空间,
+69a87731a36b6c4c6354667b,,199944,question,description,51141,form,"进入前，必须识别并评估危害。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第3(5)0条</a>",
+69a87731a36b6c4c6354667b,,199944,question,questionText,51141,form,危害评估,
+69a87731a36b6c4c6354667c,,199945,question,description,51141,form,"对于需要书面防护措施的容器、坑、井、沟渠或管道，必须签发受限空间作业通知。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第3(5)1条</a>",
+69a87731a36b6c4c6354667c,,199945,question,questionText,51141,form,向劳动监察机构报告,
+69a87731a36b6c4c6354667d,,199946,question,description,51141,form,"在进入或开始作业前，主管人员必须签发书面进入许可令，明确所需防护措施并指定持续监督责任人。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第120(2)条</a>",
+69a87731a36b6c4c6354667d,,199946,question,questionText,51141,form,作业许可令（作业前）,
+69a87731a36b6c4c6354667e,,199947,question,description,51141,form,"仅在进入许可令中指定的负责人确认防护措施已落实后，方可授权进入。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第120(3)条</a>",
+69a87731a36b6c4c6354667e,,199947,question,questionText,51141,form,主管人员进入授权,
+69a87731a36b6c4c6354667f,,199948,question,description,51141,form,"进入前必须通过验证确认不存在缺氧或有害物质浓度超标情况，以排除大气危害。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第122(2)条</a>",
+69a87731a36b6c4c6354667f,,199948,question,questionText,51141,form,大气检测,
+69a87731a36b6c4c63546680,,199949,question,description,51141,form,"必须引入新鲜空气并确保充分通风，且不得使用氧气进行通风。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第122(1)条</a>",
+69a87731a36b6c4c63546680,,199949,question,questionText,51141,form,充分通风,
+69a87731a36b6c4c63546681,,199950,question,description,51141,form,"进入容器、筒仓、井、坑、沟、渠、运河及管道的防护措施必须包括：通风、大气危害控制、监督、进入许可、救援能力及适当的个人防护装备（PPE）。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第120(2-7)、122(1-6)条</a>",
+69a87731a36b6c4c63546681,,199950,question,questionText,51141,form,控制措施（工程控制、行政管理措施和/或个人防护装备）,
+69a87731a36b6c4c63546682,,199951,question,description,51141,form,"经过培训的监护人员必须在整个作业期间驻守入口处，并熟悉作业内容及救援措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第122(3)条</a>",
+69a87731a36b6c4c63546682,,199951,question,questionText,51141,form,入口处监护人员,
+69a87731a36b6c4c63546683,,199952,question,description,51141,form,"当无法与进入人员保持视觉接触或语音通讯时，必须使用可靠的技术监控手段（如无线电/电话）。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第122(3)条</a>",
+69a87731a36b6c4c63546683,,199952,question,questionText,51141,form,通讯系统,
+69a87731a36b6c4c63546684,,199953,question,description,51141,form,"必须使用适当的个人防护装备（PPE）防止进入人员坠落、溺水和下陷，绳索末端须固定于外部且绳索松弛量应降至最低。当可能需要从上方进行救援时，必须配备适当的救援设备（如绞盘/提升装置）。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第122(4、6)条</a>",
+69a87731a36b6c4c63546684,,199953,question,questionText,51141,form,紧急救援安排,
+69a87731a36b6c4c63546685,,199954,question,questionText,51141,form,<div></div>,

@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec610100002d00a473ad,5d30aa13350000434197b91a,26862,questionGroup,questionGroupText,26862,form,Illinois Contractor License
+5d558f9e330000a743dea531,5d30aa363500004e4d88ef17,26863,questionGroup,questionGroupText,26862,form,Illinois Contractor License
+5d30aa44350000434197b91f,,84337,question,description,26862,form,"Illinois – State, County or City Specific"
+5d30aa44350000434197b91f,,84337,question,questionText,26862,form,Illinois Contractor License Number:\n
+5d30aa58350000434197b920,,84338,question,description,26862,form,"Illinois – State, County or City Specific"
+5d30aa58350000434197b920,,84338,question,questionText,26862,form,Illinois Contractor License Classifications:\n
+5d30aa63350000434197b921,,84339,question,questionText,26862,form,Illinois License Expiration Date:\n
+5d30aa6f350000434197b923,,84340,question,description,26862,form,A URL will make verification quicker if provided\n
+5d30aa6f350000434197b923,,84340,question,questionText,26862,form,"Upload a copy of your license, and or provide the URL of the license."
+5d30aa6f350000434197b923,,84340,question,responseOption1,26862,form,File Upload
+5d30aa6f350000434197b923,,84340,question,responseOption2,26862,form,URL
+5d30aa7f3500004e4d88ef1f,,84341,question,questionText,26862,form,Please upload a copy of your Illinois license:\n
+5d30aa8c350000434197b926,,84342,question,questionText,26862,form,Please enter the URL of the license:\n

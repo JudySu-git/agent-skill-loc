@@ -1,0 +1,22 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+674a03290100002f000b5670,6749ffe301000053000b5662,44103,questionGroup,questionGroupText,44103,form,Italy Construction Worksite Safety Credit Certification (Patente a Crediti Certificato)
+674a015701000036000b5666,,162495,question,description,44103,form,"The Patente a Crediti (""Credit License"") is a mandatory certification for companies and self-employed individuals operating on temporary or mobile construction sites in Italy. It ensures compliance with workplace safety regulations and assigns a points-based score reflecting adherence to legal standards.\n\nFor detailed information, please refer to the official guidelines from the Italian Ministry of Labour and Social Policies:\n\nStep by step guide to request certificate:\nhttps://www.certifico.com/component/attachments/download/41341   \n\n\nNational Labor Inspectorate (INL): \nhttps://servizi.ispettorato.gov.it/\n\n"
+674a015701000036000b5666,,162495,question,questionText,44103,form,Is your company required to obtain the Credit License (Patente a Crediti) for operating on temporary or mobile construction sites in Italy?\n
+674a015701000036000b5666,,162495,question,responseOption1,44103,form,Yes
+674a015701000036000b5666,,162495,question,responseOption2,44103,form,No
+674a01750100003200a6ce6e,,162496,question,questionText,44103,form,Please select an option: \n
+674a01750100003200a6ce6e,,162496,question,responseOption1,44103,form,"My company does not operate in the construction sector in Italy, including any temporary or mobile worksites subject to Italian safety regulations and is not required to obtain the Credit License (Patente a Crediti)"
+674a01750100003200a6ce6e,,162496,question,responseOption2,44103,form,Other
+674a01900100003100a6ce70,,162497,question,questionText,44103,form,Please explain why your company is exempt from obtaining the Credit License (Patente a Crediti):\n
+674a01900100003100a6ce70,,162497,question,responseOption1,44103,form,Yes
+674a01900100003100a6ce70,,162497,question,responseOption2,44103,form,No
+674a01a101000053000b566b,,162498,question,description,44103,form,The certificate must be issued within the past 30 days: https://www.certifico.com/component/attachments/download/41341\n
+674a01a101000053000b566b,,162498,question,questionText,44103,form,Please upload a copy of your valid Credit License Certificate (Patente a Crediti Certificato):\n
+674a01a101000053000b566b,,162498,question,responseOption1,44103,form,Yes
+674a01a101000053000b566b,,162498,question,responseOption2,44103,form,No
+674a01b80100003500a6ce72,,162499,question,description,44103,form,Score must be between 0 and 100\n
+674a01b80100003500a6ce72,,162499,question,questionText,44103,form,Please enter your current score:\n
+674a01e601000033000b566e,,162500,question,description,44103,form,\n
+674a01e601000033000b566e,,162500,question,questionText,44103,form,"By signing below, I acknowledge that the information above is accurate:"
+674a01e601000033000b566e,,162500,question,responseOption1,44103,form,Yes
+674a01e601000033000b566e,,162500,question,responseOption2,44103,form,No

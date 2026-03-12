@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68af44a201000042009738f0,68a79efb01000049070ae24a,47240,questionGroup,description,47240,form,"If your company is required to comply with Ireland Statutory Labor Insurance, you will be asked to provide relevant documents in a subsequent form(s)."
+68af44a201000042009738f0,68a79efb01000049070ae24a,47240,questionGroup,questionGroupText,47240,form,Ireland Statutory Labor Insurance Applicability Assessment
+68a79f700100005001abd8ae,,179192,question,description,47240,form,"Employers are legally obliged to ensure that the correct amount of PRSI is deducted from their employees and they are required to remit it, together with the <a href = ""https://www.gov.ie/en/department-of-social-protection/publications/prsi-pay-related-social-insurance/""target=""_BLANK_"">PRSI</a> which the employer is liable to pay, to the Revenue Commissioners under the PAYE system."
+68a79f700100005001abd8ae,,179192,question,questionText,47240,form,Is your company required to comply with Ireland's Pay Related Social Insurance (PRSI) requirement and maintain applicable documentation to show compliance?
+68a79f700100005001abd8ae,,179192,question,responseOption1,47240,form,Yes
+68a79f700100005001abd8ae,,179192,question,responseOption2,47240,form,No
+68a79fe90100004b070ae24e,,179193,question,description,47240,form,
+68a79fe90100004b070ae24e,,179193,question,questionText,47240,form,
+68a79fe90100004b070ae24e,,179193,question,responseOption1,47240,form,The company consists entirely of workers temporarily assigned to Ireland who have documentation issued by the appropriate authority in their home country and are willing to provide it upon request
+68a79fe90100004b070ae24e,,179193,question,responseOption2,47240,form,"The company is a sole proprietorship with an annual income below €5,000"
+68a79fe90100004b070ae24e,,179193,question,responseOption3,47240,form,Other
+68a7a07d010000d601abd8b2,,179194,question,description,47240,form,
+68a7a07d010000d601abd8b2,,179194,question,questionText,47240,form,"If ""other"", please explain."

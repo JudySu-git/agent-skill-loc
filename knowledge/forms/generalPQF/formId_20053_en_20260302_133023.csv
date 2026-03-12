@@ -1,0 +1,20 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4ccb419e504943bb028ef231,4ccb419e504943bb028ef231,1189,questionGroup,questionGroupText,20053,form,Canadian Stop Work Orders and Fines
+4b10b3e0504943f0ef3ede2f,,2910,question,questionText,20053,form,"Has your company been cited, charged, or prosecuted for any Occupational Health and Safety non-compliance or Environmental Offence in the last three years?"
+4b10b3e0504943f0ef3ede2f,,2910,question,responseOptionNo,20053,form,No
+4b10b3e0504943f0ef3ede2f,,2910,question,responseOptionYes,20053,form,Yes
+4b10b40b50494337894914c0,,2911,question,questionText,20053,form,If yes give details:
+4b10b440504943b6cbc6ba9d,,2912,question,questionText,20053,form,Has your company ever been prosecuted for an Environmental Offence / issued with a stop order by or from a Government regulatory agency?
+4b10b440504943b6cbc6ba9d,,2912,question,responseOptionNo,20053,form,No
+4b10b440504943b6cbc6ba9d,,2912,question,responseOptionYes,20053,form,Yes
+4b10b465504943bd425e1eee,,2913,question,questionText,20053,form,If yes give details:
+4b10b4b35049437ed15fbc28,,2914,question,questionText,20053,form,"Has anyone in your company been prohibited from working on a Customer site as a Supervisor, Foreman, or Project Manager due to Health, Safety and/or Environmental issues?"
+4b10b4b35049437ed15fbc28,,2914,question,responseOptionNo,20053,form,No
+4b10b4b35049437ed15fbc28,,2914,question,responseOptionYes,20053,form,Yes
+4b10b4e850494352376be0ad,,2915,question,questionText,20053,form,If yes give details:
+4b14229d50494336bf268042,,2925,question,questionText,20053,form,Has your company received any OH&S stop work orders and/or fines within the last three years?
+4b14229d50494336bf268042,,2925,question,responseOptionNA,20053,form,N/A
+4b14229d50494336bf268042,,2925,question,responseOptionNo,20053,form,No
+4b14229d50494336bf268042,,2925,question,responseOptionYes,20053,form,Yes
+4b142306504943fc42a9caaa,,2926,question,questionText,20053,form,Please list and explain the type of work stop orders/fines your company has received.
+66749cc50100002f004fc251,5aadf46f2400006200183e6e,20053,questionGroup,questionGroupText,20053,form,Avetta PQF - Canada General Safety Information

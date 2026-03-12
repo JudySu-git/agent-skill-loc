@@ -1,0 +1,36 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774ca36b6c4c635467bd,69a8774ca36b6c4c635467bc,51176,questionGroup,questionGroupText,51176,form,Lärm,
+69a8774ca36b6c4c635467b2,,200185,question,description,51176,form,"Die Gefährdungsermittlung für Lärm muss die potenzielle Exposition der Beschäftigten bewerten. Arbeitsplatzbezogene Lärmmessungen müssen durchgeführt werden, wenn eine Exposition nicht ausgeschlossen werden kann. Die Messungen müssen Impulslärm berücksichtigen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 65 Abs. 2</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Verordnung über den Schutz der Arbeitnehmer/innen vor Lärm und Vibrationen (VOLV), § 6 Abs. 2</a>",
+69a8774ca36b6c4c635467b2,,200185,question,questionText,51176,form,"Expositionsbeurteilung (Regelmäßig, nach Änderungen)",
+69a8774ca36b6c4c635467b3,,200186,question,description,51176,form,"Vor der Zuweisung zu Tätigkeiten mit gefährdender Lärmexposition müssen Vorsorgeuntersuchungen des Gehörs durchgeführt werden. Für Beschäftigte, die schädlichen Lärmpegeln ausgesetzt sind, müssen regelmäßige Gehöruntersuchungen erfolgen. Die Untersuchungshäufigkeit muss dem Gesundheitsrisiko entsprechen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 50 Abs. 1</a>",
+69a8774ca36b6c4c635467b3,,200186,question,questionText,51176,form,"Gehöruntersuchung (Vor Einsatz, Regelmäßig)",
+69a8774ca36b6c4c635467b4,,200187,question,description,51176,form,"Expositionsgrenzwerte für Lärm dürfen nicht überschritten werden. Bei Überschreitungen müssen sofortige Korrekturmaßnahmen ergriffen werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Verordnung über den Schutz der Arbeitnehmer/innen vor Lärm und Vibrationen (VOLV), § 3 Abs. 1–3</a>",
+69a8774ca36b6c4c635467b4,,200187,question,questionText,51176,form,Expositionsgrenzwerte nicht überschritten (85 dBA),
+69a8774ca36b6c4c635467b5,,200188,question,description,51176,form,"Auslösewerte für Lärm müssen festlegen, ab wann zusätzliche Schutzmaßnahmen anzuwenden sind.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Verordnung über den Schutz der Arbeitnehmer/innen vor Lärm und Vibrationen (VOLV), § 4 Abs. 1, § 9 Abs. 3</a>",
+69a8774ca36b6c4c635467b5,,200188,question,questionText,51176,form,Maßnahmen bei Überschreitung des Auslösewerts (80 dBA),
+69a8774ca36b6c4c635467b6,,200189,question,description,51176,form,"Lärmminderungsmaßnahmen müssen die Exposition unter Berücksichtigung des Stands der Technik und der Quellbekämpfung reduzieren.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 65 Abs. 1, 4, § 65 Abs. 4 Z 5</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Verordnung über den Schutz der Arbeitnehmer/innen vor Lärm und Vibrationen (VOLV), § 11, § 13 Abs. 1 Z 1, 2</a>",
+69a8774ca36b6c4c635467b6,,200189,question,questionText,51176,form,"Schutzmaßnahmen (Technisch, Organisatorisch, PSA)",
+69a8774ca36b6c4c635467b7,,200190,question,description,51176,form,"In Bereichen mit gefährdender Lärmexposition muss das Tragen von Gehörschutz vorgeschrieben werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 65 Abs. 4 Z 3</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Verordnung über den Schutz der Arbeitnehmer/innen vor Lärm und Vibrationen (VOLV), § 14 Abs. 1</a>",
+69a8774ca36b6c4c635467b7,,200190,question,questionText,51176,form,Gehörschutz,
+69a8774ca36b6c4c635467b8,,200191,question,description,51176,form,"Lärmexpositionsregister müssen exponierte Beschäftigte aufführen und stets aktuell gehalten werden. Expositionsregister müssen bis zum Ende der Exposition aufbewahrt und den zuständigen Versicherungsträgern übermittelt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 65 Abs. 4 Z 6</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Verordnung über den Schutz der Arbeitnehmer/innen vor Lärm und Vibrationen (VOLV), § 14 Abs. 5</a>",
+69a8774ca36b6c4c635467b8,,200191,question,questionText,51176,form,Expositionsregister,
+69a8774ca36b6c4c635467b9,,200192,question,description,51176,form,"Bereiche mit hoher Lärmexposition müssen gekennzeichnet und, sofern gerechtfertigt, mit Zutrittsbeschränkungen abgegrenzt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 65 Abs. 4 Z 4</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Verordnung über den Schutz der Arbeitnehmer/innen vor Lärm und Vibrationen (VOLV), § 14 Abs. 3</a>",
+69a8774ca36b6c4c635467b9,,200192,question,questionText,51176,form,Zutrittsbeschränkung,
+69a8774ca36b6c4c635467ba,,200193,question,description,51176,form,"Die Unterweisung zu Lärmgefährdungen muss Risiken und Schutzmaßnahmen behandeln. Die Unterweisung muss bei Überschreitung der Auslösewerte erfolgen und die Themen Schutzmaßnahmen, Grenzwerte, Messergebnisse, gesundheitliche Auswirkungen, sichere Arbeitsmethoden sowie die Verwendung von PSA umfassen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 65 Abs. 4 Z 1</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Verordnung über den Schutz der Arbeitnehmer/innen vor Lärm und Vibrationen (VOLV), § 8 Abs. 1</a>",
+69a8774ca36b6c4c635467ba,,200193,question,questionText,51176,form,"Unterweisung (Erstunterweisung, nach Überschreitung)",
+69a8774ca36b6c4c635467bb,,200194,question,questionText,51176,form,<div></div>,

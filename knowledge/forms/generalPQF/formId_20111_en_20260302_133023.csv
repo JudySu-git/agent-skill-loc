@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5674b6de504943be44bbd4f9,5674b6de504943be44bbd4f9,8153,questionGroup,questionGroupText,20111,form,Tax Information
+5c182c6037000084e1bfa016,5ab498aa33000061002b86ec,20111,questionGroup,questionGroupText,20111,form,Avetta PQF - Tax Information
+5674b7fb5049432ffa405fd0,,35695,question,questionText,20111,form,Select the company tax identification that your company has:
+5674b7fb5049432ffa405fd0,,35695,question,responseOptiongst,20111,form,Goods and Services Tax (GST)
+5674b7fb5049432ffa405fd0,,35695,question,responseOptionothertaxid,20111,form,Other
+5674b7fb5049432ffa405fd0,,35695,question,responseOptionvat,20111,form,Value Added Tax (VAT)
+5674bc56504943a1ef788f2b,,35696,question,questionText,20111,form,Please enter the number:
+5674bc6f50494364fc7f41eb,,35697,question,questionText,20111,form,Please upload your company's tax certificate here:
+5674bcb05049434d53e4dbec,,35698,question,questionText,20111,form,Is your company tax exempt?
+5674bcb05049434d53e4dbec,,35698,question,responseOptionNo,20111,form,No
+5674bcb05049434d53e4dbec,,35698,question,responseOptionYes,20111,form,Yes
+5674bd80504943b051b30149,,35699,question,questionText,20111,form,Exemption certification number:
+5674bd9e5049436e13ed5d33,,35700,question,questionText,20111,form,Upload any other supporting tax forms:

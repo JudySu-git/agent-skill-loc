@@ -1,0 +1,120 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8879201000048006a84b3,64d059e91e0000535953abf6,40082,questionGroup,questionGroupText,40082,form,Linxon - 能力与资质 - 专项,Linxon – Kapazität und Kompetenz – spezifisch
+64d05a0d19000008510ec23f,64d05a0d19000008510ec23e,40083,questionGroup,questionGroupText,40082,form,建筑与基础设施,Bau und Infrastruktur
+64d05bed1e0000585853ac0f,64d05bed1e0000585853ac0e,40084,questionGroup,questionGroupText,40082,form,员工数量与经验,Anzahl und Erfahrung der Mitarbeitenden
+64d069a31e00003e5953ac44,64d069a31e00003e5953ac43,40085,questionGroup,questionGroupText,40082,form,主要设备,Hauptausstattung
+64d06c78190000364b0ec2bb,64d06c78190000364b0ec2ba,40086,questionGroup,questionGroupText,40082,form,技术与专业能力,Technische und berufliche Kompetenzen
+69a8869d0100003f00b91eca,64d06d0d1e00005b5953ac5e,40087,questionGroup,questionGroupText,40082,form,能力与资质确认,Bestätigung von Kapazität und Kompetenz
+64d05a401e0000545953abfc,,144111,question,questionText,40082,form,建筑与基础设施,Bau und Infrastruktur
+64d05a401e0000545953abfc,,144111,question,responseOption1,40082,form,办公室,Büro
+64d05a401e0000545953abfc,,144111,question,responseOption2,40082,form,车间,Werkstatt
+64d05a401e0000545953abfc,,144111,question,responseOption3,40082,form,仓储,Lager
+64d05a401e0000545953abfc,,144111,question,responseOption4,40082,form,其他,Sonstiges
+64d05a961e00003e5953abfe,,144112,question,questionText,40082,form,办公室,Büro
+64d05aaa190000364b0ec242,,144113,question,questionText,40082,form,面积（平方米）：,Fläche in qm:
+64d05ae91900001a4e0ec243,,144114,question,questionText,40082,form,位置：,Ort:
+64d05b0e190000414b0ec245,,144115,question,questionText,40082,form,车间,Werkstatt
+64d05b221e0000535953ac05,,144116,question,questionText,40082,form,面积（平方米）：,Fläche in qm:
+64d05b3b19000008510ec249,,144117,question,questionText,40082,form,位置：,Ort:
+64d05b48190000e2500ec24b,,144118,question,questionText,40082,form,仓储,Lager
+64d05b541e0000535953ac07,,144119,question,questionText,40082,form,面积（平方米）：,Fläche in qm:
+64d05b6a190000e2500ec250,,144120,question,questionText,40082,form,其他,Sonstiges
+64d05b781e0000535953ac09,,144121,question,questionText,40082,form,请说明：,Bitte angeben:
+64d05b931e0000f85753ac0b,,144122,question,questionText,40082,form,面积（平方米）：,Fläche in qm:
+64d05bab1e0000545953ac0c,,144123,question,questionText,40082,form,位置：,Ort:
+64d05c1e1e0000545953ac11,,144124,question,questionText,40082,form,员工数量与经验：,Anzahl und Erfahrung der Mitarbeitenden:
+64d05c1e1e0000545953ac11,,144124,question,responseOption1,40082,form,管理人员,Leitende Funktion
+64d05c1e1e0000545953ac11,,144124,question,responseOption10,40082,form,非技术工人,Ungelernt
+64d05c1e1e0000545953ac11,,144124,question,responseOption11,40082,form,其他,Sonstiges
+64d05c1e1e0000545953ac11,,144124,question,responseOption2,40082,form,财务,Finanzen
+64d05c1e1e0000545953ac11,,144124,question,responseOption3,40082,form,HSE,"HSE (Umwelt, Gesundheit und Sicherheit)"
+64d05c1e1e0000545953ac11,,144124,question,responseOption4,40082,form,QA/QC,QS/QK
+64d05c1e1e0000545953ac11,,144124,question,responseOption5,40082,form,工程,Ingenieurwesen
+64d05c1e1e0000545953ac11,,144124,question,responseOption6,40082,form,技术,Technik
+64d05c1e1e0000545953ac11,,144124,question,responseOption7,40082,form,监督,Aufsichtsfunktion
+64d05c1e1e0000545953ac11,,144124,question,responseOption8,40082,form,文职,Bürotätigkeit
+64d05c1e1e0000545953ac11,,144124,question,responseOption9,40082,form,技术工人,Gelernt
+64d05c8b1e00003e5953ac12,,144125,question,questionText,40082,form,管理人员,Leitende Funktion
+64d05c9b1e0000535953ac14,,144126,question,questionText,40082,form,员工人数：,Anzahl der Mitarbeitenden:
+64d05cc11900000e4e0ec25d,,144127,question,questionText,40082,form,平均经验 [年]：,Durchschnittliche Erfahrung [Jahre]:
+64d05cec1900003c4d0ec25f,,144128,question,questionText,40082,form,财务,Finanzen
+64d05cf9190000414b0ec260,,144129,question,questionText,40082,form,员工人数：,Anzahl der Mitarbeitenden:
+64d05d161900000e4e0ec262,,144130,question,questionText,40082,form,平均经验 [年]：,Durchschnittliche Erfahrung [Jahre]:
+64d05d32190000e2500ec265,,144131,question,questionText,40082,form,HSE,"HSE (Umwelt, Gesundheit und Sicherheit)"
+64d05d421900001a4e0ec267,,144132,question,questionText,40082,form,员工人数：,Anzahl der Mitarbeitenden:
+64d05d591900000e4e0ec26a,,144133,question,questionText,40082,form,平均经验 [年]：,Durchschnittliche Erfahrung [Jahre]:
+64d05d7b1e0000545953ac1b,,144134,question,questionText,40082,form,QA/QC,QS/QK
+64d05db21e0000545953ac1d,,144135,question,questionText,40082,form,员工人数：,Anzahl der Mitarbeitenden:
+64d05dd41900002a4e0ec26e,,144136,question,questionText,40082,form,平均经验 [年]：,Durchschnittliche Erfahrung [Jahre]:
+64d05e051900002a4e0ec273,,144137,question,questionText,40082,form,工程,Ingenieurwesen
+64d05ee61e0000f85753ac20,,144138,question,questionText,40082,form,员工人数：,Anzahl der Mitarbeitenden:
+64d063171e0000035953ac23,,144139,question,questionText,40082,form,平均经验 [年]：,Durchschnittliche Erfahrung [Jahre]:
+64d064be190000e2500ec279,,144140,question,questionText,40082,form,技术类,Technik
+64d0659c1900001a4e0ec27c,,144141,question,questionText,40082,form,员工人数：,Anzahl der Mitarbeitenden:
+64d065cc190000e2500ec27e,,144142,question,questionText,40082,form,平均经验年限 [年]：,Durchschnittliche Erfahrung [Jahre]:
+64d065fe1e0000535953ac29,,144143,question,questionText,40082,form,管理监督类,Aufsichtsfunktion
+64d066141900002a4e0ec282,,144144,question,questionText,40082,form,员工人数：,Anzahl der Mitarbeitenden:
+64d0662e1900001a4e0ec284,,144145,question,questionText,40082,form,平均经验年限 [年]：,Durchschnittliche Erfahrung [Jahre]:
+64d0667f1900002a4e0ec287,,144146,question,questionText,40082,form,文职类,Bürotätigkeit
+64d066921900000e4e0ec28a,,144147,question,questionText,40082,form,员工人数：,Anzahl der Mitarbeitenden:
+64d0671f190000364b0ec28c,,144148,question,questionText,40082,form,平均经验年限 [年]：,Durchschnittliche Erfahrung [Jahre]:
+64d067b31e0000f85753ac32,,144149,question,questionText,40082,form,技能工,Gelernt
+64d067ed1e0000535953ac34,,144150,question,questionText,40082,form,员工人数：,Anzahl der Mitarbeitenden:
+64d068071900000e4e0ec294,,144151,question,questionText,40082,form,平均经验年限 [年]：,Durchschnittliche Erfahrung [Jahre]:
+64d0683a1e00004f5953ac39,,144152,question,questionText,40082,form,非技能工,Ungelernt
+64d0684d19000008510ec298,,144153,question,questionText,40082,form,员工人数：,Anzahl der Mitarbeitenden:
+64d068731e00005b5953ac3b,,144154,question,questionText,40082,form,平均经验年限 [年]：,Durchschnittliche Erfahrung [Jahre]:
+64d0689a1e0000f85753ac3e,,144155,question,questionText,40082,form,其他,Sonstiges
+64d068b21900001a4e0ec29e,,144156,question,questionText,40082,form,请注明：,Bitte angeben:
+64d068d51900000e4e0ec2a1,,144157,question,questionText,40082,form,员工人数：,Anzahl der Mitarbeitenden:
+64d069231900003c4d0ec2a4,,144158,question,questionText,40082,form,平均经验年限 [年]：,Durchschnittliche Erfahrung [Jahre]:
+64d06a191e00005b5953ac46,,144159,question,description,40082,form,"请注明：
+- 设备名称 
+- 品牌/型号 
+- 数量 
+- 使用年限 
+- 租赁或自有",Bitte angeben:\n– Bezeichnung der Ausstattung \n– Marke \n– Menge \n– Nutzungsdauer \n– Geleast oder in eigenem Besitz
+64d06a191e00005b5953ac46,,144159,question,questionText,40082,form,主要设备,Hauptausstattung
+64d06b6d1900000e4e0ec2ab,,144160,question,questionText,40082,form,设备 1,Ausstattungskomponente 1
+64d06bc61e0000585853ac48,,144161,question,questionText,40082,form,设备 2,Ausstattungskomponente 2
+64d06bd81e00005b5953ac49,,144162,question,questionText,40082,form,设备 3,Ausstattungskomponente 3
+64d06be7190000e2500ec2b0,,144163,question,questionText,40082,form,设备 4,Ausstattungskomponente 4
+64d06bf31e0000545953ac4c,,144164,question,questionText,40082,form,设备 5,Ausstattungskomponente 5
+64d06c001900000e4e0ec2b3,,144165,question,questionText,40082,form,设备 6,Ausstattungskomponente 6
+64d06c0d1900000e4e0ec2b5,,144166,question,questionText,40082,form,设备 7,Ausstattungskomponente 7
+64d06c1a1e0000535953ac50,,144167,question,questionText,40082,form,设备 8,Ausstattungskomponente 8
+64d06c25190000414b0ec2b7,,144168,question,questionText,40082,form,设备 9,Ausstattungskomponente 9
+64d06c331e0000535953ac55,,144169,question,questionText,40082,form,设备 10,Ausstattungskomponente 10
+64d06c931900000e4e0ec2c0,,144170,question,questionText,40082,form,您是否使用任何整合采购、订单管理、成本控制、文件管理、进度计划等业务的软件解决方案？,"Nutzen Sie eine Softwarelösung, in der Bereiche wie Einkauf, Auftragsmanagement, Kostenüberwachung, Dokumentenmanagement, Terminplanung usw. zusammengeführt werden?"
+64d06c931900000e4e0ec2c0,,144170,question,responseOption1,40082,form,是,Ja
+64d06c931900000e4e0ec2c0,,144170,question,responseOption2,40082,form,否,Nein
+64d06cb8190000e2500ec2c1,,144171,question,questionText,40082,form,请提供详细信息,Bitte erläutern
+64d06cd21e0000035953ac5c,,144172,question,questionText,40082,form,您是否与其他公司签有任何技术合作协议？,Haben Sie Technologiepartnerschaften mit anderen Unternehmen geschlossen?
+64d06cd21e0000035953ac5c,,144172,question,responseOption1,40082,form,是,Ja
+64d06cd21e0000035953ac5c,,144172,question,responseOption2,40082,form,否,Nein
+64d06ced1900002a4e0ec2c5,,144173,question,questionText,40082,form,请提供详细信息,Bitte erläutern
+64d06d331e0000545953ac62,,144174,question,questionText,40082,form,相关设施、生产设施及在建项目已由供应商/分包商所需专业领域内的胜任人员进行了现场查访,"Die Anlagen, Fertigungseinrichtungen und laufenden Projekte wurden von einer Person besucht, die kompetent in den Fachrichtungen ist, die vom Anbieter/Unterauftragnehmer gefordert werden."
+64d06d331e0000545953ac62,,144174,question,responseOption1,40082,form,是,Ja
+64d06d331e0000545953ac62,,144174,question,responseOption2,40082,form,否,Nein
+64d06d651e00003e5953ac65,,144175,question,questionText,40082,form,供应商/分包商满足特定项目的要求,Der Anbieter/Unterauftragnehmer erfüllt die Anforderungen des Projekts in Frage.
+64d06d651e00003e5953ac65,,144175,question,responseOption1,40082,form,是,Ja
+64d06d651e00003e5953ac65,,144175,question,responseOption2,40082,form,否,Nein
+64d06d7b190000e2500ec2ca,,144176,question,questionText,40082,form,能力不足之处,Unzureichende Kompetenz
+64d06d9d1e0000035953ac68,,144177,question,questionText,40082,form,附上检查报告,Inspektionsbericht anfügen
+64d06db81e0000f85753ac6b,,144178,question,questionText,40082,form,检查人,Inspiziert von
+64d06dc61900002a4e0ec2cb,,144179,question,questionText,40082,form,姓名,Name
+64d06dd51900001a4e0ec2cd,,144180,question,questionText,40082,form,职位,Position
+64d06ddf1900003c4d0ec2ce,,144181,question,questionText,40082,form,日期,Datum
+64d06ffa1900002a4e0ec2db,,144182,question,questionText,40082,form,地点：,Ort:
+69a8864801000060006a84ae,,200279,question,questionText,40082,form,"本部分旨在正式证明供应商具备安全、胜任且可持续地执行其所承包工作范围的资质。
+它帮助 Linxon 回答三个基本问题。
+</br>
+
+* 供应商能否完成该工作？（技术能力）
+* 他们是否有足够的资源来妥善完成？（承载能力）
+* 他们能否在无过度风险的情况下完成？（HSE、运营及合规风险）",
+69a8869b0100004400b91ec9,,200280,question,questionText,40082,form,"Linxon HSE 审批确认：
+</br>
+* 相关信息已经过审查
+* 所述能力与所需工作范围相符
+* 任何差距或局限性均已被知悉并接受",

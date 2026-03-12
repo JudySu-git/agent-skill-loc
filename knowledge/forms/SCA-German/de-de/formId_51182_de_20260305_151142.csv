@@ -1,0 +1,26 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87750a36b6c4c635467ec,69a87750a36b6c4c635467eb,51182,questionGroup,questionGroupText,51182,form,Straßentransport – Gefahrgut,
+69a87750a36b6c4c635467e3,,200222,question,description,51182,form,"Eine Klassifizierung und Beförderungsgenehmigung für Gefahrgut sind erforderlich und müssen vor der Übergabe von Sendungen zum Transport überprüft werden.
+<a target=""_BLANK"" href=""https://unece.org/adr-2025-files?utm_#"">ADR Band I, Abschnitt 1.4.2.1.1(a)</a>",
+69a87750a36b6c4c635467e3,,200222,question,questionText,51182,form,Klassifizierung und Genehmigung des Absenders,
+69a87750a36b6c4c635467e4,,200223,question,description,51182,form,"Nachvollziehbare Transportinformationen sind erforderlich und müssen dem Beförderer bereitgestellt werden, einschließlich der erforderlichen Transport- und Begleitdokumente, soweit zutreffend.
+<a target=""_BLANK"" href=""https://unece.org/adr-2025-files?utm_#"">ADR Band I, Abschnitt 1.4.2.1.1(b)</a>",
+69a87750a36b6c4c635467e4,,200223,question,questionText,51182,form,Transportdokumente,
+69a87750a36b6c4c635467e5,,200224,question,description,51182,form,"Zugelassene Verpackungen und Tanks sind erforderlich, müssen für den jeweiligen Stoff geeignet sein und die vorgeschriebenen Kennzeichnungen gemäß dem Europäischen Übereinkommen über die internationale Beförderung gefährlicher Güter auf der Straße (ADR) tragen.
+<a target=""_BLANK"" href=""https://unece.org/adr-2025-files?utm_#"">ADR Band I, Abschnitt 1.4.2.1.1(c)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012852"">Gefahrgutbeförderungsgesetz, § 4</a>",
+69a87750a36b6c4c635467e5,,200224,question,questionText,51182,form,Zugelassene Verpackungen und Tanks,
+69a87750a36b6c4c635467e6,,200225,question,description,51182,form,"Großzettel (Placards) und Kennzeichnungen an Containern sind erforderlich und müssen nach dem Verladen von Gefahrgut in einen Container angebracht werden. Kennzeichnungen und Gefahrzettel an Versandstücken müssen beim Vorbereiten der Versandstücke für die Beförderung angebracht werden.
+<a target=""_BLANK"" href=""https://unece.org/adr-2025-files?utm_#"">ADR Band I, Abschnitt 1.4.3.1.1(d), 1.4.3.2(b)</a>",
+69a87750a36b6c4c635467e6,,200225,question,questionText,51182,form,Kennzeichnung und Bezettelung von Versandstücken und Containern,
+69a87750a36b6c4c635467e7,,200226,question,description,51182,form,"Ortsfeste Tanks, abnehmbare Tanks und Tankcontainer müssen von zugelassenen Stellen regelmäßig geprüft und getestet werden. Intermediate Bulk Container (IBC) müssen einer Erstprüfung, wiederkehrenden Prüfungen und Tests in vorgeschriebenen Intervallen unterzogen werden.
+<a target=""_BLANK"" href=""https://unece.org/adr-2025-files?utm_#"">ADR Band I, Anlage A, Abschnitt 6.5, 6.7–6.8, 6.11</a>",
+69a87750a36b6c4c635467e7,,200226,question,questionText,51182,form,Prüfungen,
+69a87750a36b6c4c635467e8,,200227,question,description,51182,form,"Die Feuerlöschausrüstung an Bord muss dem Fahrzeugtyp und den beförderten Gefahrgütern entsprechen. Die vorgeschriebene Notfallausrüstung muss für die Fahrzeugbesatzung und entsprechend den zutreffenden Gefahrgutklassen auf der Transporteinheit verfügbar sein.
+<a target=""_BLANK"" href=""https://unece.org/adr-2025-files?utm_#"">ADR Band II, Abschnitt 8.1.4–8.1.5</a>",
+69a87750a36b6c4c635467e8,,200227,question,questionText,51182,form,Notfallausrüstung an Bord,
+69a87750a36b6c4c635467e9,,200228,question,description,51182,form,"Für Personal mit transportbezogenen Aufgaben muss vor Arbeitsaufnahme eine Gefahrgutschulung durchgeführt werden, die den jeweiligen Aufgaben entspricht. Die Schulung muss auch Notfallanweisungen umfassen und die im Falle eines Unfalls oder Notfalls von der Fahrzeugbesatzung zu ergreifenden Maßnahmen festlegen. Notfallanweisungen und Transportdokumente müssen für den Einsatz im Notfall leicht zugänglich aufbewahrt werden.
+<a target=""_BLANK"" href=""https://unece.org/adr-2025-files?utm_#"">ADR Band I, Abschnitt 1.3.1–1.3.2, 1.10.2.1–1.10.2.3, 5.4.3</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012852"">Gefahrgutbeförderungsgesetz, § 14</a>",
+69a87750a36b6c4c635467e9,,200228,question,questionText,51182,form,Schulung,
+69a87750a36b6c4c635467ea,,200229,question,questionText,51182,form,<div></div>,

@@ -1,0 +1,4 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68fbb1ac0100003b0039d70a,672bff00010000af0087abd8,43910,questionGroup,questionGroupText,43910,form,Iraq Company Details (TW.OS)
+68fbaaee010000130149b2ed,672bff000100008a0087abd9,43911,questionGroup,questionGroupText,43910,form,Iraq Company Details
+672bff00010000a90087abde,,161624,question,questionText,43910,form,"### Certificate of Incorporation\nPlease upload a Certificate of Incorporation ensuring that it has the following details:\n<br>\n<ol>1. Official document issued by the competent Companies Registrar: \n– *Federal Iraq*: Ministry of Trade – Companies Registration Department (Baghdad)\n– *Kurdistan Region*: Ministry of Trade and Industry – General Directorate of Company Registration (Erbil, Sulaymaniyah, or Duhok)\n2. Name on the document (Supplier Legal Entity)\n3. Certificate must be Valid   \n4. Company Incorporation Number\n5. Incorporation Date\n</ol>"

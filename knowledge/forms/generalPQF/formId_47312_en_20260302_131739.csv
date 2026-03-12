@@ -1,0 +1,405 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68af7b820100004000de38ec,68acc6ac0100003a0046b70a,47312,questionGroup,questionGroupText,47312,form,Avetta PQF - GHG Targets & Carbon Reduction
+68acc7df0100003800971d5b,68acc7df0100003800971d5a,47314,questionGroup,questionGroupText,47312,form,Section 1: Emissions Targets & Transition Plans
+68acd1c7010000ae00971d86,68acd1c7010000ae00971d85,47316,questionGroup,questionGroupText,47312,form,Section 2: Emissions Reporting & Transparency
+68acdbf5010000640046bb1a,68acdbf5010000640046bb19,47317,questionGroup,questionGroupText,47312,form,Section 3: Scope 1 & 2 Emissions & Reductions
+68acdf50010000640046bb92,68acdf50010000640046bb91,47319,questionGroup,questionGroupText,47312,form,Section 4: Scope 3 Emissions Reductions & Supplier Engagement
+68ae2ddf010000690446d6a2,68acebf4010000ae009720fa,47322,questionGroup,questionGroupText,47312,form,Section 5: Operations & Innovation
+68acec11010000ef0046bedd,68acec11010000ef0046bedc,47323,questionGroup,questionGroupText,47312,form,Section 6: Carbon Offsets
+68acc9130100003e0046b8fc,,179456,question,description,47312,form,"Also referred to as carbon accounting, taking a GHG inventory, a climate impact assessment, emissions quantification, carbon management, or Scope 1, 2, and 3 emissions reporting.\n\nMore information on GHG measurement is available from <a href=""https://ghgprotocol.org/corporate-standard-training-webinar"" target=""_BLANK"">The GHG Protocol</a>"
+68acc9130100003e0046b8fc,,179456,question,questionText,47312,form,Does your organization measure its greenhouse gas (GHG) emissions?
+68acc9130100003e0046b8fc,,179456,question,responseOption1,47312,form,Yes
+68acc9130100003e0046b8fc,,179456,question,responseOption2,47312,form,"No, but we intend to implement measures in the next 12 months"
+68acc9130100003e0046b8fc,,179456,question,responseOption3,47312,form,No
+68accaf30100003e00971d68,,179457,question,description,47312,form,"More information on GHG emissions-related reduction targets is available from the Science Based Targets Initiative (<a href=""https://sciencebasedtargets.org/how-it-works"" target=""_BLANK"">SBTi</a>)."
+68accaf30100003e00971d68,,179457,question,questionText,47312,form,Has your organization made a public commitment to achieving any GHG emissions-related reduction targets?
+68accaf30100003e00971d68,,179457,question,responseOption1,47312,form,Yes
+68accaf30100003e00971d68,,179457,question,responseOption2,47312,form,"No, but we intend to set targets in the next 12 months"
+68accaf30100003e00971d68,,179457,question,responseOption3,47312,form,No
+68accb51010000ef0046b903,,179458,question,description,47312,form,Upload a copy of your organization's public commitment and any targets that have been published.
+68accb51010000ef0046b903,,179458,question,questionText,47312,form,"If yes, please upload a copy of your organization's public commitment or policy for achieving GHG emissions-related reduction targets."
+68accb51010000ef0046b903,,179458,question,responseOption1,47312,form,Yes
+68accb51010000ef0046b903,,179458,question,responseOption2,47312,form,No
+68accb90010000ef0046b906,,179459,question,description,47312,form,"Provide the first year the reduction will be assessed or measured from. This should be a designated baseline year, but if in doubt, utilize the year the target was set."
+68accb90010000ef0046b906,,179459,question,questionText,47312,form,What is your baseline year for your organization's GHG emissions reduction targets?
+68accb90010000ef0046b906,,179459,question,responseOption1,47312,form,2015
+68accb90010000ef0046b906,,179459,question,responseOption10,47312,form,2024
+68accb90010000ef0046b906,,179459,question,responseOption11,47312,form,2025
+68accb90010000ef0046b906,,179459,question,responseOption12,47312,form,2026
+68accb90010000ef0046b906,,179459,question,responseOption13,47312,form,2027
+68accb90010000ef0046b906,,179459,question,responseOption14,47312,form,2028
+68accb90010000ef0046b906,,179459,question,responseOption15,47312,form,2029
+68accb90010000ef0046b906,,179459,question,responseOption16,47312,form,2030
+68accb90010000ef0046b906,,179459,question,responseOption17,47312,form,N/A
+68accb90010000ef0046b906,,179459,question,responseOption2,47312,form,2016
+68accb90010000ef0046b906,,179459,question,responseOption3,47312,form,2017
+68accb90010000ef0046b906,,179459,question,responseOption4,47312,form,2018
+68accb90010000ef0046b906,,179459,question,responseOption5,47312,form,2019
+68accb90010000ef0046b906,,179459,question,responseOption6,47312,form,2020
+68accb90010000ef0046b906,,179459,question,responseOption7,47312,form,2021
+68accb90010000ef0046b906,,179459,question,responseOption8,47312,form,2022
+68accb90010000ef0046b906,,179459,question,responseOption9,47312,form,2023
+68accde50100004700971d76,,179460,question,description,47312,form,"Provide the year of the main target here. \n\nIf your organization has additional targets with varying dates, include those below in the question: ""If your organization has additional GHG emissions targets, please detail them here."""
+68accde50100004700971d76,,179460,question,questionText,47312,form,Specify the year the GHG emissions target is aimed to be completed.
+68accde50100004700971d76,,179460,question,responseOption1,47312,form,2020
+68accde50100004700971d76,,179460,question,responseOption10,47312,form,2029
+68accde50100004700971d76,,179460,question,responseOption11,47312,form,2030
+68accde50100004700971d76,,179460,question,responseOption12,47312,form,2031
+68accde50100004700971d76,,179460,question,responseOption13,47312,form,2032
+68accde50100004700971d76,,179460,question,responseOption14,47312,form,2033
+68accde50100004700971d76,,179460,question,responseOption15,47312,form,2034
+68accde50100004700971d76,,179460,question,responseOption16,47312,form,2035
+68accde50100004700971d76,,179460,question,responseOption17,47312,form,2036
+68accde50100004700971d76,,179460,question,responseOption18,47312,form,2037
+68accde50100004700971d76,,179460,question,responseOption19,47312,form,2038
+68accde50100004700971d76,,179460,question,responseOption2,47312,form,2021
+68accde50100004700971d76,,179460,question,responseOption20,47312,form,2039
+68accde50100004700971d76,,179460,question,responseOption21,47312,form,2040
+68accde50100004700971d76,,179460,question,responseOption22,47312,form,2041
+68accde50100004700971d76,,179460,question,responseOption23,47312,form,2042
+68accde50100004700971d76,,179460,question,responseOption24,47312,form,2043
+68accde50100004700971d76,,179460,question,responseOption25,47312,form,2044
+68accde50100004700971d76,,179460,question,responseOption26,47312,form,2045
+68accde50100004700971d76,,179460,question,responseOption27,47312,form,2046
+68accde50100004700971d76,,179460,question,responseOption28,47312,form,2047
+68accde50100004700971d76,,179460,question,responseOption29,47312,form,2048
+68accde50100004700971d76,,179460,question,responseOption3,47312,form,2022
+68accde50100004700971d76,,179460,question,responseOption30,47312,form,2049
+68accde50100004700971d76,,179460,question,responseOption31,47312,form,2050
+68accde50100004700971d76,,179460,question,responseOption32,47312,form,N/A
+68accde50100004700971d76,,179460,question,responseOption4,47312,form,2023
+68accde50100004700971d76,,179460,question,responseOption5,47312,form,2024
+68accde50100004700971d76,,179460,question,responseOption6,47312,form,2025
+68accde50100004700971d76,,179460,question,responseOption7,47312,form,2026
+68accde50100004700971d76,,179460,question,responseOption8,47312,form,2027
+68accde50100004700971d76,,179460,question,responseOption9,47312,form,2028
+68acce23010000ef0046ba83,,179461,question,description,47312,form,"Provide the percentage reduction of the main target here. \n\nIf your organization has additional targets with varying reduction goals, include those below in the question: ""If your organization has additional GHG emissions targets, please detail them here."""
+68acce23010000ef0046ba83,,179461,question,questionText,47312,form,Please specify the percentage (%) of the GHG reduction targeted.
+68acce23010000ef0046ba83,,179461,question,responseOption1,47312,form,Yes
+68acce23010000ef0046ba83,,179461,question,responseOption2,47312,form,No
+68acce6e0100004500971d7a,,179462,question,description,47312,form,"If your organization has more than one target, list the additional ones here. Include interim targets, targets that have differing dates or reduction percentages than those listed in the previous questions.\n\nInterim targets refer to those that should be completed before the timeframe of your major target and serve as interim milestones to achieving the major target(s).\n\nAlso provide any details about the targets scope or timeline not clear from your answers above."
+68acce6e0100004500971d7a,,179462,question,questionText,47312,form,"If your organization has additional GHG emissions targets, please detail them here."
+68acce6e0100004500971d7a,,179462,question,responseOption1,47312,form,Yes
+68acce6e0100004500971d7a,,179462,question,responseOption2,47312,form,No
+68acce880100003800971d7d,,179463,question,description,47312,form,"Please select any standards your targets are aligned with. If aligned with a standard not listed, select ""Yes, Other"" and write in the standard name.\n\n\nMore details on the following standards, see: \n- <a href=""https://sciencebasedtargets.org/standards-and-guidance#corporates"" target=""_BLANK"">SBTi standards</a>\n- <a href=""https://www.there100.org/"" target=""_BLANK"">Renewable Energy 100 (RE100) </a>\n- <a href=""https://www.climateactive.org.au/"" target=""_BLANK"">Climate Active</a>\n- <a href=""https://www.theclimatepledge.com/"" target=""_BLANK"">The Climate Pledge</a>\n- <a href=""https://www.bsigroup.com/en-GB/standards/pas-2060-carbon-neutrality/"" target=""_BLANK"">PAS 2060</a>\n- <a href=""https://www.bcorporation.net/en-us/programs-and-tools/climate-action/"" target=""_BLANK"">B Corp Climate Standards</a>"
+68acce880100003800971d7d,,179463,question,questionText,47312,form,Does your organization's GHG emissions target(s) align with a specific standard?
+68acce880100003800971d7d,,179463,question,responseOption1,47312,form,"Yes, they are SBTi validated targets"
+68acce880100003800971d7d,,179463,question,responseOption10,47312,form,Does not currently align with a specific standard but our organization is seeking alignment within the next 12 months
+68acce880100003800971d7d,,179463,question,responseOption11,47312,form,Not aligned with a specific standard
+68acce880100003800971d7d,,179463,question,responseOption2,47312,form,"Yes, they are SBTi aligned targets"
+68acce880100003800971d7d,,179463,question,responseOption3,47312,form,Our organization has made an SBTi Commitment to submit targets for validation according to their prescribed timeline but not does have aligned targets yet
+68acce880100003800971d7d,,179463,question,responseOption4,47312,form,"Yes, RE100"
+68acce880100003800971d7d,,179463,question,responseOption5,47312,form,"Yes, Climate Active"
+68acce880100003800971d7d,,179463,question,responseOption6,47312,form,"Yes, The Climate Pledge"
+68acce880100003800971d7d,,179463,question,responseOption7,47312,form,"Yes, Publicly Available Specification (PAS) 2060"
+68acce880100003800971d7d,,179463,question,responseOption8,47312,form,"Yes, B Corp Net Zero Climate Standards"
+68acce880100003800971d7d,,179463,question,responseOption9,47312,form,"Yes, Other"
+68acd045010000ae00971d80,,179464,question,description,47312,form,"May include formal strategies or roadmaps, assessed reduction pathways, sustainability reports with transition planning content, Task Force on Climate-related Financial Disclosures (TCFD) or Carbon Disclosure Project (CDP) disclosures relevant to transition planning, target-setting disclosures, board or executive presentations outlining climate transition strategy, or scenario analysis documentation related to climate transitions."
+68acd045010000ae00971d80,,179464,question,questionText,47312,form,"If yes, provide any relevant documents or evidence related to your organization's low-carbon or net-zero transition plan."
+68acd045010000ae00971d80,,179464,question,responseOption1,47312,form,Yes
+68acd045010000ae00971d80,,179464,question,responseOption2,47312,form,No
+68acd0b30100005f00971d83,,179465,question,description,47312,form,"Please select all of the GHG-related governance structures you have in place to assist with the management of your carbon reduction goals. For any not included in the answer options, please select ""Other"" and detail your answer."
+68acd0b30100005f00971d83,,179465,question,questionText,47312,form,What governance structures does your organization have in place to support GHG-related commitments and efforts?
+68acd0b30100005f00971d83,,179465,question,responseOption1,47312,form,Board-level dedicated sustainability committee
+68acd0b30100005f00971d83,,179465,question,responseOption10,47312,form,Use of internal carbon pricing
+68acd0b30100005f00971d83,,179465,question,responseOption11,47312,form,Assurance or third party verification of GHG inventories & reporting
+68acd0b30100005f00971d83,,179465,question,responseOption12,47312,form,Internal KPIs or performance metrics linked to GHG reduction goals
+68acd0b30100005f00971d83,,179465,question,responseOption13,47312,form,Climate-related risks integrated into enterprise risk management
+68acd0b30100005f00971d83,,179465,question,responseOption14,47312,form,Scenario analysis or stress testing for climate-related risks
+68acd0b30100005f00971d83,,179465,question,responseOption15,47312,form,Other
+68acd0b30100005f00971d83,,179465,question,responseOption16,47312,form,None
+68acd0b30100005f00971d83,,179465,question,responseOption2,47312,form,Regular board meetings or reviews on GHG reduction performance
+68acd0b30100005f00971d83,,179465,question,responseOption3,47312,form,GHG reduction targets linked to executive compensation
+68acd0b30100005f00971d83,,179465,question,responseOption4,47312,form,Executive leader(s) named as accountable for GHG reduction performance
+68acd0b30100005f00971d83,,179465,question,responseOption5,47312,form,GHG reduction governance training for Board members or senior leaders
+68acd0b30100005f00971d83,,179465,question,responseOption6,47312,form,GHG reduction awareness training for operational teams
+68acd0b30100005f00971d83,,179465,question,responseOption7,47312,form,"Integration of GHG reduction responsibilities into key functions (i.e. audit, risk, finance)"
+68acd0b30100005f00971d83,,179465,question,responseOption8,47312,form,Cross-functional GHG reduction working group
+68acd0b30100005f00971d83,,179465,question,responseOption9,47312,form,Department- or site-level GHG reduction champions or coordinators
+68acd1ef0100003e0046ba8c,,179466,question,description,47312,form,"Select all frameworks, registries, organizations, or reporting mechanisms your organization uses to disclose GHG emissions. This may include public sustainability reports, voluntary initiatives like CDP or TCFD, or mandatory regulatory disclosures. \n\nUtilize ""Other"" to list any not included here."
+68acd1ef0100003e0046ba8c,,179466,question,questionText,47312,form,"Does your organization report its GHG emissions to, or in, any of the following organizations or initiatives?"
+68acd1ef0100003e0046ba8c,,179466,question,responseOption1,47312,form,"Public sustainability report (e.g., annual report, integrated report)"
+68acd1ef0100003e0046ba8c,,179466,question,responseOption10,47312,form,Other
+68acd1ef0100003e0046ba8c,,179466,question,responseOption11,47312,form,We do not currently report GHG emissions through these or other mechanisms
+68acd1ef0100003e0046ba8c,,179466,question,responseOption2,47312,form,Carbon Disclosure Project (CDP)
+68acd1ef0100003e0046ba8c,,179466,question,responseOption3,47312,form,Science Based Targets Initiative (SBTi) submission or validation
+68acd1ef0100003e0046ba8c,,179466,question,responseOption4,47312,form,Global Reporting Initiative (GRI) disclosures
+68acd1ef0100003e0046ba8c,,179466,question,responseOption5,47312,form,Task Force on Climate-related Financial Disclosures (TCFD) alignment or reporting
+68acd1ef0100003e0046ba8c,,179466,question,responseOption6,47312,form,Global Real Estate Sustainability Benchmark (GRESB)
+68acd1ef0100003e0046ba8c,,179466,question,responseOption7,47312,form,Carbon Trust certification or footprint label
+68acd1ef0100003e0046ba8c,,179466,question,responseOption8,47312,form,"The Climate Registry or a national GHG registry (e.g., EPA, NGER)"
+68acd1ef0100003e0046ba8c,,179466,question,responseOption9,47312,form,"Disclosure to regulators or compliance schemes (e.g., EU ETS, SEC, local environmental authorities)"
+68acd2bb010000f00046ba92,,179467,question,description,47312,form,"Please provide the most recent year that your GHG emissions data is available for.\nThe data reported for your Scope 1,2 and 3 emissions in the following sections should be for this time period."
+68acd2bb010000f00046ba92,,179467,question,questionText,47312,form,What is the most recent year your organization's GHG emissions data is available for?
+68acd2bb010000f00046ba92,,179467,question,responseOption1,47312,form,2020
+68acd2bb010000f00046ba92,,179467,question,responseOption10,47312,form,2029
+68acd2bb010000f00046ba92,,179467,question,responseOption11,47312,form,2030
+68acd2bb010000f00046ba92,,179467,question,responseOption12,47312,form,2031
+68acd2bb010000f00046ba92,,179467,question,responseOption13,47312,form,2032
+68acd2bb010000f00046ba92,,179467,question,responseOption14,47312,form,2033
+68acd2bb010000f00046ba92,,179467,question,responseOption15,47312,form,2034
+68acd2bb010000f00046ba92,,179467,question,responseOption16,47312,form,2035
+68acd2bb010000f00046ba92,,179467,question,responseOption17,47312,form,2036
+68acd2bb010000f00046ba92,,179467,question,responseOption18,47312,form,2037
+68acd2bb010000f00046ba92,,179467,question,responseOption19,47312,form,2038
+68acd2bb010000f00046ba92,,179467,question,responseOption2,47312,form,2021
+68acd2bb010000f00046ba92,,179467,question,responseOption20,47312,form,2039
+68acd2bb010000f00046ba92,,179467,question,responseOption21,47312,form,2040
+68acd2bb010000f00046ba92,,179467,question,responseOption22,47312,form,2041
+68acd2bb010000f00046ba92,,179467,question,responseOption23,47312,form,2042
+68acd2bb010000f00046ba92,,179467,question,responseOption24,47312,form,2043
+68acd2bb010000f00046ba92,,179467,question,responseOption25,47312,form,2044
+68acd2bb010000f00046ba92,,179467,question,responseOption26,47312,form,2045
+68acd2bb010000f00046ba92,,179467,question,responseOption27,47312,form,2046
+68acd2bb010000f00046ba92,,179467,question,responseOption28,47312,form,2047
+68acd2bb010000f00046ba92,,179467,question,responseOption29,47312,form,2048
+68acd2bb010000f00046ba92,,179467,question,responseOption3,47312,form,2022
+68acd2bb010000f00046ba92,,179467,question,responseOption30,47312,form,2049
+68acd2bb010000f00046ba92,,179467,question,responseOption31,47312,form,2050
+68acd2bb010000f00046ba92,,179467,question,responseOption32,47312,form,N/A
+68acd2bb010000f00046ba92,,179467,question,responseOption4,47312,form,2023
+68acd2bb010000f00046ba92,,179467,question,responseOption5,47312,form,2024
+68acd2bb010000f00046ba92,,179467,question,responseOption6,47312,form,2025
+68acd2bb010000f00046ba92,,179467,question,responseOption7,47312,form,2026
+68acd2bb010000f00046ba92,,179467,question,responseOption8,47312,form,2027
+68acd2bb010000f00046ba92,,179467,question,responseOption9,47312,form,2028
+68acd355010000ef0046ba94,,179468,question,description,47312,form,"Acceptable documents may include assurance statements from audit firms, verification reports showcasing alignment with standards or national programs, third-party certifications, or assurance letters from recognized third-party providers. If you're participating in a program (e.g., CDP, SBTi) that includes formal review, include confirmation of acceptance or alignment."
+68acd355010000ef0046ba94,,179468,question,questionText,47312,form,"Please provide any relevant documents regarding verification of your organization's GHG emissions data, if available."
+68acd355010000ef0046ba94,,179468,question,responseOption1,47312,form,Yes
+68acd355010000ef0046ba94,,179468,question,responseOption2,47312,form,No
+68acd390010000ae00971d8b,,179469,question,description,47312,form,"Select the footprint or coverage across which your organization currently measures and manages its GHG emissions data. \n\nYou may select more than one, if applicable."
+68acd390010000ae00971d8b,,179469,question,questionText,47312,form,What geographical or operational footprint does your organization's GHG data cover?
+68acd390010000ae00971d8b,,179469,question,responseOption1,47312,form,Global corporate footprint
+68acd390010000ae00971d8b,,179469,question,responseOption2,47312,form,"Regional footprint (e.g. EMEA, APAC)"
+68acd390010000ae00971d8b,,179469,question,responseOption3,47312,form,National footprint
+68acd390010000ae00971d8b,,179469,question,responseOption4,47312,form,Site/Facility level emissions
+68acd390010000ae00971d8b,,179469,question,responseOption5,47312,form,Product-specific carbon footprint(s)
+68acd390010000ae00971d8b,,179469,question,responseOption6,47312,form,Intensity metrics (i.e. emissions per unit of revenue)
+68acd390010000ae00971d8b,,179469,question,responseOption7,47312,form,Other
+68acd4250100003e0046ba99,,179470,question,description,47312,form,"calculation logic your organization is using to measure its Scope 1, 2 and 3 emissions.\n\nPlease indicate which carbon accounting standard or calculation logic your organization is using to measure its Scope 1, 2 and 3 emissions. The most commonly used global standard is <a href=""https://ghgprotocol.org/corporate-standard"" target=""_BLANK"">The GHG Protocol</a>\n\nIf your approach is based on an alternative or hybrid approach than those listed, please select ""Other"" and describe briefly."
+68acd4250100003e0046ba99,,179470,question,questionText,47312,form,Please provide details on the methodology or reporting standard used for your organization's GHG emissions data.
+68acd4250100003e0046ba99,,179470,question,responseOption1,47312,form,GHG Protocol
+68acd4250100003e0046ba99,,179470,question,responseOption2,47312,form,ISO 14064
+68acd4250100003e0046ba99,,179470,question,responseOption3,47312,form,Climate Disclosure Project (CDP) Reporting Guidance
+68acd4250100003e0046ba99,,179470,question,responseOption4,47312,form,Climate Active Guidance
+68acd4250100003e0046ba99,,179470,question,responseOption5,47312,form,Partnership for Carbon Accounting Financials (PCAF)
+68acd4250100003e0046ba99,,179470,question,responseOption6,47312,form,Internal methods
+68acd4250100003e0046ba99,,179470,question,responseOption7,47312,form,Other
+68acd4250100003e0046ba99,,179470,question,responseOption8,47312,form,Unclear what methodology our organization is using to measure our GHG emissions
+68acd47f0100003800971d8e,,179471,question,description,47312,form,"Select all applicable categories that describe how your organization's GHG accounting has been independently verified or reviewed. \n\nUtilize ""Other"" to list any not included here."
+68acd47f0100003800971d8e,,179471,question,questionText,47312,form,"Has your organization's GHG emissions data been independently verified, and if so, by whom?"
+68acd47f0100003800971d8e,,179471,question,responseOption1,47312,form,"Yes, verified by a third-party assurance provider or third-party verifier (e.g., a sustainability consultancy or accounting firm)"
+68acd47f0100003800971d8e,,179471,question,responseOption2,47312,form,"Yes, verified under a formal carbon certification program (e.g., Climate Active, ISO 14064, Carbon Trust)"
+68acd47f0100003800971d8e,,179471,question,responseOption3,47312,form,"Our organization's data has not been verified, but is reviewed by an industry or sector initiative (e.g., Carbon Disclosure Project (CDP), Science Based Targets initiative (SBTi), Publicly Available Specification (PAS) 2060, Global Real Estate Sustainability Benchmark (GRESB))"
+68acd47f0100003800971d8e,,179471,question,responseOption4,47312,form,"Yes, Other"
+68acd47f0100003800971d8e,,179471,question,responseOption5,47312,form,"No, we have not had our emissions inventory independently verified "
+68acddae010000640046bb1e,,179472,question,description,47312,form,
+68acddae010000640046bb1e,,179472,question,questionText,47312,form,Provide your organization's total Scope 1 emissions for the most recent fiscal year reported.
+68acddae010000640046bb1e,,179472,question,responseOption1,47312,form,Yes
+68acddae010000640046bb1e,,179472,question,responseOption2,47312,form,No
+68acdeb7010000420046bb22,,179473,question,description,47312,form,Provide the percentage reduction you have achieved between the data reported above for Scope 1 and the Scope 1 emissions reported in the baseline year.\n
+68acdeb7010000420046bb22,,179473,question,questionText,47312,form,What percentage reduction in Scope 1 emissions has your organization achieved against your baseline to date?
+68acdeb7010000420046bb22,,179473,question,responseOption1,47312,form,0-150
+68acdeb7010000420046bb22,,179473,question,responseOption2,47312,form,N/A
+68acdeec010000400046bb25,,179474,question,description,47312,form,
+68acdeec010000400046bb25,,179474,question,questionText,47312,form,Provide your organization's total Scope 2 emissions for the most recent fiscal year reported.
+68acdeec010000400046bb25,,179474,question,responseOption1,47312,form,Yes
+68acdeec010000400046bb25,,179474,question,responseOption2,47312,form,No
+68acdf18010000ae00971dbd,,179475,question,description,47312,form,Provide the percentage reduction you have achieved between the data reported above for Scope 2 and the Scope 2 emissions reported in the baseline year.\n
+68acdf18010000ae00971dbd,,179475,question,questionText,47312,form,What percentage reduction in Scope 2 emissions has your organization achieved against your baseline to date?
+68acdf18010000ae00971dbd,,179475,question,responseOption1,47312,form,0-150
+68acdf18010000ae00971dbd,,179475,question,responseOption2,47312,form,N/A
+68acdf3b0100003e0046bb8e,,179476,question,description,47312,form,
+68acdf3b0100003e0046bb8e,,179476,question,questionText,47312,form,"Provide your organization's total Scope 3 emissions  for the most recent fiscal year reported.\n\nPlease break out the total for Categories 1-8 (Upstream) separately, if available."
+68acdf3b0100003e0046bb8e,,179476,question,responseOption1,47312,form,0 to 9.9 Billion
+68acdf3b0100003e0046bb8e,,179476,question,responseOption2,47312,form,N/A
+68acdf5d010000ef0046bb95,,179477,question,description,47312,form,"Select all that apply. If approaches you utilize are not listed, please select ""Other"" and describe any additional practices."
+68acdf5d010000ef0046bb95,,179477,question,questionText,47312,form,What low-carbon or decarbonization practices has your organization adopted in your supply chain?
+68acdf5d010000ef0046bb95,,179477,question,responseOption1,47312,form,Mandating certain performance or usage levels from suppliers in regards to renewable energy usage 
+68acdf5d010000ef0046bb95,,179477,question,responseOption10,47312,form,Other
+68acdf5d010000ef0046bb95,,179477,question,responseOption11,47312,form,None currently in place
+68acdf5d010000ef0046bb95,,179477,question,responseOption2,47312,form,Waste reduction or circularity programs in the supply chain
+68acdf5d010000ef0046bb95,,179477,question,responseOption3,47312,form,Using climate-related criteria in supplier selection or onboarding
+68acdf5d010000ef0046bb95,,179477,question,responseOption4,47312,form,"Mandating the design or sourcing of low-carbon products, components or specifications"
+68acdf5d010000ef0046bb95,,179477,question,responseOption5,47312,form,Requesting or prioritizing low-carbon options in tenders
+68acdf5d010000ef0046bb95,,179477,question,responseOption6,47312,form,Use of product lifecycle assessments (LCA) or similar assessments in purchasing
+68acdf5d010000ef0046bb95,,179477,question,responseOption7,47312,form,Co-development of decarbonization pathways with strategic suppliers
+68acdf5d010000ef0046bb95,,179477,question,responseOption8,47312,form,"Requiring of certifications, audits or other verifications"
+68acdf5d010000ef0046bb95,,179477,question,responseOption9,47312,form,Participation in sector-wide or collaborative supply chain decarbonization initiatives
+68ace91d01000047009720f2,,179496,question,description,47312,form,"There are 15 categories of Scope 3 emissions according to the GHG Protocol. See <a href=""https://ghgprotocol.org/sites/default/files/standards_supporting/Scope%203%20Detailed%20FAQ.pdf"" target=""_BLANK"">link</a> for more details: \n\nMany organizations only are reporting Scope 3 data for a few of these categories. It is common to only report on Upstream emissions (i.e. Categories 1-8). Please select all of the categories that encompass your Scope 3 reported emissions in the previous question. "
+68ace91d01000047009720f2,,179496,question,questionText,47312,form,"In your reported Scope 3 emissions above, please indicate which of the standard categories (as according to the GHG Protocol) are included."
+68ace91d01000047009720f2,,179496,question,responseOption1,47312,form,Category 1: Purchased goods and services
+68ace91d01000047009720f2,,179496,question,responseOption10,47312,form,Category 10: Processing of sold products
+68ace91d01000047009720f2,,179496,question,responseOption11,47312,form,Category 11: Use of sold products
+68ace91d01000047009720f2,,179496,question,responseOption12,47312,form,Category 12: End-of-life treatment of sold products
+68ace91d01000047009720f2,,179496,question,responseOption13,47312,form,Category 13: Downstream leased assets
+68ace91d01000047009720f2,,179496,question,responseOption14,47312,form,Category 14: Franchises
+68ace91d01000047009720f2,,179496,question,responseOption15,47312,form,Category 15: Investments
+68ace91d01000047009720f2,,179496,question,responseOption2,47312,form,Category 2: Capital goods
+68ace91d01000047009720f2,,179496,question,responseOption3,47312,form,Category 3: Fuel- and energy-related activities (not included in Scope 1 or 2)
+68ace91d01000047009720f2,,179496,question,responseOption4,47312,form,Category 4: Upstream transportation and distribution
+68ace91d01000047009720f2,,179496,question,responseOption5,47312,form,Category 5: Waste generated in operations
+68ace91d01000047009720f2,,179496,question,responseOption6,47312,form,Category 6: Business travel
+68ace91d01000047009720f2,,179496,question,responseOption7,47312,form,Category 7: Employee commuting
+68ace91d01000047009720f2,,179496,question,responseOption8,47312,form,Category 8: Upstream leased assets
+68ace91d01000047009720f2,,179496,question,responseOption9,47312,form,Category 9: Downstream transportation and distribution
+68acea36010000470046bed2,,179497,question,description,47312,form,Provide the percentage reduction you have achieved between the data reported above for Scope 3 and the Scope 3 emissions reported in the baseline year.\n
+68acea36010000470046bed2,,179497,question,questionText,47312,form,What percentage reduction in Scope 3 emissions has your organization achieved against your baseline to date?
+68acea36010000470046bed2,,179497,question,responseOption1,47312,form,0-150
+68acea36010000470046bed2,,179497,question,responseOption2,47312,form,N/A
+68acea6e010000ef0046bed4,,179498,question,description,47312,form,"For more details on science based targets see: <a href=""https://ghgprotocol.org/corporate-standard"" target=""_BLANK"">Corporate Standard</a>\nTier 1 suppliers are those your organization directly sources from."
+68acea6e010000ef0046bed4,,179498,question,questionText,47312,form,What percentage of your organization's Tier 1 (direct) suppliers have set science based targets (SBTs)?
+68acea6e010000ef0046bed4,,179498,question,responseOption1,47312,form,"N/A, because do not have Tier 1 suppliers"
+68acea6e010000ef0046bed4,,179498,question,responseOption10,47312,form,70-80%
+68acea6e010000ef0046bed4,,179498,question,responseOption11,47312,form,80-90%
+68acea6e010000ef0046bed4,,179498,question,responseOption12,47312,form,90-100%
+68acea6e010000ef0046bed4,,179498,question,responseOption2,47312,form,Do not track
+68acea6e010000ef0046bed4,,179498,question,responseOption3,47312,form,0-10%
+68acea6e010000ef0046bed4,,179498,question,responseOption4,47312,form,10-20%
+68acea6e010000ef0046bed4,,179498,question,responseOption5,47312,form,20-30%
+68acea6e010000ef0046bed4,,179498,question,responseOption6,47312,form,30-40%
+68acea6e010000ef0046bed4,,179498,question,responseOption7,47312,form,40-50%
+68acea6e010000ef0046bed4,,179498,question,responseOption8,47312,form,50-60%
+68acea6e010000ef0046bed4,,179498,question,responseOption9,47312,form,60-70%
+68aceac201000045009720f7,,179499,question,description,47312,form,
+68aceac201000045009720f7,,179499,question,questionText,47312,form,What percentage of your organization's spend do the suppliers who have set science based targets (SBTs) represent?
+68aceac201000045009720f7,,179499,question,responseOption1,47312,form,Do not track
+68aceac201000045009720f7,,179499,question,responseOption10,47312,form,80-90%
+68aceac201000045009720f7,,179499,question,responseOption11,47312,form,90-100%
+68aceac201000045009720f7,,179499,question,responseOption2,47312,form,0-10%
+68aceac201000045009720f7,,179499,question,responseOption3,47312,form,10-20%
+68aceac201000045009720f7,,179499,question,responseOption4,47312,form,20-30%
+68aceac201000045009720f7,,179499,question,responseOption5,47312,form,30-40%
+68aceac201000045009720f7,,179499,question,responseOption6,47312,form,40-50%
+68aceac201000045009720f7,,179499,question,responseOption7,47312,form,50-60%
+68aceac201000045009720f7,,179499,question,responseOption8,47312,form,60-70%
+68aceac201000045009720f7,,179499,question,responseOption9,47312,form,70-80%
+68aceb40010000420046bed7,,179500,question,description,47312,form,"Select all that apply. If approaches your organization utilizes are not listed, please select ""Other"" and describe any additional practices."
+68aceb40010000420046bed7,,179500,question,questionText,47312,form,What supplier engagement initiatives focused on emissions reduction does your organization utilize?
+68aceb40010000420046bed7,,179500,question,responseOption1,47312,form,Supplier surveys or data requests
+68aceb40010000420046bed7,,179500,question,responseOption10,47312,form,"Trainings, webinars, or other capacity building support or training"
+68aceb40010000420046bed7,,179500,question,responseOption11,47312,form,Direct engagement with key suppliers
+68aceb40010000420046bed7,,179500,question,responseOption12,47312,form,Provision of tools to support suppliers
+68aceb40010000420046bed7,,179500,question,responseOption13,47312,form,"Requiring, suggesting or supporting suppliers earning of certifications or the signing of pledges"
+68aceb40010000420046bed7,,179500,question,responseOption14,47312,form,Development and/or invitation to supplier-oriented leadership groups dedicated to sustainability
+68aceb40010000420046bed7,,179500,question,responseOption15,47312,form,Public recognition or leaderboards
+68aceb40010000420046bed7,,179500,question,responseOption16,47312,form,Other
+68aceb40010000420046bed7,,179500,question,responseOption17,47312,form,None currently in place
+68aceb40010000420046bed7,,179500,question,responseOption2,47312,form,Supplier contractual or compliance requirements to lower emissions or intensity
+68aceb40010000420046bed7,,179500,question,responseOption3,47312,form,"Financial incentives to reduce carbon emissions or intensity (e.g. GHG reduction metrics bonuses, improved payment terms, improved supply chain financing) "
+68aceb40010000420046bed7,,179500,question,responseOption4,47312,form,Supplier penalties related to GHG reduction metrics
+68aceb40010000420046bed7,,179500,question,responseOption5,47312,form,Long-term purchase  agreements for suppliers meeting or prioritizing carbon management
+68aceb40010000420046bed7,,179500,question,responseOption6,47312,form,GHG reduction evaluation criteria in tenders (e.g. 5% weighing on carbon reduction performance) 
+68aceb40010000420046bed7,,179500,question,responseOption7,47312,form,Mandatory requirements for suppliers to participate in tenders (e.g. must have SBTi targets to participate in tenders)
+68aceb40010000420046bed7,,179500,question,responseOption8,47312,form,"Offering/supporting participation opportunities for suppliers in industry consortium, events or speaking slots"
+68aceb40010000420046bed7,,179500,question,responseOption9,47312,form,"Enhanced partnership opportunities for suppliers prioritizing carbon management (e.g. co-marketing opportunities, awards, new product co-development)"
+68acec6d010000420046bee0,,179501,question,description,47312,form,"This question refers to your organization’s use of recycled materials in any part of your production process, whether in raw materials, packaging, components, or finished goods.\n\nExamples include recycled plastics, metals, paper, textiles, or other recovered inputs. Please answer based on current practices, not future goals."
+68acec6d010000420046bee0,,179501,question,questionText,47312,form,Does your organization use recycled materials in your production process?
+68acec6d010000420046bee0,,179501,question,responseOption1,47312,form,"Yes, used significantly in core materials or components across many products (e.g. estimated recycled content in >50% of SKUs or across >50% of production volume)"
+68acec6d010000420046bee0,,179501,question,responseOption10,47312,form,Not applicable - we do not produce physical goods or materials
+68acec6d010000420046bee0,,179501,question,responseOption11,47312,form,Other
+68acec6d010000420046bee0,,179501,question,responseOption2,47312,form,"Yes, used significantly in core materials or components but in only some products (e.g. >50% recycled materials in select product lines)"
+68acec6d010000420046bee0,,179501,question,responseOption3,47312,form,"Yes, used moderately in core materials or components across product categories/types (e.g. approximately 10-50% recycled content)"
+68acec6d010000420046bee0,,179501,question,responseOption4,47312,form,"Yes, used moderately in core materials or components but only in some products (e.g. 10-50% recycled materials in select product lines)"
+68acec6d010000420046bee0,,179501,question,responseOption5,47312,form,"Yes, recycled content used, but total volume is limited (estimated <10% of material inputs)"
+68acec6d010000420046bee0,,179501,question,responseOption6,47312,form,"Yes, used in packaging across most or all products"
+68acec6d010000420046bee0,,179501,question,responseOption7,47312,form,"Yes, used in packaging for select product lines"
+68acec6d010000420046bee0,,179501,question,responseOption8,47312,form,"Not currently using recycled materials, but actively exploring"
+68acec6d010000420046bee0,,179501,question,responseOption9,47312,form,Not currently using recycled materials and no plans at this stage
+68acecd901000038009720fe,,179502,question,description,47312,form,"Please provide details about where in your organization's current production process recycled materials are used, what kinds of materials are used, if specific product lines are more in scope, any strategies or specific partners that are used."
+68acecd901000038009720fe,,179502,question,questionText,47312,form,Please provide details about your organization's use of recycled materials in your production process.
+68acecd901000038009720fe,,179502,question,responseOption1,47312,form,Yes
+68acecd901000038009720fe,,179502,question,responseOption2,47312,form,No
+68adc9670100005f0097216a,,179521,question,description,47312,form,"Select all methods by which your organization implements low-carbon initiatives in your own operations (as opposed to in your supply chain, as covered in the previous section)."
+68adc9670100005f0097216a,,179521,question,questionText,47312,form,What specific low-carbon initiatives has your organization implemented in your operations?
+68adc9670100005f0097216a,,179521,question,responseOption1,47312,form,On-site renewable energy generation
+68adc9670100005f0097216a,,179521,question,responseOption10,47312,form,Product development of lower carbon alternatives
+68adc9670100005f0097216a,,179521,question,responseOption11,47312,form,Waste reduction programs
+68adc9670100005f0097216a,,179521,question,responseOption12,47312,form,Internal carbon pricing or shadow pricing mechanisms
+68adc9670100005f0097216a,,179521,question,responseOption13,47312,form,"Operational behavior change initiatives (e.g. employee training, carbon reduction targets for teams)"
+68adc9670100005f0097216a,,179521,question,responseOption14,47312,form,Other
+68adc9670100005f0097216a,,179521,question,responseOption15,47312,form,None currently in place
+68adc9670100005f0097216a,,179521,question,responseOption2,47312,form,Purchase of renewable electricity
+68adc9670100005f0097216a,,179521,question,responseOption3,47312,form,"Energy efficiency upgrades (e.g. LED lighting, HVAC optimization)"
+68adc9670100005f0097216a,,179521,question,responseOption4,47312,form,"Electrification of processes or equipment (e.g. vehicles, electric boilers, forklifts)"
+68adc9670100005f0097216a,,179521,question,responseOption5,47312,form,Water efficiency improvements
+68adc9670100005f0097216a,,179521,question,responseOption6,47312,form,Process redesign that reduces energy use
+68adc9670100005f0097216a,,179521,question,responseOption7,47312,form,"Low-carbon transport or logistics (e.g. EV fleet, modal shift, optimized routing, lower carbon fuel usage)"
+68adc9670100005f0097216a,,179521,question,responseOption8,47312,form,Carbon capture or abatement technologies implemented at site
+68adc9670100005f0097216a,,179521,question,responseOption9,47312,form,"Building upgrades to meet green building standards (e.g. NABERS, Green Star)"
+68adcb8f0100003a0046c15a,,179522,question,description,47312,form,"If your organization participates in any formal industry collaborations, partnerships, or coalitions focused on emissions reduction or net zero alignment, please indicate them here. These options are not exhaustive so please utilize ""Other"" to list any not included here. \n\nTypes may include sector-wide initiatives, national or regional organizations, or even local or niche collaborations. Participation may include signing a pledge or implementing joint action plans, but also may include more informal roundtables or collective action planning."
+68adcb8f0100003a0046c15a,,179522,question,questionText,47312,form,Is your organization actively participating in any industry collaborations or initiatives aimed at reducing emissions?
+68adcb8f0100003a0046c15a,,179522,question,responseOption1,47312,form,Race to Zero
+68adcb8f0100003a0046c15a,,179522,question,responseOption10,47312,form,Other
+68adcb8f0100003a0046c15a,,179522,question,responseOption11,47312,form,Not currently involved in any related industry collaborations or initiatives
+68adcb8f0100003a0046c15a,,179522,question,responseOption2,47312,form,The Climate Pledge
+68adcb8f0100003a0046c15a,,179522,question,responseOption3,47312,form,RE100 Working Groups
+68adcb8f0100003a0046c15a,,179522,question,responseOption4,47312,form,WBCSD (World Business Council for Sustainable Development)
+68adcb8f0100003a0046c15a,,179522,question,responseOption5,47312,form,B Lab Network
+68adcb8f0100003a0046c15a,,179522,question,responseOption6,47312,form,CDP Supply Chain Program
+68adcb8f0100003a0046c15a,,179522,question,responseOption7,47312,form,Business Ambition for 1.5C
+68adcb8f0100003a0046c15a,,179522,question,responseOption8,47312,form,UN Global Compact
+68adcb8f0100003a0046c15a,,179522,question,responseOption9,47312,form,World Economic Forum (WEF) - Net Zero or Sector Initiatives
+68add1210100005f00972183,,179536,question,description,47312,form,"For more guidance on carbon offsets, click <a href=""https://www.charteredaccountantsanz.com/news-and-analysis/insights/research-and-insights/ca-anz-launches-carbon-accounting-faqs"" target=""_BLANK"">here</a>"
+68add1210100005f00972183,,179536,question,questionText,47312,form,How does your organization currently use carbon offsets as part of your emissions strategy?
+68add1210100005f00972183,,179536,question,responseOption1,47312,form,We do not use carbon offsets
+68add1210100005f00972183,,179536,question,responseOption2,47312,form,"We use offsets occasionally, to address temporary or hard-to-abate emissions"
+68add1210100005f00972183,,179536,question,responseOption3,47312,form,"We use offsets regularly, but only for emissions we cannot reduce yet"
+68add1210100005f00972183,,179536,question,responseOption4,47312,form,"We use offsets heavily, as a core part of our carbon strategy"
+68add1210100005f00972183,,179536,question,responseOption5,47312,form,We offset emissions without a defined reduction plan
+68add253010000470046c176,,179537,question,description,47312,form,"<a href=""https://icvcm.org/core-carbon-principles/"" target=""_BLANK"">Guidance on best practices</a> regarding the use of carbon offsets."
+68add253010000470046c176,,179537,question,questionText,47312,form,What best describes your organization's ongoing or future approach to purchasing and renewing carbon offsets?
+68add253010000470046c176,,179537,question,responseOption1,47312,form,We plan to purchase long-term or multi-year offsets as part of a structured decarbonization plan
+68add253010000470046c176,,179537,question,responseOption2,47312,form,"We purchase offsets annually, with regular reviews for quality and relevance"
+68add253010000470046c176,,179537,question,responseOption3,47312,form,"We currently purchase offsets as needed, without a long-term strategy"
+68add253010000470046c176,,179537,question,responseOption4,47312,form,We are planning to phase out offset use as internal reductions increase
+68add253010000470046c176,,179537,question,responseOption5,47312,form,We expect to increase our use of offsets in the foreseeable future
+68add253010000470046c176,,179537,question,responseOption6,47312,form,We do not currently track renewal or longevity of offsets
+68add313010000420046c17b,,179538,question,description,47312,form,
+68add313010000420046c17b,,179538,question,questionText,47312,form,Please provide your organization's annual carbon offsets in metric tons CO2e for the most recent fiscal year reported.
+68add313010000420046c17b,,179538,question,responseOption1,47312,form,Yes
+68add313010000420046c17b,,179538,question,responseOption2,47312,form,No
+68add3780100005f0097218c,,179539,question,description,47312,form,"Relevant documentation may include:\n* Purchase receipts or contracts from offset providers\n* Offset certificates (e.g. Verra, Gold Standard, Climate Active)\n* Project information sheets (e.g. location, type, registry ID, co-benefits)\n* Portfolio summaries showing volumes, vintages, or project types\n* Internal memos or reports explaining the role of offsets in your climate strategy\n* Evidence of third-party verification"
+68add3780100005f0097218c,,179539,question,questionText,47312,form,"Please upload any documentation related to your organization's carbon offset purchases, if available."
+68add3780100005f0097218c,,179539,question,responseOption1,47312,form,Yes
+68add3780100005f0097218c,,179539,question,responseOption2,47312,form,No
+68add478010000640046c17d,,179540,question,questionText,47312,form,Other
+68add478010000640046c17d,,179540,question,responseOption1,47312,form,Yes
+68add478010000640046c17d,,179540,question,responseOption2,47312,form,No
+68add516010000450097218f,,179541,question,questionText,47312,form,Other
+68add516010000450097218f,,179541,question,responseOption1,47312,form,Yes
+68add516010000450097218f,,179541,question,responseOption2,47312,form,No
+68add57e0100003e0046c180,,179542,question,questionText,47312,form,Other
+68add57e0100003e0046c180,,179542,question,responseOption1,47312,form,Yes
+68add57e0100003e0046c180,,179542,question,responseOption2,47312,form,No
+68add5b4010000470046c181,,179543,question,questionText,47312,form,Other
+68add5b4010000470046c181,,179543,question,responseOption1,47312,form,Yes
+68add5b4010000470046c181,,179543,question,responseOption2,47312,form,No
+68add68a0100003a0046c185,,179544,question,questionText,47312,form,Other
+68add68a0100003a0046c185,,179544,question,responseOption1,47312,form,Yes
+68add68a0100003a0046c185,,179544,question,responseOption2,47312,form,No
+68add6d20100003e00972197,,179545,question,questionText,47312,form,Other
+68add6d20100003e00972197,,179545,question,responseOption1,47312,form,Yes
+68add6d20100003e00972197,,179545,question,responseOption2,47312,form,No
+68add79d0100004200972199,,179546,question,questionText,47312,form,Other
+68add79d0100004200972199,,179546,question,responseOption1,47312,form,Yes
+68add79d0100004200972199,,179546,question,responseOption2,47312,form,No
+68add7b00100003e0097219c,,179547,question,questionText,47312,form,Other
+68add7b00100003e0097219c,,179547,question,responseOption1,47312,form,Yes
+68add7b00100003e0097219c,,179547,question,responseOption2,47312,form,No
+68add8250100005f0097219f,,179548,question,questionText,47312,form,Other
+68add8250100005f0097219f,,179548,question,responseOption1,47312,form,Yes
+68add8250100005f0097219f,,179548,question,responseOption2,47312,form,No
+68add8770100003e009721a2,,179549,question,questionText,47312,form,Other
+68add8770100003e009721a2,,179549,question,responseOption1,47312,form,Yes
+68add8770100003e009721a2,,179549,question,responseOption2,47312,form,No
+68add8ad010000ae009721a5,,179550,question,questionText,47312,form,Other
+68add8ad010000ae009721a5,,179550,question,responseOption1,47312,form,Yes
+68add8ad010000ae009721a5,,179550,question,responseOption2,47312,form,No
+68addafa010000620046c18f,,179551,question,description,47312,form,"A transition plan is a strategic roadmap to outline how your organization will shift its operations, assets, and business model to align with a low-carbon or net-zero future - typically consistent with global climate goals like limiting warming to 1.5°C.\n\nAdditional guidance on transition planning is available <a href=""https://www.fsb-tcfd.org/publications/tcfd-guidance-on-metrics-targets-and-transition-plans/"" target=""_BLANK"">here</a>."
+68addafa010000620046c18f,,179551,question,questionText,47312,form,Does your organization have a transition plan in place to outline how your organization will shift to align with a low-carbon or net-zero future?
+68addafa010000620046c18f,,179551,question,responseOption1,47312,form,"Yes, a formally documented and active transition plan with defined targets and timelines for Scope 1 and 2 emissions"
+68addafa010000620046c18f,,179551,question,responseOption2,47312,form,"Yes, a formally documented and active transition plan with defined targets and timelines for Scope 1, 2 and 3 emissions"
+68addafa010000620046c18f,,179551,question,responseOption3,47312,form,We have a draft or informal plan that is being developed or refined
+68addafa010000620046c18f,,179551,question,responseOption4,47312,form,We do not currently have a plan but intend to develop one within the next 12 months
+68addafa010000620046c18f,,179551,question,responseOption5,47312,form,No current plan or timeline to create one

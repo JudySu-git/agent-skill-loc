@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce46240100005b0021f93f,662fd70d1a00005e0045d2d6,41998,questionGroup,description,41998,form,You are getting this category because you selected a license in the Avetta PQF - New South Wales Contractor License.
+66ce46240100005b0021f93f,662fd70d1a00005e0045d2d6,41998,questionGroup,questionGroupText,41998,form,New South Wales Contractor License - Transport Explosives and / or Security Sensitive Dangerous Substance
+662fd70d1a00005b0045d2d7,,153302,question,questionText,41998,form,Please upload your license:\n
+662fd70d1a00005b0045d2d7,,153302,question,responseOption1,41998,form,Yes
+662fd70d1a00005b0045d2d7,,153302,question,responseOption2,41998,form,No
+662fd70d1a00005b0045d2d9,,153303,question,questionText,41998,form,Expiration Date:
+662fd70d1a00005b0045d2d9,,153303,question,responseOption1,41998,form,Yes
+662fd70d1a00005b0045d2d9,,153303,question,responseOption2,41998,form,No
+662fd70d1a00005b0045d2d8,,153304,question,questionText,41998,form,License Number:
+662fd70d1a00005b0045d2d8,,153304,question,responseOption1,41998,form,Yes
+662fd70d1a00005b0045d2d8,,153304,question,responseOption2,41998,form,No

@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+606f6eaf4300008efba58652,5d3757be330000b828a68a18,27014,questionGroup,description,27014,form,This policy was triggered by the Avetta PQF - Workers' Compensation Questionnaire
+606f6eaf4300008efba58652,5d3757be330000b828a68a18,27014,questionGroup,questionGroupText,27014,form,Wyoming Workers' Compensation
+606f6e374400004cc1368651,5d375812360000b66a8e3c37,27015,questionGroup,questionGroupText,27014,form,Policy Information
+5d375845360000b66a8e3c4b,,84866,question,questionText,27014,form,Date of Commencement: 
+5d375856360000b66a8e3c6e,,84867,question,questionText,27014,form,Expiration Date: 
+5d3758673500002f3cacf48e,,84868,question,questionText,27014,form,Please upload  Wyoming Workers' Compensation Certificate
+606f6e354400004cc1368650,,108553,question,description,27014,form,Used to provide instructions from Client
+606f6e354400004cc1368650,,108553,question,questionText,27014,form,Comments
+606f6e5d4400004cc1368690,,108555,question,description,27014,form,Date the instructions from Client expire
+606f6e5d4400004cc1368690,,108555,question,questionText,27014,form,VARIANCE Expiration Date

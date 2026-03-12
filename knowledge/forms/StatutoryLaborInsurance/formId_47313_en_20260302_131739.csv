@@ -1,0 +1,10 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68b9a6af01000031053f1cbc,68acc6b00100003a0046b70b,47313,questionGroup,description,47313,form,This requirement is triggered because you indicated your organization maintains valid Switzerland Statutory Labor Insurance documentation in the Switzerland Statutory Labor Insurance Applicability Assessment questionnaire.
+68b9a6af01000031053f1cbc,68acc6b00100003a0046b70b,47313,questionGroup,questionGroupText,47313,form,Switzerland Statutory Labor Insurance Certificate
+68acc6d20100004400971d4b,,179441,question,description,47313,form,"The <a href = ""https://www.suva.ch/de-ch/versicherung/unfallversicherung/unfallversicherung-uvg/ist-mein-betrieb-bei-der-suva-versichert"" target = ""_BLANK_"" >insurance policy certificate</a> is issued to the company on an annual basis by SUVA or private insurer.  \n\n"
+68acc6d20100004400971d4b,,179441,question,questionText,47313,form,Please upload a valid insurance policy certificate from SUVA or a private insurer confirming your company’s compliance with employee insurance schemes.
+68acc6f80100004700971d52,,179442,question,questionText,47313,form,Please provide the issue date for your insurance policy certificate.
+68acc7010100003800971d55,,179443,question,description,47313,form,Insurance policies are often valid for one year. Employers should always maintain valid coverage at all times while employing applicable workers.
+68acc7010100003800971d55,,179443,question,questionText,47313,form,Please provide the expiration date for your insurance policy certificate.
+68acc70b010000f00046b715,,179444,question,description,47313,form,"The Registration Confirmation Certificate is issued to a company  directly from your respective AHV (OASI) compensation office. A list of all such offices is available on <a href = ""https://www.ahv-iv.ch"" target = ""_BLANK_"" >official government portals</a>.\n\n\n\n\n"
+68acc70b010000f00046b715,,179444,question,questionText,47313,form,Please upload a valid Registration Confirmation Certificate with cantonal social insurance office confirming your company’s compliance with employee insurance schemes.

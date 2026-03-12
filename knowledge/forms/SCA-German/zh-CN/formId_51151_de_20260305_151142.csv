@@ -1,0 +1,9 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87739a36b6c4c635466d2,69a87739a36b6c4c635466d1,51151,questionGroup,questionGroupText,51151,form,建筑 - 培训,
+69a87739a36b6c4c635466ce,,200007,question,description,51151,form,"在首次进行现场作业前，必须提供关于安全作业执行和健康保护的初始指导。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance，第154(1)条</a>",
+69a87739a36b6c4c635466ce,,200007,question,questionText,51151,form,现场安全入场教育（作业前）,
+69a87739a36b6c4c635466cf,,200008,question,description,51151,form,"复训须每年进行一次，并在变更、事故或未遂事件造成危险时及时开展。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance，第154(7)条</a>",
+69a87739a36b6c4c635466cf,,200008,question,questionText,51151,form,复训（每年及事件后）,
+69a87739a36b6c4c635466d0,,200009,question,questionText,51151,form,<div></div>,

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6733e3280100003900c3cd26,671fda2d0100008401a749e4,43677,questionGroup,questionGroupText,43677,form,Brazil ANVISA Authorization
+671fda480100004c01c2740e,,160615,question,description,43677,form,https://www.gov.br/anvisa/pt-br/english
+671fda480100004c01c2740e,,160615,question,questionText,43677,form,Please upload your company's valid ANVISA Authorization (AFE)
+671fda480100004c01c2740e,,160615,question,responseOption1,43677,form,Yes
+671fda480100004c01c2740e,,160615,question,responseOption2,43677,form,No
+6722662c0100008c00c0f5b2,,161189,question,questionText,43677,form,Expiration Date
+6722662c0100008c00c0f5b2,,161189,question,responseOption1,43677,form,Yes
+6722662c0100008c00c0f5b2,,161189,question,responseOption2,43677,form,No
+67226660010000a80090f805,,161190,question,questionText,43677,form,Sign below to confirm the information and/or document provided is correct and updated
+67226660010000a80090f805,,161190,question,responseOption1,43677,form,Yes
+67226660010000a80090f805,,161190,question,responseOption2,43677,form,No

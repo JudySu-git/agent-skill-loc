@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66c4abd80100003200270e99,66c3a41e01000030008976f7,43234,questionGroup,questionGroupText,43234,form,New South Wales - Coal Mines Insurance Exemption
+66c3a41e01000033008976f9,66c3a41e01000033008976f9,43235,questionGroup,questionGroupText,43234,form,Policy Documentation
+66c3a41e01000033008976f8,66c3a41e01000033008976f8,43236,questionGroup,questionGroupText,43234,form,Policy Information
+66c3a41e0100004d008976fa,,158766,question,questionText,43234,form,Please upload a copy of your exemption letter that’s been issued by Coal Mines Insurance.
+66c3a41e0100004d008976fa,,158766,question,responseOption1,43234,form,Yes
+66c3a41e0100004d008976fa,,158766,question,responseOption2,43234,form,No
+66c3a41e0100004d008976fb,,158767,question,description,43234,form,Date the instructions from Client expire
+66c3a41e0100004d008976fb,,158767,question,questionText,43234,form,VARIANCE Expiration Date
+66c3a41e01000031008976fc,,158768,question,description,43234,form,Used to provide instructions from Client
+66c3a41e01000031008976fc,,158768,question,questionText,43234,form,Comments
+66c3a41e01000033008976fd,,158769,question,questionText,43234,form,"You are receiving this form because you answered “No, my organisation has been issued with an exemption letter from Coal Mines Insurance (CMI)” in the NSW Coal Mines Insurance Questionnaire."
+66c3a41e01000033008976fd,,158769,question,responseOption1,43234,form,Yes
+66c3a41e01000033008976fd,,158769,question,responseOption2,43234,form,No
+66c3a41e01000031008976fe,,158770,question,questionText,43234,form,Date of Commencement:

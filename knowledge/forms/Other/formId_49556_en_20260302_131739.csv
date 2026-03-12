@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6937519501000049009e530a,693744620100004100e1e856,49556,questionGroup,description,49556,form,"If your company is required to comply with Honduran Social Security requirements, you will be asked to provide relevant documents in a subsequent form(s)."
+6937519501000049009e530a,693744620100004100e1e856,49556,questionGroup,questionGroupText,49556,form,Honduras Social Security IHSS Applicability Assessment
+693744620100004700e1e857,,192007,question,description,49556,form,
+693744620100004700e1e857,,192007,question,questionText,49556,form,Is your company required to comply with Honduran Social Security requirements as regulated by Honduran Social Security Institute (IHSS) and maintain applicable documentation to show compliance?
+693744620100004700e1e857,,192007,question,responseOption1,49556,form,Yes
+693744620100004700e1e857,,192007,question,responseOption2,49556,form,No
+693744620100004700e1e858,,192008,question,questionText,49556,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Honduran legislation."
+693744620100004700e1e859,,192009,question,questionText,49556,form,"If ""Other"", please explain."
+693744620100008202e1e85a,,192010,question,questionText,49556,form,Please select from the following reason(s) your company is exempt from complying with Honduran Social Security requirements.
+693744620100008202e1e85a,,192010,question,responseOption1,49556,form,The company is a sole proprietorship with no other employees. 
+693744620100008202e1e85a,,192010,question,responseOption2,49556,form,The company does not have any employees in Honduras.
+693744620100008202e1e85a,,192010,question,responseOption3,49556,form,Other

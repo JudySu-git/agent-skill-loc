@@ -1,0 +1,61 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4f39dd29504943c3fed0e861,4f39dd29504943c3fed0e861,75,questionGroup,questionGroupText,20134,form,Mechanical Integrity
+433e17d0504943459a358f10,,360,question,questionText,20134,form,Please select if your company currently uses this training program:
+433e17d0504943459a358f10,,360,question,responseOption1,20134,form,NCCER
+429fe3d05049432afc2643bf,,361,question,questionText,20134,form,If OTHER was indicated above please provide detail of what method is used to train your employees:
+429fe3d05049432e5b64ff9e,,363,question,questionText,20134,form,Is your company an accredited NCCER Assessment Center?
+429fe3d05049432e5b64ff9e,,363,question,responseOptionNo,20134,form,No
+429fe3d05049432e5b64ff9e,,363,question,responseOptionYes,20134,form,Yes
+429fe3d05049436deae69712,,364,question,questionText,20134,form,Does your company assess sub-journeyman craftsmen/trainees/helpers for upgrade training recommendations?
+429fe3d05049436deae69712,,364,question,responseOptionNA,20134,form,N/A
+429fe3d05049436deae69712,,364,question,responseOptionNo,20134,form,No
+429fe3d05049436deae69712,,364,question,responseOptionYes,20134,form,Yes
+42a3d8505049439d73a96497,,391,question,questionText,20134,form,Please select if your company currently uses this training program:
+42a3d8505049439d73a96497,,391,question,responseOption1,20134,form,NCCCO
+42a3d850504943769d44e3da,,392,question,questionText,20134,form,Please select if your company currently uses this training program:
+42a3d850504943769d44e3da,,392,question,responseOption1,20134,form,NICET
+42a3d850504943d49b785fe5,,393,question,questionText,20134,form,In-House
+42a3d850504943d49b785fe5,,393,question,responseOption1,20134,form,Click here if Applicable
+42a3d850504943bc0b531b66,,394,question,questionText,20134,form,Other
+42a3d850504943bc0b531b66,,394,question,responseOption1,20134,form,Click here if Applicable
+4c33b1a950494315004cf27e,4c33b1a950494315004cf27e,409,questionGroup,questionGroupText,20134,form,Assessment Training
+4f39dd2450494341bb51d11e,4f39dd2450494341bb51d11e,410,questionGroup,questionGroupText,20134,form,Integrity Management
+4cdad8c25049436d5d128552,4cdad8c25049436d5d128552,1211,questionGroup,questionGroupText,20134,form,US Assessment Training
+4417ad6050494321db8cb002,,1269,question,questionText,20134,form,"Does your company have written mechanical procedures? For example: Work Plans, Work Instructions, Work Standards and/or Work Procedures such as Manufacturer Repair Manuals or Contractor Produced Work Instructions?"
+4417ad6050494321db8cb002,,1269,question,responseOptionNA,20134,form,N/A
+4417ad6050494321db8cb002,,1269,question,responseOptionNo,20134,form,No
+4417ad6050494321db8cb002,,1269,question,responseOptionYes,20134,form,Yes
+4417ad6050494369dc5b3fe6,,1270,question,questionText,20134,form,Are employees trained on company mechanical procedures?
+4417ad6050494369dc5b3fe6,,1270,question,responseOptionNA,20134,form,N/A
+4417ad6050494369dc5b3fe6,,1270,question,responseOptionNo,20134,form,No
+4417ad6050494369dc5b3fe6,,1270,question,responseOptionYes,20134,form,Yes
+4417ad605049437aa9538e05,,1271,question,questionText,20134,form,Describe below what method of training is done?
+4417ad6050494321ca8e4b52,,1272,question,questionText,20134,form,How often is refresher training completed?
+4417ad6050494372187f98e9,,1273,question,questionText,20134,form,Are training records kept for mechanical procedure training?
+4417ad6050494372187f98e9,,1273,question,responseOptionNA,20134,form,N/A
+4417ad6050494372187f98e9,,1273,question,responseOptionNo,20134,form,No
+4417ad6050494372187f98e9,,1273,question,responseOptionYes,20134,form,Yes
+4417ad6050494327b227b37e,,1274,question,questionText,20134,form,Where are the mechanical training documents kept?
+4417ad605049433f68b5f234,,1275,question,questionText,20134,form,Is an index of the company mechanical procedures available for review?
+4417ad605049433f68b5f234,,1275,question,responseOptionNA,20134,form,N/A
+4417ad605049433f68b5f234,,1275,question,responseOptionNo,20134,form,No
+4417ad605049433f68b5f234,,1275,question,responseOptionYes,20134,form,Yes
+4417ad60504943df804baa6f,,1276,question,questionText,20134,form,Is a sample of the mechanical procedures/work standards available for review?
+4417ad60504943df804baa6f,,1276,question,responseOptionNA,20134,form,N/A
+4417ad60504943df804baa6f,,1276,question,responseOptionNo,20134,form,No
+4417ad60504943df804baa6f,,1276,question,responseOptionYes,20134,form,Yes
+452dcbd0504943af6ad5f76f,,1442,question,questionText,20134,form,Please select if your company currently uses this training program:
+452dcbd0504943af6ad5f76f,,1442,question,responseOption1,20134,form,CSTOP
+452dcbd05049432f943c0013,,1443,question,questionText,20134,form,Please select if your company currently uses this training program:
+452dcbd05049432f943c0013,,1443,question,responseOption1,20134,form,RSO
+452dcbd05049438d421e4e85,,1444,question,questionText,20134,form,Please select if your company currently uses this training program:
+452dcbd05049438d421e4e85,,1444,question,responseOption1,20134,form,BATC/BATT
+452dcbd0504943bfbf83d344,,1445,question,questionText,20134,form,Reciprocal Safety Councils (please list)
+4ea082ae504943f5b6c5f17c,,9670,question,questionText,20134,form,Does your company provide products or services for Safety Instrumented Systems (SIS)?
+4ea082ae504943f5b6c5f17c,,9670,question,responseOptionNA,20134,form,N/A
+4ea082ae504943f5b6c5f17c,,9670,question,responseOptionNo,20134,form,No
+4ea082ae504943f5b6c5f17c,,9670,question,responseOptionYes,20134,form,Yes
+4ea08335504943ec945d13f5,,9671,question,questionText,20134,form,"If yes, does your company have work practices, procedures and training in place to demonstrate competency for the duties your company performs or products provided?"
+4ea08335504943ec945d13f5,,9671,question,responseOptionNo,20134,form,No
+4ea08335504943ec945d13f5,,9671,question,responseOptionYes,20134,form,Yes
+5c182e7b36000066e842e5bd,5ab826f42f0000cc01af6469,20134,questionGroup,questionGroupText,20134,form,Avetta PQF - Mechanical Integrity

@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+696ac2fe0100006100c68f48,696ac1ff01000043001adf6a,50397,questionGroup,description,50397,form,This requirement is triggered because you indicated your organization maintains a valid Authorization Certificate in the Czech Republic Trade Licensing Commercial Register Applicability Assessment questionnaire.\t
+696ac2fe0100006100c68f48,696ac1ff01000043001adf6a,50397,questionGroup,questionGroupText,50397,form,Czech Republic Auditors Authorization
+696ac1ff0100003f001adf6b,,197120,question,description,50397,form,"Upload your company’s authorization issued under the <a href=""https://www.psp.cz/sqw/sbirka.sqw?r=2009&cz=93"" target=""_BLANK_"">Auditors Act (93/2009 Coll.)</a>.\n\nA company must obtain an authorization under special laws if its intended activity is explicitly excluded from the Trade Licensing Act or requires additional sectoral approval.\n"
+696ac1ff0100003f001adf6b,,197120,question,questionText,50397,form,Please upload proof of registration or authorization from your relevant professional chamber or authority.

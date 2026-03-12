@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6942dc2501000062003c6397,6851b94d0100000c02e8b4bc,46353,questionGroup,description,46353,form,This requirement is triggered because you indicated your company has tax or social security responsibility in Germany.
+6942dc2501000062003c6397,6851b94d0100000c02e8b4bc,46353,questionGroup,questionGroupText,46353,form,Germany Fiscal Compliance - Tax Clearance Declaration
+6851b9a3010000db01e8b4c2,,175059,question,description,46353,form,The Unbedenklichkeitsbescheinigung (official tax clearance certificate) must be obtained from your organization’s local tax office (Finanzamt).\n\n[Official German Federal Tax Portal](https://www.elster.de/eportal/start)\n\n[German Federal Ministry of Finance](https://www.bundesfinanzministerium.de)
+6851b9a3010000db01e8b4c2,,175059,question,questionText,46353,form,Please upload a valid Unbedenklichkeitsbescheinigung from the German Tax Office (Finanzamt) confirming your organization has no outstanding tax liabilities in Germany.
+6851ba44010000da01e8b4c7,,175060,question,description,46353,form,This document must be issued within the last 90 days in order to be accepted.
+6851ba44010000da01e8b4c7,,175060,question,questionText,46353,form,Please enter the issue date.

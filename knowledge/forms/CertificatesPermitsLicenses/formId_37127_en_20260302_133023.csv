@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6386c7a5190000f70532124e,631220242e00001d4cdbb60f,37127,questionGroup,questionGroupText,37127,form,Colombia - ARL (Occupational Risk Administrator) - HSE
+631224882e0000c92bdbdfdd,,130914,question,description,37127,form,"<a href=""https://www.arlsura.com/index.php/255-temporal/2341-certificado-y-carne-de-afiliacion"" \ntarget=""_Blank"">ARL SURA - Riesgos Laborales - ARL - Certificado y carné de afiliación</a>"
+631224882e0000c92bdbdfdd,,130914,question,questionText,37127,form,Does your company have an ARL certificate in accordance with resolution 1072 of 2015 and resolution 0312 of 2019?
+631224882e0000c92bdbdfdd,,130914,question,responseOption1,37127,form,Yes
+631224882e0000c92bdbdfdd,,130914,question,responseOption2,37127,form,No
+6312257e2e00007f712c9efe,,130915,question,questionText,37127,form,Please upload a Certificate and evaluation results from the ARL (Occupational Risk Administrator) that demonstrate that it has an occupational health and safety management system in compliance with resolution 1072 of 2015 and resolution 0312 of 2019. This must be designed by a competent person as established in numeral 2.5.1 of this document.
+631229132e00002e0f2cb8c6,,130916,question,description,37127,form,"<a href=""/file-preview.html?fileId=2022-09-02T18:22:55.483Z~~~Example_-_Certificado_ARL_SURA.pdf"" \ntarget=""_Blank"">See Example</a>"
+631229132e00002e0f2cb8c6,,130916,question,questionText,37127,form,Please include the percentage of implementation per the ***Plan*** category. \n\nPlanning =
+63122bd42e00006d5edc00ac,,130917,question,questionText,37127,form,Please include the percentage of implementation per the ***Do*** category. \n\nDo =
+63122c3b2e00000c9b2ccb21,,130918,question,questionText,37127,form,Please include the percentage of implementation per the ***Check*** category.\n\nCheck =
+63122fed2e0000f72adc217c,,130919,question,questionText,37127,form,Please include the percentage of implementation per the ***Act*** category.\n\nAct =
+6312304a2e0000a8652cea80,,130920,question,questionText,37127,form,Please include a total % implementation  (SUM Formula including points 1-4 in % format with a min value of 0% & max value of 100%).
+6312317f2e0000928ddc36f2,,130922,question,questionText,37127,form,What is the result obtained according to the total percentage of implementation?
+6312317f2e0000928ddc36f2,,130922,question,responseOption1,37127,form,Acceptable (86%-100%)
+6312317f2e0000928ddc36f2,,130922,question,responseOption2,37127,form,Moderate Acceptable (60%-85%)
+6312317f2e0000928ddc36f2,,130922,question,responseOption3,37127,form,Critical-(59% - 0%)

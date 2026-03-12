@@ -1,0 +1,19 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+606f635f4300008efba5462a,4f188af5504943aba8742e71,2341,questionGroup,questionGroupText,20171,form,Policy Information
+4f188afc50494331ef7d2195,4f188afc50494331ef7d2195,2342,questionGroup,questionGroupText,20171,form,Policy Limits
+4f188b5950494322b6427dd5,,10342,question,questionText,20171,form,Policy Effective Date
+4f188b90504943d4527e23b1,,10343,question,questionText,20171,form,Policy Expiration Date
+4f188c8f504943d9bad639a6,,10344,question,questionText,20171,form,Per occurrence
+4f188c9b504943a1f097062d,,10345,question,questionText,20171,form,Bodily Injury (Per person)
+4f188caa504943fd4d4d6e87,,10346,question,questionText,20171,form,Bodily Injury (Per accident)
+4f188cbc5049435b41cffc72,,10347,question,questionText,20171,form,Property Damage (Per accident)
+4f188cc65049431e29e6d9ba,,10348,question,questionText,20171,form,Cargo Aggregate
+606f65064400004cc136432f,5ac3ae782b0000c4016a2a7a,20171,questionGroup,questionGroupText,20171,form,Cargo Insurance
+5ac3ad392b000093016a2a51,,70084,question,description,20171,form,Cargo Insurance Certificate
+5ac3ad392b000093016a2a51,,70084,question,questionText,20171,form,Please upload Cargo Insurance Certificate
+5d7135643600008ac65beb01,,86248,question,questionText,20171,form,Insurance Carrier:
+606f635e4300008efba54629,,108543,question,description,20171,form,Used to provide instructions from Client
+606f635e4300008efba54629,,108543,question,questionText,20171,form,Comments
+606f636c4400004cc1363809,,108544,question,description,20171,form,Date the instructions from Client expire
+606f636c4400004cc1363809,,108544,question,questionText,20171,form,VARIANCE Expiration Date
+62f53f2682eb52eab3c18f9a,,130511,question,questionText,20171,form,Currency used in Certificate of Insurance (COI)

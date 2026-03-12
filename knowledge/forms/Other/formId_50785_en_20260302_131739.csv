@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+699bdc150100004700030c90,698c915e0100005602b1c627,50785,questionGroup,description,50785,form,"If your company withholds wage taxes from employees’ salaries in Germany, and is required to maintain the relevant documentation, you will be asked to provide your documentation in a subsequent form."
+699bdc150100004700030c90,698c915e0100005602b1c627,50785,questionGroup,questionGroupText,50785,form,Germany Employer Payroll Tax Registration Applicability Assessment
+698c91c50100006300b1c62d,,198456,question,description,50785,form,"<a href=""https://verwaltungsportal.hessen.de/en/leistung?leistung_id=L100001_370228968"" target=""blank"">Employers in Germany must withhold</a> wage tax from employees’ wages and, after electronic submission of the Employer Payroll Tax Registration to the competent tax office, pay this tax to that office.This requirement is laid out in the <a href=""https://www.gesetze-im-internet.de/estg/"" target=""blank"">§ 41a Income Tax Act (EStG)</a> and the <a href=""https://www.gesetze-im-internet.de/ao_1977/"" target=""blank"">§ 150 Tax Code (AO)</a>."
+698c91c50100006300b1c62d,,198456,question,questionText,50785,form,Is your company required to withhold wage taxes from employees’ salaries in Germany and required to maintain Employer Payroll Tax Registration?
+698c91c50100006300b1c62d,,198456,question,responseOption1,50785,form,Yes
+698c91c50100006300b1c62d,,198456,question,responseOption2,50785,form,No
+698c92d401000063007cd73c,,198457,question,description,50785,form,"<a href=""https://www.gesetze-im-internet.de/estg/"" target=""blank"">§ 41a Income Tax Act (EStG)</a>"
+698c92d401000063007cd73c,,198457,question,questionText,50785,form,Please select from the following reasons your company is exempt from withholding wage taxes from employees’ salaries in Germany as defined in the Income Tax Act.
+698c92d401000063007cd73c,,198457,question,responseOption1,50785,form,The company does not have employees in Germany in which to withhold wage taxes.
+698c92d401000063007cd73c,,198457,question,responseOption2,50785,form,Other
+698c93490100005602b1c630,,198458,question,questionText,50785,form,Please explain why your company is exempt from withholding wage taxes from employees’ salaries in Germany as defined in the Income Tax Act.

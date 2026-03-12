@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63a0968d190000450170059a,63a093621a000045014eb050,38185,questionGroup,questionGroupText,38185,form,France - Transport Requirements 
+63a09376190000e6006fc6a9,63a09376190000e6006fc6a8,38186,questionGroup,questionGroupText,38185,form,Internal or Community Transport License
+63a093e71a000020014ec0f6,63a093e71a000020014ec0f5,38187,questionGroup,questionGroupText,38185,form,Transport of Commissioners
+63a0954f1a00008e014ee0ca,63a0954f1a00008e014ee0c9,38188,questionGroup,questionGroupText,38185,form,Transport of Goods
+63a095f119000046016ffed1,63a095f119000046016ffed0,38189,questionGroup,questionGroupText,38185,form,Transport of Non-Hazardous Waste
+63a0939b1a000047014eb376,,135280,question,questionText,38185,form,Does your company operates vehicles over 2.5 tons and up to 3.5 tons?
+63a0939b1a000047014eb376,,135280,question,responseOption1,38185,form,Yes
+63a0939b1a000047014eb376,,135280,question,responseOption2,38185,form,No
+63a093ba1a000020014ebb6d,,135281,question,questionText,38185,form,Please upload certified copies of the community license.
+63a093f31a000060014ec59d,,135282,question,description,38185,form,https://demarches.developpement-durable.gouv.fr/loc_fr/demarche/requestcategory/transport
+63a093f31a000060014ec59d,,135282,question,questionText,38185,form,Please upload a certificate of enrollment in the register of Transport of Commissioners.
+63a0955b1a00007a014ee0cb,,135283,question,description,38185,form,https://demarches.developpement-durable.gouv.fr/portail
+63a0955b1a00007a014ee0cb,,135283,question,questionText,38185,form,Please upload one of your company's Driver Certificate issued by DREAL or the DRIEAT.
+63a096011a000092014ee0d2,,135284,question,questionText,38185,form,Does your company transport a quantity of waste greater than 500kg of non-hazardous waste (article R.541-50 of the Environmental Code)?
+63a096011a000092014ee0d2,,135284,question,responseOption1,38185,form,Yes
+63a096011a000092014ee0d2,,135284,question,responseOption2,38185,form,No

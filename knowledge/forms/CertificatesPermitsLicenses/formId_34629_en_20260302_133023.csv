@@ -1,0 +1,52 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61bd03c0300000826323c21a,61bd03c0300000826323c21a,34628,questionGroup,questionGroupText,34629,form,SCC* Certificate Upload
+61bd03d9300000826323c298,61bd03c0300000826323c219,34629,questionGroup,questionGroupText,34629,form,Avetta PQF - SCC* Certificate Upload
+61bd03c0300000826323c21b,,118378,question,questionText,34629,form,Upload a copy of the certificate: 
+61bd03c0300000826323c21c,,118379,question,questionText,34629,form,Certificate Number/Identifier:
+61bd03c0300000826323c21d,,118380,question,questionText,34629,form,Confirm certificate expiry date:
+61bd03c1300000826323c21e,,118381,question,questionText,34629,form,Confirm the country where the certificate was issued:
+61bd03c1300000826323c21e,,118381,question,responseOption1,34629,form,Albania
+61bd03c1300000826323c21e,,118381,question,responseOption10,34629,form,Croatia
+61bd03c1300000826323c21e,,118381,question,responseOption11,34629,form,Cyprus
+61bd03c1300000826323c21e,,118381,question,responseOption12,34629,form,Czechia
+61bd03c1300000826323c21e,,118381,question,responseOption13,34629,form,Denmark
+61bd03c1300000826323c21e,,118381,question,responseOption14,34629,form,Estonia
+61bd03c1300000826323c21e,,118381,question,responseOption15,34629,form,Finland
+61bd03c1300000826323c21e,,118381,question,responseOption16,34629,form,France
+61bd03c1300000826323c21e,,118381,question,responseOption17,34629,form,Georgia
+61bd03c1300000826323c21e,,118381,question,responseOption18,34629,form,Germany
+61bd03c1300000826323c21e,,118381,question,responseOption19,34629,form,Greece
+61bd03c1300000826323c21e,,118381,question,responseOption2,34629,form,Andorra
+61bd03c1300000826323c21e,,118381,question,responseOption20,34629,form,Hungary
+61bd03c1300000826323c21e,,118381,question,responseOption21,34629,form,Kazakhstan
+61bd03c1300000826323c21e,,118381,question,responseOption22,34629,form,Iceland
+61bd03c1300000826323c21e,,118381,question,responseOption23,34629,form,Ireland
+61bd03c1300000826323c21e,,118381,question,responseOption24,34629,form,Italy
+61bd03c1300000826323c21e,,118381,question,responseOption25,34629,form,Latvia
+61bd03c1300000826323c21e,,118381,question,responseOption26,34629,form,Lithuania
+61bd03c1300000826323c21e,,118381,question,responseOption27,34629,form,Liechtenstein
+61bd03c1300000826323c21e,,118381,question,responseOption28,34629,form,Luxembourg
+61bd03c1300000826323c21e,,118381,question,responseOption29,34629,form,Malta
+61bd03c1300000826323c21e,,118381,question,responseOption3,34629,form,Armenia
+61bd03c1300000826323c21e,,118381,question,responseOption30,34629,form,Monaco
+61bd03c1300000826323c21e,,118381,question,responseOption31,34629,form,Montenegro
+61bd03c1300000826323c21e,,118381,question,responseOption32,34629,form,Netherlands
+61bd03c1300000826323c21e,,118381,question,responseOption33,34629,form,North Macedonia
+61bd03c1300000826323c21e,,118381,question,responseOption34,34629,form,Norway
+61bd03c1300000826323c21e,,118381,question,responseOption35,34629,form,Poland
+61bd03c1300000826323c21e,,118381,question,responseOption36,34629,form,Portugal
+61bd03c1300000826323c21e,,118381,question,responseOption37,34629,form, Republic of Moldova
+61bd03c1300000826323c21e,,118381,question,responseOption38,34629,form,Romania
+61bd03c1300000826323c21e,,118381,question,responseOption39,34629,form, Russian Federation
+61bd03c1300000826323c21e,,118381,question,responseOption4,34629,form,Austria
+61bd03c1300000826323c21e,,118381,question,responseOption40,34629,form,San Marino
+61bd03c1300000826323c21e,,118381,question,responseOption41,34629,form,Serbia
+61bd03c1300000826323c21e,,118381,question,responseOption42,34629,form,Slovakia
+61bd03c1300000826323c21e,,118381,question,responseOption43,34629,form,Sweden
+61bd03c1300000826323c21e,,118381,question,responseOption44,34629,form,Switzerland
+61bd03c1300000826323c21e,,118381,question,responseOption45,34629,form,Turkey
+61bd03c1300000826323c21e,,118381,question,responseOption5,34629,form,Azerbaijan
+61bd03c1300000826323c21e,,118381,question,responseOption6,34629,form,Belarus
+61bd03c1300000826323c21e,,118381,question,responseOption7,34629,form,Belgium
+61bd03c1300000826323c21e,,118381,question,responseOption8,34629,form,Bosnia and Herzegovina
+61bd03c1300000826323c21e,,118381,question,responseOption9,34629,form,Bulgaria

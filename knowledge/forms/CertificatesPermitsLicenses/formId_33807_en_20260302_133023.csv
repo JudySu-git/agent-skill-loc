@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61324f40470000efa7f8025d,61324de9480000bdbda01e1b,33807,questionGroup,questionGroupText,33807,form,HAZ - Hazardous Substance Removal Certification
+61324de9480000bdbda01e1c,,114538,question,questionText,33807,form,Contractor License Classifications:
+61324de9480000bdbda01e1d,,114539,question,questionText,33807,form,Expiration Date:
+61324de9480000bdbda01e1e,,114540,question,description,33807,form,A URL will make verification quicker if provided.
+61324de9480000bdbda01e1e,,114540,question,questionText,33807,form,"Upload a copy of your license, and or provide the URL of the license."
+61324de9480000bdbda01e1e,,114540,question,responseOption1,33807,form,File Upload
+61324de9480000bdbda01e1e,,114540,question,responseOption2,33807,form,URL
+61324de9480000bdbda01e1f,,114541,question,questionText,33807,form,Please upload a copy of your license:
+61324de9480000bdbda01e20,,114542,question,questionText,33807,form,Please enter the URL of the license:
+61324de9480000bdbda01e21,,114543,question,description,33807,form,<a href='https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/CheckLicense.aspx' target='_BLANK'>CSLB</a>
+61324de9480000bdbda01e21,,114543,question,questionText,33807,form,Contractor License Number:

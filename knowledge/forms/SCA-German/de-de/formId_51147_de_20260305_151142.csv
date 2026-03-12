@@ -1,0 +1,7 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87737a36b6c4c635466b4,69a87737a36b6c4c635466b3,51147,questionGroup,questionGroupText,51147,form,Bauwesen – Hebevorgänge,
+69a87736a36b6c4c635466b0,,199985,question,description,51147,form,"Vor Beginn von Hebevorgängen müssen Hebezeuge geprüft werden, um sicherzustellen, dass sie sich in einem sicheren Betriebszustand befinden. Sicherheitseinrichtungen, einschließlich Bremsen, Not-Aus-Schalter und Warneinrichtungen, müssen vor jedem Hebevorgang überprüft werden.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 145 Abs. 6</a>",
+69a87736a36b6c4c635466b0,,199985,question,questionText,51147,form,Prüfungen vor dem Heben,
+69a87736a36b6c4c635466b1,,199986,question,description,51147,form,"Lasten müssen so befestigt werden, dass ein Kippen, Rutschen oder Herunterfallen nicht möglich ist.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 145 Abs. 7</a>",
+69a87736a36b6c4c635466b1,,199986,question,questionText,51147,form,Gesicherte Lastbefestigung,
+69a87736a36b6c4c635466b2,,199987,question,questionText,51147,form,<div></div>,

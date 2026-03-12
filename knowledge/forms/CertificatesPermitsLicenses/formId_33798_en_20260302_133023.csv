@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61324ee1470000efa7f801b6,61324c73470000efa7f7f82f,33798,questionGroup,questionGroupText,33798,form,Hazardous Waste Haulers Permit
+61324c73470000efa7f7f830,,114483,question,questionText,33798,form,Contractor License Classifications:
+61324c73470000efa7f7f831,,114484,question,questionText,33798,form,Expiration Date:
+61324c73470000efa7f7f832,,114485,question,description,33798,form,A URL will make verification quicker if provided.
+61324c73470000efa7f7f832,,114485,question,questionText,33798,form,"Upload a copy of your license, and or provide the URL of the license."
+61324c73470000efa7f7f832,,114485,question,responseOption1,33798,form,File Upload
+61324c73470000efa7f7f832,,114485,question,responseOption2,33798,form,URL
+61324c73470000efa7f7f833,,114486,question,questionText,33798,form,Please upload a copy of your license:
+61324c73470000efa7f7f834,,114487,question,questionText,33798,form,Please enter the URL of the license:
+61324c73470000efa7f7f835,,114488,question,description,33798,form,<a href='https://hwts.dtsc.ca.gov/transporters/' target='_BLANK'>DTSC</a>
+61324c73470000efa7f7f835,,114488,question,questionText,33798,form,Contractor License Number:

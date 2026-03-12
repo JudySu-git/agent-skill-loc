@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce463b010000bb0021f943,662fd79a1a00002c0045d2eb,42003,questionGroup,description,42003,form,You are getting this category because you selected a license in the Avetta PQF - New South Wales Contractor License.
+66ce463b010000bb0021f943,662fd79a1a00002c0045d2eb,42003,questionGroup,questionGroupText,42003,form,New South Wales Contractor License - Waste
+662fd79a1a0000660045d2ec,,153317,question,questionText,42003,form,Please upload your license:\n
+662fd79a1a0000660045d2ec,,153317,question,responseOption1,42003,form,Yes
+662fd79a1a0000660045d2ec,,153317,question,responseOption2,42003,form,No
+662fd79a1a00002f0045d2ee,,153318,question,questionText,42003,form,License Number:
+662fd79a1a00002f0045d2ee,,153318,question,responseOption1,42003,form,Yes
+662fd79a1a00002f0045d2ee,,153318,question,responseOption2,42003,form,No
+662fd79a1a0000660045d2ed,,153319,question,questionText,42003,form,Expiration Date:
+662fd79a1a0000660045d2ed,,153319,question,responseOption1,42003,form,Yes
+662fd79a1a0000660045d2ed,,153319,question,responseOption2,42003,form,No

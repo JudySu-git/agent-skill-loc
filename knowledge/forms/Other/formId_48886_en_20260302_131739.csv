@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+690d33b30100004700dc40ca,690d2abb0100003700ed1dfe,48886,questionGroup,description,48886,form,"If your company is required to comply with Belgium's Social Security requirements, you will be asked to provide relevant documents in a subsequent form(s)."
+690d33b30100004700dc40ca,690d2abb0100003700ed1dfe,48886,questionGroup,questionGroupText,48886,form,Belgium Social Security Applicability Assessment
+690d2abb0100003d00ed1dff,,187597,question,description,48886,form,"The Certificate of No Social Security Arrears can be obtained through the National Social Security Office <a href=""https://www.onss.be"" target=""_blank"">(NSSO) online platform</a>. It serves as an official certificate that confirms a company has no outstanding social security contributions.\n"
+690d2abb0100003d00ed1dff,,187597,question,questionText,48886,form,Is your company required to comply with Belgium's Social Security requirements as regulated by the National Social Security Office (NSSO/ONSS) and maintain applicable documentation to show compliance?
+690d2abb0100003d00ed1dff,,187597,question,responseOption1,48886,form,Yes
+690d2abb0100003d00ed1dff,,187597,question,responseOption2,48886,form,No
+690d2abb0100004000ed1e01,,187598,question,description,48886,form,"<a href=""https://economie.fgov.be/themes/enterprises/starting-business/steps-starting-business/social-insurance-fund/social-statute-self-employed"" target=""_blank"">Social Statute of the Self-Employed</a>. \n"
+690d2abb0100004000ed1e01,,187598,question,questionText,48886,form,Please select from the following reason(s) your company is exempt from complying with Belgium's Social Security requirements.
+690d2abb0100004000ed1e01,,187598,question,responseOption1,48886,form,The company operates as a sole proprietorship with no additional employees. It contributes to the social insurance fund for self-employed individuals and is prepared to provide supporting documentation upon request.
+690d2abb0100004000ed1e01,,187598,question,responseOption2,48886,form,The company does not have any employees in Belgium.
+690d2abb0100004000ed1e01,,187598,question,responseOption3,48886,form,The company has foreign employee(s) working temporarily (less than 24 months) in Belgium that are covered by the home country's scheme and are prepared to provide a copy of the A1 certificate(s) upon request.
+690d2abb0100004000ed1e01,,187598,question,responseOption4,48886,form,Other
+690d2abb0100003d00ed1e00,,187599,question,questionText,48886,form,"If ""other"", please explain."

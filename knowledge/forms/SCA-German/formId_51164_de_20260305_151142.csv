@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87743a36b6c4c63546753,69a87743a36b6c4c63546752,51164,questionGroup,questionGroupText,51164,form,"Hazardous Substances - Carcinogens, Mutagens, Reprotoxic Substances",
+69a87743a36b6c4c6354674e,,200109,question,description,51164,form,"Written notification must be submitted to the Labor Inspectorate prior to the use of carcinogenic, mutagenic, or reprotoxic (CMR) substances.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 42(5)</a>",
+69a87743a36b6c4c6354674e,,200109,question,questionText,51164,form,Notification to Labor Inspectorate (Pre-Use),
+69a87743a36b6c4c6354674f,,200110,question,description,51164,form,"Access to areas containing carcinogenic, mutagenic, or reprotoxic (CMR) substances, or Group 2–4 biological agents, must be restricted to authorized personnel.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 44(4)</a>",
+69a87743a36b6c4c6354674f,,200110,question,questionText,51164,form,Restricted Access Control,
+69a87743a36b6c4c63546750,,200111,question,description,51164,form,"An exposure register must be maintained for individuals exposed to carcinogenic, mutagenic, or reprotoxic (CMR) substances, or Group 3–4 biological agents.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 47(1-3)</a>",
+69a87743a36b6c4c63546750,,200111,question,questionText,51164,form,Exposure Register,
+69a87743a36b6c4c63546751,,200112,question,questionText,51164,form,<div></div>,

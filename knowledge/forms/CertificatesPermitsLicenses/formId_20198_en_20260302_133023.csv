@@ -1,0 +1,19 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+60705f924500009d89bba25d,50ca16875049431d24ea373b,3227,questionGroup,questionGroupText,20198,form,Policy Information
+5d1f71593500005b14309c2b,535fe2ec504943adbf2d9c11,5283,questionGroup,questionGroupText,20198,form,Policy Limits
+50ca16ac5049434e11facec3,,14843,question,questionText,20198,form,Date of Commencement:
+50ca16ce5049432bd4aabc3b,,14844,question,questionText,20198,form,Expiration Date:
+60705fe043000090e862de61,5ad1488f2a00007d0051e546,20198,questionGroup,questionGroupText,20198,form,Public Liability
+535fe33a504943c765c7d2b0,,23386,question,questionText,20198,form,Each Occurrence
+535fe3545049435f1083d0c0,,23388,question,questionText,20198,form,Damage to Rented Premises (Each Occurrence)
+535fe374504943282f8308d6,,23390,question,questionText,20198,form,Medical Expenses (Any one person)
+535fe389504943e3ee5bcb6e,,23392,question,questionText,20198,form,Personal and Adv Injury
+535fe39e504943ef2eb885ad,,23393,question,questionText,20198,form,General Aggregate
+5ad148442200001700a5a99a,,70090,question,description,20198,form,Please upload Public Liability Certificate.
+5ad148442200001700a5a99a,,70090,question,questionText,20198,form,Please upload Public Liability Certificate.
+5d713cf9370000a213dcefd9,,86275,question,questionText,20198,form,Insurance Carrier:
+60705f9143000090e862d97b,,108607,question,description,20198,form,Used to provide instructions from Client
+60705f9143000090e862d97b,,108607,question,questionText,20198,form,Comments
+60705fa543000090e862db3a,,108608,question,description,20198,form,Date the instructions from Client expire
+60705fa543000090e862db3a,,108608,question,questionText,20198,form,VARIANCE Expiration Date
+62f53f3382eb52eab3c18fb1,,130534,question,questionText,20198,form,Currency used in Certificate of Insurance (COI)

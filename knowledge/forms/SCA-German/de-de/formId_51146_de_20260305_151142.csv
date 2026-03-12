@@ -1,0 +1,18 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87736a36b6c4c635466af,69a87736a36b6c4c635466ae,51146,questionGroup,questionGroupText,51146,form,Bau – Blei,
+69a87736a36b6c4c635466a8,,199979,question,description,51146,form,"Das Aufsprühen von Beschichtungen mit einem Bleigehalt von mehr als 2 % der Masse ist nicht zulässig.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 125 Abs. 1</a>",
+69a87736a36b6c4c635466a8,,199979,question,questionText,51146,form,Verbot von Bleifarbe mit >2 % Bleigehalt,
+69a87736a36b6c4c635466a9,,199980,question,description,51146,form,"Arbeiten mit Bleistaub müssen so durchgeführt werden, dass die Staubentwicklung auf ein Minimum reduziert wird.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 125 Abs. 1</a>",
+69a87736a36b6c4c635466a9,,199980,question,questionText,51146,form,Staubkontrolle,
+69a87736a36b6c4c635466aa,,199981,question,description,51146,form,"Für Arbeitnehmer, die Bleistaub ausgesetzt sind, muss Atemschutz bereitgestellt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 125 Abs. 2</a>",
+69a87736a36b6c4c635466aa,,199981,question,questionText,51146,form,Atemschutz,
+69a87736a36b6c4c635466ab,,199982,question,description,51146,form,"Für Arbeitnehmer, die Bleistaubarbeiten durchführen, müssen warmes fließendes Wasser und Hautpflegemittel bereitgestellt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 125 Abs. 3</a>",
+69a87736a36b6c4c635466ab,,199982,question,questionText,51146,form,Hygienemaßnahmen,
+69a87736a36b6c4c635466ac,,199983,question,description,51146,form,"Das zuständige Arbeitsinspektorat ist zu benachrichtigen, wenn Bauarbeiten durchgeführt werden, bei denen Bleistaub freigesetzt wird, und diese voraussichtlich länger als fünf Arbeitstage dauern werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 3 Abs. 5 Z 3</a>",
+69a87736a36b6c4c635466ac,,199983,question,questionText,51146,form,Meldung an das Arbeitsinspektorat (wenn die Arbeiten voraussichtlich länger als 5 Tage dauern),
+69a87736a36b6c4c635466ad,,199984,question,questionText,51146,form,<div></div>,

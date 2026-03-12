@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+696ac2b90100008f01c68f44,696ac2700100004300c68f42,50398,questionGroup,description,50398,form,This requirement is triggered because you indicated your organization maintains a valid Authorization Certificate in the Czech Republic Trade Licensing Commercial Register Applicability Assessment questionnaire.\t
+696ac2b90100008f01c68f44,696ac2700100004300c68f42,50398,questionGroup,questionGroupText,50398,form,Czech Republic Tax Advisors Authorization
+696ac2700100004600c68f43,,197121,question,description,50398,form,"Upload your company’s authorization issued under the <a href=""https://www.e-sbirka.cz/sb/1992/523/1992-12-01?zalozka=text"" target=""_BLANK_"">Tax Advisors Act (523/1992 Coll.)</a>.\n\nA company must obtain an authorization under special laws if its intended activity is explicitly excluded from the Trade Licensing Act or requires additional sectoral approval.\n"
+696ac2700100004600c68f43,,197121,question,questionText,50398,form,Please upload proof of registration or authorization from your relevant professional chamber or authority.

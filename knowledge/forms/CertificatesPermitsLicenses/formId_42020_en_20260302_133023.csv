@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce492e0100002a00ebe50e,662fec781b00005d00b6e5ce,42020,questionGroup,description,42020,form,You are getting this category because you selected a license in the Avetta PQF - Queensland License.
+66ce492e0100002a00ebe50e,662fec781b00005d00b6e5ce,42020,questionGroup,questionGroupText,42020,form,Queensland Contractor License - Drainers
+662fec781b00002d00b6e5cf,,153364,question,questionText,42020,form,Please upload your license:\n
+662fec781b00002d00b6e5cf,,153364,question,responseOption1,42020,form,Yes
+662fec781b00002d00b6e5cf,,153364,question,responseOption2,42020,form,No
+662fec781b00003100b6e5d0,,153365,question,questionText,42020,form,License Number:
+662fec781b00003100b6e5d0,,153365,question,responseOption1,42020,form,Yes
+662fec781b00003100b6e5d0,,153365,question,responseOption2,42020,form,No
+662fec781b00003300b6e5d1,,153366,question,questionText,42020,form,Expiration Date:
+662fec781b00003300b6e5d1,,153366,question,responseOption1,42020,form,Yes
+662fec781b00003300b6e5d1,,153366,question,responseOption2,42020,form,No

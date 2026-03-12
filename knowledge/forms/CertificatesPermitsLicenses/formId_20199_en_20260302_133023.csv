@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4f26f497504943e283ac33d3,4f26f497504943e283ac33d3,2363,questionGroup,questionGroupText,20199,form,Policy Limits
+5c12e0593000006a15ce0415,4f26f4bc50494349ca98842a,2366,questionGroup,questionGroupText,20199,form,Policy Information
+4f26f73b504943c12b3f0b52,,10504,question,questionText,20199,form,Each Occurrence
+4f26f7865049434308bbb36e,,10507,question,questionText,20199,form,Damage to Rented Premises (Each Occurrence)
+4f26fb92504943489236bcc1,,10510,question,questionText,20199,form,Medical Expenses (Any one person)
+4f26fbea504943ca49d88593,,10512,question,questionText,20199,form,Personal and Adv Injury
+4f26fca050494386d4a22364,,10516,question,questionText,20199,form,General Aggregate
+4f26fd2b504943acca39d4de,,10520,question,questionText,20199,form,Products - Comp/Op Agg
+607072cc43000090e863f63c,5ad149152200008000a5a9a1,20199,questionGroup,questionGroupText,20199,form,Contractors All Risk
+6070727d43000090e863c540,,108661,question,description,20199,form,Used to provide instructions from Client
+6070727d43000090e863c540,,108661,question,questionText,20199,form,Comments
+6070728e4500009d89bc5d54,,108662,question,description,20199,form,Date the instructions from Client expire
+6070728e4500009d89bc5d54,,108662,question,questionText,20199,form,VARIANCE Expiration Date
+62f53f2782eb52eab3c18f9b,,130512,question,questionText,20199,form,Currency used in Certificate of Insurance (COI)

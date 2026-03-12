@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+687abdb30100003f000cb587,687abbeb01000037000cb579,46737,questionGroup,description,46737,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+687abdb30100003f000cb587,687abbeb01000037000cb579,46737,questionGroup,questionGroupText,46737,form,Mexico Industrial Operation License Applicability Assessment
+687abc4b010000fb00364411,,176719,question,description,46737,form,"The Mexico Industrial Operation License is a mandatory permit that authorizes a company to conduct industrial, commercial, or service activities at a specific location in Mexico. This license is required to legally operate and is typically issued by municipal authorities, though certain sectors or activities may require additional state or federal permits. The municipal authority (local city or town government) where the business or industrial site is located is responsible for issuing the Industrial Operation License.\n\n<a href = ""https://www.gobiernodechalco.gob.mx/tramites-servicios/17-licencia-de-funcionamiento""target=""_BLANK_"">Article 16 of the Regulations for Commercial, Industrial, and Service Activities of the Municipality of Chalco and Article 24, Section IV of the Transparency and Access to Public Information Law of the State of Mexico and its Municipalities</a>"
+687abc4b010000fb00364411,,176719,question,questionText,46737,form,Is your company required to maintain a Mexico Industrial Operation License? 
+687abc4b010000fb00364411,,176719,question,responseOption1,46737,form,Yes
+687abc4b010000fb00364411,,176719,question,responseOption2,46737,form,No
+687abd020100001f010cb582,,176721,question,questionText,46737,form,Please select from the following reasons your company is exempt from needing an Industrial Operation License.
+687abd020100001f010cb582,,176721,question,responseOption1,46737,form,"The company is remote or does not operate from a fixed industrial, commercial, or service site."
+687abd020100001f010cb582,,176721,question,responseOption2,46737,form,Other
+687abd1f0100003d000cb584,,176722,question,questionText,46737,form,Please explain why your company is exempt from needing a Mexico Industrial Operation License.

@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4b141faf5049436c2481ae5e,4b141faf5049436c2481ae5e,403,questionGroup,questionGroupText,20865,form,Production Safety Systems
+4b141fdf50494323c8607bbb,,2920,question,questionText,20865,form,Does your company have a documented Production Safety Systems / T2 training program/policy?
+4b141fdf50494323c8607bbb,,2920,question,responseOptionNA,20865,form,N/A
+4b141fdf50494323c8607bbb,,2920,question,responseOptionNo,20865,form,No
+4b141fdf50494323c8607bbb,,2920,question,responseOptionYes,20865,form,Yes
+4b142048504943744eafd067,,2922,question,questionText,20865,form,What frequency is Production Safety Systems / T2 training given?
+4b14207250494322276b5655,,2923,question,questionText,20865,form,"Of the employees that need Production Safety Systems / T2 training, what % have received it?"
+5c1823f8370000b1cebf4fc0,5b7e371a33000025a569e66e,20865,questionGroup,questionGroupText,20865,form,Avetta PQF - Production Safety Systems

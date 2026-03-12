@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+693c92850100003d00f10ecc,693c8fdf0100005f00e9a139,49795,questionGroup,description,49795,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+693c92850100003d00f10ecc,693c8fdf0100005f00e9a139,49795,questionGroup,questionGroupText,49795,form,Ireland Tax Clearance Certificate Applicability Assessment
+693c8fe40100005f00e9a13a,,193284,question,description,49795,form,
+693c8fe40100005f00e9a13a,,193284,question,questionText,49795,form,Does your company perform services which would require you to obtain a Tax Clearance Certificate from The Office of the Revenue Commissioners? 
+693c8fe40100005f00e9a13a,,193284,question,responseOption1,49795,form,Yes
+693c8fe40100005f00e9a13a,,193284,question,responseOption2,49795,form,No
+693c90210100004100f10e96,,193285,question,description,49795,form,
+693c90210100004100f10e96,,193285,question,questionText,49795,form,Please select from the following reasons your company is exempt from needing a Tax Clearance Certificate in Ireland.
+693c90210100004100f10e96,,193285,question,responseOption1,49795,form,"The company does not hold licenses or permits, specified by the Revenue, in which require a Tax Clearance Certificate."
+693c90210100004100f10e96,,193285,question,responseOption2,49795,form,Other
+693c90290100005e00f10e99,,193286,question,questionText,49795,form,Please explain why your company is exempt from needing a Tax Clearance Certificate in Ireland.
+693c903e0100006000f10e9c,,193287,question,questionText,49795,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Irish legislation."

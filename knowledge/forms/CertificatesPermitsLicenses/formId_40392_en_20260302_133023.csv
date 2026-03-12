@@ -1,0 +1,21 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+652421421700002e5206fa40,652421421700002e5206fa40,40391,questionGroup,questionGroupText,40392,form,Costa Rica Sanitary Permit
+67252a92010000ac0077df89,652421421700002e5206fa3f,40392,questionGroup,questionGroupText,40392,form,Costa Rica Sanitary Permit
+652421421700002e5206fa49,,145748,question,description,40392,form,"<a href=""https://www.ministeriodesalud.go.cr/index.php/tramites/empresas/30-tramites/permisos-a-establecimientos/115-tramite-para-autorizaciones-y-permisos-sanitarios-de-funcionamiento-para-establecimientos-industriales-comerciales-y-de-servicios/"" target=""_blank"">Ministry of Health</a>"
+652421421700002e5206fa49,,145748,question,questionText,40392,form,Is your company registered with the Ministry of Health for an operating sanitary permit?
+652421421700002e5206fa49,,145748,question,responseOptionNo,40392,form,No
+652421421700002e5206fa49,,145748,question,responseOptionYes,40392,form,Yes
+65283c51170000c65c17b274,,145802,question,questionText,40392,form,Please select the category of the operating sanitary permit issued for your company:
+65283c51170000c65c17b274,,145802,question,responseOption1,40392,form,Group A (High risk)
+65283c51170000c65c17b274,,145802,question,responseOption2,40392,form,Group B (Moderate risk)
+65283c51170000c65c17b274,,145802,question,responseOption3,40392,form,Group C (Low risk)
+65283c8c170000965c17b276,,145803,question,description,40392,form,"<a href=""/file-preview.html?fileId=2023-10-17T00%3A05%3A35.096Z~~*RWplbXBsb19QZXJtaXNvIFNhbml0YXJpbyBDUi5wZGY%3D""target=""_blank""> Example </a>"
+65283c8c170000965c17b276,,145803,question,questionText,40392,form,Please upload a copy of your current sanitary permit:
+65283c8c170000965c17b276,,145803,question,responseOption1,40392,form,Yes
+65283c8c170000965c17b276,,145803,question,responseOption2,40392,form,No
+65283c9f170000795c17b279,,145804,question,questionText,40392,form,Please explain why:
+65283c9f170000795c17b279,,145804,question,responseOption1,40392,form,Yes
+65283c9f170000795c17b279,,145804,question,responseOption2,40392,form,No
+652dd03c1700005200fea3cd,,145967,question,questionText,40392,form,Please provide expiration date:
+652dd03c1700005200fea3cd,,145967,question,responseOption1,40392,form,Yes
+652dd03c1700005200fea3cd,,145967,question,responseOption2,40392,form,No

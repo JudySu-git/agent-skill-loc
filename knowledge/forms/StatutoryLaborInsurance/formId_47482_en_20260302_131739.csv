@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68b0940201000042000285c7,68b092fe01000047000285be,47482,questionGroup,description,47482,form,This requirement is triggered because you indicated your organization maintains valid Poland ZUS Employer Social Insurance documentation in the Poland ZUS Employer Social Insurance Applicability Assessment questionnaire.
+68b0940201000042000285c7,68b092fe01000047000285be,47482,questionGroup,questionGroupText,47482,form,Poland Statutory Labor Insurance Certificate
+68b0937a01000038005b7566,,179966,question,description,47482,form,
+68b0937a01000038005b7566,,179966,question,questionText,47482,form,Please upload your Certificate of No Arrears in the payment of contributions confirming your company’s compliance with employee insurance schemes.

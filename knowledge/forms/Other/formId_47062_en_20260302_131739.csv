@@ -1,0 +1,4 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+689f5c620100005f00251b29,689e517e0100000e01404e44,47062,questionGroup,questionGroupText,47062,form,Spain Self Declaration for Low Voltage Electrical Works
+689e517e0100000d01404e45,,178563,question,description,47062,form,"You are receiving this form because you answered ""Yes"" to completing low voltage installation services in the Spanish Trade Licenses Applicability Assessment questionnaire."
+689e517e0100000d01404e45,,178563,question,questionText,47062,form,Please upload a Copy of your company's Self Declaration for Low Voltage Electrical Installation.

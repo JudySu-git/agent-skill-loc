@@ -1,0 +1,51 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+655bd115180000cd836f901d,5d827e08380000aef05c616f,27418,questionGroup,questionGroupText,27418,form,Avetta PQF - South Korea Company Information
+655bd078180000cd836f900e,5d827e5a37000033a938da47,27419,questionGroup,questionGroupText,27418,form,South Korea
+5b282284504943ee4e59c18b,,54343,question,description,27418,form,"The Small and Medium Business Administration (SMBA) has streamlined the process to starting and incorporating a business in South Korea by combining the Tax Information System, Tax Payment System, Financial Common Network, Social Insurance Information System (Public Health Insurance, National Pension Fund, Employment Insurance, Accident Compensation Insurance), Internet Register Office, Electronic Notarization System and more. The entire incorporation can be processed online at Start Biz Online."
+5b282284504943ee4e59c18b,,54343,question,questionText,27418,form,Is your company registered with the Small and Medium Business Administration (SMBA)?
+5b282284504943ee4e59c18b,,54343,question,responseOptionNo,27418,form,No
+5b282284504943ee4e59c18b,,54343,question,responseOptionYes,27418,form,Yes
+5b2823c950494310edd3b026,,54344,question,questionText,27418,form,Is the name of your company registered with the Small and Medium Business Administration (SMBA) different from the company name as it appears on your Avetta account?
+5b2823c950494310edd3b026,,54344,question,responseOptionNo,27418,form,No
+5b2823c950494310edd3b026,,54344,question,responseOptionYes,27418,form,Yes
+5b28244c5049431eaab92ed0,,54345,question,questionText,27418,form,What is the official name of your company as registered with the SMBA?
+5b28244f50494361e99e01c8,,54346,question,questionText,27418,form,Please upload a copy of your company's Certificate of Incorporation.
+5b282497504943b487c02efa,,54347,question,questionText,27418,form,What is your company's Tax Identification Number (TIN)?
+5b2824b0504943989a3782ec,,54348,question,questionText,27418,form,Does your company have an approved Company Seal?
+5b2824b0504943989a3782ec,,54348,question,responseOptionNo,27418,form,No
+5b2824b0504943989a3782ec,,54348,question,responseOptionYes,27418,form,Yes
+5b2824ca5049432bbd242c08,,54349,question,questionText,27418,form,Please upload a sample impression of your Company Seal.
+5b2824eb504943a9ce227565,,54350,question,questionText,27418,form,What is your company's primary KSIC Code?
+5b2824ec5049437ede22f9ff,,54351,question,questionText,27418,form,What is your company's secondary KSIC Code?
+655bbb2e180000a2836f8484,,147159,question,questionText,27418,form,Please indicate your company's business entity / form of business within this country
+655bbb2e180000a2836f8484,,147159,question,responseOption1,27418,form,Sole Proprietorship
+655bbb2e180000a2836f8484,,147159,question,responseOption2,27418,form,Partnership
+655bbb2e180000a2836f8484,,147159,question,responseOption3,27418,form,Limited Liability Company
+655bbb2e180000a2836f8484,,147159,question,responseOption4,27418,form,Stock Corporation
+655bbb2e180000a2836f8484,,147159,question,responseOption5,27418,form,Joint Venture
+655bbb2e180000a2836f8484,,147159,question,responseOption6,27418,form,Foreign company with no fiscal presence
+655bbb2e180000a2836f8484,,147159,question,responseOption7,27418,form,Other
+655bbc391800008b836f849c,,147160,question,questionText,27418,form,"If No, Please explain"
+655bbc391800008b836f849c,,147160,question,responseOption1,27418,form,Yes
+655bbc391800008b836f849c,,147160,question,responseOption2,27418,form,No
+655bbc7b1800008b836f849f,,147161,question,questionText,27418,form,Does your company have a Certificate of Incorporation?
+655bbc7b1800008b836f849f,,147161,question,responseOption1,27418,form,Yes
+655bbc7b1800008b836f849f,,147161,question,responseOption2,27418,form,No
+655bbc98180000a2836f84a2,,147162,question,questionText,27418,form,"If No, Please explain"
+655bbc98180000a2836f84a2,,147162,question,responseOption1,27418,form,Yes
+655bbc98180000a2836f84a2,,147162,question,responseOption2,27418,form,No
+655bbcd81800009c836f84a5,,147163,question,questionText,27418,form,Does your company have a Tax Identification Number (TIN)?
+655bbcd81800009c836f84a5,,147163,question,responseOption1,27418,form,Yes
+655bbcd81800009c836f84a5,,147163,question,responseOption2,27418,form,No
+655bbce418000089836f84a8,,147164,question,questionText,27418,form,"If No, Please explain"
+655bbce418000089836f84a8,,147164,question,responseOption1,27418,form,Yes
+655bbce418000089836f84a8,,147164,question,responseOption2,27418,form,No
+655bbd031800009e836f84ab,,147165,question,questionText,27418,form,"If No, Please explain"
+655bbd031800009e836f84ab,,147165,question,responseOption1,27418,form,Yes
+655bbd031800009e836f84ab,,147165,question,responseOption2,27418,form,No
+655bd077180000eb836f900d,,147180,question,questionText,27418,form,Please indicate where your company is established:
+655bd077180000eb836f900d,,147180,question,responseOption1,27418,form,Yes
+655bd077180000eb836f900d,,147180,question,responseOption2,27418,form,No
+655bd086180000cd836f9011,,147181,question,questionText,27418,form,"If Other, please explain:"
+655bd086180000cd836f9011,,147181,question,responseOption1,27418,form,Yes
+655bd086180000cd836f9011,,147181,question,responseOption2,27418,form,No

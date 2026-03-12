@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4c1c010000ba00ebe53b,66300e0e1a00005b0045d470,42046,questionGroup,description,42046,form,You are getting this category because you selected a license in the Avetta PQF - Tasmania License.
+66ce4c1c010000ba00ebe53b,66300e0e1a00005b0045d470,42046,questionGroup,questionGroupText,42046,form,Tasmania Contractor License - Security Master
+66300e0e1a0000610045d471,,153441,question,questionText,42046,form,License Number:
+66300e0e1a0000610045d471,,153441,question,responseOption1,42046,form,Yes
+66300e0e1a0000610045d471,,153441,question,responseOption2,42046,form,No
+66300e0e1a00005e0045d472,,153442,question,questionText,42046,form,Please upload your license:\n
+66300e0e1a00005e0045d472,,153442,question,responseOption1,42046,form,Yes
+66300e0e1a00005e0045d472,,153442,question,responseOption2,42046,form,No
+66300e0e1a0000610045d473,,153443,question,questionText,42046,form,Expiration Date:
+66300e0e1a0000610045d473,,153443,question,responseOption1,42046,form,Yes
+66300e0e1a0000610045d473,,153443,question,responseOption2,42046,form,No

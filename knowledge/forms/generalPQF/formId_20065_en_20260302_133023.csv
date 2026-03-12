@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4f4421895049439bb328de8d,4f4421895049439bb328de8d,421,questionGroup,questionGroupText,20065,form,Transportation Worker Identification Credential (TWIC)
+48589650504943f8f19a0424,,1807,question,questionText,20065,form,"Do any of your employees work at facilities considered 'Secure Areas' under the maritime Transportation Security Act? (e.g., ports)"
+48589650504943f8f19a0424,,1807,question,responseOptionNo,20065,form,No
+48589650504943f8f19a0424,,1807,question,responseOptionYes,20065,form,Yes
+48589650504943f73f2630d5,,1808,question,questionText,20065,form,Do all applicable employees have TWIC cards?
+48589650504943f73f2630d5,,1808,question,responseOptionNA,20065,form,N/A
+48589650504943f73f2630d5,,1808,question,responseOptionNo,20065,form,No
+48589650504943f73f2630d5,,1808,question,responseOptionYes,20065,form,Yes
+4858965050494399359b7a97,,1809,question,questionText,20065,form,"If no, please explain any special circumstances."
+5c1822b53700004fccbf4499,5ab04d8b2b0000404cd44c5b,20065,questionGroup,questionGroupText,20065,form,Avetta PQF - Transportation Worker Identification Credential (TWIC)

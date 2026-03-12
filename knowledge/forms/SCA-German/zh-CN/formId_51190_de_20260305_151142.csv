@@ -1,0 +1,27 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87756a36b6c4c6354682b,69a87756a36b6c4c6354682a,51190,questionGroup,questionGroupText,51190,form,工作场所条件,
+69a87756a36b6c4c63546822,,200269,question,description,51190,form,"必须确保就所有工作场所安全与健康事项对员工进行协商。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">《员工保护法》第11条第(4)款、第13条第(1)款</a>",
+69a87756a36b6c4c63546822,,200269,question,questionText,51190,form,就安全事项协商员工,
+69a87756a36b6c4c63546823,,200270,question,description,51190,form,"必须明确安全代表的职责，包括就安全与健康事项为员工提供建议、支持并代表员工。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">《员工保护法》第11条第(1)款</a>",
+69a87756a36b6c4c63546823,,200270,question,questionText,51190,form,安全代表,
+69a87756a36b6c4c63546824,,200271,question,description,51190,form,"必须对障碍物和凹陷处进行防护、覆盖或标记，以防止危险。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">《工作场所条例》第2条第(8)款</a>",
+69a87756a36b6c4c63546824,,200271,question,questionText,51190,form,危险标识,
+69a87756a36b6c4c63546825,,200272,question,description,51190,form,"必须根据使用目的确保所有房间的充分通风。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">《工作场所条例》第5条第(3)款、第26条第(1)款</a>",
+69a87756a36b6c4c63546825,,200272,question,questionText,51190,form,充分通风,
+69a87756a36b6c4c63546826,,200273,question,description,51190,form,"必须提供卫生的厕所，配备冲水装置、卫生纸及附近的盥洗设施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">《工作场所条例》第32-34条</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">《员工保护法》第27条</a>",
+69a87756a36b6c4c63546826,,200273,question,questionText,51190,form,卫生设施,
+69a87756a36b6c4c63546827,,200274,question,description,51190,form,"在自然采光不足的情况下，必须确保工作场所照明充足。室内照度至少应达到30 lux，并须防止眩光。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">《建筑工人保护条例》第6条第(5)款</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">《工作场所条例》第2条第(7)款第(3)项、第5条第(1)款</a>",
+69a87756a36b6c4c63546827,,200274,question,questionText,51190,form,充足的工作场所照明,
+69a87756a36b6c4c63546828,,200275,question,description,51190,form,"员工不得因饮酒、服用药物或毒品而使自身处于可能危及本人或他人安全的状态。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">《员工保护法》第15条第(4)款</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">《建筑工人保护条例》第5条第(3)款</a>",
+69a87756a36b6c4c63546828,,200275,question,questionText,51190,form,禁止酒精及药物影响下上岗,
+69a87756a36b6c4c63546829,,200276,question,questionText,51190,form,<div></div>,

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68dc19e10100003d008176bd,68bf644c01000056029bb612,47577,questionGroup,description,47577,form,"If your company is required to comply with New Zealand Statutory Labor Insurance, you will be asked to provide relevant documents in a subsequent form(s)."
+68dc19e10100003d008176bd,68bf644c01000056029bb612,47577,questionGroup,questionGroupText,47577,form,New Zealand Statutory Labor Insurance Applicability Assessment
+68dc03ca0100003e0081692f,,183202,question,description,47577,form,
+68dc03ca0100003e0081692f,,183202,question,questionText,47577,form,Is your company required to comply with New Zealand's Accident Compensation Scheme requirements as regulated by Accident Compensation Corporation (ACC) and maintain applicable documentation to show compliance?
+68dc03ca0100003e0081692f,,183202,question,responseOption1,47577,form,Yes
+68dc03ca0100003e0081692f,,183202,question,responseOption2,47577,form,No
+68dc03d30100001e01816930,,183203,question,description,47577,form,"<a href=""https://www.acc.co.nz/for-business/understanding-your-cover-options/types-of-cover-for-self-employed""target=""_BLANK_"">Cover for self-employed</a>"
+68dc03d30100001e01816930,,183203,question,questionText,47577,form,Please select from the following reason(s) your company is exempt from compling with New Zealand's Accident Compensation Scheme requirements  requirement
+68dc03d30100001e01816930,,183203,question,responseOption1,47577,form,The company is a sole proprietorship with no other employees whose earnings are below the minimum threshold and qualified for reduced levy under CoverPlus Extra or standard CoverPlus.
+68dc03d30100001e01816930,,183203,question,responseOption2,47577,form,Other
+68dc03dd0100005c004caa94,,183204,question,questionText,47577,form,"If ""other"", please explain."

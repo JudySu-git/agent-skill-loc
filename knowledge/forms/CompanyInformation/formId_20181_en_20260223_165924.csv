@@ -1,0 +1,47 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+657c8b2a1a0000252a7a4291,5123704f5049435942957053,3485,questionGroup,questionGroupText,20181,form,Republic of Ireland
+5123708550494378d213f7fa,,15880,question,questionText,20181,form,"If Yes, please confirm the full company name and registration number."
+512370a1504943c960d2fb44,,15881,question,description,20181,form,Value Added Tax (VAT) is levied on the sale of goods or services by businesses. VAT is a type of consumption tax that is placed on a product whenever value is added at a stage of production and at final sale.
+512370a1504943c960d2fb44,,15881,question,questionText,20181,form,Does your company have a VAT Registration number?
+512370a1504943c960d2fb44,,15881,question,responseOptionNo,20181,form,No
+512370a1504943c960d2fb44,,15881,question,responseOptionYes,20181,form,Yes
+512370b8504943c2c654ee4b,,15882,question,questionText,20181,form,"If Yes, Please provide your VAT Registration number."
+694ebdc301000043006c3bec,5ac46e4e22000045017e55f6,20181,questionGroup,questionGroupText,20181,form,Avetta PQF - Ireland Company Information
+528d1555504943d966f733c4,,21865,question,description,20181,form,"Example: Ltd., LP, plc, etc."
+528d1555504943d966f733c4,,21865,question,questionText,20181,form,Please indicate your company's business entity / form of business within this country.
+528d1555504943d966f733c4,,21865,question,responseOption1,20181,form,Private Company Limited by Shares (Ltd)
+528d1555504943d966f733c4,,21865,question,responseOption2,20181,form,The Irish limited liability partnership (LLP)
+528d1555504943d966f733c4,,21865,question,responseOption3,20181,form,Designated Activity Company (DAC)
+528d1555504943d966f733c4,,21865,question,responseOption4,20181,form,Company Limited by Guarantee (CLG)
+528d1555504943d966f733c4,,21865,question,responseOption5,20181,form,Public Limited Company (PLC)
+528d1555504943d966f733c4,,21865,question,responseOption6,20181,form,Other
+528d1555504943d966f733c4,,21865,question,responseOption7,20181,form,Foreign entity with no local fiscal presence
+63a1f0f51b00003a00a62c3f,,135485,question,description,20181,form,"<a href=""https://www.revenue.ie/en/Home.aspx"" \ntarget=""_Blank"">https://www.revenue.ie/en/Home.aspx</a>"
+63a1f0f51b00003a00a62c3f,,135485,question,questionText,20181,form,Is your company required to file taxes in Ireland?
+63a1f0f51b00003a00a62c3f,,135485,question,responseOption1,20181,form,Yes
+63a1f0f51b00003a00a62c3f,,135485,question,responseOption2,20181,form,No
+63a1f27d1b00006900a63cf3,,135489,question,questionText,20181,form,"If other is selected, please specify:"
+6578cf461800009e3dca840c,,148115,question,questionText,20181,form,Please indicate where your company is established:
+6578cf461800009e3dca840c,,148115,question,responseOption1,20181,form,Yes
+6578cf461800009e3dca840c,,148115,question,responseOption2,20181,form,No
+6578cf911900002836e4487a,,148116,question,questionText,20181,form,Please explain why:   
+6578cf911900002836e4487a,,148116,question,responseOption1,20181,form,Yes
+6578cf911900002836e4487a,,148116,question,responseOption2,20181,form,No
+6578cfb81900001f36e4487c,,148117,question,questionText,20181,form,Please explain why:  
+6578cfb81900001f36e4487c,,148117,question,responseOption1,20181,form,Yes
+6578cfb81900001f36e4487c,,148117,question,responseOption2,20181,form,No
+6578cff7180000a93dca8412,,148118,question,description,20181,form,"<a href = ""https://showvoc.op.europa.eu/#/datasets/ESTAT_Statistical_Classification_of_Economic_Activities_in_the_European_Community_Rev._2/data""target=""_BLANK_"">Search NACE Rev.2</a>"
+6578cff7180000a93dca8412,,148118,question,questionText,20181,form,"Please provide your primary Industry Classification Code (<a href = ""https://www.gov.ie/en/service/search-nace-coder/""target=""_BLANK_"">NACE</a>).\n\n"
+6578cff7180000a93dca8412,,148118,question,responseOption1,20181,form,Yes
+6578cff7180000a93dca8412,,148118,question,responseOption2,20181,form,No
+6578d089180000a43dca8414,,148119,question,description,20181,form,"<a href = ""https://showvoc.op.europa.eu/#/datasets/ESTAT_Statistical_Classification_of_Economic_Activities_in_the_European_Community_Rev._2/data""target=""_BLANK_"">Search NACE Rev.2</a>"
+6578d089180000a43dca8414,,148119,question,questionText,20181,form,"Please provide your secondary Industry Classification Code (<a href = ""https://www.gov.ie/en/service/search-nace-coder/""target=""_BLANK_"">NACE</a>).\n\n"
+6578d089180000a43dca8414,,148119,question,responseOption1,20181,form,Yes
+6578d089180000a43dca8414,,148119,question,responseOption2,20181,form,No
+657c8b281700007a1b796762,,148383,question,questionText,20181,form,Please explain why:
+657c8b281700007a1b796762,,148383,question,responseOption1,20181,form,Yes
+657c8b281700007a1b796762,,148383,question,responseOption2,20181,form,No
+6937424d01000045009e5129,,191996,question,description,20181,form,"All limited companies in Republic of Ireland are registered at <a href=""https://cro.ie/"" target=""_BLANK"">Companies Registration Office</a> and have a registration number."
+6937424d01000045009e5129,,191996,question,questionText,20181,form,Is your company registered at the Companies Registration Office?
+6937424d01000045009e5129,,191996,question,responseOptionNo,20181,form,No
+6937424d01000045009e5129,,191996,question,responseOptionYes,20181,form,Yes

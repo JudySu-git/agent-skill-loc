@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4c5f0100002f00ebe54a,663013791b00006100b6e70f,42051,questionGroup,description,42051,form,You are getting this category because you selected a license in the Avetta PQF - Victoria License.
+66ce4c5f0100002f00ebe54a,663013791b00006100b6e70f,42051,questionGroup,questionGroupText,42051,form,Victoria Contractor License - Class B: Asbestos Removal
+663013791b00003300b6e710,,153454,question,questionText,42051,form,License Number:
+663013791b00003300b6e710,,153454,question,responseOption1,42051,form,Yes
+663013791b00003300b6e710,,153454,question,responseOption2,42051,form,No
+663013791b00003300b6e711,,153455,question,questionText,42051,form,Please upload your license:\n
+663013791b00003300b6e711,,153455,question,responseOption1,42051,form,Yes
+663013791b00003300b6e711,,153455,question,responseOption2,42051,form,No
+663013791b00003300b6e712,,153456,question,questionText,42051,form,Expiration Date:
+663013791b00003300b6e712,,153456,question,responseOption1,42051,form,Yes
+663013791b00003300b6e712,,153456,question,responseOption2,42051,form,No

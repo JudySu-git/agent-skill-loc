@@ -1,0 +1,84 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+652ec0881600006f4ce6a03c,652855d8170000c65c17b557,40403,questionGroup,questionGroupText,40403,form,Transportation of Dangerous Goods
+65285f1a1b0000394c137983,65285f1a1b0000394c137982,40404,questionGroup,questionGroupText,40403,form,Scope of Work
+652862d7170000ce5c17b5c6,652862d7170000ce5c17b5c5,40405,questionGroup,questionGroupText,40403,form,Policies and Procedures
+6529b629190000f47ac84c74,6529b629190000f47ac84c73,40409,questionGroup,questionGroupText,40403,form,Training
+6529b66c190000cd6173537b,6529b66c190000cd6173537a,40410,questionGroup,questionGroupText,40403,form,Modes of Transport & Equipment
+65285f261b00000b07137986,,145821,question,description,40403,form,"<a href=""https://unece.org/transport/dangerous-goods"" target=""_BLANK"">United Nations Economic Commission - Transportation of Dangerous Goods</a>\n\n"
+65285f261b00000b07137986,,145821,question,questionText,40403,form,Does your company transport dangerous goods?
+65285f261b00000b07137986,,145821,question,responseOption1,40403,form,Yes
+65285f261b00000b07137986,,145821,question,responseOption2,40403,form,No
+652860cf1b00003a4c13798c,,145822,question,questionText,40403,form,What modes of transportation does your company use to transport dangerous goods?
+652860cf1b00003a4c13798c,,145822,question,responseOption1,40403,form,Air
+652860cf1b00003a4c13798c,,145822,question,responseOption2,40403,form,Marine
+652860cf1b00003a4c13798c,,145822,question,responseOption3,40403,form,Road
+652860cf1b00003a4c13798c,,145822,question,responseOption4,40403,form,Rail
+652860cf1b00003a4c13798c,,145822,question,responseOption5,40403,form,Other
+652861801b00003a4c137990,,145823,question,description,40403,form,"*Category includes Environmentally Hazardous Substances, Elevated Temperature Material, Hazardous Wastes, and Marine Pollutants."
+652861801b00003a4c137990,,145823,question,questionText,40403,form,What Classes of Hazardous Materials is your company authorized to transport?
+652861801b00003a4c137990,,145823,question,responseOption1,40403,form,Class 1 Explosives
+652861801b00003a4c137990,,145823,question,responseOption2,40403,form,Class 2 Gases
+652861801b00003a4c137990,,145823,question,responseOption3,40403,form,Class 3 Flammable Liquid
+652861801b00003a4c137990,,145823,question,responseOption4,40403,form,Class 4 Flammable Solids
+652861801b00003a4c137990,,145823,question,responseOption5,40403,form, Class 5 Oxidizing Substances and Organic Peroxides
+652861801b00003a4c137990,,145823,question,responseOption6,40403,form, Class 6 Poisonous (Toxic) and Infectious Substances
+652861801b00003a4c137990,,145823,question,responseOption7,40403,form, Class 7 Radioactive Material
+652861801b00003a4c137990,,145823,question,responseOption8,40403,form, Class 8 Corrosives
+652861801b00003a4c137990,,145823,question,responseOption9,40403,form, Class 9 Miscellaneous Dangerous Goods*
+652862e1170000c65c17b5c7,,145824,question,questionText,40403,form,Does your company have a documented Transportation of Dangerous Goods Program?
+652862e1170000c65c17b5c7,,145824,question,responseOption1,40403,form,Yes
+652862e1170000c65c17b5c7,,145824,question,responseOption2,40403,form,No
+652862ec170000c65c17b5c9,,145825,question,questionText,40403,form,Please upload your company's Transportation of Dangerous Goods Program:
+652862ec170000c65c17b5c9,,145825,question,responseOption1,40403,form,Yes
+652862ec170000c65c17b5c9,,145825,question,responseOption2,40403,form,No
+652862f91b0000314c13799a,,145826,question,questionText,40403,form,Does your company have a Transportation of Dangerous Goods Emergency Response Plan in place?
+652862f91b0000314c13799a,,145826,question,responseOption1,40403,form,Yes
+652862f91b0000314c13799a,,145826,question,responseOption2,40403,form,No
+652863061b0000394c13799c,,145827,question,questionText,40403,form,Please upload your company's Transportation of Dangerous Goods Emergency Response Plan:
+652863061b0000394c13799c,,145827,question,responseOption1,40403,form,Yes
+652863061b0000394c13799c,,145827,question,responseOption2,40403,form,No
+6529b4ec190000d06173536c,,145847,question,questionText,40403,form,"If you select Class 9, which subcategories do you transport? Please select all that apply."
+6529b4ec190000d06173536c,,145847,question,responseOption1,40403,form,"Substances which, on inhalation as fine dust, may endanger health"
+6529b4ec190000d06173536c,,145847,question,responseOption10,40403,form,Substances transported or offered for transport at elevated temperature
+6529b4ec190000d06173536c,,145847,question,responseOption11,40403,form,Liquid
+6529b4ec190000d06173536c,,145847,question,responseOption12,40403,form,Solid
+6529b4ec190000d06173536c,,145847,question,responseOption13,40403,form,"Other substances or articles presenting a danger during transport, but not meeting the definitions of another class"
+6529b4ec190000d06173536c,,145847,question,responseOption2,40403,form,"Substances and articles which, in the event of fire, may form dioxins"
+6529b4ec190000d06173536c,,145847,question,responseOption3,40403,form,Substances evolving flammable vapour
+6529b4ec190000d06173536c,,145847,question,responseOption4,40403,form,Lithium batteries
+6529b4ec190000d06173536c,,145847,question,responseOption5,40403,form,Life-saving appliances
+6529b4ec190000d06173536c,,145847,question,responseOption6,40403,form,Environmentally hazardous substances
+6529b4ec190000d06173536c,,145847,question,responseOption7,40403,form,"Environmentally Hazardous Substance, Solid, N.O.S"
+6529b4ec190000d06173536c,,145847,question,responseOption8,40403,form,"Environmentally Hazardous Substance, Liquid, N.O.S"
+6529b4ec190000d06173536c,,145847,question,responseOption9,40403,form,Genetically modified microorganisms and organisms
+6529b5c8190000ec7ac84c6d,,145848,question,questionText,40403,form,"Does your company have a program in place to report releases that happen when Transporting Dangerous Goods dependent on the mode of transport (air, marine, road, rail) that outlines the correct contact information of the government agency that would need to be notified when there is a release?"
+6529b5c8190000ec7ac84c6d,,145848,question,responseOption1,40403,form,Yes
+6529b5c8190000ec7ac84c6d,,145848,question,responseOption2,40403,form,No
+6529b5d3190000d861735372,,145849,question,questionText,40403,form,"Is it outlined in your documented plan, which agency to contact in the event of an emergency or question, in the region in which the Dangerous Goods are being transported?"
+6529b5d3190000d861735372,,145849,question,responseOption1,40403,form,Yes
+6529b5d3190000d861735372,,145849,question,responseOption2,40403,form,No
+6529b633190000d761735377,,145850,question,questionText,40403,form,Does your company ensure that persons transporting dangerous goods are properly trained?
+6529b633190000d761735377,,145850,question,responseOption1,40403,form,Yes
+6529b633190000d761735377,,145850,question,responseOption2,40403,form,No
+6529b63a1900008a7ac84c77,,145851,question,questionText,40403,form,Does your company ensure that persons transporting dangerous goods hold the appropriate certifications?
+6529b63a1900008a7ac84c77,,145851,question,responseOption1,40403,form,Yes
+6529b63a1900008a7ac84c77,,145851,question,responseOption2,40403,form,No
+6529b643190000ec7ac84c79,,145852,question,description,40403,form,"Examples of Training Requirements to include employees who package, label, receive, ship, handle, transport, etc."
+6529b643190000ec7ac84c79,,145852,question,questionText,40403,form,Does your Transportation of Dangerous Goods Program outline the training requirements needed for HazMat employees?
+6529b643190000ec7ac84c79,,145852,question,responseOption1,40403,form,Yes
+6529b643190000ec7ac84c79,,145852,question,responseOption2,40403,form,No
+6529b677190000de6173537e,,145853,question,questionText,40403,form,"Does your company ensure that different modes of transportation used to transport dangerous goods are properly licensed, placarded and have the appropriate labels?"
+6529b677190000de6173537e,,145853,question,responseOption1,40403,form,Yes
+6529b677190000de6173537e,,145853,question,responseOption2,40403,form,No
+6529b681190000d061735381,,145854,question,questionText,40403,form,"Does your organization adhere to the regulatory means of containment standards (i.e. CSA, CGSB, ISO, UN)?"
+6529b681190000d061735381,,145854,question,responseOption1,40403,form,Yes
+6529b681190000d061735381,,145854,question,responseOption2,40403,form,No
+6529b68a190000d861735384,,145855,question,questionText,40403,form,Does your organization ensure that you have a selection process by which the  process for the appropriate type of container meets the need of the product? 
+6529b68a190000d861735384,,145855,question,responseOption1,40403,form,Yes
+6529b68a190000d861735384,,145855,question,responseOption2,40403,form,No
+6529b695190000f67ac84c80,,145856,question,questionText,40403,form,Does your organization ensure that you are using a certified container appropriate for the class of dangerous goods?
+6529b695190000f67ac84c80,,145856,question,responseOption1,40403,form,Yes
+6529b695190000f67ac84c80,,145856,question,responseOption2,40403,form,No
+6529b69d190000dc61735386,,145857,question,questionText,40403,form,Does your organization manufacture and distribute regulated containers for transportation of dangerous goods?
+6529b69d190000dc61735386,,145857,question,responseOption1,40403,form,Yes
+6529b69d190000dc61735386,,145857,question,responseOption2,40403,form,No

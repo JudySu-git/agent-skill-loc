@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66c36b7f0100002b003093e9,66c36b480100004b008970dd,43228,questionGroup,questionGroupText,43228,form,General Liability - Declaration Forms
+66c36b480100002c008970de,,158747,question,questionText,43228,form,Please upload the General Liability Declaration Forms.
+66c36b480100002c008970de,,158747,question,responseOption1,43228,form,Yes
+66c36b480100002c008970de,,158747,question,responseOption2,43228,form,No
+66c36b480100002c008970df,,158748,question,questionText,43228,form,General Liability Policy: Policy Expiration Date
+66c36b480100002c008970df,,158748,question,responseOption1,43228,form,Yes
+66c36b480100002c008970df,,158748,question,responseOption2,43228,form,No
+66c36b480100002c008970e0,,158749,question,questionText,43228,form,General Liability Policy: Date of Commencement
+66c36b480100002c008970e0,,158749,question,responseOption1,43228,form,Yes
+66c36b480100002c008970e0,,158749,question,responseOption2,43228,form,No
+66c36b480100004d008970e1,,158750,question,questionText,43228,form,General Liability Declaration Forms:
+66c36b480100004d008970e1,,158750,question,responseOption1,43228,form,Yes
+66c36b480100004d008970e1,,158750,question,responseOption2,43228,form,No

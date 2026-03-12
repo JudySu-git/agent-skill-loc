@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec610100003100a473a9,5d30afcf350000434197b93d,26866,questionGroup,questionGroupText,26866,form,Iowa Contractor License
+5d55961d360000a743a9accc,5d30b02f350000434197b943,26867,questionGroup,questionGroupText,26866,form,Iowa Contractor License
+5d30b087350000434197b94a,,84349,question,description,26866,form,"<a href = ""https://laborportal.iwd.iowa.gov/iwd_portal/publicSearch/public""target=""_BLANK_"">Iowa Contractor Licenses</a>"
+5d30b087350000434197b94a,,84349,question,questionText,26866,form,Iowa Contractor License Number:
+5d30b1023500004e4d88ef46,,84350,question,description,26866,form,"<a href = ""https://laborportal.iwd.iowa.gov/iwd_portal/publicSearch/public""target=""_BLANK_"">Iowa Contractor Licenses</a>"
+5d30b1023500004e4d88ef46,,84350,question,questionText,26866,form,Iowa Contractor License Classifications:
+5d30b161350000434197b94e,,84351,question,questionText,26866,form,Iowa License Expiration Date:
+5d30b1b93500004e4d88ef4a,,84352,question,description,26866,form,A URL will make verification quicker if provided
+5d30b1b93500004e4d88ef4a,,84352,question,questionText,26866,form,"Do you wish to upload a copy of your license, and/or provide the URL of the license?"
+5d30b1b93500004e4d88ef4a,,84352,question,responseOption1,26866,form,File Upload
+5d30b1b93500004e4d88ef4a,,84352,question,responseOption2,26866,form,URL
+5d30b1ef350000434197b951,,84353,question,questionText,26866,form,Please upload a copy of your Iowa license:
+5d30b204350000434197b953,,84354,question,questionText,26866,form,Please enter the URL of the license:

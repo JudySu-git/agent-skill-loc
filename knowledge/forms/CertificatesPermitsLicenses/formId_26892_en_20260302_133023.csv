@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec600100002d00a47397,5d30e421350000434197cf3d,26892,questionGroup,questionGroupText,26892,form,Mississippi Contractor License
+5d55992233000051365fae6a,5d30e4373500004e4d891169,26893,questionGroup,questionGroupText,26892,form,Mississippi Contractor License
+5d30e4413500004e4d89116c,,84418,question,description,26892,form,"<a href = ""http://search.msboc.us/ConsolidatedResults.cfm?ContractorType=&VarDatasource=BOC&Advanced=1""target=""_BLANK_"">Mississippi State Board of Contractors</a>\n\n\n"
+5d30e4413500004e4d89116c,,84418,question,questionText,26892,form,Mississippi Contractor License Number:\n
+5d30e465350000434197cf63,,84419,question,description,26892,form,"<a href = ""http://search.msboc.us/ConsolidatedResults.cfm?ContractorType=&VarDatasource=BOC&Advanced=1""target=""_BLANK_"">Mississippi State Board of Contractors</a>\n\n\n"
+5d30e465350000434197cf63,,84419,question,questionText,26892,form,Mississippi Contractor License Classifications:\n
+5d30e47c3500004e4d891173,,84420,question,questionText,26892,form,Mississippi License Expiration Date:\n
+5d30e48d3500004e4d8911a1,,84421,question,description,26892,form,A URL will make verification quicker if provided\n
+5d30e48d3500004e4d8911a1,,84421,question,questionText,26892,form,"Upload a copy of your license, and or provide the URL of the license."
+5d30e48d3500004e4d8911a1,,84421,question,responseOption1,26892,form,File Upload
+5d30e48d3500004e4d8911a1,,84421,question,responseOption2,26892,form,URL
+5d30e4b83500004e4d891249,,84422,question,questionText,26892,form,Please upload a copy of your Mississippi license:\n
+5d30e4ce350000434197d019,,84423,question,questionText,26892,form,Please enter the URL of the license:\n

@@ -1,0 +1,26 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6965152c0100005e005305a6,690e47540100004400dc47c1,48947,questionGroup,questionGroupText,48947,form,Air Liquide Specific - Japan Company Information
+696515210100003e005305a4,690e47540100009801dc47c2,48948,questionGroup,questionGroupText,48947,form,Japan
+690e47540100009701dc47c3,,187710,question,description,48947,form,"Guidance: Ex.  Kabushiki Kaisha (KK), Goudou Kaisha (GK)"
+690e47540100009701dc47c3,,187710,question,questionText,48947,form,Please indicate your company’s business entity or form of business within this country
+690e47540100009701dc47c3,,187710,question,responseOption1,48947,form,Sole proprietorship
+690e47540100009701dc47c3,,187710,question,responseOption2,48947,form,Joint-Stock Company (Kabushiki-Kaisha)
+690e47540100009701dc47c3,,187710,question,responseOption3,48947,form,Limited Liability Company (Godo-Kaisha) (Yugen-Kaisha)
+690e47540100009701dc47c3,,187710,question,responseOption4,48947,form,General Partnership Company (Gomei-Kaisha)
+690e47540100009701dc47c3,,187710,question,responseOption5,48947,form,Limited Partnership Company (Goshi-Kaisha)
+690e47540100009701dc47c3,,187710,question,responseOption6,48947,form,Other
+690e4755010000df00dc47ca,,187713,question,questionText,48947,form,Please indicate the date your company was founded
+690e47550100009801dc47cc,,187714,question,questionText,48947,form,"Please specify ""Other"""
+690e47550100009701dc47cb,,187715,question,questionText,48947,form,"If not, please explain the circumstances of non-compliance."
+690e47540100009701dc47c6,,187716,question,questionText,48947,form,"If so, please explain the details.\n"
+690e47550100009801dc47d2,,187720,question,questionText,48947,form,Are there any matters other than those listed above that would be of significant concern in conducting business with your company?
+690e47550100009801dc47d2,,187720,question,responseOption1,48947,form,Yes
+690e47550100009801dc47d2,,187720,question,responseOption2,48947,form,No
+690e47540100009801dc47c8,,187721,question,questionText,48947,form,Please indicate the date of Incorporation / registration (if applicable) 
+690e47550100004000dc47d0,,187722,question,questionText,48947,form,"Does your company comply with all the applicable laws and regulations in Japan, including but not limited to laws and regulations on labor, export control, tax, environmental protection, IP, privacy, and data protection?"
+690e47550100004000dc47d0,,187722,question,responseOption1,48947,form,Yes
+690e47550100004000dc47d0,,187722,question,responseOption2,48947,form,No
+690e47550100009801dc47d1,,187723,question,questionText,48947,form,Have any administrative sanctions or penalties been imposed on your company? Is your company involved in any ongoing litigation or dispute?
+690e47550100009801dc47d1,,187723,question,responseOption1,48947,form,Yes
+690e47550100009801dc47d1,,187723,question,responseOption2,48947,form,No
+690e4755010000e000dc47cf,,187724,question,questionText,48947,form,"If so, please explain the reason for being sanctioned/the background and status of the litigation or dispute.\n"

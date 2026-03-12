@@ -1,0 +1,28 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6668b8ad01000031003d0cf1,66676714010000c3006db053,42648,questionGroup,questionGroupText,42648,form,Cushman & Wakefield India Specific
+66676790010000c3006db059,66676790010000c3006db058,42649,questionGroup,questionGroupText,42648,form,Attachments and Required Documents
+6667671c0100004b006db054,,156104,question,questionText,42648,form,Please upload the copy of the Permanent Account Number (PAN) Card.
+6667671c0100004b006db054,,156104,question,responseOption1,42648,form,Yes
+6667671c0100004b006db054,,156104,question,responseOption2,42648,form,No
+6667679d01000036006652d8,,156105,question,questionText,42648,form,Please upload the copy of the Service Tax Registration.
+6667679d01000036006652d8,,156105,question,responseOption1,42648,form,Yes
+6667679d01000036006652d8,,156105,question,responseOption2,42648,form,No
+66676bf1010000a5006652e1,,156106,question,questionText,42648,form,Please upload the copy of the Employee Provident Fund (EPF) Card.
+66676bf1010000a5006652e1,,156106,question,responseOption1,42648,form,Yes
+66676bf1010000a5006652e1,,156106,question,responseOption2,42648,form,No
+66676c0301000031006652e4,,156107,question,questionText,42648,form,Please upload the Labor Compliance documents.
+66676c0301000031006652e4,,156107,question,responseOption1,42648,form,Yes
+66676c0301000031006652e4,,156107,question,responseOption2,42648,form,No
+66676c10010000a2006652e7,,156108,question,questionText,42648,form,Does your company provide security services (security system maintenance & manguarding)?
+66676c10010000a2006652e7,,156108,question,responseOption1,42648,form,Yes
+66676c10010000a2006652e7,,156108,question,responseOption2,42648,form,No
+66676c1901000032006652e9,,156109,question,questionText,42648,form,Please upload the copy of the PSARA Certificate for Security.
+66676c1901000032006652e9,,156109,question,responseOption1,42648,form,Yes
+66676c1901000032006652e9,,156109,question,responseOption2,42648,form,No
+66676c260100004b006db065,,156110,question,questionText,42648,form,"Is your company classified as a micro, small, or medium enterprise?"
+66676c260100004b006db065,,156110,question,responseOption1,42648,form,Yes
+66676c260100004b006db065,,156110,question,responseOption2,42648,form,No
+66676c260100004b006db065,,156110,question,responseOption4,42648,form,Medium Enterprise
+66676c3001000096006db068,,156111,question,questionText,42648,form,Please upload the copy of the MSME Certificate.
+66676c3001000096006db068,,156111,question,responseOption1,42648,form,Yes
+66676c3001000096006db068,,156111,question,responseOption2,42648,form,No

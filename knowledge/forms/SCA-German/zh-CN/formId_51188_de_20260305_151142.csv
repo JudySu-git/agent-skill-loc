@@ -1,0 +1,24 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87755a36b6c4c63546819,69a87755a36b6c4c63546818,51188,questionGroup,questionGroupText,51188,form,工作设备,
+69a87754a36b6c4c63546811,,200256,question,description,51188,form,"在无法实现完全安全的情况下，必须采取危害降低措施及应急或救援程序。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第33条第(6)款</a>",
+69a87754a36b6c4c63546811,,200256,question,questionText,51188,form,控制措施（工程控制、行政管理控制和/或个人防护装备）,
+69a87754a36b6c4c63546812,,200257,question,description,51188,form,"必须采取措施，防止在架空线附近发生危险性接近及触电事故。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第34条第(4)款</a>",
+69a87754a36b6c4c63546812,,200257,question,questionText,51188,form,与电力线的安全净距,
+69a87754a36b6c4c63546813,,200258,question,description,51188,form,"员工在使用前必须检查是否存在明显缺陷，并避免危及他人。定期设备检查必须涵盖因使用或环境因素造成的损坏。检查频率必须反映对有害条件的暴露程度。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第35条第(3)款、第37条第(2-3)款、第(7)款</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">工作设备条例，第8条</a>",
+69a87754a36b6c4c63546813,,200258,question,questionText,51188,form,检查（使用前检查、定期检查及事后检查）,
+69a87754a36b6c4c63546814,,200259,question,description,51188,form,"培训须确保员工在使用前检查是否存在明显缺陷，在不危及任何人的情况下操作设备，并在交接时报告异常情况。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第35条第(3)款</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">工作设备条例，第4条、第5条</a>",
+69a87754a36b6c4c63546814,,200259,question,questionText,51188,form,培训,
+69a87754a36b6c4c63546815,,200260,question,description,51188,form,"维护保养必须遵循制造商说明，以保持安全状态。维护保养活动必须符合法律及制造商要求。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第38条第(1)款</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">工作设备条例，第16条</a>",
+69a87754a36b6c4c63546815,,200260,question,questionText,51188,form,维护保养,
+69a87754a36b6c4c63546816,,200261,question,description,51188,form,"在首次使用前、重新组装后、以及安全性取决于状态或稳定性的重大维修或改造后，须进行验收测试。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第37条第(1)款</a>",
+69a87754a36b6c4c63546816,,200261,question,questionText,51188,form,验收测试（首次使用前及维修后）,
+69a87754a36b6c4c63546817,,200262,question,questionText,51188,form,<div></div>,

@@ -1,0 +1,19 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67d3493501000035003fb085,67d32a1e0100005900ac5325,44723,questionGroup,questionGroupText,44723,form,Portugal Tax Certification
+67d32ac80100003b00ac532d,67d32ac80100003b00ac532c,44724,questionGroup,questionGroupText,44723,form,Tax Certification
+67d32adb0100004100ac5330,,166448,question,description,44723,form,"The <a href = ""https://www.portaldasfinancas.gov.pt/at/html/index.html""target=""_BLANK_"">Autoridade Tributaria </a>is responsible for the administration of taxes, customs duties and other related levies."
+67d32adb0100004100ac5330,,166448,question,questionText,44723,form,Is your company registered with the Autoridade Tributaria?
+67d32adb0100004100ac5330,,166448,question,responseOption1,44723,form,Yes
+67d32adb0100004100ac5330,,166448,question,responseOption2,44723,form,No
+67d32af201000057003fafe7,,166449,question,questionText,44723,form,Please select an option.
+67d32af201000057003fafe7,,166449,question,responseOption1,44723,form, We are a foreign based company and have no employees working in Portugal
+67d32af201000057003fafe7,,166449,question,responseOption2,44723,form,Other
+67d32b2101000055003fafea,,166450,question,questionText,44723,form,Please explain.
+67d32b2101000055003fafea,,166450,question,responseOption1,44723,form,Yes
+67d32b2101000055003fafea,,166450,question,responseOption2,44723,form,No
+67d32b380100003c003fafeb,,166451,question,questionText,44723,form,Please provide a copy of your Certidão de Situação Tributária Regularizada.
+67d32b380100003c003fafeb,,166451,question,responseOption1,44723,form,Yes
+67d32b380100003c003fafeb,,166451,question,responseOption2,44723,form,No
+67d32b4801000035003fafec,,166452,question,questionText,44723,form,I confirm that I am an authorised signatory of the company and that the information and documentation provided is valid.
+67d32b4801000035003fafec,,166452,question,responseOption1,44723,form,Yes
+67d32b4801000035003fafec,,166452,question,responseOption2,44723,form,No

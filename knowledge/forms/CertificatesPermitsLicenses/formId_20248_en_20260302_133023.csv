@@ -1,0 +1,19 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+60706b4f4500009d89bc03fd,55e8bd71504943c8c15cef1a,7298,questionGroup,questionGroupText,20248,form,Policy Information
+55e8bdd45049435668893d3d,55e8bdd45049435668893d3d,7299,questionGroup,questionGroupText,20248,form,Policy Limits
+6070826743000090e8651161,5af4c452340000c103f8f805,20248,questionGroup,description,20248,form,The Product Recall Insurance collects Each Occurrence and General Aggreate of Product Recall Expense and Product Recall Liability
+6070826743000090e8651161,5af4c452340000c103f8f805,20248,questionGroup,questionGroupText,20248,form,Product Recall Insurance
+55e8bedc5049436b473f679a,,32727,question,questionText,20248,form,Date of Commencement:
+55e8bf88504943db2ea9b311,,32728,question,questionText,20248,form,Expiration Date:
+55e8c41b504943f764ac03ff,,32730,question,questionText,20248,form,Product Recall Expense - Each Occurrence
+55e8c44f50494365e7d9771c,,32731,question,questionText,20248,form,Product Recall Expense - Aggregate
+55e8c4aa5049432d9e27b325,,32732,question,questionText,20248,form,Product Recall Liability - Each Occurrence
+55e8c4ed5049432da45d1bc6,,32733,question,questionText,20248,form,Product Recall Liability - Aggregate
+5af4c67e340000c103f8fa7b,,60098,question,description,20248,form,Product Recall Insurance Certificate
+5af4c67e340000c103f8fa7b,,60098,question,questionText,20248,form,Please upload Product Recall Insurance Certificate
+5d713c71350000a8a8f0e8a5,,86272,question,questionText,20248,form,Insurance Carrier:
+60706b4e43000090e86348f3,,108625,question,description,20248,form,Used to provide instructions from Client
+60706b4e43000090e86348f3,,108625,question,questionText,20248,form,Comments
+60706b864500009d89bc050a,,108628,question,description,20248,form,Date the instructions from Client expire
+60706b864500009d89bc050a,,108628,question,questionText,20248,form,VARIANCE Expiration Date
+62f53f3882eb52eab3c18fb9,,130542,question,questionText,20248,form,Currency used in Certificate of Insurance (COI)

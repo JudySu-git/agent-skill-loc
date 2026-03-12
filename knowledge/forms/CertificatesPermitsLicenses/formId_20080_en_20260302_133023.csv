@@ -1,0 +1,120 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+54667b8d5049433a96f20a94,54667b8d5049433a96f20a94,6051,questionGroup,questionGroupText,20080,form,Corporate Social Responsiblity
+54667c7d5049433a6f1e103a,54667c7d5049433a6f1e103a,6052,questionGroup,questionGroupText,20080,form,Labour
+54667c9e504943c701a8d51d,54667c9e504943c701a8d51d,6053,questionGroup,questionGroupText,20080,form,Code of Conduct
+54667d70504943e726993f27,54667d70504943e726993f27,6054,questionGroup,questionGroupText,20080,form,Remuneration
+54667d8050494338c93031e2,54667d8050494338c93031e2,6055,questionGroup,questionGroupText,20080,form,Working Hours
+54667d92504943369d707b6b,54667d92504943369d707b6b,6056,questionGroup,questionGroupText,20080,form,Working Environment
+54667dc25049438e9277680e,54667dc25049438e9277680e,6057,questionGroup,questionGroupText,20080,form,Non-Discrimination
+54667dd55049439952986251,54667dd55049439952986251,6058,questionGroup,questionGroupText,20080,form,Environmental
+54667de45049432df5eca386,54667de45049432df5eca386,6059,questionGroup,questionGroupText,20080,form,Production
+54667df6504943455164ae2e,54667df6504943455164ae2e,6060,questionGroup,questionGroupText,20080,form,Bribery and Corruption
+54667e1a5049432771772db0,54667e1a5049432771772db0,6061,questionGroup,questionGroupText,20080,form,Greenhouse Gas Emission
+547f393c50494355dbf6847a,547f393c50494355dbf6847a,6193,questionGroup,questionGroupText,20080,form,Right of Association
+547f450e504943ef05c78d01,547f450e504943ef05c78d01,6194,questionGroup,questionGroupText,20080,form,Material Efficiency
+547f4903504943db15613d5f,547f4903504943db15613d5f,6197,questionGroup,questionGroupText,20080,form,Demonstration of Compliance
+5c182b2e37000025ddbf9ff3,5ab17344240000607819fa31,20080,questionGroup,questionGroupText,20080,form,Avetta PQF - Corporate Social Responsibility
+54667c4e504943ccbafa1639,,26877,question,description,20080,form,"<a href=""http://www.ilo.org/global/lang--en/index.htm"">International Labour Organization</a>"
+54667c4e504943ccbafa1639,,26877,question,questionText,20080,form,Does your company support the efforts of the International Labour Organization (ILO) to promote social justice and internationally recognized human and labour rights?
+54667c4e504943ccbafa1639,,26877,question,responseOptionNA,20080,form,N/A
+54667c4e504943ccbafa1639,,26877,question,responseOptionNo,20080,form,No
+54667c4e504943ccbafa1639,,26877,question,responseOptionYes,20080,form,Yes
+54667ed35049438c40af00af,,26878,question,questionText,20080,form,"Does your company have a policy that prohibits use of convict, indentured, slave or bonded or other forced involuntary labor by your vendors and their subsidiaries, affiliates and subcontractors."
+54667ed35049438c40af00af,,26878,question,responseOptionNA,20080,form,N/A
+54667ed35049438c40af00af,,26878,question,responseOptionNo,20080,form,No
+54667ed35049438c40af00af,,26878,question,responseOptionYes,20080,form,Yes
+54667f32504943c641d2450a,,26879,question,description,20080,form,"“Child labour” is defined as the employment of persons younger than the local legal minimum working age, or the local legal age for compulsory education."
+54667f32504943c641d2450a,,26879,question,questionText,20080,form,"Does your company have a policy that prohibits use of child labour by your company's vendors and their subsidiaries, affiliates and subcontractors."
+54667f32504943c641d2450a,,26879,question,responseOptionNA,20080,form,N/A
+54667f32504943c641d2450a,,26879,question,responseOptionNo,20080,form,No
+54667f32504943c641d2450a,,26879,question,responseOptionYes,20080,form,Yes
+54667f7c504943c8947419a3,,26880,question,description,20080,form,"Code of Conduct is a set of rules outlining the responsibilities of or proper practices for an individual or organization. It sets out the standards of business conduct all employees are expected to live up to in everything they do, whatever their role, wherever they operate."
+54667f7c504943c8947419a3,,26880,question,questionText,20080,form,"Does your company have an established Code of Conduct that adheres to basic guidelines for social, economic and environmental responsibility?"
+54667f7c504943c8947419a3,,26880,question,responseOptionNA,20080,form,N/A
+54667f7c504943c8947419a3,,26880,question,responseOptionNo,20080,form,No
+54667f7c504943c8947419a3,,26880,question,responseOptionYes,20080,form,Yes
+547e48e8504943933b6b37aa,,27514,question,questionText,20080,form,Are wages and benefits paid in conformity with the minimum wage prescribed by local law or the prevailing local industry wage?
+547e48e8504943933b6b37aa,,27514,question,responseOptionNA,20080,form,N/A
+547e48e8504943933b6b37aa,,27514,question,responseOptionNo,20080,form,No
+547e48e8504943933b6b37aa,,27514,question,responseOptionYes,20080,form,Yes
+547e49565049434e623647a4,,27515,question,questionText,20080,form,"Are staff working hours kept in compliance with local laws and standards, with no regularly scheduled working week in excess of 60 hours (or lower if prescribed by local laws or local industry standards)?"
+547e49565049434e623647a4,,27515,question,responseOptionNA,20080,form,N/A
+547e49565049434e623647a4,,27515,question,responseOptionNo,20080,form,No
+547e49565049434e623647a4,,27515,question,responseOptionYes,20080,form,Yes
+547e4978504943143da25c3f,,27516,question,questionText,20080,form,"Does your company provide staff with a safe, clean and healthy working environment and residential and eating facilities (where applicable) which meet all relevant local laws and regulations?"
+547e4978504943143da25c3f,,27516,question,responseOptionNA,20080,form,N/A
+547e4978504943143da25c3f,,27516,question,responseOptionNo,20080,form,No
+547e4978504943143da25c3f,,27516,question,responseOptionYes,20080,form,Yes
+547e4a70504943ff143453ef,,27517,question,questionText,20080,form,"Does your company employ workers on the basis of their ability to perform the requisite tasks, and not on the basis of their personal characteristics or beliefs?"
+547e4a70504943ff143453ef,,27517,question,responseOptionNA,20080,form,N/A
+547e4a70504943ff143453ef,,27517,question,responseOptionNo,20080,form,No
+547e4a70504943ff143453ef,,27517,question,responseOptionYes,20080,form,Yes
+547e4aac504943c8646cfc93,,27518,question,description,20080,form,"No employee should be subject to any physical, sexual, psychological or verbal harassment or abuse."
+547e4aac504943c8646cfc93,,27518,question,questionText,20080,form,Does your company treat each of their employees with respect and dignity?
+547e4aac504943c8646cfc93,,27518,question,responseOptionNA,20080,form,N/A
+547e4aac504943c8646cfc93,,27518,question,responseOptionNo,20080,form,No
+547e4aac504943c8646cfc93,,27518,question,responseOptionYes,20080,form,Yes
+547e4aed504943a7c0ffcb8c,,27519,question,questionText,20080,form,Does your company comply with all applicable environmental laws and regulations in the country of operation?
+547e4aed504943a7c0ffcb8c,,27519,question,responseOptionNA,20080,form,N/A
+547e4aed504943a7c0ffcb8c,,27519,question,responseOptionNo,20080,form,No
+547e4aed504943a7c0ffcb8c,,27519,question,responseOptionYes,20080,form,Yes
+547f3a2f50494327b8873a38,,27520,question,description,20080,form,"Employers may not threaten, penalize, restrict or interfere with employees’ lawful efforts to organize or join associations of their choosing."
+547f3a2f50494327b8873a38,,27520,question,questionText,20080,form,Does your company recognize and respect the legal rights of your employees to free association?
+547f3a2f50494327b8873a38,,27520,question,responseOptionNo,20080,form,No
+547f3a2f50494327b8873a38,,27520,question,responseOptionYes,20080,form,Yes
+547f3a8c5049433cf87b2a42,,27521,question,questionText,20080,form,Is your company aware of the location of 100 percent of the facilities that produce your product(s)?
+547f3a8c5049433cf87b2a42,,27521,question,responseOptionNA,20080,form,N/A
+547f3a8c5049433cf87b2a42,,27521,question,responseOptionNo,20080,form,No
+547f3a8c5049433cf87b2a42,,27521,question,responseOptionYes,20080,form,Yes
+547f3ab0504943b0ea1316f9,,27522,question,questionText,20080,form,"Does your company evaluate the quality of and capacity for production, before beginning a business relationship with a manufacturing facility?"
+547f3ab0504943b0ea1316f9,,27522,question,responseOptionNA,20080,form,N/A
+547f3ab0504943b0ea1316f9,,27522,question,responseOptionNo,20080,form,No
+547f3ab0504943b0ea1316f9,,27522,question,responseOptionYes,20080,form,Yes
+547f3ace5049431cb2463835,,27523,question,questionText,20080,form,Does your company have a process for managing social compliance at the manufacturing level?
+547f3ace5049431cb2463835,,27523,question,responseOptionNA,20080,form,N/A
+547f3ace5049431cb2463835,,27523,question,responseOptionNo,20080,form,No
+547f3ace5049431cb2463835,,27523,question,responseOptionYes,20080,form,Yes
+547f3ae6504943f9013a5d33,,27524,question,questionText,20080,form,Does your company work with its supply base to resolve issues found during social compliance evaluations and also document specific corrections and improvements?
+547f3ae6504943f9013a5d33,,27524,question,responseOptionNA,20080,form,N/A
+547f3ae6504943f9013a5d33,,27524,question,responseOptionNo,20080,form,No
+547f3ae6504943f9013a5d33,,27524,question,responseOptionYes,20080,form,Yes
+547f3b05504943f8ce5cf0ed,,27525,question,questionText,20080,form,Does your company invest in community development activities in the markets your company sources from and/or operates within?
+547f3b05504943f8ce5cf0ed,,27525,question,responseOptionNA,20080,form,N/A
+547f3b05504943f8ce5cf0ed,,27525,question,responseOptionNo,20080,form,No
+547f3b05504943f8ce5cf0ed,,27525,question,responseOptionYes,20080,form,Yes
+547f3b70504943b649889adf,,27526,question,questionText,20080,form,"Does your company have a policy regulating the provision of gifts, entertainment, travel, lodging, hospitalities, donations, grants or anything of value directly or indirectly to government officials and private third parties?"
+547f3b70504943b649889adf,,27526,question,responseOptionNo,20080,form,No
+547f3b70504943b649889adf,,27526,question,responseOptionYes,20080,form,Yes
+547f3c6d504943782aaf0637,,27527,question,questionText,20080,form,Does your company report its greenhouse gas emissions to the Carbon Disclosure Project (CDP)?
+547f3c6d504943782aaf0637,,27527,question,responseOptionNo,20080,form,No
+547f3c6d504943782aaf0637,,27527,question,responseOptionYes,20080,form,Yes
+547f4248504943129e20044f,,27528,question,questionText,20080,form,Does your company measure its corporate greenhouse gas emissions?
+547f4248504943129e20044f,,27528,question,responseOptionNA,20080,form,N/A
+547f4248504943129e20044f,,27528,question,responseOptionNo,20080,form,No
+547f4248504943129e20044f,,27528,question,responseOptionYes,20080,form,Yes
+547f4426504943583a5919f2,,27529,question,questionText,20080,form,Please upload the current year's report for your company's total annual greenhouse gas emissions?
+547f4476504943a4d03cc639,,27530,question,questionText,20080,form,Does your company set publicly available greenhouse gas reduction targets?
+547f4476504943a4d03cc639,,27530,question,responseOptionNo,20080,form,No
+547f4476504943a4d03cc639,,27530,question,responseOptionYes,20080,form,Yes
+547f44a1504943216cd0ccc1,,27531,question,questionText,20080,form,Please state your greenhouse gas reduction targets.
+547f45cf504943cfb99c3a5e,,27532,question,questionText,20080,form,Does your company measure the total amount of solid waste generated from the facilities that produce your product(s)?
+547f45cf504943cfb99c3a5e,,27532,question,responseOptionNA,20080,form,N/A
+547f45cf504943cfb99c3a5e,,27532,question,responseOptionNo,20080,form,No
+547f45cf504943cfb99c3a5e,,27532,question,responseOptionYes,20080,form,Yes
+547f46915049438df6e12241,,27533,question,questionText,20080,form,Please upload the current year's report for the total amount of solid waste generated from the facilities that produce your product(s).
+547f470e504943cbc7577d81,,27534,question,questionText,20080,form,Does your company set publicly available solid waste reduction targets?
+547f470e504943cbc7577d81,,27534,question,responseOptionNo,20080,form,No
+547f470e504943cbc7577d81,,27534,question,responseOptionYes,20080,form,Yes
+547f475a504943321dd41c60,,27535,question,questionText,20080,form,Please state your solid waste reduction targets.
+547f477d504943ae34dab19f,,27536,question,questionText,20080,form,Does your company measure the total water use from the facilities that produce your product(s)?
+547f477d504943ae34dab19f,,27536,question,responseOptionNA,20080,form,N/A
+547f477d504943ae34dab19f,,27536,question,responseOptionNo,20080,form,No
+547f477d504943ae34dab19f,,27536,question,responseOptionYes,20080,form,Yes
+547f47d35049434adab62f72,,27537,question,questionText,20080,form,Please upload the current year's report for the total water use from the facilities that produce your product(s).
+547f47fd504943be5d9546e5,,27538,question,questionText,20080,form,Does your company set publicly available water use reduction targets?
+547f47fd504943be5d9546e5,,27538,question,responseOptionNo,20080,form,No
+547f47fd504943be5d9546e5,,27538,question,responseOptionYes,20080,form,Yes
+547f482e5049439f485c9806,,27539,question,questionText,20080,form,Please state your water use reduction targets.
+547f4917504943d11d1fca77,,27540,question,questionText,20080,form,Is your company willing to supply certification and/or appropriate documentation demonstrating compliance?
+547f4917504943d11d1fca77,,27540,question,responseOptionNo,20080,form,No
+547f4917504943d11d1fca77,,27540,question,responseOptionYes,20080,form,Yes

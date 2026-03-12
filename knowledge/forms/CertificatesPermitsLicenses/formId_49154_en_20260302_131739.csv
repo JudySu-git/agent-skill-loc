@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6926307b0100006400be9625,691e4ea20100003c00548e77,49154,questionGroup,description,49154,form,"If your company is required to comply with Costa Rica Workers' Compensation requirements, you will be asked to provide relevant documents in a subsequent form(s)."
+6926307b0100006400be9625,691e4ea20100003c00548e77,49154,questionGroup,questionGroupText,49154,form,Costa Rica Workers' Compensation SRT Applicability Assessment
+691e4f090100004300548e7c,,189012,question,description,49154,form,
+691e4f090100004300548e7c,,189012,question,questionText,49154,form,Is your company required to comply with Costa Rica's Workers' Compensation requirements as regulated by INS (National Insurance Institute) and maintain applicable documentation to show compliance?
+691e4f090100004300548e7c,,189012,question,responseOption1,49154,form,Yes
+691e4f090100004300548e7c,,189012,question,responseOption2,49154,form,No
+691e5265010000ea00548e82,,189013,question,questionText,49154,form,Please select from the following reason(s) your company is exempt from complying with Costa Rica's Worker's Compensation requirements.
+691e5265010000ea00548e82,,189013,question,responseOption1,49154,form,The company is a sole proprietorship with no other employees.
+691e5265010000ea00548e82,,189013,question,responseOption2,49154,form,The company does not have any employees in Costa Rica.
+691e5265010000ea00548e82,,189013,question,responseOption3,49154,form,Other
+691e52bd0100003b008b628d,,189014,question,questionText,49154,form,"If ""other"", please explain."
+691e52cf0100005c008b628f,,189015,question,questionText,49154,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Costa Rican legislation."

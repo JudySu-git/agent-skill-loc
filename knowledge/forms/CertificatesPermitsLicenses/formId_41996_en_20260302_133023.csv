@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce458f0100002f00ebe47c,662fd68b1a00002c0045d2ce,41996,questionGroup,description,41996,form,You are getting this category because you selected a license in the Avetta PQF - New South Wales Contractor License.
+66ce458f0100002f00ebe47c,662fd68b1a00002c0045d2ce,41996,questionGroup,questionGroupText,41996,form,New South Wales Contractor License - Gas Fitting
+662fd68b1a00005b0045d2d0,,153296,question,questionText,41996,form,License Number:
+662fd68b1a00005b0045d2d0,,153296,question,responseOption1,41996,form,Yes
+662fd68b1a00005b0045d2d0,,153296,question,responseOption2,41996,form,No
+662fd68b1a00005e0045d2d1,,153297,question,questionText,41996,form,Expiration Date:
+662fd68b1a00005e0045d2d1,,153297,question,responseOption1,41996,form,Yes
+662fd68b1a00005e0045d2d1,,153297,question,responseOption2,41996,form,No
+662fd68b1a00005e0045d2cf,,153298,question,questionText,41996,form,Please upload your license:\n
+662fd68b1a00005e0045d2cf,,153298,question,responseOption1,41996,form,Yes
+662fd68b1a00005e0045d2cf,,153298,question,responseOption2,41996,form,No

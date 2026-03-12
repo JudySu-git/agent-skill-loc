@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+657a771718000024004d3440,6577cd3e1a00003b3b85942c,40873,questionGroup,questionGroupText,40873,form,Avetta PQF - France Fiscal Compliance
+6577cdc6190000ec39816e1f,6577cdc6190000ec39816e1e,40874,questionGroup,questionGroupText,40873,form,France Fiscal Compliance
+6577cdd9190000db39816e22,,148093,question,questionText,40873,form,Is your company required to file taxes in France?
+6577cdd9190000db39816e22,,148093,question,responseOption1,40873,form,Yes
+6577cdd9190000db39816e22,,148093,question,responseOption2,40873,form,No
+6577cdfb1a00003b3b859430,,148094,question,questionText,40873,form,"If Yes, please upload your Certificate of Tax Compliance:"
+6577cdfb1a00003b3b859430,,148094,question,responseOption1,40873,form,Yes
+6577cdfb1a00003b3b859430,,148094,question,responseOption2,40873,form,No
+6577ce241a0000543b859433,,148095,question,questionText,40873,form,"If No, please explain:"
+6577ce241a0000543b859433,,148095,question,responseOption1,40873,form,Yes
+6577ce241a0000543b859433,,148095,question,responseOption2,40873,form,No

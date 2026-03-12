@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6965884b010000550035f797,696569750100003e003a7713,50322,questionGroup,description,50322,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+6965884b010000550035f797,696569750100003e003a7713,50322,questionGroup,questionGroupText,50322,form,Japan Entity Documentation Applicability Assessment
+696569cf0100005f003a7718,,196820,question,description,50322,form,"In Japan, the <a href=""https://www.moj.go.jp/MINJI/houjintouki.html"" target=""blank"">Certificate of Incorporation</a> and the <a href=""https://www.japaneselawtranslation.go.jp/ja/laws/view/1863"" target=""blank"">Certificate of Seal-Impression</a> are essential documents used to verify a company’s legal registration and its officially authorized seal, which functions as the company’s binding signature. These certificates are required to confirm a business’s legitimate existence and its authority to enter contracts, conduct transactions, and complete formal compliance processes."
+696569cf0100005f003a7718,,196820,question,questionText,50322,form,Does your company perform work in Japan and maintain business entity certificates?
+696569cf0100005f003a7718,,196820,question,responseOption1,50322,form,Yes
+696569cf0100005f003a7718,,196820,question,responseOption2,50322,form,No
+69656b1a0100003e0035f651,,196821,question,questionText,50322,form,Please select from the following reasons your company is exempt from needing business entity certificates in Japan.
+69656b1a0100003e0035f651,,196821,question,responseOption1,50322,form,The company is a sole proprietorship with no other employees.
+69656b1a0100003e0035f651,,196821,question,responseOption2,50322,form,The company is a foreign company which is not registered and does not have a legal presence in Japan.
+69656b1a0100003e0035f651,,196821,question,responseOption3,50322,form,Other
+69656b3f0100005e003a771b,,196822,question,questionText,50322,form,Please explain why your company is exempt from needing business entity certificates in Japan.
+69656b500100005f003a771d,,196823,question,questionText,50322,form,Please select the business entity certificates your company maintains.
+69656b500100005f003a771d,,196823,question,responseOption1,50322,form,Certificate of Incorporation
+69656b500100005f003a771d,,196823,question,responseOption2,50322,form,Certificate of Seal-Impression

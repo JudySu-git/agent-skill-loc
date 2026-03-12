@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66cca3b2010000310024737c,66bf8fc90100002a00cb8d67,43186,questionGroup,questionGroupText,43186,form,Avetta PQF - Italy DURF
+66bf97210100003600784013,,158436,question,questionText,43186,form,"Is your company based in Italy or does your company have any tax obligations in Italy, and therefore required to maintain a DURF certificate for tax compliance purposes?"
+66bf97210100003600784013,,158436,question,responseOption1,43186,form,Yes
+66bf97210100003600784013,,158436,question,responseOption2,43186,form,No
+66bf97300100007700784016,,158437,question,questionText,43186,form,If Not - Please select one of the options below:
+66bf97300100007700784016,,158437,question,responseOption1,43186,form,The company is exclusively based and operates in a foreign country with no economic activities in Italy.
+66bf97300100007700784016,,158437,question,responseOption2,43186,form,The company’s operations are covered by tax treaty exemptions between Italy and the country where it is resident.
+66bf97300100007700784016,,158437,question,responseOption3,43186,form,Other
+66bf97820100002b00784019,,158438,question,questionText,43186,form,Please provide your company's home country
+66bf97820100002b00784019,,158438,question,responseOption1,43186,form,Yes
+66bf97820100002b00784019,,158438,question,responseOption2,43186,form,No
+66bf97ae010000770078401a,,158439,question,questionText,43186,form,Other: Please explain
+66bf97ae010000770078401a,,158439,question,responseOption1,43186,form,Yes
+66bf97ae010000770078401a,,158439,question,responseOption2,43186,form,No
+66bf97cd0100003400cb8d6e,,158440,question,description,43186,form,"<a href = ""https://www.agenziaentrate.gov.it/portale/documents/20143/2345397/Richiesta+certificato+EDIT.pdf/a894946c-167a-741e-5dbc-5c37054aca9a""target=""_BLANK_"">DURF Application template</a>\n<a href = ""https://www.agenziaentrate.gov.it/portale/it/web/guest/certificato-di-attribuzione-del-codice-fiscale/come-ottenere-il-certificato-cittadini""target=""_BLANK_"">Contact Info for help on with DURF from Agenzia delle Entrate</a>"
+66bf97cd0100003400cb8d6e,,158440,question,questionText,43186,form,If Yes - Please upload your current Documento Unico Di Regolarità Fiscale form

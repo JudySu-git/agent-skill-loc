@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66fb23980100002f002ba44a,631753e22e0000bad6adb5a0,37134,questionGroup,questionGroupText,37134,form,Avetta PQF - Colombia Transportation
+631755352f00002d2e6fbe30,,130936,question,questionText,37134,form,"Does your company have 10 vehicles or more, or 2 drivers or more?"
+631755352f00002d2e6fbe30,,130936,question,responseOption1,37134,form,Yes
+631755352f00002d2e6fbe30,,130936,question,responseOption2,37134,form,No
+631755522e0000fb14adc0cd,,130937,question,description,37134,form,Please upload your most recently issued strategic road safety plan. The document must be valid and current.
+631755522e0000fb14adc0cd,,130937,question,questionText,37134,form,Please upload your strategic road safety plan.

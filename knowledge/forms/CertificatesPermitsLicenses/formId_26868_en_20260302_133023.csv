@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec610100002d00a473a7,5d30c0f23500004e4d88ef7c,26868,questionGroup,questionGroupText,26868,form,Kansas Contractor License
+5d559656360000a743a9acce,5d30c1243500004e4d88ef7e,26869,questionGroup,questionGroupText,26868,form,Kansas Contractor License
+5d30c133350000434197b95d,,84355,question,description,26868,form,"Kansas – State, County or City Specific"
+5d30c133350000434197b95d,,84355,question,questionText,26868,form,Kansas Contractor License Number:\n
+5d30c141350000434197b95f,,84356,question,description,26868,form,"Kansas – State, County or City Specific"
+5d30c141350000434197b95f,,84356,question,questionText,26868,form,Kansas Contractor License Classifications:\n
+5d30c14f350000434197b961,,84357,question,questionText,26868,form,Kansas License Expiration Date:\n
+5d30c15d350000434197b963,,84358,question,description,26868,form,A URL will make verification quicker if provided\n
+5d30c15d350000434197b963,,84358,question,questionText,26868,form,"Upload a copy of your license, and or provide the URL of the license."
+5d30c15d350000434197b963,,84358,question,responseOption1,26868,form,File Upload
+5d30c15d350000434197b963,,84358,question,responseOption2,26868,form,URL
+5d30c174350000434197b965,,84359,question,questionText,26868,form,Please upload a copy of your Kansas license:\n
+5d30c180350000434197b967,,84360,question,questionText,26868,form,Please enter the URL of the license:\n

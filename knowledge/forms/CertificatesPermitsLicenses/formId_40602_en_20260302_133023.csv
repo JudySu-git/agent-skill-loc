@@ -1,0 +1,63 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+658c9d3a1700003538a57d77,65427bd31900000955f4d715,40602,questionGroup,questionGroupText,40602,form,Avetta PQF - United States Contractor Licenses
+65427c6218000014584f5b67,65427c6218000014584f5b66,40603,questionGroup,questionGroupText,40602,form,United States
+65427c0518000017584f5b65,,146521,question,description,40602,form,"<a href = ""https://avetta.my.site.com/Supplier/s/article/United-States-Contractor-Licensing-Questionnaires-Connect-Suppliers""target=""BLANK"">United States Contractor Licensing Questionnaire</a>: This knowledge article contains information on the purpose of this form and contains links, where available, to each states governing body that oversees contractor license requirements in that state. Please use this resource to help you locate your company’s license(s) in each state if you don’t have it already. Once you select the state(s) below, a specific form for each state selected will populate asking you to provide your contractor license number, expiration date, etc."
+65427c0518000017584f5b65,,146521,question,questionText,40602,form,Does your company currently maintain a Contractor License(s) in any state(s) in the United States?
+65427c0518000017584f5b65,,146521,question,responseOption1,40602,form,Yes
+65427c0518000017584f5b65,,146521,question,responseOption2,40602,form,No
+65427cb0190000e354f4d717,,146522,question,description,40602,form,"If you select the state(s) below, another form(s) will be triggered for you to provide your Contractor License Number for that state, the expiration date of the license, license classifications, and an upload of your license or a link to license online."
+65427cb0190000e354f4d717,,146522,question,questionText,40602,form,Please select the state(s) where your company currently maintains a Contractor License:
+65427cb0190000e354f4d717,,146522,question,responseOption1,40602,form,Alabama
+65427cb0190000e354f4d717,,146522,question,responseOption10,40602,form,Georgia
+65427cb0190000e354f4d717,,146522,question,responseOption11,40602,form,Guam
+65427cb0190000e354f4d717,,146522,question,responseOption12,40602,form,Hawaii
+65427cb0190000e354f4d717,,146522,question,responseOption13,40602,form,Idaho
+65427cb0190000e354f4d717,,146522,question,responseOption14,40602,form,Illinois
+65427cb0190000e354f4d717,,146522,question,responseOption15,40602,form,Indiana
+65427cb0190000e354f4d717,,146522,question,responseOption16,40602,form,Iowa
+65427cb0190000e354f4d717,,146522,question,responseOption17,40602,form,Kansas
+65427cb0190000e354f4d717,,146522,question,responseOption18,40602,form,Kentucky
+65427cb0190000e354f4d717,,146522,question,responseOption19,40602,form,Louisiana
+65427cb0190000e354f4d717,,146522,question,responseOption2,40602,form,Alaska
+65427cb0190000e354f4d717,,146522,question,responseOption20,40602,form,Maine
+65427cb0190000e354f4d717,,146522,question,responseOption21,40602,form,Maryland
+65427cb0190000e354f4d717,,146522,question,responseOption22,40602,form,Massachusetts
+65427cb0190000e354f4d717,,146522,question,responseOption23,40602,form,Michigan
+65427cb0190000e354f4d717,,146522,question,responseOption24,40602,form,Minnesota
+65427cb0190000e354f4d717,,146522,question,responseOption25,40602,form,Mississippi
+65427cb0190000e354f4d717,,146522,question,responseOption26,40602,form,Missouri
+65427cb0190000e354f4d717,,146522,question,responseOption27,40602,form,Montana
+65427cb0190000e354f4d717,,146522,question,responseOption28,40602,form,Nebraska
+65427cb0190000e354f4d717,,146522,question,responseOption29,40602,form,Nevada
+65427cb0190000e354f4d717,,146522,question,responseOption3,40602,form,Arizona
+65427cb0190000e354f4d717,,146522,question,responseOption30,40602,form,New Hampshire
+65427cb0190000e354f4d717,,146522,question,responseOption31,40602,form,New Jersey
+65427cb0190000e354f4d717,,146522,question,responseOption32,40602,form,New Mexico
+65427cb0190000e354f4d717,,146522,question,responseOption33,40602,form,New York
+65427cb0190000e354f4d717,,146522,question,responseOption34,40602,form,North Carolina
+65427cb0190000e354f4d717,,146522,question,responseOption35,40602,form,North Dakota
+65427cb0190000e354f4d717,,146522,question,responseOption36,40602,form,Ohio
+65427cb0190000e354f4d717,,146522,question,responseOption37,40602,form,Oklahoma
+65427cb0190000e354f4d717,,146522,question,responseOption38,40602,form,Oregon
+65427cb0190000e354f4d717,,146522,question,responseOption39,40602,form,Pennsylvania
+65427cb0190000e354f4d717,,146522,question,responseOption4,40602,form,Arkansas
+65427cb0190000e354f4d717,,146522,question,responseOption40,40602,form,Puerto Rico
+65427cb0190000e354f4d717,,146522,question,responseOption41,40602,form,Rhode Island
+65427cb0190000e354f4d717,,146522,question,responseOption42,40602,form,South Carolina
+65427cb0190000e354f4d717,,146522,question,responseOption43,40602,form,South Dakota
+65427cb0190000e354f4d717,,146522,question,responseOption44,40602,form,Tennessee
+65427cb0190000e354f4d717,,146522,question,responseOption45,40602,form,Texas
+65427cb0190000e354f4d717,,146522,question,responseOption46,40602,form,Utah
+65427cb0190000e354f4d717,,146522,question,responseOption47,40602,form,Vermont
+65427cb0190000e354f4d717,,146522,question,responseOption48,40602,form,Virginia
+65427cb0190000e354f4d717,,146522,question,responseOption49,40602,form,Washington
+65427cb0190000e354f4d717,,146522,question,responseOption5,40602,form,California
+65427cb0190000e354f4d717,,146522,question,responseOption50,40602,form,Washington D.C.
+65427cb0190000e354f4d717,,146522,question,responseOption51,40602,form,West Virginia
+65427cb0190000e354f4d717,,146522,question,responseOption52,40602,form,Wisconsin
+65427cb0190000e354f4d717,,146522,question,responseOption53,40602,form,Wyoming
+65427cb0190000e354f4d717,,146522,question,responseOption54,40602,form,N/A
+65427cb0190000e354f4d717,,146522,question,responseOption6,40602,form,Colorado
+65427cb0190000e354f4d717,,146522,question,responseOption7,40602,form,Connecticut
+65427cb0190000e354f4d717,,146522,question,responseOption8,40602,form,Delaware
+65427cb0190000e354f4d717,,146522,question,responseOption9,40602,form,Florida

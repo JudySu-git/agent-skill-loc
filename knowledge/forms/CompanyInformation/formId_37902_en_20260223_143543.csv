@@ -1,0 +1,28 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6387a33e1700000e02b05dcd,6386f3f2190000e70833a57e,37902,questionGroup,questionGroupText,37902,form,Avetta PQF - Qatar Company Information
+6386f4b9190000e70833a7a5,6386f4b9190000e70833a7a4,37903,questionGroup,questionGroupText,37902,form,Qatar
+6386f4c7170000b3096c378c,,134191,question,questionText,37902,form,"Does your company have a commercial registration with the  <a href=""https://www.moci.gov.qa/""target=""blank""> Ministry of commerce and industry (MOCI)?</a>"
+6386f4c7170000b3096c378c,,134191,question,responseOption1,37902,form,Yes
+6386f4c7170000b3096c378c,,134191,question,responseOption2,37902,form,No
+6386f571190000e70833a978,,134192,question,questionText,37902,form,Please select your business entity in Qatar:
+6386f571190000e70833a978,,134192,question,responseOption1,37902,form,General Partnership Company
+6386f571190000e70833a978,,134192,question,responseOption10,37902,form,Real Estate
+6386f571190000e70833a978,,134192,question,responseOption11,37902,form,Commercial Agency
+6386f571190000e70833a978,,134192,question,responseOption12,37902,form,Other
+6386f571190000e70833a978,,134192,question,responseOption2,37902,form,Limited Share Partnership Company
+6386f571190000e70833a978,,134192,question,responseOption3,37902,form,Joint Partnership Company
+6386f571190000e70833a978,,134192,question,responseOption4,37902,form,Public Shareholding Company
+6386f571190000e70833a978,,134192,question,responseOption5,37902,form,Holding Company
+6386f571190000e70833a978,,134192,question,responseOption6,37902,form,Joint Venture
+6386f571190000e70833a978,,134192,question,responseOption7,37902,form,Limited Liability Company
+6386f571190000e70833a978,,134192,question,responseOption8,37902,form,Branch Office of a Foreign Company
+6386f571190000e70833a978,,134192,question,responseOption9,37902,form,Representative Trade Office
+6386f626170000ba096c3d7f,,134193,question,questionText,37902,form,"If Other, please explain:"
+6386f674190000f80833af94,,134194,question,questionText,37902,form,Please provide your company’s ownership structure:
+6386f774190000140933b5a3,,134195,question,questionText,37902,form,Percent owned by Qatari citizens:
+6386f797190000140933b862,,134196,question,questionText,37902,form,Percent owned by Foreign citizens:
+6386f7c5170000ba096c44e0,,134197,question,questionText,37902,form,The total ownership percentage between Qatari citizens and Foreign citizens must amount to 100 percent
+6386f9e2190000340933c43d,,134198,question,questionText,37902,form,Please provide your current Certificate of Organization/Incorporation:
+6386fa1a170000da096c4e68,,134199,question,description,37902,form,"<a href=""https://unstats.un.org/unsd/classifications/Econ/isic#:~:text=The%20International%20Standard%20Industrial%20Classification,statistics%20according%20to%20such%20activities"" target=""blank"">Industry Classification Codes</a>"
+6386fa1a170000da096c4e68,,134199,question,questionText,37902,form,What is your company’s main industry classification code in Qatar? 
+6386faa2170000c0096c507c,,134200,question,questionText,37902,form,"Please upload a copy of your current <a \nhref=""https://hukoomi.gov.qa/en/service/apply-for-new-commercial-license""target=""blank"">Commercial License</a>:"

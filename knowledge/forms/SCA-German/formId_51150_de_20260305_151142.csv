@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87739a36b6c4c635466cd,69a87739a36b6c4c635466cc,51150,questionGroup,questionGroupText,51150,form,Construction - Scaffolding,
+69a87738a36b6c4c635466c6,,200001,question,description,51150,form,"The scaffolding must be capable of withstanding the resulting work and traffic loads.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 58(2), 72(9)</a>",
+69a87738a36b6c4c635466c6,,200001,question,questionText,51150,form,Load Limits,
+69a87738a36b6c4c635466c7,,200002,question,description,51150,form,"Scaffold access routes must include secure ladders or stairs attached to scaffolds. Scaffold access placement must ensure work areas are within 20 m.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 58(7), 72(4)</a>",
+69a87738a36b6c4c635466c7,,200002,question,questionText,51150,form,Restricted Access Control,
+69a87738a36b6c4c635466c8,,200003,question,description,51150,form,"Scaffolding inspections must be performed by qualified persons after erection, before first use, after weather or interruptions, monthly for system scaffolds, weekly for other scaffolds, and daily for suspended scaffolds.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 60(2), 61</a>",
+69a87738a36b6c4c635466c8,,200003,question,questionText,51150,form,Inspections (Pre-Use),
+69a87738a36b6c4c635466c9,,200004,question,description,51150,form,"Scaffold erection and dismantling responsibilities must involve trained and competent persons. Fit and competent persons must demonstrate physical, mental, and professional suitability.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 5(4)2, 60(6)</a>",
+69a87738a36b6c4c635466c9,,200004,question,questionText,51150,form,Qualified Personnel for Erection and Dismantling,
+69a87738a36b6c4c635466ca,,200005,question,description,51150,form,"Worker instruction content must address assembly safety, fall risks, loads, and hazards.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 60(6)</a>",
+69a87738a36b6c4c635466ca,,200005,question,questionText,51150,form,Training,
+69a87738a36b6c4c635466cb,,200006,question,questionText,51150,form,<div></div>,

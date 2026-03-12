@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4cc6010000bb0021f9b3,6630145d1b00003100b6e73a,42058,questionGroup,description,42058,form,You are getting this category because you selected a license in the Avetta PQF - Victoria License.
+66ce4cc6010000bb0021f9b3,6630145d1b00003100b6e73a,42058,questionGroup,questionGroupText,42058,form,Victoria Contractor License - Pest Management
+6630145d1b00002900b6e73b,,153475,question,questionText,42058,form,Please upload your license:\n
+6630145d1b00002900b6e73b,,153475,question,responseOption1,42058,form,Yes
+6630145d1b00002900b6e73b,,153475,question,responseOption2,42058,form,No
+6630145d1b00002900b6e73c,,153476,question,questionText,42058,form,Expiration Date:
+6630145d1b00002900b6e73c,,153476,question,responseOption1,42058,form,Yes
+6630145d1b00002900b6e73c,,153476,question,responseOption2,42058,form,No
+6630145d1b00002900b6e73d,,153477,question,questionText,42058,form,License Number:
+6630145d1b00002900b6e73d,,153477,question,responseOption1,42058,form,Yes
+6630145d1b00002900b6e73d,,153477,question,responseOption2,42058,form,No

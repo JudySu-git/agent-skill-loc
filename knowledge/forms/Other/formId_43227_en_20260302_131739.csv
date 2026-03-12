@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66c36c6e01000035003093fc,66c36ada0100004d008970d7,43227,questionGroup,questionGroupText,43227,form,Workers' Compensation - Waiver of Subrogation Endorsement Forms
+66c36ada01000030008970d8,,158743,question,questionText,43227,form,Please upload the following Waiver of Subrogation endorsement form.
+66c36ada01000030008970d8,,158743,question,responseOption1,43227,form,Yes
+66c36ada01000030008970d8,,158743,question,responseOption2,43227,form,No
+66c36ada01000030008970da,,158744,question,questionText,43227,form,Workers' Compensation Waiver of Subrogation Endorsement Form:
+66c36ada01000030008970da,,158744,question,responseOption1,43227,form,Yes
+66c36ada01000030008970da,,158744,question,responseOption2,43227,form,No
+66c36ada01000030008970d9,,158745,question,questionText,43227,form,Workers’ Compensation / Employer’s Liability Policy: Policy Expiration Date
+66c36ada01000030008970d9,,158745,question,responseOption1,43227,form,Yes
+66c36ada01000030008970d9,,158745,question,responseOption2,43227,form,No
+66c36ada0100004b008970db,,158746,question,questionText,43227,form,Workers’ Compensation / Employer’s Liability Policy: Date of Commencement
+66c36ada0100004b008970db,,158746,question,responseOption1,43227,form,Yes
+66c36ada0100004b008970db,,158746,question,responseOption2,43227,form,No

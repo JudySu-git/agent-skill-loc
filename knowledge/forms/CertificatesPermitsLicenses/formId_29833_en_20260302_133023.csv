@@ -1,0 +1,41 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5eb4e2b2330000f1aaf9c2fc,5eb4c9e4340000b58a881c47,29833,questionGroup,description,29833,form,Consortium form for use in Australia markets.
+5eb4e2b2330000f1aaf9c2fc,5eb4c9e4340000b58a881c47,29833,questionGroup,questionGroupText,29833,form,Avetta PQF - Australia Workforce Diversity
+5eb4cbb2330000f1aaf9c2c6,5eb4cbb2330000f1aaf9c2c5,29834,questionGroup,questionGroupText,29833,form,Organisation
+5eb4dfcb330000b58a8c5ce7,5eb4cee1330000b58a8c5cbb,29835,questionGroup,questionGroupText,29833,form,Workforce
+5eb4dfcb330000b58a8c5ce6,5eb4d3ff370000f1aac74a0c,29836,questionGroup,questionGroupText,29833,form,Percentage Workforce Gender Breakdown (Out of 100%)
+5eb4cc85330000f1aaf9c2ca,,95799,question,description,29833,form,51% or more capital ownership in the business.
+5eb4cc85330000f1aaf9c2ca,,95799,question,questionText,29833,form,Is your organisation a majority-owned Australian Aboriginal or Torres Strait Island indigenous business?
+5eb4cc85330000f1aaf9c2ca,,95799,question,responseOption1,29833,form,Yes
+5eb4cc85330000f1aaf9c2ca,,95799,question,responseOption2,29833,form,No
+5eb4ce3a340000b58a881c50,,95800,question,description,29833,form,https://supplynation.org.au/
+5eb4ce3a340000b58a881c50,,95800,question,questionText,29833,form,Is your organisation Supply Nation Certified?
+5eb4ce3a340000b58a881c50,,95800,question,responseOption1,29833,form,Yes
+5eb4ce3a340000b58a881c50,,95800,question,responseOption2,29833,form,No
+5eb4ce7a340000b58a881c51,,95801,question,questionText,29833,form,"If yes, please upload a copy of your Supply Nation Certificate:"
+5eb4cef6330000f1aaf9c2cd,,95802,question,description,29833,form,Please select a percent range that closely matches your organisation.
+5eb4cef6330000f1aaf9c2cd,,95802,question,questionText,29833,form,What is the percentage of Australian Aboriginal or Torres Strait Islander employees within your organization?
+5eb4cef6330000f1aaf9c2cd,,95802,question,responseOption1,29833,form,100%
+5eb4cef6330000f1aaf9c2cd,,95802,question,responseOption2,29833,form,51-99%
+5eb4cef6330000f1aaf9c2cd,,95802,question,responseOption3,29833,form,26-50%
+5eb4cef6330000f1aaf9c2cd,,95802,question,responseOption4,29833,form,11-25%
+5eb4cef6330000f1aaf9c2cd,,95802,question,responseOption5,29833,form,6-10%
+5eb4cef6330000f1aaf9c2cd,,95802,question,responseOption6,29833,form,1-5%
+5eb4cef6330000f1aaf9c2cd,,95802,question,responseOption7,29833,form,0%
+5eb4cef6330000f1aaf9c2cd,,95802,question,responseOption8,29833,form,Organisation does not collect this data
+5eb4d028330000b58a8c5cbe,,95803,question,questionText,29833,form,Does your organisation directly engage majority-owned Australian Aboriginal or Torres Strait Island indigenous businesses?
+5eb4d028330000b58a8c5cbe,,95803,question,responseOption1,29833,form,Yes
+5eb4d028330000b58a8c5cbe,,95803,question,responseOption2,29833,form,No
+5eb4d07c340000b58a881c57,,95804,question,questionText,29833,form,"Does your organisation have an indigenous employment strategy or action plan for your business, which has been implemented within the last two years?"
+5eb4d07c340000b58a881c57,,95804,question,responseOption1,29833,form,Yes
+5eb4d07c340000b58a881c57,,95804,question,responseOption2,29833,form,No
+5eb4d0bf340000b58a881c58,,95805,question,description,29833,form,"Example: A copy of your company's policy that supports hiring a diverse workforce, or similar documents."
+5eb4d0bf340000b58a881c58,,95805,question,questionText,29833,form,Please provide supporting documentation:
+5eb4d2e1340000b58a881c59,,95806,question,questionText,29833,form,Male
+5eb4d542340000b58a881c5d,,95807,question,questionText,29833,form,Female
+5eb4d573340000b58a881c5e,,95808,question,questionText,29833,form,Other
+5eb4d5fc330000f1aaf9c2d9,,95809,question,description,29833,form,"An equal opportunity policy will confirm that your organisation is committed to treating everyone in the same manner and will not differentiate or put someone at a disadvantage because they are different. For example: Putting the best applicant into a job role who has earned that role or has the relevant experience, qualifications and knowledge of that job irrelevant of any differences between applicants.\nIt is acceptable to integrate your approach to diversity into your equal opportunity programme. \nDiversity is defined as employing people from a wide range  of backgrounds. Diversity includes:  race, sexual orientation, gender, ethnicity, disability, age, religion, culture, gender reassignment. \n"
+5eb4d5fc330000f1aaf9c2d9,,95809,question,questionText,29833,form,Has your organisation developed and implemented equal opportunity and diversity policies within your business?
+5eb4d5fc330000f1aaf9c2d9,,95809,question,responseOption1,29833,form,Yes
+5eb4d5fc330000f1aaf9c2d9,,95809,question,responseOption2,29833,form,No
+5eb4d61a330000f1aaf9c2da,,95810,question,questionText,29833,form,"If yes, please upload supporting documentation:"

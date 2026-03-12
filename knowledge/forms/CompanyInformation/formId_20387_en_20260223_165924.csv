@@ -1,0 +1,50 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6930b8a9010000460045a979,51e95f62504943bf7e4509ed,4122,questionGroup,questionGroupText,20387,form,Italy
+53555ab350494339ef47f0e2,53555ab350494339ef47f0e2,5252,questionGroup,questionGroupText,20387,form,ATECO
+51e95fef50494371717777d0,,19146,question,description,20387,form,"Most companies in Italy are required to register with the <a href=""https://www.infocamere.it"" target=""_blank"">Italian Chamber of Commerce</a>."
+51e95fef50494371717777d0,,19146,question,questionText,20387,form,Is your company registered with the Chamber of Commerce?
+51e95fef50494371717777d0,,19146,question,responseOptionNo,20387,form,No
+51e95fef50494371717777d0,,19146,question,responseOptionYes,20387,form,Yes
+51e96053504943363aa330cb,,19148,question,questionText,20387,form,Please provide your company's registration number.
+51e9606a5049439d4328bf26,,19149,question,description,20387,form,The P.IVA (<i>Partita IVA</i>) number is the local name of the Value-Added Tax (VAT) number.
+51e9606a5049439d4328bf26,,19149,question,questionText,20387,form,Does your company have a P.IVA number?
+51e9606a5049439d4328bf26,,19149,question,responseOptionNo,20387,form,No
+51e9606a5049439d4328bf26,,19149,question,responseOptionYes,20387,form,Yes
+51e960bf504943c3f17978b4,,19150,question,description,20387,form,The P.IVA number will typically contain 11 digits.
+51e960bf504943c3f17978b4,,19150,question,questionText,20387,form,Please provide your company's P.IVA number.
+51e960bf504943c3f17978b4,,19150,question,responseOptionNo,20387,form,No
+51e960bf504943c3f17978b4,,19150,question,responseOptionYes,20387,form,"Yes, on permanent basis without an office"
+51e960bf504943c3f17978b4,,19150,question,responseOptionYesPeriodicWithoutOffice,20387,form,"Yes, on periodic basis without an office"
+51e960bf504943c3f17978b4,,19150,question,responseOptionYesWithOffice,20387,form,"Yes, with Office"
+6930b8c00100003f0045a97b,5b3284b83500005e014788e3,20387,questionGroup,questionGroupText,20387,form,Avetta PQF - Italy Company Information
+53555c9b504943553bad4d58,,23321,question,linkhttps://www.istat.it/en/classification/ateco-classification-of-economic-activity-2007/,20387,form,Click here to locate your company's ATECO code
+53555c9b504943553bad4d58,,23321,question,questionText,20387,form,What is your company's primary ATECO Code? \n
+53555cd850494372d0262bdd,,23322,question,link,20387,form,Click here to locate your company's ATECO code
+53555cd850494372d0262bdd,,23322,question,questionText,20387,form,What is your company's secondary ATECO Code? \n
+656631961900001d063fed5a,,147441,question,questionText,20387,form,Please indicate your company's business entity / form of business within this country.
+656631961900001d063fed5a,,147441,question,responseOption1,20387,form,Sole Proprietorship
+656631961900001d063fed5a,,147441,question,responseOption2,20387,form,Corporation
+656631961900001d063fed5a,,147441,question,responseOption3,20387,form,Limited Liability Company
+656631961900001d063fed5a,,147441,question,responseOption4,20387,form,General Partnership
+656631961900001d063fed5a,,147441,question,responseOption5,20387,form,Limited Partnership
+656631961900001d063fed5a,,147441,question,responseOption6,20387,form,Cooperative
+656631961900001d063fed5a,,147441,question,responseOption7,20387,form,Foreign entity with no local fiscal presence
+656631961900001d063fed5a,,147441,question,responseOption8,20387,form,Other
+656632d21900009e074087f5,,147444,question,questionText,20387,form,Please indicate where your company is established:
+656632d21900009e074087f5,,147444,question,responseOption1,20387,form,Yes
+656632d21900009e074087f5,,147444,question,responseOption2,20387,form,No
+656632f4190000a507409125,,147445,question,questionText,20387,form,"If Other, please explain:"
+656632f4190000a507409125,,147445,question,responseOption1,20387,form,Yes
+656632f4190000a507409125,,147445,question,responseOption2,20387,form,No
+656633691900006d0740a6d4,,147447,question,questionText,20387,form,Please explain why:
+656633691900006d0740a6d4,,147447,question,responseOption1,20387,form,Yes
+656633691900006d0740a6d4,,147447,question,responseOption2,20387,form,No
+656635291900001806412b88,,147448,question,questionText,20387,form,Please explain why:
+656635291900001806412b88,,147448,question,responseOption1,20387,form,Yes
+656635291900001806412b88,,147448,question,responseOption2,20387,form,No
+656635f419000068074145d6,,147449,question,questionText,20387,form,Does your company have a certificate released by the Italian register of enterprises? (i.e. Registro delle imprese).
+656635f419000068074145d6,,147449,question,responseOption1,20387,form,Yes
+656635f419000068074145d6,,147449,question,responseOption2,20387,form,No
+6566370c1900006f074145d9,,147450,question,questionText,20387,form,Please explain why:
+6566370c1900006f074145d9,,147450,question,responseOption1,20387,form,Yes
+6566370c1900006f074145d9,,147450,question,responseOption2,20387,form,No

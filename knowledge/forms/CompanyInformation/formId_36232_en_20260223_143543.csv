@@ -1,0 +1,33 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6275a4052e000057ef2b57e2,62754d452f0000b56ac5d651,36232,questionGroup,questionGroupText,36232,form,Avetta PQF - Bangladesh Company Information
+62755e032f0000b56ac69025,62755e032f0000b56ac69024,36233,questionGroup,questionGroupText,36232,form,Bangladesh
+62755e112f0000b56ac690e3,,126808,question,questionText,36232,form,Please indicate your company's business entity / form of business within this country.
+62755e112f0000b56ac690e3,,126808,question,responseOption1,36232,form,Private Limited Companies (PLC)
+62755e112f0000b56ac690e3,,126808,question,responseOption2,36232,form,Branch Office of a Foreign Company
+62755e112f0000b56ac690e3,,126808,question,responseOption3,36232,form,Liaison Office of a Foreign Company
+62755e112f0000b56ac690e3,,126808,question,responseOption4,36232,form,Other
+627565552f0000b56ac70523,,126809,question,questionText,36232,form,Please provide a copy of the certificate of Incorporation issued by Registrar of Joint Stock Companies (RJSC)
+627565692f0000b56ac70525,,126810,question,questionText,36232,form,Please provide a copy of your company’s TIN certificate (Tax identification Number) 
+627565772f0000b56ac70528,,126811,question,description,36232,form,Trade License is mandatory for every form of business entity in Bangladesh. It is issued by the local government of the respective areas. Every business entity must obtain Trade License from each local government where it operates.
+627565772f0000b56ac70528,,126811,question,questionText,36232,form,Please provide your company’s trade license.
+627565922e000057ef2945e0,,126812,question,questionText,36232,form,Does your company have a VAT registration number?
+627565922e000057ef2945e0,,126812,question,responseOption1,36232,form,Yes
+627565922e000057ef2945e0,,126812,question,responseOption2,36232,form,No
+627565a32f0000b56ac7052b,,126813,question,questionText,36232,form,Please provide the VAT registration number.
+627565b62e000057ef2945e4,,126814,question,questionText,36232,form,"Please provide your company’s main <a href = ""https://www.bbs.gov.bd/site/page/175a795a-df34-4118-9ed6-1ec769fa03de/Industrial-Statistics"" target = ""_blank_"">Industry Classification code in Bangladesh.</a>"
+627566002e000057ef294817,,126815,question,questionText,36232,form,Does your company have any additional Industry classification codes?
+627566002e000057ef294817,,126815,question,responseOption1,36232,form,Yes
+627566002e000057ef294817,,126815,question,responseOption2,36232,form,No
+627566162f0000b56ac7052e,,126816,question,questionText,36232,form,Please provide the additional classification code\n\n
+6275689c2f0000b56ac71503,,126817,question,questionText,36232,form,Does your company have any additional Industry classification codes?
+6275689c2f0000b56ac71503,,126817,question,responseOption1,36232,form,Yes
+6275689c2f0000b56ac71503,,126817,question,responseOption2,36232,form,No
+6275695f2f0000b56ac7177f,,126818,question,questionText,36232,form,Please provide the additional Industry classification code
+627569952f0000b56ac71781,,126819,question,questionText,36232,form,Does your company have any additional Industry classification codes?
+627569952f0000b56ac71781,,126819,question,responseOption1,36232,form,Yes
+627569952f0000b56ac71781,,126819,question,responseOption2,36232,form,No
+627569b02e000057ef296149,,126820,question,questionText,36232,form,Please provide the additional Industry classification code
+627569c92f0000b56ac71785,,126821,question,questionText,36232,form,Does your company have any additional Industry classification codes?
+627569c92f0000b56ac71785,,126821,question,responseOption1,36232,form,Yes
+627569c92f0000b56ac71785,,126821,question,responseOption2,36232,form,No
+627569d62f0000b56ac71787,,126822,question,questionText,36232,form,Please provide the additional Industry classification code

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5f4e7b2c2d0000023748362a,5f4e78782a0000fd99805460,31726,questionGroup,questionGroupText,31726,form,Action Plan Request Form (Variance Evaluation)
+5f4e79332d0000fd99fcfa86,,102579,question,questionText,31726,form,Indicate the nature of the deficiency being reported
+5f4e79332d0000fd99fcfa86,,102579,question,responseOption1,31726,form,Fatalities
+5f4e79332d0000fd99fcfa86,,102579,question,responseOption2,31726,form,Citation or OH&S Conviction
+5f4e79332d0000fd99fcfa86,,102579,question,responseOption3,31726,form,High Rate (Incident Experience Rating above Performance Threshold)
+5f4e79332d0000fd99fcfa86,,102579,question,responseOption4,31726,form,Other
+5f4e796d2b00007e78871196,,102580,question,questionText,31726,form,Provide an outline of the incident or problem and what happened.\n
+5f4e798c2b00007e788711e2,,102581,question,questionText,31726,form,Provide an outline of the root causes that contributed to the incident or problem.\n
+5f4e79992d0000fd99fcfb25,,102582,question,questionText,31726,form,Provide an outline of the action plan and steps that have (or will be taken) to prevent a reoccurrence (corrective and preventative measurses). \n
+5f4e79a42d0000023748332e,,102583,question,questionText,31726,form,Timeline of corrective measures and actions\n
+5f4e7a172a0000fd99805967,,102584,question,questionText,31726,form,Please specify if 'other'

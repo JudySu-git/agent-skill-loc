@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4f15cd14504943e6e4b7053d,4f15cd14504943e6e4b7053d,2327,questionGroup,questionGroupText,20058,form,IEC Audit
+4f15cd77504943e59d3abd94,,10330,question,questionText,20058,form,Does your company have a current IEC Audit Summary Report?
+4f15cd77504943e59d3abd94,,10330,question,responseOptionNo,20058,form,No
+4f15cd77504943e59d3abd94,,10330,question,responseOptionYes,20058,form,Yes
+5c181eaa36000094c2425e4e,5aafebf724000013001869ec,20058,questionGroup,questionGroupText,20058,form,Avetta PQF - IEC Audit

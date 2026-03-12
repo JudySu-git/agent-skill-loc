@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68714c9f0100003b00ed8c39,67c0deb00100003c003fb19b,44647,questionGroup,questionGroupText,44647,form,South Korea Health and Safety Violations
+67c0defd0100003e00b71383,67c0defd0100003e00b71382,44648,questionGroup,questionGroupText,44647,form,Prohibitions/ Prosecutions/ Citations
+67c0df0801000035003fb1ae,,166206,question,description,44647,form,"These violations include fines, penalties paid, and other violations of laws and regulations enforced by the <a href = ""https://www.moel.go.kr"" target = ""_BLANK_"" >Ministry of Employment and Labor</a> and <a href = ""https://www.kosha.or.kr"" target = ""_BLANK_"" >KOSHA</a>."
+67c0df0801000035003fb1ae,,166206,question,moreDescription,44647,form,\n
+67c0df0801000035003fb1ae,,166206,question,questionText,44647,form,"Did your company receive any fines, penalties, or other enforcement actions for violations of health and safety laws and regulations during the given year?"
+67c0df0801000035003fb1ae,,166206,question,responseOption1,44647,form,Yes
+67c0df0801000035003fb1ae,,166206,question,responseOption2,44647,form,No
+67c0df280100006b013fb1fc,,166207,question,description,44647,form,"These violations include fines, penalties paid, and other violations of laws and regulations enforced by the <a href = ""https://www.moel.go.kr"" target = ""_BLANK_"" >Ministry of Employment and Labor</a> and <a href = ""https://www.kosha.or.kr"" target = ""_BLANK_"" >KOSHA</a>."
+67c0df280100006b013fb1fc,,166207,question,questionText,44647,form,Please enter the number of violations of health and safety laws and regulations for the given year:
+67c0df4d0100003600b71387,,166208,question,questionText,44647,form,Please upload supporting documentation related to violations of health and safety laws and regulations for the given year.
+67c0df4d0100003600b71387,,166208,question,responseOption1,44647,form,Yes
+67c0df4d0100003600b71387,,166208,question,responseOption2,44647,form,No

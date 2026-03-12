@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+602c2b4d4400000515b7421a,6027137a44000005158c6a38,32429,questionGroup,questionGroupText,32429,form,Avetta PQF - Drop Zones
+6027138944000005158c6b05,,107033,question,questionText,32429,form,"Does your company perform work from heights where objects, tools, materials and/or equipment could potentially be dropped?"
+6027138944000005158c6b05,,107033,question,responseOption1,32429,form,Yes
+6027138944000005158c6b05,,107033,question,responseOption2,32429,form,No
+60271396420000fc2de21a11,,107034,question,questionText,32429,form,"Does your company have a `Stop the Drop' policy or safe work practice, which addresses the need for workers to ensure that all materials, tools an equipment etc. are safely\n   secured when performing work at height?"
+60271396420000fc2de21a11,,107034,question,responseOption1,32429,form,Yes
+60271396420000fc2de21a11,,107034,question,responseOption2,32429,form,No
+602713b044000005158c6e05,,107035,question,questionText,32429,form,Please upload a copy of your policy:

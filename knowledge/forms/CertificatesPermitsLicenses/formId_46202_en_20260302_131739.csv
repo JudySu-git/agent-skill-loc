@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+683dec9e0100003a0092d048,683dc27d01000059001e0d67,46202,questionGroup,questionGroupText,46202,form,Commercial Crime Liability (Regional) (Fianza de Fidelidad Global policy)
+683dc27d01000041001e0d68,683dc27d01000041001e0d68,46203,questionGroup,questionGroupText,46202,form,Policy Information
+683dc27d01000041001e0d69,683dc27d01000041001e0d69,46204,questionGroup,questionGroupText,46202,form,Policy Limits
+683dc27d01000041001e0d6a,,174587,question,questionText,46202,form,Monetary Limit:
+683dc27d0100003c001e0d6b,,174589,question,questionText,46202,form,Currency used in Certificate of Insurance (COI)
+683dc27d0100003c001e0d6e,,174590,question,questionText,46202,form,Commercial Crime Liability/Fidelity Bond (Fianza de Fidelidad Global policy): Expiration Date
+683dc27d0100003c001e0d6d,,174591,question,description,46202,form,Date the instructions from Client expire
+683dc27d0100003c001e0d6d,,174591,question,questionText,46202,form,VARIANCE Expiration Date
+683dc27d01000038001e0d6f,,174592,question,questionText,46202,form,Commercial Crime Liability/Fidelity Bond (Fianza de Fidelidad Global policy): Date of Commencement
+683dc27d01000040001e0d70,,174593,question,questionText,46202,form,Please upload a current copy of your Commercial Crime Liability/Fidelity Bond (Fianza de Fidelidad Global policy)
+683dc27d01000038001e0d71,,174595,question,description,46202,form,Used to provide instructions from Client
+683dc27d01000038001e0d71,,174595,question,questionText,46202,form,Comments

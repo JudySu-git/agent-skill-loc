@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4c08010000bb0021f9a1,66300df01b00002900b6e6e9,42045,questionGroup,description,42045,form,You are getting this category because you selected a license in the Avetta PQF - Tasmania License.
+66ce4c08010000bb0021f9a1,66300df01b00002900b6e6e9,42045,questionGroup,questionGroupText,42045,form,Tasmania Contractor License - Plumbing
+66300df01b00002f00b6e6ea,,153438,question,questionText,42045,form,License Number:
+66300df01b00002f00b6e6ea,,153438,question,responseOption1,42045,form,Yes
+66300df01b00002f00b6e6ea,,153438,question,responseOption2,42045,form,No
+66300df01b00002f00b6e6ec,,153439,question,questionText,42045,form,Expiration Date:
+66300df01b00002f00b6e6ec,,153439,question,responseOption1,42045,form,Yes
+66300df01b00002f00b6e6ec,,153439,question,responseOption2,42045,form,No
+66300df01b00002f00b6e6eb,,153440,question,questionText,42045,form,Please upload your license:\n
+66300df01b00002f00b6e6eb,,153440,question,responseOption1,42045,form,Yes
+66300df01b00002f00b6e6eb,,153440,question,responseOption2,42045,form,No

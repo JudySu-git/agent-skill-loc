@@ -1,0 +1,14 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87742a36b6c4c63546742,69a87742a36b6c4c63546741,51162,questionGroup,questionGroupText,51162,form,Erste Hilfe,
+69a87741a36b6c4c6354673d,,200096,question,description,51162,form,"Eine Ersthelfer-Ausbildung von mindestens 16 Stunden oder eine gleichwertige Ausbildung muss absolviert werden. Die Standorte der Erste-Hilfe-Einrichtungen müssen den Mitarbeitern mitgeteilt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 26 Abs. 3</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 31 Abs. 3, 31 Abs. 6</a>",
+69a87741a36b6c4c6354673d,,200096,question,questionText,51162,form,Ausbildung,
+69a87741a36b6c4c6354673e,,200097,question,description,51162,form,"Es müssen Erste-Hilfe-Mittel bereitgestellt werden, die der Belegschaftsgröße und den Verletzungsrisiken angemessen sind. Erste-Hilfe-Aufbewahrungsorte müssen leicht zugänglich und klar gekennzeichnet sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 26 Abs. 1–2</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 31 Abs. 2</a>",
+69a87741a36b6c4c6354673e,,200097,question,questionText,51162,form,Zugängliche Erste-Hilfe-Mittel,
+69a87741a36b6c4c6354673f,,200098,question,description,51162,form,"Es muss eine Mindestanzahl an ausgebildeten Ersthelfern sichergestellt werden, die sich nach der Belegschaftsgröße und dem Risiko richtet.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Arbeitsstättenverordnung, § 40 Abs. 1, 4</a>",
+69a87741a36b6c4c6354673f,,200098,question,questionText,51162,form,Ersthelfer,
+69a87741a36b6c4c63546740,,200099,question,questionText,51162,form,<div></div>,

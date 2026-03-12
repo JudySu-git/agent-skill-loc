@@ -1,0 +1,70 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5e31d1f2350000b098c6ddab,5ce2e9b9340000115892db92,26662,questionGroup,questionGroupText,27515,form,Bi-Annual Drug and Alcohol Testing Report
+5e31d1f2350000b098c6ddaa,5ce31126350000c1c4806443,26675,questionGroup,questionGroupText,27515,form,Not Associated with Consortium Hours of Service Alcohol Testing
+5e31d1f6350000b098c6ddad,5ce3112e340000115892e218,26676,questionGroup,questionGroupText,27515,form,Not Associated with Consortium Roadway Workers Alcohol Testing
+5e31d1f93400007669d8750d,5ce3113035000011584f7003,26677,questionGroup,questionGroupText,27515,form,Not Associated with Consortium Combined Alcohol Testing
+5e31d1fc3400008393e890fb,5ce31133340000b1d29c6a64,26678,questionGroup,questionGroupText,27515,form,Not Associated with Consortium Hours of Service Drug Testing
+5e31d1ff3400008393e890fd,5ce31135350000c1c4806446,26679,questionGroup,questionGroupText,27515,form,Not Associated with Consortium Roadway Workers Drug Testing
+5e31d20239000076699d6049,5ce31137340000115892e21b,26680,questionGroup,questionGroupText,27515,form,Not Associated with Consortium Combined Drug Testing
+5e31d205350000b098c6ddba,5ce3113a35000011584f7006,26681,questionGroup,questionGroupText,27515,form,Associated with Consortium Hours of Service Alcohol Testing
+5e31d20839000076699d604b,5ce3113d340000b1d29c6a67,26682,questionGroup,questionGroupText,27515,form,Associated with Consortium Roadway Workers Alcohol Testing
+5e31d20b3400007669d87526,5ce31140350000c1c4806449,26683,questionGroup,questionGroupText,27515,form,Associated with Consortium Combined Alcohol Testing
+5e31d20e39000076699d6059,5ce31142340000115892e21e,26684,questionGroup,questionGroupText,27515,form,Associated with Consortium Hours of Service Drug Testing
+5e31d2113400007669d87530,5ce3114535000011584f7009,26685,questionGroup,questionGroupText,27515,form,Associated with Consortium Roadway Workers Drug Testing
+5e31d2143400008393e89113,5ce311a4350000c1c4806451,26686,questionGroup,questionGroupText,27515,form,Associated with Consortium Combined Drug Testing
+5e55adbc360000c7ea6ac9b5,5d9f9fae320000efa2cad7bb,27515,questionGroup,questionGroupText,27515,form,FRA Part 219 Bi-Annual Drug and Alcohol Testing Report
+5ce2e815340000115892d597,,83671,question,questionText,27515,form,Does your company belong to a FRA Consortium?
+5ce2e815340000115892d597,,83671,question,responseOption1,27515,form,Yes
+5ce2e815340000115892d597,,83671,question,responseOption2,27515,form,No
+5ce2e816350000c1c4805833,,83672,question,questionText,27515,form,Enter name of Consortium:
+5ce2e85e340000b1d29c60ef,,83673,question,questionText,27515,form,### Define companies Pool Type(s):\nHours of Service
+5ce2e85e340000b1d29c60ef,,83673,question,responseOption1,27515,form,Yes
+5ce2e85e340000b1d29c60ef,,83673,question,responseOption2,27515,form,No
+5ce2e8b335000011584f666a,,83674,question,questionText,27515,form,Roadway Worker:
+5ce2e8b335000011584f666a,,83674,question,responseOption1,27515,form,Yes
+5ce2e8b335000011584f666a,,83674,question,responseOption2,27515,form,No
+5ce2e8c3340000115892d6a7,,83676,question,questionText,27515,form,Combined:
+5ce2e8c3340000115892d6a7,,83676,question,responseOption1,27515,form,Yes
+5ce2e8c3340000115892d6a7,,83676,question,responseOption2,27515,form,No
+5ce31727340000115892e22c,,83691,question,questionText,27515,form,Company Pool
+5ce31728350000c1c480645b,,83692,question,questionText,27515,form,Company Pool
+5ce31729340000b1d29c6a77,,83693,question,questionText,27515,form,Company Pool
+5ce3172935000011584f701b,,83694,question,questionText,27515,form,Company Pool
+5ce3172a340000115892e22d,,83695,question,questionText,27515,form,Company Pool
+5ce3172a350000c1c480645c,,83696,question,questionText,27515,form,Company Pool
+5ce317bb350000c1c480645e,,83697,question,questionText,27515,form,# Selected
+5ce317bc340000b1d29c6a79,,83698,question,questionText,27515,form,# Selected
+5ce317bc35000011584f701e,,83699,question,questionText,27515,form,# Selected
+5ce317bd340000115892e230,,83700,question,questionText,27515,form,# Selected
+5ce317bd350000c1c480645f,,83701,question,questionText,27515,form,# Selected
+5ce317bd340000b1d29c6a7a,,83702,question,questionText,27515,form,# Selected
+5ce3181c340000115892e233,,83703,question,questionText,27515,form,# Collected
+5ce3181d350000c1c4806461,,83704,question,questionText,27515,form,# Collected
+5ce3181d340000b1d29c6a7d,,83705,question,questionText,27515,form,# Collected
+5ce3181e35000011584f7020,,83706,question,questionText,27515,form,# Collected
+5ce3181f350000c1c4806462,,83707,question,questionText,27515,form,# Collected
+5ce3181f340000b1d29c6a7e,,83708,question,questionText,27515,form,# Collected
+5ce31878350000c1c4806465,,83709,question,questionText,27515,form,Consortium Pool
+5ce31878340000b1d29c6a80,,83710,question,questionText,27515,form,Consortium Pool
+5ce3187935000011584f7022,,83711,question,questionText,27515,form,Consortium Pool
+5ce3187a350000c1c4806466,,83712,question,questionText,27515,form,Consortium Pool
+5ce3187a340000b1d29c6a81,,83713,question,questionText,27515,form,Consortium Pool
+5ce3187a35000011584f7023,,83714,question,questionText,27515,form,Consortium Pool
+5ce318cd340000b1d29c6a83,,83715,question,questionText,27515,form,# Selected from Consortium
+5ce318cd35000011584f7025,,83716,question,questionText,27515,form,# Selected from Consortium
+5ce318ce340000115892e238,,83717,question,questionText,27515,form,# Selected from Consortium
+5ce318cf350000c1c4806469,,83718,question,questionText,27515,form,# Selected from Consortium
+5ce318cf35000011584f7026,,83719,question,questionText,27515,form,# Selected from Consortium
+5ce318cf340000115892e239,,83720,question,questionText,27515,form,# Selected from Consortium
+5ce3192d35000011584f7029,,83721,question,questionText,27515,form,# Selected from Company
+5ce3192d340000115892e23b,,83722,question,questionText,27515,form,# Selected from Company
+5ce3192d350000c1c480646b,,83723,question,questionText,27515,form,# Selected from Company
+5ce3192f340000b1d29c6a86,,83724,question,questionText,27515,form,# Selected from Company
+5ce3192f35000011584f702a,,83725,question,questionText,27515,form,# Selected from Company
+5ce3192f340000115892e23c,,83726,question,questionText,27515,form,# Selected from Company
+5ce31986340000115892e23f,,83727,question,questionText,27515,form,# Collected from Company
+5ce31987350000c1c480646d,,83728,question,questionText,27515,form,# Collected from Company
+5ce31987340000b1d29c6a88,,83729,question,questionText,27515,form,# Collected from Company
+5ce3198835000011584f702d,,83730,question,questionText,27515,form,# Collected from Company
+5ce31988340000115892e240,,83731,question,questionText,27515,form,# Collected from Company
+5ce31988350000c1c480646e,,83732,question,questionText,27515,form,# Collected from Company

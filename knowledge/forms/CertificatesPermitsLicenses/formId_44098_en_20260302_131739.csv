@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+674e24b20100003000a412ed,67468785010000cb000fbee2,44098,questionGroup,questionGroupText,44098,form,Nigeria Tax Compliance Certificate
+67468837010000d2000fbee8,,162472,question,description,44098,form,https://www.firs.gov.ng/\n
+67468837010000d2000fbee8,,162472,question,questionText,44098,form,Is your company registered with the Federal Inland Revenue Service in Nigeria?\n
+67468837010000d2000fbee8,,162472,question,responseOption1,44098,form,Yes
+67468837010000d2000fbee8,,162472,question,responseOption2,44098,form,No
+67468858010000330022818b,,162473,question,questionText,44098,form,Please explain\n
+67468858010000330022818b,,162473,question,responseOption1,44098,form,Yes
+67468858010000330022818b,,162473,question,responseOption2,44098,form,No
+6746886b0100000a0122818d,,162474,question,description,44098,form,Doc must be issued within the past 90 days\n
+6746886b0100000a0122818d,,162474,question,questionText,44098,form,Please upload your Tax Clearance Certificate (TCC)\n
+6746886b0100000a0122818d,,162474,question,responseOption1,44098,form,Yes
+6746886b0100000a0122818d,,162474,question,responseOption2,44098,form,No
+674688750100003300228190,,162475,question,questionText,44098,form,Sign below to confirm the information and/or document provided is correct and updated\n
+674688750100003300228190,,162475,question,responseOption1,44098,form,Yes
+674688750100003300228190,,162475,question,responseOption2,44098,form,No

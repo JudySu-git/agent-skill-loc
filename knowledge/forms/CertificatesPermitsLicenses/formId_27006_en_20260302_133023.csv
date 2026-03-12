@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec600100002d00a47383,5d374d5f360000a7bcb07c07,27006,questionGroup,questionGroupText,27006,form,North Dakota Contractor License
+5d5c3977370000820692796f,5d374da8360000b66a8e2ee1,27007,questionGroup,questionGroupText,27006,form,North Dakota Contractor License
+5d374dc83500002f3cacea35,,84850,question,description,27006,form,"<a href = ""https://firststop.sos.nd.gov/search/contractor""target=""_BLANK_"">North Dakota Secretary of State – Contractor</a>\n"
+5d374dc83500002f3cacea35,,84850,question,questionText,27006,form,North Dakota Contractor License Number:
+5d374de3360000a7bcb07c23,,84851,question,description,27006,form,"<a href = ""https://firststop.sos.nd.gov/search/contractor""target=""_BLANK_"">North Dakota Secretary of State – Contractor</a>\n"
+5d374de3360000a7bcb07c23,,84851,question,questionText,27006,form,North Dakota Contractor License Classifications:
+5d374df2330000b828a67e6f,,84852,question,questionText,27006,form,North Dakota License Expiration Date:
+5d374e04330000b828a67e89,,84853,question,description,27006,form,A URL will make verification quicker if provided
+5d374e04330000b828a67e89,,84853,question,questionText,27006,form,"Do you wish to upload a copy of your license, and/or provide the URL of the license?"
+5d374e04330000b828a67e89,,84853,question,responseOption1,27006,form,File Upload
+5d374e04330000b828a67e89,,84853,question,responseOption2,27006,form,URL
+5d374e23360000b66a8e2f2c,,84854,question,questionText,27006,form,Please upload a copy of your North Dakota license:
+5d374e39360000a7bcb07c4f,,84855,question,questionText,27006,form,Please enter the URL of the license:

@@ -1,0 +1,18 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87739a36b6c4c635466cd,69a87739a36b6c4c635466cc,51150,questionGroup,questionGroupText,51150,form,建筑 - 脚手架,
+69a87738a36b6c4c635466c6,,200001,question,description,51150,form,"脚手架必须能够承受由此产生的作业荷载和交通荷载。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第 58(2)、72(9) 条</a>",
+69a87738a36b6c4c635466c6,,200001,question,questionText,51150,form,荷载限制,
+69a87738a36b6c4c635466c7,,200002,question,description,51150,form,"脚手架通道必须包括固定在脚手架上的安全梯子或楼梯。脚手架通道的设置必须确保作业区域在 20 m 范围以内。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第 58(7)、72(4) 条</a>",
+69a87738a36b6c4c635466c7,,200002,question,questionText,51150,form,限制进入管控,
+69a87738a36b6c4c635466c8,,200003,question,description,51150,form,"脚手架检查必须由具备资质的人员执行，检查时机包括：搭建完成后、首次使用前、恶劣天气或中断作业后、系统脚手架每月一次、其他脚手架每周一次以及悬挂式脚手架每日一次。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第 60(2)、61 条</a>",
+69a87738a36b6c4c635466c8,,200003,question,questionText,51150,form,检查（使用前）,
+69a87738a36b6c4c635466c9,,200004,question,description,51150,form,"脚手架的搭建与拆除工作必须由经过培训且胜任的人员负责。称职且胜任的人员必须具备身体、精神和专业方面的适任能力。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第 5(4)2、60(6) 条</a>",
+69a87738a36b6c4c635466c9,,200004,question,questionText,51150,form,搭建与拆除的合格人员,
+69a87738a36b6c4c635466ca,,200005,question,description,51150,form,"工人培训内容必须涵盖组装安全、坠落风险、荷载及危险因素。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第 60(6) 条</a>",
+69a87738a36b6c4c635466ca,,200005,question,questionText,51150,form,培训,
+69a87738a36b6c4c635466cb,,200006,question,questionText,51150,form,<div></div>,

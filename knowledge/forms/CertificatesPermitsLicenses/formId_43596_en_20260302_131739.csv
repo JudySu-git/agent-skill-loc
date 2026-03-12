@@ -1,0 +1,50 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68a73b9e010000db01abd402,671bca450100004b00e90bf4,43596,questionGroup,questionGroupText,43596,form,Brazil Debt Clearance (CND)
+671bcbae01000032004dafcc,671bcbae01000032004dafcb,43597,questionGroup,questionGroupText,43596,form,The Protest Office Clearance
+671bcbb501000033004dafcf,671bcbb501000033004dafce,43598,questionGroup,questionGroupText,43596,form,Federal Clearance Certificate
+671bcbbd010000cf00e90bf8,671bcbbd010000cf00e90bf7,43599,questionGroup,questionGroupText,43596,form,State Clearance Certificate
+6733d4190100008300c3cac0,671bd3ec0100004c00e90cc6,43602,questionGroup,questionGroupText,43596,form,Municipal Clearance Certificate
+67216b430100002b00467927,67216b430100002b00467926,43753,questionGroup,questionGroupText,43596,form,Acknowledgement
+671bd6170100003300e90d07,,160253,question,description,43596,form,"Debt Clearance Certificate (Protest Office / Cartório de Protesto): This certificate ensures that the supplier has no registered unpaid debts or financial protests. It helps verify their financial stability and reliability, reducing the risk of engaging with suppliers that may have significant outstanding debts or financial issues."
+671bd6170100003300e90d07,,160253,question,questionText,43596,form,"Is your company in good standing with the Protest Office, without any outstanding or protested debts?"
+671bd6170100003300e90d07,,160253,question,responseOption1,43596,form,Yes
+671bd6170100003300e90d07,,160253,question,responseOption2,43596,form,No
+671bd61e0100003100e90d0b,,160254,question,questionText,43596,form,Please explain
+671bd61e0100003100e90d0b,,160254,question,responseOption1,43596,form,Yes
+671bd61e0100003100e90d0b,,160254,question,responseOption2,43596,form,No
+671bd6280100002e004db174,,160255,question,questionText,43596,form,Please upload a copy of the Protest Office Clearance Certificate (Certidão de Protesto)
+671bd6280100002e004db174,,160255,question,responseOption1,43596,form,Yes
+671bd6280100002e004db174,,160255,question,responseOption2,43596,form,No
+671bd63b010000cf00e90d11,,160256,question,description,43596,form,"The Federal Clearance Certificate is a document issued jointly by the Special Secretariat of the Federal Revenue of Brazil (RFB) and the Attorney General's Office of the National Treasury (PGFN), referring to all federal tax credits and the Active Debt of the Union (DAU) administered by them . http://servicos.receita.fazenda.gov.br/Servicos/CertidaoInternet/PJ/Consultar/"
+671bd63b010000cf00e90d11,,160256,question,questionText,43596,form,"Is your company in good standing with federal authorities, without any outstanding Federal debts or liabilities?"
+671bd63b010000cf00e90d11,,160256,question,responseOption1,43596,form,Yes
+671bd63b010000cf00e90d11,,160256,question,responseOption2,43596,form,No
+671bd6480100003300e90d14,,160257,question,questionText,43596,form,Please explain
+671bd6480100003300e90d14,,160257,question,responseOption1,43596,form,Yes
+671bd6480100003300e90d14,,160257,question,responseOption2,43596,form,No
+671bd6bc0100004c00e90d1a,,160258,question,questionText,43596,form,Please upload a copy of the Federal Clearance Certificate (Certidão Negativa de Débitos Federais)
+671bd6bc0100004c00e90d1a,,160258,question,responseOption1,43596,form,Yes
+671bd6bc0100004c00e90d1a,,160258,question,responseOption2,43596,form,No
+671bd724010000cb004db22f,,160260,question,description,43596,form,The State Clearance Certificate is a document issued by the State Treasury Department proving that the taxpayer has no tax debts with the State. It can be requested on the website of the State Treasury Department of the company's domicile.
+671bd724010000cb004db22f,,160260,question,questionText,43596,form,"Is your company in good standing with state authorities, without any outstanding State debts or liabilities?"
+671bd724010000cb004db22f,,160260,question,responseOption1,43596,form,Yes
+671bd724010000cb004db22f,,160260,question,responseOption2,43596,form,No
+671bd72e0100004a004db235,,160261,question,questionText,43596,form,Please explain
+671bd72e0100004a004db235,,160261,question,responseOption1,43596,form,Yes
+671bd72e0100004a004db235,,160261,question,responseOption2,43596,form,No
+671bd73b0100004d00e90d23,,160262,question,questionText,43596,form,"If Yes, please upload a copy of your valid State Clearance Certificate (Certidão Negativa de Débitos Estaduais)"
+671bd73b0100004d00e90d23,,160262,question,responseOption1,43596,form,Yes
+671bd73b0100004d00e90d23,,160262,question,responseOption2,43596,form,No
+671bd74d0100002f004db23b,,160263,question,description,43596,form,The Municipal Clearance Certificate is a document issued by Municipal Public Departments proving that the taxpayer has no debts with the county. It can be requested on the City Hall - Municipal Treasury Department of the company’s domicile.
+671bd74d0100002f004db23b,,160263,question,questionText,43596,form,"Is your company in good standing with municipal authorities, without any outstanding Municipal debts or liabilities?"
+671bd74d0100002f004db23b,,160263,question,responseOption1,43596,form,Yes
+671bd74d0100002f004db23b,,160263,question,responseOption2,43596,form,No
+671bd7540100003100e90d26,,160264,question,questionText,43596,form,Please explain
+671bd7540100003100e90d26,,160264,question,responseOption1,43596,form,Yes
+671bd7540100003100e90d26,,160264,question,responseOption2,43596,form,No
+671bd7610100004c00e90d28,,160265,question,questionText,43596,form,"If Yes, please upload a copy of your valid Municipal Clearance Certificate (Certidão Negativa de Débitos Municipais)"
+671bd7610100004c00e90d28,,160265,question,responseOption1,43596,form,Yes
+671bd7610100004c00e90d28,,160265,question,responseOption2,43596,form,No
+671bd7800100002f004db23e,,160266,question,questionText,43596,form,Sign below to confirm the information and/or document provided is correct and updated
+671bd7800100002f004db23e,,160266,question,responseOption1,43596,form,Yes
+671bd7800100002f004db23e,,160266,question,responseOption2,43596,form,No

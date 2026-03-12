@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+675a0cdd0100000b02561b6b,6759d7680100002f00f1a8e9,44134,questionGroup,questionGroupText,44134,form,Sherman + Reilly Safety Variance Form
+6759d7690100005300f1a8ea,6759d7690100005300f1a8ea,44135,questionGroup,questionGroupText,44134,form,Sherman + Reilly Supplier Variance Inputs
+6759d7690100003500f1a8eb,,163303,question,description,44134,form,"Describe what circumstances, conditions, events that have been determined through investigation to be the cause of performance gap."
+6759d7690100003500f1a8eb,,163303,question,questionText,44134,form,"For this compliance criteria,  please provide a detailed root cause of what caused the occurrence or the subsequent performance gap."
+6759d7690100003500f1a8ec,,163304,question,description,44134,form,Examples of supporting documentation could include but not limited to:\n-Copy of Agreement (s)\n-Settlements\n-Citations or Violations\n-Notices\n-Accident Reports\n-Incident Investigation Report\n-Corrective Action Plan\n-Photo(s) of Implemented engineering controls (if applicable)
+6759d7690100003500f1a8ec,,163304,question,questionText,44134,form,Please upload any supporting documentation for this variance.
+6759d7690100005300f1a8ed,,163305,question,description,44134,form,Details could include plans to reduce risk of reoccurrence of the events leading to the performance gap. Plan should include information around:\n\n-Additional training\n-Staffing Considerations\n-Risk Assessment\n-Communication plans\n-Other activities to be implemented
+6759d7690100005300f1a8ed,,163305,question,questionText,44134,form,"In detail, provide corrective actions being taken to address the current performance gap. Please list both Immediate and Long Term corrective actions."

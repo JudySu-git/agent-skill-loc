@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+696ac1500100004600c68f3b,696ac0fa010000b000c68f36,50395,questionGroup,description,50395,form,This requirement is triggered because you indicated your organization maintains a valid Authorization Certificate in the Czech Republic Trade Licensing Commercial Register Applicability Assessment questionnaire.
+696ac1500100004600c68f3b,696ac0fa010000b000c68f36,50395,questionGroup,questionGroupText,50395,form,Czech Republic Health Services Authorization
+696ac0fa0100004300c68f37,,197118,question,description,50395,form,"Upload your company’s authorization issued under the <a href=""https://www.psp.cz/sqw/sbirka.sqw?cz=372&r=2011"" target=""_BLANK_"">Health Services Act (372/2011 Coll.)</a>.\n\nA company must obtain an authorization under special laws if its intended activity is explicitly excluded from the Trade Licensing Act or requires additional sectoral approval.\n"
+696ac0fa0100004300c68f37,,197118,question,questionText,50395,form,Please upload proof of registration or authorization from your relevant professional chamber or authority.

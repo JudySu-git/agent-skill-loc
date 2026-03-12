@@ -1,0 +1,25 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+62f65b533000008a1c948990,62e32387300000a046c3d75c,36944,questionGroup,questionGroupText,36944,form,Contractor Guidelines PAYE
+62e32ab22e0000f0c6fd9f0a,62e32ab22e0000f0c6fd9f09,36945,questionGroup,questionGroupText,36944,form,Contractor Guidelines PAYE
+62e32aca2e0000f0c6fd9f0c,,130155,question,questionText,36944,form,Please provide confirmation of the type of contractor your organision is:
+62e32aca2e0000f0c6fd9f0c,,130155,question,responseOption1,36944,form,Self-employed
+62e32aca2e0000f0c6fd9f0c,,130155,question,responseOption2,36944,form,Irish Company Contractor
+62e32aca2e0000f0c6fd9f0c,,130155,question,responseOption3,36944,form,Non-Irish Company Contractor (overseas but working in Ireland)
+62e32b172e0000f0c6fda0c3,,130156,question,description,36944,form,(Please upload the documentation they have so either a tax clearance certificate or registration document to confirm registered as self-employed)
+62e32b172e0000f0c6fda0c3,,130156,question,questionText,36944,form,Please provide evidence of registration with the Irish Revenue as self-employed or evidence of registration for PAYE with the Irish Revenue:
+62e32bab2e0000f0c6fda6c4,,130157,question,questionText,36944,form,Please provide evidence of full PAYE obligations via your Company Accountant:\n\nIs employer PRSI being paid?
+62e32bab2e0000f0c6fda6c4,,130157,question,responseOption1,36944,form,Yes
+62e32bab2e0000f0c6fda6c4,,130157,question,responseOption2,36944,form,No
+62e32cad300000a046c42ab0,,130158,question,questionText,36944,form,Please provide evidence of tax compliance and employer PRSI contributions via confirmation from an authorised Accountant:
+62e32cce2e0000f0c6fdb109,,130159,question,description,36944,form,"(Non-Irish company only, please provide a finance letter, if not registered)"
+62e32cce2e0000f0c6fdb109,,130159,question,questionText,36944,form,Please provide evidence of tax compliance confirmation and of class S PRSI contributions. In addition confirmation required of ownership or control of 50% or more of the company from an authorised Accountant:
+62e32d1b2e0000f0c6fdb2a2,,130160,question,questionText,36944,form,Are you A1 certificate compliant?
+62e32d1b2e0000f0c6fdb2a2,,130160,question,responseOption1,36944,form,Yes
+62e32d1b2e0000f0c6fdb2a2,,130160,question,responseOption2,36944,form,No
+62e32d4c2e0000f0c6fdb560,,130161,question,questionText,36944,form,Please upload a copy of confirmation:
+62e32d8c2e0000f0c6fdb70a,,130162,question,questionText,36944,form,Do you have a confirmation of posted worker directive requirements?
+62e32d8c2e0000f0c6fdb70a,,130162,question,responseOption1,36944,form,Yes
+62e32d8c2e0000f0c6fdb70a,,130162,question,responseOption2,36944,form,No
+62e32daf300000a046c43535,,130163,question,questionText,36944,form,Please upload:
+62e32de82e0000f0c6fdba3a,,130164,question,description,36944,form,Either email or letter confirming registration/application 
+62e32de82e0000f0c6fdba3a,,130164,question,questionText,36944,form,Please provide confirmation that posted worker directive requirements will be applied:

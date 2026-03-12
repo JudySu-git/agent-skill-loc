@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5d7137da35000005b10630e4,5755c9af504943f873209cc3,579,questionGroup,questionGroupText,20149,form,Policy Information
+5c9a6f8138000000f35f2863,5755c9af50494379b6feb91a,580,questionGroup,questionGroupText,20149,form,Policy Limits
+3a501ce0504943503ea96065,,2140,question,questionText,20149,form,Date of Commencement:
+3a501ce05049436e261a9f5f,,2141,question,questionText,20149,form,Expiration Date:
+3a501ce0504943a89d9662c9,,2185,question,questionText,20149,form,E.L. Each Accident
+3a501ce0504943e615cb411b,,2186,question,questionText,20149,form,E.L. Disease - Each Employee
+3a501ce05049434606cc5bf5,,2187,question,questionText,20149,form,E.L. Disease - Policy Limit
+607076be4500009d89bceb2f,5abd4a9a2500007c0067c55a,20149,questionGroup,questionGroupText,20149,form,Employers Liability
+5abd473c2100007c00f29107,,70079,question,questionText,20149,form,Please upload Employers Liability Certificate
+5d7137d9370000a213dcefa9,,86255,question,questionText,20149,form,Insurance Carrier:
+607076794500009d89bcd26b,,108683,question,description,20149,form,Used to provide instructions from Client
+607076794500009d89bcd26b,,108683,question,questionText,20149,form,Comments
+6070768d43000090e86463b7,,108684,question,description,20149,form,Date the instructions from Client expire
+6070768d43000090e86463b7,,108684,question,questionText,20149,form,VARIANCE Expiration Date
+62f53f2082eb52eab3c18f90,,130501,question,questionText,20149,form,Currency used in Certificate of Insurance (COI)

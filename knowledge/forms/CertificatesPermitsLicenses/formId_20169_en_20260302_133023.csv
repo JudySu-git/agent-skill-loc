@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4fc4b08f5049432a8c117694,4fc4b08f5049432a8c117694,2659,questionGroup,questionGroupText,20169,form,Policy Information
+51b77da4504943cb61b961fb,51b77da4504943cb61b961fb,4016,questionGroup,questionGroupText,20169,form,Policy Limits
+4fc4b0bb5049434115b44dba,,11929,question,questionText,20169,form,Date of commencement of policy
+4fc4b0c8504943d244fe6c27,,11930,question,questionText,20169,form,Date of expiry of policy
+4fc4b0d3504943914fbb4b62,,11931,question,questionText,20169,form,Insurance Carrier
+51b77dd7504943ce918da5a5,,18484,question,questionText,20169,form,Per Occurrence
+51b77de85049434888a1b8ca,,18485,question,questionText,20169,form,Aggregate
+60706ac74500009d89bc0069,5ac3ae4c22000098011bfca9,20169,questionGroup,questionGroupText,20169,form,Professional Indemnity (APAC Region)
+5ad149cf2200001700a5a9a7,,70092,question,questionText,20169,form,Please upload Professional Indemnity Certificate
+60706a6643000090e8634077,,108621,question,description,20169,form,Used to provide instructions from Client
+60706a6643000090e8634077,,108621,question,questionText,20169,form,Comments
+60706a784500009d89bbfdf5,,108622,question,description,20169,form,Date the instructions from Client expire
+60706a784500009d89bbfdf5,,108622,question,questionText,20169,form,VARIANCE Expiration Date
+62f53f3182eb52eab3c18fad,,130530,question,questionText,20169,form,Currency used in Certificate of Insurance (COI)

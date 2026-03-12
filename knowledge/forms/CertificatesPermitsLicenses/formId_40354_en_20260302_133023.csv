@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6510dd9d180000c02c3bd3f0,6510dc35170000670b21a3bc,40354,questionGroup,questionGroupText,40354,form,DTZ Investors Insurance Variance Form
+6510dc73180000a42a3bd3ea,,145532,question,questionText,40354,form,Please provide the property and fund the supplier is being instructed on.
+6510dc88170000520f21a3c2,,145533,question,questionText,40354,form,Monetary Value of the Work:
+6510dca8170000520f21a3c3,,145534,question,questionText,40354,form,Provide a brief description of the work the supplier is due to carry out.
+6510dcc31800007d313bd3ee,,145535,question,questionText,40354,form,Please upload any additional relevant documents here.

@@ -1,0 +1,27 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4ca0cef75049439904f593e7,4ca0cef75049439904f593e7,367,questionGroup,questionGroupText,367,category,OHS Requirements
+4ca0cf145049433a77294d08,4ca0cf145049433a77294d08,827,questionGroup,questionGroupText,367,category,ABB Health and Safety Policy
+4ca0cff9504943ff1aaf9d72,4ca0cff9504943ff1aaf9d72,828,questionGroup,questionGroupText,367,category,Crane requirements
+4ca0cfa05049438ce2295bb3,,4410,question,linkResources!download.action?id=1149,367,category,Contractor Health & Safety Requirements
+4ca0cfa05049438ce2295bb3,,4410,question,linkresources!download.action?id=1149,367,category,Contractor Health & Safety Requirements
+4ca0cfa05049438ce2295bb3,,4410,question,questionText,367,category,"Please check the box provided that you have received a copy of, read and understand the attached document. \n<a href=""/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_1149.pdf"" target=""_BLANK"">Contractor Health & Safety Requirements</a>"
+4ca0cfa05049438ce2295bb3,,4410,question,responseOption1,367,category,Click Here to Acknowledge
+4ca0cfd1504943f8228c99da,,4411,question,questionText,367,category,Please type the name of the person who has reviewed the ABB Health and Safety Policies.
+4ca0d030504943b699eb31ea,,4412,question,questionText,367,category,Does your company operate cranes as part of your services performed?
+4ca0d030504943b699eb31ea,,4412,question,responseOptionNo,367,category,No
+4ca0d030504943b699eb31ea,,4412,question,responseOptionYes,367,category,Yes
+4ca0d0c4504943842db34bba,,4413,question,questionText,367,category,Have your crane operators been trained in the past two years?
+4ca0d0c4504943842db34bba,,4413,question,responseOptionNo,367,category,No
+4ca0d0c4504943842db34bba,,4413,question,responseOptionYes,367,category,Yes
+4ca0d130504943f3f3b9dda8,,4414,question,questionText,367,category,How does your company ensure the crane operators are competent to perform their duties?
+4ca0d175504943b57a5dc9ee,,4415,question,questionText,367,category,What date was the most recent job site crane inspection?
+4ca0d1b05049439483cd31cb,,4416,question,questionText,367,category,Do you use rented or leased cranes?
+4ca0d1b05049439483cd31cb,,4416,question,responseOptionNo,367,category,No
+4ca0d1b05049439483cd31cb,,4416,question,responseOptionYes,367,category,Yes
+4ca0d1ec504943546f1e98c6,,4417,question,questionText,367,category,Do you have a thrid party inspect the rented or leased crane annually?
+4ca0d1ec504943546f1e98c6,,4417,question,responseOptionNo,367,category,No
+4ca0d1ec504943546f1e98c6,,4417,question,responseOptionYes,367,category,Yes
+4ca0d2585049437bac1e968f,,4418,question,questionText,367,category,Please upload documentation of the crane operators training
+4ca0d2ab504943f5e9a1cdb2,,4419,question,questionText,367,category,Please upload documentation of the most recent job site crane inspection.
+4ca0d2f65049433746fef938,,4420,question,questionText,367,category,Please provide documentation of third party crane inspection.
+4ca0d35850494385097c43ea,,4421,question,questionText,367,category,How often do you require your crane operators to undergo a medical evaluation?

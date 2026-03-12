@@ -1,0 +1,22 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87740a36b6c4c63546731,69a87740a36b6c4c63546730,51160,questionGroup,questionGroupText,51160,form,坠落防护,
+69a87740a36b6c4c63546729,,200080,question,description,51160,form,"在墙壁、楼梯和机械平台处坠落高度超过一米，以及在工作场所和通道处坠落高度超过两米的情况下，必须提供坠落防护措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 7(1), 7(2)3, 7(2)4</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 11(3-4)</a>",
+69a87740a36b6c4c63546729,,200080,question,questionText,51160,form,坠落防护（> 2 米）,
+69a87740a36b6c4c6354672a,,200081,question,description,51160,form,"在需要的地方必须实施集体防护措施，例如护栏或覆盖物。仅在集体防护措施无法实施或不足时，方可使用个人坠落防护装备。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 6(8)2, 7(4)</a>",
+69a87740a36b6c4c6354672a,,200081,question,questionText,51160,form,集体防护措施的优先原则,
+69a87740a36b6c4c6354672b,,200082,question,description,51160,form,"地板或类似表面的开口必须通过承重盖板、护栏或同等防护措施加以保护。在无法安装盖板的情况下，必须提供同等的防护措施或明确的危险标识。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 11(2)</a>",
+69a87740a36b6c4c6354672b,,200082,question,questionText,51160,form,开口防护,
+69a87740a36b6c4c6354672c,,200083,question,description,51160,form,"在人员可能因物体坠落而受到危险的地方，必须对工作场所和通道进行防护。必须实施适当的防护措施，例如覆盖物、防护顶棚、隔离屏障或限制区域。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 6(1)</a>",
+69a87740a36b6c4c6354672c,,200083,question,questionText,51160,form,防止物体坠落的防护,
+69a87740a36b6c4c6354672d,,200084,question,description,51160,form,"在无防护边缘附近作业时，必须设置适当的安全距离、隔离屏障或明确标识并加以固定的限制区域，以防止坠落事故发生。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 9(3)2</a>",
+69a87740a36b6c4c6354672d,,200084,question,questionText,51160,form,边缘作业安全防护,
+69a87740a36b6c4c6354672e,,200085,question,description,51160,form,"进入隔离区域必须限于操作需要。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 9(4)</a>",
+69a87740a36b6c4c6354672e,,200085,question,questionText,51160,form,边缘防护区域的限制进入,
+69a87740a36b6c4c6354672f,,200086,question,questionText,51160,form,<div></div>,

@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+685304440100000c012ee72d,685048df010000ed00b5f316,46307,questionGroup,description,46307,form,"If your company has tax or social responsibilities in Germany, you will be asked to provide Tax Clearance Declaration in a subsequent form."
+685304440100000c012ee72d,685048df010000ed00b5f316,46307,questionGroup,questionGroupText,46307,form,Germany Fiscal Compliance Applicability Assessment
+68504972010000ff00b5f31e,68504972010000ff00b5f31d,46308,questionGroup,questionGroupText,46307,form,Statutory Insurance
+6850499601000017016d5fc8,6850499601000017016d5fc7,46309,questionGroup,questionGroupText,46307,form,Assessment
+685049a30100004200b5f325,,174958,question,description,46307,form,"This includes having a physical presence, employing workers in Germany, or performing services on-site—even temporarily."
+685049a30100004200b5f325,,174958,question,questionText,46307,form,"Does your organization have operations, personnel, or contractual obligations in Germany that could give rise to local tax or social security responsibilities?"
+685049a30100004200b5f325,,174958,question,responseOption1,46307,form,Yes
+685049a30100004200b5f325,,174958,question,responseOption2,46307,form,No
+685049d901000015016d5fce,,174959,question,questionText,46307,form,Please select one of the below options:
+685049d901000015016d5fce,,174959,question,responseOption1,46307,form,We only deliver goods to Germany and have no on-site or personnel presence.
+685049d901000015016d5fce,,174959,question,responseOption2,46307,form,Other
+685049d901000015016d5fce,,174959,question,responseOption3,46307,form,We do not engage in any activity in Germany that creates tax or social insurance obligations.
+68504a0b010000f900b5f329,,174960,question,questionText,46307,form,Please explain

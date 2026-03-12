@@ -1,0 +1,18 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+58c86992504943d297e80159,58c86992504943d297e80159,10737,questionGroup,questionGroupText,20243,form,U.S. Environmental Protection Agency (EPA)
+67f9355e010000390077df9c,5aea2c91240000950091fc4e,20243,questionGroup,questionGroupText,20243,form,U.S. Environmental Protection Agency (EPA)
+58c86c4f50494383dfe54498,,45059,question,questionText,20243,form,Has your company received any notice(s) of violation from the EPA for the given year?
+58c86c4f50494383dfe54498,,45059,question,responseOptionNA,20243,form,N/A
+58c86c4f50494383dfe54498,,45059,question,responseOptionNo,20243,form,No
+58c86c4f50494383dfe54498,,45059,question,responseOptionYes,20243,form,Yes
+58c86c9c50494341cf8c112b,,45060,question,questionText,20243,form,"If yes, please enter the number of EPA notices of violation for the given year:"
+58c86ec6504943139fbb17ab,,45061,question,questionText,20243,form,Please provide details regarding the violation notice(s) that resulted in Civil Enforcement:
+58c87dc8504943c75e42f54a,,45069,question,description,20243,form,Please see <u><a href='https://www.epa.gov/enforcement/enforcement-basic-information' target='_BLANK'>EPA Enforcement Basics</a></u> for more information.
+58c87dc8504943c75e42f54a,,45069,question,questionText,20243,form,Did any EPA notices of violation result in Civil Enforcement?
+58c87dc8504943c75e42f54a,,45069,question,responseOptionNo,20243,form,No
+58c87dc8504943c75e42f54a,,45069,question,responseOptionYes,20243,form,Yes
+58c880255049438988e812db,,45107,question,description,20243,form,Please see <u><a href='https://www.epa.gov/enforcement/enforcement-basic-information' target='_BLANK'>EPA Enforcement Basics</a></u> for more information.
+58c880255049438988e812db,,45107,question,questionText,20243,form,Did any EPA notices of violation result in Criminal Enforcement?
+58c880255049438988e812db,,45107,question,responseOptionNo,20243,form,No
+58c880255049438988e812db,,45107,question,responseOptionYes,20243,form,Yes
+58c8813f504943801760f6a7,,45122,question,questionText,20243,form,Please provide details regarding the EPA violation notice(s) that resulted in Criminal Enforcement:

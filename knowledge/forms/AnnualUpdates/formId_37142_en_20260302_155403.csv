@@ -1,0 +1,44 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6317e5b62f00006b7474b34c,6317e5b62f00006b7474b34c,37138,questionGroup,questionGroupText,37142,form,Fatalities
+6317e5b62f00006b7474b353,6317e5b62f00006b7474b353,37141,questionGroup,questionGroupText,37142,form,Please confirm the number of traffic accidents within your company this year in the following areas:
+6318b6852e00005044ac406a,6317e5b52f00006b7474b34b,37142,questionGroup,questionGroupText,37142,form,Annual Update - Road Transport (Netherlands)
+6317e5b62f00006b7474b34d,,131002,question,questionText,37142,form,How many transport-related fatalities has your company been involved with in the given year?
+6317e5b62f00006b7474b34d,,131002,question,responseOption3,37142,form,Not Applicable
+6317e5b62f00006b7474b354,,131006,question,description,37142,form,Please enter the number of traffic accidents within your company that occurred on motorways during the given year.
+6317e5b62f00006b7474b354,,131006,question,questionText,37142,form,Non-motorway accidents:
+6317e5b62f00006b7474b355,,131007,question,description,37142,form,Please confirm the number of your company's traffic accidents that occurred on a non-motorway for the given year:
+6317e5b62f00006b7474b355,,131007,question,questionText,37142,form,Urban road accidents:
+6317e5b62f00006b7474b356,,131008,question,description,37142,form,Please confirm the number of your company's traffic accidents that occurred on rural roads for the given year.
+6317e5b62f00006b7474b356,,131008,question,questionText,37142,form,Rural road accidents:
+6317e5b62f00006b7474b357,,131009,question,description,37142,form,Please enter the number of traffic-related accidents that occurred for the given year on a motorway.
+6317e5b62f00006b7474b357,,131009,question,questionText,37142,form,Motorway accidents:
+6317e5b62f00006b7474b358,,131010,question,questionText,37142,form,"In the event that your company vehicle's are involved in traffic accidents and/or incidents, does your company complete a full investigation)?"
+6317e5b62f00006b7474b358,,131010,question,responseOption1,37142,form,Yes
+6317e5b62f00006b7474b358,,131010,question,responseOption2,37142,form,No
+6317e5b62f00006b7474b358,,131010,question,responseOption3,37142,form,Not Applicable
+6317e5b62f00006b7474b359,,131011,question,questionText,37142,form,Please confirm the number of oil/fuel related incidents relating to your company transport activity:
+6317e5b62f00006b7474b35a,,131012,question,description,37142,form,Please select all that apply.
+6317e5b62f00006b7474b35a,,131012,question,questionText,37142,form,What were the primary causes of traffic-related incidents within your business for the given year?
+6317e5b62f00006b7474b35a,,131012,question,responseOption1,37142,form,Lost load
+6317e5b62f00006b7474b35a,,131012,question,responseOption10,37142,form,Driver fatigue / falling asleep at the wheel
+6317e5b62f00006b7474b35a,,131012,question,responseOption11,37142,form,Puncture
+6317e5b62f00006b7474b35a,,131012,question,responseOption12,37142,form,Driver sickness
+6317e5b62f00006b7474b35a,,131012,question,responseOption13,37142,form,Hijack
+6317e5b62f00006b7474b35a,,131012,question,responseOption14,37142,form,Speeding
+6317e5b62f00006b7474b35a,,131012,question,responseOption15,37142,form,Weather conditions
+6317e5b62f00006b7474b35a,,131012,question,responseOption16,37142,form,Road surface
+6317e5b62f00006b7474b35a,,131012,question,responseOption17,37142,form,Poor visibility
+6317e5b62f00006b7474b35a,,131012,question,responseOption18,37142,form,Driver negligence (e.g.; using cell phone)
+6317e5b62f00006b7474b35a,,131012,question,responseOption19,37142,form,Reversing
+6317e5b62f00006b7474b35a,,131012,question,responseOption2,37142,form,Loss of a wheel
+6317e5b62f00006b7474b35a,,131012,question,responseOption20,37142,form,Incorrect direction of traffic
+6317e5b62f00006b7474b35a,,131012,question,responseOption3,37142,form,Collision with another vehicle
+6317e5b62f00006b7474b35a,,131012,question,responseOption4,37142,form,Collision with pedestrian (site & public highway)
+6317e5b62f00006b7474b35a,,131012,question,responseOption5,37142,form,Collision with animal
+6317e5b62f00006b7474b35a,,131012,question,responseOption6,37142,form,Collision with stationary object
+6317e5b62f00006b7474b35a,,131012,question,responseOption7,37142,form,Collision with stationary vehicle
+6317e5b62f00006b7474b35a,,131012,question,responseOption8,37142,form,Vehicle overturned
+6317e5b62f00006b7474b35a,,131012,question,responseOption9,37142,form,Influence of intoxicating substance
+6317e5b62f00006b7474b35b,,131013,question,questionText,37142,form,How many accidents with vehicles hitting / damaging bridges  have you recorded?
+6317e5b62f00006b7474b35c,,131014,question,description,37142,form,Please confirm the total annual mileage completed by the company fleet. This should include where possible subcontracted vehicles working on your behalf. *This total may be an estimation.
+6317e5b62f00006b7474b35c,,131014,question,questionText,37142,form,Total Fleet Mileage:

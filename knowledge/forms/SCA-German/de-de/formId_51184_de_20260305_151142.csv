@@ -1,0 +1,24 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87752a36b6c4c635467fb,69a87752a36b6c4c635467fa,51184,questionGroup,questionGroupText,51184,form,Dacharbeiten,
+69a87751a36b6c4c635467f2,,200233,question,description,51184,form,"Dacharbeiten über 3 Meter und mit einer Neigung bis zu 20° müssen zunächst kollektive Absturzsicherungsmaßnahmen (Schutzgeländer, Gerüste, Schutzwände) einsetzen. Wenn kollektive Maßnahmen nicht durchführbar sind, muss persönliche Schutzausrüstung (PSA), wie z. B. Auffangsysteme, verwendet werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 87 Abs. 2–3, 88</a>",
+69a87751a36b6c4c635467f2,,200233,question,questionText,51184,form,Absturzsicherung (Über 3 Meter und bis zu 20°),
+69a87751a36b6c4c635467f3,,200234,question,description,51184,form,"Das zuständige Arbeitsinspektorat ist zu benachrichtigen, wenn Bauarbeiten, die Arbeiten in der Höhe beinhalten, durchgeführt werden, voraussichtlich länger als fünf Arbeitstage dauern und die Absturzhöhe mehr als 5 Meter beträgt.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 3 Abs. 5 Z 5</a>",
+69a87751a36b6c4c635467f3,,200234,question,questionText,51184,form,Meldung an das Arbeitsinspektorat (Arbeiten >5 Tage und Absturzhöhe >5 m),
+69a87751a36b6c4c635467f4,,200235,question,description,51184,form,"Bei Dacharbeiten mit besonderen Gefahren (z. B. steile, rutschige oder nicht tragfähige Flächen) müssen mindestens zwei Arbeitnehmer anwesend sein oder Aufsicht/Unterstützung sichergestellt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 87 Abs. 8</a>",
+69a87751a36b6c4c635467f4,,200235,question,questionText,51184,form,Mindestanwesenheit bei gefährlichen Dacharbeiten,
+69a87751a36b6c4c635467f5,,200236,question,description,51184,form,"Dacharbeiten müssen von unterwiesenen, erfahrenen und körperlich geeigneten Arbeitnehmern durchgeführt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 5 Abs. 4, 87 Abs. 8</a>",
+69a87751a36b6c4c635467f5,,200236,question,questionText,51184,form,Qualifiziertes Personal,
+69a87751a36b6c4c635467f6,,200237,question,description,51184,form,"Auf Dächern mit einer Neigung von mehr als 45 Grad müssen besondere Arbeitsplätze und Zugänge bereitgestellt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 89 Abs. 1</a>",
+69a87751a36b6c4c635467f6,,200237,question,questionText,51184,form,Besonderer Zugang bei Steilдächern >45 Grad,
+69a87751a36b6c4c635467f7,,200238,question,description,51184,form,"Laufstegssicherungen müssen ein Verschieben auf Dächern mit einer Neigung von mehr als 20 Grad verhindern.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 90 Abs. 3</a>",
+69a87751a36b6c4c635467f7,,200238,question,questionText,51184,form,Gesicherte Laufstege auf Dächern >20 Grad,
+69a87751a36b6c4c635467f8,,200239,question,description,51184,form,"Der Zugang zu nicht durchbruchsicheren Dächern muss Sicherheitsmaßnahmen umfassen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 90 Abs. 1</a>",
+69a87751a36b6c4c635467f8,,200239,question,questionText,51184,form,Zugangskontrolle,
+69a87751a36b6c4c635467f9,,200240,question,questionText,51184,form,<div></div>,

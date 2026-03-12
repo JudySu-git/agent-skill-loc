@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6070788d43000090e864c4a0,57ec184c5049434ecc8e73b4,1196,questionGroup,description,1196,form,New Zealand Universal Workers Comp
+6070788d43000090e864c4a0,57ec184c5049434ecc8e73b4,1196,questionGroup,questionGroupText,1196,form,New Zealand ACC
+607074b343000090e8643305,57ec1876504943aaaa60b501,9547,questionGroup,questionGroupText,1196,form,New Zealand ACC
+607074b343000090e8643304,57ec18b9504943b94611ea6a,9548,questionGroup,questionGroupText,1196,form,Policy Information
+57ec196b5049434c5d86e754,57ec196b5049434c5d86e754,9549,questionGroup,questionGroupText,1196,form,Policy Documentation
+57ec18f95049434be0f6ac01,,40679,question,questionText,1196,form,Date of Commencement:
+57ec19225049431db9709a46,,40680,question,questionText,1196,form,Expiration Date:
+57ec1a7950494386e5ef3563,,40681,question,description,1196,form,<a href='http://www.acc.co.nz/for-business/small-medium-and-large-business/how-do-i-pay/index.htm' target='_BLANK'>ACC Payment Outlets</a>
+57ec1a7950494386e5ef3563,,40681,question,linkhttp://www.acc.co.nz,1196,form,New Zealand Accident Compensation Commission (ACC)
+57ec1a7950494386e5ef3563,,40681,question,questionText,1196,form,Please upload a receipt or proof of payment from the _<a href='http://www.acc.co.nz' target='_BLANK'>New Zealand Accident Compensation Commission (ACC)</a>_.
+607074b143000090e8643303,,108675,question,description,1196,form,Used to provide instructions from Client
+607074b143000090e8643303,,108675,question,questionText,1196,form,Comments
+6070782a4500009d89bd1bb7,,108693,question,description,1196,form,Date the instructions from Client expire
+6070782a4500009d89bd1bb7,,108693,question,questionText,1196,form,VARIANCE Expiration Date

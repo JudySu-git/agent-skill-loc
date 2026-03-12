@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67eeb9340100004000ba7957,67eaf9280100000b0121850a,45111,questionGroup,questionGroupText,45111,form,Brazil DSST Asbestos Handling Registration Compliance
+67eaf928010000430021850b,,167139,question,questionText,45111,form,"Please upload your valid registration certificate with the DSST (Department of Occupational Safety and Health), under the Labor Inspection Secretariat (SIT)."
+67eaf928010000430021850b,,167139,question,responseOption1,45111,form,Yes
+67eaf928010000430021850b,,167139,question,responseOption2,45111,form,No
+67eaf928010000430021850c,,167140,question,questionText,45111,form,Please enter the expiration date.
+67eaf928010000430021850c,,167140,question,responseOption1,45111,form,Yes
+67eaf928010000430021850c,,167140,question,responseOption2,45111,form,No

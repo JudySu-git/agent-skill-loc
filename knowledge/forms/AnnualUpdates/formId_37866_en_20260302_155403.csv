@@ -1,0 +1,26 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65827d621900001501e31f78,63864ab21700007f01675f12,37865,questionGroup,questionGroupText,37866,form,Paraguay
+658b5d3a180000dd3dfebfc1,63864ab21700007f01675f11,37866,questionGroup,questionGroupText,37866,form,Avetta Paraguay Annual Update
+65827e781600009f0148e804,65827e781600009f0148e803,40954,questionGroup,questionGroupText,37866,form,Paraguay Specific Updates
+63864ab21700007f01675f13,,133972,question,questionText,37866,form,What is the average number of employees for the given year? Approximate if necessary.
+63864ab21700007f01675f14,,133973,question,description,37866,form,Any unexpected injury or incident that occurs at work or commuting to and from work is classified as a work accident. Occupational diseases/illnesses are those incidents that occur due to the scope of the work being carried out or due to the hazards present within the work environment.
+63864ab21700007f01675f14,,133973,question,questionText,37866,form,Did your company experience any work accidents or occupational diseases/illnesses for the given year?
+63864ab21700007f01675f14,,133973,question,responseOptionNo,37866,form,No
+63864ab21700007f01675f14,,133973,question,responseOptionYes,37866,form,Yes
+63864ab21700007f01675f15,,133974,question,description,37866,form,Corporate hours are defined as all hours your employees have worked within the country this Annual Update applies to.
+63864ab21700007f01675f15,,133974,question,questionText,37866,form,What is the total number of corporate hours?
+63864ab21700007f01675f16,,133975,question,description,37866,form,Work accidents or occupational diseases that result in an employee death.
+63864ab21700007f01675f16,,133975,question,questionText,37866,form,How many fatalities were there for the given year?
+63864ab21700007f01675f1a,,133979,question,description,37866,form,"A list of specific disease and the manners in which they are contracted. Examples such as anthrax, hepatitis, legionellosis or leptospirosis."
+63864ab21700007f01675f1a,,133979,question,questionText,37866,form,How many cases of Occupational Diseases/Illnesses were there for the given year?
+63864ab21700007f01675f1c,,133981,question,questionText,37866,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+63864ab21700007f01675f1d,,133982,question,questionText,37866,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+63864ab21700007f01675f1e,,133983,question,questionText,37866,form,Please enter the total number of recordable incidents:
+63864ab21700007f01675f20,,133985,question,questionText,37866,form,Please enter the total number of total days away from work:
+6582824f1600006c0148ee1f,,148746,question,description,37866,form,Those incidents that resulted in a <u>permanent loss</u> in the employee's working capacity including physical integrity and ability to work.
+6582824f1600006c0148ee1f,,148746,question,questionText,37866,form,How many _total permanent_ disability incidents were there for the given year?
+658282751600007d0148ee21,,148747,question,description,37866,form,How many _partial permanent_ disability incidents were there for the given year?
+658282751600007d0148ee21,,148747,question,questionText,37866,form,How many _partial permanent_ disability incidents were there for the given year?
+658282e3160000af0148ee23,,148748,question,questionText,37866,form,How many non-disabling serious incidents were there for the given year?
+6582834f1900004401e32a92,,148749,question,description,37866,form,Those incidents which were <u>not</u> classified above but medical treatment was administered to the injured individual. Incidents where only first aid was administered should not be counted.
+6582834f1900004401e32a92,,148749,question,questionText,37866,form,How many other recordable incidents were there for the given year?

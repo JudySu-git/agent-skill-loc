@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4f26f4bc50494349ca98842a,4f26f4bc50494349ca98842a,2366,questionGroup,questionGroupText,20178,form,Policy Information
+54218928504943c034ca8b15,54218928504943c034ca8b15,5691,questionGroup,questionGroupText,20178,form,Policy Limits
+4f26f59e5049431e7bc07899,,10495,question,questionText,20178,form,Policy Effective Date
+4f26f6275049432553d59677,,10498,question,questionText,20178,form,Policy Expiration Date
+4f26f692504943f1fd8c83b0,,10501,question,questionText,20178,form,Insurance Carrier
+607073144500009d89bc8a7d,5ac46d22220000cc007e55e1,20178,questionGroup,description,20178,form,Contractors All Risk for use in the United Kingdom
+607073144500009d89bc8a7d,5ac46d22220000cc007e55e1,20178,questionGroup,questionGroupText,20178,form,Contractors All Risk - (UK)
+542189ca5049432f1bc4a6a2,,25297,question,questionText,20178,form,Monetary Limit
+5ad149a32200008000a5a9a4,,70091,question,description,20178,form,Please upload Contractor All Risks Certificate
+5ad149a32200008000a5a9a4,,70091,question,questionText,20178,form,Please upload Contractor All Risks Certificate
+607072e343000090e863f645,,108663,question,description,20178,form,Used to provide instructions from Client
+607072e343000090e863f645,,108663,question,questionText,20178,form,Comments
+607072f143000090e863f650,,108664,question,description,20178,form,Date the instructions from Client expire
+607072f143000090e863f650,,108664,question,questionText,20178,form,VARIANCE Expiration Date
+62f53f3482eb52eab3c18fb2,,130535,question,questionText,20178,form,Currency used in Certificate of Insurance (COI)

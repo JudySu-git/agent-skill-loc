@@ -1,0 +1,21 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6983baeb0100004a00423cbb,4cb5a751504943f39199583e,167,questionGroup,questionGroupText,167,form,Quebec CNESST Classification Decision
+627984313000002603783829,4e1e2b35504943772e1d304d,1817,questionGroup,questionGroupText,167,form,"Quebec (Quebec Commission for Standards, Equity, Health and Safety at Work)"
+4e1e2b615049439ca1496e74,,8160,question,questionText,167,form,Quebec CNESST Classification Decision \nUpload your most recent Classification Decision.
+4e1e2b895049437945820dec,,8161,question,questionText,167,form,Quebec Enterprise Number (NEQ):
+4e1e2ba25049431e76e22685,,8162,question,questionText,167,form,Classification Unit:
+4e1e2bb95049433f5d665e9c,,8163,question,questionText,167,form,Unit Rate:
+4e1e2bd250494341c1f5aaf4,,8164,question,questionText,167,form,Premium Rate:
+4e1e2bf85049433712f25ca4,,8165,question,questionText,167,form,Your Premium Rate is:
+4e1e2bf85049433712f25ca4,,8165,question,responseOptionA,167,form,a Surcharge
+4e1e2bf85049433712f25ca4,,8165,question,responseOptionB,167,form,a Discount
+4e1e2bf85049433712f25ca4,,8165,question,responseOptionC,167,form,Equal to Industry Rate
+4e1e2bf85049433712f25ca4,,8165,question,responseOptionD,167,form,Not Applicable
+585604bc5049439910d39a25,,43479,question,description,167,form,"(i.e.; owner/operator, sole proprietor. If yes, please ensure that they are covered under provincial workers compensation, unless exempted)"
+585604bc5049439910d39a25,,43479,question,questionText,167,form,Is the principle/owner of your company acting as an employee when performing work?
+585604bc5049439910d39a25,,43479,question,responseOptionNo,167,form,No
+585604bc5049439910d39a25,,43479,question,responseOptionYes,167,form,Yes
+60705e304500009d89bb978a,,108605,question,description,167,form,Used to provide instructions from Client
+60705e304500009d89bb978a,,108605,question,questionText,167,form,Comments
+60705e454500009d89bb9856,,108606,question,description,167,form,Date the instructions from Client expire
+60705e454500009d89bb9856,,108606,question,questionText,167,form,VARIANCE Expiration Date

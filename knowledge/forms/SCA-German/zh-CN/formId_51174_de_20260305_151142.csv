@@ -1,0 +1,24 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774ba36b6c4c635467ab,69a8774ba36b6c4c635467aa,51174,questionGroup,questionGroupText,51174,form,人工搬运与储存,
+69a8774aa36b6c4c635467a2,,200173,question,description,51174,form,"在可行的情况下，必须尽量减少人工搬运负荷。必须优先采用组织措施和机械辅助手段，以减少人工提举或搬运。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 64(2)</a>",
+69a8774aa36b6c4c635467a2,,200173,question,questionText,51174,form,减少人工搬运需求,
+69a8774aa36b6c4c635467a3,,200174,question,description,51174,form,"人工搬运危害评估必须涵盖负荷特性、体力消耗、作业环境及任务要求。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 64(3)</a>",
+69a8774aa36b6c4c635467a3,,200174,question,questionText,51174,form,危害评估,
+69a8774aa36b6c4c635467a4,,200175,question,description,51174,form,"人工搬运风险的控制措施必须在考虑作业环境和任务要求的前提下，降低肌肉骨骼危害。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 64(3)</a>",
+69a8774aa36b6c4c635467a4,,200175,question,questionText,51174,form,控制措施（消除、工程控制、行政管理措施和/或个人防护装备）,
+69a8774aa36b6c4c635467a5,,200176,question,description,51174,form,"必须采取储存安排措施，防止员工因存放的货物、容器或包装而面临危险。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 10(1)</a>",
+69a8774aa36b6c4c635467a5,,200176,question,questionText,51174,form,安全储存措施,
+69a8774aa36b6c4c635467a6,,200177,question,description,51174,form,"不得超过允许的地面载荷、储存设备载荷及容器装填限值。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 10(2)</a>",
+69a8774aa36b6c4c635467a6,,200177,question,questionText,51174,form,载荷限制,
+69a8774aa36b6c4c635467a7,,200178,question,description,51174,form,"搬运人员在执行人工搬运任务前必须具备良好的体能状态并经过培训。人工搬运风险信息必须涵盖肌肉骨骼危害及不当搬运的后果。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 64(4-5)</a>",
+69a8774aa36b6c4c635467a7,,200178,question,questionText,51174,form,搬运人员适岗要求,
+69a8774aa36b6c4c635467a8,,200179,question,description,51174,form,"正确的负荷搬运指导必须涵盖安全操作技术及危害意识。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 64(5)</a>",
+69a8774aa36b6c4c635467a8,,200179,question,questionText,51174,form,培训,
+69a8774aa36b6c4c635467a9,,200180,question,questionText,51174,form,<div></div>,

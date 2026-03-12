@@ -1,0 +1,23 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6578d30b1800009e3dca841d,4eb2afc0504943aa15fc16a9,2214,questionGroup,questionGroupText,20221,form,Finland
+6578d5771900002836e4488d,5ae8d88d32000072003079e3,20221,questionGroup,questionGroupText,20221,form,Avetta Finland Annual Update
+547e1252504943348d51218e,,27469,question,description,20221,form,"IMPORTANT: Please make sure to all include Full-Time, Part-Time and Contract workers under your supervision, even if they were not under your direct employment."
+547e1252504943348d51218e,,27469,question,questionText,20221,form,Please enter the Average Number of Employees your company had during the given year.
+547e1254504943e7feb492db,,27470,question,questionText,20221,form,"Did your company record/report any workplace fatalities, occupational accidents, occupational diseases or dangerous occurrences for the given year?"
+547e1254504943e7feb492db,,27470,question,responseOptionNo,20221,form,No
+547e1254504943e7feb492db,,27470,question,responseOptionYes,20221,form,Yes
+547e12f6504943bee39cb852,,27471,question,description,20221,form,"Include hours worked by salaried, hourly, part-time and contract workers including temporary help services workers under your supervision, even if they were not under your direct employment. Do not include vacation, sick leave, holidays, or any other non-work time, even if employees were paid for it. If your establishment keeps records of only the hours paid or if you have employees who are not paid by the hour, please estimate the hours that the employees actually worked. If this number isn't available, an estimate is still needed."
+547e12f6504943bee39cb852,,27471,question,questionText,20221,form,Please enter the total number of hours worked by all employees during the given year. Please round your answer to the next highest whole number.
+547e132a504943c2eff8846f,,27472,question,questionText,20221,form,Please enter the number of work related fatalities for the given year.
+547e134f504943a1c72f596a,,27473,question,description,20221,form,"Examples of major injuries include broken bones, amputations, unconsciousness and death. They also include injuries that would result in not being able to attend work for more than 3 consecutive days."
+547e134f504943a1c72f596a,,27473,question,questionText,20221,form,Number of _major_ injuries that are classified as _over-three-day_ injuries?
+547e135b504943d767c6faf7,,27474,question,questionText,20221,form,Number of _major_ injuries that are classified as _under-three-day_ injuries?
+547e13725049435caf5a7ba2,,27475,question,description,20221,form,"Minor injuries are typically those injuries not classified as a major such as a paper cut, twisted ankle, bruising or knock."
+547e13725049435caf5a7ba2,,27475,question,questionText,20221,form,Number of _minor_ injuries?
+547e138d5049439e5c185a69,,27476,question,description,20221,form,"A list of specific disease and the manners in which they are contracted. Examples such as anthrax, hepatitis, legionellosis or leptospirosis."
+547e138d5049439e5c185a69,,27476,question,questionText,20221,form,Number of reportable diseases (including gas incidents)?
+547e138f5049436eafe05d1e,,27477,question,description,20221,form,Dangerous occurrences are certain listed near-miss events. Not every near miss event must be reported.
+547e138f5049436eafe05d1e,,27477,question,questionText,20221,form,Number of reportable dangerous occurrences (or near misses)?
+5df3db13350000fecb3489d8,,89623,question,questionText,20221,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+5df3db23360000fecbd11eb7,,89624,question,questionText,20221,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+6578d30a180000973dca841c,,148120,question,questionText,20221,form,Please enter the total number of recordable incidents for the year.

@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6859b7e2010000e5015faad2,6855e25b0100005a00ec3ed6,46365,questionGroup,description,46365,form,"This requirement is triggered because you answered ""Yes"" to maintaining a Domestic Waterway Transport Business License in the China Transportation and Logistics Applicability Assessment."
+6859b7e2010000e5015faad2,6855e25b0100005a00ec3ed6,46365,questionGroup,questionGroupText,46365,form,China Domestic Waterway Transport Business License
+6855e3110100005b00af26e3,,175100,question,questionText,46365,form,Please upload your Domestic Waterway Transport Business License.
+6855e31b010000a002af26e9,,175101,question,questionText,46365,form,Please enter the issue date of your Domestic Waterway Transport Business License.
+6855e3240100009d02af26f0,,175102,question,description,46365,form,The standard validity period is 4-5 years. 
+6855e3240100009d02af26f0,,175102,question,questionText,46365,form,Please enter the expiration date of your Domestic Waterway Transport Business License.

@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69372b4f0100004600e1e060,690d1fd50100003a00dc3f86,48867,questionGroup,description,48867,form,This requirement is triggered because you indicated your organization maintains valid Belgium Social Security documentation in the Belgium Social Security Applicability Assessment questionnaire.
+69372b4f0100004600e1e060,690d1fd50100003a00dc3f86,48867,questionGroup,questionGroupText,48867,form,Belgium Social Security Certificate
+690d1fd50100004700dc3f87,,187595,question,description,48867,form,"The Certificate of No Social Security Arrears can be obtained through the National Social Security Office <a href=""https://www.socialsecurity.be/site_fr/employer/infos/attests.htm#attests2"" target=""_blank"">(NSSO) online platform</a>. It serves as an official certificate that confirms a company has no outstanding social security contributions."
+690d1fd50100004700dc3f87,,187595,question,questionText,48867,form,"Please upload your company’s valid Certificate of No Social Security Arrears, issued within the past 30 days by the NSSO, to confirm compliance with Belgium’s social security requirements."

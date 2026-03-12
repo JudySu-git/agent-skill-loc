@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6365710b170000bd05cf7033,636571001800003504c0b333,37440,questionGroup,questionGroupText,37440,form,Asbestos Contractor Licences – Queensland
+636571001800003504c0b334,,132298,question,questionText,37440,form,Please upload current Asbestos Licence
+636571001800003504c0b335,,132299,question,questionText,37440,form,Licence Number
+636571001800003504c0b336,,132300,question,questionText,37440,form,Effective Date
+636571001800003504c0b337,,132301,question,questionText,37440,form,Expiration Date

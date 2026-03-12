@@ -1,0 +1,623 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+673cc0ba0100007400789585,4b0c1675504943dd2e312a97,6,questionGroup,questionGroupText,20042,form,Company History
+429bef505049434656ff8ae2,,37,question,questionText,20042,form,Legal Company Name:
+430567505049435ab396e318,,38,question,questionText,20042,form,Physical Address: \nAddress
+43056750504943e253b6f8e7,,39,question,questionText,20042,form,City / Town
+430567505049434ccdcc8cc6,,41,question,questionText,20042,form,Postal Code / Zip Code
+430567505049433856840af2,,42,question,questionText,20042,form,Country
+430567505049433856840af2,,42,question,responseOptionAD,20042,form,Andorra
+430567505049433856840af2,,42,question,responseOptionAE,20042,form,United Arab Emirates
+430567505049433856840af2,,42,question,responseOptionAF,20042,form,Afghanistan
+430567505049433856840af2,,42,question,responseOptionAG,20042,form,Antigua and Barbuda
+430567505049433856840af2,,42,question,responseOptionAI,20042,form,Anguilla
+430567505049433856840af2,,42,question,responseOptionAL,20042,form,Albania
+430567505049433856840af2,,42,question,responseOptionAM,20042,form,Armenia
+430567505049433856840af2,,42,question,responseOptionAN,20042,form,Netherlands Antilles
+430567505049433856840af2,,42,question,responseOptionAO,20042,form,Angola
+430567505049433856840af2,,42,question,responseOptionAQ,20042,form,Antarctica
+430567505049433856840af2,,42,question,responseOptionAR,20042,form,Argentina
+430567505049433856840af2,,42,question,responseOptionAS,20042,form,American Samoa
+430567505049433856840af2,,42,question,responseOptionAT,20042,form,Austria
+430567505049433856840af2,,42,question,responseOptionAU,20042,form,Australia
+430567505049433856840af2,,42,question,responseOptionAW,20042,form,Aruba
+430567505049433856840af2,,42,question,responseOptionAX,20042,form,Åland Islands
+430567505049433856840af2,,42,question,responseOptionAZ,20042,form,Azerbaijan
+430567505049433856840af2,,42,question,responseOptionBA,20042,form,Bosnia and Herzegovina
+430567505049433856840af2,,42,question,responseOptionBB,20042,form,Barbados
+430567505049433856840af2,,42,question,responseOptionBD,20042,form,Bangladesh
+430567505049433856840af2,,42,question,responseOptionBE,20042,form,Belgium
+430567505049433856840af2,,42,question,responseOptionBF,20042,form,Burkina Faso
+430567505049433856840af2,,42,question,responseOptionBG,20042,form,Bulgaria
+430567505049433856840af2,,42,question,responseOptionBH,20042,form,Bahrain
+430567505049433856840af2,,42,question,responseOptionBI,20042,form,Burundi
+430567505049433856840af2,,42,question,responseOptionBJ,20042,form,Benin
+430567505049433856840af2,,42,question,responseOptionBL,20042,form,Saint Barthélemy
+430567505049433856840af2,,42,question,responseOptionBM,20042,form,Bermuda
+430567505049433856840af2,,42,question,responseOptionBN,20042,form,Brunei Darussalam
+430567505049433856840af2,,42,question,responseOptionBO,20042,form,Bolivia
+430567505049433856840af2,,42,question,responseOptionBR,20042,form,Brazil
+430567505049433856840af2,,42,question,responseOptionBS,20042,form,Bahamas
+430567505049433856840af2,,42,question,responseOptionBT,20042,form,Bhutan
+430567505049433856840af2,,42,question,responseOptionBV,20042,form,Bouvet Island
+430567505049433856840af2,,42,question,responseOptionBW,20042,form,Botswana
+430567505049433856840af2,,42,question,responseOptionBY,20042,form,Belarus
+430567505049433856840af2,,42,question,responseOptionBZ,20042,form,Belize
+430567505049433856840af2,,42,question,responseOptionCA,20042,form,Canada
+430567505049433856840af2,,42,question,responseOptionCC,20042,form,Cocos (Keeling) Islands
+430567505049433856840af2,,42,question,responseOptionCD,20042,form,"Congo, Democratic Republic of the"
+430567505049433856840af2,,42,question,responseOptionCF,20042,form,Central African Republic
+430567505049433856840af2,,42,question,responseOptionCG,20042,form,"Congo, Republic of the"
+430567505049433856840af2,,42,question,responseOptionCH,20042,form,Switzerland
+430567505049433856840af2,,42,question,responseOptionCI,20042,form,Côte d'Ivoire
+430567505049433856840af2,,42,question,responseOptionCK,20042,form,Cook Islands
+430567505049433856840af2,,42,question,responseOptionCL,20042,form,Chile
+430567505049433856840af2,,42,question,responseOptionCM,20042,form,Cameroon
+430567505049433856840af2,,42,question,responseOptionCN,20042,form,China
+430567505049433856840af2,,42,question,responseOptionCO,20042,form,Colombia
+430567505049433856840af2,,42,question,responseOptionCR,20042,form,Costa Rica
+430567505049433856840af2,,42,question,responseOptionCU,20042,form,Cuba
+430567505049433856840af2,,42,question,responseOptionCV,20042,form,Cape Verde
+430567505049433856840af2,,42,question,responseOptionCX,20042,form,Christmas Island
+430567505049433856840af2,,42,question,responseOptionCY,20042,form,Cyprus
+430567505049433856840af2,,42,question,responseOptionCZ,20042,form,Czech Republic
+430567505049433856840af2,,42,question,responseOptionDE,20042,form,Germany
+430567505049433856840af2,,42,question,responseOptionDJ,20042,form,Djibouti
+430567505049433856840af2,,42,question,responseOptionDK,20042,form,Denmark
+430567505049433856840af2,,42,question,responseOptionDM,20042,form,Dominica
+430567505049433856840af2,,42,question,responseOptionDO,20042,form,Dominican Republic
+430567505049433856840af2,,42,question,responseOptionDZ,20042,form,Algeria
+430567505049433856840af2,,42,question,responseOptionEC,20042,form,Ecuador
+430567505049433856840af2,,42,question,responseOptionEE,20042,form,Estonia
+430567505049433856840af2,,42,question,responseOptionEG,20042,form,Egypt
+430567505049433856840af2,,42,question,responseOptionEH,20042,form,Western Sahara
+430567505049433856840af2,,42,question,responseOptionER,20042,form,Eritrea
+430567505049433856840af2,,42,question,responseOptionES,20042,form,Spain
+430567505049433856840af2,,42,question,responseOptionET,20042,form,Ethiopia
+430567505049433856840af2,,42,question,responseOptionFI,20042,form,Finland
+430567505049433856840af2,,42,question,responseOptionFJ,20042,form,Fiji
+430567505049433856840af2,,42,question,responseOptionFK,20042,form,Falkland Islands
+430567505049433856840af2,,42,question,responseOptionFM,20042,form,Micronesia
+430567505049433856840af2,,42,question,responseOptionFO,20042,form,Faroe Islands
+430567505049433856840af2,,42,question,responseOptionFR,20042,form,France
+430567505049433856840af2,,42,question,responseOptionGA,20042,form,Gabon
+430567505049433856840af2,,42,question,responseOptionGB,20042,form,United Kingdom
+430567505049433856840af2,,42,question,responseOptionGD,20042,form,Grenada
+430567505049433856840af2,,42,question,responseOptionGE,20042,form,Georgia
+430567505049433856840af2,,42,question,responseOptionGF,20042,form,French Guiana
+430567505049433856840af2,,42,question,responseOptionGG,20042,form,Guernsey
+430567505049433856840af2,,42,question,responseOptionGH,20042,form,Ghana
+430567505049433856840af2,,42,question,responseOptionGI,20042,form,Gibraltar
+430567505049433856840af2,,42,question,responseOptionGL,20042,form,Greenland
+430567505049433856840af2,,42,question,responseOptionGM,20042,form,Gambia
+430567505049433856840af2,,42,question,responseOptionGN,20042,form,Guinea
+430567505049433856840af2,,42,question,responseOptionGP,20042,form,Guadeloupe
+430567505049433856840af2,,42,question,responseOptionGQ,20042,form,Equatorial Guinea
+430567505049433856840af2,,42,question,responseOptionGR,20042,form,Greece
+430567505049433856840af2,,42,question,responseOptionGS,20042,form,South Georgia & Sandwich Islands
+430567505049433856840af2,,42,question,responseOptionGT,20042,form,Guatemala
+430567505049433856840af2,,42,question,responseOptionGU,20042,form,Guam
+430567505049433856840af2,,42,question,responseOptionGW,20042,form,Guinea-Bissau
+430567505049433856840af2,,42,question,responseOptionGY,20042,form,Guyana
+430567505049433856840af2,,42,question,responseOptionHK,20042,form,Hong Kong
+430567505049433856840af2,,42,question,responseOptionHM,20042,form,Heard Island and McDonald Islands
+430567505049433856840af2,,42,question,responseOptionHN,20042,form,Honduras
+430567505049433856840af2,,42,question,responseOptionHR,20042,form,Croatia
+430567505049433856840af2,,42,question,responseOptionHT,20042,form,Haiti
+430567505049433856840af2,,42,question,responseOptionHU,20042,form,Hungary
+430567505049433856840af2,,42,question,responseOptionID,20042,form,Indonesia
+430567505049433856840af2,,42,question,responseOptionIE,20042,form,Ireland
+430567505049433856840af2,,42,question,responseOptionIL,20042,form,Israel
+430567505049433856840af2,,42,question,responseOptionIM,20042,form,Isle of Man
+430567505049433856840af2,,42,question,responseOptionIN,20042,form,India
+430567505049433856840af2,,42,question,responseOptionIO,20042,form,British Indian Ocean Territory
+430567505049433856840af2,,42,question,responseOptionIQ,20042,form,Iraq
+430567505049433856840af2,,42,question,responseOptionIR,20042,form,Iran
+430567505049433856840af2,,42,question,responseOptionIS,20042,form,Iceland
+430567505049433856840af2,,42,question,responseOptionIT,20042,form,Italy
+430567505049433856840af2,,42,question,responseOptionJE,20042,form,Jersey
+430567505049433856840af2,,42,question,responseOptionJM,20042,form,Jamaica
+430567505049433856840af2,,42,question,responseOptionJO,20042,form,Jordan
+430567505049433856840af2,,42,question,responseOptionJP,20042,form,Japan
+430567505049433856840af2,,42,question,responseOptionKE,20042,form,Kenya
+430567505049433856840af2,,42,question,responseOptionKG,20042,form,Kyrgyzstan
+430567505049433856840af2,,42,question,responseOptionKH,20042,form,Cambodia
+430567505049433856840af2,,42,question,responseOptionKI,20042,form,Kiribati
+430567505049433856840af2,,42,question,responseOptionKM,20042,form,Comoros
+430567505049433856840af2,,42,question,responseOptionKN,20042,form,Saint Kitts and Nevis
+430567505049433856840af2,,42,question,responseOptionKP,20042,form,Korea (North)
+430567505049433856840af2,,42,question,responseOptionKR,20042,form,Korea (South)
+430567505049433856840af2,,42,question,responseOptionKW,20042,form,Kuwait
+430567505049433856840af2,,42,question,responseOptionKY,20042,form,Cayman Islands
+430567505049433856840af2,,42,question,responseOptionKZ,20042,form,Kazakhstan
+430567505049433856840af2,,42,question,responseOptionLA,20042,form,Laos
+430567505049433856840af2,,42,question,responseOptionLB,20042,form,Lebanon
+430567505049433856840af2,,42,question,responseOptionLC,20042,form,Saint Lucia
+430567505049433856840af2,,42,question,responseOptionLI,20042,form,Liechtenstein
+430567505049433856840af2,,42,question,responseOptionLK,20042,form,Sri Lanka
+430567505049433856840af2,,42,question,responseOptionLR,20042,form,Liberia
+430567505049433856840af2,,42,question,responseOptionLS,20042,form,Lesotho
+430567505049433856840af2,,42,question,responseOptionLT,20042,form,Lithuania
+430567505049433856840af2,,42,question,responseOptionLU,20042,form,Luxembourg
+430567505049433856840af2,,42,question,responseOptionLV,20042,form,Latvia
+430567505049433856840af2,,42,question,responseOptionLY,20042,form,Libya
+430567505049433856840af2,,42,question,responseOptionMA,20042,form,Morocco
+430567505049433856840af2,,42,question,responseOptionMC,20042,form,Monaco
+430567505049433856840af2,,42,question,responseOptionMD,20042,form,Moldova
+430567505049433856840af2,,42,question,responseOptionME,20042,form,Montenegro
+430567505049433856840af2,,42,question,responseOptionMF,20042,form,Saint Martin
+430567505049433856840af2,,42,question,responseOptionMG,20042,form,Madagascar
+430567505049433856840af2,,42,question,responseOptionMH,20042,form,Marshall Islands
+430567505049433856840af2,,42,question,responseOptionMK,20042,form,Macedonia
+430567505049433856840af2,,42,question,responseOptionML,20042,form,Mali
+430567505049433856840af2,,42,question,responseOptionMM,20042,form,Myanmar
+430567505049433856840af2,,42,question,responseOptionMN,20042,form,Mongolia
+430567505049433856840af2,,42,question,responseOptionMO,20042,form,Macao
+430567505049433856840af2,,42,question,responseOptionMP,20042,form,Northern Mariana Islands
+430567505049433856840af2,,42,question,responseOptionMQ,20042,form,Martinique
+430567505049433856840af2,,42,question,responseOptionMR,20042,form,Mauritania
+430567505049433856840af2,,42,question,responseOptionMS,20042,form,Montserrat
+430567505049433856840af2,,42,question,responseOptionMT,20042,form,Malta
+430567505049433856840af2,,42,question,responseOptionMU,20042,form,Mauritius
+430567505049433856840af2,,42,question,responseOptionMV,20042,form,Maldives
+430567505049433856840af2,,42,question,responseOptionMW,20042,form,Malawi
+430567505049433856840af2,,42,question,responseOptionMX,20042,form,Mexico
+430567505049433856840af2,,42,question,responseOptionMY,20042,form,Malaysia
+430567505049433856840af2,,42,question,responseOptionMZ,20042,form,Mozambique
+430567505049433856840af2,,42,question,responseOptionNA,20042,form,Namibia
+430567505049433856840af2,,42,question,responseOptionNC,20042,form,New Caledonia
+430567505049433856840af2,,42,question,responseOptionNE,20042,form,Niger
+430567505049433856840af2,,42,question,responseOptionNF,20042,form,Norfolk Island
+430567505049433856840af2,,42,question,responseOptionNG,20042,form,Nigeria
+430567505049433856840af2,,42,question,responseOptionNI,20042,form,Nicaragua
+430567505049433856840af2,,42,question,responseOptionNL,20042,form,Netherlands
+430567505049433856840af2,,42,question,responseOptionNO,20042,form,Norway
+430567505049433856840af2,,42,question,responseOptionNP,20042,form,Nepal
+430567505049433856840af2,,42,question,responseOptionNR,20042,form,Nauru
+430567505049433856840af2,,42,question,responseOptionNU,20042,form,Niue
+430567505049433856840af2,,42,question,responseOptionNZ,20042,form,New Zealand
+430567505049433856840af2,,42,question,responseOptionOM,20042,form,Oman
+430567505049433856840af2,,42,question,responseOptionPA,20042,form,Panama
+430567505049433856840af2,,42,question,responseOptionPE,20042,form,Peru
+430567505049433856840af2,,42,question,responseOptionPF,20042,form,French Polynesia
+430567505049433856840af2,,42,question,responseOptionPG,20042,form,Papua New Guinea
+430567505049433856840af2,,42,question,responseOptionPH,20042,form,Philippines
+430567505049433856840af2,,42,question,responseOptionPK,20042,form,Pakistan
+430567505049433856840af2,,42,question,responseOptionPL,20042,form,Poland
+430567505049433856840af2,,42,question,responseOptionPM,20042,form,Saint Pierre and Miquelon
+430567505049433856840af2,,42,question,responseOptionPN,20042,form,Pitcairn
+430567505049433856840af2,,42,question,responseOptionPR,20042,form,Puerto Rico
+430567505049433856840af2,,42,question,responseOptionPS,20042,form,Palestinian Territories
+430567505049433856840af2,,42,question,responseOptionPT,20042,form,Portugal
+430567505049433856840af2,,42,question,responseOptionPW,20042,form,Palau
+430567505049433856840af2,,42,question,responseOptionPY,20042,form,Paraguay
+430567505049433856840af2,,42,question,responseOptionQA,20042,form,Qatar
+430567505049433856840af2,,42,question,responseOptionRE,20042,form,Réunion
+430567505049433856840af2,,42,question,responseOptionRO,20042,form,Romania
+430567505049433856840af2,,42,question,responseOptionRS,20042,form,Serbia
+430567505049433856840af2,,42,question,responseOptionRU,20042,form,Russia
+430567505049433856840af2,,42,question,responseOptionRW,20042,form,Rwanda
+430567505049433856840af2,,42,question,responseOptionSA,20042,form,Saudi Arabia
+430567505049433856840af2,,42,question,responseOptionSB,20042,form,Solomon Islands
+430567505049433856840af2,,42,question,responseOptionSC,20042,form,Seychelles
+430567505049433856840af2,,42,question,responseOptionSD,20042,form,Sudan
+430567505049433856840af2,,42,question,responseOptionSE,20042,form,Sweden
+430567505049433856840af2,,42,question,responseOptionSG,20042,form,Singapore
+430567505049433856840af2,,42,question,responseOptionSH,20042,form,Saint Helena
+430567505049433856840af2,,42,question,responseOptionSI,20042,form,Slovenia
+430567505049433856840af2,,42,question,responseOptionSJ,20042,form,Svalbard and Jan Mayen
+430567505049433856840af2,,42,question,responseOptionSK,20042,form,Slovakia
+430567505049433856840af2,,42,question,responseOptionSL,20042,form,Sierra Leone
+430567505049433856840af2,,42,question,responseOptionSM,20042,form,San Marino
+430567505049433856840af2,,42,question,responseOptionSN,20042,form,Senegal
+430567505049433856840af2,,42,question,responseOptionSO,20042,form,Somalia
+430567505049433856840af2,,42,question,responseOptionSR,20042,form,Suriname
+430567505049433856840af2,,42,question,responseOptionST,20042,form,Sao Tome and Principe
+430567505049433856840af2,,42,question,responseOptionSV,20042,form,El Salvador
+430567505049433856840af2,,42,question,responseOptionSY,20042,form,Syrian Arab Republic
+430567505049433856840af2,,42,question,responseOptionSZ,20042,form,Swaziland
+430567505049433856840af2,,42,question,responseOptionTC,20042,form,Turks and Caicos Islands
+430567505049433856840af2,,42,question,responseOptionTD,20042,form,Chad
+430567505049433856840af2,,42,question,responseOptionTF,20042,form,French Southern Territories
+430567505049433856840af2,,42,question,responseOptionTG,20042,form,Togo
+430567505049433856840af2,,42,question,responseOptionTH,20042,form,Thailand
+430567505049433856840af2,,42,question,responseOptionTJ,20042,form,Tajikistan
+430567505049433856840af2,,42,question,responseOptionTK,20042,form,Tokelau
+430567505049433856840af2,,42,question,responseOptionTL,20042,form,Timor-Leste
+430567505049433856840af2,,42,question,responseOptionTM,20042,form,Turkmenistan
+430567505049433856840af2,,42,question,responseOptionTN,20042,form,Tunisia
+430567505049433856840af2,,42,question,responseOptionTO,20042,form,Tonga
+430567505049433856840af2,,42,question,responseOptionTR,20042,form,Turkey
+430567505049433856840af2,,42,question,responseOptionTT,20042,form,Trinidad and Tobago
+430567505049433856840af2,,42,question,responseOptionTV,20042,form,Tuvalu
+430567505049433856840af2,,42,question,responseOptionTW,20042,form,Taiwan
+430567505049433856840af2,,42,question,responseOptionTZ,20042,form,Tanzania
+430567505049433856840af2,,42,question,responseOptionUA,20042,form,Ukraine
+430567505049433856840af2,,42,question,responseOptionUG,20042,form,Uganda
+430567505049433856840af2,,42,question,responseOptionUM,20042,form,United States Minor Islands
+430567505049433856840af2,,42,question,responseOptionUS,20042,form,United States
+430567505049433856840af2,,42,question,responseOptionUY,20042,form,Uruguay
+430567505049433856840af2,,42,question,responseOptionUZ,20042,form,Uzbekistan
+430567505049433856840af2,,42,question,responseOptionVA,20042,form,Holy See
+430567505049433856840af2,,42,question,responseOptionVC,20042,form,Saint Vincent and the Grenadines
+430567505049433856840af2,,42,question,responseOptionVE,20042,form,Venezuela
+430567505049433856840af2,,42,question,responseOptionVG,20042,form,British Virgin Islands
+430567505049433856840af2,,42,question,responseOptionVI,20042,form,United States Virgin Islands
+430567505049433856840af2,,42,question,responseOptionVN,20042,form,Vietnam
+430567505049433856840af2,,42,question,responseOptionVU,20042,form,Vanuatu
+430567505049433856840af2,,42,question,responseOptionWF,20042,form,Wallis and Futuna
+430567505049433856840af2,,42,question,responseOptionWS,20042,form,Samoa
+430567505049433856840af2,,42,question,responseOptionYE,20042,form,Yemen
+430567505049433856840af2,,42,question,responseOptionYT,20042,form,Mayotte
+430567505049433856840af2,,42,question,responseOptionZA,20042,form,"South Africa, Republic of"
+430567505049433856840af2,,42,question,responseOptionZM,20042,form,Zambia
+430567505049433856840af2,,42,question,responseOptionZW,20042,form,Zimbabwe
+429bef50504943eb322bdd0d,,43,question,questionText,20042,form,Phone Number
+429bef50504943b35cdae695,,48,question,questionText,20042,form,What is the name of your parent company?
+429bef505049433c6a6d628c,,49,question,questionText,20042,form,What is your subsidiary company's name(s)?
+42ddda5050494374348c32b9,,61,question,questionText,20042,form,Your Procurement Contact: \nName:
+429bef5050494341b8af6c98,,72,question,description,20042,form,"Examples: Chief Executive Officer (CEO), President, Owner, etc."
+429bef5050494341b8af6c98,,72,question,questionText,20042,form,Head of Organization:
+429bef5050494377b8aa0bb0,,74,question,description,20042,form,"Examples: Chief Operating Officer (COO), V.P. of Operations, Operations Manager, etc."
+429bef5050494377b8aa0bb0,,74,question,questionText,20042,form,Head of Operations:
+429bef50504943eb11a93205,,75,question,description,20042,form,This person may be an employee of the company or an appointed consultant.
+429bef50504943eb11a93205,,75,question,questionText,20042,form,Safety Manager:
+42d894505049437cc7644d35,,76,question,questionText,20042,form,Senior Safety Professional (if different than Primary Point of Contact above): \nName:
+429bef5050494394bf4d2bf8,,86,question,questionText,20042,form,Are any legal claims currently outstanding against your company?
+429bef5050494394bf4d2bf8,,86,question,responseOptionNo,20042,form,No
+429bef5050494394bf4d2bf8,,86,question,responseOptionYes,20042,form,Yes
+429bef50504943ba12a29916,,88,question,questionText,20042,form,"Is your company, or any of its directors, currently involved in bankruptcy proceedings?"
+429bef50504943ba12a29916,,88,question,responseOptionNo,20042,form,No
+429bef50504943ba12a29916,,88,question,responseOptionYes,20042,form,Yes
+5cd07c3f350000b2fc5bff3d,4b0c1627504943844f2cd9cf,376,questionGroup,description,20042,form,This data helps clients to identify and communicate with the right people in your organization.
+5cd07c3f350000b2fc5bff3d,4b0c1627504943844f2cd9cf,376,questionGroup,questionGroupText,20042,form,Company Contacts
+433f695050494320245aa5af,,622,question,questionText,20042,form,Phone:
+433f695050494364cfd81b56,,623,question,questionText,20042,form,Address:
+42d894505049432a1a1a3443,,624,question,questionText,20042,form,Email:
+42ddda50504943d72a372def,,629,question,questionText,20042,form,Phone:
+42ddda505049435e67327ab4,,630,question,questionText,20042,form,Email:
+436af8e0504943ff4dd54ab7,,646,question,questionText,20042,form,Address
+430567505049432c8e2ee645,,647,question,questionText,20042,form,City / Town
+430567505049436ad2c3b7bb,,649,question,questionText,20042,form,Country
+430567505049436ad2c3b7bb,,649,question,responseOptionAD,20042,form,Andorra
+430567505049436ad2c3b7bb,,649,question,responseOptionAE,20042,form,United Arab Emirates
+430567505049436ad2c3b7bb,,649,question,responseOptionAF,20042,form,Afghanistan
+430567505049436ad2c3b7bb,,649,question,responseOptionAG,20042,form,Antigua and Barbuda
+430567505049436ad2c3b7bb,,649,question,responseOptionAI,20042,form,Anguilla
+430567505049436ad2c3b7bb,,649,question,responseOptionAL,20042,form,Albania
+430567505049436ad2c3b7bb,,649,question,responseOptionAM,20042,form,Armenia
+430567505049436ad2c3b7bb,,649,question,responseOptionAN,20042,form,Netherlands Antilles
+430567505049436ad2c3b7bb,,649,question,responseOptionAO,20042,form,Angola
+430567505049436ad2c3b7bb,,649,question,responseOptionAQ,20042,form,Antarctica
+430567505049436ad2c3b7bb,,649,question,responseOptionAR,20042,form,Argentina
+430567505049436ad2c3b7bb,,649,question,responseOptionAS,20042,form,American Samoa
+430567505049436ad2c3b7bb,,649,question,responseOptionAT,20042,form,Austria
+430567505049436ad2c3b7bb,,649,question,responseOptionAU,20042,form,Australia
+430567505049436ad2c3b7bb,,649,question,responseOptionAW,20042,form,Aruba
+430567505049436ad2c3b7bb,,649,question,responseOptionAX,20042,form,Åland Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionAZ,20042,form,Azerbaijan
+430567505049436ad2c3b7bb,,649,question,responseOptionBA,20042,form,Bosnia and Herzegovina
+430567505049436ad2c3b7bb,,649,question,responseOptionBB,20042,form,Barbados
+430567505049436ad2c3b7bb,,649,question,responseOptionBD,20042,form,Bangladesh
+430567505049436ad2c3b7bb,,649,question,responseOptionBE,20042,form,Belgium
+430567505049436ad2c3b7bb,,649,question,responseOptionBF,20042,form,Burkina Faso
+430567505049436ad2c3b7bb,,649,question,responseOptionBG,20042,form,Bulgaria
+430567505049436ad2c3b7bb,,649,question,responseOptionBH,20042,form,Bahrain
+430567505049436ad2c3b7bb,,649,question,responseOptionBI,20042,form,Burundi
+430567505049436ad2c3b7bb,,649,question,responseOptionBJ,20042,form,Benin
+430567505049436ad2c3b7bb,,649,question,responseOptionBL,20042,form,Saint Barthélemy
+430567505049436ad2c3b7bb,,649,question,responseOptionBM,20042,form,Bermuda
+430567505049436ad2c3b7bb,,649,question,responseOptionBN,20042,form,Brunei Darussalam
+430567505049436ad2c3b7bb,,649,question,responseOptionBO,20042,form,Bolivia
+430567505049436ad2c3b7bb,,649,question,responseOptionBR,20042,form,Brazil
+430567505049436ad2c3b7bb,,649,question,responseOptionBS,20042,form,Bahamas
+430567505049436ad2c3b7bb,,649,question,responseOptionBT,20042,form,Bhutan
+430567505049436ad2c3b7bb,,649,question,responseOptionBV,20042,form,Bouvet Island
+430567505049436ad2c3b7bb,,649,question,responseOptionBW,20042,form,Botswana
+430567505049436ad2c3b7bb,,649,question,responseOptionBY,20042,form,Belarus
+430567505049436ad2c3b7bb,,649,question,responseOptionBZ,20042,form,Belize
+430567505049436ad2c3b7bb,,649,question,responseOptionCA,20042,form,Canada
+430567505049436ad2c3b7bb,,649,question,responseOptionCC,20042,form,Cocos (Keeling) Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionCD,20042,form,"Congo, Democratic Republic of the"
+430567505049436ad2c3b7bb,,649,question,responseOptionCF,20042,form,Central African Republic
+430567505049436ad2c3b7bb,,649,question,responseOptionCG,20042,form,"Congo, Republic of the"
+430567505049436ad2c3b7bb,,649,question,responseOptionCH,20042,form,Switzerland
+430567505049436ad2c3b7bb,,649,question,responseOptionCI,20042,form,Côte d'Ivoire
+430567505049436ad2c3b7bb,,649,question,responseOptionCK,20042,form,Cook Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionCL,20042,form,Chile
+430567505049436ad2c3b7bb,,649,question,responseOptionCM,20042,form,Cameroon
+430567505049436ad2c3b7bb,,649,question,responseOptionCN,20042,form,China
+430567505049436ad2c3b7bb,,649,question,responseOptionCO,20042,form,Colombia
+430567505049436ad2c3b7bb,,649,question,responseOptionCR,20042,form,Costa Rica
+430567505049436ad2c3b7bb,,649,question,responseOptionCU,20042,form,Cuba
+430567505049436ad2c3b7bb,,649,question,responseOptionCV,20042,form,Cape Verde
+430567505049436ad2c3b7bb,,649,question,responseOptionCX,20042,form,Christmas Island
+430567505049436ad2c3b7bb,,649,question,responseOptionCY,20042,form,Cyprus
+430567505049436ad2c3b7bb,,649,question,responseOptionCZ,20042,form,Czech Republic
+430567505049436ad2c3b7bb,,649,question,responseOptionDE,20042,form,Germany
+430567505049436ad2c3b7bb,,649,question,responseOptionDJ,20042,form,Djibouti
+430567505049436ad2c3b7bb,,649,question,responseOptionDK,20042,form,Denmark
+430567505049436ad2c3b7bb,,649,question,responseOptionDM,20042,form,Dominica
+430567505049436ad2c3b7bb,,649,question,responseOptionDO,20042,form,Dominican Republic
+430567505049436ad2c3b7bb,,649,question,responseOptionDZ,20042,form,Algeria
+430567505049436ad2c3b7bb,,649,question,responseOptionEC,20042,form,Ecuador
+430567505049436ad2c3b7bb,,649,question,responseOptionEE,20042,form,Estonia
+430567505049436ad2c3b7bb,,649,question,responseOptionEG,20042,form,Egypt
+430567505049436ad2c3b7bb,,649,question,responseOptionEH,20042,form,Western Sahara
+430567505049436ad2c3b7bb,,649,question,responseOptionER,20042,form,Eritrea
+430567505049436ad2c3b7bb,,649,question,responseOptionES,20042,form,Spain
+430567505049436ad2c3b7bb,,649,question,responseOptionET,20042,form,Ethiopia
+430567505049436ad2c3b7bb,,649,question,responseOptionFI,20042,form,Finland
+430567505049436ad2c3b7bb,,649,question,responseOptionFJ,20042,form,Fiji
+430567505049436ad2c3b7bb,,649,question,responseOptionFK,20042,form,Falkland Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionFM,20042,form,Micronesia
+430567505049436ad2c3b7bb,,649,question,responseOptionFO,20042,form,Faroe Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionFR,20042,form,France
+430567505049436ad2c3b7bb,,649,question,responseOptionGA,20042,form,Gabon
+430567505049436ad2c3b7bb,,649,question,responseOptionGB,20042,form,United Kingdom
+430567505049436ad2c3b7bb,,649,question,responseOptionGD,20042,form,Grenada
+430567505049436ad2c3b7bb,,649,question,responseOptionGE,20042,form,Georgia
+430567505049436ad2c3b7bb,,649,question,responseOptionGF,20042,form,French Guiana
+430567505049436ad2c3b7bb,,649,question,responseOptionGG,20042,form,Guernsey
+430567505049436ad2c3b7bb,,649,question,responseOptionGH,20042,form,Ghana
+430567505049436ad2c3b7bb,,649,question,responseOptionGI,20042,form,Gibraltar
+430567505049436ad2c3b7bb,,649,question,responseOptionGL,20042,form,Greenland
+430567505049436ad2c3b7bb,,649,question,responseOptionGM,20042,form,Gambia
+430567505049436ad2c3b7bb,,649,question,responseOptionGN,20042,form,Guinea
+430567505049436ad2c3b7bb,,649,question,responseOptionGP,20042,form,Guadeloupe
+430567505049436ad2c3b7bb,,649,question,responseOptionGQ,20042,form,Equatorial Guinea
+430567505049436ad2c3b7bb,,649,question,responseOptionGR,20042,form,Greece
+430567505049436ad2c3b7bb,,649,question,responseOptionGS,20042,form,South Georgia & Sandwich Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionGT,20042,form,Guatemala
+430567505049436ad2c3b7bb,,649,question,responseOptionGU,20042,form,Guam
+430567505049436ad2c3b7bb,,649,question,responseOptionGW,20042,form,Guinea-Bissau
+430567505049436ad2c3b7bb,,649,question,responseOptionGY,20042,form,Guyana
+430567505049436ad2c3b7bb,,649,question,responseOptionHK,20042,form,Hong Kong
+430567505049436ad2c3b7bb,,649,question,responseOptionHM,20042,form,Heard Island and McDonald Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionHN,20042,form,Honduras
+430567505049436ad2c3b7bb,,649,question,responseOptionHR,20042,form,Croatia
+430567505049436ad2c3b7bb,,649,question,responseOptionHT,20042,form,Haiti
+430567505049436ad2c3b7bb,,649,question,responseOptionHU,20042,form,Hungary
+430567505049436ad2c3b7bb,,649,question,responseOptionID,20042,form,Indonesia
+430567505049436ad2c3b7bb,,649,question,responseOptionIE,20042,form,Ireland
+430567505049436ad2c3b7bb,,649,question,responseOptionIL,20042,form,Israel
+430567505049436ad2c3b7bb,,649,question,responseOptionIM,20042,form,Isle of Man
+430567505049436ad2c3b7bb,,649,question,responseOptionIN,20042,form,India
+430567505049436ad2c3b7bb,,649,question,responseOptionIO,20042,form,British Indian Ocean Territory
+430567505049436ad2c3b7bb,,649,question,responseOptionIQ,20042,form,Iraq
+430567505049436ad2c3b7bb,,649,question,responseOptionIR,20042,form,Iran
+430567505049436ad2c3b7bb,,649,question,responseOptionIS,20042,form,Iceland
+430567505049436ad2c3b7bb,,649,question,responseOptionIT,20042,form,Italy
+430567505049436ad2c3b7bb,,649,question,responseOptionJE,20042,form,Jersey
+430567505049436ad2c3b7bb,,649,question,responseOptionJM,20042,form,Jamaica
+430567505049436ad2c3b7bb,,649,question,responseOptionJO,20042,form,Jordan
+430567505049436ad2c3b7bb,,649,question,responseOptionJP,20042,form,Japan
+430567505049436ad2c3b7bb,,649,question,responseOptionKE,20042,form,Kenya
+430567505049436ad2c3b7bb,,649,question,responseOptionKG,20042,form,Kyrgyzstan
+430567505049436ad2c3b7bb,,649,question,responseOptionKH,20042,form,Cambodia
+430567505049436ad2c3b7bb,,649,question,responseOptionKI,20042,form,Kiribati
+430567505049436ad2c3b7bb,,649,question,responseOptionKM,20042,form,Comoros
+430567505049436ad2c3b7bb,,649,question,responseOptionKN,20042,form,Saint Kitts and Nevis
+430567505049436ad2c3b7bb,,649,question,responseOptionKP,20042,form,Korea (North)
+430567505049436ad2c3b7bb,,649,question,responseOptionKR,20042,form,Korea (South)
+430567505049436ad2c3b7bb,,649,question,responseOptionKW,20042,form,Kuwait
+430567505049436ad2c3b7bb,,649,question,responseOptionKY,20042,form,Cayman Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionKZ,20042,form,Kazakhstan
+430567505049436ad2c3b7bb,,649,question,responseOptionLA,20042,form,Laos
+430567505049436ad2c3b7bb,,649,question,responseOptionLB,20042,form,Lebanon
+430567505049436ad2c3b7bb,,649,question,responseOptionLC,20042,form,Saint Lucia
+430567505049436ad2c3b7bb,,649,question,responseOptionLI,20042,form,Liechtenstein
+430567505049436ad2c3b7bb,,649,question,responseOptionLK,20042,form,Sri Lanka
+430567505049436ad2c3b7bb,,649,question,responseOptionLR,20042,form,Liberia
+430567505049436ad2c3b7bb,,649,question,responseOptionLS,20042,form,Lesotho
+430567505049436ad2c3b7bb,,649,question,responseOptionLT,20042,form,Lithuania
+430567505049436ad2c3b7bb,,649,question,responseOptionLU,20042,form,Luxembourg
+430567505049436ad2c3b7bb,,649,question,responseOptionLV,20042,form,Latvia
+430567505049436ad2c3b7bb,,649,question,responseOptionLY,20042,form,Libya
+430567505049436ad2c3b7bb,,649,question,responseOptionMA,20042,form,Morocco
+430567505049436ad2c3b7bb,,649,question,responseOptionMC,20042,form,Monaco
+430567505049436ad2c3b7bb,,649,question,responseOptionMD,20042,form,Moldova
+430567505049436ad2c3b7bb,,649,question,responseOptionME,20042,form,Montenegro
+430567505049436ad2c3b7bb,,649,question,responseOptionMF,20042,form,Saint Martin
+430567505049436ad2c3b7bb,,649,question,responseOptionMG,20042,form,Madagascar
+430567505049436ad2c3b7bb,,649,question,responseOptionMH,20042,form,Marshall Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionMK,20042,form,Macedonia
+430567505049436ad2c3b7bb,,649,question,responseOptionML,20042,form,Mali
+430567505049436ad2c3b7bb,,649,question,responseOptionMM,20042,form,Myanmar
+430567505049436ad2c3b7bb,,649,question,responseOptionMN,20042,form,Mongolia
+430567505049436ad2c3b7bb,,649,question,responseOptionMO,20042,form,Macao
+430567505049436ad2c3b7bb,,649,question,responseOptionMP,20042,form,Northern Mariana Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionMQ,20042,form,Martinique
+430567505049436ad2c3b7bb,,649,question,responseOptionMR,20042,form,Mauritania
+430567505049436ad2c3b7bb,,649,question,responseOptionMS,20042,form,Montserrat
+430567505049436ad2c3b7bb,,649,question,responseOptionMT,20042,form,Malta
+430567505049436ad2c3b7bb,,649,question,responseOptionMU,20042,form,Mauritius
+430567505049436ad2c3b7bb,,649,question,responseOptionMV,20042,form,Maldives
+430567505049436ad2c3b7bb,,649,question,responseOptionMW,20042,form,Malawi
+430567505049436ad2c3b7bb,,649,question,responseOptionMX,20042,form,Mexico
+430567505049436ad2c3b7bb,,649,question,responseOptionMY,20042,form,Malaysia
+430567505049436ad2c3b7bb,,649,question,responseOptionMZ,20042,form,Mozambique
+430567505049436ad2c3b7bb,,649,question,responseOptionNA,20042,form,Namibia
+430567505049436ad2c3b7bb,,649,question,responseOptionNC,20042,form,New Caledonia
+430567505049436ad2c3b7bb,,649,question,responseOptionNE,20042,form,Niger
+430567505049436ad2c3b7bb,,649,question,responseOptionNF,20042,form,Norfolk Island
+430567505049436ad2c3b7bb,,649,question,responseOptionNG,20042,form,Nigeria
+430567505049436ad2c3b7bb,,649,question,responseOptionNI,20042,form,Nicaragua
+430567505049436ad2c3b7bb,,649,question,responseOptionNL,20042,form,Netherlands
+430567505049436ad2c3b7bb,,649,question,responseOptionNO,20042,form,Norway
+430567505049436ad2c3b7bb,,649,question,responseOptionNP,20042,form,Nepal
+430567505049436ad2c3b7bb,,649,question,responseOptionNR,20042,form,Nauru
+430567505049436ad2c3b7bb,,649,question,responseOptionNU,20042,form,Niue
+430567505049436ad2c3b7bb,,649,question,responseOptionNZ,20042,form,New Zealand
+430567505049436ad2c3b7bb,,649,question,responseOptionOM,20042,form,Oman
+430567505049436ad2c3b7bb,,649,question,responseOptionPA,20042,form,Panama
+430567505049436ad2c3b7bb,,649,question,responseOptionPE,20042,form,Peru
+430567505049436ad2c3b7bb,,649,question,responseOptionPF,20042,form,French Polynesia
+430567505049436ad2c3b7bb,,649,question,responseOptionPG,20042,form,Papua New Guinea
+430567505049436ad2c3b7bb,,649,question,responseOptionPH,20042,form,Philippines
+430567505049436ad2c3b7bb,,649,question,responseOptionPK,20042,form,Pakistan
+430567505049436ad2c3b7bb,,649,question,responseOptionPL,20042,form,Poland
+430567505049436ad2c3b7bb,,649,question,responseOptionPM,20042,form,Saint Pierre and Miquelon
+430567505049436ad2c3b7bb,,649,question,responseOptionPN,20042,form,Pitcairn
+430567505049436ad2c3b7bb,,649,question,responseOptionPR,20042,form,Puerto Rico
+430567505049436ad2c3b7bb,,649,question,responseOptionPS,20042,form,Palestinian Territories
+430567505049436ad2c3b7bb,,649,question,responseOptionPT,20042,form,Portugal
+430567505049436ad2c3b7bb,,649,question,responseOptionPW,20042,form,Palau
+430567505049436ad2c3b7bb,,649,question,responseOptionPY,20042,form,Paraguay
+430567505049436ad2c3b7bb,,649,question,responseOptionQA,20042,form,Qatar
+430567505049436ad2c3b7bb,,649,question,responseOptionRE,20042,form,Réunion
+430567505049436ad2c3b7bb,,649,question,responseOptionRO,20042,form,Romania
+430567505049436ad2c3b7bb,,649,question,responseOptionRS,20042,form,Serbia
+430567505049436ad2c3b7bb,,649,question,responseOptionRU,20042,form,Russia
+430567505049436ad2c3b7bb,,649,question,responseOptionRW,20042,form,Rwanda
+430567505049436ad2c3b7bb,,649,question,responseOptionSA,20042,form,Saudi Arabia
+430567505049436ad2c3b7bb,,649,question,responseOptionSB,20042,form,Solomon Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionSC,20042,form,Seychelles
+430567505049436ad2c3b7bb,,649,question,responseOptionSD,20042,form,Sudan
+430567505049436ad2c3b7bb,,649,question,responseOptionSE,20042,form,Sweden
+430567505049436ad2c3b7bb,,649,question,responseOptionSG,20042,form,Singapore
+430567505049436ad2c3b7bb,,649,question,responseOptionSH,20042,form,Saint Helena
+430567505049436ad2c3b7bb,,649,question,responseOptionSI,20042,form,Slovenia
+430567505049436ad2c3b7bb,,649,question,responseOptionSJ,20042,form,Svalbard and Jan Mayen
+430567505049436ad2c3b7bb,,649,question,responseOptionSK,20042,form,Slovakia
+430567505049436ad2c3b7bb,,649,question,responseOptionSL,20042,form,Sierra Leone
+430567505049436ad2c3b7bb,,649,question,responseOptionSM,20042,form,San Marino
+430567505049436ad2c3b7bb,,649,question,responseOptionSN,20042,form,Senegal
+430567505049436ad2c3b7bb,,649,question,responseOptionSO,20042,form,Somalia
+430567505049436ad2c3b7bb,,649,question,responseOptionSR,20042,form,Suriname
+430567505049436ad2c3b7bb,,649,question,responseOptionST,20042,form,Sao Tome and Principe
+430567505049436ad2c3b7bb,,649,question,responseOptionSV,20042,form,El Salvador
+430567505049436ad2c3b7bb,,649,question,responseOptionSY,20042,form,Syrian Arab Republic
+430567505049436ad2c3b7bb,,649,question,responseOptionSZ,20042,form,Swaziland
+430567505049436ad2c3b7bb,,649,question,responseOptionTC,20042,form,Turks and Caicos Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionTD,20042,form,Chad
+430567505049436ad2c3b7bb,,649,question,responseOptionTF,20042,form,French Southern Territories
+430567505049436ad2c3b7bb,,649,question,responseOptionTG,20042,form,Togo
+430567505049436ad2c3b7bb,,649,question,responseOptionTH,20042,form,Thailand
+430567505049436ad2c3b7bb,,649,question,responseOptionTJ,20042,form,Tajikistan
+430567505049436ad2c3b7bb,,649,question,responseOptionTK,20042,form,Tokelau
+430567505049436ad2c3b7bb,,649,question,responseOptionTL,20042,form,Timor-Leste
+430567505049436ad2c3b7bb,,649,question,responseOptionTM,20042,form,Turkmenistan
+430567505049436ad2c3b7bb,,649,question,responseOptionTN,20042,form,Tunisia
+430567505049436ad2c3b7bb,,649,question,responseOptionTO,20042,form,Tonga
+430567505049436ad2c3b7bb,,649,question,responseOptionTR,20042,form,Turkey
+430567505049436ad2c3b7bb,,649,question,responseOptionTT,20042,form,Trinidad and Tobago
+430567505049436ad2c3b7bb,,649,question,responseOptionTV,20042,form,Tuvalu
+430567505049436ad2c3b7bb,,649,question,responseOptionTW,20042,form,Taiwan
+430567505049436ad2c3b7bb,,649,question,responseOptionTZ,20042,form,Tanzania
+430567505049436ad2c3b7bb,,649,question,responseOptionUA,20042,form,Ukraine
+430567505049436ad2c3b7bb,,649,question,responseOptionUG,20042,form,Uganda
+430567505049436ad2c3b7bb,,649,question,responseOptionUM,20042,form,United States Minor Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionUS,20042,form,United States
+430567505049436ad2c3b7bb,,649,question,responseOptionUY,20042,form,Uruguay
+430567505049436ad2c3b7bb,,649,question,responseOptionUZ,20042,form,Uzbekistan
+430567505049436ad2c3b7bb,,649,question,responseOptionVA,20042,form,Holy See
+430567505049436ad2c3b7bb,,649,question,responseOptionVC,20042,form,Saint Vincent and the Grenadines
+430567505049436ad2c3b7bb,,649,question,responseOptionVE,20042,form,Venezuela
+430567505049436ad2c3b7bb,,649,question,responseOptionVG,20042,form,British Virgin Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionVI,20042,form,United States Virgin Islands
+430567505049436ad2c3b7bb,,649,question,responseOptionVN,20042,form,Vietnam
+430567505049436ad2c3b7bb,,649,question,responseOptionVU,20042,form,Vanuatu
+430567505049436ad2c3b7bb,,649,question,responseOptionWF,20042,form,Wallis and Futuna
+430567505049436ad2c3b7bb,,649,question,responseOptionWS,20042,form,Samoa
+430567505049436ad2c3b7bb,,649,question,responseOptionYE,20042,form,Yemen
+430567505049436ad2c3b7bb,,649,question,responseOptionYT,20042,form,Mayotte
+430567505049436ad2c3b7bb,,649,question,responseOptionZA,20042,form,"South Africa, Republic of"
+430567505049436ad2c3b7bb,,649,question,responseOptionZM,20042,form,Zambia
+430567505049436ad2c3b7bb,,649,question,responseOptionZW,20042,form,Zimbabwe
+432116d050494376fb11b444,,822,question,questionText,20042,form,Postal Code / Zip Code
+436af8e0504943cb72b5fd74,,871,question,questionText,20042,form,Mailing Address: \nMailing address is same as physical address
+436af8e0504943cb72b5fd74,,871,question,responseOptionNo,20042,form,No
+436af8e0504943cb72b5fd74,,871,question,responseOptionYes,20042,form,Yes
+5cb77de2350000cebc9c622d,4cb1a88c504943c6d6b94c81,1141,questionGroup,questionGroupText,20042,form,Contact Information
+4508e1d0504943db0e81aed2,,1436,question,questionText,20042,form,Senior Environmental Professional (if different than Primary Point of Contact above): \nName:
+4508e1d0504943d73dbf27d7,,1437,question,questionText,20042,form,Email:
+4508e1d0504943360ea0cf98,,1438,question,questionText,20042,form,Phone:
+4508e1d050494391e3e701b9,,1439,question,questionText,20042,form,Address:
+4508e1d0504943dd5e9dd472,,1440,question,questionText,20042,form,Could any labor issues interfere with your company's work?
+4508e1d0504943dd5e9dd472,,1440,question,responseOptionNo,20042,form,No
+4508e1d0504943dd5e9dd472,,1440,question,responseOptionYes,20042,form,Yes
+4508e1d05049436d0a37b506,,1441,question,questionText,20042,form,"If yes, please explain. Be sure to identify which of the Avetta consortium sites may be affected by this labor issue."
+45346350504943bc903c4443,,1452,question,questionText,20042,form,Title:
+45346350504943c7a5516c40,,1453,question,questionText,20042,form,Title:
+454040d050494329d116e67f,,1462,question,questionText,20042,form,Has your company or any director of your company ever been charged with or prosecuted for an offense related to corporate finance?
+454040d050494329d116e67f,,1462,question,responseOptionNo,20042,form,No
+454040d050494329d116e67f,,1462,question,responseOptionYes,20042,form,Yes
+5d374ed93500002f3caceb55,4de009255049439eac687781,1716,questionGroup,questionGroupText,20042,form,General Information
+5dd46cbc330000043163adc9,4fa8e38a50494381a13237a4,2627,questionGroup,questionGroupText,20042,form,Labor
+673e21d00100003500a7fddb,5aad73132400001400183dc5,20042,questionGroup,questionGroupText,20042,form,Avetta PQF - General Company Information
+5203cabb50494367c4ddae3b,,20156,question,questionText,20042,form,State / Province
+5203cd9b5049433d18686edb,,20157,question,questionText,20042,form,State / Province
+527bd006504943209259c8ea,,21780,question,description,20042,form,<a href='https://www.iso.org/iso/home/standards/currency_codes.htm' target='_BLANK'>ISO Currency Code Information and Lists</a>
+527bd006504943209259c8ea,,21780,question,questionText,20042,form,Please select the currency that coincides with the monetary values you will provide below:
+527bd006504943209259c8ea,,21780,question,responseOption1,20042,form,JPY - Japanese Yen
+527bd006504943209259c8ea,,21780,question,responseOptionAED,20042,form,AED - UAE Dirham
+527bd006504943209259c8ea,,21780,question,responseOptionARS,20042,form,ARS - Argentine Peso
+527bd006504943209259c8ea,,21780,question,responseOptionAUD,20042,form,AUD - Australian Dollar
+527bd006504943209259c8ea,,21780,question,responseOptionBRL,20042,form,BRL - Brazillian Real
+527bd006504943209259c8ea,,21780,question,responseOptionCAD,20042,form,CAD - Canadian Dollar
+527bd006504943209259c8ea,,21780,question,responseOptionCHE,20042,form,CHE - WIR Euro
+527bd006504943209259c8ea,,21780,question,responseOptionCHF,20042,form,CHF - Swiss Franc
+527bd006504943209259c8ea,,21780,question,responseOptionCHW,20042,form,CHW - WIR Franc
+527bd006504943209259c8ea,,21780,question,responseOptionCLF,20042,form,CLF - Unidad de Fomento
+527bd006504943209259c8ea,,21780,question,responseOptionCLP,20042,form,CLP - Chilean Peso
+527bd006504943209259c8ea,,21780,question,responseOptionCNY,20042,form,CNY - Yuan Renminbi
+527bd006504943209259c8ea,,21780,question,responseOptionDKK,20042,form,DKK - Danish Krone
+527bd006504943209259c8ea,,21780,question,responseOptionEUR,20042,form,EUR - Euro
+527bd006504943209259c8ea,,21780,question,responseOptionGBP,20042,form,GBP - Pound Sterling
+527bd006504943209259c8ea,,21780,question,responseOptionHKD,20042,form,HKD - Hong Kong Dollar
+527bd006504943209259c8ea,,21780,question,responseOptionHUF,20042,form,HUF - Forint
+527bd006504943209259c8ea,,21780,question,responseOptionILS,20042,form,ILS - New Israeli Sheqel
+527bd006504943209259c8ea,,21780,question,responseOptionINR,20042,form,INR - Indian Rupee
+527bd006504943209259c8ea,,21780,question,responseOptionMXN,20042,form,MXN - Mexican Peso
+527bd006504943209259c8ea,,21780,question,responseOptionMXV,20042,form,MXV - Mexican Unidad de Inversion (UDI)
+527bd006504943209259c8ea,,21780,question,responseOptionNOK,20042,form,NOK - Norwegian Krone
+527bd006504943209259c8ea,,21780,question,responseOptionNZD,20042,form,NZD - New Zealand Dollar
+527bd006504943209259c8ea,,21780,question,responseOptionOtherCurrency,20042,form,Other
+527bd006504943209259c8ea,,21780,question,responseOptionPLN,20042,form,PLN - Zloty
+527bd006504943209259c8ea,,21780,question,responseOptionRUB,20042,form,RUB - Russian Ruble
+527bd006504943209259c8ea,,21780,question,responseOptionSEK,20042,form,SEK - Swedish Krone
+527bd006504943209259c8ea,,21780,question,responseOptionSGD,20042,form,SGD - Singapore Dollar
+527bd006504943209259c8ea,,21780,question,responseOptionTRY,20042,form,TRY - Turkish Lira
+527bd006504943209259c8ea,,21780,question,responseOptionUSD,20042,form,USD - U.S. Dollar
+527bd006504943209259c8ea,,21780,question,responseOptionZAR,20042,form,ZAR - Rand
+527bd27e504943abdb1f338c,,21782,question,questionText,20042,form,Please specify the currency your company will be using if it is not listed:
+52a0be2c50494375b4f69106,,21986,question,questionText,20042,form,Address (continued)
+52a0c0065049438fb8cae81c,,21987,question,questionText,20042,form,Address (continued)
+53a1f1e2504943b95a75cdc4,,23783,question,description,20042,form,The most senior sales point of contact at your organization for any new business from any Avetta consortium members.\n\r\nPlease note that this contact may receive inbound inquiries from Avetta consortium members wanting to learn more about your company.
+53a1f1e2504943b95a75cdc4,,23783,question,questionText,20042,form,Senior sales contact for any new business from any Avetta consortium member. \nName:
+53a1f1ff50494310f6c36718,,23784,question,questionText,20042,form,Title:
+53a1f213504943be206c6af4,,23785,question,questionText,20042,form,Email:
+53a1f22c504943c3b69d5046,,23786,question,questionText,20042,form,Phone:
+54650907504943126af6b362,,26839,question,questionText,20042,form,Please provide details of offence related to corporate finance:
+546509a9504943ca41ff2b7a,,26840,question,questionText,20042,form,Please provide details of outstanding legal claims against your company:
+54650a56504943ad1653eba5,,26841,question,questionText,20042,form,Please upload details of bankruptcy proceedings:
+548f6612504943ee0c20ca75,,27861,question,questionText,20042,form,Does your company have any subsidiaries?
+548f6612504943ee0c20ca75,,27861,question,responseOptionNo,20042,form,No
+548f6612504943ee0c20ca75,,27861,question,responseOptionYes,20042,form,Yes
+5670af1950494340a53438a2,,35667,question,questionText,20042,form,Senior Quality Management Professional (if different than Primary Point of Contact above): \nName:
+5670af2f50494333295327ab,,35668,question,questionText,20042,form,Title:
+5670af45504943f648f5f405,,35669,question,questionText,20042,form,Phone:
+5670af5b504943eaeab4b75e,,35670,question,questionText,20042,form,Address:
+5670af6b504943b6d57407d1,,35671,question,questionText,20042,form,Email:
+5670b460504943ffa5c2223d,,35672,question,questionText,20042,form,In what year was your company established?
+5670b88c504943bbbb644436,,35673,question,questionText,20042,form,Primary Point of Contact for your Company: \nName:
+5670b8d9504943a221fddbdf,,35674,question,questionText,20042,form,Title:
+5670b8ef5049432ee6b0ebb5,,35675,question,questionText,20042,form,Phone:
+5670b902504943f7e7d4c39a,,35676,question,questionText,20042,form,Address:
+5670b911504943401a923b23,,35677,question,questionText,20042,form,Email:
+5670ba735049432ad7ef833a,,35678,question,questionText,20042,form,Does your company have a senior safety professional?
+5670ba735049432ad7ef833a,,35678,question,responseOptionNA,20042,form,N/A
+5670ba735049432ad7ef833a,,35678,question,responseOptionNo,20042,form,No
+5670ba735049432ad7ef833a,,35678,question,responseOptionYes,20042,form,Yes
+5670bab75049435d0ad2a914,,35679,question,questionText,20042,form,Does your company have a senior environmental professional?
+5670bab75049435d0ad2a914,,35679,question,responseOptionNA,20042,form,N/A
+5670bab75049435d0ad2a914,,35679,question,responseOptionNo,20042,form,No
+5670bab75049435d0ad2a914,,35679,question,responseOptionYes,20042,form,Yes
+5670bae6504943262e16ef77,,35680,question,questionText,20042,form,Does your company have a senior quality management professional?
+5670bae6504943262e16ef77,,35680,question,responseOptionNA,20042,form,N/A
+5670bae6504943262e16ef77,,35680,question,responseOptionNo,20042,form,No
+5670bae6504943262e16ef77,,35680,question,responseOptionYes,20042,form,Yes
+5670bb03504943e0204bd42f,,35681,question,questionText,20042,form,Does your company have a procurement contact?
+5670bb03504943e0204bd42f,,35681,question,responseOptionNA,20042,form,N/A
+5670bb03504943e0204bd42f,,35681,question,responseOptionNo,20042,form,No
+5670bb03504943e0204bd42f,,35681,question,responseOptionYes,20042,form,Yes

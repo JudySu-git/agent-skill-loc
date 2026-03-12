@@ -1,0 +1,9 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87737a36b6c4c635466b4,69a87737a36b6c4c635466b3,51147,questionGroup,questionGroupText,51147,form,建筑施工 - 起重作业,
+69a87736a36b6c4c635466b0,,199985,question,description,51147,form,"在开始起重作业之前，必须对起重设备进行检查，以确保其处于安全工作状态。在进行任何起重作业之前，必须检查安全装置，包括制动器、紧急停止装置和警告装置。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 145(6)</a>",
+69a87736a36b6c4c635466b0,,199985,question,questionText,51147,form,起吊前检查,
+69a87736a36b6c4c635466b1,,199986,question,description,51147,form,"吊载物必须绑扎牢固，以防止倾翻、滑落或坠落。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 145(7)</a>",
+69a87736a36b6c4c635466b1,,199986,question,questionText,51147,form,吊载物固定绑扎,
+69a87736a36b6c4c635466b2,,199987,question,questionText,51147,form,<div></div>,

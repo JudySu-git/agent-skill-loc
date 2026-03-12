@@ -1,0 +1,30 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+62841cc92f0000b6e03cb553,6283fd282f0000b6e03bc0da,36413,questionGroup,questionGroupText,36413,form,Avetta PQF - Saudi Arabia Company Information
+628400672f0000b6e03bd930,,127654,question,questionText,36413,form,Please indicate your company's business entity / form of business within this country: 
+628400672f0000b6e03bd930,,127654,question,responseOption1,36413,form,The Establishment (equivalent of a sole proprietorship) 
+628400672f0000b6e03bd930,,127654,question,responseOption2,36413,form,The Saudi Arabia limited liability company -LLC
+628400672f0000b6e03bd930,,127654,question,responseOption3,36413,form,The joint stock company (corporation) 
+628400672f0000b6e03bd930,,127654,question,responseOption4,36413,form,The Saudi Arabia limited partnership
+628400672f0000b6e03bd930,,127654,question,responseOption5,36413,form,The Saudi Arabia GCC branch company
+628400672f0000b6e03bd930,,127654,question,responseOption6,36413,form,Other
+628403b02f0000fe70255d93,,127655,question,questionText,36413,form,"Is your company registered with <a href=""https://misa.gov.sa/en/"" target=""_BLANK"">SAGIA</a> (Saudi Arabian General Investment Authority) or MISA (Ministry of investment)? "
+628403b02f0000fe70255d93,,127655,question,responseOption1,36413,form,Yes
+628403b02f0000fe70255d93,,127655,question,responseOption2,36413,form,No
+628407b62f0000fe70258b47,,127656,question,questionText,36413,form,"If yes, please provide your license number."
+628407db2f0000fe70258b4a,,127657,question,questionText,36413,form,"Is your company a member of <a href=""https://www.amchamksa.com/"" target=""_BLANK"">AmChamKSA</a> (The American Chamber of Commerce)?"
+628407db2f0000fe70258b4a,,127657,question,responseOption1,36413,form,Yes
+628407db2f0000fe70258b4a,,127657,question,responseOption2,36413,form,No
+628407db2f0000fe70258b4a,,127657,question,responseOption3,36413,form,N/A
+628408402f0000b6e03c296c,,127659,question,description,36413,form,10 digits
+628408402f0000b6e03c296c,,127659,question,questionText,36413,form,"Please provide your company’s commercial registration <a href=""https://ecr.mc.gov.sa/Land?returnUrl=%2F"" target=""_BLANK"">CR Certificate</a>."
+628409742f0000b6e03c332f,,127660,question,description,36413,form,15 digits
+628409742f0000b6e03c332f,,127660,question,questionText,36413,form,"Please provide your company’s <a href=""https://zatca.gov.sa/en/eServices/Pages/default.aspx?taxtype=3"" target=""_BLANK"">VAT Taxpayer Registry number</a>."
+62840cc82f0000b6e03c43eb,,127661,question,questionText,36413,form,"Please enter your company’s main <a href=""https://www.stats.gov.sa/en/isic4"" target=""_BLANK"">Industry Classification code(s)</a> in Saudi Arabia."
+628410c82f0000fe7025ce9f,,127662,question,questionText,36413,form,Does your company have any additional Industry classification codes?
+628410c82f0000fe7025ce9f,,127662,question,responseOption1,36413,form,Yes
+628410c82f0000fe7025ce9f,,127662,question,responseOption2,36413,form,No
+628410ee2f0000fe7025d04c,,127663,question,questionText,36413,form,Please provide the additional Industry classification code.
+628411032f0000b6e03c606a,,127664,question,questionText,36413,form,Does your company have any additional Industry classification codes?
+628411032f0000b6e03c606a,,127664,question,responseOption1,36413,form,Yes
+628411032f0000b6e03c606a,,127664,question,responseOption2,36413,form,No
+628411202f0000b6e03c64f4,,127665,question,questionText,36413,form,Please provide the additional Industry classification code.

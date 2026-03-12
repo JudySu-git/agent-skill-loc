@@ -1,0 +1,54 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69618cdb010000ad045e8918,694ae0270100004200ee3443,50035,questionGroup,description,50035,form,This requirement is triggered because you indicated your organization maintains a valid VCA* certificate in the Mainland Europe - Contractor Safety Certification questionnaire.
+69618cdb010000ad045e8918,694ae0270100004200ee3443,50035,questionGroup,questionGroupText,50035,form,VCA* Certificate Upload
+694ae0a501000046007ff9a1,,194218,question,description,50035,form,"Company Level Certification: Only certificates issued to the legal business entity are acceptable. Individual employee certifications do not meet the requirement for organizational compliance.\n\nIdentification of the Certified Entity:\nThe certificate must clearly display the registered company name and, where applicable, the registration number associated with the certified entity.\n\nOwner-Operators / Sole Proprietors:\nIn cases where a supplier operates under their own name as the legal business entity, the certificate may display the individual’s name, provided that the individual is the certified entity according to the issuing body."
+694ae0a501000046007ff9a1,,194218,question,questionText,50035,form,Upload a copy of the certificate:
+694ae0c10100004100ee3451,,194219,question,questionText,50035,form,Certificate Number/Identifier:
+694ae0d40100008f007ff9a4,,194220,question,description,50035,form,"The standard validity period is up to 10 years from the issue date.\n\n<a href=""https://business.gov.nl/starting-your-business/starting-as-a-self-employed-professional/step-by-step-plan-starting-as-a-freelance-construction-worker/"">Certificate for working safely (VCA) - Business.gov.nl</a>"
+694ae0d40100008f007ff9a4,,194220,question,questionText,50035,form,Please enter the certificate expiration date.
+694aeea20100004600ee35ec,,194234,question,questionText,50035,form,Confirm the country where the certificate was issued:
+694aeea20100004600ee35ec,,194234,question,responseOption1,50035,form,Albania
+694aeea20100004600ee35ec,,194234,question,responseOption10,50035,form,Croatia
+694aeea20100004600ee35ec,,194234,question,responseOption11,50035,form,Cyprus
+694aeea20100004600ee35ec,,194234,question,responseOption12,50035,form,Czechia
+694aeea20100004600ee35ec,,194234,question,responseOption13,50035,form,Denmark
+694aeea20100004600ee35ec,,194234,question,responseOption14,50035,form,Estonia
+694aeea20100004600ee35ec,,194234,question,responseOption15,50035,form,Finland
+694aeea20100004600ee35ec,,194234,question,responseOption16,50035,form,France
+694aeea20100004600ee35ec,,194234,question,responseOption17,50035,form,Georgia
+694aeea20100004600ee35ec,,194234,question,responseOption18,50035,form,Germany
+694aeea20100004600ee35ec,,194234,question,responseOption19,50035,form,Greece
+694aeea20100004600ee35ec,,194234,question,responseOption2,50035,form,Andorra
+694aeea20100004600ee35ec,,194234,question,responseOption20,50035,form,Hungary
+694aeea20100004600ee35ec,,194234,question,responseOption21,50035,form,Kazakhstan
+694aeea20100004600ee35ec,,194234,question,responseOption22,50035,form,Iceland
+694aeea20100004600ee35ec,,194234,question,responseOption23,50035,form,Ireland
+694aeea20100004600ee35ec,,194234,question,responseOption24,50035,form,Italy
+694aeea20100004600ee35ec,,194234,question,responseOption25,50035,form,Latvia
+694aeea20100004600ee35ec,,194234,question,responseOption26,50035,form,Lithuania
+694aeea20100004600ee35ec,,194234,question,responseOption27,50035,form,Liechtenstein
+694aeea20100004600ee35ec,,194234,question,responseOption28,50035,form,Luxembourg
+694aeea20100004600ee35ec,,194234,question,responseOption29,50035,form,Malta
+694aeea20100004600ee35ec,,194234,question,responseOption3,50035,form,Armenia
+694aeea20100004600ee35ec,,194234,question,responseOption30,50035,form,Monaco
+694aeea20100004600ee35ec,,194234,question,responseOption31,50035,form,Montenegro
+694aeea20100004600ee35ec,,194234,question,responseOption32,50035,form,Netherlands
+694aeea20100004600ee35ec,,194234,question,responseOption33,50035,form,North Macedonia
+694aeea20100004600ee35ec,,194234,question,responseOption34,50035,form,Norway
+694aeea20100004600ee35ec,,194234,question,responseOption35,50035,form,Poland
+694aeea20100004600ee35ec,,194234,question,responseOption36,50035,form,Portugal
+694aeea20100004600ee35ec,,194234,question,responseOption37,50035,form, Republic of Moldova
+694aeea20100004600ee35ec,,194234,question,responseOption38,50035,form,Romania
+694aeea20100004600ee35ec,,194234,question,responseOption39,50035,form, Russian Federation
+694aeea20100004600ee35ec,,194234,question,responseOption4,50035,form,Austria
+694aeea20100004600ee35ec,,194234,question,responseOption40,50035,form,San Marino
+694aeea20100004600ee35ec,,194234,question,responseOption41,50035,form,Serbia
+694aeea20100004600ee35ec,,194234,question,responseOption42,50035,form,Slovakia
+694aeea20100004600ee35ec,,194234,question,responseOption43,50035,form,Sweden
+694aeea20100004600ee35ec,,194234,question,responseOption44,50035,form,Switzerland
+694aeea20100004600ee35ec,,194234,question,responseOption45,50035,form,Turkey
+694aeea20100004600ee35ec,,194234,question,responseOption5,50035,form,Azerbaijan
+694aeea20100004600ee35ec,,194234,question,responseOption6,50035,form,Belarus
+694aeea20100004600ee35ec,,194234,question,responseOption7,50035,form,Belgium
+694aeea20100004600ee35ec,,194234,question,responseOption8,50035,form,Bosnia and Herzegovina
+694aeea20100004600ee35ec,,194234,question,responseOption9,50035,form,Bulgaria

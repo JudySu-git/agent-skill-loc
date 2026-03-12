@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4c80010000370021f9aa,663013b51a00005e0045d4aa,42053,questionGroup,description,42053,form,You are getting this category because you selected a license in the Avetta PQF - Victoria License.
+66ce4c80010000370021f9aa,663013b51a00005e0045d4aa,42053,questionGroup,questionGroupText,42053,form,Victoria Contractor License - Electrical
+663013b51a0000640045d4ab,,153460,question,questionText,42053,form,Please upload your license:\n
+663013b51a0000640045d4ab,,153460,question,responseOption1,42053,form,Yes
+663013b51a0000640045d4ab,,153460,question,responseOption2,42053,form,No
+663013b51a00002f0045d4ad,,153461,question,questionText,42053,form,Expiration Date:
+663013b51a00002f0045d4ad,,153461,question,responseOption1,42053,form,Yes
+663013b51a00002f0045d4ad,,153461,question,responseOption2,42053,form,No
+663013b51a0000640045d4ac,,153462,question,questionText,42053,form,License Number:
+663013b51a0000640045d4ac,,153462,question,responseOption1,42053,form,Yes
+663013b51a0000640045d4ac,,153462,question,responseOption2,42053,form,No

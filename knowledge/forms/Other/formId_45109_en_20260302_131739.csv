@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67f5a5750100001601691ec7,67eade8b01000006018c680d,45109,questionGroup,questionGroupText,45109,form,Brazil AATPP - Applicability Assessment
+67eade8b01000003018c680e,,167136,question,description,45109,form,"<a href=""https://www.gov.br/ibama/pt-br/acesso-a-informacao/perguntas-frequentes/autorizacoes"" target=""_blank"">AATPP Applicability Criteria\n</a>"
+67eade8b01000003018c680e,,167136,question,questionText,45109,form,Does your company transport hazardous materials across state lines (interstate) within Brazil?
+67eade8b01000003018c680e,,167136,question,responseOption1,45109,form,Yes
+67eade8b01000003018c680e,,167136,question,responseOption2,45109,form,No

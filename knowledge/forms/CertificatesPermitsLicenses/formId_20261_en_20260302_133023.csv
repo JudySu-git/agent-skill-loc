@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6070772f4500009d89bd002b,4d489151504943ec3ed9f590,1493,questionGroup,questionGroupText,20261,form,Policy Information
+4d48916a5049437d10c36fa8,4d48916a5049437d10c36fa8,1494,questionGroup,questionGroupText,20261,form,Policy Limits
+4d3a126a504943c10a22b0f0,,6612,question,questionText,20261,form,EPLI Limit
+4d489954504943644753ab9e,,6680,question,questionText,20261,form,Date of Commencement:
+4d4899825049436582f08c1d,,6681,question,questionText,20261,form,Expiration Date:
+6070777143000090e864a711,5af5d1632b0000ce036fc230,20261,questionGroup,questionGroupText,20261,form,Employment Practices Liability
+5af5d1a8340000c103f8fd8f,,70106,question,questionText,20261,form,Please upload a certificate of insurance for Employment Practices Liability
+5d713867350000a8a8f0e885,,86257,question,questionText,20261,form,Insurance Carrier:
+6070772e4500009d89bcfda1,,108687,question,description,20261,form,Used to provide instructions from Client
+6070772e4500009d89bcfda1,,108687,question,questionText,20261,form,Comments
+6070773f43000090e8649eb8,,108688,question,description,20261,form,Date the instructions from Client expire
+6070773f43000090e8649eb8,,108688,question,questionText,20261,form,VARIANCE Expiration Date
+62f53f2582eb52eab3c18f98,,130509,question,questionText,20261,form,Currency used in Certificate of Insurance (COI)

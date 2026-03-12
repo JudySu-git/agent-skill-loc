@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec620100002d00a473c0,5d2cdfbb3500005b14325827,26833,questionGroup,questionGroupText,26833,form,Arkansas Contractor License
+5d55899e33000051365fae28,5d2cdfc43500005b14325828,26834,questionGroup,questionGroupText,26833,form,Arkansas Contractor License
+5d2ce3403400004e4d9d8895,,84266,question,description,26833,form,"<a href = ""https://www.aclb.arkansas.gov""target=""_BLANK_"">Arkansas Contractors Licensing Board</a>\n"
+5d2ce3403400004e4d9d8895,,84266,question,questionText,26833,form,Arkansas Contractor License Number:\n
+5d2ce36239000008998b6b72,,84268,question,description,26833,form,"<a href = ""https://www.aclb.arkansas.gov""target=""_BLANK_"">Arkansas Contractors Licensing Board</a>\n"
+5d2ce36239000008998b6b72,,84268,question,questionText,26833,form,Arkansas Contractor License Classifications:
+5d2ce3773500005b14326137,,84269,question,questionText,26833,form,Arkansas License Expiration Date:
+5d2ce3923400004e4d9d894e,,84271,question,questionText,26833,form,Please upload a copy of your Arkansas license:\n
+5d2ce39d3500005b14326143,,84272,question,questionText,26833,form,Please enter the URL of the license:\n
+5d2de98f370000be944ca830,,84305,question,description,26833,form,A URL will make verification quicker if provided
+5d2de98f370000be944ca830,,84305,question,questionText,26833,form,"Upload a copy of your license, and or provide the URL of the license."
+5d2de98f370000be944ca830,,84305,question,responseOption1,26833,form,File Upload
+5d2de98f370000be944ca830,,84305,question,responseOption2,26833,form,URL

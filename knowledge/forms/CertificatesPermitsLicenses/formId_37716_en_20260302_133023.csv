@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+674df5c50100007000a411a8,63755239160000b805b66512,37716,questionGroup,description,37716,form,"You are getting this category because you selected ISO 44001:2017 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for the a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+674df5c50100007000a411a8,63755239160000b805b66512,37716,questionGroup,questionGroupText,37716,form,ISO 44001 - Collaborative Business Relationship Management Systems
+63755239160000b805b66513,,133539,question,questionText,37716,form,Please upload your ISO 44001:2017 - Collaborative Business Relationship Management Systems — Requirements and Framework certificate:
+63755239160000b805b66514,,133540,question,questionText,37716,form,Please enter the certificate expiration date:\n

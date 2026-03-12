@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+654177ae1d00007a566f9826,65402ca11b00009f5538908a,40567,questionGroup,description,40568,form,You are receiving this category because you selected Section 8(a) Business Development in the United States Supplier Diversity Certification Questionnaire.
+654177ae1d00007a566f9826,65402ca11b00009f5538908a,40567,questionGroup,questionGroupText,40568,form,Section 8(a) Business Development
+667b462c0100000801247082,65402ca11b00009f55389089,40568,questionGroup,questionGroupText,40568,form,Avetta PQF - US Supplier Diversity: Section 8(a) Business Development
+65402ca11b00009f5538908b,,146378,question,questionText,40568,form,Please enter the issue date of your company’s Section 8(a) Business Development certificate:
+65402ca11b00009f5538908b,,146378,question,responseOption1,40568,form,Yes
+65402ca11b00009f5538908b,,146378,question,responseOption2,40568,form,No
+65402ca11b00009f5538908c,,146379,question,questionText,40568,form,Expiration Date:
+65402ca11b00009f5538908c,,146379,question,responseOption1,40568,form,Yes
+65402ca11b00009f5538908c,,146379,question,responseOption2,40568,form,No
+65402ca11b00009f5538908d,,146380,question,questionText,40568,form,Certificate Number:
+65402ca11b00009f5538908d,,146380,question,responseOption1,40568,form,Yes
+65402ca11b00009f5538908d,,146380,question,responseOption2,40568,form,No
+65402ca11b00009f5538908e,,146381,question,questionText,40568,form,Please upload a copy of your certification certificate:
+65402ca11b00009f5538908e,,146381,question,responseOption1,40568,form,Yes
+65402ca11b00009f5538908e,,146381,question,responseOption2,40568,form,No

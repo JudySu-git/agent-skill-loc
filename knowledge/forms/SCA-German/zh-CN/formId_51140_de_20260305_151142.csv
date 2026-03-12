@@ -1,0 +1,12 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87731a36b6c4c6354667a,69a87731a36b6c4c63546679,51140,questionGroup,questionGroupText,51140,form,建筑 - 混凝土设备,
+69a87731a36b6c4c63546675,,199940,question,description,51140,form,"在清洁或维护前，搅拌容器必须固定以防止倾倒，且不得仅依赖制动器。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第149(4)条</a>",
+69a87731a36b6c4c63546675,,199940,question,questionText,51140,form,搅拌容器固定,
+69a87731a36b6c4c63546676,,199941,question,description,51140,form,"在清洁或内部作业期间，必须确保电源隔离并防止意外重启。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第149(5, 7)条</a>",
+69a87731a36b6c4c63546676,,199941,question,questionText,51140,form,维护前能源隔离,
+69a87731a36b6c4c63546677,,199942,question,description,51140,form,"混凝土喷射机操作人员必须接受专业培训并熟悉操作规程。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第149(6)条</a>",
+69a87731a36b6c4c63546677,,199942,question,questionText,51140,form,培训,
+69a87731a36b6c4c63546678,,199943,question,questionText,51140,form,<div></div>,

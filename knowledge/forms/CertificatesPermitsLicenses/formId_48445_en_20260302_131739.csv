@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68f91c5a010000ca0682f14f,68f8efdc010000880782ec4a,48445,questionGroup,questionGroupText,48445,form,Medical Indemnity Insurance
+68f8efdc010000890782ec4c,68f8efdc010000890782ec4c,48446,questionGroup,questionGroupText,48445,form,Policy Limits
+68f8efdc010000890782ec4b,68f8efdc010000890782ec4b,48447,questionGroup,questionGroupText,48445,form,Policy Information
+68f8efdc010000440082ec52,,185132,question,questionText,48445,form,Any One Claim:
+68f8efdc010000440082ec51,,185133,question,questionText,48445,form,Currency used in Certificate of Insurance (COI)
+68f8efdc010000860782ec4d,,185134,question,questionText,48445,form,Aggregate:
+68f8efdc010000440082ec53,,185135,question,questionText,48445,form,Please upload a certificate showing coverage for Medical Indemnity Insurance 
+68f8efdc010000440082ec55,,185136,question,description,48445,form,Used to provide instructions from Client
+68f8efdc010000440082ec55,,185136,question,questionText,48445,form,Comments
+68f8efdc010000440082ec4f,,185137,question,questionText,48445,form,Expiration Date:
+68f8efdc010000440082ec54,,185138,question,questionText,48445,form,Insurance Carrier:
+68f8efdc0100003b0082ec50,,185139,question,description,48445,form,Date the instructions from Client expire
+68f8efdc0100003b0082ec50,,185139,question,questionText,48445,form,VARIANCE Expiration Date
+68f8efdc010000890782ec4e,,185140,question,questionText,48445,form,Date of Commencement:

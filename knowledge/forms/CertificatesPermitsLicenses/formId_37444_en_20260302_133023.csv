@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+636571aa1700001106cf72d6,6365719f180000a504c0b66e,37444,questionGroup,questionGroupText,37444,form,Asbestos Contractor Licences – Western Australia
+6365719f180000a504c0b66f,,132314,question,questionText,37444,form,Please upload current Asbestos Licence
+6365719f180000a504c0b670,,132315,question,questionText,37444,form,Licence Number
+6365719f180000a504c0b671,,132316,question,questionText,37444,form,Effective Date
+6365719f180000a504c0b672,,132317,question,questionText,37444,form,Expiration Date

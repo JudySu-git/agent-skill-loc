@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4610010000bd00ebe4bc,662fd7871b00003100b6e523,42002,questionGroup,description,42002,form,You are getting this category because you selected a license in the Avetta PQF - New South Wales Contractor License.
+66ce4610010000bd00ebe4bc,662fd7871b00003100b6e523,42002,questionGroup,questionGroupText,42002,form,New South Wales Contractor License - Security Master
+662fd7871b00002f00b6e526,,153314,question,questionText,42002,form,Please upload your license:\n
+662fd7871b00002f00b6e526,,153314,question,responseOption1,42002,form,Yes
+662fd7871b00002f00b6e526,,153314,question,responseOption2,42002,form,No
+662fd7871b00005d00b6e524,,153315,question,questionText,42002,form,License Number:
+662fd7871b00005d00b6e524,,153315,question,responseOption1,42002,form,Yes
+662fd7871b00005d00b6e524,,153315,question,responseOption2,42002,form,No
+662fd7871b00002f00b6e525,,153316,question,questionText,42002,form,Expiration Date:
+662fd7871b00002f00b6e525,,153316,question,responseOption1,42002,form,Yes
+662fd7871b00002f00b6e525,,153316,question,responseOption2,42002,form,No

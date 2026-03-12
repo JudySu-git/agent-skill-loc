@@ -1,0 +1,9 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87748a36b6c4c6354678b,69a87748a36b6c4c6354678a,51170,questionGroup,questionGroupText,51170,form,Unfallaufzeichnung und -meldung,
+69a87747a36b6c4c63546786,,200153,question,description,51170,form,"Die unverzügliche Meldung von Unfällen, Beinaheunfällen, Gefahren und Sicherheitsmängeln muss gefordert werden.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 15 Abs. 5</a>",
+69a87747a36b6c4c63546786,,200153,question,questionText,51170,form,Meldepflicht der Arbeitnehmer,
+69a87747a36b6c4c63546787,,200154,question,description,51170,form,"Unfallaufzeichnungen müssen mindestens fünf Jahre lang aufbewahrt werden.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 16 Abs. 2</a>",
+69a87747a36b6c4c63546787,,200154,question,questionText,51170,form,Aufbewahrungspflicht (5 Jahre),
+69a87747a36b6c4c63546788,,200155,question,description,51170,form,"Unfälle mit mehr als drei Tagen Arbeitsunfähigkeit, jeder arbeitsbedingte Todesfall sowie diagnostizierte Berufskrankheiten müssen innerhalb von fünf Tagen dem zuständigen Unfallversicherungsträger gemeldet werden, einschließlich der Meldung von Berufskrankheiten innerhalb von fünf Tagen nach deren Feststellung.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147"">Allgemeines Sozialversicherungsgesetz, § 363 Abs. 1</a>",
+69a87747a36b6c4c63546788,,200155,question,questionText,51170,form,Unfallmeldung des Arbeitgebers an den Unfallversicherungsträger,
+69a87747a36b6c4c63546789,,200156,question,questionText,51170,form,<div></div>,

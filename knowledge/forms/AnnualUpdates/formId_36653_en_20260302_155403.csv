@@ -1,0 +1,21 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+62b098b32f0000388baa69ff,62b098b32f0000388baa69ff,36652,questionGroup,questionGroupText,36653,form,Bulgaria
+62b09afa30000014b6b01dff,62b098b32f0000388baa69fe,36653,questionGroup,questionGroupText,36653,form,Avetta Bulgaria Annual Update
+62b098b32f0000388baa6a00,,128533,question,questionText,36653,form,What is the total number of employees for the given year? Approximate if necessary.
+62b098b42f0000388baa6a01,,128534,question,questionText,36653,form,"Did your company record/report any workplace accidents, occupational diseases, or specified dangerous occurrences (near misses)?"
+62b098b42f0000388baa6a01,,128534,question,responseOptionNo,36653,form,No
+62b098b42f0000388baa6a01,,128534,question,responseOptionYes,36653,form,Yes
+62b098b42f0000388baa6a02,,128535,question,description,36653,form,Corporate hours are defined as all hours your employees have worked within the country this Annual Update applies to.
+62b098b42f0000388baa6a02,,128535,question,questionText,36653,form,What is the total number of corporate hours?
+62b098b42f0000388baa6a03,,128536,question,questionText,36653,form,How many fatalities were there for the given year?
+62b098b42f0000388baa6a04,,128537,question,description,36653,form,"Examples of major injuries include broken bones, amputations, unconsciousness and death. They also include injuries that would result in not being able to attend work for more than 3 consecutive days."
+62b098b42f0000388baa6a04,,128537,question,questionText,36653,form,Number of _major_ injuries that are classified as _over-three-day_ injuries?
+62b098b42f0000388baa6a05,,128538,question,questionText,36653,form,Number of _major_ injuries that are classified as _under-three-day_ injuries?
+62b098b42f0000388baa6a06,,128539,question,description,36653,form,"Minor injuries are typically those injuries not classified as a major such as a paper cut, twisted ankle, bruising or knock."
+62b098b42f0000388baa6a06,,128539,question,questionText,36653,form,Number of _minor_ injuries?
+62b098b42f0000388baa6a07,,128540,question,description,36653,form,"A list of specific disease and the manners in which they are contracted. Examples such as anthrax, hepatitis, legionellosis or leptospirosis."
+62b098b42f0000388baa6a07,,128540,question,questionText,36653,form,Number of reportable diseases (including gas incidents)?
+62b098b42f0000388baa6a08,,128541,question,description,36653,form,Dangerous occurrences are certain listed near-miss events. Not every near miss event must be reported.
+62b098b42f0000388baa6a08,,128541,question,questionText,36653,form,Number of reportable dangerous occurrences (or near misses)?
+62b098b42f0000388baa6a09,,128542,question,questionText,36653,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+62b098b42f0000388baa6a0a,,128543,question,questionText,36653,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."

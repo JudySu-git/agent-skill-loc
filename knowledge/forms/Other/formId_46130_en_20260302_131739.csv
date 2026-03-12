@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+683dc8920100003f0092cb2f,6830ad7701000039006c77c0,46130,questionGroup,questionGroupText,46130,form,Shell Polymers Monaca Quarterly Statistics
+6830ad770100003f006c77c1,6830ad770100003f006c77c1,46131,questionGroup,questionGroupText,46130,form,Quarterly Statistics
+6830ad770100003f006c77c2,,174440,question,questionText,46130,form,Total number of fatalities for the given quarter:
+6830ad770100003f006c77c3,,174441,question,questionText,46130,form,"Please provide information regarding fatalities for your entire organization, *(NOT ONLY SHELL)*  for the previous quarter.\nWere there fatalities for the given quarter?"
+6830ad770100003f006c77c3,,174441,question,responseOptionNo,46130,form,No
+6830ad770100003f006c77c3,,174441,question,responseOptionYes,46130,form,Yes
+6830ad770100003d006c77c4,,174442,question,questionText,46130,form,"By providing your electronic signature, you are attesting that the data provided is accurate and complete."

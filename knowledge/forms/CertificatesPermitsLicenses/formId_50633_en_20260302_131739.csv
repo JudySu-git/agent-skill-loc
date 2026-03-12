@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6984a6be0100004300423fca,698389970100006400c962c5,50633,questionGroup,questionGroupText,50633,form,Iceland VAT Registration Applicability Assessment
+69838a380100006300c962cf,,197936,question,description,50633,form,"An activity or business operation must be reported to the <a href=""https://www.skatturinn.is/atvinnurekstur/virdisaukaskattur/almennt-um-vsk/"" target=""blank"">Directorate of Internal Revenue</a> no later than 8 days before the commencement of operations with registration in the register of employers and, as applicable, in the VAT register."
+69838a380100006300c962cf,,197936,question,questionText,50633,form,Does your company have a VAT registration number and a VAT registration certificate issued from the Iceland Revenue and Customs agency?
+69838a380100006300c962cf,,197936,question,responseOption1,50633,form,Yes
+69838a380100006300c962cf,,197936,question,responseOption2,50633,form,No
+69838aa00100004100c962d2,,197937,question,questionText,50633,form,Please explain why your company does not have a VAT registration number a VAT registration certificate issued from the Iceland Revenue and Customs agency.

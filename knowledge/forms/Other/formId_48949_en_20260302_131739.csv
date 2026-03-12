@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+690e7f0c0100004100dc48bd,690e68940100004000ed2656,48949,questionGroup,questionGroupText,48949,form,Airgas Global Variance Form
+690e6925010000b601ed265c,,187760,question,questionText,48949,form,Please explain the factors contributing to your company’s higher EMR
+690e69410100004000dc4858,,187761,question,questionText,48949,form,Has your company implemented any corrective actions to address the high EMR
+690e69410100004000dc4858,,187761,question,responseOption1,48949,form,Yes
+690e69410100004000dc4858,,187761,question,responseOption2,48949,form,No
+690e697e010000ba01ed2662,,187762,question,moreDescription,48949,form,\n
+690e697e010000ba01ed2662,,187762,question,questionText,48949,form,"If available, please upload documentation outlining these corrective actions.\n"

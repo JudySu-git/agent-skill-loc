@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67f06c05010000e500448f8b,67f06965010000ec00448f82,45149,questionGroup,questionGroupText,45149,form,Brazil Controlled Products and Regulated Activities License - Federal Police
+67f06965010000e500448f83,,167252,question,description,45149,form,The license must be issued by the Federal Police authority and must be valid at the time of submission. \nCLF refers to the Operating License; CRC refers to the Control Registration.
+67f06965010000e500448f83,,167252,question,questionText,45149,form,Please upload the Federal Police License (CLF or CRC).
+67f06965010000e500448f83,,167252,question,responseOption1,45149,form,"Civil Police License – Required for companies engaged in activities such as private security, firearms commerce, explosives handling, or controlled chemical distribution (Licença da Polícia Civil)"
+67f06965010000e500448f83,,167252,question,responseOption2,45149,form,"Federal Police License – Required for companies handling chemical substances controlled at the federal level (e.g., precursors, solvents). Includes CLF (Licença de Funcionamento) and CRC (Cadastro de Registro de Controle)"
+67f06965010000e500448f83,,167252,question,responseOption3,45149,form,"Army License – Required for companies dealing with explosives, weapons, ammunition, or military-regulated materials (Certificado de Registro – Exército Brasileiro)"
+67f06965010000e500448f83,,167252,question,responseOption4,45149,form,None of the above
+67f06965010000e500448f84,,167253,question,description,45149,form,"Enter the expiration date shown on the document. If not printed, enter the date by which the license must be renewed, or attach proof of validity (e.g., renewal receipt) within the uploaded file as one single document."
+67f06965010000e500448f84,,167253,question,questionText,45149,form,Please enter the expiration date.
+67f06965010000e500448f84,,167253,question,responseOption1,45149,form,Yes
+67f06965010000e500448f84,,167253,question,responseOption2,45149,form,No

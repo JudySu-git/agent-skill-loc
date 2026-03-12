@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67e30d6c010000d600768df7,67e1bfea0100003500c95c1f,44824,questionGroup,questionGroupText,44824,form,UK Cyber Essentials Certification Scheme Upload
+67e1bfea0100005a00c95c20,67e1bfea0100005a00c95c20,44825,questionGroup,description,44824,form,"You are getting this category because you answered ""Yes"" to having a Cyber Essentials or Cyber Essentials Plus certificate in the UK Cyber Essentials Certification Scheme Questionnaire."
+67e1bfea0100005a00c95c20,67e1bfea0100005a00c95c20,44825,questionGroup,questionGroupText,44824,form,Cyber Essentials Certification Scheme
+67e1bfea0100003e00c95c21,,166714,question,questionText,44824,form,"Please provide the name of the <a href = ""https://iasme.co.uk/cyber-essentials/find-a-certification-body""target=""BLANK"">certification body</a> who issued your certificate."
+67e1bfea0100003e00c95c21,,166714,question,responseOption1,44824,form,Yes
+67e1bfea0100003e00c95c21,,166714,question,responseOption2,44824,form,No
+67e1c0da01000039000e2b04,,166715,question,questionText,44824,form,Please select the certificate type your company currently maintains:
+67e1c0da01000039000e2b04,,166715,question,responseOption1,44824,form,Cyber Essentials
+67e1c0da01000039000e2b04,,166715,question,responseOption2,44824,form,Cyber Essentials Plus
+67e1c10b0100004200c95c3d,,166716,question,questionText,44824,form,Please provide your Cyber Essentials or Cyber Essentials Plus certificate expiry date.
+67e1c10b0100004200c95c3d,,166716,question,responseOption1,44824,form,Yes
+67e1c10b0100004200c95c3d,,166716,question,responseOption2,44824,form,No
+67e1c11e0100003c000e2b05,,166717,question,questionText,44824,form,Please upload a copy of your current Cyber Essentials or Cyber Essentials Plus certificate.
+67e1c11e0100003c000e2b05,,166717,question,responseOption1,44824,form,Yes
+67e1c11e0100003c000e2b05,,166717,question,responseOption2,44824,form,No

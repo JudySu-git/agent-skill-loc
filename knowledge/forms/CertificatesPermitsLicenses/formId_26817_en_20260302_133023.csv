@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec620100002d00a473c2,5d23ad1434000008990195ff,26817,questionGroup,questionGroupText,26817,form,Arizona Contractor License
+5d558957360000a743a9aca2,5d23adce340000089901968c,26818,questionGroup,questionGroupText,26817,form,Arizona Contractor License
+5d23ade032000008991ef63d,,84213,question,description,26817,form,"<a href = ""https://roc.az.gov""target=""_BLANK_"">Arizona Registrar of Contractors </a>"
+5d23ade032000008991ef63d,,84213,question,questionText,26817,form,Arizona Contractor License Number:
+5d23ae0632000008991ef653,,84214,question,description,26817,form,"<a href = ""https://roc.az.gov""target=""_BLANK_"">Arizona Registrar of Contractors </a>"
+5d23ae0632000008991ef653,,84214,question,questionText,26817,form,Arizona Contractor License Classifications:
+5d23ae1b3400000899019698,,84215,question,questionText,26817,form,Arizona License Expiration Date:
+5d23ae4137000064f6f80235,,84216,question,questionText,26817,form,Please upload a copy of your Arizona license:
+5d23ae6834000008990196be,,84217,question,questionText,26817,form,Please enter the URL of the license:
+5d2e0441370000be942124c3,,84308,question,description,26817,form,A URL will make verification quicker if provided\n
+5d2e0441370000be942124c3,,84308,question,questionText,26817,form,"Upload a copy of your license, and or provide the URL of the license."
+5d2e0441370000be942124c3,,84308,question,responseOption1,26817,form,File Upload
+5d2e0441370000be942124c3,,84308,question,responseOption2,26817,form,URL

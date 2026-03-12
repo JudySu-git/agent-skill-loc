@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61324f09470000efa7f80244,61324d2b480000bdbda01c91,33801,questionGroup,questionGroupText,33801,form,Engineer's License
+61324d2b480000bdbda01c92,,114501,question,questionText,33801,form,Contractor License Classifications:
+61324d2b480000bdbda01c93,,114502,question,questionText,33801,form,Expiration Date:
+61324d2b480000bdbda01c94,,114503,question,description,33801,form,A URL will make verification quicker if provided.
+61324d2b480000bdbda01c94,,114503,question,questionText,33801,form,"Upload a copy of your license, and or provide the URL of the license."
+61324d2b480000bdbda01c94,,114503,question,responseOption1,33801,form,File Upload
+61324d2b480000bdbda01c94,,114503,question,responseOption2,33801,form,URL
+61324d2b480000bdbda01c95,,114504,question,questionText,33801,form,Please upload a copy of your license:
+61324d2b480000bdbda01c96,,114505,question,questionText,33801,form,Please enter the URL of the license:
+61324d2b480000bdbda01c97,,114506,question,description,33801,form,<a href='https://www.bpelsg.ca.gov/consumers/lic_lookup.shtml' target='_BLANK'>BPELSG</a>
+61324d2b480000bdbda01c97,,114506,question,questionText,33801,form,Contractor License Number:

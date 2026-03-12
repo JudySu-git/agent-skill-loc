@@ -1,0 +1,33 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+698533060100003f00782213,695ff54b0100006200961c4a,50221,questionGroup,questionGroupText,50221,form,Canada Workers' Compensation Coverage by Province/Territory
+698532890100003f0078220f,695ff6bf0100003d00961c52,50222,questionGroup,questionGroupText,50221,form,Coverage Requirement
+695ffa360100006300188b05,695ffa360100006300188b04,50225,questionGroup,questionGroupText,50221,form,Province/Territory Selection
+695ff67e0100006400188adc,,196466,question,questionText,50221,form,"Workers’ compensation insurance is legally required in Canadian provinces and territories for companies whose employees, contractors, or workers perform duties in that jurisdiction, including remote or temporary work. This questionnaire will help determine the coverage requirements applicable to your company."
+695ff6cb0100005f00961c59,,196467,question,description,50221,form,"Provincial and Territorial Workers’ Compensation governing bodies are linked below for your reference:\n\n<a href=""https://www.wcb.ab.ca/resources/for-employers/"" target=""blank"">Alberta- WCB Alberta</a>\n\n<a href=""https://www.worksafebc.com/en/insurance/apply-for-coverage"" target=""blank"">British Columbia- WorkSafeBC</a>\n\n<a href=""https://www.wcb.mb.ca/employers/register-a-business-for-wcb-coverage/"" target=""blank"">Manitoba- WCB Manitoba </a>\n\n<a href=""https://www.worksafenb.ca/employers/insurance/accounts-and-coverage/"" target=""blank"">New Brunswick- WorkSafeNB </a>\n\n<a href=""https://workplacenl.ca/employers/register-my-business/"" target=""blank"">Newfoundland & Labrador- WorkplaceNL</a>\n\n<a href=""https://wscc.nt.ca/employer-services/register-business"" target=""blank"">Northwest Territories- WSCC NT/NU</a>\n\n<a href=""https://www.wcb.ns.ca/employers/workplace-injury-insurance/do-you-need-coverage"" target=""blank"">Nova Scotia- WCB Nova Scotia</a>\n\n<a href=""https://wscc.nt.ca/employer-services/register-business"" target=""blank"">Nunavut- WSCC NT/NU</a>\n\n<a href=""https://www.wsib.ca/en/businesses/registration-and-coverage/how-register-your-business"" target=""blank"">Ontario- Ontario WSIB</a>\n\n<a href=""https://www.wcb.pe.ca/Employers/Registration"" target=""blank"">Prince Edward Island- WCB PEI</a>\n\n<a href=""https://www.cnesst.gouv.qc.ca/fr/demarches-formulaires/employeurs/inscription-cnesst"" target=""blank"">Quebec- CNESST</a>\n\n<a href=""https://www.wcbsask.com/employers/register-your-business"" target=""blank"">Saskatchewan- WCB Saskatchewan</a> \n\n<a href=""https://www.wcb.yk.ca/web-0021/web-0022"" target=""blank"">Yukon- WCB Yukon</a>"
+695ff6cb0100005f00961c59,,196467,question,questionText,50221,form,"Is your company required by legislation to maintain workers’ compensation coverage in any Canadian province or territory in which it operates? If “No” is selected, an explanation will be required outlining why the company is exempt."
+695ff6cb0100005f00961c59,,196467,question,responseOption1,50221,form,Yes
+695ff6cb0100005f00961c59,,196467,question,responseOption2,50221,form,No
+695ff8c40100004500188af3,,196469,question,questionText,50221,form,You selected that your industry is exempt from workers’ compensation requirements in the Canadian provinces and territories in which it operates. Please provide a description of your industry.
+695ff8d6010000a000961c67,,196470,question,questionText,50221,form,You answered “Other” for the reason your company does not maintain provincial or territorial workers’ compensation coverage in Canada. Please provide information about this reason and upload any supporting documentation.
+695ff8ec0100006000188af8,,196471,question,questionText,50221,form,"Please select the province(s) or territory(ies) where your company operates and is required to maintain workers’ compensation coverage. For each selected province and territory, you may be asked to provide additional documentation including a rate statement and/or clearance letter in a separate form."
+695ff8ec0100006000188af8,,196471,question,responseOption1,50221,form,Alberta
+695ff8ec0100006000188af8,,196471,question,responseOption10,50221,form,Prince Edward Island
+695ff8ec0100006000188af8,,196471,question,responseOption11,50221,form,Quebec
+695ff8ec0100006000188af8,,196471,question,responseOption12,50221,form,Saskatchewan
+695ff8ec0100006000188af8,,196471,question,responseOption13,50221,form,Yukon
+695ff8ec0100006000188af8,,196471,question,responseOption2,50221,form,British Columbia
+695ff8ec0100006000188af8,,196471,question,responseOption3,50221,form,Manitoba
+695ff8ec0100006000188af8,,196471,question,responseOption4,50221,form,New Brunswick
+695ff8ec0100006000188af8,,196471,question,responseOption5,50221,form,Newfoundland & Labrador
+695ff8ec0100006000188af8,,196471,question,responseOption6,50221,form,Northwest Territories
+695ff8ec0100006000188af8,,196471,question,responseOption7,50221,form,Nova Scotia
+695ff8ec0100006000188af8,,196471,question,responseOption8,50221,form,Nunavut
+695ff8ec0100006000188af8,,196471,question,responseOption9,50221,form,Ontario
+695ff9fa0100004200961c6f,,196473,question,questionText,50221,form,I confirm that all information provided is accurate and up to date as of the submission date.
+696000d80100004500188b6b,,196523,question,questionText,50221,form,Please upload any supporting documentation. 
+698532650100004500790892,,197990,question,description,50221,form,Employers in excluded industries often have the option to apply for voluntary workers' compensation coverage to protect their workers and themselves. 
+698532650100004500790892,,197990,question,questionText,50221,form,You answered “No” to maintaining provincial or territorial workers’ compensation coverage in Canada. Please select the exemption that is most applicable:
+698532650100004500790892,,197990,question,responseOption1,50221,form,My industry is exempt from workers’ compensation requirements in the Canadian provinces and territories in which it operates.
+698532650100004500790892,,197990,question,responseOption2,50221,form,My company has no employees or other eligible workers in any Canadian province or territory.
+698532650100004500790892,,197990,question,responseOption3,50221,form,All work is performed exclusively outside Canadian provinces and territories.
+698532650100004500790892,,197990,question,responseOption4,50221,form,Other

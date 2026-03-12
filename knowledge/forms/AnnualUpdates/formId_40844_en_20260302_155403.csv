@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+656f6ddf180000d103442cdf,656f6ddf180000d103442cdf,40842,questionGroup,questionGroupText,40844,form,Kenya Specific Updates
+656f6ddf180000d103442ce2,656f6ddf180000d103442ce2,40843,questionGroup,questionGroupText,40844,form,Kenya
+656f6ebb1800006f02447161,656f6ddf180000d103442cde,40844,questionGroup,questionGroupText,40844,form,Avetta Kenya Annual Update
+656f6ddf180000d103442ce0,,147687,question,questionText,40844,form,What is the total number of employees for the given year? Approximate if necessary.
+656f6ddf180000d103442ce1,,147688,question,questionText,40844,form,Were there recordable incidents for the given year?
+656f6ddf180000d103442ce1,,147688,question,responseOptionNo,40844,form,No
+656f6ddf180000d103442ce1,,147688,question,responseOptionYes,40844,form,Yes
+656f6ddf180000d103442ce3,,147689,question,questionText,40844,form,What is the total number of hours worked?
+656f6ddf180000d103442ce4,,147690,question,questionText,40844,form,How many fatalities were there for the given year?
+656f6ddf180000d103442ce5,,147691,question,questionText,40844,form,Total number of _cases_ with days away from work
+656f6ddf180000d103442ced,,147692,question,questionText,40844,form,Total number of _days_ away from work
+656f6ddf180000d103442cf7,,147693,question,questionText,40844,form,Total number of _cases_ with job transfer or restriction
+656f6ddf180000d103442cf8,,147694,question,questionText,40844,form,Total number of _days_ of job transfer or restriction
+656f6ddf180000d103442cf9,,147695,question,questionText,40844,form,Total number of other recordable _cases_
+656f6ddf180000d103442cfa,,147696,question,questionText,40844,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+656f6ddf180000d103442cfb,,147697,question,questionText,40844,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."

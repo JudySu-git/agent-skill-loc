@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6621a24e1b00002e0074e93c,6619c31f1c00002f0079d436,41844,questionGroup,description,41844,form,You are receiving this category because you selected Veteran-Owned Business in the UK Supplier Diversity Questionnaire.
+6621a24e1b00002e0074e93c,6619c31f1c00002f0079d436,41844,questionGroup,questionGroupText,41844,form,Avetta PQF - UK Supplier Diversity Veteran-Owned Business
+6619c3531c0000330079d439,,152699,question,questionText,41844,form,Does your company have any documentation to provide to support your Veteran-Owned Business status?
+6619c3531c0000330079d439,,152699,question,responseOption1,41844,form,Yes
+6619c3531c0000330079d439,,152699,question,responseOption2,41844,form,No
+6619c3611c00002e0079d43c,,152700,question,questionText,41844,form,Please upload any supporting documentation:
+6619c3611c00002e0079d43c,,152700,question,responseOption1,41844,form,Yes
+6619c3611c00002e0079d43c,,152700,question,responseOption2,41844,form,No
+6619c3721c000029008f15d0,,152701,question,questionText,41844,form,Does this documentation have an expiration date?
+6619c3721c000029008f15d0,,152701,question,responseOption1,41844,form,Yes
+6619c3721c000029008f15d0,,152701,question,responseOption2,41844,form,No
+6619c38d1c000033008f15d3,,152702,question,questionText,41844,form,Please provide the expiration date:
+6619c38d1c000033008f15d3,,152702,question,responseOption1,41844,form,Yes
+6619c38d1c000033008f15d3,,152702,question,responseOption2,41844,form,No

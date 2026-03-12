@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+60709b3543000090e8659953,5fde16722c000094b10ae9e9,32197,questionGroup,questionGroupText,32199,form,Policy Information
+5fe217f62c00004db74d6124,5fde16742c000094b10ae9ee,32198,questionGroup,questionGroupText,32199,form,Policy Limits
+60709b734500009d89bdefaf,5fde16722c000094b10ae9e8,32199,questionGroup,questionGroupText,32199,form,Industrial Special Risk
+5fde16722c000094b10ae9ea,,105802,question,questionText,32199,form,Insurance Carrier:
+5fde16732c000094b10ae9eb,,105803,question,questionText,32199,form,Date of Commencement:
+5fde16732c000094b10ae9ec,,105804,question,questionText,32199,form,Policy Expiration Date
+5fde16732c000094b10ae9ed,,105805,question,questionText,32199,form,Please upload Industrial Special Risk Certificate
+5fde16742c000094b10ae9ef,,105806,question,questionText,32199,form,Section 1 - Material Damages/Loss:
+5fde16742c000094b10ae9f0,,105807,question,questionText,32199,form,Section 2 - Consequential Loss:
+60709b344500009d89bdef78,,108754,question,description,32199,form,Used to provide instructions from Client
+60709b344500009d89bdef78,,108754,question,questionText,32199,form,Comments
+60709b4643000090e8659981,,108756,question,description,32199,form,Date the instructions from Client expire
+60709b4643000090e8659981,,108756,question,questionText,32199,form,VARIANCE Expiration Date
+62f53f4682eb52eab3c18fd1,,130566,question,questionText,32199,form,Currency used in Certificate of Insurance (COI)

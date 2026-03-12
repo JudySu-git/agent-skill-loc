@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec610100002d00a473b3,5d2f7f483300004e4db006a9,26854,questionGroup,questionGroupText,26854,form,Georgia Contractor License
+5d558cc93800008972800d19,5d2f7f5e3300004e4db006bb,26855,questionGroup,questionGroupText,26854,form,Georgia Contractor License
+5d2f7f913400004341b7fda5,,84319,question,description,26854,form,"<a href = ""https://verify.sos.ga.gov/verification/Search.aspx?facility=Y""target=""_BLANK_"">Georgia Professional Licensing</a>"
+5d2f7f913400004341b7fda5,,84319,question,questionText,26854,form,Georgia Contractor License Number:\n
+5d2f7fa93300004e4db006da,,84320,question,description,26854,form,"<a href = ""https://verify.sos.ga.gov/verification/Search.aspx?facility=Y""target=""_BLANK_"">Georgia Professional Licensing</a>"
+5d2f7fa93300004e4db006da,,84320,question,questionText,26854,form,Georgia Contractor License Classifications:
+5d2f7fc83400004341b7fdc1,,84321,question,questionText,26854,form,Georgia License Expiration Date:
+5d2f7fdb3400004341b7fdc4,,84322,question,description,26854,form,A URL will make verification quicker if provided\n
+5d2f7fdb3400004341b7fdc4,,84322,question,questionText,26854,form,"Upload a copy of your license, and or provide the URL of the license."
+5d2f7fdb3400004341b7fdc4,,84322,question,responseOption1,26854,form,File Upload
+5d2f7fdb3400004341b7fdc4,,84322,question,responseOption2,26854,form,URL
+5d2f7ff53300004e4db00a0a,,84323,question,questionText,26854,form,Please upload a copy of your Georgia license:
+5d2f80063300004e4db00a0c,,84324,question,questionText,26854,form,Please enter the URL of the license:

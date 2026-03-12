@@ -1,0 +1,1022 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63acacc31900002503d39e56,639279861600007009dd1760,38026,questionGroup,questionGroupText,38026,form,Avetta PQF - EMEA Construction
+63927ac01900008b092fd0c9,63927ac01900008b092fd0c8,38033,questionGroup,questionGroupText,38026,form,Preventing Modern Slavery
+63aca4ce160000360304900a,63927b1b1900008b092fd30b,38034,questionGroup,questionGroupText,38026,form,Commitment to Safe Working Practices
+63acacb1160000730304e4df,6397ba4c170000350a786193,38079,questionGroup,questionGroupText,38026,form,Appointment of Roles / Functions
+6398b736190000a603456f74,6398b736190000a603456f73,38082,questionGroup,questionGroupText,38026,form,Site Security
+6398bd24170000db05920958,6398bd24170000db05920957,38083,questionGroup,questionGroupText,38026,form,Notification of Projects
+6398c1a11700008e06924897,6398c1a11700008e06924896,38084,questionGroup,questionGroupText,38026,form,Risk Management
+63a223f01b00001702a8bf09,63a223f01b00001702a8bf08,38224,questionGroup,questionGroupText,38026,form,Plant and Equipment
+63aca12d1600003f03045dbc,63a3254c1600000d03cbfb12,38225,questionGroup,questionGroupText,38026,form,Training and Competency
+63a372101800008e021e25d4,63a372101800008e021e25d3,38238,questionGroup,questionGroupText,38026,form,Communication
+63ac8ed21900000d02d235c5,63a377431800008e021e641d,38239,questionGroup,questionGroupText,38026,form,Accident / Incident Management
+63a4b82f180000d501faa88f,63a4b82f180000d501faa88e,38243,questionGroup,questionGroupText,38026,form,Audit and Inspection
+63a4dd7b180000f0044a9864,63a4dd7b180000f0044a9863,38244,questionGroup,questionGroupText,38026,form,Workers Health
+63ab2103160000130438dd62,63ab2103160000130438dd61,38259,questionGroup,questionGroupText,38026,form,Fire Safety
+63ab284a160000f802605f80,63ab284a160000f802605f7f,38260,questionGroup,questionGroupText,38026,form,Hazardous Materials / Substances
+63ab29fd1600002d03607d62,63ab29fd1600002d03607d61,38261,questionGroup,questionGroupText,38026,form,Managing Emergencies
+63ab34a41800003e0031eaee,63ab34a41800003e0031eaed,38262,questionGroup,questionGroupText,38026,form,Environmental Management
+63ac9d981600002d03043d24,63ab74e1180000090131f067,38263,questionGroup,questionGroupText,38026,form,Waste Management
+63ac8f991900001a02d240b8,63ac8f991900001a02d240b7,38270,questionGroup,questionGroupText,38026,form,Consultation
+63927ad519000077092fd161,,134633,question,questionText,38026,form,"Does the Company have a management or mission statement, policy or management programme confirming the business is committed and motivated to preventing modern slavery within the workplace and supply chain? "
+63927ad519000077092fd161,,134633,question,responseOption1,38026,form,Yes
+63927ad519000077092fd161,,134633,question,responseOption2,38026,form,No
+63927af21600006f09dd27f1,,134634,question,questionText,38026,form,"Does the company verify the status of all workers' engaged to conduct work or deliver a service, confirming they can legally work in the country where the work is being undertaken?"
+63927af21600006f09dd27f1,,134634,question,responseOption1,38026,form,Yes
+63927af21600006f09dd27f1,,134634,question,responseOption2,38026,form,No
+63927c11190000bc092fdf2a,,134635,question,questionText,38026,form,"Does the Company have a management or mission statement, policy or management programme confirming the business is committed to providing a high standard of workplace safety complying  with applicable Health and Safety laws, Approved Codes of Practices, industry related standards and codes of conduct?"
+63927c11190000bc092fdf2a,,134635,question,responseOption1,38026,form,Yes
+63927c11190000bc092fdf2a,,134635,question,responseOption2,38026,form,No
+6397823d170000c20475bbe3,,134825,question,description,38026,form,"(This can include a company policy statement signed by a senior management representative, definition of health and safety related roles and responsibilities of workers', confirmation how work related risk will be addressed and safety arrangements such as issue of protective equipment, provision of safety training, etc.)"
+6397823d170000c20475bbe3,,134825,question,questionText,38026,form,Upload evidence demonstrating management commitment to providing a safe place of work.
+6397826a170000d70475bda6,,134826,question,questionText,38026,form,Confirm why the company does not have a formal process to select safety coordination / management to work on client projects.
+6397826a170000d70475bda6,,134826,question,responseOption1,38026,form,Company believes this is not required based on current scope of work
+6397826a170000d70475bda6,,134826,question,responseOption2,38026,form,Company does not believe they are big enough to implement formal management commitment
+6397826a170000d70475bda6,,134826,question,responseOption3,38026,form,It is not a requirement to provide this commitment in country of operation
+6397826a170000d70475bda6,,134826,question,responseOption4,38026,form,Company relies on the client management of workplace safety
+6397826a170000d70475bda6,,134826,question,responseOption5,38026,form,Current company management programmes currently under review and will implement policies / statements in next 3 months
+6397826a170000d70475bda6,,134826,question,responseOption6,38026,form,Other
+639788911700008d05760108,,134856,question,questionText,38026,form,Other:
+639788cb1700008d05760524,,134858,question,description,38026,form,"(This should define company expectations around roles and responsibilities, work procedures, safe  systems of work, operating and using work equipment safely, providing safety training, selecting subcontractors, coordination of work programmes, etc. )"
+639788cb1700008d05760524,,134858,question,questionText,38026,form,Does the company have a formal management system containing information demonstrating how workplace safety will be managed?
+639788cb1700008d05760524,,134858,question,responseOption1,38026,form,Yes
+639788cb1700008d05760524,,134858,question,responseOption2,38026,form,No
+63978b41170000d004762b32,,134866,question,questionText,38026,form,Upload a copy of the table of contents from the safety management system/programme.
+63978b5d1600006f040633be,,134867,question,questionText,38026,form,"Confirm why the company does not have a formal workplace health, safety and environmental programme."
+63978b5d1600006f040633be,,134867,question,responseOption1,38026,form,Company believes this is not required based on current scope of work
+63978b5d1600006f040633be,,134867,question,responseOption2,38026,form,Company does not believe they are big enough to implement formal safety and environmental management systems
+63978b5d1600006f040633be,,134867,question,responseOption3,38026,form,Company relies on the client to manage workplace safety
+63978b5d1600006f040633be,,134867,question,responseOption4,38026,form,"Current company management programmes currently under review and will implement a health, safety and environmental management system in next 3 months"
+63978b5d1600006f040633be,,134867,question,responseOption5,38026,form,Other
+63978bbd170000d0047630f5,,134868,question,questionText,38026,form,Other:
+63978bd51600006f040639a5,,134869,question,questionText,38026,form,Does the company provide personal protective equipment (PPE) to the workforce?
+63978bd51600006f040639a5,,134869,question,responseOption1,38026,form,Yes
+63978bd51600006f040639a5,,134869,question,responseOption2,38026,form,No
+63978bf31600008904063bec,,134870,question,questionText,38026,form,Confirm the management process covering personal protective equipment (PPE).\n
+63978bf31600008904063bec,,134870,question,responseOption1,38026,form,Equipment is provided to permanent / full time workers' - free of charge
+63978bf31600008904063bec,,134870,question,responseOption10,38026,form,Employment agency workers' are expected to attend worksites with their own PPE
+63978bf31600008904063bec,,134870,question,responseOption11,38026,form,Other
+63978bf31600008904063bec,,134870,question,responseOption2,38026,form,Permanent / full time workers' provide PPE at their own expense
+63978bf31600008904063bec,,134870,question,responseOption3,38026,form,"Permanent / full time workers can pay extra for different types of protective equipment, styles or quality"
+63978bf31600008904063bec,,134870,question,responseOption4,38026,form,Equipment is provided to subcontractor’s workers - free of charge
+63978bf31600008904063bec,,134870,question,responseOption5,38026,form,"Temporary workers' (e.g., day workers'), provide own protective equipment"
+63978bf31600008904063bec,,134870,question,responseOption6,38026,form,Company provides self-employed workers with PPE free of charge
+63978bf31600008904063bec,,134870,question,responseOption7,38026,form,Self-employed workers' contracted directly provide their own PPE
+63978bf31600008904063bec,,134870,question,responseOption8,38026,form,Employed workers' can provide their own protective equipment and company undertake suitability checks on this equipment before use
+63978bf31600008904063bec,,134870,question,responseOption9,38026,form,Employment agency workers' are provided with equipment free of charge
+63978e641600006004065037,,134871,question,questionText,38026,form,Other:
+63978e7c1600006004065039,,134872,question,questionText,38026,form,"Upload a copy of a PPE issue list or similar, confirming how protective equipment is issued and controlled."
+63978e9a170000ce04764e39,,134873,question,questionText,38026,form,Confirm why the company does not issue personal protective equipment (PPE) to all workers'.
+63978e9a170000ce04764e39,,134873,question,responseOption1,38026,form,Company does not believe they are big enough to issue PPE to all workers
+63978e9a170000ce04764e39,,134873,question,responseOption2,38026,form,Company relies on client to issue PPE when working on their projects
+63978e9a170000ce04764e39,,134873,question,responseOption3,38026,form,Company only issues equipment to permanent / full time workers'
+63978e9a170000ce04764e39,,134873,question,responseOption4,38026,form,Company only issues free equipment to permanent workers'
+63978e9a170000ce04764e39,,134873,question,responseOption5,38026,form,"Company uses self-employed workers, and it is their resposnblity to wear PPE"
+63978e9a170000ce04764e39,,134873,question,responseOption6,38026,form,Current company policy on how PPE shall be managed currently under review-issue in 3 months
+63978e9a170000ce04764e39,,134873,question,responseOption7,38026,form,Other
+639799fb170000750676b849,,134874,question,questionText,38026,form,Other:
+63979a8f170000860676bd5c,,134875,question,questionText,38026,form,"Does the company maintain a procedure to select, approve and manage sub-contractors?"
+63979a8f170000860676bd5c,,134875,question,responseOption1,38026,form,Yes
+63979a8f170000860676bd5c,,134875,question,responseOption2,38026,form,No
+63979aa91700009e0676bdd0,,134876,question,questionText,38026,form,Company does not have a formal selection process to evaluate subcontractors.
+63979aa91700009e0676bdd0,,134876,question,responseOption1,38026,form,Company does not believe they are big enough to justify subcontractor evaluation
+63979aa91700009e0676bdd0,,134876,question,responseOption2,38026,form,"Due to size of the company, all subcontractors are known by the company and have worked with company previously"
+63979aa91700009e0676bdd0,,134876,question,responseOption3,38026,form,Company relies on client to specify who they should use when subcontracting work
+63979aa91700009e0676bdd0,,134876,question,responseOption4,38026,form,"Company do not use a formal selection process, using historical relationships when choosing"
+63979aa91700009e0676bdd0,,134876,question,responseOption5,38026,form,Client mandates who work can be subcontracted to
+63979aa91700009e0676bdd0,,134876,question,responseOption6,38026,form,Company only use subcontractors who possess relevant membership of a trade association 
+63979aa91700009e0676bdd0,,134876,question,responseOption7,38026,form,Other
+63979d51170000050776e29c,,134877,question,questionText,38026,form,Other:
+6397baa1160000aa080874cf,,134878,question,questionText,38026,form,Does the company have a formal process to appoint key personnel responsible for the management and coordination of health and safety before the site / project work starts?
+6397baa1160000aa080874cf,,134878,question,responseOption1,38026,form,Yes
+6397baa1160000aa080874cf,,134878,question,responseOption2,38026,form,No
+6397bc09160000b2080883a9,,134880,question,questionText,38026,form,Confirm why the company does not have a formal process to select personnel for site safety and coordination.
+6397bc09160000b2080883a9,,134880,question,responseOption1,38026,form,Company believes this is not required based on current scope of work
+6397bc09160000b2080883a9,,134880,question,responseOption2,38026,form,Company does not believe they are big enough to appoint individuals to undertake site safety responsibility
+6397bc09160000b2080883a9,,134880,question,responseOption3,38026,form,Company expect all workers' to take responsibility for site safety  - do not appoint an individual who has sole responsibility for workplace safety
+6397bc09160000b2080883a9,,134880,question,responseOption4,38026,form,Company relies on client representative to manage site safety
+6397bc09160000b2080883a9,,134880,question,responseOption5,38026,form,Current company recruitment programmes currently under review for safety related roles
+6397bc09160000b2080883a9,,134880,question,responseOption6,38026,form,Company use a 3rd party consultant to deliver health and safety management (Not employed directly)
+6397bc09160000b2080883a9,,134880,question,responseOption7,38026,form,Other
+6398b5fd190000cb03456209,,134887,question,questionText,38026,form,Other:
+6398b633170000b50491a743,,134888,question,questionText,38026,form,"Does the company have controls / management processes to work with the client and other parties to install, maintain / manage site security controls to prevent unauthorised access to the areas of the site they have responsibility for? "
+6398b633170000b50491a743,,134888,question,responseOption1,38026,form,Yes
+6398b633170000b50491a743,,134888,question,responseOption2,38026,form,No
+6398b651170000b60491a7d2,,134889,question,questionText,38026,form,Confirm why the company does not manage site based security.
+6398b651170000b60491a7d2,,134889,question,responseOption1,38026,form,Company believes this is not required based on current scope of work
+6398b651170000b60491a7d2,,134889,question,responseOption2,38026,form,Company does not believe they are big enough to manage site security
+6398b651170000b60491a7d2,,134889,question,responseOption3,38026,form,Company relies on client to manage security
+6398b651170000b60491a7d2,,134889,question,responseOption4,38026,form,Other
+6398b6a8190000ca03456684,,134890,question,questionText,38026,form,Other:
+6398bd401900002d0445d56a,,134894,question,description,38026,form,"(Dates, type of work, estimated duration, nominated personnel, etc)?"
+6398bd401900002d0445d56a,,134894,question,questionText,38026,form,Does the company have a formal process to notify the client / and or government agencies of the commencement of their work on the project / site.
+6398bd401900002d0445d56a,,134894,question,responseOption1,38026,form,Yes
+6398bd401900002d0445d56a,,134894,question,responseOption2,38026,form,No
+6398bd98190000a90345d84a,,134895,question,description,38026,form,"(This can include templates used for the notification, management workflow showing the working process, responsibilities, who it goes to and how changes are managed form the original detail, etc)"
+6398bd98190000a90345d84a,,134895,question,questionText,38026,form,Provide evidence that confirms how the notification process works.
+6398be4a190000200445d878,,134896,question,questionText,38026,form,Confirm why the company does not have a formal process to notify government agencies of work  starting on site.
+6398be4a190000200445d878,,134896,question,responseOption1,38026,form,Company believes this is not required based on current scope of work
+6398be4a190000200445d878,,134896,question,responseOption2,38026,form,Company does not believe they are responsible for notifying government agencies of work 
+6398be4a190000200445d878,,134896,question,responseOption3,38026,form,Company relies on client representative deliver this function
+6398be4a190000200445d878,,134896,question,responseOption4,38026,form,Other
+6398c11f190000480445f7f0,,134897,question,questionText,38026,form,Other:
+6398c9d7190000900446514c,,134906,question,description,38026,form,"(Where there are foreseeable risk identified during the planning and delivery phases of specific work tasks, does the company assess the risks and how they may impact on the worker, other workers not directly involved in the work task, infrastructure and other 3rd parties such as site visitors, members of the public)."
+6398c9d7190000900446514c,,134906,question,questionText,38026,form,Does the company conduct risk assessments to enable / facilitate safe systems of work?
+6398c9d7190000900446514c,,134906,question,responseOption1,38026,form,Yes
+6398c9d7190000900446514c,,134906,question,responseOption2,38026,form,No
+6398ca50190000950446514e,,134907,question,questionText,38026,form,Does the company document / list the controls (Needed to reduce the risk and its impact) within site based documentation?
+6398ca50190000950446514e,,134907,question,responseOption1,38026,form,Yes
+6398ca50190000950446514e,,134907,question,responseOption2,38026,form,No
+6398ca781900002904465a3f,,134908,question,questionText,38026,form,The company risk control programme covers:
+6398ca781900002904465a3f,,134908,question,responseOption1,38026,form,Generic based risk
+6398ca781900002904465a3f,,134908,question,responseOption2,38026,form,Site-specific risk and conditions
+6398cab81900002904465cf2,,134909,question,questionText,38026,form,The company risk prevention programme provides a range of risk reduction /mitigation measures and controls.
+6398cab81900002904465cf2,,134909,question,responseOption1,38026,form,Evaluation of risk associated with identifiable hazards based on work activity
+6398cab81900002904465cf2,,134909,question,responseOption10,38026,form,Prioritise collective protective measures (over individual protective measures)
+6398cab81900002904465cf2,,134909,question,responseOption11,38026,form,Workers' must sign to acknowledge understanding of requirement
+6398cab81900002904465cf2,,134909,question,responseOption12,38026,form,Pregnant workers risk (office and site based) Workers with disabilities
+6398cab81900002904465cf2,,134909,question,responseOption13,38026,form,Working at height
+6398cab81900002904465cf2,,134909,question,responseOption14,38026,form,Interaction with plant and equipment
+6398cab81900002904465cf2,,134909,question,responseOption15,38026,form,Falling materials / dropped objects
+6398cab81900002904465cf2,,134909,question,responseOption16,38026,form,Excavations and cave-in risk
+6398cab81900002904465cf2,,134909,question,responseOption17,38026,form,Working near overhead hazards
+6398cab81900002904465cf2,,134909,question,responseOption18,38026,form,Working near underground services / utilities
+6398cab81900002904465cf2,,134909,question,responseOption19,38026,form,Contact with energy source
+6398cab81900002904465cf2,,134909,question,responseOption2,38026,form,Reduce foreseeable risk at source
+6398cab81900002904465cf2,,134909,question,responseOption20,38026,form,Interference with automatic material handling equipment and conveyor / sortation technology
+6398cab81900002904465cf2,,134909,question,responseOption21,38026,form,Working with lifting equipment
+6398cab81900002904465cf2,,134909,question,responseOption22,38026,form,"Hot working, dangers from onsite combustion"
+6398cab81900002904465cf2,,134909,question,responseOption23,38026,form,Compressed gas working
+6398cab81900002904465cf2,,134909,question,responseOption24,38026,form,Confined spaces
+6398cab81900002904465cf2,,134909,question,responseOption25,38026,form,Other
+6398cab81900002904465cf2,,134909,question,responseOption3,38026,form,Company has ability to adapt working environment to meet needs of individual workers
+6398cab81900002904465cf2,,134909,question,responseOption4,38026,form,Prioritise how control measures are implemented
+6398cab81900002904465cf2,,134909,question,responseOption5,38026,form,Reduce residual risk to lowest level
+6398cab81900002904465cf2,,134909,question,responseOption6,38026,form,Periodic review of documented risk assessments – change where required
+6398cab81900002904465cf2,,134909,question,responseOption7,38026,form,Communicate risk information to workers
+6398cab81900002904465cf2,,134909,question,responseOption8,38026,form,Utilise engineering controls  where possible
+6398cab81900002904465cf2,,134909,question,responseOption9,38026,form,Adapt work to the individual where possible
+6398cd4f170000bc0792b03b,,134910,question,questionText,38026,form,Other:
+6398cd671900004804466a90,,134911,question,description,38026,form,"(This may be a company procedure that confirms how risk is identified, calculated / evaluated,  confirm responsibilities and subsequent communication of details, examples can be [provided -ensure all personal information is redacted)"
+6398cd671900004804466a90,,134911,question,questionText,38026,form,Upload documentation confirming how activity related hazards are identified and associated risk reduced to its lowest level.
+6398cd9d170000090892b604,,134912,question,questionText,38026,form,Confirm why there is no formal process to risk assess work activity  and facilitate safe working practice.
+6398cd9d170000090892b604,,134912,question,responseOption1,38026,form,Company does not believe they are big enough to develop this type of programme
+6398cd9d170000090892b604,,134912,question,responseOption2,38026,form,Company relies on client to issue risk information  and sign them off as fit for purpose
+6398cd9d170000090892b604,,134912,question,responseOption3,38026,form,Current company risk programmes currently under review to be implemented in 3 months from review date
+6398cd9d170000090892b604,,134912,question,responseOption4,38026,form,Company does not have suitably skilled personnel employed
+6398cd9d170000090892b604,,134912,question,responseOption5,38026,form,Other
+6398cdf01900002904466a93,,134913,question,questionText,38026,form,Other:
+6398ce3519000029044672f0,,134914,question,questionText,38026,form,Does the company mandate members of the site based-supervisory team approve task based risk assessments?
+6398ce3519000029044672f0,,134914,question,responseOption1,38026,form,Yes
+6398ce3519000029044672f0,,134914,question,responseOption2,38026,form,No
+6398ce3519000029044672f0,,134914,question,responseOption3,38026,form,N/A
+6398e2721900008e0447cc5b,,134928,question,questionText,38026,form,"Site based supervisory personnel have been trained to recognise, manage and assess applicable health and safety hazards and reduce the associated risks."
+6398e2721900008e0447cc5b,,134928,question,responseOption1,38026,form,Yes
+6398e2721900008e0447cc5b,,134928,question,responseOption2,38026,form,No
+6398eae31900002904482b7e,,134931,question,questionText,38026,form,Site supervisory personnel receive training / coaching in the following areas:
+6398eae31900002904482b7e,,134931,question,responseOption1,38026,form,"Supervisory personnel (site / project based) receive confirmation on the employer’s expectations on  providing a safe working environment. (Policy statement, mission statement, company objectives, job description, etc.) "
+6398eae31900002904482b7e,,134931,question,responseOption2,38026,form,Training in foreseeable hazards / associated risks based upon the company work scope / services provided
+6398ef961900007905488a99,,134934,question,questionText,38026,form,Company does not use site supervisor to review safe working practice and suitability of risk assessments.
+6398ef961900007905488a99,,134934,question,responseOption1,38026,form,Company does not believe they are big enough to employ site supervisory to oversee site safety and use of risk assessments
+6398ef961900007905488a99,,134934,question,responseOption2,38026,form,Company uses an independent consultant to undertake risk assessment reviews/safe working practice
+6398ef961900007905488a99,,134934,question,responseOption3,38026,form,Company relies on client safety support and site supervision
+6398ef961900007905488a99,,134934,question,responseOption4,38026,form,Other
+6398f1aa190000240448aaa6,,134935,question,questionText,38026,form,Other:
+6398f22e170000400b94c7b7,,134938,question,questionText,38026,form,Does the company communicate job hazard / risk information to workers and other 3rd parties that may be impacted by the work activity?
+6398f22e170000400b94c7b7,,134938,question,responseOption1,38026,form,Yes
+6398f22e170000400b94c7b7,,134938,question,responseOption2,38026,form,No
+6398f260190000250448b206,,134940,question,questionText,38026,form,Hazard / risk information is communicated to:
+6398f260190000250448b206,,134940,question,responseOption1,38026,form,Subcontractors engaged directly by the client organisation
+6398f260190000250448b206,,134940,question,responseOption2,38026,form,Client employees
+6398f260190000250448b206,,134940,question,responseOption3,38026,form,Subcontractors engaged directly by your company
+6398f260190000250448b206,,134940,question,responseOption4,38026,form,Local population living in close proximity to the work activity that may be impacted
+6398f260190000250448b206,,134940,question,responseOption5,38026,form,Site visitors
+6398f260190000250448b206,,134940,question,responseOption6,38026,form,Other
+6398f312170000140b94d48a,,134945,question,questionText,38026,form,Other:
+6398f363170000190b94dc87,,134947,question,description,38026,form,"(This can be in a work flow chart or company procedure, confirming how information is issued and communicated,  media used and how records are maintained, for example, all briefings must be signed and acknowledged, in the case on non-employees, this may be mail drops and information issued via social media or video or radio messaging. Evidence can be actual examples used on projects or templates confirming how the messages are issued-if actual examples please ensure all personal detail is removed)."
+6398f363170000190b94dc87,,134947,question,questionText,38026,form,Confirm how the company communicates work related risk information.
+6398f4ae1900008c0448d2f0,,134948,question,questionText,38026,form,Confirm why the company does not formally communicate risk assessment information.
+6398f4ae1900008c0448d2f0,,134948,question,responseOption1,38026,form,Company believes this is not required based on current scope of work
+6398f4ae1900008c0448d2f0,,134948,question,responseOption2,38026,form,Company does not believe they are big enough to justify using a formal communication programme
+6398f4ae1900008c0448d2f0,,134948,question,responseOption3,38026,form,Company relies on client representative to communicate risk assessment and safe working information to all parties
+6398f4ae1900008c0448d2f0,,134948,question,responseOption4,38026,form,Company currently developing a communication process – implemented in 3 months
+6398f4ae1900008c0448d2f0,,134948,question,responseOption5,38026,form,Other
+6398f8ff170000480b9511c9,,134949,question,questionText,38026,form,Other:
+63a2189f190000f50218c292,,135501,question,description,38026,form,"(If the company does not employ [In any capacity], workers under the age of 18 years of age, you can select the Not Applicable option)"
+63a2189f190000f50218c292,,135501,question,questionText,38026,form,Does the company have a formal process to prevent young workers' (Under 18) from being exposed to workplace risk? 
+63a2189f190000f50218c292,,135501,question,responseOption1,38026,form,Yes
+63a2189f190000f50218c292,,135501,question,responseOption2,38026,form,No
+63a2189f190000f50218c292,,135501,question,responseOption3,38026,form,N/A
+63a218e91b00001c02a846ea,,135502,question,questionText,38026,form,Confirm how young workers' risk is managed.
+63a218e91b00001c02a846ea,,135502,question,responseOption1,38026,form,Specific risk assessments focused on young workers under age 18 years
+63a218e91b00001c02a846ea,,135502,question,responseOption2,38026,form,Young workers' not authorised to attend worksites when alone
+63a218e91b00001c02a846ea,,135502,question,responseOption3,38026,form,Young workers' must be accompanied at all stages of their training
+63a218e91b00001c02a846ea,,135502,question,responseOption4,38026,form,Incremental / staged introduction to the workplace
+63a218e91b00001c02a846ea,,135502,question,responseOption5,38026,form,Provide training and awareness sessions -young workers
+63a218e91b00001c02a846ea,,135502,question,responseOption6,38026,form,Provide training and awareness training-adult supervisors
+63a218e91b00001c02a846ea,,135502,question,responseOption7,38026,form,Other
+63a219ce1900007f0218c2f2,,135503,question,questionText,38026,form,Other:
+63a219f41b00001c02a8478d,,135504,question,questionText,38026,form,Company does not conduct risk assessments for workers under the age of 18 years of age.
+63a219f41b00001c02a8478d,,135504,question,responseOption1,38026,form,Company does not employ workers under the age of 18 years
+63a219f41b00001c02a8478d,,135504,question,responseOption2,38026,form,The company does not employ apprentices
+63a219f41b00001c02a8478d,,135504,question,responseOption3,38026,form,Company relies on client representative undertakes this function
+63a219f41b00001c02a8478d,,135504,question,responseOption4,38026,form,Current company management programmes currently under review
+63a219f41b00001c02a8478d,,135504,question,responseOption5,38026,form,All workers under the age of 18 are only employed in administrative roles and are not allowed to attend work sites
+63a219f41b00001c02a8478d,,135504,question,responseOption6,38026,form,Other
+63a21e0d190000ea021903ff,,135507,question,questionText,38026,form,Other:
+63a21e2a19000087021905e2,,135508,question,questionText,38026,form,Does the company have a formal process to manage risk in real time (Dynamic) when pre-approved work activity / risk assessments may change on site?
+63a21e2a19000087021905e2,,135508,question,responseOption1,38026,form,Yes
+63a21e2a19000087021905e2,,135508,question,responseOption2,38026,form,No
+63a2212b190000f302192e09,,135509,question,questionText,38026,form,The company does not have a process to manage risk in real time.
+63a2212b190000f302192e09,,135509,question,responseOption1,38026,form,Company believes this is not required based on current scope of work
+63a2212b190000f302192e09,,135509,question,responseOption2,38026,form,Company apply a standard approach to managing risk and believe risks do not change
+63a2212b190000f302192e09,,135509,question,responseOption3,38026,form,Company relies on client safety team to address changes to risk based on work scope
+63a2212b190000f302192e09,,135509,question,responseOption4,38026,form,Other
+63a222a41b00000c02a8b30e,,135510,question,questionText,38026,form,Other:
+63a224001b00000602a8bf0b,,135512,question,description,38026,form,"(It is understood that the range and type of equipment can vary by company size and activity, this question ls to understand the type of equipment used to deliver the company scope  of work and confirm workers', have received appropriate training in how to use that equipment)"
+63a224001b00000602a8bf0b,,135512,question,questionText,38026,form,Does the company provide employee training to use work plant and equipment safely?
+63a224001b00000602a8bf0b,,135512,question,responseOption1,38026,form,Yes
+63a224001b00000602a8bf0b,,135512,question,responseOption2,38026,form,No
+63a224441900004d0319559c,,135513,question,questionText,38026,form,Categories of plant and equipment where training is provided.
+63a224441900004d0319559c,,135513,question,responseOption1,38026,form,Hand held equipment – Power tools
+63a224441900004d0319559c,,135513,question,responseOption10,38026,form,Breakers
+63a224441900004d0319559c,,135513,question,responseOption11,38026,form,Augers
+63a224441900004d0319559c,,135513,question,responseOption12,38026,form,Other
+63a224441900004d0319559c,,135513,question,responseOption2,38026,form,Mobile plant – Lifting
+63a224441900004d0319559c,,135513,question,responseOption3,38026,form,Mobile plant – dump trucks / Fork trucks / rough terrain
+63a224441900004d0319559c,,135513,question,responseOption4,38026,form,Mobile plant – concrete working
+63a224441900004d0319559c,,135513,question,responseOption5,38026,form,Heavy construction equipment - Excavators. Bulldozers. Graders. Wheel Tractor Scraper
+63a224441900004d0319559c,,135513,question,responseOption6,38026,form,Bulldozers. Graders. Wheel Tractor Scraper
+63a224441900004d0319559c,,135513,question,responseOption7,38026,form,Conveyors
+63a224441900004d0319559c,,135513,question,responseOption8,38026,form,Cranes / Lifting equipment
+63a224441900004d0319559c,,135513,question,responseOption9,38026,form,Scaffolding
+63a22e66190000d10319b79e,,135514,question,questionText,38026,form,Other:
+63a22e78190000f30219b7a1,,135515,question,questionText,38026,form,"Does the company have a preventative maintenance programme (PMP) for all plant / equipment used on site, supported by formal procedures?"
+63a22e78190000f30219b7a1,,135515,question,responseOption1,38026,form,Yes
+63a22e78190000f30219b7a1,,135515,question,responseOption2,38026,form,No
+63a23135190000ae0319eed1,,135516,question,questionText,38026,form,Does the company have a formal document  management system to retain plant / equipment inspection records?
+63a23135190000ae0319eed1,,135516,question,responseOption1,38026,form,Yes
+63a23135190000ae0319eed1,,135516,question,responseOption2,38026,form,No
+63a23d4e19000055031a82a1,,135517,question,questionText,38026,form,Confirm the retention period for plant / equipment inspection records only.
+63a23d4e19000055031a82a1,,135517,question,responseOption1,38026,form,0-3 months
+63a23d4e19000055031a82a1,,135517,question,responseOption2,38026,form,4-6 months
+63a23d4e19000055031a82a1,,135517,question,responseOption3,38026,form,6-12 months
+63a23d4e19000055031a82a1,,135517,question,responseOption4,38026,form,1-5 years
+63a23d4e19000055031a82a1,,135517,question,responseOption5,38026,form,6 years +
+63a23d4e19000055031a82a1,,135517,question,responseOption6,38026,form,Other
+63a23d9b1b00003003a9e73b,,135518,question,questionText,38026,form,Other:
+63a23ecb1b00002b03a9f2b3,,135519,question,questionText,38026,form,Does the company use hired / leased plant and equipment to deliver the company services?
+63a23ecb1b00002b03a9f2b3,,135519,question,responseOption1,38026,form,Yes
+63a23ecb1b00002b03a9f2b3,,135519,question,responseOption2,38026,form,No
+63a325801600001602e1d522,,135539,question,questionText,38026,form,"Does the company have an induction / site orientation process in place, which workers' must attend before starting to deliver work for clients?"
+63a325801600001602e1d522,,135539,question,responseOption1,38026,form,Yes
+63a325801600001602e1d522,,135539,question,responseOption2,38026,form,No
+63a3259c1600001602e1d6a4,,135540,question,questionText,38026,form,Classification of worker covered by the induction / orientation process.
+63a3259c1600001602e1d6a4,,135540,question,responseOption1,38026,form,The process covers all employed workers'
+63a3259c1600001602e1d6a4,,135540,question,responseOption10,38026,form,"Site awareness visit, classroom and test"
+63a3259c1600001602e1d6a4,,135540,question,responseOption11,38026,form,All attendees must sign to confirm attendance and their understanding of the induction
+63a3259c1600001602e1d6a4,,135540,question,responseOption12,38026,form,Workers' issued with badges (or similar) to demonstrate they have received an induction
+63a3259c1600001602e1d6a4,,135540,question,responseOption13,38026,form,Other
+63a3259c1600001602e1d6a4,,135540,question,responseOption2,38026,form,The process covers subcontract workers'
+63a3259c1600001602e1d6a4,,135540,question,responseOption3,38026,form,All employment agency workers' - short-term / temporary
+63a3259c1600001602e1d6a4,,135540,question,responseOption4,38026,form,All employment agency workers' – long term
+63a3259c1600001602e1d6a4,,135540,question,responseOption5,38026,form,Day labourers / labour only
+63a3259c1600001602e1d6a4,,135540,question,responseOption6,38026,form,All visitors meeting with the company on site must undertake an induction / site awareness session
+63a3259c1600001602e1d6a4,,135540,question,responseOption7,38026,form,All induction / site orientation processes are documented
+63a3259c1600001602e1d6a4,,135540,question,responseOption8,38026,form,Delivered in classroom followed by test
+63a3259c1600001602e1d6a4,,135540,question,responseOption9,38026,form,Classroom training – no test
+63a327181600004602e1e11b,,135541,question,questionText,38026,form,Other:
+63a3273e1600004903cc0797,,135542,question,description,38026,form,"(This can be a template, attendance sheet, examples of lesson plans or screen shots taken from a range of programmes offered by the company- any examples must have personal details removed)"
+63a3273e1600004903cc0797,,135542,question,questionText,38026,form,Upload examples of inductions / orientations.
+63a327741600005c03cc08fd,,135543,question,questionText,38026,form,Confirm does not have a formal site based induction / orientation programme.
+63a327741600005c03cc08fd,,135543,question,responseOption1,38026,form,Company do not believe they are big enough to deliver inductions / orientations for site work
+63a327741600005c03cc08fd,,135543,question,responseOption2,38026,form,Company relies on client induction / orientation process
+63a327741600005c03cc08fd,,135543,question,responseOption3,38026,form,Other
+63a3283f1600005c02e1e592,,135544,question,questionText,38026,form,Other:
+63a328da1600006c02e1e9eb,,135545,question,questionText,38026,form,Does the company provide refresher (update skills) training to all workers' to enable them to perform their work duties safely and in a competent manner?
+63a328da1600006c02e1e9eb,,135545,question,responseOption1,38026,form,Yes
+63a328da1600006c02e1e9eb,,135545,question,responseOption2,38026,form,No
+63a32a371600008102e1ef28,,135546,question,questionText,38026,form,"Can the company confirm that all health, safety and environmental training provided to the workforce is delivered by competent individuals and / or accredited training providers?"
+63a32a371600008102e1ef28,,135546,question,responseOption1,38026,form,Yes
+63a32a371600008102e1ef28,,135546,question,responseOption2,38026,form,No
+63a35c80170000c10101a004,,135613,question,questionText,38026,form,"Methods used to provide health, safety and environmental (HSE) related training."
+63a35c80170000c10101a004,,135613,question,responseOption1,38026,form,Training provided internally only
+63a35c80170000c10101a004,,135613,question,responseOption2,38026,form,Training provided by accredited third party only
+63a35c80170000c10101a004,,135613,question,responseOption3,38026,form,Training provided a combination of internal and third party
+63a35c80170000c10101a004,,135613,question,responseOption4,38026,form,All HSE related training provided by client
+63a35c80170000c10101a004,,135613,question,responseOption5,38026,form,Company only provides health and safety training
+63a35c80170000c10101a004,,135613,question,responseOption6,38026,form,E-Learning
+63a35c80170000c10101a004,,135613,question,responseOption7,38026,form,Classroom training
+63a35c80170000c10101a004,,135613,question,responseOption8,38026,form,On the job training
+63a35c80170000c10101a004,,135613,question,responseOption9,38026,form,Other
+63a3618e180000a2011cf446,,135617,question,questionText,38026,form,Other:
+63a361aa180000f2011cf809,,135618,question,questionText,38026,form,"All health, safety and environmental training provided to workers' is provided free of charge to the worker."
+63a361aa180000f2011cf809,,135618,question,responseOption1,38026,form,Yes
+63a361aa180000f2011cf809,,135618,question,responseOption2,38026,form,No
+63a361aa180000f2011cf809,,135618,question,responseOption3,38026,form,N/A
+63a36301180000a2011d1f10,,135619,question,description,38026,form,"(For example, skills based training, awareness content specific to different working environments, training identified based on risk control measures, training based on activity such as spill kit training, emergency first aid, etc.)"
+63a36301180000a2011d1f10,,135619,question,questionText,38026,form,Does the company undertake training needs analysis to confirm workers' are provided with relevant types of training based on the company work activity?
+63a36301180000a2011d1f10,,135619,question,responseOption1,38026,form,Yes
+63a36301180000a2011d1f10,,135619,question,responseOption2,38026,form,No
+63a364de170000c201025cb2,,135620,question,questionText,38026,form,Training needs analysis process covers:
+63a364de170000c201025cb2,,135620,question,responseOption1,38026,form,Defining training programmes
+63a364de170000c201025cb2,,135620,question,responseOption10,38026,form,When refresher training is required
+63a364de170000c201025cb2,,135620,question,responseOption11,38026,form,How to address site based risk
+63a364de170000c201025cb2,,135620,question,responseOption12,38026,form,Training identified from risk controls
+63a364de170000c201025cb2,,135620,question,responseOption13,38026,form,Other
+63a364de170000c201025cb2,,135620,question,responseOption2,38026,form,Correct use of machinery
+63a364de170000c201025cb2,,135620,question,responseOption3,38026,form,Correct use of apparatus
+63a364de170000c201025cb2,,135620,question,responseOption4,38026,form,Correct use of hand tools
+63a364de170000c201025cb2,,135620,question,responseOption5,38026,form,Correct use of power tools
+63a364de170000c201025cb2,,135620,question,responseOption6,38026,form,Correct use of mobile plant / equipment
+63a364de170000c201025cb2,,135620,question,responseOption7,38026,form,How to work / use dangerous-hazardous substances
+63a364de170000c201025cb2,,135620,question,responseOption8,38026,form,"Use of transportation, transport equipment"
+63a364de170000c201025cb2,,135620,question,responseOption9,38026,form,Correct use of personal protective equipment
+63a36916170000ed0102c09f,,135621,question,questionText,38026,form,Other:
+63a36dac1700007e0202fad8,,135622,question,description,38026,form,(This is for all categories of worker employed to conduct and deliver a specific piece of work)
+63a36dac1700007e0202fad8,,135622,question,questionText,38026,form,Does your company maintain training records for its workers'?
+63a36dac1700007e0202fad8,,135622,question,responseOption1,38026,form,Yes
+63a36dac1700007e0202fad8,,135622,question,responseOption2,38026,form,No
+63a36dd9170000720202fad9,,135623,question,questionText,38026,form,Training records are maintained.
+63a36dd9170000720202fad9,,135623,question,responseOption1,38026,form,Electronic copies – Hard drive
+63a36dd9170000720202fad9,,135623,question,responseOption2,38026,form,Record documented in training matrix-Hard drive
+63a36dd9170000720202fad9,,135623,question,responseOption3,38026,form,Record documented in training matrix-manual system
+63a36dd9170000720202fad9,,135623,question,responseOption4,38026,form,Cloud based storage
+63a36dd9170000720202fad9,,135623,question,responseOption5,38026,form,Paper based system site and office
+63a36dd9170000720202fad9,,135623,question,responseOption6,38026,form,Paper based system - office
+63a36dd9170000720202fad9,,135623,question,responseOption7,38026,form,Rely on training provider to keep records
+63a36dd9170000720202fad9,,135623,question,responseOption8,38026,form,Copy provided to worker to carry with them on site
+63a36dd9170000720202fad9,,135623,question,responseOption9,38026,form,Other
+63a36f70180000a0021df722,,135624,question,questionText,38026,form,Other:
+63a36f7f180000a2021df8a4,,135625,question,description,38026,form,"(e.g., Inductions, Risk Assessments. Tool Box talks, how to use protective equipment, use of pictures, use of translators, sub-titles on pictures, etc.)"
+63a36f7f180000a2021df8a4,,135625,question,questionText,38026,form,"If some workers' have literacy issues or have limited understanding of the main language used in the country where the work is taking place, does the company have a process for effectively communicating health, safety and environmental information?"
+63a36f7f180000a2021df8a4,,135625,question,responseOption1,38026,form,Yes
+63a36f7f180000a2021df8a4,,135625,question,responseOption2,38026,form,No
+63a370071700008302031e9e,,135626,question,questionText,38026,form,"Company has no process to communicate health, safety and environmental safety information to workers with limited language / literacy skills."
+63a370071700008302031e9e,,135626,question,responseOption1,38026,form,Company only recruit workers' who can speak the local language fluently and are literate
+63a370071700008302031e9e,,135626,question,responseOption2,38026,form,Workers' are tested for language and literacy skills before employing and are not employed if minimum standards not met
+63a370071700008302031e9e,,135626,question,responseOption3,38026,form,Other
+63a3706b1800008a021e068b,,135627,question,questionText,38026,form,Other:
+63a371b01800008e021e12c0,,135628,question,questionText,38026,form,Does the company maintain competency assessments / records for workers'?
+63a371b01800008e021e12c0,,135628,question,responseOption1,38026,form,Yes
+63a371b01800008e021e12c0,,135628,question,responseOption2,38026,form,No
+63a372201700007e02033370,,135629,question,questionText,38026,form,"Does the company communicate health, safety and environmental information  to  sub-contractors, labour only and employment agency workers' who help to deliver the scope of work?"
+63a372201700007e02033370,,135629,question,responseOption1,38026,form,Yes
+63a372201700007e02033370,,135629,question,responseOption2,38026,form,No
+63a3756d170000e702036457,,135630,question,questionText,38026,form,"Methods used to communicate health, safety and environmental information  to 3rd parties."
+63a3756d170000e702036457,,135630,question,responseOption1,38026,form,E-Mails
+63a3756d170000e702036457,,135630,question,responseOption10,38026,form,Safety Campaigns
+63a3756d170000e702036457,,135630,question,responseOption11,38026,form,Safety surveys
+63a3756d170000e702036457,,135630,question,responseOption12,38026,form,Other
+63a3756d170000e702036457,,135630,question,responseOption2,38026,form,SMS messaging
+63a3756d170000e702036457,,135630,question,responseOption3,38026,form,Tool Box Talks / Huddles
+63a3756d170000e702036457,,135630,question,responseOption4,38026,form,Notice Boards
+63a3756d170000e702036457,,135630,question,responseOption5,38026,form,HSE Bulletins
+63a3756d170000e702036457,,135630,question,responseOption6,38026,form,Project update meetings
+63a3756d170000e702036457,,135630,question,responseOption7,38026,form,Contractual requirements
+63a3756d170000e702036457,,135630,question,responseOption8,38026,form,Bulletins / recommendations from accident / incident  investigations
+63a3756d170000e702036457,,135630,question,responseOption9,38026,form,Risk assessments and safe methods of working documentation
+63a375ea18000025031e56d7,,135631,question,questionText,38026,form,Other:
+63a3778a1700008002037b80,,135632,question,description,38026,form,"(Government agencies, enforcement authorities and insurance companies, etc.)"
+63a3778a1700008002037b80,,135632,question,questionText,38026,form,"Does the company have a consultation process in place that allows any worker to provide feedback / comment, raise concerns on work situations that present immediate, serious danger or gaps in risk and safety arrangements on site?"
+63a3778a1700008002037b80,,135632,question,responseOption1,38026,form,Yes
+63a3778a1700008002037b80,,135632,question,responseOption2,38026,form,No
+63a378861800008a021e6f33,,135633,question,description,38026,form,(Subject to mandatory reporting):
+63a378861800008a021e6f33,,135633,question,questionText,38026,form,Confirm methods used to report accidents / incidents.
+63a378861800008a021e6f33,,135633,question,responseOption1,38026,form,Electronically – Multi Agency
+63a378861800008a021e6f33,,135633,question,responseOption10,38026,form,Hard copy – Worker Compensation Body
+63a378861800008a021e6f33,,135633,question,responseOption11,38026,form,Telephone
+63a378861800008a021e6f33,,135633,question,responseOption12,38026,form,Other
+63a378861800008a021e6f33,,135633,question,responseOption2,38026,form,"Electronically – Enforcement authorities, e.g., police"
+63a378861800008a021e6f33,,135633,question,responseOption3,38026,form,"Electronically – Enforcement authorities, e.g., local or municipal authorities, government department"
+63a378861800008a021e6f33,,135633,question,responseOption4,38026,form,Electronically – Insurance Provider (Commercial)
+63a378861800008a021e6f33,,135633,question,responseOption5,38026,form,Electronically – Worker Compensation Body
+63a378861800008a021e6f33,,135633,question,responseOption6,38026,form,Hard copy – Multi Agency
+63a378861800008a021e6f33,,135633,question,responseOption7,38026,form,"Hard copy – Enforcement authorities, e.g., police"
+63a378861800008a021e6f33,,135633,question,responseOption8,38026,form,"Hard copy – Enforcement authorities, e.g., local or municipal authorities, government department"
+63a378861800008a021e6f33,,135633,question,responseOption9,38026,form,Hard copy – Insurance Provider (Commercial)
+63a37c111700001a0303b562,,135636,question,questionText,38026,form,Other:
+63a394331700009f0304e3d6,,135637,question,questionText,38026,form,Does the company have an accident / incident investigation process?
+63a394331700009f0304e3d6,,135637,question,responseOption1,38026,form,Yes
+63a394331700009f0304e3d6,,135637,question,responseOption2,38026,form,No
+63a47f61160000c0024d2285,,135663,question,questionText,38026,form,Confirm what categories / events are subject to investigation.
+63a47f61160000c0024d2285,,135663,question,responseOption1,38026,form,All incidents (irrelevant of type / severity) are subject to investigation
+63a47f61160000c0024d2285,,135663,question,responseOption2,38026,form,All near misses / hits
+63a47f61160000c0024d2285,,135663,question,responseOption3,38026,form,Significant near misses / hits only
+63a47f61160000c0024d2285,,135663,question,responseOption4,38026,form,Only accidents / incidents that have to be reported as required by law
+63a47f61160000c0024d2285,,135663,question,responseOption5,38026,form,Only fatalities are investigated
+63a47f61160000c0024d2285,,135663,question,responseOption6,38026,form,Only accidents / incidents involving people are investigated
+63a47f61160000c0024d2285,,135663,question,responseOption7,38026,form,Infrastructure or property related
+63a47f61160000c0024d2285,,135663,question,responseOption8,38026,form,Other
+63a47fc4160000750259b38e,,135664,question,questionText,38026,form,Other:
+63a480911600009e024d2bc4,,135665,question,questionText,38026,form,Elements included within the company investigation process:
+63a480911600009e024d2bc4,,135665,question,responseOption1,38026,form,Near misses / hits (Significant only)
+63a480911600009e024d2bc4,,135665,question,responseOption10,38026,form,Injured parties’ information recorded
+63a480911600009e024d2bc4,,135665,question,responseOption11,38026,form,"Details of any first aid provided and who provided the treatment e.g., first aid trained operative, medically trained person, etc."
+63a480911600009e024d2bc4,,135665,question,responseOption12,38026,form,"Confirm the employment status (full time / subcontractor, agency worker, etc.) of injured parties"
+63a480911600009e024d2bc4,,135665,question,responseOption13,38026,form,"If 3rd parties are injured, information is recorded e.g., members of the public"
+63a480911600009e024d2bc4,,135665,question,responseOption14,38026,form,Emergency services (ambulance / emergency rescue) attended site
+63a480911600009e024d2bc4,,135665,question,responseOption15,38026,form,Witness statements (including transcripts of any interviews that may have been undertaken)
+63a480911600009e024d2bc4,,135665,question,responseOption16,38026,form,Record any property / infrastructure damage
+63a480911600009e024d2bc4,,135665,question,responseOption17,38026,form,Records comply with data privacy laws
+63a480911600009e024d2bc4,,135665,question,responseOption18,38026,form,Other
+63a480911600009e024d2bc4,,135665,question,responseOption2,38026,form,Near misses / hits – all levels of severity
+63a480911600009e024d2bc4,,135665,question,responseOption3,38026,form,Only accidents / incidents legally required to be reported
+63a480911600009e024d2bc4,,135665,question,responseOption4,38026,form,Only fatalities are investigated
+63a480911600009e024d2bc4,,135665,question,responseOption5,38026,form,Only incidents / accidents involving people are investigated
+63a480911600009e024d2bc4,,135665,question,responseOption6,38026,form,Property / structural related incidents
+63a480911600009e024d2bc4,,135665,question,responseOption7,38026,form,A formal report is produced
+63a480911600009e024d2bc4,,135665,question,responseOption8,38026,form,Assign clear recommendations & corrective actions to prevent a reoccurrence
+63a480911600009e024d2bc4,,135665,question,responseOption9,38026,form,Photographs / Diagrams included
+63a4830f160000830259c411,,135666,question,questionText,38026,form,Other:
+63a4832a1600009e024d3e74,,135667,question,description,38026,form,"(This may be a simple workflow, report template, formal company procedure, if there is a different approach for the different categories of investigation, these should be included, if providing an actual example any personal information should be removed)"
+63a4832a1600009e024d3e74,,135667,question,questionText,38026,form,Provide confirmation how the company investigates accidents / incidents and near misses.
+63a483d51600007e0259c5f8,,135668,question,questionText,38026,form,Company does not investigate accidents and/or incidents formally.
+63a483d51600007e0259c5f8,,135668,question,responseOption1,38026,form,Only employ small number of workers'  - company too small to conduct  investigations
+63a483d51600007e0259c5f8,,135668,question,responseOption2,38026,form,Have always relied on the client to undertake investigations and draft reports
+63a483d51600007e0259c5f8,,135668,question,responseOption3,38026,form,We do not have suitably qualified personnel who could undertake an investigation
+63a483d51600007e0259c5f8,,135668,question,responseOption4,38026,form,Other
+63a4842e160000d7024d42b5,,135669,question,questionText,38026,form,Does the company calculate and monitor accident frequency rates?
+63a4842e160000d7024d42b5,,135669,question,responseOption1,38026,form,Yes
+63a4842e160000d7024d42b5,,135669,question,responseOption2,38026,form,No
+63a4842e160000d7024d42b5,,135669,question,responseOption3,38026,form,N/A
+63a4975116000061034db0a5,,135670,question,questionText,38026,form,Confirm what formulae is used to calculate the company accident frequency rates.
+63a4aeb11800004201487376,,135678,question,questionText,38026,form,Does the company calculate and monitor Lost Time injury rates?
+63a4aeb11800004201487376,,135678,question,responseOption1,38026,form,Yes 
+63a4aeb11800004201487376,,135678,question,responseOption2,38026,form,No
+63a4aeb11800004201487376,,135678,question,responseOption3,38026,form,N/A
+63a4af871800007101fa2f03,,135679,question,questionText,38026,form,Confirm what formulae is used to calculate the company incident frequency rates.
+63a4afab1800004301fa30ad,,135680,question,questionText,38026,form,Does the company calculate and monitor total incident rates?
+63a4afab1800004301fa30ad,,135680,question,responseOption1,38026,form,Yes
+63a4afab1800004301fa30ad,,135680,question,responseOption2,38026,form,No
+63a4afab1800004301fa30ad,,135680,question,responseOption3,38026,form,N/A
+63a4afc11800004101487dad,,135681,question,questionText,38026,form,Confirm what formulae is used to calculate total incident rates.
+63a4b06a1800004501fa38c5,,135683,question,questionText,38026,form,Does the company use leading indicators to improve workplace safety?
+63a4b06a1800004501fa38c5,,135683,question,responseOption1,38026,form,Yes
+63a4b06a1800004501fa38c5,,135683,question,responseOption2,38026,form,No
+63a4b06a1800004501fa38c5,,135683,question,responseOption3,38026,form,N/A
+63a4b18b1800007a01fa46c7,,135684,question,questionText,38026,form,Company uses the following leading indicators to improve workplace safety.
+63a4b18b1800007a01fa46c7,,135684,question,responseOption1,38026,form,Programmed evaluation of workplace safety training
+63a4b18b1800007a01fa46c7,,135684,question,responseOption10,38026,form,Workplace safety inspection programme with analysis of findings
+63a4b18b1800007a01fa46c7,,135684,question,responseOption11,38026,form,Empowerment programmes – workplace safety
+63a4b18b1800007a01fa46c7,,135684,question,responseOption12,38026,form,No blame investigative approach
+63a4b18b1800007a01fa46c7,,135684,question,responseOption13,38026,form,Other
+63a4b18b1800007a01fa46c7,,135684,question,responseOption2,38026,form,Ergonomic assessments evaluated and changed where needed
+63a4b18b1800007a01fa46c7,,135684,question,responseOption3,38026,form,Employee perception (safety related) surveys
+63a4b18b1800007a01fa46c7,,135684,question,responseOption4,38026,form,Top down leadership messaging – positive safety message
+63a4b18b1800007a01fa46c7,,135684,question,responseOption5,38026,form,Behavioural initiatives
+63a4b18b1800007a01fa46c7,,135684,question,responseOption6,38026,form,Accountability programme
+63a4b18b1800007a01fa46c7,,135684,question,responseOption7,38026,form,Recognition for positive behaviour that can be verified
+63a4b18b1800007a01fa46c7,,135684,question,responseOption8,38026,form,Incentive programme to understand areas needing improvement
+63a4b18b1800007a01fa46c7,,135684,question,responseOption9,38026,form,Hierarchy of risk controls – evaluation / analysis
+63a4b64f1800009f0148d30b,,135686,question,questionText,38026,form,Other:
+63a4b8431800008a0148edf0,,135687,question,description,38026,form,"(Independent certification body, trade or industrial body or client organisation)"
+63a4b8431800008a0148edf0,,135687,question,questionText,38026,form,"Are any parts of the company’s health, safety and environmental management programme certified and assessed by a third party?"
+63a4b8431800008a0148edf0,,135687,question,responseOption1,38026,form,Yes
+63a4b8431800008a0148edf0,,135687,question,responseOption2,38026,form,No
+63a4b9f9180000e401fac6db,,135688,question,description,38026,form,"(The certificate should contain the following details, scope of cover, awarding body, expiry date, confirmation that the awarding body has formal approval by a Country specific certification body, client organisation and industry or trade body)"
+63a4b9f9180000e401fac6db,,135688,question,questionText,38026,form,Please upload the certificate/s.
+63a4ba16180000e401fac906,,135689,question,questionText,38026,form,"Does the company carry out programmed and random auditing of health, safety and environmental management systems?"
+63a4ba16180000e401fac906,,135689,question,responseOption1,38026,form,Yes
+63a4ba16180000e401fac906,,135689,question,responseOption2,38026,form,No
+63a4ba7c180000ef01491182,,135690,question,questionText,38026,form,"Programmed and random auditing of the health, safety and environmental management systems conducted by:"
+63a4ba7c180000ef01491182,,135690,question,responseOption1,38026,form,Independent lead auditors – Certification Body
+63a4ba7c180000ef01491182,,135690,question,responseOption2,38026,form,Independent lead auditors – Consultancy
+63a4ba7c180000ef01491182,,135690,question,responseOption3,38026,form,Independent lead auditors – Trade Body
+63a4ba7c180000ef01491182,,135690,question,responseOption4,38026,form,Independent lead auditors – Insurance Company
+63a4ba7c180000ef01491182,,135690,question,responseOption5,38026,form,Independent qualified HSE professionals
+63a4ba7c180000ef01491182,,135690,question,responseOption6,38026,form,Internal personnel – Lead auditor trained
+63a4ba7c180000ef01491182,,135690,question,responseOption7,38026,form,Internal personnel – Internal auditor trained
+63a4ba7c180000ef01491182,,135690,question,responseOption8,38026,form,Other
+63a4c831180000480249b60d,,135691,question,questionText,38026,form,Other:
+63a4c8461800005502fb7939,,135692,question,questionText,38026,form,"Does the company have a scheduled and random inspection programme undertaken on working practice, site conditions and of your health, safety and environmental management systems?"
+63a4c8461800005502fb7939,,135692,question,responseOption1,38026,form,Yes
+63a4c8461800005502fb7939,,135692,question,responseOption2,38026,form,No
+63a4c8591800003e0249bb27,,135693,question,questionText,38026,form,"Frequency of health, safety and environmental inspections undertaken on work sites."
+63a4c8591800003e0249bb27,,135693,question,responseOption1,38026,form,Daily
+63a4c8591800003e0249bb27,,135693,question,responseOption2,38026,form,Weekly
+63a4c8591800003e0249bb27,,135693,question,responseOption3,38026,form,Fortnightly
+63a4c8591800003e0249bb27,,135693,question,responseOption4,38026,form,Monthly
+63a4c8591800003e0249bb27,,135693,question,responseOption5,38026,form,Six-Monthly
+63a4c8591800003e0249bb27,,135693,question,responseOption6,38026,form,No inspections undertaken
+63a4c8591800003e0249bb27,,135693,question,responseOption7,38026,form,Other
+63a4ca611800007602fb8281,,135694,question,questionText,38026,form,Other:
+63a4cded1800008902fbbaf5,,135696,question,questionText,38026,form,"The health, safety and environmental inspection programme covers:"
+63a4cded1800008902fbbaf5,,135696,question,responseOption1,38026,form,Use of hazardous substances
+63a4cded1800008902fbbaf5,,135696,question,responseOption10,38026,form,Working near localised water systems (Natural / man-made)
+63a4cded1800008902fbbaf5,,135696,question,responseOption11,38026,form,Working adjacent to drainage systems
+63a4cded1800008902fbbaf5,,135696,question,responseOption12,38026,form,Work activity related noise generation  (Should include frequency)
+63a4cded1800008902fbbaf5,,135696,question,responseOption13,38026,form,Siting & location of task lighting in hours of darkness
+63a4cded1800008902fbbaf5,,135696,question,responseOption14,38026,form,Generated vibration as result of work activity
+63a4cded1800008902fbbaf5,,135696,question,responseOption15,38026,form,Liaison with client safety team
+63a4cded1800008902fbbaf5,,135696,question,responseOption16,38026,form,Assessment of risk based documentation
+63a4cded1800008902fbbaf5,,135696,question,responseOption17,38026,form,Certification of plant and equipment documentation
+63a4cded1800008902fbbaf5,,135696,question,responseOption18,38026,form,Operation of hand held equipment
+63a4cded1800008902fbbaf5,,135696,question,responseOption19,38026,form,Operation of mobile work equipment / plant
+63a4cded1800008902fbbaf5,,135696,question,responseOption2,38026,form,Work at height
+63a4cded1800008902fbbaf5,,135696,question,responseOption20,38026,form,Operation of plant and equipment operated by 3rd party / owner operators
+63a4cded1800008902fbbaf5,,135696,question,responseOption21,38026,form,Other
+63a4cded1800008902fbbaf5,,135696,question,responseOption3,38026,form,Excavation
+63a4cded1800008902fbbaf5,,135696,question,responseOption4,38026,form,Confined Spaces
+63a4cded1800008902fbbaf5,,135696,question,responseOption5,38026,form,Site based traffic management
+63a4cded1800008902fbbaf5,,135696,question,responseOption6,38026,form,Storage / quarantining / retrieval of materials
+63a4cded1800008902fbbaf5,,135696,question,responseOption7,38026,form,Waste storage
+63a4cded1800008902fbbaf5,,135696,question,responseOption8,38026,form,Delivery of goods / materials
+63a4cded1800008902fbbaf5,,135696,question,responseOption9,38026,form,"Use / storage of fossil fuels for on-site plant e.g., bunded tanks"
+63a4dc48180000d4044a86a7,,135698,question,questionText,38026,form,Other:
+63a4dc6d180000d4044a8972,,135699,question,questionText,38026,form,Does the company have a workplace safety inspection programme (random and scheduled) delivered by members of the senior management / Director’s team on worksites?
+63a4dc6d180000d4044a8972,,135699,question,responseOption1,38026,form,Yes
+63a4dc6d180000d4044a8972,,135699,question,responseOption2,38026,form,No
+63a4dd27180000d4044a94c6,,135700,question,description,38026,form,"(e.g., canteen, storage areas, PPE use and storage, toilets and washing facilities, working practice,  etc.)"
+63a4dd27180000d4044a94c6,,135700,question,questionText,38026,form,The management inspection programme covers all aspects of worker site facilities.
+63a4dd27180000d4044a94c6,,135700,question,responseOption1,38026,form,Yes
+63a4dd27180000d4044a94c6,,135700,question,responseOption2,38026,form,No
+63ab11dd1600001d03385b77,,135865,question,description,38026,form,"(e.g., work at height, confined space, dusty atmosphere, minimum level of eye sight, etc.)"
+63ab11dd1600001d03385b77,,135865,question,questionText,38026,form,Does the company undertake any occupational health checks on workers' who undertake specific roles that require a minimum level of fitness and wellbeing?
+63ab11dd1600001d03385b77,,135865,question,responseOption1,38026,form,Yes
+63ab11dd1600001d03385b77,,135865,question,responseOption2,38026,form,No
+63ab137b16000018025f613a,,135868,question,questionText,38026,form,Categories of workers who receive occupational health checks
+63ab137b16000018025f613a,,135868,question,responseOption1,38026,form,Workers' handling / using hazardous materials / substances
+63ab137b16000018025f613a,,135868,question,responseOption2,38026,form,Workers' returning to work after a work related accident
+63ab137b16000018025f613a,,135868,question,responseOption3,38026,form,Workers' operating at heights
+63ab137b16000018025f613a,,135868,question,responseOption4,38026,form,"Workers' operating in safety critical environments. e.g., railroad, aviation, oil and gas, etc."
+63ab137b16000018025f613a,,135868,question,responseOption5,38026,form,Workers' operating large / moving plant
+63ab137b16000018025f613a,,135868,question,responseOption6,38026,form,Workers' operating heavy equipment
+63ab137b16000018025f613a,,135868,question,responseOption7,38026,form,Other
+63ab145e1600009f03388422,,135869,question,questionText,38026,form,Other:
+63ab15c41600005c025f8319,,135870,question,description,38026,form,"(Help and guidance on the dangers of alcohol, drugs and other intoxicants in the workplace, dangers of operating equipment if under the influence of a substance and the company rules around keeping the workplace safe as a result of following this safety requirement)"
+63ab15c41600005c025f8319,,135870,question,questionText,38026,form,Does the Company have a management commitment to the prevention of intoxication in the workplace?
+63ab15c41600005c025f8319,,135870,question,responseOption1,38026,form,Yes
+63ab15c41600005c025f8319,,135870,question,responseOption2,38026,form,No
+63ab165d16000069025f8cec,,135872,question,questionText,38026,form,"If the company uses sub-contractors, labour only or employment agency workers', do contractual terms confirm the management commitment to not allowing any form of intoxication in the workplace?"
+63ab165d16000069025f8cec,,135872,question,responseOption1,38026,form,Yes
+63ab165d16000069025f8cec,,135872,question,responseOption2,38026,form,No
+63ab1ac8160000f10338bd07,,135875,question,questionText,38026,form,"Does the company provide first aid trained personnel to all work sites, (including client’s sites)?"
+63ab1ac8160000f10338bd07,,135875,question,responseOption1,38026,form,Yes
+63ab1ac8160000f10338bd07,,135875,question,responseOption2,38026,form,No
+63ab1ae01600008d025fd159,,135876,question,questionText,38026,form,Please confirm how personnel responsible for first aid on site receive training.
+63ab1ae01600008d025fd159,,135876,question,responseOption1,38026,form,No formal training provided
+63ab1ae01600008d025fd159,,135876,question,responseOption2,38026,form,General awareness training is provided by a 3rd  party
+63ab1ae01600008d025fd159,,135876,question,responseOption3,38026,form,Approved / Certified training provided by a 3rd party
+63ab1ae01600008d025fd159,,135876,question,responseOption4,38026,form,Training is provided internally – Basic awareness level
+63ab1ae01600008d025fd159,,135876,question,responseOption5,38026,form,Trained personnel are subject to programmed refresher training for delivery of first aid
+63ab1ae01600008d025fd159,,135876,question,responseOption6,38026,form,Other
+63ab1e6b160000cd0338c9b1,,135877,question,questionText,38026,form,Other:
+63ab21121600006a025ffe66,,135878,question,description,38026,form,"(This form of risk assessment is in addition to activity based risk assessment, this is addressing the risk of fire and specific controls needed to address this risk, individuals at risk, infrastructure risk, training required, emergency management, etc.)"
+63ab21121600006a025ffe66,,135878,question,questionText,38026,form,Does the company develop risk assessments to minimise the danger of combustion from flammable material / work activity?
+63ab21121600006a025ffe66,,135878,question,responseOption1,38026,form,Yes
+63ab21121600006a025ffe66,,135878,question,responseOption2,38026,form,No
+63ab214a160000140438e25b,,135879,question,questionText,38026,form,"If the company undertakes or supervises hot working as part of work services delivery, can your company confirm this is covered by the fire risk assessment and includes safe working practices and to work to a permit system?"
+63ab214a160000140438e25b,,135879,question,responseOption1,38026,form,Yes
+63ab214a160000140438e25b,,135879,question,responseOption2,38026,form,No
+63ab215b1600008d02600093,,135880,question,questionText,38026,form,Can the company confirm all flammable materials when not in use are quarantined in a suitable storage facility and this is located near fire equipment?
+63ab215b1600008d02600093,,135880,question,responseOption1,38026,form,Yes
+63ab215b1600008d02600093,,135880,question,responseOption2,38026,form,No
+63ab215b1600008d02600093,,135880,question,responseOption3,38026,form,N/A
+63ab2179160000120438e4c2,,135881,question,questionText,38026,form,Please upload sample fire risk activity covering the dangers of fire based on work activity.
+63ab24031600002504390ca1,,135882,question,questionText,38026,form,Confirm why the company does not develop fire risk assessments for site based / project work.
+63ab24031600002504390ca1,,135882,question,responseOption1,38026,form,Company believes this is not required based on current scope of work
+63ab24031600002504390ca1,,135882,question,responseOption2,38026,form,Company does not believe they are big enough to justify producing standalone fire risk assessments
+63ab24031600002504390ca1,,135882,question,responseOption3,38026,form,Company relies on client to produce this documentation when on their sites / infrastructure
+63ab24031600002504390ca1,,135882,question,responseOption4,38026,form,Company risk programme under review – fire risk assessment to be ready in 3 months
+63ab24031600002504390ca1,,135882,question,responseOption5,38026,form,Company risk programme under review – fire risk assessment to be ready in 6 months
+63ab24031600002504390ca1,,135882,question,responseOption6,38026,form,Other
+63ab245e160000c102601ed1,,135883,question,questionText,38026,form,Other:
+63ab257a160000c802602bba,,135884,question,questionText,38026,form,"Can the company confirm  during fire related emergencies that trained personnel have been nominated / appointed to act as a point of contact (Fire Marshals, Fire Wardens) to coordinate with the client, other contractors and where applicable emergency services / first responders?"
+63ab257a160000c802602bba,,135884,question,responseOption1,38026,form,Yes
+63ab257a160000c802602bba,,135884,question,responseOption2,38026,form,No
+63ab25d0160000cf02602e8e,,135885,question,questionText,38026,form,"Can the company confirm personnel appointed as fire marshals, fire wardens - coordinators have received formal training to deliver these responsibilities?"
+63ab25d0160000cf02602e8e,,135885,question,responseOption1,38026,form,Yes
+63ab25d0160000cf02602e8e,,135885,question,responseOption2,38026,form,No
+63ab267a160000cf02603484,,135886,question,description,38026,form,"(This can be provided internally or by 3rd parties, it should have a scope that addresses potential scenarios and what would be expected during emergency evacuations, coordination with different parties including government agencies. If submitting actual copies of training documentation any personal information should be redacted.)"
+63ab267a160000cf02603484,,135886,question,questionText,38026,form,Confirm examples of the training provided to personnel with responsibility to assist and coordinate emergency situations.
+63ab26da1600004f04394407,,135887,question,questionText,38026,form,Confirm why the company does not train personnel to manage fire related emergencies.
+63ab26da1600004f04394407,,135887,question,responseOption1,38026,form,Company believes this is not required based on current scope of work
+63ab26da1600004f04394407,,135887,question,responseOption2,38026,form,Company does not believe they are big enough to justify training anyone to manage / coordinate activity during fire related emergencies
+63ab26da1600004f04394407,,135887,question,responseOption3,38026,form,Company relies on client to manage and coordinate worker activity during fire related emergencies
+63ab26da1600004f04394407,,135887,question,responseOption4,38026,form,Other
+63ab2747160000e5026043eb,,135888,question,questionText,38026,form,Other:
+63ab286b160000fb02606197,,135889,question,questionText,38026,form,Does the company assess the risk to your workers' health when working with hazardous substances / materials?
+63ab286b160000fb02606197,,135889,question,responseOption1,38026,form,Yes
+63ab286b160000fb02606197,,135889,question,responseOption2,38026,form,No
+63ab289d1600000803606534,,135890,question,questionText,38026,form,Confirm actions taken to assess risk from hazardous substances / materials.
+63ab289d1600000803606534,,135890,question,responseOption1,38026,form,Use  manufacturers safety data sheets to help assess risk
+63ab289d1600000803606534,,135890,question,responseOption2,38026,form,Only trained personnel allowed to conduct risk assessment of using hazardous substances / materials
+63ab289d1600000803606534,,135890,question,responseOption3,38026,form,Company maintain a register of all substances / materials used in the workplace
+63ab289d1600000803606534,,135890,question,responseOption4,38026,form,Company undertake health surveillance / checks of workers' who use hazardous substances / materials
+63ab289d1600000803606534,,135890,question,responseOption5,38026,form,Other
+63ab293a1600004704396b7e,,135891,question,questionText,38026,form,Other:
+63ab2bb0160000850360ac77,,135892,question,description,38026,form,"(This may be fires as a result of hot working, emergency evacuation from confined spaces, worker injury, vehicle impact, natural disaster, etc.)"
+63ab2bb0160000850360ac77,,135892,question,questionText,38026,form,Can the company confirm all foreseeable emergency situations based on work activity have been identified?
+63ab2bb0160000850360ac77,,135892,question,responseOption1,38026,form,Yes
+63ab2bb0160000850360ac77,,135892,question,responseOption2,38026,form,No
+63ab2f401600007d043a1028,,135893,question,description,38026,form,"(This may be in the form of a register, table of contents from a management procedure, manual or emergency plan, etc.)"
+63ab2f401600007d043a1028,,135893,question,questionText,38026,form,Upload evidence to confirm how foreseeable site based emergencies are recorded.
+63ab2f7816000075043a1181,,135894,question,questionText,38026,form,Can the company confirm formal site specific emergency response procedures have been put into place?
+63ab2f7816000075043a1181,,135894,question,responseOption1,38026,form,Yes
+63ab2f7816000075043a1181,,135894,question,responseOption2,38026,form,No
+63ab2fd8160000ab0360cbe7,,135895,question,questionText,38026,form,Can the company confirm an individual with responsibility for control of site specific emergency situations has been appointed?
+63ab2fd8160000ab0360cbe7,,135895,question,responseOption1,38026,form,Yes
+63ab2fd8160000ab0360cbe7,,135895,question,responseOption2,38026,form,No
+63ab3011160000bb0360cd5e,,135896,question,questionText,38026,form,Does the company have a “Next of Kin” communication mechanism in the event of a serious incident / emergency?
+63ab3011160000bb0360cd5e,,135896,question,responseOption1,38026,form,Yes
+63ab3011160000bb0360cd5e,,135896,question,responseOption2,38026,form,No
+63ab32d0180000440031eae7,,135897,question,description,38026,form,(Trained emergency personnel always present when the company is present on a client’s site / premises)
+63ab32d0180000440031eae7,,135897,question,questionText,38026,form,Does the company operate a 24 hour emergency cover system?
+63ab32d0180000440031eae7,,135897,question,responseOption1,38026,form,Yes
+63ab32d0180000440031eae7,,135897,question,responseOption2,38026,form,No
+63ab3301180000440031eaea,,135898,question,description,38026,form,"(Accidental spills, accidental release into a waterway, damage to local flora, etc.)"
+63ab3301180000440031eaea,,135898,question,questionText,38026,form,Does the company emergency management programme cover environmental (impacts) emergencies caused by company work activity?
+63ab3301180000440031eaea,,135898,question,responseOption1,38026,form,Yes
+63ab3301180000440031eaea,,135898,question,responseOption2,38026,form,No
+63ab34b0180000390031eaf0,,135899,question,questionText,38026,form,Can the company confirm there is a formal approach to environmental management based upon the company work scope?
+63ab34b0180000390031eaf0,,135899,question,responseOption1,38026,form,Yes
+63ab34b0180000390031eaf0,,135899,question,responseOption2,38026,form,No
+63ab34b0180000390031eaf0,,135899,question,responseOption3,38026,form,N/A
+63ab34cc1800001f0031eaf1,,135900,question,questionText,38026,form,Company applies following programmes / working practices to formalise environmental matters.
+63ab34cc1800001f0031eaf1,,135900,question,responseOption1,38026,form,Policy / Mission statement and commitments undersigned by the most senior management representative
+63ab34cc1800001f0031eaf1,,135900,question,responseOption10,38026,form,"Consultation and notification programme on all environmental matters to all interested parties (Workers', customers, residents, pressure groups, government agencies, etc.)"
+63ab34cc1800001f0031eaf1,,135900,question,responseOption11,38026,form,Management review includes an assessment of the effectiveness of the company programme related to environmental matters
+63ab34cc1800001f0031eaf1,,135900,question,responseOption12,38026,form,Continual improvement review – relating to environmental performance
+63ab34cc1800001f0031eaf1,,135900,question,responseOption13,38026,form,"Integration and prioritisation of environmental matters into the procurement process (e.g., sourcing, supplier selection)"
+63ab34cc1800001f0031eaf1,,135900,question,responseOption14,38026,form,"Hazardous Waste management (e.g., disposal, segregation, recycling, storage)"
+63ab34cc1800001f0031eaf1,,135900,question,responseOption15,38026,form,"Non-Hazardous Waste management (e.g., disposal, segregation, recycling, storage)"
+63ab34cc1800001f0031eaf1,,135900,question,responseOption16,38026,form,Management and interpretation of environmental legislation by a competent party (Existing and new)
+63ab34cc1800001f0031eaf1,,135900,question,responseOption17,38026,form,Pollution controls in relation to company services
+63ab34cc1800001f0031eaf1,,135900,question,responseOption18,38026,form,Permit and licence controls
+63ab34cc1800001f0031eaf1,,135900,question,responseOption19,38026,form,"Testing (If applicable) to cover discharges, emissions, extractions, etc."
+63ab34cc1800001f0031eaf1,,135900,question,responseOption2,38026,form,Environmental best practice is applied to working practice
+63ab34cc1800001f0031eaf1,,135900,question,responseOption20,38026,form,Training and Worker competency – environmental requirements
+63ab34cc1800001f0031eaf1,,135900,question,responseOption21,38026,form,Material storage
+63ab34cc1800001f0031eaf1,,135900,question,responseOption22,38026,form,"Emergency drills / simulations focused on environmental incidents (e.g., accidental spillages)"
+63ab34cc1800001f0031eaf1,,135900,question,responseOption23,38026,form,Other
+63ab34cc1800001f0031eaf1,,135900,question,responseOption3,38026,form,Documentation confirming how environmental impacts using Aspect and Impact registers are controlled
+63ab34cc1800001f0031eaf1,,135900,question,responseOption4,38026,form,Formal approach to environmental emergencies and corrective procedures implemented post environmental incident / emergency
+63ab34cc1800001f0031eaf1,,135900,question,responseOption5,38026,form,"Site-based inspections (Conducted by senior management, site supervisors, etc.) includes environmental practice and impact"
+63ab34cc1800001f0031eaf1,,135900,question,responseOption6,38026,form,Environmental audit programme (Covers internal and third-party application)
+63ab34cc1800001f0031eaf1,,135900,question,responseOption7,38026,form,"Corporate Key Performance Indicators (KPI’s), Objectives and Performance targets"
+63ab34cc1800001f0031eaf1,,135900,question,responseOption8,38026,form,"Clearly defined responsibilities relating to the management of the environment - Applied to all workers' (e.g., job description)"
+63ab34cc1800001f0031eaf1,,135900,question,responseOption9,38026,form,"Part of a Corporate communication programme, (e.g., Environmental) performance, Incident reviews, tool-box huddles, project briefing, etc.)"
+63ab37561a000022002d6b59,,135901,question,questionText,38026,form,Other:
+63ab387f1a000022002d6b5f,,135902,question,questionText,38026,form,Confirm the verification method applied to the company environmental management programme?
+63ab387f1a000022002d6b5f,,135902,question,responseOption1,38026,form,"ISO certification (via national accreditation body e.g., UKAS, JAS-ANZ, ANSI, etc.)"
+63ab387f1a000022002d6b5f,,135902,question,responseOption2,38026,form,ISO certification (via non-accreditation body)
+63ab387f1a000022002d6b5f,,135902,question,responseOption3,38026,form,EU Eco-Management and Audit Scheme (EMAS)
+63ab387f1a000022002d6b5f,,135902,question,responseOption4,38026,form, Industry specific award
+63ab387f1a000022002d6b5f,,135902,question,responseOption5,38026,form,Client based verification
+63ab387f1a000022002d6b5f,,135902,question,responseOption6,38026,form,Environmental award presented to a parent company that covers all members of the group
+63ab387f1a000022002d6b5f,,135902,question,responseOption7,38026,form,Environmental award to cover a single business unit/single company within the group / organisation?
+63ab387f1a000022002d6b5f,,135902,question,responseOption8,38026,form,Other
+63ab38f31800001f0031eb2c,,135903,question,questionText,38026,form,Other:
+63ab39361a000022002d6b9e,,135904,question,questionText,38026,form,Confirmation why the company does not currently have a formal approach to environmental management.
+63ab39361a000022002d6b9e,,135904,question,responseOption1,38026,form,Do not think the company is big enough to justify the requirement
+63ab39361a000022002d6b9e,,135904,question,responseOption2,38026,form,Not required based on current business activity
+63ab39361a000022002d6b9e,,135904,question,responseOption3,38026,form,Currently developing environmental management programme (No accreditation) - completion date within next 6 months
+63ab39361a000022002d6b9e,,135904,question,responseOption4,38026,form,Company currently developing environmental management programme for 3rd party verification – completion date within next 6 months
+63ab39361a000022002d6b9e,,135904,question,responseOption5,38026,form,Currently developing environmental management programme (No accreditation) completion date within next 12 months
+63ab39361a000022002d6b9e,,135904,question,responseOption6,38026,form,Company currently developing environmental management programme for 3rd party verification – completion date within next 12 months
+63ab39361a000022002d6b9e,,135904,question,responseOption7,38026,form,Company relies on the client to control and manage all environmental related issues when working for them
+63ab39361a000022002d6b9e,,135904,question,responseOption8,38026,form,Other
+63ab3b031a000022002d6bac,,135905,question,questionText,38026,form,Other:
+63ab3b211a000022002d6bae,,135906,question,questionText,38026,form,Does the company have a formal environmental management programme / system that has been validated by a third party?
+63ab3b211a000022002d6bae,,135906,question,responseOption1,38026,form,Yes
+63ab3b211a000022002d6bae,,135906,question,responseOption2,38026,form,No
+63ab3bf0180000520031eb9b,,135907,question,questionText,38026,form,Upload copy of the relevant environmental verification certificate / award.
+63ab3c1d180000520031eb9e,,135908,question,questionText,38026,form,Confirm why the company has not had the environmental management programme independently verified.
+63ab3c1d180000520031eb9e,,135908,question,responseOption1,38026,form,Do not think the company is big enough to justify the requirement
+63ab3c1d180000520031eb9e,,135908,question,responseOption2,38026,form,Not required based on current business activity
+63ab3c1d180000520031eb9e,,135908,question,responseOption3,38026,form,Company must work to the client demands when working o their sites
+63ab3c1d180000520031eb9e,,135908,question,responseOption4,38026,form,Currently developing environmental management programme (No accreditation) - completion date within next 6 months
+63ab3c1d180000520031eb9e,,135908,question,responseOption5,38026,form,Company currently developing environmental management programme for 3rd party verification – completion date within next 6 months
+63ab3c1d180000520031eb9e,,135908,question,responseOption6,38026,form,Currently developing environmental management programme (No accreditation) completion date within next 12 months
+63ab3c1d180000520031eb9e,,135908,question,responseOption7,38026,form,Company currently developing environmental management programme for 3rd party verification – completion date within next 12 months
+63ab3c1d180000520031eb9e,,135908,question,responseOption8,38026,form,Other
+63ab3db81a000044002d6bbe,,135909,question,questionText,38026,form,Other:
+63ab3e641a000059002d6bc2,,135910,question,description,38026,form,(NB: if covered within an integrated policy statement this can be confirmed as yes)
+63ab3e641a000059002d6bc2,,135910,question,questionText,38026,form,"Does the Company have a management, mission statement, or policy confirming the business is committed and motivated to reducing the environmental impact caused by the company and its activities and will comply with applicable environmental laws, approved codes of practices, industry related standards and codes of conduct?\n"
+63ab3e641a000059002d6bc2,,135910,question,responseOption1,38026,form,Yes
+63ab3e641a000059002d6bc2,,135910,question,responseOption2,38026,form,No
+63ab3e8b1800004c0031ebf7,,135911,question,questionText,38026,form,The company environmental commitment contains the following content.
+63ab3e8b1800004c0031ebf7,,135911,question,responseOption1,38026,form,Signed and dated by a senior management representative
+63ab3e8b1800004c0031ebf7,,135911,question,responseOption10,38026,form,Sets out or refers to environmental objectives and targets
+63ab3e8b1800004c0031ebf7,,135911,question,responseOption11,38026,form,Confirms the company will provide adequate financial and physical resources to address environmental needs for the business
+63ab3e8b1800004c0031ebf7,,135911,question,responseOption12,38026,form,Confirms company personnel will receive training on relevant  elements of environmental management
+63ab3e8b1800004c0031ebf7,,135911,question,responseOption13,38026,form,Confirms environmental management programmes will be subject to ongoing inspection and assessment for suitability
+63ab3e8b1800004c0031ebf7,,135911,question,responseOption14,38026,form,Other
+63ab3e8b1800004c0031ebf7,,135911,question,responseOption2,38026,form,Company commitment to delivering environmental continuous improvement
+63ab3e8b1800004c0031ebf7,,135911,question,responseOption3,38026,form,Confirms compliance with relevant environmental legislation or industry guidance in countries / locations of operation
+63ab3e8b1800004c0031ebf7,,135911,question,responseOption4,38026,form,Confirms management values and commitment to reducing the company’s environmental impact based on business activities
+63ab3e8b1800004c0031ebf7,,135911,question,responseOption5,38026,form,Confirmation content is made available to all interested parties
+63ab3e8b1800004c0031ebf7,,135911,question,responseOption6,38026,form,"Confirmation the content is made available publicly  e.g., company web site"
+63ab3e8b1800004c0031ebf7,,135911,question,responseOption7,38026,form,"Confirms there is a review cycle to evaluate the effectiveness of the programme and associated procedures e.g., annual, every three-years"
+63ab3e8b1800004c0031ebf7,,135911,question,responseOption8,38026,form,"Communicates the management values, beliefs, and commitment to protecting the environment"
+63ab3e8b1800004c0031ebf7,,135911,question,responseOption9,38026,form,Company will measure and evaluate company environmental performance
+63ab3f331a000059002d6bed,,135912,question,questionText,38026,form,Other:
+63ab40e41a000059002d6bf1,,135913,question,questionText,38026,form,Company does not have formal environmental commitment process in place.
+63ab40e41a000059002d6bf1,,135913,question,responseOption1,38026,form,Company believes an environmental management policy or statement is not required based on current business activity
+63ab40e41a000059002d6bf1,,135913,question,responseOption2,38026,form,Company believes an environmental management policy or statement is not required based on company size
+63ab40e41a000059002d6bf1,,135913,question,responseOption3,38026,form,Work under the client’s environmental policy statement
+63ab40e41a000059002d6bf1,,135913,question,responseOption4,38026,form,Current environmental management system under review
+63ab40e41a000059002d6bf1,,135913,question,responseOption5,38026,form,Company currently in the process of developing environmental programme and will be implemented within 6 months
+63ab40e41a000059002d6bf1,,135913,question,responseOption6,38026,form,Company currently in the process of developing environmental programme and will be implemented within 12 months
+63ab40e41a000059002d6bf1,,135913,question,responseOption7,38026,form,Other
+63ab412b180000390031ec9a,,135914,question,questionText,38026,form,Other:
+63ab435f1a000059002d6c27,,135915,question,questionText,38026,form,Has the company developed and implemented environmental management systems / programmes to reduce the potential environmental impacts?
+63ab435f1a000059002d6c27,,135915,question,responseOption1,38026,form,Yes
+63ab435f1a000059002d6c27,,135915,question,responseOption2,38026,form,No
+63ab435f1a000059002d6c27,,135915,question,responseOption3,38026,form,N/A
+63ab43d0180000390031ecca,,135916,question,questionText,38026,form,Content within the company environmental management programme.
+63ab43d0180000390031ecca,,135916,question,responseOption1,38026,form,Policy / mission statement and commitments
+63ab43d0180000390031ecca,,135916,question,responseOption10,38026,form,Consultation and notification – environmental matters
+63ab43d0180000390031ecca,,135916,question,responseOption11,38026,form,Management review
+63ab43d0180000390031ecca,,135916,question,responseOption12,38026,form,Continual improvement review
+63ab43d0180000390031ecca,,135916,question,responseOption13,38026,form,"Integration of environmental matters into the procurement process (e.g., sourcing, supplier selection)"
+63ab43d0180000390031ecca,,135916,question,responseOption14,38026,form,"Hazardous Waste management (e.g., disposal, segregation, recycling, storage)"
+63ab43d0180000390031ecca,,135916,question,responseOption15,38026,form,"Non-Hazardous Waste management (e.g., disposal, segregation, recycling, storage)"
+63ab43d0180000390031ecca,,135916,question,responseOption16,38026,form,Management and interpretation of environmental legislation
+63ab43d0180000390031ecca,,135916,question,responseOption17,38026,form,Pollution controls
+63ab43d0180000390031ecca,,135916,question,responseOption18,38026,form,Permit and licence controls
+63ab43d0180000390031ecca,,135916,question,responseOption19,38026,form,"Testing (If applicable) to cover discharges, emissions, extractions, etc."
+63ab43d0180000390031ecca,,135916,question,responseOption2,38026,form,Environmental best practice incorporated into working practice
+63ab43d0180000390031ecca,,135916,question,responseOption20,38026,form,Training and Worker competency – environmental requirements
+63ab43d0180000390031ecca,,135916,question,responseOption21,38026,form,Material storage
+63ab43d0180000390031ecca,,135916,question,responseOption22,38026,form,Emergency drills
+63ab43d0180000390031ecca,,135916,question,responseOption23,38026,form,Other
+63ab43d0180000390031ecca,,135916,question,responseOption3,38026,form,Control of environmental risk using aspect and impact programme
+63ab43d0180000390031ecca,,135916,question,responseOption4,38026,form,Environmental emergencies and corrective procedures post environmental incident
+63ab43d0180000390031ecca,,135916,question,responseOption5,38026,form,"Environmental inspections (Senior management, site supervisors, etc.)"
+63ab43d0180000390031ecca,,135916,question,responseOption6,38026,form,Environmental audit programme (Covers internal and third party)
+63ab43d0180000390031ecca,,135916,question,responseOption7,38026,form,Objectives and performance indicators detailed
+63ab43d0180000390031ecca,,135916,question,responseOption8,38026,form,Worker responsibilities and organisation structure relating to environmental management defined
+63ab43d0180000390031ecca,,135916,question,responseOption9,38026,form,Communication – environmental
+63ab49ac180000390031ecda,,135918,question,questionText,38026,form,Other:
+63ab4a9d1800004c0031ece5,,135919,question,description,38026,form,(Personal / confidential information should be redacted)
+63ab4a9d1800004c0031ece5,,135919,question,questionText,38026,form,Upload a completed example of a company aspect and impact (environmental risk control) assessment.
+63ab4aee1a000059002d6c48,,135920,question,questionText,38026,form,Company does not have formal environmental management systems / procedures.
+63ab4aee1a000059002d6c48,,135920,question,responseOption1,38026,form,Company does not require formal / documented environmental management programme  - based on current business scope
+63ab4aee1a000059002d6c48,,135920,question,responseOption2,38026,form,Company does not require formal/documented environmental management programme  -based on company size
+63ab4aee1a000059002d6c48,,135920,question,responseOption3,38026,form,Currently developing environmental management programme  - implemented within 6 months
+63ab4aee1a000059002d6c48,,135920,question,responseOption4,38026,form,Currently developing environmental management programme  - implemented within 12 months
+63ab4aee1a000059002d6c48,,135920,question,responseOption5,38026,form,Use client generated environmental procedures for work undertaken on their infrastructure
+63ab4aee1a000059002d6c48,,135920,question,responseOption6,38026,form,Other
+63ab4dbd1a000079002d6c73,,135921,question,questionText,38026,form,Other:
+63ab4e401a000074002d6c75,,135922,question,description,38026,form,"(e.g., Previously approved work scope agreed, work starts, and an environmental impact is identified that needs to be addressed in real time)"
+63ab4e401a000074002d6c75,,135922,question,questionText,38026,form,"Can the company confirm, there is a process to address foreseeable environmental risk introduced as a result of changes being made to previously agreed / approved working practice?"
+63ab4e401a000074002d6c75,,135922,question,responseOption1,38026,form,Yes
+63ab4e401a000074002d6c75,,135922,question,responseOption2,38026,form,No
+63ab4edf1a000079002d6c7a,,135923,question,questionText,38026,form,Information contained within the company environmental risk (Aspect and Impact  assessment) register.
+63ab4edf1a000079002d6c7a,,135923,question,responseOption1,38026,form,"Risk control measures appropriate to workplace  locations, e.g., protect localised open waterways, protected fauna/flora, etc.)"
+63ab4edf1a000079002d6c7a,,135923,question,responseOption10,38026,form,Frequency of site inspections / audit
+63ab4edf1a000079002d6c7a,,135923,question,responseOption11,38026,form,Relevant compliance requirements based upon national environmental legislation
+63ab4edf1a000079002d6c7a,,135923,question,responseOption12,38026,form,Incident / emergency management contacts
+63ab4edf1a000079002d6c7a,,135923,question,responseOption13,38026,form,Equipment being used does not create additional environmental risk
+63ab4edf1a000079002d6c7a,,135923,question,responseOption14,38026,form,"Containment (spill kits, bunds, etc) equipment required"
+63ab4edf1a000079002d6c7a,,135923,question,responseOption15,38026,form,Reference work instructions / emergency plans and business continuity (if applicable)
+63ab4edf1a000079002d6c7a,,135923,question,responseOption16,38026,form,Emissions
+63ab4edf1a000079002d6c7a,,135923,question,responseOption17,38026,form,Integrated into risk assessments (RA) / Job Safety Analysis (JSA). Safe working method statements (SWMS)
+63ab4edf1a000079002d6c7a,,135923,question,responseOption18,38026,form,Release / discharge to waterways (Permit controlled)
+63ab4edf1a000079002d6c7a,,135923,question,responseOption19,38026,form,Release / discharge to waterways (No Permit control)
+63ab4edf1a000079002d6c7a,,135923,question,responseOption2,38026,form,"Address sensitive/localised environmental conditions  (sites with scientific interest, specific breeding locations, rare biodiversity, etc.)"
+63ab4edf1a000079002d6c7a,,135923,question,responseOption20,38026,form,Accidental release / spillage (oils / chemicals)
+63ab4edf1a000079002d6c7a,,135923,question,responseOption21,38026,form,Sourcing of raw materials
+63ab4edf1a000079002d6c7a,,135923,question,responseOption22,38026,form,Use of utilities
+63ab4edf1a000079002d6c7a,,135923,question,responseOption23,38026,form,"Social impact (Localised noise / working during night-time / Odour / Light pollution, etc)"
+63ab4edf1a000079002d6c7a,,135923,question,responseOption24,38026,form,Human Factors
+63ab4edf1a000079002d6c7a,,135923,question,responseOption25,38026,form,Packaging practices
+63ab4edf1a000079002d6c7a,,135923,question,responseOption26,38026,form,Archaeology
+63ab4edf1a000079002d6c7a,,135923,question,responseOption27,38026,form,Cultural impacts
+63ab4edf1a000079002d6c7a,,135923,question,responseOption28,38026,form,Other
+63ab4edf1a000079002d6c7a,,135923,question,responseOption3,38026,form,Calculation of risk severity of potential environmental incidents based on work activity
+63ab4edf1a000079002d6c7a,,135923,question,responseOption4,38026,form,Confirmation of site-based supervisory (environmental) controls
+63ab4edf1a000079002d6c7a,,135923,question,responseOption5,38026,form,"Worker briefing on actions to mitigate environmental risks  delivering work activity (Orientations, team huddle, etc.)"
+63ab4edf1a000079002d6c7a,,135923,question,responseOption6,38026,form,Communication – to relevant / interested parties on environmental matters
+63ab4edf1a000079002d6c7a,,135923,question,responseOption7,38026,form,"Control measures / biodiversity assessment  for the worksite are appropriate to the time of year e.g., bird breeding season"
+63ab4edf1a000079002d6c7a,,135923,question,responseOption8,38026,form,Contains life cycle input
+63ab4edf1a000079002d6c7a,,135923,question,responseOption9,38026,form,Information on natural environment in vicinity of the worksite
+63ab530f1a000080002d6c81,,135924,question,questionText,38026,form,Other:
+63ab53291800008e0031ed30,,135925,question,questionText,38026,form,Reason no environmental risk controls are required by the company.
+63ab53291800008e0031ed30,,135925,question,responseOption1,38026,form,Company does not require formal / documented aspect / impact assessments  -based on current work scope and associated risks
+63ab53291800008e0031ed30,,135925,question,responseOption2,38026,form,Company does not require formal / documented aspect / impact assessments -based on current company size
+63ab53291800008e0031ed30,,135925,question,responseOption3,38026,form,Currently developing environmental aspect / impact register and associated documentation - implemented within 6 months
+63ab53291800008e0031ed30,,135925,question,responseOption4,38026,form,Currently developing environmental aspect / impact register and associated documentation- implemented within 12 months
+63ab53291800008e0031ed30,,135925,question,responseOption5,38026,form,Use client generated environmental risk programmes
+63ab53291800008e0031ed30,,135925,question,responseOption6,38026,form,Mandated to use client information based on current contract
+63ab53291800008e0031ed30,,135925,question,responseOption7,38026,form,Other
+63ab5378180000990031ed32,,135926,question,questionText,38026,form,Other:
+63ab53901a000022002d6c86,,135927,question,description,38026,form,"(e.g., Lower emissions, less noise and vibration, etc.)"
+63ab53901a000022002d6c86,,135927,question,questionText,38026,form,Can the company confirm work equipment sourced to deliver work is selected  based on  a lower environmental impact?
+63ab53901a000022002d6c86,,135927,question,responseOption1,38026,form,Yes
+63ab53901a000022002d6c86,,135927,question,responseOption2,38026,form,No
+63ab53901a000022002d6c86,,135927,question,responseOption3,38026,form,N/A
+63ab56591a00008b002d6c9d,,135928,question,questionText,38026,form,Work equipment will be used with a lower environmental impact.
+63ab56591a00008b002d6c9d,,135928,question,responseOption1,38026,form,Equipment powered by green energy
+63ab56591a00008b002d6c9d,,135928,question,responseOption2,38026,form,Equipment that can be fitted to existing technology but reduces environmental impact
+63ab56591a00008b002d6c9d,,135928,question,responseOption3,38026,form,Equipment selected has fewer environmental impacts when it is manufactured and used in the workplace
+63ab56591a00008b002d6c9d,,135928,question,responseOption4,38026,form,Other
+63ab599b180000b00031ed6b,,135929,question,questionText,38026,form,Other:
+63ab5bf71a000080002d6d01,,135930,question,questionText,38026,form,Company has no process for sourcing equipment  with a low  environmental impact.
+63ab5bf71a000080002d6d01,,135930,question,responseOption1,38026,form,There is no alternative equipment available that gives a lower environmental impact
+63ab5bf71a000080002d6d01,,135930,question,responseOption2,38026,form,Company too small to apply environmental controls when sourcing equipment
+63ab5bf71a000080002d6d01,,135930,question,responseOption3,38026,form,The client mandates the work equipment that has to be used by the company
+63ab5bf71a000080002d6d01,,135930,question,responseOption4,38026,form,"The work environment dictates what work equipment can be used (e.g., fibre glass tools in dust / volatile environment)"
+63ab5bf71a000080002d6d01,,135930,question,responseOption5,38026,form,Other
+63ab5c331a00008b002d6d03,,135931,question,questionText,38026,form,Other:
+63ab5c911a000022002d6d06,,135932,question,questionText,38026,form,Can the company demonstrate there is access to up to date environmental legislation and codes of practise relating to your work scope?
+63ab5c911a000022002d6d06,,135932,question,responseOption1,38026,form,Yes
+63ab5c911a000022002d6d06,,135932,question,responseOption2,38026,form,No
+63ab60e8180000c00031ee06,,135933,question,questionText,38026,form,Company access environmental laws and codes of practice.
+63ab60e8180000c00031ee06,,135933,question,responseOption1,38026,form,Company use the services of a subscription based service / government and / or industry guidance to access the most up to date information on the environment – Using an independent 3rd party
+63ab60e8180000c00031ee06,,135933,question,responseOption2,38026,form,Company use the services of a subscription based service / government and / or industry guidance to access the most up to date information on the environment – Using in-house personnel
+63ab60e8180000c00031ee06,,135933,question,responseOption3,38026,form,Company use the services of a subscription based service / government and / or industry guidance to access the most up to date information on the environment – Using a combination of in-house personnel and independent 3rd party
+63ab60e8180000c00031ee06,,135933,question,responseOption4,38026,form,Company is a member of a trade body who provide environmental information
+63ab60e8180000c00031ee06,,135933,question,responseOption5,38026,form,Company use free government services and the internet to monitor environmental requirements
+63ab60e8180000c00031ee06,,135933,question,responseOption6,38026,form,Company use internet and other industry guidance to collect specific environmental information
+63ab60e8180000c00031ee06,,135933,question,responseOption7,38026,form,Other
+63ab624d180000c00031ee0e,,135934,question,questionText,38026,form,Other:
+63ab62c4180000b00031ee12,,135935,question,questionText,38026,form,Company does not require access to environmental legislation or industry guidance:
+63ab62c4180000b00031ee12,,135935,question,responseOption1,38026,form,We rely on the client providing us with information on environmental matters
+63ab62c4180000b00031ee12,,135935,question,responseOption2,38026,form,We do not need to have access to environmental information as we are controlled by the client when on their site and they manage all issues relating to environmental matters
+63ab62c4180000b00031ee12,,135935,question,responseOption3,38026,form,"Our work scope does not vary, and we do not need to monitor environmental requirements"
+63ab62c4180000b00031ee12,,135935,question,responseOption4,38026,form,We do not believe our work has an impact on the environment
+63ab62c4180000b00031ee12,,135935,question,responseOption5,38026,form,Other
+63ab66b51a00008b002d6d57,,135936,question,questionText,38026,form,Other:
+63ab66e4180000bc0031ee2e,,135937,question,questionText,38026,form,"Does the legal review process confirm what environmental licences, permits and consents are needed to deliver the company work scope?"
+63ab66e4180000bc0031ee2e,,135937,question,responseOption1,38026,form,Yes
+63ab66e4180000bc0031ee2e,,135937,question,responseOption2,38026,form,No
+63ab6702180000b30031ee31,,135938,question,description,38026,form,"(e.g., spills, unauthorised releases, damage to local fauna / flora, etc.)\n"
+63ab6702180000b30031ee31,,135938,question,questionText,38026,form,Does the company have a management system / programme to manage environmental emergencies or incidents?
+63ab6702180000b30031ee31,,135938,question,responseOption1,38026,form,Yes
+63ab6702180000b30031ee31,,135938,question,responseOption2,38026,form,No
+63ab67cd1a000097002d6d62,,135939,question,questionText,38026,form,Confirm how environmental incidents / emergencies are managed.
+63ab67cd1a000097002d6d62,,135939,question,responseOption1,38026,form,Company have documented all potential environmental emergencies based upon the scope of work  and have applicable equipment/resources to manage any identifiable eventuality
+63ab67cd1a000097002d6d62,,135939,question,responseOption2,38026,form,Company have graded individual incident by severity and impact
+63ab67cd1a000097002d6d62,,135939,question,responseOption3,38026,form,Resources are made available for rectification (As a result of the impact to the environment) as well as minimising the immediate environmental impact
+63ab67cd1a000097002d6d62,,135939,question,responseOption4,38026,form,Implemented environmental controls as part of operating procedures and including in method of work delivery
+63ab67cd1a000097002d6d62,,135939,question,responseOption5,38026,form,Information focused on incident management subject to programmed review
+63ab67cd1a000097002d6d62,,135939,question,responseOption6,38026,form,Liaison point with relevant 3rd -parties and government agencies as part of a rectification programme
+63ab67cd1a000097002d6d62,,135939,question,responseOption7,38026,form,Other
+63ab68a21a000098002d6d64,,135940,question,questionText,38026,form,Other:
+63ab68c21a00008b002d6d65,,135941,question,questionText,38026,form,The environmental emergency action / rectification programme covers:
+63ab68c21a00008b002d6d65,,135941,question,responseOption1,38026,form,Fire water / foam run-off
+63ab68c21a00008b002d6d65,,135941,question,responseOption10,38026,form,Unauthorised sewage release
+63ab68c21a00008b002d6d65,,135941,question,responseOption11,38026,form,Toxic waste
+63ab68c21a00008b002d6d65,,135941,question,responseOption12,38026,form,Radiation release
+63ab68c21a00008b002d6d65,,135941,question,responseOption13,38026,form,Release / mismanagement of disease-causing microorganisms and plants.
+63ab68c21a00008b002d6d65,,135941,question,responseOption14,38026,form,Pesticides
+63ab68c21a00008b002d6d65,,135941,question,responseOption15,38026,form,Heavy metals
+63ab68c21a00008b002d6d65,,135941,question,responseOption16,38026,form,Unauthorised waste disposal
+63ab68c21a00008b002d6d65,,135941,question,responseOption17,38026,form,Other
+63ab68c21a00008b002d6d65,,135941,question,responseOption2,38026,form,Oil spills
+63ab68c21a00008b002d6d65,,135941,question,responseOption3,38026,form,Chemical spills
+63ab68c21a00008b002d6d65,,135941,question,responseOption4,38026,form,Atmospheric release (Unauthorised / exceeded permit levels)
+63ab68c21a00008b002d6d65,,135941,question,responseOption5,38026,form,"Discharge to waterways unauthorised (Rivers, aquifers, canals, lakes, etc)"
+63ab68c21a00008b002d6d65,,135941,question,responseOption6,38026,form,"Discharge to waterways authorised – exceeded permit levels (Rivers, aquifers, canals, lakes, etc)"
+63ab68c21a00008b002d6d65,,135941,question,responseOption7,38026,form,Discharge to marine environment
+63ab68c21a00008b002d6d65,,135941,question,responseOption8,38026,form,Biological hazard
+63ab68c21a00008b002d6d65,,135941,question,responseOption9,38026,form,"Wildlife impact  (e.g., nesting birds)"
+63ab697f180000d00031ee76,,135942,question,questionText,38026,form,Confirm no environmental emergency planning and controls required.
+63ab697f180000d00031ee76,,135942,question,responseOption1,38026,form,Do not think the company is big enough to justify the requirement
+63ab697f180000d00031ee76,,135942,question,responseOption2,38026,form,"Not required based on current business activity, we have a low environmental impact"
+63ab697f180000d00031ee76,,135942,question,responseOption3,38026,form,Client mandates that they will manage all environmental emergencies
+63ab697f180000d00031ee76,,135942,question,responseOption4,38026,form,Currently developing environmental emergency management programme completion date within next 6 months
+63ab697f180000d00031ee76,,135942,question,responseOption5,38026,form,Company currently developing environmental emergency management programme  – completion date within next 12 months
+63ab697f180000d00031ee76,,135942,question,responseOption6,38026,form,Other
+63ab6b2c180000c00031ee87,,135943,question,questionText,38026,form,Other:
+63ab6b431a00008a002d6d74,,135944,question,description,38026,form,"(e.g., spills, gaseous release, etc.)"
+63ab6b431a00008a002d6d74,,135944,question,questionText,38026,form,"Can the company confirm workers' are trained to manage site related environmental emergencies? , "
+63ab6b431a00008a002d6d74,,135944,question,responseOption1,38026,form,Yes
+63ab6b431a00008a002d6d74,,135944,question,responseOption2,38026,form,No
+63ab6b431a00008a002d6d74,,135944,question,responseOption3,38026,form,N/A
+63ab6b721a00008a002d6d75,,135945,question,questionText,38026,form,Confirm the categories of personnel required to receive environmental emergency training.
+63ab6b721a00008a002d6d75,,135945,question,responseOption1,38026,form,Director
+63ab6b721a00008a002d6d75,,135945,question,responseOption2,38026,form,Manager / departmental Lead
+63ab6b721a00008a002d6d75,,135945,question,responseOption3,38026,form,Supervisor / team Lead
+63ab6b721a00008a002d6d75,,135945,question,responseOption4,38026,form,Craftsman / trade personnel
+63ab6b721a00008a002d6d75,,135945,question,responseOption5,38026,form,Logistics workers
+63ab6b721a00008a002d6d75,,135945,question,responseOption6,38026,form,Transport workers / drivers
+63ab6b721a00008a002d6d75,,135945,question,responseOption7,38026,form,Operative / semi-skilled
+63ab6b721a00008a002d6d75,,135945,question,responseOption8,38026,form,Labourer
+63ab6b721a00008a002d6d75,,135945,question,responseOption9,38026,form,Other
+63ab6c661a0000ab002d6ddc,,135946,question,questionText,38026,form,Other:
+63ab6c9f180000b30031ee8c,,135947,question,questionText,38026,form,Emergency environmental training is documented and recorded.
+63ab6c9f180000b30031ee8c,,135947,question,responseOption1,38026,form,Job descriptions
+63ab6c9f180000b30031ee8c,,135947,question,responseOption2,38026,form,Risk assessment
+63ab6c9f180000b30031ee8c,,135947,question,responseOption3,38026,form,Competency matrix
+63ab6c9f180000b30031ee8c,,135947,question,responseOption4,38026,form,Worker appraisals
+63ab6c9f180000b30031ee8c,,135947,question,responseOption5,38026,form,Other
+63ab6de91a0000b8002d6e0d,,135949,question,questionText,38026,form,Other:
+63ab6e051a0000c7002d6e10,,135950,question,questionText,38026,form,Reason why workers' are not provided with emergency environmental training.
+63ab6e051a0000c7002d6e10,,135950,question,responseOption1,38026,form,Company does not require environmental emergency training based on current work scope
+63ab6e051a0000c7002d6e10,,135950,question,responseOption2,38026,form,Company does not require environmental emergency training based on current business size
+63ab6e051a0000c7002d6e10,,135950,question,responseOption3,38026,form,Company rely on the client to control and manage all environmental emergencies when working on their sites
+63ab6e051a0000c7002d6e10,,135950,question,responseOption4,38026,form,Client provides emergency environmental training
+63ab6e051a0000c7002d6e10,,135950,question,responseOption5,38026,form,Other
+63ab6e521a0000c6002d6e15,,135951,question,questionText,38026,form,Other:
+63ab6e66180000f50031eef8,,135952,question,questionText,38026,form,Does the company have access to competent environmental advice so the business  can apply environmental laws and codes of practice relevant to the work scope?
+63ab6e66180000f50031eef8,,135952,question,responseOption1,38026,form,Yes
+63ab6e66180000f50031eef8,,135952,question,responseOption2,38026,form,No
+63ab6e66180000f50031eef8,,135952,question,responseOption3,38026,form,N/A
+63ab6fb91a0000b8002d6e93,,135953,question,questionText,38026,form,Competent (Environmental) advice is accessed by the company.
+63ab6fb91a0000b8002d6e93,,135953,question,responseOption1,38026,form,Employed internally – Full time environmental professional
+63ab6fb91a0000b8002d6e93,,135953,question,responseOption2,38026,form,Employed internally – Part-Time environmental professional
+63ab6fb91a0000b8002d6e93,,135953,question,responseOption3,38026,form,"Employed internally – Combined role Health, Safety and Environmental person"
+63ab6fb91a0000b8002d6e93,,135953,question,responseOption4,38026,form,Member of the senior management team
+63ab6fb91a0000b8002d6e93,,135953,question,responseOption5,38026,form,3rd party (Independent) consultant
+63ab6fb91a0000b8002d6e93,,135953,question,responseOption6,38026,form,Other
+63ab72f61a0000ec002d6f24,,135955,question,questionText,38026,form,Other:
+63ab731d1a0000ee002d6f27,,135956,question,questionText,38026,form,The company does not require competent environmental advice.
+63ab731d1a0000ee002d6f27,,135956,question,responseOption1,38026,form,Company does not require access to competent environmental advice -based on current work scope (Low environmental risk)
+63ab731d1a0000ee002d6f27,,135956,question,responseOption2,38026,form,Company does not require access to environmental advice -based on current business size
+63ab731d1a0000ee002d6f27,,135956,question,responseOption3,38026,form,The company does not impact the environment
+63ab731d1a0000ee002d6f27,,135956,question,responseOption4,38026,form,We rely on the client to provide competent environmental guidance/advice during orientations / site related operations
+63ab731d1a0000ee002d6f27,,135956,question,responseOption5,38026,form,Other
+63ab73681800000a0131efea,,135957,question,questionText,38026,form,Other:
+63ab74ee180000090131f06a,,135958,question,questionText,38026,form,Does the company have a formal waste management programme in place?
+63ab74ee180000090131f06a,,135958,question,responseOption1,38026,form,Yes
+63ab74ee180000090131f06a,,135958,question,responseOption2,38026,form,No
+63ab74ee180000090131f06a,,135958,question,responseOption3,38026,form,N/A
+63ab75231a00001d012d70f8,,135959,question,questionText,38026,form,The company does not require a formal waste management programme.
+63ab75231a00001d012d70f8,,135959,question,responseOption1,38026,form,Company does not require a formal waste management programme -based on current work scope (Low environmental risk)
+63ab75231a00001d012d70f8,,135959,question,responseOption2,38026,form,Company leave waste to be managed by the company they have been contracted to
+63ab75231a00001d012d70f8,,135959,question,responseOption3,38026,form,Company only need to remove general waste from the company offices – non hazardous
+63ab75231a00001d012d70f8,,135959,question,responseOption4,38026,form,Do not generate enough waste to justify the need of a programme to remove from site
+63ab75231a00001d012d70f8,,135959,question,responseOption5,38026,form,Other
+63ab75db180000090131f06e,,135960,question,questionText,38026,form,Other:
+63ab75f4180000300131f070,,135961,question,questionText,38026,form,"Does the company hold any form of waste carrier licence issued by a local, municipal authority or government agency?"
+63ab75f4180000300131f070,,135961,question,responseOption1,38026,form,Yes
+63ab75f4180000300131f070,,135961,question,responseOption2,38026,form,No
+63ab75f4180000300131f070,,135961,question,responseOption3,38026,form,N/A
+63ab7617180000090131f073,,135962,question,description,38026,form,"(If the company holds multi licences and work in different countries, provide the different copies)"
+63ab7617180000090131f073,,135962,question,questionText,38026,form,Upload a copy of the licence/s.
+63ab76541a000021012d70fd,,135963,question,questionText,38026,form,"Does the company use a waste transfer note system when waste is removed from site, either in-house or via a 3rd party company?"
+63ab76541a000021012d70fd,,135963,question,responseOption1,38026,form,Yes
+63ab76541a000021012d70fd,,135963,question,responseOption2,38026,form,No
+63ab76541a000021012d70fd,,135963,question,responseOption3,38026,form,N/A
+63ab76791a000014012d7104,,135964,question,questionText,38026,form,Waste transfer note system used by the company:
+63ab76791a000014012d7104,,135964,question,responseOption1,38026,form,Paper based system
+63ab76791a000014012d7104,,135964,question,responseOption2,38026,form,Electronic / web-based system
+63ab76791a000014012d7104,,135964,question,responseOption3,38026,form,Other
+63ab770c1a00002c012d7109,,135965,question,questionText,38026,form,"Does the company use the services of a licensed 3rd party to dispose of waste (Hazardous and/or non-hazardous), generated on site?"
+63ab770c1a00002c012d7109,,135965,question,responseOption1,38026,form,Yes
+63ab770c1a00002c012d7109,,135965,question,responseOption2,38026,form,No
+63ab770c1a00002c012d7109,,135965,question,responseOption3,38026,form,N/A
+63ab77df1800006a0131f217,,135966,question,questionText,38026,form,Company undertakes a range of verification checks before sourcing waste contractors.
+63ab77df1800006a0131f217,,135966,question,responseOption1,38026,form,Due Diligence checks are undertaken on the contractor prior to use
+63ab77df1800006a0131f217,,135966,question,responseOption2,38026,form,Only licensed waste removal companies used
+63ab77df1800006a0131f217,,135966,question,responseOption3,38026,form,Waste removal company must provide evidence of adequate insurance cover prior to starting work
+63ab77df1800006a0131f217,,135966,question,responseOption4,38026,form,Waste licences owned by contractor verified in date and category of waste they can remove
+63ab77df1800006a0131f217,,135966,question,responseOption5,38026,form,Other
+63ab79071800006f0131f219,,135967,question,questionText,38026,form,Does the company confirm waste removed by the 3rd party contractor has been disposed of in a proper manner?
+63ab79071800006f0131f219,,135967,question,responseOption1,38026,form,Yes
+63ab79071800006f0131f219,,135967,question,responseOption2,38026,form,No
+63ab79071800006f0131f219,,135967,question,responseOption3,38026,form,N/A
+63ab79401a000014012d718d,,135968,question,questionText,38026,form,Does the company participate in any form of waste recycling programme?
+63ab79401a000014012d718d,,135968,question,responseOption1,38026,form,Yes
+63ab79401a000014012d718d,,135968,question,responseOption2,38026,form,No
+63ab795a1a000014012d718f,,135969,question,questionText,38026,form,Examples of items recycled by the company.
+63ab795a1a000014012d718f,,135969,question,responseOption1,38026,form,Paper – Newspaper
+63ab795a1a000014012d718f,,135969,question,responseOption10,38026,form,E-waste
+63ab795a1a000014012d718f,,135969,question,responseOption11,38026,form,Light bulbs
+63ab795a1a000014012d718f,,135969,question,responseOption12,38026,form,Batteries
+63ab795a1a000014012d718f,,135969,question,responseOption13,38026,form,Printer cartridges
+63ab795a1a000014012d718f,,135969,question,responseOption14,38026,form,Other
+63ab795a1a000014012d718f,,135969,question,responseOption2,38026,form,Paper – Printed material
+63ab795a1a000014012d718f,,135969,question,responseOption3,38026,form,Paper – Towels
+63ab795a1a000014012d718f,,135969,question,responseOption4,38026,form,"Aluminium products, e.g., soft drink containers"
+63ab795a1a000014012d718f,,135969,question,responseOption5,38026,form,Glass soft drink containers
+63ab795a1a000014012d718f,,135969,question,responseOption6,38026,form,Plastic Bottles & Containers
+63ab795a1a000014012d718f,,135969,question,responseOption7,38026,form,Food & Beverage Cans
+63ab795a1a000014012d718f,,135969,question,responseOption8,38026,form,Flattened Cardboard & Paperboard
+63ab795a1a000014012d718f,,135969,question,responseOption9,38026,form,"Metal e.g., Copper, steel"
+63aba8a818000089023206af,,136001,question,questionText,38026,form,Other:
+63abaa4e1a00007b022d7e75,,136008,question,questionText,38026,form,Risk based training covers:
+63abaa4e1a00007b022d7e75,,136008,question,responseOption1,38026,form,Risk specific to - new workers'
+63abaa4e1a00007b022d7e75,,136008,question,responseOption10,38026,form,Verify / validate subcontractors work delivered safely and to appropriate standards
+63abaa4e1a00007b022d7e75,,136008,question,responseOption11,38026,form,Other
+63abaa4e1a00007b022d7e75,,136008,question,responseOption2,38026,form,Risk specific to - young workers' (under 18 years)
+63abaa4e1a00007b022d7e75,,136008,question,responseOption3,38026,form,Risk specific to - Workers with limited / poor literacy
+63abaa4e1a00007b022d7e75,,136008,question,responseOption4,38026,form,Risk specific to - Workers with limited / poor literacy
+63abaa4e1a00007b022d7e75,,136008,question,responseOption5,38026,form,Dealing with workers' concerns over workplace safety
+63abaa4e1a00007b022d7e75,,136008,question,responseOption6,38026,form,Interpret and deliver generic and site-specific risk assessments
+63abaa4e1a00007b022d7e75,,136008,question,responseOption7,38026,form,"Communication skills – specific to site safety, risk controls associated with work environment"
+63abaa4e1a00007b022d7e75,,136008,question,responseOption8,38026,form,Changes of risk in ‘real-time’
+63abaa4e1a00007b022d7e75,,136008,question,responseOption9,38026,form,Ensure risk control measures are kept up to date / monitored
+63ac35d71600005800560dc8,,136023,question,questionText,38026,form,Other:
+63ac72f4160000c70001f137,,136024,question,questionText,38026,form,Other:
+63ac912c1900000d02d25420,,136026,question,description,38026,form,"(Government agencies, enforcement authorities and insurance companies, etc.)"
+63ac912c1900000d02d25420,,136026,question,questionText,38026,form,"Does the company have a formal process to ensure all accidents, incidents and near misses are reported to the relevant organisations? "
+63ac912c1900000d02d25420,,136026,question,responseOption1,38026,form,Yes
+63ac912c1900000d02d25420,,136026,question,responseOption2,38026,form,No
+63ac9d971900009402d2dd7a,,136027,question,questionText,38026,form,Other:
+63ac9db6190000b702d2def8,,136028,question,questionText,38026,form,Other:
+63ac9dde1600003603043fb4,,136029,question,questionText,38026,form,Other:
+63aca12b1600002203045dbb,,136030,question,questionText,38026,form,The company does not undertake training needs analysis.
+63aca12b1600002203045dbb,,136030,question,responseOption1,38026,form,Company believes this is not required based on current scope of work
+63aca12b1600002203045dbb,,136030,question,responseOption2,38026,form,Company does not believe they are big enough to need a formal process for training needs analysis
+63aca12b1600002203045dbb,,136030,question,responseOption3,38026,form,Training programmes are set by industry bodies and do not change
+63aca12b1600002203045dbb,,136030,question,responseOption4,38026,form,Client mandates what training should be provided based on their requirements 
+63aca12b1600002203045dbb,,136030,question,responseOption5,38026,form,"Company has mandated training requirements specified by a trade body, with no control on what is required "
+63aca12b1600002203045dbb,,136030,question,responseOption6,38026,form,Other
+63aca1981600002203046634,,136032,question,questionText,38026,form,Other:
+63aca4cc190000cd02d325e7,,136033,question,description,38026,form,"(This should confirm how subcontractors are selected and evaluated, including items such as previous work history, financial security, safety performance, geographical coverage and if specific memberships of trade associations or supplier management programmes, etc.)"
+63aca4cc190000cd02d325e7,,136033,question,questionText,38026,form,Upload information confirming how the company selects and verifies subcontract companies to conduct work on behalf of the company.

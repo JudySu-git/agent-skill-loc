@@ -1,0 +1,50 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+667b462c0100004e00247078,5deecc4434000030637d1daa,28134,questionGroup,questionGroupText,28134,form,Avetta PQF - US Supplier Diversity: Minority-Owned Business
+6584ce0119000057460eb5c2,5deecc8135000041ff6d7bb9,28135,questionGroup,description,28134,form,You are receiving this category because you selected Minority-Owned Business in the United States Supplier Diversity Certification Questionnaire.
+6584ce0119000057460eb5c2,5deecc8135000041ff6d7bb9,28135,questionGroup,questionGroupText,28134,form,Minority-Owned Business
+572a3eee504943afcec26ba3,,37520,question,questionText,28134,form,Please select the minority group your company is certified for as a Minority-Owned Business:
+572a3eee504943afcec26ba3,,37520,question,responseOption1,28134,form,Asian American
+572a3eee504943afcec26ba3,,37520,question,responseOption2,28134,form,Pacific Islander
+572a3eee504943afcec26ba3,,37520,question,responseOptionAfricanAmerican,28134,form,African American
+572a3eee504943afcec26ba3,,37520,question,responseOptionAsianPacificAmerican,28134,form,Asian Pacific American
+572a3eee504943afcec26ba3,,37520,question,responseOptionHispanicAmerican,28134,form,Hispanic American
+572a3eee504943afcec26ba3,,37520,question,responseOptionNativeAmerican,28134,form,Native American
+572a3eee504943afcec26ba3,,37520,question,responseOptionOther,28134,form,Other
+572a40d0504943bcae682468,,37521,question,questionText,28134,form,Other was selected; please specify:
+572a40d0504943bcae682468,,37521,question,responseOptionAlaskaNativeCorporations,28134,form,Alaska Native Corporations
+572a40d0504943bcae682468,,37521,question,responseOptionCommunityDevelopmentCorporations,28134,form,Community Development Corporations
+572a40d0504943bcae682468,,37521,question,responseOptionIndianTribes,28134,form,Indian Tribes
+572a40d0504943bcae682468,,37521,question,responseOptionNativeHawaiianOrganizations,28134,form,Native Hawaiian Organizations
+572a40d0504943bcae682468,,37521,question,responseOptionOther,28134,form,Other / Not Listed
+572a44c45049437095342a6f,,37523,question,questionText,28134,form,Please indicate the certifying body / certificate issuer for your company’s Minority-Owned Business certification.
+572a44c45049437095342a6f,,37523,question,responseOptionNMSDC,28134,form,National Minority Supplier Development Council (NMSDC)
+572a44c45049437095342a6f,,37523,question,responseOptionOther,28134,form,State / Local / Other
+572a4534504943931352e2c6,,37524,question,questionText,28134,form,"State/Local/Other was selected, please specify:"
+572a4534504943931352e2c6,,37524,question,responseOptionCarolinasMinoritySupplierDevelopmentCouncils,28134,form,Carolinas Minority Supplier Development Councils
+572a4534504943931352e2c6,,37524,question,responseOptionChicagoMinoritySupplierDevelopmentCouncil,28134,form,Chicago Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionDallas/FortWorthMinoritySupplierDevelopmentCouncil,28134,form,Dallas/Fort Worth Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionFloridaMinoritySupplierDevelopmentCouncil,28134,form,Florida Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionGeorgiaMinoritySupplierDevelopmentCouncil,28134,form,Georgia Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionGrandCanyonMinoritySupplierDevelopmentCouncil,28134,form,Grand Canyon Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionGreatPlainsMinoritySupplierDevelopmentCouncil,28134,form,Great Plains Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionHoustonMinoritySupplierDevelopmentCouncil,28134,form,Houston Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionIndianaMinoritySupplierDevelopmentCouncil,28134,form,Indiana Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionMaryland/DCMinoritySupplierDevelopmentCouncil,28134,form,Maryland/DC Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionMinnesotaMinoritySupplierDevelopmentCouncil,28134,form,Minnesota Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionMinoritySupplierDevelopmentCouncilofNYandNJ,28134,form,Minority Supplier Development Council of NY and NJ
+572a4534504943931352e2c6,,37524,question,responseOptionMinoritySupplierDevelopmentCouncilofPA-NJ-DE,28134,form,Minority Supplier Development Council of PA-NJ-DE
+572a4534504943931352e2c6,,37524,question,responseOptionNewEnglandSupplierDevelopmentCouncil,28134,form,New England Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionNorCalSupplierDiversity,28134,form,Northern California Supplier Diversity Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionOklahomaMinoritySupplier,28134,form,Oklahoma Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionOther,28134,form,Other / Not Listed
+572a4534504943931352e2c6,,37524,question,responseOptionRockyMountainMinoritySupplier,28134,form,Rocky Mountain Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionSanDiegoRegionalMinoritySupplier,28134,form,San Diego Regional Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionSouthernCaliforniaMinority,28134,form,Southern California Minority Business Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionTennesseeMinoritySupplierDevelopment,28134,form,Tennessee Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionVirginiaMinoritySupplierDevelopmentCouncil,28134,form,Virginia Minority Supplier Development Council
+572a4534504943931352e2c6,,37524,question,responseOptionWisconsinIowaandCentralIllinoisMinority,28134,form,Wisconsin Iowa and Central Illinois Minority Supplier Development Council
+572a458f504943c533f156ca,,37525,question,questionText,28134,form,"Not Listed was selected, please specify:"
+5deed0d535000041ff6e2280,,89179,question,questionText,28134,form,Expiration Date:
+5dfd15ec3700009d4b779334,,90264,question,questionText,28134,form,Issue Date:
+5dfd160b320000fe2d7aa570,,90265,question,questionText,28134,form,Certification Number:
+5dfd16203400009d4b1106d5,,90266,question,questionText,28134,form,Please Upload a copy of your certification certificate:

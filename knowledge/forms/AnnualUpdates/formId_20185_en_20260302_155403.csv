@@ -1,0 +1,35 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+57fe855e504943ea1da29133,57fe855e504943ea1da29133,9708,questionGroup,questionGroupText,20185,form,Dominican Republic Specific Updates
+6913c8c90100003e00dc72de,57fe86895049432c32dacfaa,9712,questionGroup,questionGroupText,20185,form,Dominican Republic
+694b124e0100004800ee3a96,5acfa6152a0000580051c6e7,20185,questionGroup,questionGroupText,20185,form,Avetta Dominican Republic Annual Update
+57fe9ea35049433f00505abc,,41311,question,description,20185,form,"IMPORTANT: Please make sure to include all Full-Time, Part-Time, Seasonal, and Contract workers under your supervision, even if they were not under your direct employment."
+57fe9ea35049433f00505abc,,41311,question,questionText,20185,form,Please enter the Average Number of Employees your company had during the given year:
+57fe9f13504943838c566ee1,,41315,question,description,20185,form,"<a href=""https://sisalril.gob.do/seguro-de-riesgos-laborales/#479-140-notas-tecnicas-para-la-calificacion-de-contingencias-laborales to Work accidents or occupational diseases"">Work accidents or occupational diseases</a>"
+57fe9f13504943838c566ee1,,41315,question,questionText,20185,form,"Did your company record/report any workplace fatal accidents, non-mortal workplace accidents, dangerous incidents, or occupational diseases?"
+57fe9f13504943838c566ee1,,41315,question,responseOptionNo,20185,form,No
+57fe9f13504943838c566ee1,,41315,question,responseOptionYes,20185,form,Yes
+57fe9fd3504943d5b9ecee39,,41319,question,description,20185,form,"Include hours worked by salaried, hourly, part-time and seasonal workers including temporary help services workers under your supervision, even if they were not under your direct employment.\nDo not include vacation, sick leave, holidays, or any other non-work time, even if employees were paid for it. If your establishment keeps records of only the hours paid or if you have employees who are not paid by the hour, please estimate the hours that the employees actually worked. If this number isn't available, an estimate is still needed."
+57fe9fd3504943d5b9ecee39,,41319,question,questionText,20185,form,Please enter the total number of hours worked by all employees during the given year. Please round your answer to the next highest whole number.
+57fea5e950494361c04cd932,,41333,question,description,20185,form,"<a href=""https://sisalril.gob.do/seguro-de-riesgos-laborales/#479-140-notas-tecnicas-para-la-calificacion-de-contingencias-laborales"">Work accidents or occupational diseases</a> that that result in an employee death."
+57fea5e950494361c04cd932,,41333,question,questionText,20185,form,Please enter the number of Fatal Injuries your company had during the given year
+5df3d52a350000fecba1dbbe,,89617,question,questionText,20185,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+5df3d538330000eb4995fb8a,,89618,question,questionText,20185,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+654d1ff917000094325936f7,,146849,question,description,20185,form,
+654d1ff917000094325936f7,,146849,question,questionText,20185,form,Please enter the number of total/severe disability incidents your company had during the given year
+654d201a170000d3375936fb,,146850,question,description,20185,form,
+654d201a170000d3375936fb,,146850,question,questionText,20185,form,Please enter the number of partial permanent disability incidents your company had during the given year.
+654d2030170000fb3e5936fc,,146851,question,description,20185,form,"Incidents that result in preventing a person from performing their regular activities or duties for a certain <a href=""https://sisalril.gob.do/seguro-de-riesgos-laborales/#479-140-notas-tecnicas-para-la-calificacion-de-contingencias-laborales"">period of time</a>, but the disability is not permanent."
+654d2030170000fb3e5936fc,,146851,question,questionText,20185,form,Please enter the number of partial temporary disability your company had during the given year.
+654d20561800007d071edf35,,146853,question,description,20185,form,"Non disabling <a href=""https://sisalril.gob.do/seguro-de-riesgos-laborales/#479-140-notas-tecnicas-para-la-calificacion-de-contingencias-laborales"">serious incidents</a>"
+654d20561800007d071edf35,,146853,question,questionText,20185,form,Please enter the number of non-disabling serious incidents your company had during the given year.
+654d20691700009832593701,,146854,question,description,20185,form,"Incidents that involve <a href=""https://sisalril.gob.do/seguro-de-riesgos-laborales/#479-140-notas-tecnicas-para-la-calificacion-de-contingencias-laborales"">minor injuries or illnesses</a> that can be promptly treated with basic first aid measures and allow the employee to return to work the same day of the next day (no days away)."
+654d20691700009832593701,,146854,question,questionText,20185,form,Please enter the number of first aid incidents your company had during the given year.
+654d20a0180000d6071edf39,,146855,question,description,20185,form,"An occupational disease or illness is a health condition caused or worsened by workplace-related factors, such as exposure to hazards, chemicals, or repetitive activities."
+654d20a0180000d6071edf39,,146855,question,questionText,20185,form,Please enter the number of Occupational Diseases/Illnesses cases your company had during the given year.
+654d20a0180000d6071edf39,,146855,question,responseOption1,20185,form,Yes
+654d20a0180000d6071edf39,,146855,question,responseOption2,20185,form,No
+654d20bc1800007a071edf3a,,146857,question,description,20185,form,Refers to the total number of workdays an injured or ill employee is unable to work due to a workplace injury or illness.
+654d20bc1800007a071edf3a,,146857,question,questionText,20185,form,Please enter the total number of days away from work.
+654d20bc1800007a071edf3a,,146857,question,responseOption1,20185,form,Yes
+654d20bc1800007a071edf3a,,146857,question,responseOption2,20185,form,No
+6913c8c7010000f504dc72dd,,187928,question,questionText,20185,form,Please enter the total number of reportable dangerous occurrences/incidents for the given year:

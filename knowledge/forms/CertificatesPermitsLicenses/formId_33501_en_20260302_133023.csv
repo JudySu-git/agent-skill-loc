@@ -1,0 +1,10 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61563c3e460000b75f7c45ce,60edf5e8450000705e0162ee,33501,questionGroup,description,33501,form,"Because your company answered Yes to the Avetta PQF - UK Waste Carrier License Form, please provide the information below. If you answered the question incorrectly or you no longer are required to have a UK Waste Carrier License, please adjust the question in the Avetta PQF - UK Waste Carrier License Form."
+61563c3e460000b75f7c45ce,60edf5e8450000705e0162ee,33501,questionGroup,questionGroupText,33501,form,Avetta PQF - UK Waste Carrier License Upload
+60edf642440000e4cbc9b05e,,113159,question,questionText,33501,form,Please provide your UK Waste Carrier License expiry date:
+60edf671440000e4cbc9b093,,113160,question,questionText,33501,form,Please upload a copy of your UK Waste Carrier License:
+61562e8e460000b75f7bd87f,,115135,question,questionText,33501,form,Issued By:
+61562e8e460000b75f7bd87f,,115135,question,responseOption1,33501,form,Environment Agency (EA)
+61562e8e460000b75f7bd87f,,115135,question,responseOption2,33501,form,Natural Resources Wales ( Welsh Cyfoeth Naturiol Cymru)
+61562e8e460000b75f7bd87f,,115135,question,responseOption3,33501,form,Northern Ireland Environment Agency (NIEA)
+61562e8e460000b75f7bd87f,,115135,question,responseOption4,33501,form,Scottish Environment Protection Agency (SEPA)

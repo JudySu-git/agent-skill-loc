@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec600100003100a4739d,5d30ca253500004e4d88efeb,26880,questionGroup,questionGroupText,26880,form,Massachusetts Contractor License
+5d5597f1330000a743dea560,5d30ca383500004e4d88eff0,26881,questionGroup,questionGroupText,26880,form,Massachusetts Contractor License
+5d30ca433500004e4d88eff3,,84385,question,description,26880,form,"<a href = ""https://services.oca.state.ma.us/hic/licenseelist.aspx""target=""_BLANK_"">Massachusetts Office of Consumer Affairs and Business Regulation</a>\n\n"
+5d30ca433500004e4d88eff3,,84385,question,questionText,26880,form,Massachusetts Contractor License Number:\n
+5d30ca6b3500004e4d88eff5,,84386,question,description,26880,form,"<a href = ""https://services.oca.state.ma.us/hic/licenseelist.aspx""target=""_BLANK_"">Massachusetts Office of Consumer Affairs and Business Regulation</a>\n\n"
+5d30ca6b3500004e4d88eff5,,84386,question,questionText,26880,form,Massachusetts Contractor License Classifications:\n
+5d30ca813500004e4d88eff7,,84387,question,questionText,26880,form,Massachusetts License Expiration Date:\n
+5d30ca903500004e4d88eff9,,84388,question,description,26880,form,A URL will make verification quicker if provided\n
+5d30ca903500004e4d88eff9,,84388,question,questionText,26880,form,"Upload a copy of your license, and or provide the URL of the license."
+5d30ca903500004e4d88eff9,,84388,question,responseOption1,26880,form,File Upload
+5d30ca903500004e4d88eff9,,84388,question,responseOption2,26880,form,URL
+5d30cab63500004e4d88effb,,84389,question,questionText,26880,form,Please upload a copy of your Massachusetts license:\n
+5d30cac63500004e4d88effd,,84390,question,questionText,26880,form,Please enter the URL of the license:\n

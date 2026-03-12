@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+691d05070100003f009bf1d4,691b85d1010000b200198a75,49089,questionGroup,description,49089,form,"If your company is required to comply with Guatemalan Social Security requirements, you will be asked to provide relevant documents in a subsequent form(s)."
+691d05070100003f009bf1d4,691b85d1010000b200198a75,49089,questionGroup,questionGroupText,49089,form,Guatemala Social Security IGSS Applicability Assessment
+691b85d1010000b800198a76,,188818,question,description,49089,form,"<a href = ""https://www.igssgt.org/patronos/registro-unico-patronal/""target=""_BLANK_""> Guatemala’s Single Social Security Registry (RUSS)</a> is a government mandate requiring all employers to register themselves and their employees in the national social security system, administered by the Guatemalan Social Security Institute (IGSS). Requirements for registrations can be found on the <a href = ""https://www.igssgt.org/patronos/inscripcion-patronal/""target=""_BLANK_"">IGSS website.</a>"
+691b85d1010000b800198a76,,188818,question,questionText,49089,form,Is your company required to comply with Guatemalan Social Security requirements as regulated by Guatemalan Social Security Institute (IGSS) and maintain applicable documentation to show compliance?
+691b85d1010000b800198a76,,188818,question,responseOption1,49089,form,Yes
+691b85d1010000b800198a76,,188818,question,responseOption2,49089,form,No
+691b85d1010000b800198a78,,188819,question,questionText,49089,form,"If ""Other"", please explain."
+691b85d1010000b800198a77,,188820,question,questionText,49089,form,Please select from the following reason(s) your company is exempt from complying with Guatemalan Social Security requirements.
+691b85d1010000b800198a77,,188820,question,responseOption1,49089,form,The company is a sole proprietorship with no other employees. 
+691b85d1010000b800198a77,,188820,question,responseOption2,49089,form,The company does not have any employees in Guatemala.
+691b85d1010000b800198a77,,188820,question,responseOption3,49089,form,Other
+691b8780010000b500198b2a,,188823,question,questionText,49089,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Guatemalan legislation."

@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6880273b010000e60060eee2,6880260b0100003d00d1bda8,46766,questionGroup,description,46766,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+6880273b010000e60060eee2,6880260b0100003d00d1bda8,46766,questionGroup,questionGroupText,46766,form,Avetta PQF - Singapore bizSAFE Level 3 Applicability Assessment
+688026580100003a0060eed8,,176818,question,description,46766,form,"bizSAFE Level 3 is required for companies bidding for contracts or tenders with bizSAFE Partners, main construction firms, and the government sector. bizSAFE Level 3 recognises that your company has conducted risk assessments for every work activity and process in your workplace, in compliance with the requirements in the [WSH (Risk Management) Regulations.](https://sso.agc.gov.sg/SL/WSHA2006-RG8) "
+688026580100003a0060eed8,,176818,question,questionText,46766,form,Does your company have a bizSAFE Level 3 certificate?
+688026580100003a0060eed8,,176818,question,responseOption1,46766,form,Yes
+688026580100003a0060eed8,,176818,question,responseOption2,46766,form,No
+688026b3010000e900d1bdb1,,176819,question,questionText,46766,form,"As an authorized signatory, I hereby confirm that the information provided by our company is accurate and reflects our requirement to obtain the bizSAFE Level 3 certification."

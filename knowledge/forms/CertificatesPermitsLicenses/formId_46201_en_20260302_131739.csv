@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+683f0d4b0100003c00c96209,683dbdbc010000560085d178,46201,questionGroup,questionGroupText,46201,form, Germany Handwerkskammer (HWK) - Chamber of Crafts Registration 
+683dbe03010000350092cad3,,174583,question,description,46201,form,"<a href = ""https://www.hwk-bremen.de/service-center/formulare-and-downloads"" target = ""_BLANK_"" >List of regulated trades – Annex A</a>\n\n<a href = ""https://www.gesetze-im-internet.de/hwo/"" target = ""_BLANK_"" >Full Crafts Code (Handwerksordnung)</a>\n"
+683dbe03010000350092cad3,,174583,question,questionText,46201,form,Is your company required to register with the Handwerkskammer (HWK) in Germany to legally perform any of the regulated craft trades?
+683dbe03010000350092cad3,,174583,question,responseOption1,46201,form,Yes
+683dbe03010000350092cad3,,174583,question,responseOption2,46201,form,No
+683dbf0201000059001e0d54,,174584,question,questionText,46201,form,Please upload a Copy of your company's valid registration certificate with the local Handwerkskammer (HWK).
+683dbf0d01000038001e0d56,,174585,question,questionText,46201,form,Please explain
+683dbf190100003c001e0d58,,174586,question,questionText,46201,form,I confirm that this information remains valid

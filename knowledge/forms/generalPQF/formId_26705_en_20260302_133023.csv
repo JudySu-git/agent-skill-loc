@@ -1,0 +1,52 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5ce722ea340000ae2d290c6f,5ce7157834000073d28642a0,26705,questionGroup,questionGroupText,26705,form,Avetta PQF - SAPIN2 (Sapin II)
+5ce7167f340000ae2d290c40,5ce7167f340000ae2d290c3f,26706,questionGroup,questionGroupText,26705,form,SAPIN2 (Sapin II)
+5ce716a4340000ae2d290c41,,83803,question,questionText,26705,form,Is your company required to comply with the French SAPIN2 (Sapin II) law?
+5ce716a4340000ae2d290c41,,83803,question,responseOption1,26705,form,Yes
+5ce716a4340000ae2d290c41,,83803,question,responseOption2,26705,form,No
+5ce716a5330000ae2d093d62,,83804,question,questionText,26705,form,Do you have any other anti-corruption law with which your company should comply with?
+5ce716a5330000ae2d093d62,,83804,question,responseOption1,26705,form,Yes
+5ce716a5330000ae2d093d62,,83804,question,responseOption2,26705,form,No
+5ce716a634000073d28642a9,,83805,question,description,26705,form,"This will include: Code of Conduct, Risk Mapping, Third Party Due Diligence, Accounting Controls, Compliance Training, Disciplinary Arrangement, and Internal Controls."
+5ce716a634000073d28642a9,,83805,question,questionText,26705,form,Do you have all the mandatory policies and procedures in place that meets the requirements of SAPIN2 (Sapin II)?
+5ce716a634000073d28642a9,,83805,question,responseOption1,26705,form,Yes
+5ce716a634000073d28642a9,,83805,question,responseOption2,26705,form,No
+5ce716a6350000115824cbad,,83806,question,questionText,26705,form,Are you in the process of developing the management programs that will meet these requirements?
+5ce716a6350000115824cbad,,83806,question,responseOption1,26705,form,Yes
+5ce716a6350000115824cbad,,83806,question,responseOption2,26705,form,No
+5ce716a7340000ae2d290c42,,83807,question,questionText,26705,form,"Do any of your owners, corporate officers, directors or senior managers have relatives who are public officials and who have influence or decision making authority regarding projects your company will conduct on behalf of your clients?"
+5ce716a7340000ae2d290c42,,83807,question,responseOption1,26705,form,Yes
+5ce716a7340000ae2d290c42,,83807,question,responseOption2,26705,form,No
+5ce716a734000073d28642aa,,83808,question,description,26705,form,"The could include clause in the employment contract, clause in supplier contracts (buying and selling) or standard terms and conditions of the purchase orders."
+5ce716a734000073d28642aa,,83808,question,questionText,26705,form,"Has your company adopted a Zero tolerance stance regarding anti-corruption and bribery, relating the recruitment of personnel and all supply chain processes?"
+5ce716a734000073d28642aa,,83808,question,responseOption1,26705,form,Yes
+5ce716a734000073d28642aa,,83808,question,responseOption2,26705,form,No
+5ce716a8340000ae2d290c43,,83809,question,questionText,26705,form,Has your company (or any subsidiary) been convicted for anti-corruption or bribery within the last 5 years
+5ce716a8340000ae2d290c43,,83809,question,responseOption1,26705,form,Yes
+5ce716a8340000ae2d290c43,,83809,question,responseOption2,26705,form,No
+5ce716a8330000ae2d093d63,,83810,question,questionText,26705,form,Is your company (or any subsidiary) currently defending an anti-corruption or anti-bribery charge?
+5ce716a8330000ae2d093d63,,83810,question,responseOption1,26705,form,Yes
+5ce716a8330000ae2d093d63,,83810,question,responseOption2,26705,form,No
+5ce716a934000073d28642ab,,83811,question,questionText,26705,form,Does your company have more than 500 employees?
+5ce716a934000073d28642ab,,83811,question,responseOption1,26705,form,Yes
+5ce716a934000073d28642ab,,83811,question,responseOption2,26705,form,No
+5ce716a9340000ae2d290c44,,83812,question,questionText,26705,form,Do you have an anti-bribery or corruption policy?
+5ce716a9340000ae2d290c44,,83812,question,responseOption1,26705,form,Yes
+5ce716a9340000ae2d290c44,,83812,question,responseOption2,26705,form,No
+5ce716aa34000073d28642ac,,83813,question,questionText,26705,form,"Does your company have a policy or a documented procedure regulating the provision of gifts, entertainment, travel, lodging, hospitalities, donations, grants and other advantages to third parties,  public officials and own employees?"
+5ce716aa34000073d28642ac,,83813,question,responseOption1,26705,form,Yes
+5ce716aa34000073d28642ac,,83813,question,responseOption2,26705,form,No
+5ce716aa350000115824cbae,,83814,question,questionText,26705,form,Do you regularly train your employees on anti-bribery and anti-corruption law and/or company policy?
+5ce716aa350000115824cbae,,83814,question,responseOption1,26705,form,Yes
+5ce716aa350000115824cbae,,83814,question,responseOption2,26705,form,No
+5ce716ab330000ae2d093d64,,83815,question,questionText,26705,form,Do you distribute your code of conduct or equivalent document to all new employees?
+5ce716ab330000ae2d093d64,,83815,question,responseOption1,26705,form,Yes
+5ce716ab330000ae2d093d64,,83815,question,responseOption2,26705,form,No
+5ce716ab340000ae2d290c45,,83816,question,questionText,26705,form,Do you have an appointed person responsible for any compliance question in your company?
+5ce716ab340000ae2d290c45,,83816,question,responseOption1,26705,form,Yes
+5ce716ab340000ae2d290c45,,83816,question,responseOption2,26705,form,No
+5ce716ac34000073d28642ad,,83817,question,questionText,26705,form,Do you have any protection in place to protect whistleblowers in your company?
+5ce716ac34000073d28642ad,,83817,question,responseOption1,26705,form,Yes
+5ce716ac34000073d28642ad,,83817,question,responseOption2,26705,form,No
+5ce71ada340000ae2d290c4f,,83818,question,questionText,26705,form,Please list them below:
+5ce71adc34000073d28642c2,,83819,question,questionText,26705,form,Please upload evidence (Code of Conduct):

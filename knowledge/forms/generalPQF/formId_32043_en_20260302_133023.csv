@@ -1,0 +1,792 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+642b08e7140000c10d4045d7,5fc692292a0000124bcb5792,32043,questionGroup,questionGroupText,32043,form,Avetta PQF - Road Transport (Australia)
+5fc6927f2a0000124bcb57b3,5fc6927f2a0000124bcb57b2,32044,questionGroup,questionGroupText,32043,form,General
+64273f1c160000a615b562ea,5fc695472a0000124bcb5a83,32045,questionGroup,questionGroupText,32043,form,Geographical Coverage
+642745b2140000b11514fccd,5fc6c1932a00006f88f9604b,32054,questionGroup,questionGroupText,32043,form,Operational Capability
+5fcac6aa2a0000d421a4e753,5fc6d2df2a00006f88f967b2,32055,questionGroup,questionGroupText,32043,form,Accreditation
+642765e5130000e703b31eae,5fc7dfcb290000124b0b13c7,32065,questionGroup,questionGroupText,32043,form,Fleet Information
+64276776130000dd03b36997,5fc806e42a0000b8027d7ce9,32066,questionGroup,questionGroupText,32043,form,Vehicle Safety
+6427699e130000d503b3dd37,5fc819dc290000124b0c907b,32067,questionGroup,questionGroupText,32043,form,Operators / Drivers
+5fc822de290000124b0c9323,5fc822de290000124b0c9322,32068,questionGroup,questionGroupText,32043,form,Carriage of Dangerous Goods 
+5fc96aa72b0000b802c0209d,5fc96aa72b0000b802c0209c,32077,questionGroup,questionGroupText,32043,form,Australia – Country Specific Content
+5fc96ca02b0000b802c020fa,5fc96ca02b0000b802c020f9,32078,questionGroup,questionGroupText,32043,form,Safety Duties 
+5fc96cb92a000052f710a1a8,5fc96cb92a000052f710a1a7,32080,questionGroup,questionGroupText,32043,form,Safety Management Systems 
+5fc971032b0000b802c0221b,5fc971032b0000b802c0221a,32082,questionGroup,questionGroupText,32043,form,Risk Assessment
+5fc9729c2a000052f710a633,5fc9729c2a000052f710a632,32084,questionGroup,questionGroupText,32043,form,Access to competent safety advice 
+5fc9738f2b0000b802c02575,5fc9738f2b0000b802c02574,32086,questionGroup,questionGroupText,32043,form,Heavy Vehicle Confidential Reporting Line (HVCRL)
+64276e651300008100b52430,5fdce4602d0000e947411197,32186,questionGroup,questionGroupText,32043,form,Chain of Responsibility
+5fc6931e2a00006f88f7ef33,,104776,question,questionText,32043,form,Can the company confirm all relevant vehicles have been subject to registration with a national heavy vehicle registration system? 
+5fc6931e2a00006f88f7ef33,,104776,question,responseOption1,32043,form,Yes
+5fc6931e2a00006f88f7ef33,,104776,question,responseOption2,32043,form,No
+5fc6931e2a00006f88f7ef33,,104776,question,responseOption3,32043,form,NA
+5fc693332a0000124bcb5809,,104777,question,questionText,32043,form,Does the company have the option to utilise additional Operating / Parking locations? 
+5fc693332a0000124bcb5809,,104777,question,responseOption1,32043,form,Yes
+5fc693332a0000124bcb5809,,104777,question,responseOption2,32043,form,No
+5fc693802a00006f88f7ef4c,,104778,question,questionText,32043,form,Please select when the additional Operating / Parking Locations are utilised: 
+5fc693802a00006f88f7ef4c,,104778,question,responseOption1,32043,form, In the event where extra capacity is required 
+5fc693802a00006f88f7ef4c,,104778,question,responseOption2,32043,form,As part of a business continuity programme
+5fc694452a0000124bcb5978,,104779,question,questionText,32043,form,Please specify location:
+5fc6945f2a0000124bcb5a40,,104780,question,questionText,32043,form,Does the company participate in any current Permit-based schemes? 
+5fc6945f2a0000124bcb5a40,,104780,question,responseOption1,32043,form,Yes
+5fc6945f2a0000124bcb5a40,,104780,question,responseOption2,32043,form,No
+5fc6955e2a00006f88f7f0ad,,104781,question,description,32043,form,"Services can include passenger transportation, use of a motor vehicle built with seating positions for 10 or more adults (including the driver), carrying /moving of goods and freight."
+5fc6955e2a00006f88f7f0ad,,104781,question,questionText,32043,form,Does the company have the in-house capacity to provide transport services that can cover all domestic locations? 
+5fc6955e2a00006f88f7f0ad,,104781,question,responseOption1,32043,form,Yes
+5fc6955e2a00006f88f7f0ad,,104781,question,responseOption2,32043,form,No
+5fc695ae2a00006f88f7f0db,,104782,question,questionText,32043,form,Do you operate in Australian Capital Territory?
+5fc695ae2a00006f88f7f0db,,104782,question,responseOption1,32043,form,Yes
+5fc695ae2a00006f88f7f0db,,104782,question,responseOption2,32043,form,No
+5fc697b52a00006f88f7f1d7,,104783,question,questionText,32043,form,Do you operate in New South Wales?
+5fc697b52a00006f88f7f1d7,,104783,question,responseOption1,32043,form,Yes
+5fc697b52a00006f88f7f1d7,,104783,question,responseOption2,32043,form,No
+5fc697d62a00006f88f7f1f3,,104784,question,questionText,32043,form,"If yes, please select from the list where you operate in New South Wales:"
+5fc697d62a00006f88f7f1f3,,104784,question,responseOption1,32043,form,Greater Sydney
+5fc697d62a00006f88f7f1f3,,104784,question,responseOption10,32043,form,Riverina
+5fc697d62a00006f88f7f1f3,,104784,question,responseOption11,32043,form,Southern Highlands and Shoalhaven
+5fc697d62a00006f88f7f1f3,,104784,question,responseOption12,32043,form,Coffs Harbour-Grafton
+5fc697d62a00006f88f7f1f3,,104784,question,responseOption13,32043,form,Far West and Orana
+5fc697d62a00006f88f7f1f3,,104784,question,responseOption2,32043,form,Newcastle and Lake Macquarie
+5fc697d62a00006f88f7f1f3,,104784,question,responseOption3,32043,form,Illawarra
+5fc697d62a00006f88f7f1f3,,104784,question,responseOption4,32043,form,Hunter Valley excluding Newcastle
+5fc697d62a00006f88f7f1f3,,104784,question,responseOption5,32043,form,Richmond Tweed 
+5fc697d62a00006f88f7f1f3,,104784,question,responseOption6,32043,form,Capital Region
+5fc697d62a00006f88f7f1f3,,104784,question,responseOption7,32043,form,Mid North Coast
+5fc697d62a00006f88f7f1f3,,104784,question,responseOption8,32043,form,Central West
+5fc697d62a00006f88f7f1f3,,104784,question,responseOption9,32043,form,New England and North West 
+5fc699682a0000124bcb5cd2,,104785,question,questionText,32043,form,Do you operate in Northern Territory?
+5fc699682a0000124bcb5cd2,,104785,question,responseOption1,32043,form,Yes
+5fc699682a0000124bcb5cd2,,104785,question,responseOption2,32043,form,No
+5fc699822a00006f88f7f350,,104786,question,questionText,32043,form,"If yes, please select from the list where you operate in Northern Territory:"
+5fc699822a00006f88f7f350,,104786,question,responseOption1,32043,form,Arnhem Land
+5fc699822a00006f88f7f350,,104786,question,responseOption2,32043,form,Central Australia
+5fc6b9ac2a00006f88f95de0,,104798,question,questionText,32043,form,Do you operate in Queensland?
+5fc6b9ac2a00006f88f95de0,,104798,question,responseOption1,32043,form,Yes
+5fc6b9ac2a00006f88f95de0,,104798,question,responseOption2,32043,form,No
+5fc6b9b72a0000124bccd95d,,104799,question,questionText,32043,form,"If yes, please select from the list where you operate in Queensland:"
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption1,32043,form,Brisbane 
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption10,32043,form,South East Queensland
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption11,32043,form,Southern Downs
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption12,32043,form,Sunshine Coast
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption13,32043,form,Toowoomba
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption14,32043,form,Darling Downs
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption15,32043,form,Torres Strait Islands
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption16,32043,form,Townsville
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption17,32043,form,​North Queensland 
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption18,32043,form,Whitsunday
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption2,32043,form,Bundalberg
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption3,32043,form,Coral Coast
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption4,32043,form,Capricorn
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption5,32043,form,Fraser Coast
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption6,32043,form,South Burnett Gladstone
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption7,32043,form,Gold Coast
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption8,32043,form,Mackay Outback
+5fc6b9b72a0000124bccd95d,,104799,question,responseOption9,32043,form,​Queensland 
+5fc6ba342a0000124bccd98a,,104800,question,questionText,32043,form,Do you operate in South Australia?
+5fc6ba342a0000124bccd98a,,104800,question,responseOption1,32043,form,Yes
+5fc6ba342a0000124bccd98a,,104800,question,responseOption2,32043,form,No
+5fc6ba4d2a00006f88f95df3,,104801,question,questionText,32043,form,"If yes, please select from the list where you operate in South Australia:"
+5fc6ba4d2a00006f88f95df3,,104801,question,responseOption1,32043,form,Adelaide Plains
+5fc6ba4d2a00006f88f95df3,,104801,question,responseOption10,32043,form,Limestone Coast
+5fc6ba4d2a00006f88f95df3,,104801,question,responseOption11,32043,form,Mid North
+5fc6ba4d2a00006f88f95df3,,104801,question,responseOption12,32043,form,Murraylands
+5fc6ba4d2a00006f88f95df3,,104801,question,responseOption13,32043,form,​Riverland 
+5fc6ba4d2a00006f88f95df3,,104801,question,responseOption14,32043,form,Yorke Peninsula
+5fc6ba4d2a00006f88f95df3,,104801,question,responseOption2,32043,form,Adelaide Hills / Mount Lofty Ranges
+5fc6ba4d2a00006f88f95df3,,104801,question,responseOption3,32043,form,Barossa Valley
+5fc6ba4d2a00006f88f95df3,,104801,question,responseOption4,32043,form,Copper Triangle
+5fc6ba4d2a00006f88f95df3,,104801,question,responseOption5,32043,form,Eyre Peninsula
+5fc6ba4d2a00006f88f95df3,,104801,question,responseOption6,32043,form,​Far North 
+5fc6ba4d2a00006f88f95df3,,104801,question,responseOption7,32043,form,Fleurieu Peninsula
+5fc6ba4d2a00006f88f95df3,,104801,question,responseOption8,32043,form,Flinders Ranges
+5fc6ba4d2a00006f88f95df3,,104801,question,responseOption9,32043,form,​Kangaroo Island 
+5fc6baaf2a00006f88f95e21,,104802,question,questionText,32043,form,Do you operate in Tasmania?
+5fc6baaf2a00006f88f95e21,,104802,question,responseOption1,32043,form,Yes
+5fc6baaf2a00006f88f95e21,,104802,question,responseOption2,32043,form,No
+5fc6bac92a0000124bccd98e,,104803,question,questionText,32043,form,"If yes, please select from the list where you operate in Tasmania:"
+5fc6bac92a0000124bccd98e,,104803,question,responseOption1,32043,form,Central Highlands
+5fc6bac92a0000124bccd98e,,104803,question,responseOption2,32043,form,Midlands and West Coast
+5fc6bae42a00006f88f95e29,,104804,question,questionText,32043,form,Do you operate in Victoria?
+5fc6bae42a00006f88f95e29,,104804,question,responseOption1,32043,form,Yes
+5fc6bae42a00006f88f95e29,,104804,question,responseOption2,32043,form,No
+5fc6bafa2a0000124bccd990,,104805,question,questionText,32043,form,"If yes, please select from the list where you operate in Victoria:"
+5fc6bafa2a0000124bccd990,,104805,question,responseOption1,32043,form,Gippsland
+5fc6bafa2a0000124bccd990,,104805,question,responseOption2,32043,form,The Grampians
+5fc6bafa2a0000124bccd990,,104805,question,responseOption3,32043,form,The Mallee
+5fc6bafa2a0000124bccd990,,104805,question,responseOption4,32043,form,Melbourne
+5fc6bafa2a0000124bccd990,,104805,question,responseOption5,32043,form,Mornington Peninsula
+5fc6bafa2a0000124bccd990,,104805,question,responseOption6,32043,form,The Victorian Alps 
+5fc6bafa2a0000124bccd990,,104805,question,responseOption7,32043,form,Western District
+5fc6bafa2a0000124bccd990,,104805,question,responseOption8,32043,form,The Wimmera and Yarra Valley 
+5fc6bb2e2a00006f88f95e53,,104806,question,questionText,32043,form,Do you operate in Western Australia?
+5fc6bb2e2a00006f88f95e53,,104806,question,responseOption1,32043,form,Yes
+5fc6bb2e2a00006f88f95e53,,104806,question,responseOption2,32043,form,No
+5fc6bb402a0000124bccd9a0,,104807,question,questionText,32043,form,"If yes, please select from the list where you operate in Western Australia:"
+5fc6bb402a0000124bccd9a0,,104807,question,responseOption1,32043,form,​Gascoyne 
+5fc6bb402a0000124bccd9a0,,104807,question,responseOption10,32043,form,Christmas Island
+5fc6bb402a0000124bccd9a0,,104807,question,responseOption11,32043,form,​Cocos Islands 
+5fc6bb402a0000124bccd9a0,,104807,question,responseOption2,32043,form,Goldfields-Esperance
+5fc6bb402a0000124bccd9a0,,104807,question,responseOption3,32043,form,Great Southern 
+5fc6bb402a0000124bccd9a0,,104807,question,responseOption4,32043,form,Kimberley
+5fc6bb402a0000124bccd9a0,,104807,question,responseOption5,32043,form,Mid-West
+5fc6bb402a0000124bccd9a0,,104807,question,responseOption6,32043,form,Perth
+5fc6bb402a0000124bccd9a0,,104807,question,responseOption7,32043,form,Pilbara
+5fc6bb402a0000124bccd9a0,,104807,question,responseOption8,32043,form,South West
+5fc6bb402a0000124bccd9a0,,104807,question,responseOption9,32043,form,Wheatbelt
+5fc6bb932a0000124bccd9b3,,104808,question,description,32043,form,"Providing cover in different international locations may be as part of a wider business organisation i.e., part of international group, via a third-party subcontract or agreement. Transportation Services can include passenger transportation, use of a motor vehicle built with seating positions for 10 or more adults (including the driver), carrying /moving of goods and freight ."
+5fc6bb932a0000124bccd9b3,,104808,question,questionText,32043,form,Does the company have the capacity to provide transport services covering the countries in the APAC region?
+5fc6bb932a0000124bccd9b3,,104808,question,responseOption1,32043,form,Yes
+5fc6bb932a0000124bccd9b3,,104808,question,responseOption2,32043,form,No
+5fc6bbcd2a00006f88f95ea7,,104809,question,questionText,32043,form,"If yes, please select from the list of countries transport services are provided:"
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption1,32043,form,China
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption10,32043,form,Myanmar
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption11,32043,form,South Korea
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption12,32043,form,Malaysia
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption13,32043,form,Nepal
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption14,32043,form,North Korea
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption15,32043,form,Taiwan
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption16,32043,form,Sri Lanka
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption17,32043,form,Cambodia
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption18,32043,form,Papua New Guinea
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption19,32043,form,Laos
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption2,32043,form,India
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption20,32043,form,Singapore
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption21,32043,form,New Zealand
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption22,32043,form,Mongolia
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption23,32043,form,Timor Leste
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption24,32043,form,Fiji
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption25,32043,form,Bhutan
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption26,32043,form,Solomon Islands
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption27,32043,form,Maldives
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption28,32043,form,Brunei
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption29,32043,form,Vanuatu
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption3,32043,form,Indonesia
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption30,32043,form,New Caledonia
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption31,32043,form,French Polynesia
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption32,32043,form,Samoa
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption33,32043,form,Guam
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption34,32043,form,Kiribati
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption35,32043,form,Micronesia
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption36,32043,form,Tonga
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption37,32043,form,Marshall Islands
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption38,32043,form,Northern Mariana Islands
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption39,32043,form,American Samoa
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption4,32043,form,Pakistan
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption40,32043,form,Palau
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption41,32043,form,Cook Islands
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption42,32043,form,Tuvalu
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption43,32043,form,Wallis And Futuna
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption44,32043,form,Nauru
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption45,32043,form,Niue
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption46,32043,form,Tokelau
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption5,32043,form,Russia
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption6,32043,form,Japan
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption7,32043,form,Philippines
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption8,32043,form,Vietnam
+5fc6bbcd2a00006f88f95ea7,,104809,question,responseOption9,32043,form,Thailand
+5fc6c9e32a00006f88f963a0,,104811,question,questionText,32043,form,"Please specify the ""Other"" industry sector: "
+5fc6c9f22a0000124bccdcbd,,104812,question,questionText,32043,form,Does the company have experience within retail distribution? 
+5fc6c9f22a0000124bccdcbd,,104812,question,responseOption1,32043,form,Yes
+5fc6c9f22a0000124bccdcbd,,104812,question,responseOption2,32043,form,No
+5fc6c9f22a0000124bccdcbd,,104812,question,responseOption3,32043,form,NA
+5fc6ca042a0000124bccdcd8,,104813,question,questionText,32043,form,"If yes, please confirm the number of years the company has worked in retail distribution: "
+5fc6ca042a0000124bccdcd8,,104813,question,responseOption1,32043,form,1 - 4 yrs.
+5fc6ca042a0000124bccdcd8,,104813,question,responseOption2,32043,form,5 - 8 yrs.
+5fc6ca042a0000124bccdcd8,,104813,question,responseOption3,32043,form,9 - 12 yrs.
+5fc6ca042a0000124bccdcd8,,104813,question,responseOption4,32043,form,13 - 15 yrs.
+5fc6ca042a0000124bccdcd8,,104813,question,responseOption5,32043,form,16 - 19 yrs.
+5fc6ca042a0000124bccdcd8,,104813,question,responseOption6,32043,form,20+ yrs.
+5fc6ca5f2a0000124bccdd0e,,104814,question,questionText,32043,form,What are the hours of business for the following areas of the company? 
+5fc6ca882a00006f88f9640c,,104815,question,questionText,32043,form,Emergency contact information: 
+5fc6ca882a00006f88f9640c,,104815,question,responseOption1,32043,form,Mon-Fri Standard (Limited weekend cover)
+5fc6ca882a00006f88f9640c,,104815,question,responseOption2,32043,form,Mon-Fri Standard (No weekend cover)
+5fc6ca882a00006f88f9640c,,104815,question,responseOption3,32043,form,24 Hrs. Mon-Fri (Limited weekend)
+5fc6ca882a00006f88f9640c,,104815,question,responseOption4,32043,form,24 Hrs. Mon-Fri (No weekend cover)
+5fc6ca882a00006f88f9640c,,104815,question,responseOption5,32043,form,24 Hrs. Seven days (No public Holidays)
+5fc6ca882a00006f88f9640c,,104815,question,responseOption6,32043,form,24 Hrs. Seven days (All year cover)
+5fc6ca882a00006f88f9640c,,104815,question,responseOption7,32043,form,Other
+5fc6cafd2a00006f88f9641f,,104816,question,questionText,32043,form,Retail operations:
+5fc6cafd2a00006f88f9641f,,104816,question,responseOption1,32043,form,Mon-Fri Standard (Limited weekend cover)
+5fc6cafd2a00006f88f9641f,,104816,question,responseOption2,32043,form,Mon-Fri Standard (No weekend cover)
+5fc6cafd2a00006f88f9641f,,104816,question,responseOption3,32043,form,24 Hrs. Mon-Fri (Limited weekend)
+5fc6cafd2a00006f88f9641f,,104816,question,responseOption4,32043,form,24 Hrs. Mon-Fri (No weekend cover)
+5fc6cafd2a00006f88f9641f,,104816,question,responseOption5,32043,form,24 Hrs. Seven days (No public Holidays)
+5fc6cafd2a00006f88f9641f,,104816,question,responseOption6,32043,form,24 Hrs. Seven days (All year cover)
+5fc6cafd2a00006f88f9641f,,104816,question,responseOption7,32043,form,Other
+5fc6cb392a00006f88f96450,,104817,question,questionText,32043,form,Roadside Emergency Service: 
+5fc6cb392a00006f88f96450,,104817,question,responseOption1,32043,form,Mon-Fri Standard (Limited weekend cover)
+5fc6cb392a00006f88f96450,,104817,question,responseOption2,32043,form,Mon-Fri Standard (No weekend cover)
+5fc6cb392a00006f88f96450,,104817,question,responseOption3,32043,form,24 Hrs. Mon-Fri (Limited weekend)
+5fc6cb392a00006f88f96450,,104817,question,responseOption4,32043,form,24 Hrs. Mon-Fri (No weekend cover)
+5fc6cb392a00006f88f96450,,104817,question,responseOption5,32043,form,24 Hrs. Seven days (No public Holidays)
+5fc6cb392a00006f88f96450,,104817,question,responseOption6,32043,form,24 Hrs. Seven days (All year cover)
+5fc6cb392a00006f88f96450,,104817,question,responseOption7,32043,form,Other
+5fc6cb742a0000124bccddb9,,104818,question,questionText,32043,form,Administrative / General: 
+5fc6cb742a0000124bccddb9,,104818,question,responseOption1,32043,form,Mon-Fri Standard (Limited weekend cover)
+5fc6cb742a0000124bccddb9,,104818,question,responseOption2,32043,form,Mon-Fri Standard (No weekend cover)
+5fc6cb742a0000124bccddb9,,104818,question,responseOption3,32043,form,24 Hrs. Mon-Fri (Limited weekend)
+5fc6cb742a0000124bccddb9,,104818,question,responseOption4,32043,form,24 Hrs. Mon-Fri (No weekend cover)
+5fc6cb742a0000124bccddb9,,104818,question,responseOption5,32043,form,24 Hrs. Seven days (No public Holidays)
+5fc6cb742a0000124bccddb9,,104818,question,responseOption6,32043,form,24 Hrs. Seven days (All year cover)
+5fc6cb742a0000124bccddb9,,104818,question,responseOption7,32043,form,Other
+5fc6cbc72a00006f88f9646c,,104819,question,description,32043,form,"This includes passenger timetables, managing unexpected issues e.g., passenger illness or other factors such as inclement weather, poor road conditions, vehicle breakdown"
+5fc6cbc72a00006f88f9646c,,104819,question,questionText,32043,form,Does your company have an established policy/procedure/system that ensures realistic delivery timelines are set which make allowances for unexpected delays such as traffic or road works? 
+5fc6cbc72a00006f88f9646c,,104819,question,responseOption1,32043,form,Yes
+5fc6cbc72a00006f88f9646c,,104819,question,responseOption2,32043,form,No
+5fc6cbd92a00006f88f96477,,104820,question,questionText,32043,form,"Upload a copy of the procedure, process flow or action plan confirming how unexpected delays are managed including any contingencies needed to enable  timelines are addressed."
+5fc6cbf42a0000124bccddd0,,104821,question,questionText,32043,form,"Does your company during delivery and peak travel times use the services from owner-drivers, subcontract hauliers; self-employed drivers; employment agency workers and labour provided by licenced labour only providers to drive company owned vehicles? "
+5fc6cbf42a0000124bccddd0,,104821,question,responseOption1,32043,form,Yes
+5fc6cbf42a0000124bccddd0,,104821,question,responseOption2,32043,form,No
+5fc6cc062a0000124bccdde9,,104822,question,questionText,32043,form,Please confirm which options you use to cover delivery peaks and peak travel times:
+5fc6cc062a0000124bccdde9,,104822,question,responseOption1,32043,form,Use of drivers from employment companies (Licenced labour providers) 
+5fc6cc062a0000124bccdde9,,104822,question,responseOption2,32043,form,Use of Owner / Drivers
+5fc6cc062a0000124bccdde9,,104822,question,responseOption3,32043,form,Subcontract Driver only / Labour only working direct – No other 3rd party
+5fc6cc062a0000124bccdde9,,104822,question,responseOption4,32043,form,Sub-Contract Hauliers
+5fc6cc062a0000124bccdde9,,104822,question,responseOption5,32043,form,Self-employed drivers
+5fc6cc7c2a0000124bccde01,,104823,question,questionText,32043,form,Enter % for use of drivers from employment companies (Licenced labour providers) 
+5fc6cc892a0000124bccde08,,104824,question,questionText,32043,form,Enter % for use of Owner / Drivers 
+5fc6cc9f2a00006f88f9650f,,104825,question,questionText,32043,form,Enter % for use of Subcontract Driver / Labour only working direct – No other 3rd party 
+5fc6ccad2a0000124bccde20,,104826,question,questionText,32043,form,Enter % for use of Sub-Contract Hauliers 
+5fc6ccba2a0000124bccde22,,104827,question,description,32043,form,You have the ability to check more than one option.
+5fc6ccba2a0000124bccde22,,104827,question,questionText,32043,form,"If yes, please confirm the due diligence (method of evaluation) checking process used to select supplementary drivers. Check the options in the list: "
+5fc6ccba2a0000124bccde22,,104827,question,responseOption1,32043,form,Reference checks
+5fc6ccba2a0000124bccde22,,104827,question,responseOption10,32043,form,Driving Licence checks
+5fc6ccba2a0000124bccde22,,104827,question,responseOption11,32043,form,Other 
+5fc6ccba2a0000124bccde22,,104827,question,responseOption2,32043,form, Up to date Employment Agent's Licence / Labour Licence
+5fc6ccba2a0000124bccde22,,104827,question,responseOption3,32043,form,Insurance 
+5fc6ccba2a0000124bccde22,,104827,question,responseOption4,32043,form,Character checks
+5fc6ccba2a0000124bccde22,,104827,question,responseOption5,32043,form,Criminal Records check
+5fc6ccba2a0000124bccde22,,104827,question,responseOption6,32043,form,Drivers (Individuals) can work in the Country legally
+5fc6ccba2a0000124bccde22,,104827,question,responseOption7,32043,form,Previous work history
+5fc6ccba2a0000124bccde22,,104827,question,responseOption8,32043,form,Trade references
+5fc6ccba2a0000124bccde22,,104827,question,responseOption9,32043,form,Bank / Credit references
+5fc6cd1a2a0000124bccde6e,,104829,question,questionText,32043,form,"Please specify the ""Other"" checks made: "
+5fc6cd312a00006f88f96647,,104831,question,questionText,32043,form,"As part of the subcontractor / self-employed driver validation process, do you confirm their ACN/ABN number: "
+5fc6cd312a00006f88f96647,,104831,question,responseOption1,32043,form,Yes
+5fc6cd312a00006f88f96647,,104831,question,responseOption2,32043,form,No
+5fc6d2f52a0000124bcce548,,104833,question,questionText,32043,form,Does the company have any affiliation or membership of a transport association? 
+5fc6d2f52a0000124bcce548,,104833,question,responseOption1,32043,form,Yes
+5fc6d2f52a0000124bcce548,,104833,question,responseOption2,32043,form,No
+5fc6d3042a00006f88f967b6,,104834,question,description,32043,form,More than one option can be checked:
+5fc6d3042a00006f88f967b6,,104834,question,questionText,32043,form,"If yes, please check the relevant association(s): "
+5fc6d3042a00006f88f967b6,,104834,question,responseOption1,32043,form,NatRoad (National Road Transport Association)
+5fc6d3042a00006f88f967b6,,104834,question,responseOption10,32043,form,South Australia - SARTA (South Australia Road Transport Association) 
+5fc6d3042a00006f88f967b6,,104834,question,responseOption11,32043,form,South Australia - LRTASA (Livestock & Rural Transport Association of South Australia)
+5fc6d3042a00006f88f967b6,,104834,question,responseOption12,32043,form,South Australia - NHVAS Advanced Fatigue Management (AFM)
+5fc6d3042a00006f88f967b6,,104834,question,responseOption13,32043,form,South Australia - NHVAS Basic Fatigue Management (BFM) 
+5fc6d3042a00006f88f967b6,,104834,question,responseOption14,32043,form,South Australia - NHVAS Mass Management
+5fc6d3042a00006f88f967b6,,104834,question,responseOption15,32043,form,South Australia - ​NHVAS Maintenance Management 
+5fc6d3042a00006f88f967b6,,104834,question,responseOption16,32043,form,South Australia - TruckSafe Accreditation
+5fc6d3042a00006f88f967b6,,104834,question,responseOption17,32043,form,South Australia - Hazard Analysis Critical Control Point (HACCP)
+5fc6d3042a00006f88f967b6,,104834,question,responseOption18,32043,form,South Australia - ​Retail Logistics Code signatory 
+5fc6d3042a00006f88f967b6,,104834,question,responseOption2,32043,form,ATA (Australian Trucking Association)
+5fc6d3042a00006f88f967b6,,104834,question,responseOption3,32043,form,HVIA (Heavy Vehicle Industry Australia)
+5fc6d3042a00006f88f967b6,,104834,question,responseOption4,32043,form,ALRTA (Australian Livestock and Rural Transporters Association)
+5fc6d3042a00006f88f967b6,,104834,question,responseOption5,32043,form,Public Transport Association Australia New Zealand (PTAANZ)
+5fc6d3042a00006f88f967b6,,104834,question,responseOption6,32043,form,The International Association of Public Transport 
+5fc6d3042a00006f88f967b6,,104834,question,responseOption7,32043,form,UITP
+5fc6d3042a00006f88f967b6,,104834,question,responseOption8,32043,form,"NSW - LBRCA (Livestock, Bulk and Rural Carriers Association NSW)"
+5fc6d3042a00006f88f967b6,,104834,question,responseOption9,32043,form,Victoria - Vic Trans (Victoria Transport Association)
+5fc6d3a12a00006f88f96bc8,,104835,question,questionText,32043,form,Please upload a copy of your Company membership accreditation / certification(s): 
+5fc6d3b92a0000124bcce5ce,,104836,question,questionText,32043,form,Can your organisation ensure that you have access to the most up to date regulations and legislation focused on transportation services for the state or territories in which it operates? 
+5fc6d3b92a0000124bcce5ce,,104836,question,responseOption1,32043,form,Yes
+5fc6d3b92a0000124bcce5ce,,104836,question,responseOption2,32043,form,No
+5fc6d4032a0000124bcce600,,104837,question,description,32043,form,"Check options used by the company, multi options can be checked"
+5fc6d4032a0000124bcce600,,104837,question,questionText,32043,form,"If yes, please select all that applies:"
+5fc6d4032a0000124bcce600,,104837,question,responseOption1,32043,form,Use a 3rd party subscription service to procure up to date legislation updates/copies of codes of practice and interpretation of local law and its application
+5fc6d4032a0000124bcce600,,104837,question,responseOption2,32043,form,Use a specialist consultant to assist with interpretation and application of legislation
+5fc6d4032a0000124bcce600,,104837,question,responseOption3,32043,form,Use information from trade associations and professional institutions to assist with interpretation and access to industry specific legislation
+5fc6d4032a0000124bcce600,,104837,question,responseOption4,32043,form,Use internal personnel to monitor legislation and its impact on the business
+5fc6d4032a0000124bcce600,,104837,question,responseOption5,32043,form,Other
+5fc6d46b2a0000124bcce629,,104838,question,questionText,32043,form,"Please specify the ""Other"" checks made:"
+5fc6d48b2a0000124bcce630,,104839,question,questionText,32043,form,"Can the company confirm if the management systems (That facilitate the daily work operation) have been verified or checked by an independent organisation, for example: National Heavy Vehicle Accreditation Scheme (NHVAS), Transport Certification Australia, independent 3rd party certification body. "
+5fc6d48b2a0000124bcce630,,104839,question,responseOption1,32043,form,Yes
+5fc6d48b2a0000124bcce630,,104839,question,responseOption2,32043,form,No
+5fc6d4b12a00006f88f96bd2,,104840,question,questionText,32043,form,Please upload a copy of your Company membership accreditation / certification(s): 
+5fc6d4cd2a00006f88f96bd4,,104841,question,questionText,32043,form,Has the company been awarded any form of transport related industry or client-based award? 
+5fc6d4cd2a00006f88f96bd4,,104841,question,responseOption1,32043,form,Yes
+5fc6d4cd2a00006f88f96bd4,,104841,question,responseOption2,32043,form,No
+5fc6d4db2a0000124bcce69c,,104842,question,questionText,32043,form,Please upload supporting evidence or certification confirming the industry and/or client based award: 
+5fc7dfe2290000124b0b13cc,,104949,question,description,32043,form,More than one option can be checked:
+5fc7dfe2290000124b0b13cc,,104949,question,questionText,32043,form,Please check the relevant options to confirm the vehicle categories operated by the company: 
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption1,32043,form,Articulated Lorries
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption10,32043,form,Livestock Trucks
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption11,32043,form,Non-Articulated (Rigid) large goods vehicles 
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption12,32043,form,Refrigeration (All categories)
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption13,32043,form,Tankers
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption14,32043,form,Vans / Small flat beds / Small box vans   Single-Decker Enclosed/Open vehicle Carrier   Double Decker Trailers Enclosed / Open 
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption15,32043,form,"Shorter box-trailers (e.g., 8m or 10m)"
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption16,32043,form,Wide-Load
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption17,32043,form,Mobile Cranes / Crane Trucks
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption18,32043,form,Tipper Truck Semi-Trailer End
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption19,32043,form,Tipper Truck – Standard
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption2,32043,form,Flatbed trailer 
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption20,32043,form,​Side-Dump Trucks 
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption21,32043,form,Haul Truck
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption22,32043,form,Belly Tipper Truck / Bottom Dump Truck
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption23,32043,form,Bus
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption3,32043,form,Tilt trailer
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption4,32043,form,Curtain-sider
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption5,32043,form,Box trailer
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption6,32043,form,Road train
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption7,32043,form,Swap-body system
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption8,32043,form,Cement Truck / Concrete Mixer
+5fc7dfe2290000124b0b13cc,,104949,question,responseOption9,32043,form,Low-loaders
+5fc7e1e82a0000b8027d2df2,,104950,question,questionText,32043,form,What is the quantity for each Articulated Lorry you operate? 
+5fc7e2322a0000b8027d2dfd,,104951,question,questionText,32043,form,What is the quantity for each Flatbed trailer you operate? 
+5fc7e2ce290000124b0b14a3,,104952,question,questionText,32043,form,What is the quantity for each Tilt trailer you operate? 
+5fc7e2f1290000124b0b14b1,,104953,question,questionText,32043,form,What is the quantity for each Curtain-sider you operate? 
+5fc7e3172a0000b8027d2e78,,104954,question,questionText,32043,form,What is the quantity for each Box trailer you operate? 
+5fc7e32c290000124b0b14bf,,104955,question,questionText,32043,form,What is the quantity for each Road train you operate? 
+5fc7e33e2a0000b8027d2e86,,104956,question,questionText,32043,form,What is the quantity for each Swap-body system you operate? 
+5fc7e34e290000124b0b14da,,104957,question,questionText,32043,form,What is the quantity for each Low-loader you operate? 
+5fc7e361290000124b0b14de,,104958,question,questionText,32043,form,What is the quantity for each Non-Articulated (Rigid) large goods vehicle you operate? 
+5fc7e36e2a0000b8027d2e96,,104959,question,questionText,32043,form,What is the quantity for each Refrigeration vehicle you operate? 
+5fc7e381290000124b0b14e7,,104960,question,questionText,32043,form,What is the quantity for each Tanker you operate? 
+5fc7e392290000124b0b14e9,,104961,question,questionText,32043,form,What is the quantity for each Van / Small flat bed / Small box van you operate? 
+5fc7e3a8290000124b0b14f5,,104962,question,questionText,32043,form,What is the quantity for each Double Decker Trailer you operate? 
+5fc7e3bd2a0000b8027d2ec5,,104963,question,questionText,32043,form,What is the quantity for each Shorter box-trailer you operate? 
+5fc7e3cf2a0000b8027d2ed4,,104964,question,questionText,32043,form,"Does the company operate Restricted Access Vehicles (RAVs), which are required to have a permit or notice to operate on the HVNL road network? "
+5fc7e3cf2a0000b8027d2ed4,,104964,question,responseOption1,32043,form,Yes
+5fc7e3cf2a0000b8027d2ed4,,104964,question,responseOption2,32043,form,No
+5fc7e3cf2a0000b8027d2ed4,,104964,question,responseOption3,32043,form,NA
+5fc7e433290000124b0b1535,,104965,question,questionText,32043,form,"If yes, please confirm which option, multiple options can be selected: "
+5fc7e433290000124b0b1535,,104965,question,responseOption1,32043,form,"Class 1 heavy vehicles (special purpose vehicles, agricultural vehicles and vehicles designed to carry a large indivisible item)"
+5fc7e433290000124b0b1535,,104965,question,responseOption2,32043,form,"Class 2 heavy vehicles (B-doubles, road trains, buses longer than 12.5 metres and   performance-based standards (PBS) vehicle)"
+5fc7e433290000124b0b1535,,104965,question,responseOption3,32043,form,Class 3 heavy vehicles (Include all other Over size /and or Over mass (OSOM) vehicles that are not Class 1 vehicles)
+5fc806f32a0000b8027da081,,104966,question,questionText,32043,form,Does the company participate in any of the Heavy Vehicle Safety Initiative (HVSI) or public transport road safety  programmes? 
+5fc806f32a0000b8027da081,,104966,question,responseOption1,32043,form,Yes
+5fc806f32a0000b8027da081,,104966,question,responseOption2,32043,form,No
+5fc80702290000124b0b89e1,,104967,question,questionText,32043,form,"If yes, please advise which scheme: "
+5fc807542a0000b8027dc021,,104968,question,questionText,32043,form,Can the company confirm that safety features are fitted to all large vehicles as standard? 
+5fc807542a0000b8027dc021,,104968,question,responseOption1,32043,form,Yes
+5fc807542a0000b8027dc021,,104968,question,responseOption2,32043,form,No
+5fc8076b290000124b0b8a2d,,104969,question,questionText,32043,form,Please confirm the products used: 
+5fc8076b290000124b0b8a2d,,104969,question,responseOption1,32043,form,Forward facing camera(s)
+5fc8076b290000124b0b8a2d,,104969,question,responseOption10,32043,form,Adaptive cruise control
+5fc8076b290000124b0b8a2d,,104969,question,responseOption11,32043,form,​Electronic Stability Control (ESC) System 
+5fc8076b290000124b0b8a2d,,104969,question,responseOption12,32043,form,Trailer Roll Stability (TRS) System
+5fc8076b290000124b0b8a2d,,104969,question,responseOption13,32043,form,Electronic Braking System (EBS)
+5fc8076b290000124b0b8a2d,,104969,question,responseOption14,32043,form,Anti-Jack-Knife Braking
+5fc8076b290000124b0b8a2d,,104969,question,responseOption15,32043,form,Electronic Brake-Distribution (EBD) System
+5fc8076b290000124b0b8a2d,,104969,question,responseOption16,32043,form,Load-Proportioning Brake Valve (LPBV) System
+5fc8076b290000124b0b8a2d,,104969,question,responseOption17,32043,form,Adaptive Cruise Control (ACC) System
+5fc8076b290000124b0b8a2d,,104969,question,responseOption18,32043,form,Driver Fatigue Monitoring System
+5fc8076b290000124b0b8a2d,,104969,question,responseOption19,32043,form,Anti-lock Braking System (ABS) 
+5fc8076b290000124b0b8a2d,,104969,question,responseOption2,32043,form,Other external camera(s)
+5fc8076b290000124b0b8a2d,,104969,question,responseOption20,32043,form,​Blind spot Elimination Equipment 
+5fc8076b290000124b0b8a2d,,104969,question,responseOption21,32043,form,Wheel Nut Indicators and Locks
+5fc8076b290000124b0b8a2d,,104969,question,responseOption22,32043,form,Bus door safety systems 
+5fc8076b290000124b0b8a2d,,104969,question,responseOption23,32043,form,Cross view mirrors
+5fc8076b290000124b0b8a2d,,104969,question,responseOption24,32043,form,Stop-sign arms
+5fc8076b290000124b0b8a2d,,104969,question,responseOption25,32043,form,Portable fire-fighting equipment
+5fc8076b290000124b0b8a2d,,104969,question,responseOption26,32043,form,Mobile first-Aid equipment
+5fc8076b290000124b0b8a2d,,104969,question,responseOption3,32043,form,Driver-facing cameras 
+5fc8076b290000124b0b8a2d,,104969,question,responseOption4,32043,form,Recording system for constantly capturing video footage from camera systems
+5fc8076b290000124b0b8a2d,,104969,question,responseOption5,32043,form,Telematics system
+5fc8076b290000124b0b8a2d,,104969,question,responseOption6,32043,form,Alcohol ignition interlocks
+5fc8076b290000124b0b8a2d,,104969,question,responseOption7,32043,form,Lane departure warning and/or lane assist systems
+5fc8076b290000124b0b8a2d,,104969,question,responseOption8,32043,form,​Autonomous emergency braking system 
+5fc8076b290000124b0b8a2d,,104969,question,responseOption9,32043,form,Autonomous Reverse Braking (ARB) System
+5fc808f1290000124b0bbd34,,104970,question,questionText,32043,form,Are company vehicles fitted with tracking (satellite / GPS) devices?  
+5fc808f1290000124b0bbd34,,104970,question,responseOption1,32043,form,Yes
+5fc808f1290000124b0bbd34,,104970,question,responseOption2,32043,form,No
+5fc809152a0000b8027e4207,,104971,question,questionText,32043,form,What percentage of your vehicles are fitted with tracking devices? 
+5fc809152a0000b8027e4207,,104971,question,responseOption1,32043,form,0 - 25%
+5fc809152a0000b8027e4207,,104971,question,responseOption2,32043,form,25 - 50%
+5fc809152a0000b8027e4207,,104971,question,responseOption3,32043,form,50 - 75%
+5fc809152a0000b8027e4207,,104971,question,responseOption4,32043,form,75 - 100%
+5fc8096b290000124b0c30cc,,104972,question,questionText,32043,form,Does your organisation have an established process/procedure/system that ensures the accurate weighing and measurement of all goods that are transported by road? 
+5fc8096b290000124b0c30cc,,104972,question,responseOption1,32043,form,Yes
+5fc8096b290000124b0c30cc,,104972,question,responseOption2,32043,form,No
+5fc8096b290000124b0c30cc,,104972,question,responseOption3,32043,form,NA
+5fc8097a2a0000b8027e7477,,104973,question,questionText,32043,form,Upload a copy of the process used to monitor vehicle weight during transit 
+5fc8098a2a0000b8027e7479,,104974,question,questionText,32043,form,Does the company require that all drivers must undertake daily vehicle pre-start safety checks?  
+5fc8098a2a0000b8027e7479,,104974,question,responseOption1,32043,form,Yes
+5fc8098a2a0000b8027e7479,,104974,question,responseOption2,32043,form,No
+5fc809962a0000b8027e747a,,104975,question,questionText,32043,form,Are all daily checks documented and signed off as having been completed? 
+5fc809962a0000b8027e747a,,104975,question,responseOption1,32043,form,Yes
+5fc809962a0000b8027e747a,,104975,question,responseOption2,32043,form,No 
+5fc809962a0000b8027e747a,,104975,question,responseOption3,32043,form,N/A
+5fc809ae2a0000b8027e7483,,104976,question,description,32043,form,More than one option can be checked
+5fc809ae2a0000b8027e7483,,104976,question,questionText,32043,form,Please confirm what items are checked before vehicle use: 
+5fc809ae2a0000b8027e7483,,104976,question,responseOption1,32043,form,Headlights & Indicators / Flashers
+5fc809ae2a0000b8027e7483,,104976,question,responseOption10,32043,form,Windscreen Integrity
+5fc809ae2a0000b8027e7483,,104976,question,responseOption11,32043,form,Coupling Security
+5fc809ae2a0000b8027e7483,,104976,question,responseOption12,32043,form,Brakes – Failure Indicators   
+5fc809ae2a0000b8027e7483,,104976,question,responseOption13,32043,form,Brake Lines
+5fc809ae2a0000b8027e7483,,104976,question,responseOption14,32043,form,Brakes – Pressure/Vacuum Gauges
+5fc809ae2a0000b8027e7483,,104976,question,responseOption15,32043,form,Brakes – Air Tanks drain valves functional
+5fc809ae2a0000b8027e7483,,104976,question,responseOption16,32043,form,Vehicle markers
+5fc809ae2a0000b8027e7483,,104976,question,responseOption17,32043,form,Reflectors
+5fc809ae2a0000b8027e7483,,104976,question,responseOption18,32043,form,Vehicle registration / Licence plate
+5fc809ae2a0000b8027e7483,,104976,question,responseOption19,32043,form,Electrical connections
+5fc809ae2a0000b8027e7483,,104976,question,responseOption2,32043,form,Fuel levels 
+5fc809ae2a0000b8027e7483,,104976,question,responseOption20,32043,form,Horn
+5fc809ae2a0000b8027e7483,,104976,question,responseOption21,32043,form,Exhaust smoke
+5fc809ae2a0000b8027e7483,,104976,question,responseOption22,32043,form,Fuel Leaks 
+5fc809ae2a0000b8027e7483,,104976,question,responseOption23,32043,form,​Seatbelts 
+5fc809ae2a0000b8027e7483,,104976,question,responseOption24,32043,form,Wheelchair access
+5fc809ae2a0000b8027e7483,,104976,question,responseOption25,32043,form,Diesel exhaust fluid (AdBlue)
+5fc809ae2a0000b8027e7483,,104976,question,responseOption26,32043,form,Heating 
+5fc809ae2a0000b8027e7483,,104976,question,responseOption27,32043,form,Ventilation
+5fc809ae2a0000b8027e7483,,104976,question,responseOption28,32043,form,Height marker
+5fc809ae2a0000b8027e7483,,104976,question,responseOption29,32043,form,Exit points
+5fc809ae2a0000b8027e7483,,104976,question,responseOption3,32043,form,Fluid levels
+5fc809ae2a0000b8027e7483,,104976,question,responseOption30,32043,form,Emergency exit glass hammer
+5fc809ae2a0000b8027e7483,,104976,question,responseOption31,32043,form,Driver communication points
+5fc809ae2a0000b8027e7483,,104976,question,responseOption4,32043,form,Tyres and wheel fixers
+5fc809ae2a0000b8027e7483,,104976,question,responseOption5,32043,form,Load security
+5fc809ae2a0000b8027e7483,,104976,question,responseOption6,32043,form,Mirrors and glass/windshield
+5fc809ae2a0000b8027e7483,,104976,question,responseOption7,32043,form,Spray Suppression / Mud Flaps
+5fc809ae2a0000b8027e7483,,104976,question,responseOption8,32043,form,Steering function
+5fc809ae2a0000b8027e7483,,104976,question,responseOption9,32043,form,Windscreen wipers / Washers
+5fc81a5e2a0000b8027ea872,,104977,question,questionText,32043,form,Please confirm the total number of permanent drivers employed within the company: 
+5fc81a68290000124b0c90a2,,104978,question,questionText,32043,form,Multi Combination (MC) licence 
+5fc81a8d2a0000b8027ea875,,104979,question,questionText,32043,form,Heavy Rigid (HR) licence 
+5fc81aa1290000124b0c90c3,,104980,question,questionText,32043,form,Heavy Combination (HC) licence 
+5fc81ab42a0000b8027ea89e,,104981,question,questionText,32043,form,Light Rigid (LR) licence
+5fc81ac1290000124b0c90c8,,104982,question,questionText,32043,form,Medium Rigid (MR) licence 
+5fc81ada290000124b0c90ca,,104983,question,questionText,32043,form,Please confirm the total number of permanent drivers employed within the company who possess retail driving experience: 
+5fc81ae2290000124b0c90cb,,104984,question,questionText,32043,form,Multi Combination (MC) licence
+5fc81af4290000124b0c90ce,,104985,question,questionText,32043,form,Heavy Rigid (HR) licence
+5fc81b04290000124b0c90d1,,104986,question,questionText,32043,form,Heavy Combination (HC) licence 
+5fc81b18290000124b0c90d2,,104987,question,questionText,32043,form,Light Rigid (LR) licence 
+5fc81b2b290000124b0c90d4,,104988,question,questionText,32043,form,Medium Rigid (MR) licence 
+5fc81b41290000124b0c90d6,,104989,question,questionText,32043,form,Does your company recognise any form of trade union? 
+5fc81b41290000124b0c90d6,,104989,question,responseOption1,32043,form,Yes
+5fc81b41290000124b0c90d6,,104989,question,responseOption2,32043,form,No
+5fc81b4f2a0000b8027ea8a8,,104990,question,questionText,32043,form,How many qualified transportation / logistics managers are employed within the business? 
+5fc81b92290000124b0c90e4,,104991,question,questionText,32043,form,"Does your company have an established process/procedure/system for conducting regular  inspections of driver activities, including work and rest times? "
+5fc81b92290000124b0c90e4,,104991,question,responseOption1,32043,form,Yes
+5fc81b92290000124b0c90e4,,104991,question,responseOption2,32043,form,No
+5fc81ba1290000124b0c90e7,,104992,question,questionText,32043,form,Upload the audit /inspection programme used to monitor driver activities 
+5fc81baf290000124b0c90e8,,104993,question,questionText,32043,form,Can the company demonstrate a periodic driver license checking process for all permanent driving personnel? 
+5fc81baf290000124b0c90e8,,104993,question,responseOption1,32043,form,Yes
+5fc81baf290000124b0c90e8,,104993,question,responseOption2,32043,form,No
+5fc81bbc2a0000b8027ea8ae,,104994,question,questionText,32043,form,"Can the company demonstrate a driver license checking process for all non-permanent (Employment Agency, licenced labour hire / Subcontract /self-employed drivers) driving personnel? "
+5fc81bbc2a0000b8027ea8ae,,104994,question,responseOption1,32043,form,Yes
+5fc81bbc2a0000b8027ea8ae,,104994,question,responseOption2,32043,form,No
+5fc81bbc2a0000b8027ea8ae,,104994,question,responseOption3,32043,form,N/A
+5fc81bc9290000124b0c90f6,,104995,question,questionText,32043,form,Can the company demonstrate if they have a verification / checking process to ensure that all permanent driving personnel are medically fit to drive on behalf of the company? 
+5fc81bc9290000124b0c90f6,,104995,question,responseOption1,32043,form,Yes
+5fc81bc9290000124b0c90f6,,104995,question,responseOption2,32043,form,No
+5fc81c142a0000b8027ea8c3,,104997,question,questionText,32043,form,Can the company demonstrate if they have a verification / checking process to ensure that all non-permanent (Employment Agency / Subcontract / self-employed) driving personnel are medically fit to drive on behalf of the company? 
+5fc81c142a0000b8027ea8c3,,104997,question,responseOption1,32043,form,Yes
+5fc81c142a0000b8027ea8c3,,104997,question,responseOption2,32043,form,No
+5fc81c142a0000b8027ea8c3,,104997,question,responseOption3,32043,form,N/A
+5fc81c25290000124b0c9101,,104998,question,description,32043,form,More than one option can be checked
+5fc81c25290000124b0c9101,,104998,question,questionText,32043,form,"If yes, please confirm when this is undertaken: "
+5fc81c25290000124b0c9101,,104998,question,responseOption1,32043,form,Every time they are asked to drive
+5fc81c25290000124b0c9101,,104998,question,responseOption2,32043,form,Weekly
+5fc81c25290000124b0c9101,,104998,question,responseOption3,32043,form,Monthly
+5fc81c25290000124b0c9101,,104998,question,responseOption4,32043,form,Six-monthly
+5fc81c25290000124b0c9101,,104998,question,responseOption5,32043,form,Annual
+5fc81c25290000124b0c9101,,104998,question,responseOption6,32043,form,Employee provides proof on request
+5fc81c5a290000124b0c9122,,104999,question,questionText,32043,form,Does the company have a formal process to prevent driver fatigue and monitor the working hours of permanent drivers? 
+5fc81c5a290000124b0c9122,,104999,question,responseOption1,32043,form,Yes
+5fc81c5a290000124b0c9122,,104999,question,responseOption2,32043,form,No
+5fc81c6b290000124b0c9124,,105000,question,questionText,32043,form,Does the company have a formal process to prevent driver fatigue and monitor the working hours of temporary drivers when working for the company? 
+5fc81c6b290000124b0c9124,,105000,question,responseOption1,32043,form,Yes
+5fc81c6b290000124b0c9124,,105000,question,responseOption2,32043,form,No
+5fc81c78290000124b0c9125,,105001,question,questionText,32043,form,"Can the company confirm that the following categories of personnel have received training centred on fatigue management offered by Registered Training Organisations (RTOs), focused on how to manage the risk of fatigue in road transportation? "
+5fc81cf0290000124b0c9127,,105002,question,questionText,32043,form,Drivers 
+5fc81cf0290000124b0c9127,,105002,question,responseOption1,32043,form,Yes
+5fc81cf0290000124b0c9127,,105002,question,responseOption2,32043,form,No
+5fc81cfc2a0000b8027ea9b9,,105003,question,questionText,32043,form,Supervisors 
+5fc81cfc2a0000b8027ea9b9,,105003,question,responseOption1,32043,form,Yes
+5fc81cfc2a0000b8027ea9b9,,105003,question,responseOption2,32043,form,No
+5fc81d07290000124b0c912e,,105004,question,questionText,32043,form,Schedulers 
+5fc81d07290000124b0c912e,,105004,question,responseOption1,32043,form,Yes
+5fc81d07290000124b0c912e,,105004,question,responseOption2,32043,form,No
+5fc81d162a0000b8027ea9cf,,105005,question,questionText,32043,form,Management Team (Road Transportation Operations) 
+5fc81d162a0000b8027ea9cf,,105005,question,responseOption1,32043,form,Yes
+5fc81d162a0000b8027ea9cf,,105005,question,responseOption2,32043,form,No
+5fc81d23290000124b0c9133,,105006,question,questionText,32043,form,Company drivers or schedulers currently operate under BFM or AFM accreditation? 
+5fc81d23290000124b0c9133,,105006,question,responseOption1,32043,form,Yes
+5fc81d23290000124b0c9133,,105006,question,responseOption2,32043,form,No
+5fc81d23290000124b0c9133,,105006,question,responseOption3,32043,form,NA
+5fc81d37290000124b0c9135,,105007,question,questionText,32043,form,Does the company have a process that manages drivers travelling outside their normal time zone location? 
+5fc81d37290000124b0c9135,,105007,question,responseOption1,32043,form,Yes
+5fc81d37290000124b0c9135,,105007,question,responseOption2,32043,form,No
+5fc81d49290000124b0c9137,,105008,question,questionText,32043,form,Are drivers issued with an Electronic Work Diary (EWD) or ‘Written Work Diary’ to record work and rest times? 
+5fc81d49290000124b0c9137,,105008,question,responseOption1,32043,form,Yes
+5fc81d49290000124b0c9137,,105008,question,responseOption2,32043,form,No
+5fc81d7b290000124b0c9141,,105009,question,questionText,32043,form,"Does the company have a formal process to undertake screening of all drivers for intoxicating substances (Alcohol / Drugs [prescribed, over the counter & illegal], / solvents) at any stage of their engagement with the company? "
+5fc81d7b290000124b0c9141,,105009,question,responseOption1,32043,form,Yes
+5fc81d7b290000124b0c9141,,105009,question,responseOption2,32043,form,No
+5fc81d96290000124b0c9143,,105010,question,questionText,32043,form,"If yes, please confirm the categories of screening undertaken? "
+5fc81d96290000124b0c9143,,105010,question,responseOption1,32043,form,Pre-employment 
+5fc81d96290000124b0c9143,,105010,question,responseOption2,32043,form,For Cause
+5fc81d96290000124b0c9143,,105010,question,responseOption3,32043,form,Random
+5fc81d96290000124b0c9143,,105010,question,responseOption4,32043,form,Post Incident - site 
+5fc81dbf290000124b0c9163,,105011,question,questionText,32043,form,Does your company have a formal training plan in place that addresses competency (Specific to the range of roles in the business)?  
+5fc81dbf290000124b0c9163,,105011,question,responseOption1,32043,form,Yes
+5fc81dbf290000124b0c9163,,105011,question,responseOption2,32043,form,No
+5fc81dcf2a0000b8027eaa0e,,105012,question,questionText,32043,form,Please upload supporting evidence of how worker training is planned 
+5fc81dd92a0000b8027eaa0f,,105013,question,questionText,32043,form,Can the company demonstrate a process that ensures all drivers training credentials are up to date before they are allowed to undertake driving duties? 
+5fc81dd92a0000b8027eaa0f,,105013,question,responseOption1,32043,form,Yes
+5fc81dd92a0000b8027eaa0f,,105013,question,responseOption2,32043,form,No
+5fc81dec2a0000b8027eaa12,,105014,question,questionText,32043,form,"If yes, please upload some supporting examples: "
+5fc81e092a0000b8027eaa14,,105015,question,questionText,32043,form,Can the company confirm that all permanent driving personnel have completed formal driving hours training? 
+5fc81e092a0000b8027eaa14,,105015,question,responseOption1,32043,form,Yes
+5fc81e092a0000b8027eaa14,,105015,question,responseOption2,32043,form,No
+5fc81e18290000124b0c918a,,105016,question,questionText,32043,form,"If yes, please upload screen shots showing how this is managed or excerpts from company procedure: "
+5fc81e27290000124b0c918c,,105017,question,questionText,32043,form,Can the company confirm that all non-permanent (Employment Agency-licenced labour providers/ Subcontract) drivers have completed formal driving hours training before they are allowed to drive on behalf of the company? 
+5fc81e27290000124b0c918c,,105017,question,responseOption1,32043,form,Yes
+5fc81e27290000124b0c918c,,105017,question,responseOption2,32043,form,No
+5fc81e362a0000b8027eaa19,,105018,question,questionText,32043,form,"If Yes, please upload screen shots showing how this is managed or excerpts from company procedure: "
+5fc81e402a0000b8027eaa1b,,105019,question,questionText,32043,form,The company can confirm that all categories of driver (Permanent / Agency-Labour Hire / Subcontract / Part-Time) used by the company possess the necessary licences to drive vehicles allocated to them? 
+5fc81e402a0000b8027eaa1b,,105019,question,responseOption1,32043,form,Yes
+5fc81e402a0000b8027eaa1b,,105019,question,responseOption2,32043,form,No
+5fc81e532a0000b8027eaa22,,105020,question,description,32043,form,Multiple options can be checked. 
+5fc81e532a0000b8027eaa22,,105020,question,questionText,32043,form,"If Yes, please confirm the checks undertaken: "
+5fc81e532a0000b8027eaa22,,105020,question,responseOption1,32043,form,Company makes a copy of all driving licences
+5fc81e532a0000b8027eaa22,,105020,question,responseOption2,32043,form,​Company confirms licences are legitimate for vehicles being driven 
+5fc81e732a0000b8027eaa2c,,105021,question,questionText,32043,form,Have all drivers been provided with defensive driving training? 
+5fc81e732a0000b8027eaa2c,,105021,question,responseOption1,32043,form,Yes
+5fc81e732a0000b8027eaa2c,,105021,question,responseOption2,32043,form,No
+5fc822f42a0000b8027eaae4,,105022,question,questionText,32043,form,"Is your company involved in the processing, packing, or transporting of dangerous goods? "
+5fc822f42a0000b8027eaae4,,105022,question,responseOption1,32043,form,Yes
+5fc822f42a0000b8027eaae4,,105022,question,responseOption2,32043,form,No
+5fc823022a0000b8027eaae5,,105023,question,questionText,32043,form,Please confirm your role / activity when dealing with dangerous goods: 
+5fc823022a0000b8027eaae5,,105023,question,responseOption1,32043,form,Consignor
+5fc823022a0000b8027eaae5,,105023,question,responseOption2,32043,form,Carrier
+5fc823022a0000b8027eaae5,,105023,question,responseOption3,32043,form,(Un)loader
+5fc823022a0000b8027eaae5,,105023,question,responseOption4,32043,form,Packer
+5fc823022a0000b8027eaae5,,105023,question,responseOption5,32043,form,Filler
+5fc823022a0000b8027eaae5,,105023,question,responseOption6,32043,form,Driving
+5fc823022a0000b8027eaae5,,105023,question,responseOption7,32043,form,​Provide vehicle crew 
+5fc823022a0000b8027eaae5,,105023,question,responseOption8,32043,form,Consignee
+5fc966102a000052f7109fe3,,105177,question,questionText,32043,form,Can you confirm which category of goods your company has the capacity to carry: 
+5fc966102a000052f7109fe3,,105177,question,responseOption1,32043,form,Explosives
+5fc966102a000052f7109fe3,,105177,question,responseOption2,32043,form,Gases
+5fc966102a000052f7109fe3,,105177,question,responseOption3,32043,form,Flammable Liquids
+5fc966102a000052f7109fe3,,105177,question,responseOption4,32043,form,Flammable Solids
+5fc966102a000052f7109fe3,,105177,question,responseOption5,32043,form,Oxidising substances and organic peroxides
+5fc966102a000052f7109fe3,,105177,question,responseOption6,32043,form,Toxic and infectious substances 
+5fc966102a000052f7109fe3,,105177,question,responseOption7,32043,form,Radioactive material
+5fc966102a000052f7109fe3,,105177,question,responseOption8,32043,form,Corrosive substances
+5fc966102a000052f7109fe3,,105177,question,responseOption9,32043,form,Miscellaneous dangerous goods including   environmentally hazardous substances 
+5fc966e32a000052f710a00d,,105178,question,questionText,32043,form,Can the company confirm they employ an individual or business who can advise on all aspects of workplace health and safety when carrying Dangerous Goods? 
+5fc966e32a000052f710a00d,,105178,question,responseOption1,32043,form,Yes
+5fc966e32a000052f710a00d,,105178,question,responseOption2,32043,form,No
+5fc966e32a000052f710a00d,,105178,question,responseOption3,32043,form,NA
+5fc967002a000052f710a010,,105179,question,questionText,32043,form,Please confirm their employment status: 
+5fc967002a000052f710a010,,105179,question,responseOption1,32043,form,Permanent – Full Time
+5fc967002a000052f710a010,,105179,question,responseOption2,32043,form,Permanent – Part-Time
+5fc967002a000052f710a010,,105179,question,responseOption3,32043,form,Use 3rd party consultant
+5fc9672a2a000052f710a011,,105180,question,questionText,32043,form,How many drivers possess an ADG licence? \n\nFull Time\n
+5fc9676a2a000052f710a024,,105181,question,questionText,32043,form,Part Time 
+5fc9677e2a000052f710a026,,105182,question,questionText,32043,form,"Can the company confirm there are management programmes in place that administer the carriage of dangerous goods, declares the description and nature of the goods being transported? "
+5fc9677e2a000052f710a026,,105182,question,responseOption1,32043,form,Yes
+5fc9677e2a000052f710a026,,105182,question,responseOption2,32043,form,No
+5fc96abb2b0000b802c0209f,,105183,question,questionText,32043,form,Has the company been subject to any Enforceable Undertakings within the last three years? 
+5fc96abb2b0000b802c0209f,,105183,question,responseOption1,32043,form,Yes
+5fc96abb2b0000b802c0209f,,105183,question,responseOption2,32043,form,No
+5fc96ae32b0000b802c020c9,,105184,question,questionText,32043,form,"Has the company been subject to any penalties or infringements in the last three years, please confirm which category? "
+5fc96ae32b0000b802c020c9,,105184,question,responseOption1,32043,form,Yes
+5fc96ae32b0000b802c020c9,,105184,question,responseOption2,32043,form,No
+5fc96b2b2b0000b802c020cb,,105185,question,description,32043,form,"Please check the relevant category, multiple options can be checked"
+5fc96b2b2b0000b802c020cb,,105185,question,questionText,32043,form,"If yes, please confirm which category: "
+5fc96b2b2b0000b802c020cb,,105185,question,responseOption1,32043,form,Infringeable offences
+5fc96b2b2b0000b802c020cb,,105185,question,responseOption2,32043,form,Court imposed penalties
+5fc96b2b2b0000b802c020cb,,105185,question,responseOption3,32043,form,Demerit points
+5fc96ccd2a000052f710a1bd,,105186,question,description,32043,form,"Irrelevant of the size and sophistication of your business, it would benefit from a systematic approach to managing workplace safety. The question is seeking to confirm that there is an organisational structure where all individual’s in the business understand their responsibilities regarding workplace safety for both the business and for them as an individual, there should be documented policies and procedures that add value and make safe working integral within the business, these should include address risk associated with workplace tasks and activity related to your business services and include training and managing assurance within your business to not only keep you complaint with the law but also ensure your workforce and others who may be impacted by your business are safe from harm."
+5fc96ccd2a000052f710a1bd,,105186,question,questionText,32043,form,Can the company demonstrate that there is a formal safety management system (SMS) in place to manage all aspects of the transportation business including the carriage and loading of goods in place? 
+5fc96ccd2a000052f710a1bd,,105186,question,responseOption1,32043,form,Yes
+5fc96ccd2a000052f710a1bd,,105186,question,responseOption2,32043,form,No
+5fc96d422b0000b802c02101,,105187,question,questionText,32043,form,Can the company confirm that the safety management programme covers all the shared responsibilities (Health and Safety) of all the defined roles under Chain of Responsibility (COR)? 
+5fc96d422b0000b802c02101,,105187,question,responseOption1,32043,form,Yes
+5fc96d422b0000b802c02101,,105187,question,responseOption2,32043,form,No
+5fc96d652a000052f710a1f6,,105188,question,description,32043,form,"Check the relevant options, multiple options can be marked"
+5fc96d652a000052f710a1f6,,105188,question,questionText,32043,form,"If yes, please select all defined the roles under Chain of Responsibility (COR):"
+5fc96d652a000052f710a1f6,,105188,question,responseOption1,32043,form,Employer 
+5fc96d652a000052f710a1f6,,105188,question,responseOption2,32043,form,Prime Contractor
+5fc96d652a000052f710a1f6,,105188,question,responseOption3,32043,form,Operator 
+5fc96d652a000052f710a1f6,,105188,question,responseOption4,32043,form,Scheduler
+5fc96d652a000052f710a1f6,,105188,question,responseOption5,32043,form,Consignor 
+5fc96d652a000052f710a1f6,,105188,question,responseOption6,32043,form,Consignee
+5fc96d652a000052f710a1f6,,105188,question,responseOption7,32043,form,Packer 
+5fc96d652a000052f710a1f6,,105188,question,responseOption8,32043,form,Loading Manager
+5fc96d652a000052f710a1f6,,105188,question,responseOption9,32043,form,Loader Unloader
+5fc96dce2a000052f710a21c,,105189,question,questionText,32043,form,Can you confirm your safety management system contains as a minimum basic core functions to manage workplace health and safety? 
+5fc96dce2a000052f710a21c,,105189,question,responseOption1,32043,form,Yes
+5fc96dce2a000052f710a21c,,105189,question,responseOption2,32043,form,No
+5fc96e172a000052f710a22e,,105190,question,questionText,32043,form,Policy and Associated procedures and documentation 
+5fc96e172a000052f710a22e,,105190,question,responseOption1,32043,form,Management commitment
+5fc96e172a000052f710a22e,,105190,question,responseOption2,32043,form,Safety responsibilities – Corporate
+5fc96e172a000052f710a22e,,105190,question,responseOption3,32043,form,Safety responsibilities - Individual 
+5fc96e172a000052f710a22e,,105190,question,responseOption4,32043,form,Competent safety personnel in place
+5fc96e172a000052f710a22e,,105190,question,responseOption5,32043,form,Supporting H & S Documentation
+5fc96e172a000052f710a22e,,105190,question,responseOption6,32043,form,Third party relationships
+5fc96e492b0000b802c0213c,,105191,question,questionText,32043,form,Risk Management 
+5fc96e492b0000b802c0213c,,105191,question,responseOption1,32043,form,Hazard identification
+5fc96e492b0000b802c0213c,,105191,question,responseOption2,32043,form,Risk assessment and   mitigation/treatment 
+5fc96e492b0000b802c0213c,,105191,question,responseOption3,32043,form,Risk monitoring and review
+5fc96e492b0000b802c0213c,,105191,question,responseOption4,32043,form,Incident/Accident reporting
+5fc96e492b0000b802c0213c,,105191,question,responseOption5,32043,form,Incident/Accident investigation
+5fc96e722a000052f710a268,,105192,question,questionText,32043,form,"Training, Communication and Consultation "
+5fc96e722a000052f710a268,,105192,question,responseOption1,32043,form,Safety training and education
+5fc96e722a000052f710a268,,105192,question,responseOption2,32043,form,Safety communication
+5fc96e722a000052f710a268,,105192,question,responseOption3,32043,form,Positive safety culture
+5fc96e882a000052f710a27f,,105193,question,questionText,32043,form,Assurance 
+5fc96e882a000052f710a27f,,105193,question,responseOption1,32043,form,Internal safety investigations
+5fc96e882a000052f710a27f,,105193,question,responseOption2,32043,form,Safety performance monitoring and measurement 
+5fc96e882a000052f710a27f,,105193,question,responseOption3,32043,form,Change management 
+5fc96e882a000052f710a27f,,105193,question,responseOption4,32043,form,Continuous improvement
+5fc971272a000052f710a48d,,105195,question,questionText,32043,form,As part of the approach taken to reduce workplace risk can the company confirm that there are risk assessments for all related work activities specific to the company operation. 
+5fc971272a000052f710a48d,,105195,question,responseOption1,32043,form,Yes
+5fc971272a000052f710a48d,,105195,question,responseOption2,32043,form,No
+5fc971402b0000b802c02238,,105196,question,questionText,32043,form,Please upload a copy of a sample copy of a risk assessment specific to the company operation taken from within the last 2 years. 
+5fc9714b2b0000b802c02239,,105197,question,questionText,32043,form,Can the company confirm that company risk assessments are developed by a competent party? 
+5fc9714b2b0000b802c02239,,105197,question,responseOption1,32043,form,Yes
+5fc9714b2b0000b802c02239,,105197,question,responseOption2,32043,form,No
+5fc9717e2a000052f710a4b0,,105201,question,description,32043,form,Multiple options can be checked
+5fc9717e2a000052f710a4b0,,105201,question,questionText,32043,form,The company risk assessments contain the following: 
+5fc9717e2a000052f710a4b0,,105201,question,responseOption1,32043,form,Takes account of routine and non-routine or out of sequence activities
+5fc9717e2a000052f710a4b0,,105201,question,responseOption2,32043,form,Activities of all workers under or likely to be under your control
+5fc9717e2a000052f710a4b0,,105201,question,responseOption3,32043,form,The health and safety hazards relating to the work
+5fc9717e2a000052f710a4b0,,105201,question,responseOption4,32043,form,Aspect / hazards and risks / impact associated with your work activities
+5fc9717e2a000052f710a4b0,,105201,question,responseOption5,32043,form,The legal obligations associated with the assessed risks
+5fc9717e2a000052f710a4b0,,105201,question,responseOption6,32043,form,The control measures that need to be implemented to minimise or remove the risks
+5fc9717e2a000052f710a4b0,,105201,question,responseOption7,32043,form,How the control measures will be actioned/and by whom?
+5fc971e42b0000b802c02271,,105206,question,questionText,32043,form,Can the company confirm that there is a process that ensures all workers receive training in how to read/apply company risk assessments (Specific to their role in the transport operation)? 
+5fc971e42b0000b802c02271,,105206,question,responseOption1,32043,form,Yes
+5fc971e42b0000b802c02271,,105206,question,responseOption2,32043,form,No
+5fc972ae2a000052f710a682,,105212,question,questionText,32043,form,Can the company confirm you have access to competent safety advice to assist with risk mitigation and implementation of company (Transport-Safety) process/due diligence? 
+5fc972ae2a000052f710a682,,105212,question,responseOption1,32043,form,Yes
+5fc972ae2a000052f710a682,,105212,question,responseOption2,32043,form,No
+5fc973032a000052f710a6d0,,105213,question,questionText,32043,form,Please confirm their employment status: 
+5fc973032a000052f710a6d0,,105213,question,responseOption1,32043,form,Permanent – Full Time
+5fc973032a000052f710a6d0,,105213,question,responseOption2,32043,form,Permanent – Part-Time
+5fc973032a000052f710a6d0,,105213,question,responseOption3,32043,form,Use 3rd party consultant
+5fc973a62b0000b802c02580,,105219,question,questionText,32043,form,"As part of the company induction are road transport operations workers advised about the Heavy Vehicle Confidential Reporting Line (HVCRL),"
+5fc973a62b0000b802c02580,,105219,question,responseOption1,32043,form,Yes
+5fc973a62b0000b802c02580,,105219,question,responseOption2,32043,form,No
+5fcac6a82a0000d421a4e752,,105261,question,description,32043,form,More than one option can be checked:
+5fcac6a82a0000d421a4e752,,105261,question,questionText,32043,form,Queensland
+5fcac6a82a0000d421a4e752,,105261,question,responseOption1,32043,form,QTA (Queensland Trucking Association)
+5fcac6a82a0000d421a4e752,,105261,question,responseOption2,32043,form,LRTAQ (Livestock & Rural Transporters Association of QLD Inc.)
+5fcac7012a0000d421a4e759,,105264,question,description,32043,form,More than one option can be checked:
+5fcac7012a0000d421a4e759,,105264,question,questionText,32043,form,NSW 
+5fcac7012a0000d421a4e759,,105264,question,responseOption1,32043,form,Road Freight NSW
+5fcac7012a0000d421a4e759,,105264,question,responseOption2,32043,form,"LBRCA (Livestock, Bulk and Rural Carriers Association NSW) "
+5fcac73f2b0000124b14aaf8,,105265,question,questionText,32043,form,Victoria 
+5fcac73f2b0000124b14aaf8,,105265,question,responseOption1,32043,form,Vic Trans (Victoria Transport Association)
+5fcac7562b0000124b14aafb,,105266,question,description,32043,form,More than one option can be checked:
+5fcac7562b0000124b14aafb,,105266,question,questionText,32043,form,South Australia 
+5fcac7562b0000124b14aafb,,105266,question,responseOption1,32043,form,SARTA (South Australia Road Transport Association) 
+5fcac7562b0000124b14aafb,,105266,question,responseOption2,32043,form,LRTASA (Livestock & Rural Transport Association of South Australia)
+5fcac7562b0000124b14aafb,,105266,question,responseOption3,32043,form,NHVAS Advanced Fatigue Management (AFM)
+5fcac7562b0000124b14aafb,,105266,question,responseOption4,32043,form,NHVAS Basic Fatigue Management (BFM)
+5fcac7562b0000124b14aafb,,105266,question,responseOption5,32043,form,NHVAS Mass Management
+5fcac7562b0000124b14aafb,,105266,question,responseOption6,32043,form,NHVAS Maintenance Management
+5fcac7562b0000124b14aafb,,105266,question,responseOption7,32043,form,TruckSafe Accreditation
+5fcac7562b0000124b14aafb,,105266,question,responseOption8,32043,form,Hazard Analysis Critical Control Point (HACCP)
+5fcac7562b0000124b14aafb,,105266,question,responseOption9,32043,form,Retail Logistics Code signatory
+64273f1a160000a615b562d9,,139376,question,questionText,32043,form,Transportation services provided by the company
+64273f1a160000a615b562d9,,139376,question,responseOption1,32043,form,Movement of freight and goods
+64273f1a160000a615b562d9,,139376,question,responseOption2,32043,form,Provide passenger transportation service
+642745b0160000d615b591e7,,139377,question,description,32043,form,You should check the relevant industry options to confirm the sectors where the business has experience. You can check multiple options.
+642745b0160000d615b591e7,,139377,question,questionText,32043,form,Please confirm the industry sectors where your company has transportation experience and capability. 
+642745b0160000d615b591e7,,139377,question,responseOption1,32043,form,Aerospace
+642745b0160000d615b591e7,,139377,question,responseOption10,32043,form,Construction – General Building
+642745b0160000d615b591e7,,139377,question,responseOption11,32043,form,Construction – Building Structures
+642745b0160000d615b591e7,,139377,question,responseOption12,32043,form,Construction - Heavy and Civil Engineering Construction
+642745b0160000d615b591e7,,139377,question,responseOption13,32043,form,Construction Services
+642745b0160000d615b591e7,,139377,question,responseOption14,32043,form,Cosmetics
+642745b0160000d615b591e7,,139377,question,responseOption15,32043,form,Defence
+642745b0160000d615b591e7,,139377,question,responseOption16,32043,form,Education
+642745b0160000d615b591e7,,139377,question,responseOption17,32043,form,Electrical and Electronic Engineering
+642745b0160000d615b591e7,,139377,question,responseOption18,32043,form,Electroplating and Heat Treatment
+642745b0160000d615b591e7,,139377,question,responseOption19,32043,form,Extractive industry - Coal
+642745b0160000d615b591e7,,139377,question,responseOption2,32043,form,Agriculture
+642745b0160000d615b591e7,,139377,question,responseOption20,32043,form,Fast Moving Consumer Goods (FMCG)
+642745b0160000d615b591e7,,139377,question,responseOption21,32043,form,Fertiliser and Pesticide Manufacturing
+642745b0160000d615b591e7,,139377,question,responseOption22,32043,form,Fishing
+642745b0160000d615b591e7,,139377,question,responseOption23,32043,form,Flammable Liquids/Gases
+642745b0160000d615b591e7,,139377,question,responseOption24,32043,form,Food Processing
+642745b0160000d615b591e7,,139377,question,responseOption25,32043,form,Forestry and Logging
+642745b0160000d615b591e7,,139377,question,responseOption26,32043,form,Fuel - Delivery / Collection
+642745b0160000d615b591e7,,139377,question,responseOption27,32043,form,Glass and Glass Products
+642745b0160000d615b591e7,,139377,question,responseOption28,32043,form,Exploration and Other Mining Support Services
+642745b0160000d615b591e7,,139377,question,responseOption29,32043,form,Healthcare
+642745b0160000d615b591e7,,139377,question,responseOption3,32043,form,Automotive
+642745b0160000d615b591e7,,139377,question,responseOption30,32043,form,Hospitality and Food Sector
+642745b0160000d615b591e7,,139377,question,responseOption31,32043,form,Hydro-Generated Oil and Soap Industries
+642745b0160000d615b591e7,,139377,question,responseOption32,32043,form,Life Sciences
+642745b0160000d615b591e7,,139377,question,responseOption33,32043,form,Livestock
+642745b0160000d615b591e7,,139377,question,responseOption34,32043,form,Logistics-Parcels
+642745b0160000d615b591e7,,139377,question,responseOption35,32043,form,Manufacturing – Food
+642745b0160000d615b591e7,,139377,question,responseOption36,32043,form,Manufacturing – Paper /Pulp and Converted Paper
+642745b0160000d615b591e7,,139377,question,responseOption37,32043,form,Marine
+642745b0160000d615b591e7,,139377,question,responseOption38,32043,form,Materials and Synthetics
+642745b0160000d615b591e7,,139377,question,responseOption39,32043,form,Coal Mining
+642745b0160000d615b591e7,,139377,question,responseOption4,32043,form,Ceramic Products
+642745b0160000d615b591e7,,139377,question,responseOption40,32043,form,Metal Ore Mining
+642745b0160000d615b591e7,,139377,question,responseOption41,32043,form,Natural Rubber Products
+642745b0160000d615b591e7,,139377,question,responseOption42,32043,form,Oil & Gas Extraction
+642745b0160000d615b591e7,,139377,question,responseOption43,32043,form,Passenger Transportation
+642745b0160000d615b591e7,,139377,question,responseOption44,32043,form,Paints and Allied Products
+642745b0160000d615b591e7,,139377,question,responseOption45,32043,form,Pesticide Industries
+642745b0160000d615b591e7,,139377,question,responseOption46,32043,form,Pharmaceuticals and Medicinal Products
+642745b0160000d615b591e7,,139377,question,responseOption47,32043,form,Plastics
+642745b0160000d615b591e7,,139377,question,responseOption48,32043,form,Polymer Product and Rubber Products
+642745b0160000d615b591e7,,139377,question,responseOption49,32043,form,Postal and Courier
+642745b0160000d615b591e7,,139377,question,responseOption5,32043,form,Chemicals - Agro-Chemicals
+642745b0160000d615b591e7,,139377,question,responseOption50,32043,form,Non-Metallic Mineral Mining and Quarrying
+642745b0160000d615b591e7,,139377,question,responseOption51,32043,form,Refineries and Petroleum Industry
+642745b0160000d615b591e7,,139377,question,responseOption52,32043,form,Railroad / Metro Systems
+642745b0160000d615b591e7,,139377,question,responseOption53,32043,form,Retail
+642745b0160000d615b591e7,,139377,question,responseOption54,32043,form,Steel Production / Manufacturing
+642745b0160000d615b591e7,,139377,question,responseOption55,32043,form,Telecommunications
+642745b0160000d615b591e7,,139377,question,responseOption56,32043,form,Timber
+642745b0160000d615b591e7,,139377,question,responseOption57,32043,form,Utility - Electrical
+642745b0160000d615b591e7,,139377,question,responseOption58,32043,form,Utility - Gas
+642745b0160000d615b591e7,,139377,question,responseOption59,32043,form,Utility - Water
+642745b0160000d615b591e7,,139377,question,responseOption6,32043,form,Chemicals - Fine Chemicals
+642745b0160000d615b591e7,,139377,question,responseOption60,32043,form,Warehousing
+642745b0160000d615b591e7,,139377,question,responseOption61,32043,form,Waste Management
+642745b0160000d615b591e7,,139377,question,responseOption62,32043,form,Waste Treatment and Disposal
+642745b0160000d615b591e7,,139377,question,responseOption63,32043,form,Wholesale Trade
+642745b0160000d615b591e7,,139377,question,responseOption64,32043,form,Other
+642745b0160000d615b591e7,,139377,question,responseOption7,32043,form,Chemicals - Industrial organic
+642745b0160000d615b591e7,,139377,question,responseOption8,32043,form,Chemicals - Industrial inorganic
+642745b0160000d615b591e7,,139377,question,responseOption9,32043,form,Chemicals – Polymers
+64274875160000d615b5b1a7,,139378,question,questionText,32043,form,Passenger contact service: 
+64274875160000d615b5b1a7,,139378,question,responseOption1,32043,form,Mon-Fri Standard (Limited weekend cover)
+64274875160000d615b5b1a7,,139378,question,responseOption2,32043,form,Mon-Fri Standard (No weekend cover)
+64274875160000d615b5b1a7,,139378,question,responseOption3,32043,form,24 Hrs. Mon-Fri (Limited weekend)
+64274875160000d615b5b1a7,,139378,question,responseOption4,32043,form,24 Hrs. Mon-Fri (No weekend cover)
+64274875160000d615b5b1a7,,139378,question,responseOption5,32043,form,24 Hrs. Seven days (No public Holidays)
+64274875160000d615b5b1a7,,139378,question,responseOption6,32043,form,24 Hrs. Seven days (All year cover)
+64274875160000d615b5b1a7,,139378,question,responseOption7,32043,form,Other
+64274b4e1600006017b5c6d4,,139379,question,questionText,32043,form,Enter % for use of self-employed drivers 
+642765e31300007200b31ead,,139381,question,description,32043,form,More than one option can be checked:
+642765e31300007200b31ead,,139381,question,questionText,32043,form,Please check options below
+642765e31300007200b31ead,,139381,question,responseOption1,32043,form,12.5 meters 
+642765e31300007200b31ead,,139381,question,responseOption10,32043,form,Double-decker bus
+642765e31300007200b31ead,,139381,question,responseOption11,32043,form,Single-decker bus
+642765e31300007200b31ead,,139381,question,responseOption12,32043,form,Low-floor bus
+642765e31300007200b31ead,,139381,question,responseOption2,32043,form,Long Rigid Bus
+642765e31300007200b31ead,,139381,question,responseOption3,32043,form,14.5 meters
+642765e31300007200b31ead,,139381,question,responseOption4,32043,form,Articulated Bus: 18 meters
+642765e31300007200b31ead,,139381,question,responseOption5,32043,form,Motor coach
+642765e31300007200b31ead,,139381,question,responseOption6,32043,form,School bus
+642765e31300007200b31ead,,139381,question,responseOption7,32043,form,Shuttle bus
+642765e31300007200b31ead,,139381,question,responseOption8,32043,form,Minibus
+642765e31300007200b31ead,,139381,question,responseOption9,32043,form,Mini coach
+64276774130000ca03b366ff,,139382,question,questionText,32043,form,Does your company have an established process / procedure / system that prevents passenger overcrowding? 
+64276774130000ca03b366ff,,139382,question,responseOption1,32043,form,Yes
+64276774130000ca03b366ff,,139382,question,responseOption2,32043,form,No
+64276774130000ca03b366ff,,139382,question,responseOption3,32043,form,NA
+6427699d130000c003b3dd34,,139383,question,questionText,32043,form,Please confirm the total number of permanent drivers employed within the company who possess experience of transporting passengers:
+64276e63140000be037da335,,139384,question,questionText,32043,form,Does your company fall under the scope of the Chain of Responsibility?
+64276e63140000be037da335,,139384,question,responseOption1,32043,form,Yes
+64276e63140000be037da335,,139384,question,responseOption2,32043,form,No
+642afe74140000760d4045a0,,139396,question,questionText,32043,form,"If yes, please specify the frequency of the checking process: "
+642afe74140000760d4045a0,,139396,question,responseOption1,32043,form,Commencing employment
+642afe74140000760d4045a0,,139396,question,responseOption2,32043,form,​As mandated by law 
+642afe74140000760d4045a0,,139396,question,responseOption3,32043,form,Annual
+642afe74140000760d4045a0,,139396,question,responseOption4,32043,form,Throughout the year
+642afe74140000760d4045a0,,139396,question,responseOption5,32043,form,Based on age of driver

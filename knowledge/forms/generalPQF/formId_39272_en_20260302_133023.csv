@@ -1,0 +1,570 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+651b5407170000674628f725,643c8786180000695466a684,39272,questionGroup,questionGroupText,39272,form,Avetta PQF - German Supply Chain Act Questionnaire
+643c88a31800004e5266a690,643c88a31800004e5266a68f,39273,questionGroup,questionGroupText,39272,form,Risk Management System
+643c9952180000bd08773152,643c9952180000bd08773151,39274,questionGroup,questionGroupText,39272,form,Risk Analysis
+643cc8d3180000bd08773156,643cc8d3180000bd08773155,39275,questionGroup,description,39272,form,"Preventive measures are steps taken by companies to prevent, reduce and mitigate risks from occurring."
+643cc8d3180000bd08773156,643cc8d3180000bd08773155,39275,questionGroup,questionGroupText,39272,form,Preventive Measures
+643cc8ec180000ad0877315a,643cc8ec180000ad08773159,39276,questionGroup,description,39272,form,Remedial actions are steps taken to address a human rights harm that has occurred or that is imminent.
+643cc8ec180000ad0877315a,643cc8ec180000ad08773159,39276,questionGroup,questionGroupText,39272,form,Remedial Action
+643cc8f91800004e5266a6af,643cc8f91800004e5266a6ae,39277,questionGroup,questionGroupText,39272,form,Complaints Procedure
+65172f891a00004e72659c59,643cc907180000f70877315d,39278,questionGroup,questionGroupText,39272,form,Documentation and Reporting
+643c8850180000475466a68d,,140690,question,description,39272,form,A domestic branch office is defined by  Section 13d of German Commercial Code “Handelsgesetzbuch”
+643c8850180000475466a68d,,140690,question,questionText,39272,form,Please specify the type of entity registered in Germany
+643c8850180000475466a68d,,140690,question,responseOption1,39272,form,Central administration
+643c8850180000475466a68d,,140690,question,responseOption2,39272,form,Principal place of business
+643c8850180000475466a68d,,140690,question,responseOption3,39272,form,Administrative headquarters
+643c8850180000475466a68d,,140690,question,responseOption4,39272,form,Statutory seat
+643c8850180000475466a68d,,140690,question,responseOption5,39272,form,Domestic branch office 
+643c891b180000e408773128,,140691,question,description,39272,form,"A human rights risk management system is a programme to identify, assess, and address human rights risks and impacts within the company’s own operations and supply chain. The risk management system aims at preventing, minimising or ending these risks and impact."
+643c891b180000e408773128,,140691,question,moreDescription,39272,form,"\n<br> Human rights risks defined by the German Supply Chain Act:\n•\tChild Labour\n•\tForced labour, Modern Slavery or Human Trafficking\n•\tOccupational Health and Safety, including working hours\n•\tFreedom of Association and Collective Bargaining\n•\tEquality in employment, including equal wages for equal work\n•\tFair living wages\n•\tPollution of soil / water / air, noise emissions and water consumption\n•\tLand rights \n•\tHiring or use of private / public security forces without an adequate command structure or proper oversight to prevent harm\n•\tEnvironmental risks defined by the German Supply Chain Act\n•\tThe use of mercury and mercury compounds, manufacture of mercury-added products, or the treatment of mercury waste \n•\tProduction and use of hazardous chemicals\n•\tHandling, collection, storage and disposal of waste in a manner that is not aligned with local environmental protection regulation \n•\tExport/Import of hazardous waste\n\n"
+643c891b180000e408773128,,140691,question,questionText,39272,form,Does the company have a formal  programme or process to manage human rights risks and impacts of its business?
+643c891b180000e408773128,,140691,question,responseOption1,39272,form,Yes
+643c891b180000e408773128,,140691,question,responseOption2,39272,form,No
+643c8940180000c708773129,,140692,question,questionText,39272,form,Can the company confirm why there is no formal programme or process to manage human rights risks and impacts?
+643c8940180000c708773129,,140692,question,responseOption1,39272,form,Yes
+643c8940180000c708773129,,140692,question,responseOption2,39272,form,No
+643c8d7c180000c70877312f,,140693,question,questionText,39272,form,Confirm why the company does not manage human rights risks
+643c8d7c180000c70877312f,,140693,question,responseOption1,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to establish human a rights risk management system"
+643c8d7c180000c70877312f,,140693,question,responseOption2,39272,form,The company believes their business activity has no impact on human rights
+643c8d7c180000c70877312f,,140693,question,responseOption3,39272,form,Company is developing a human rights management programme for implementation within next 3  months
+643c8d7c180000c70877312f,,140693,question,responseOption4,39272,form,Company is developing a human rights management programme for implementation within next 6 months
+643c8d7c180000c70877312f,,140693,question,responseOption5,39272,form,Other
+643c8e24180000975366a69a,,140694,question,questionText,39272,form,Other:
+643c8e48180000615466a69b,,140695,question,moreDescription,39272,form,"Examples of this include but are not limited to: Human Rights Officer, EHS Manager, Sustainability Manager, ESG Manager, Corporate Department, Sustainability Working Group etc. This will vary by sector and the level of maturity within the company"
+643c8e48180000615466a69b,,140695,question,questionText,39272,form,"Can the company confirm that an individual, in-house department or team have been appointed with responsibility for overseeing the human rights risk management?"
+643c8e48180000615466a69b,,140695,question,responseOption1,39272,form,Yes
+643c8e48180000615466a69b,,140695,question,responseOption2,39272,form,No
+643c8ecf180000e408773134,,140696,question,questionText,39272,form,Confirm the company function(s) /  that the person(s) responsible for managing the human rights risk management system belongs to:
+643c8ecf180000e408773134,,140696,question,responseOption1,39272,form,Compliance / Legal
+643c8ecf180000e408773134,,140696,question,responseOption10,39272,form,Other
+643c8ecf180000e408773134,,140696,question,responseOption2,39272,form,Finance / Accounts
+643c8ecf180000e408773134,,140696,question,responseOption3,39272,form,Human Resources
+643c8ecf180000e408773134,,140696,question,responseOption4,39272,form,"Health and Safety / Environment, Health & Safety"
+643c8ecf180000e408773134,,140696,question,responseOption5,39272,form,Procurement
+643c8ecf180000e408773134,,140696,question,responseOption6,39272,form,Research and Development 
+643c8ecf180000e408773134,,140696,question,responseOption7,39272,form,Risk management
+643c8ecf180000e408773134,,140696,question,responseOption8,39272,form,Supply Chain Management
+643c8ecf180000e408773134,,140696,question,responseOption9,39272,form,Sustainability / ESG
+643c8f2b180000f708773136,,140697,question,questionText,39272,form,Other:
+643c8f3d180000675466a69f,,140698,question,moreDescription,39272,form,The German Supply Chain Act requires senior management to be informed on a regular basis (at least once a year) about the work of the responsible person or persons.
+643c8f3d180000675466a69f,,140698,question,questionText,39272,form,Can the company confirm that senior management is informed at least once a year about the work of the responsible person or persons?
+643c8f3d180000675466a69f,,140698,question,responseOption1,39272,form,Yes
+643c8f3d180000675466a69f,,140698,question,responseOption2,39272,form,No
+643c90931800004e5266a6a0,,140699,question,questionText,39272,form,Can the company confirm how senior management is informed about the work of the responsible person or persons?
+643c90931800004e5266a6a0,,140699,question,responseOption1,39272,form,Yes
+643c90931800004e5266a6a0,,140699,question,responseOption2,39272,form,No
+643c90c1180000c70877313c,,140700,question,questionText,39272,form,Confirm how senior management is informed about the work of the responsible person or persons:
+643c90c1180000c70877313c,,140700,question,responseOption1,39272,form,Internal written report to senior management - once a year
+643c90c1180000c70877313c,,140700,question,responseOption2,39272,form,Internal written report to senior management - 6 monthly
+643c90c1180000c70877313c,,140700,question,responseOption3,39272,form,Internal written report to senior management - monthly
+643c90c1180000c70877313c,,140700,question,responseOption4,39272,form,"Presentation of progress at Senior Management meetings (e.g., meetings of Board of Directors or Executive Committee) - once a year"
+643c90c1180000c70877313c,,140700,question,responseOption5,39272,form,"Presentation of progress at Senior Management meetings (e.g., meetings of Board of Directors or Executive Committee) - 6 monthly"
+643c90c1180000c70877313c,,140700,question,responseOption6,39272,form,"Presentation of progress at Senior Management meetings (e.g., meetings of Board of Directors or Executive Committee) -  monthly"
+643c90c1180000c70877313c,,140700,question,responseOption7,39272,form,Other
+643c9138180000dc0877313f,,140701,question,questionText,39272,form,Other:
+643c9146180000ad08773140,,140702,question,questionText,39272,form,Can you confirm why the company has not appointed an individual / in-house department or team responsible for the human rights management system?
+643c9146180000ad08773140,,140702,question,responseOption1,39272,form,Yes
+643c9146180000ad08773140,,140702,question,responseOption2,39272,form,No
+643c918d180000ad5366a6a4,,140703,question,questionText,39272,form,Confirm why the company has not appointed an individual / in-house department or team responsible for the human rights management system
+643c918d180000ad5366a6a4,,140703,question,responseOption1,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to appoint responsibility for human rights risk management"
+643c918d180000ad5366a6a4,,140703,question,responseOption2,39272,form,Company is appointing an individual / in-house department or team within next 6 months
+643c918d180000ad5366a6a4,,140703,question,responseOption3,39272,form,Company is appointing an individual / in-house department or team within next 12 months
+643c918d180000ad5366a6a4,,140703,question,responseOption4,39272,form,Other
+643c91bd180000e408773144,,140704,question,questionText,39272,form,Other:
+643c91d6180000dc08773147,,140705,question,moreDescription,39272,form,Rightsholders are individuals (such as a worker or community member) or social groups whose human rights may be directly affected by the economic activities of the enterprise or by the economic activities of an enterprise in its supply chains.
+643c91d6180000dc08773147,,140705,question,questionText,39272,form,Can the company confirm that the interests of rightsholders are taken into consideration when developing and implementing the company’s human rights risk management system?
+643c91d6180000dc08773147,,140705,question,responseOption1,39272,form,Yes
+643c91d6180000dc08773147,,140705,question,responseOption2,39272,form,No
+643c9222180000615466a6a6,,140706,question,questionText,39272,form,Confirm the groups taken into consideration within the company’s human rights risk management system
+643c9222180000615466a6a6,,140706,question,responseOption1,39272,form,Company employees
+643c9222180000615466a6a6,,140706,question,responseOption10,39272,form,Other
+643c9222180000615466a6a6,,140706,question,responseOption2,39272,form,Contracted workers in own operations - direct
+643c9222180000615466a6a6,,140706,question,responseOption3,39272,form,Contracted workers - long term contract via 3rd party
+643c9222180000615466a6a6,,140706,question,responseOption4,39272,form,Contracted workers - short term contract via 3rd party
+643c9222180000615466a6a6,,140706,question,responseOption5,39272,form,Workers employed by direct suppliers
+643c9222180000615466a6a6,,140706,question,responseOption6,39272,form,Workers employed by direct suppliers working on company infrastructure
+643c9222180000615466a6a6,,140706,question,responseOption7,39272,form,Workers employed by indirect suppliers
+643c9222180000615466a6a6,,140706,question,responseOption8,39272,form,Individuals or groups of individuals potentially affected by company business activities
+643c9222180000615466a6a6,,140706,question,responseOption9,39272,form,Communities potentially affected / impacted by company business activities
+643c928d180000ad0877314b,,140707,question,questionText,39272,form,Other:
+643c929f180000f70877314e,,140708,question,questionText,39272,form,Confirm why the interests of rightsholders are not taken into consideration
+643c929f180000f70877314e,,140708,question,responseOption1,39272,form,Company has not (yet) identified rightsholders potentially affected by its business activities
+643c929f180000f70877314e,,140708,question,responseOption2,39272,form,Company is developing a rightsholder engagement programme for implementation within next 6 months
+643c929f180000f70877314e,,140708,question,responseOption3,39272,form,Company is developing a rightsholder engagement programme for implementation within next 12 months
+643c929f180000f70877314e,,140708,question,responseOption4,39272,form,Other
+643c92e4180000e40877314f,,140709,question,questionText,39272,form,Other:
+643dbde3180000a803b1f5e2,,140874,question,moreDescription,39272,form,"Human rights risk analysis in the sense of the German Supply Chain Act is a process in which the company identifies the human rights risks and impacts that may result from its own business operations and within their supply chain. This includes human rights risks arising from environmental risk / impact factors (e.g., pollution of air, water and land, the use of mercury and hazardous chemicals, and the handling of waste, including hazardous waste). The GSCA requires risk analysis to be conducted regularly, namely at least annually."
+643dbde3180000a803b1f5e2,,140874,question,questionText,39272,form,Does the company regularly undertake risk analysis focused on human rights (including impacts on human rights arising from environmental impacts / risks)?
+643dbde3180000a803b1f5e2,,140874,question,responseOption1,39272,form,Yes
+643dbde3180000a803b1f5e2,,140874,question,responseOption2,39272,form,No
+643dbe04190000df51734f80,,140875,question,moreDescription,39272,form,"Direct suppliers are entities with which the company has a contractual agreement for the supply of goods or the provision of services necessary for the productions of your company’s products of provision of services. Where companies attempt to circum-navigate the direct supplier relationship to reduce their obligations, the German Supply Chain Act will deem the relationship as direct, nonetheless.<br> \nOwn operations encompass subsidiaries or affiliated companies under decisive influence of the parent company. All entities under decisive influence need to be covered by the regular risk analysis.\n"
+643dbe04190000df51734f80,,140875,question,questionText,39272,form,Areas of the business covered by the (regular) human rights risk analysis process
+643dbe04190000df51734f80,,140875,question,responseOption1,39272,form,Inhouse operations including sites / facilities - domestic
+643dbe04190000df51734f80,,140875,question,responseOption2,39272,form,Inhouse operations including sites / facilities - international 
+643dbe04190000df51734f80,,140875,question,responseOption3,39272,form,"Inhouse remote working e.g., worksites away from company administrative function"
+643dbe04190000df51734f80,,140875,question,responseOption4,39272,form,Direct suppliers - Provide a service on company infrastructure
+643dbe04190000df51734f80,,140875,question,responseOption5,39272,form,Direct suppliers - Provide a service not on company infrastructure
+643dbe04190000df51734f80,,140875,question,responseOption6,39272,form,Direct suppliers - Manufacture and source for and on behalf of the company
+643dbe04190000df51734f80,,140875,question,responseOption7,39272,form,Indirect supply chain - Provide a service to company infrastructure
+643dbe04190000df51734f80,,140875,question,responseOption8,39272,form,Indirect supply chain - Provide a service not related to company infrastructure
+643dbe04190000df51734f80,,140875,question,responseOption9,39272,form,Other
+643dc01e180000bc04b1f688,,140876,question,questionText,39272,form,Other:
+643dc1ff190000d951734fda,,140877,question,questionText,39272,form,Can the company confirm the human rights-related topics covered by the company’s human rights risk analysis?
+643dc1ff190000d951734fda,,140877,question,responseOption1,39272,form,Yes
+643dc1ff190000d951734fda,,140877,question,responseOption2,39272,form,No
+643dc231190000df51734fe1,,140878,question,description,39272,form,"Please click on ""more"" below for definitions on each human rights element."
+643dc231190000df51734fe1,,140878,question,moreDescription,39272,form,"<br>**As per the German Supply Chain Act, Child Labour is defined as:**\n•\tThe employment of a child under the age at which compulsory schooling ends according to the law of the place of employment, provided that the age of employment is not less than 15 years\n•\tAny child that at the time of employment is less than 15 years of age, except where the law of the place of employment allows so, provided that it is not a form of slavery, and that it complies with the International Labour Organization’s convention (no.138) concerning the Minimum Age for Admission to Employment<br> \n**As per the German Supply Chain Act, Forced Labour, Modern Slavery and Human Trafficking are defined as:**\n•\tForced Labour: this includes any work or service that is required of a person under threat of punishment and for which the individual has not made themselves available voluntarily, for examples as a result of debt bondage or trafficking in human beings \n•\tModern Slavery: covers all forms of slavery, practices akin to slavery, or other forms of domination or oppression in the workplace such as extreme economic or sexual exploitation and humiliation  <br>\n**As per the German Supply Chain Act, Occupational Health and Safety is defined as:**\n•\tOccupational Health and Safety is ensuring that the place of employment doesn’t have or takes precautions against the risk of accidents at work or work related health hazards. This requires having safety standards in place, the provision of maintenance of the workplace, measures in place to prevent excessive physical and mental fatigue (rest breaks, having decent working hours), and adequate training of employees <br>\n**As per the German Supply Chain Act, Freedom of Association is defined as:**\n•\tFreedom of Association is the right of employees to form or join trade unions which must not be used as a reason for unjust discrimination or retaliation\n•\tTrade unions should be free to operate in accordance with applicable law of the place of employment which includes the right to strike and the right to collective bargaining <br>\n**As per the German Supply Chain Act, equality in employment, including equal wages for equal work is defined as:**\n•\tThe unequal treatment in employment on the grounds of national and ethnic origin, social origin, health status, disability, sexual orientation, age, gender, political opinion, religion or belief\n•\tAn example of unequal treatment is the payment of unequal remuneration for work of equal value <br>\n**As per the German Supply Chain Act, Adequate Living Wage is defined as:**\n•\tAdequate Living Wage amounts to at least the minimum wage as laid down by the applicable law <br>\n**As per the German Supply Chain Act, Land Rights are defined as:**\n•\tThe unlawful eviction from and the unlawful taking of land, forests and waters in the acquisition, development or other use of land , forests and waters, the use of which secures the livelihood of a person<br>\n**As per the German Supply Chain Act, the Hiring or Use of Security Forces is prohibited if it leads to:**\n•\tTorture and cruel, inhumane or degrading treatment\n•\tDamages to life or limb\n•\tImpairing the right to organise and the freedom of association <br>\n**As per the German Supply Chain Act, Pollution of Soil/Water/Air, Noise Emissions and Water Consumption are prohibited if they:**\n•\tSignificantly impair the natural bases for the preservation and production of food\n•\tDenies a person access to safe and clean drinking water\n•\tMakes it difficult for a person to access sanitary facilities or destroys them \n•\tHarms the health of a person\n\n"
+643dc231190000df51734fe1,,140878,question,questionText,39272,form,Confirm the human rights elements covered by the company’s human rights risk analysis:
+643dc231190000df51734fe1,,140878,question,responseOption1,39272,form,Child Labour
+643dc231190000df51734fe1,,140878,question,responseOption10,39272,form,"Pollution / contamination of waterways (Rivers, aquifers, canals, lakes, unauthorised sewage release, etc.)"
+643dc231190000df51734fe1,,140878,question,responseOption11,39272,form,"Pollution of the atmosphere, e.g., unauthorised release, exceeded permit limits, odour control, etc."
+643dc231190000df51734fe1,,140878,question,responseOption12,39272,form,"Social impact from localised noise, working during night-time, etc."
+643dc231190000df51734fe1,,140878,question,responseOption13,39272,form,Water use and consumption
+643dc231190000df51734fe1,,140878,question,responseOption14,39272,form,Other relevant human rights risks
+643dc231190000df51734fe1,,140878,question,responseOption2,39272,form,"Forced Labour, Modern Slavery or Human Trafficking"
+643dc231190000df51734fe1,,140878,question,responseOption3,39272,form,Occupational Health and Safety
+643dc231190000df51734fe1,,140878,question,responseOption4,39272,form,Freedom of Association and Collective Bargaining
+643dc231190000df51734fe1,,140878,question,responseOption5,39272,form,"Equality in employment, including equal wages for equal work"
+643dc231190000df51734fe1,,140878,question,responseOption6,39272,form,Fair living wages
+643dc231190000df51734fe1,,140878,question,responseOption7,39272,form,Land Rights
+643dc231190000df51734fe1,,140878,question,responseOption8,39272,form,Hiring or use of private / public security forces without an adequate command structure or proper oversight to prevent harm
+643dc231190000df51734fe1,,140878,question,responseOption9,39272,form,Pollution of soil
+643dc5bb1900000352734ffc,,140879,question,questionText,39272,form,Other relevant human rights risks:
+643dc5db180000574ab1f6cb,,140880,question,moreDescription,39272,form,"In addition to specific human rights risks, the GSCA lists concrete environmental risk factors that can have significant impact on human rights, in particular human health."
+643dc5db180000574ab1f6cb,,140880,question,questionText,39272,form,Confirm the environment-related topics covered by the human rights risk analysis
+643dc5db180000574ab1f6cb,,140880,question,responseOption1,39272,form,Manufacture of mercury-added products
+643dc5db180000574ab1f6cb,,140880,question,responseOption2,39272,form,Use of mercury and mercury compounds
+643dc5db180000574ab1f6cb,,140880,question,responseOption3,39272,form,Treatment of mercury waste
+643dc5db180000574ab1f6cb,,140880,question,responseOption4,39272,form,"Production and use of hazardous chemicals (i.e., persistent organic pollutants)"
+643dc5db180000574ab1f6cb,,140880,question,responseOption5,39272,form,"Handling, collection, storage and disposal of waste - not aligned with local environmental  protection regulation/s"
+643dc5db180000574ab1f6cb,,140880,question,responseOption6,39272,form,Export / Import of hazardous waste
+643dc720180000564ab1f6e8,,140881,question,questionText,39272,form,Can the company confirm how often human rights risk analysis is conducted?
+643dc720180000564ab1f6e8,,140881,question,responseOption1,39272,form,Yes
+643dc720180000564ab1f6e8,,140881,question,responseOption2,39272,form,No
+643dd2f9190000d85173556d,,140934,question,questionText,39272,form,State the frequency the company conducts (or has planned to conduct) a human rights risk analysis
+643dd2f9190000d85173556d,,140934,question,responseOption1,39272,form,Three yearly review cycle - programmed
+643dd2f9190000d85173556d,,140934,question,responseOption2,39272,form,Two yearly review cycle - programmed
+643dd2f9190000d85173556d,,140934,question,responseOption3,39272,form,Annual review cycle - programmed
+643dd2f9190000d85173556d,,140934,question,responseOption4,39272,form,6-monthly
+643dd2f9190000d85173556d,,140934,question,responseOption5,39272,form,Monthly
+643dd2f9190000d85173556d,,140934,question,responseOption6,39272,form,Other
+643dd37b180000ca4ab1fdf6,,140935,question,questionText,39272,form,Other:
+643dd38e180000c44ab1fdf8,,140936,question,description,39272,form,"Upload either a jpeg or a PDF. Web links cannot be accepted due to cyber security reasons, and as they may become outdated or not function appropriately. Personal data must be redacted to ensure anonymity."
+643dd38e180000c44ab1fdf8,,140936,question,questionText,39272,form,Please upload information summarising the results of the company’s risk analysis relating to human rights
+643dd5121900004a52735aaf,,140937,question,description,39272,form,A client is an entity with which the company has a contractual agreement to deliver services or products. 
+643dd5121900004a52735aaf,,140937,question,questionText,39272,form,Can the company confirm  why it does not regularly conduct human rights risk analysis?
+643dd5121900004a52735aaf,,140937,question,responseOption1,39272,form,Company is not required to conduct human rights risk analysis based upon its  company size
+643dd5121900004a52735aaf,,140937,question,responseOption2,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to conduct human rights risk analysis on a regular basis"
+643dd5121900004a52735aaf,,140937,question,responseOption3,39272,form,Company believe business activities have low human rights risks
+643dd5121900004a52735aaf,,140937,question,responseOption4,39272,form,Company is developing a human rights risk analysis for implementation within next 3 months
+643dd5121900004a52735aaf,,140937,question,responseOption5,39272,form,Company is developing a human rights risk analysis for implementation within next 6 months
+643dd5121900004a52735aaf,,140937,question,responseOption6,39272,form,Company believes that the client manages the human rights risk analysis when working at the client’s site locations 
+643dd5121900004a52735aaf,,140937,question,responseOption7,39272,form,Other
+643dd5a8180000cd4ab1ff2b,,140938,question,moreDescription,39272,form,"In addition to a regularly conducted risk analysis, the German Supply Chain Act defines two instances in which companies are required to carry out so called “ad-hoc risk analysis”. The requirement to conduct an “ad-hoc risk analysis” is triggered by (1) a significant change in the risk situation and (2) substantiated knowledge of a possible human rights violation in the indirect supply chain.  "
+643dd5a8180000cd4ab1ff2b,,140938,question,questionText,39272,form,Does the company undertake “ad-hoc risk analysis” as defined by the German Supply Chain Act?
+643dd5a8180000cd4ab1ff2b,,140938,question,responseOption1,39272,form,Yes
+643dd5a8180000cd4ab1ff2b,,140938,question,responseOption2,39272,form,No
+643dd6391900002f52735ac2,,140939,question,moreDescription,39272,form,"Examples of internal business decisions include but are not limited to the introduction of new products, services, projects or business fields; when entering or sourcing from new markets, when establishing new joint ventures.\nExamples of external events include but are not limited to natural disasters or the outbreak of conflict.<br>\nSubstantiated knowledge means that the company has indications suggesting that the violation of human rights or of an environmental obligation is possible. A company can gain substantiated knowledge through, for example: complaints raised through its complaints or whistleblowing mechanisms, handouts by the Federal Office for Economic Affairs and Export Control, media reports, reports by NGOs and notifications on the internet if they are common knowledge because they are known industry-wide or are passed on to the enterprise.\n"
+643dd6391900002f52735ac2,,140939,question,questionText,39272,form,Confirm applicable event(s) triggering “ad-hoc risk analysis”
+643dd6391900002f52735ac2,,140939,question,responseOption1,39272,form,An external event or internal business decision that may impact the company’s risk profile in the company’s own operations triggers an ad-hoc risk analysis
+643dd6391900002f52735ac2,,140939,question,responseOption2,39272,form,An external event or internal business decision that may impact the company’s risk profile in the company’s direct supply chain triggers an ad-hoc risk analysis
+643dd6391900002f52735ac2,,140939,question,responseOption3,39272,form,An external event or internal business decision that may impact the company’s risk profile in the company’s indirect supply chain triggers an ad-hoc risk analysis
+643dd6391900002f52735ac2,,140939,question,responseOption4,39272,form,The company acquires substantiated knowledge of a possible violation of human rights within the indirect supply chain
+643ddcfa1900004452735bd5,,141013,question,questionText,39272,form,Confirm why the company does not conduct “ad-hoc risk analysis”
+643ddcfa1900004452735bd5,,141013,question,responseOption1,39272,form,Company is not required to conduct human rights risk analysis due to its  company size
+643ddcfa1900004452735bd5,,141013,question,responseOption2,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to conduct ad-hoc human rights risk analysis"
+643ddcfa1900004452735bd5,,141013,question,responseOption3,39272,form,Company believe business activities have low human rights risks
+643ddcfa1900004452735bd5,,141013,question,responseOption4,39272,form,Company is developing a human rights risk analysis programme for implementation within next 3  months
+643ddcfa1900004452735bd5,,141013,question,responseOption5,39272,form,Company is developing a human rights risk analysis programme for implementation within next 6  months
+643ddcfa1900004452735bd5,,141013,question,responseOption6,39272,form,Company believes that the client conducts ad-hoc human rights risk analysis when working at the client’s site locations
+643ddcfa1900004452735bd5,,141013,question,responseOption7,39272,form,Other
+643ddde3180000bf4ab20073,,141014,question,questionText,39272,form,Other:
+643dddf01900003552735be9,,141015,question,moreDescription,39272,form,"The German Supply Chain Act requires that risks are weighted and prioritised, enabling companies to take a risk-based approach to managing human rights risks. The GSCA also recommends a set of criteria for prioritizing human rights risks."
+643dddf01900003552735be9,,141015,question,questionText,39272,form,Can the company demonstrate that risks (identified through the risk analysis) are prioritised?
+643dddf01900003552735be9,,141015,question,responseOption1,39272,form,Yes
+643dddf01900003552735be9,,141015,question,responseOption2,39272,form,No
+643dde7f180000c44ab2007c,,141016,question,moreDescription,39272,form,"•\t**Severity:** The severity of a risk is based on (a) the scale of the risk (how grave is/would the impact on rightsholders be), (b) the scope of the risk (how many people are/would be affected) and (c) the possibility to remediate the risk (is it possible to return the situation to its original state for the affected rightsholders). \n•\t**Likelihood:** The likelihood of a risk refers to how likely it is for a risk to happen. Relevant factors that can reduce or increase likelihood include external factors (e.g., laws and regulations in which a company operates, the socio-economic context, military conflict) and internal factors (e.g., the company’s policies and practices, its control systems and measures to prevent and mitigate risks).\n•\t**Nature of causal contribution** defines whether the company is directly responsible for (or made a major contribution to) causing a human rights risk / impact, or if it is only partially responsible by contributing to, enabling or incentivising a human rights risk / impact by a third party.\n"
+643dde7f180000c44ab2007c,,141016,question,questionText,39272,form,Risk prioritisation criteria used by the company
+643dde7f180000c44ab2007c,,141016,question,responseOption1,39272,form,Risk profile of the company’s countries of operation
+643dde7f180000c44ab2007c,,141016,question,responseOption10,39272,form,Nature of the company’s causal contribution to the risk / impact
+643dde7f180000c44ab2007c,,141016,question,responseOption11,39272,form,Other
+643dde7f180000c44ab2007c,,141016,question,responseOption2,39272,form,Risk profile of the countries the company sources services or products from
+643dde7f180000c44ab2007c,,141016,question,responseOption3,39272,form,"Risk profile of the company’s products or services (e.g., due to complex supply chain)"
+643dde7f180000c44ab2007c,,141016,question,responseOption4,39272,form,"Proximity to the risk (e.g., does the risk occur in the company’s own operations, at direct suppliers, or within the indirect supply chain)"
+643dde7f180000c44ab2007c,,141016,question,responseOption5,39272,form,Size of the company in comparison to its competitors (market dominance) and to the entity directly responsible for a human rights risk / impact
+643dde7f180000c44ab2007c,,141016,question,responseOption6,39272,form,Order volume (relative to the revenue of the entity directly responsible)
+643dde7f180000c44ab2007c,,141016,question,responseOption7,39272,form,Level of contractual or financial leverage the company has over the entity directly responsible for a human rights risk / impact
+643dde7f180000c44ab2007c,,141016,question,responseOption8,39272,form,Severity
+643dde7f180000c44ab2007c,,141016,question,responseOption9,39272,form,Likelihood
+643ddf291900002f52735bf7,,141017,question,questionText,39272,form,Other:
+643ddf361900004452735bfa,,141018,question,questionText,39272,form,Confirm why the company does not weight and prioritise identified risks
+643ddf361900004452735bfa,,141018,question,responseOption1,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to prioritize human rights risks"
+643ddf361900004452735bfa,,141018,question,responseOption2,39272,form,Company is developing a weighting and prioritization approach / methodology for implementation within next 3 months
+643ddf361900004452735bfa,,141018,question,responseOption3,39272,form,Company is developing a weighting and prioritization approach / methodology for implementation within next 6 months
+643ddf361900004452735bfa,,141018,question,responseOption4,39272,form,Other
+643ddfe6180000bf4ab2008c,,141019,question,questionText,39272,form,"Does the company communicate the results of the risk analysis to relevant internal decision-makers (e.g., board of directors, purchasing department, sustainability department, safety function, etc.)?"
+643ddfe6180000bf4ab2008c,,141019,question,responseOption1,39272,form,Yes
+643ddfe6180000bf4ab2008c,,141019,question,responseOption2,39272,form,No
+643de04b1900004352735c08,,141020,question,description,39272,form,"Evidence should include company procedures or management systems and demonstrates a range of communication methods that provide all relevant internal parties with risk related information. Also, additional support can include examples of risk related examples that have been communicated. \n"
+643de04b1900004352735c08,,141020,question,moreDescription,39272,form,"<br>You should use a  jpeg or a PDF. Web links cannot be accepted due to cyber security reasons, and they can  become outdated or not function appropriately. Personal data must  be redacted to ensure anonymity."
+643de04b1900004352735c08,,141020,question,questionText,39272,form,Upload information demonstrating how risk related information is communicated to relevant internal decision-makers.
+643de1a5180000c74ab2009c,,141021,question,questionText,39272,form,Confirm why the company does not communicate the results of the risk analysis to relevant internal decision-makers
+643de1a5180000c74ab2009c,,141021,question,responseOption1,39272,form,Company is developing a communication methodology for implementation within next 3 months
+643de1a5180000c74ab2009c,,141021,question,responseOption2,39272,form,Company is developing a communication methodology for implementation within next 6 months
+643de1a5180000c74ab2009c,,141021,question,responseOption3,39272,form,Other
+643de1fc1900004c52735c16,,141022,question,questionText,39272,form,Other:
+643de2e41900004452735c30,,141053,question,questionText,39272,form,Other:
+643de99c180000364ab200f6,,141054,question,description,39272,form,"As per the German Supply Chain Act, a policy statement must be a single document fulfilling all criteria required by the law. It can refer to other documents that further spell out individual elements in more detail. \nThe policy statement must contain at least the following elements:"
+643de99c180000364ab200f6,,141054,question,moreDescription,39272,form,"• The description of the due diligence and risk management procedures related to human rights and environment-related risks as listed by the German Supply Chain Act\n• To clearly state the priority human rights and environment-related risks identified through the risk analysis \n• To define, based on the risk analysis, the human rights and environment-related expectations placed by the business on its employees and suppliers in the supply chain \n"
+643de99c180000364ab200f6,,141054,question,questionText,39272,form,Does the company have a policy statement committing the business to manage and respect human rights and human rights-related environmental obligations?
+643de99c180000364ab200f6,,141054,question,responseOption1,39272,form,Yes
+643de99c180000364ab200f6,,141054,question,responseOption2,39272,form,No
+643dea7a1900004352735c4e,,141055,question,questionText,39272,form,"Can the company confirm the policy statement(s) covering human rights and related environmental risks is applicable to all parts of the business (both domestic and international if applicable), including the supply chain?"
+643dea7a1900004352735c4e,,141055,question,responseOption1,39272,form,Yes
+643dea7a1900004352735c4e,,141055,question,responseOption2,39272,form,No
+643dea911900004a52735c4f,,141056,question,questionText,39272,form,The company policy statement(s) on human rights and related environmental risks cover the following areas of the business:
+643dea911900004a52735c4f,,141056,question,responseOption1,39272,form,Inhouse operations including sites / facilities - domestic
+643dea911900004a52735c4f,,141056,question,responseOption10,39272,form,Indirect supply chain - Provide a service not related to company infrastructure
+643dea911900004a52735c4f,,141056,question,responseOption11,39272,form,Other
+643dea911900004a52735c4f,,141056,question,responseOption2,39272,form,Inhouse operations including sites / facilities - international
+643dea911900004a52735c4f,,141056,question,responseOption3,39272,form,"Inhouse remote working e.g., worksites away from company administrative function"
+643dea911900004a52735c4f,,141056,question,responseOption4,39272,form,Direct suppliers - Provide a service to company infrastructure (Domestic)
+643dea911900004a52735c4f,,141056,question,responseOption5,39272,form,Direct suppliers - Provide a service to company infrastructure (International)
+643dea911900004a52735c4f,,141056,question,responseOption6,39272,form,Direct suppliers - Provide a service not on company infrastructure (Domestic)
+643dea911900004a52735c4f,,141056,question,responseOption7,39272,form,Direct suppliers - Provide a service not on company infrastructure (International)
+643dea911900004a52735c4f,,141056,question,responseOption8,39272,form,Direct suppliers - Manufacture and source for and on behalf of the company
+643dea911900004a52735c4f,,141056,question,responseOption9,39272,form,Indirect supply chain - Provide a service to company infrastructure
+643deb3c180000bd4ab200fc,,141057,question,questionText,39272,form,Other:
+643deb4a180000364ab200ff,,141058,question,questionText,39272,form,Confirm the company's policy statement(s) fulfil the following requirements:
+643deb4a180000364ab200ff,,141058,question,responseOption1,39272,form,Describes the approach to human rights and human rights-related environmental risk management process(es)
+643deb4a180000364ab200ff,,141058,question,responseOption2,39272,form,Outlines the human rights risks and human rights-related environmental risks identified through its human rights risk analysis
+643deb4a180000364ab200ff,,141058,question,responseOption3,39272,form,Expresses the company’s human rights-related expectations to its workforce and its suppliers
+643deb4a180000364ab200ff,,141058,question,responseOption4,39272,form,Signed by a senior management representative
+643def34180000a74ab20101,,141059,question,description,39272,form,"Upload either a jpeg or a PDF. Web links cannot be accepted due to cyber security reasons, and as they may become outdated or not function appropriately. Personal data must be redacted to ensure anonymity."
+643def34180000a74ab20101,,141059,question,questionText,39272,form,"Please upload a copy of the policy (If documented within more than one document such as a range of policy statements or integrated programmes, upload all relevant documentation)"
+643defab1900004352735c53,,141060,question,questionText,39272,form,Confirm why the company does not have a human rights policy statement
+643defab1900004352735c53,,141060,question,responseOption1,39272,form,Company is not required to have a human rights policy statement based upon its company size
+643defab1900004352735c53,,141060,question,responseOption2,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to develop a human rights policy statement"
+643defab1900004352735c53,,141060,question,responseOption3,39272,form,Company is developing a human rights policy statement for publication within 3 months
+643defab1900004352735c53,,141060,question,responseOption4,39272,form,Company is developing a human rights policy statement for publication within 6 months
+643defab1900004352735c53,,141060,question,responseOption5,39272,form,Company is developing a human rights policy statement for publication within 12 months
+643defab1900004352735c53,,141060,question,responseOption6,39272,form,Company has scheduled to publish a human rights policy statement within 4 months following the end of its current financial year (if this is more than within the next 12 months)
+643defab1900004352735c53,,141060,question,responseOption7,39272,form,Other
+643df02b180000cc4ab20103,,141061,question,questionText,39272,form,Other:
+643df038180000c44ab20105,,141062,question,moreDescription,39272,form,"This requirement of the German Supply Chain Act aims to ensure that companies act without delay to reduce, prevent and mitigate the identified risks. This applies to risks that companies are directly responsible for (‘cause’) or when they have a major contribution to it (‘contribute’). The higher the risk is prioritized, the more urgent a company is expected to address the risk through adequate measures.  \nWithout undue delay: While a specific time period is not stated in the German Supply Chain Act, businesses are expected to act as early as feasible and within an appropriate amount of time.\n"
+643df038180000c44ab20105,,141062,question,questionText,39272,form,"Can the company confirm that human rights risks identified by the human rights risk analysis of its own business operations, are addressed within an appropriate timeline (“without undue delay”)?"
+643df038180000c44ab20105,,141062,question,responseOption1,39272,form,Yes
+643df038180000c44ab20105,,141062,question,responseOption2,39272,form,No
+643df076180000364ab20107,,141063,question,questionText,39272,form,Confirm preventive measures adopted by the company to address human rights and related environmental risks in the company’s own business operations
+643df076180000364ab20107,,141063,question,responseOption1,39272,form,"Codes of Conduct, policies, guidelines - internal"
+643df076180000364ab20107,,141063,question,responseOption10,39272,form,IT management programmes / systems that facilitate efficient business practice
+643df076180000364ab20107,,141063,question,responseOption11,39272,form,"Collaborative approaches, e.g.,  industry associations with government entities or NGO’s"
+643df076180000364ab20107,,141063,question,responseOption12,39272,form,Other
+643df076180000364ab20107,,141063,question,responseOption2,39272,form,Industry specific code of conduct / code of practice
+643df076180000364ab20107,,141063,question,responseOption3,39272,form,Internal audits
+643df076180000364ab20107,,141063,question,responseOption4,39272,form,Independent / external audits
+643df076180000364ab20107,,141063,question,responseOption5,39272,form,Inspections on all working areas
+643df076180000364ab20107,,141063,question,responseOption6,39272,form,Participation in certification schemes (that include risk control mechanisms such as audits)
+643df076180000364ab20107,,141063,question,responseOption7,39272,form,Membership in trade / relevant business association
+643df076180000364ab20107,,141063,question,responseOption8,39272,form,Training for employees in business areas/departments related to the identified / foreseeable risks
+643df076180000364ab20107,,141063,question,responseOption9,39272,form,Training for contracted workers who may be affected
+643df628180000c74ab2010e,,141064,question,questionText,39272,form,Other:
+643df633190000d951735c5f,,141065,question,questionText,39272,form,"Provide confirmation of how the company addresses risks within its own operations without undue delay (e.g., internal action plan)"
+643df67a1900002d52735c61,,141066,question,questionText,39272,form,Confirm why the company does not address risks within its own business operations without delay
+643df67a1900002d52735c61,,141066,question,responseOption1,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to adopt and implement preventive measures in its own operations"
+643df67a1900002d52735c61,,141066,question,responseOption2,39272,form,Company believes business activities have low human rights risks that don’t require preventive measures
+643df67a1900002d52735c61,,141066,question,responseOption3,39272,form,Company is currently developing a process for defining and implementing preventive measures for risks within own operations
+643df67a1900002d52735c61,,141066,question,responseOption4,39272,form,Company believes that the client implements preventive measures related to the services or products provided to the client by the company – on the company’s own sites / locations
+643df67a1900002d52735c61,,141066,question,responseOption5,39272,form,Company believes that the client implements preventive measures related to the services or products provided to the client by the company – on the client’s own sites / locations
+643df67a1900002d52735c61,,141066,question,responseOption6,39272,form,Other
+643df6b11900004c52735c62,,141067,question,questionText,39272,form,Other:
+643df6c21900004a52735c65,,141068,question,moreDescription,39272,form,"This requirement of the German Supply Chain Act aims to ensure that companies act without delay to reduce, prevent and mitigate the identified risks. This applies to risks that companies are directly responsible for (‘cause’) or when they have a major contribution to it (‘contribute’). The higher the risk is prioritized, the more urgent a company is expected to address the risk through adequate measures.  \nWithout undue delay: While a specific time period is not stated in the German Supply Chain Act, businesses are expected to act as early as feasible and within an appropriate amount of time."
+643df6c21900004a52735c65,,141068,question,questionText,39272,form,"Can the company confirm that human rights risks found within direct suppliers, are addressed (to prevent and reduce the risk) within an appropriate timeline (“without undue delay”)?"
+643df6c21900004a52735c65,,141068,question,responseOption1,39272,form,Yes
+643df6c21900004a52735c65,,141068,question,responseOption2,39272,form,No
+643df6e11900002f52735c66,,141069,question,questionText,39272,form,Confirm preventive measures adopted to address human rights and related environmental risks within the direct supply chain
+643df6e11900002f52735c66,,141069,question,responseOption1,39272,form,"Supplier Codes of Conduct, policies, guidelines - external"
+643df6e11900002f52735c66,,141069,question,responseOption10,39272,form,IT management programmes / systems that facilitate efficient business practice
+643df6e11900002f52735c66,,141069,question,responseOption11,39272,form,"Collaborative approaches, e.g.,  industry associations with government entities or NGO’s"
+643df6e11900002f52735c66,,141069,question,responseOption12,39272,form,Other
+643df6e11900002f52735c66,,141069,question,responseOption2,39272,form,Industry specific code of conduct / code of practice
+643df6e11900002f52735c66,,141069,question,responseOption3,39272,form,Internal audits
+643df6e11900002f52735c66,,141069,question,responseOption4,39272,form,Independent / external audits
+643df6e11900002f52735c66,,141069,question,responseOption5,39272,form,Inspections at direct supplier sites / work areas
+643df6e11900002f52735c66,,141069,question,responseOption6,39272,form,Participation in certification schemes (that include risk control mechanisms such as audits)
+643df6e11900002f52735c66,,141069,question,responseOption7,39272,form,Membership in trade / relevant business association
+643df6e11900002f52735c66,,141069,question,responseOption8,39272,form,"Change and review of procurement strategies and purchasing practices (e.g., contracting terms, pricing, incentives)"
+643df6e11900002f52735c66,,141069,question,responseOption9,39272,form,Training related to the identified / foreseeable risks for employees of direct suppliers
+643df799180000cd4ab20115,,141070,question,questionText,39272,form,Other:
+643df7ce1900004452735c6b,,141071,question,questionText,39272,form,Provide confirmation of how the company addresses risks within direct suppliers without undue delay
+643df7f4180000cd4ab20117,,141072,question,questionText,39272,form,Confirm why the company does not address risks within its direct suppliers without delay
+643df7f4180000cd4ab20117,,141072,question,responseOption1,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to adopt and implement preventive measures related to its direct supply chain"
+643df7f4180000cd4ab20117,,141072,question,responseOption2,39272,form,Company believes business activities have low human rights risks that don’t require preventive measures
+643df7f4180000cd4ab20117,,141072,question,responseOption3,39272,form,Company is currently developing a process for defining and implementing preventive measures at direct suppliers
+643df7f4180000cd4ab20117,,141072,question,responseOption4,39272,form,Company believes that the direct suppliers implement preventive measures on their own sites / locations
+643df7f4180000cd4ab20117,,141072,question,responseOption5,39272,form,Company believes that the client implements preventive measures to address risks identified at the company’s direct suppliers
+643df7f4180000cd4ab20117,,141072,question,responseOption6,39272,form,Other
+643df860180000c74ab20119,,141073,question,questionText,39272,form,Other:
+643df872180000cc4ab2011a,,141074,question,moreDescription,39272,form,"This requirement of the German Supply Chain Act aims to ensure that companies act without delay to reduce, prevent and mitigate the identified risks. This applies to risks that companies are directly responsible for (‘cause’) or when they have a major contribution to it (‘contribute’). The higher the risk is prioritized, the more urgent a company is expected to address the risk through adequate measures.  \nWithout undue delay: While a specific time period is not stated in the German Supply Chain Act, businesses are expected to act as early as feasible and within an appropriate amount of time."
+643df872180000cc4ab2011a,,141074,question,questionText,39272,form,Can the company confirm human rights risks found within indirect suppliers are addressed within an appropriate timeline (“without undue delay”)?
+643df872180000cc4ab2011a,,141074,question,responseOption1,39272,form,Yes
+643df872180000cc4ab2011a,,141074,question,responseOption2,39272,form,No
+643dfe71190000d951735c79,,141075,question,questionText,39272,form,Provide confirmation of how the company addresses risks within indirect suppliers without undue delay
+643dfe88180000364ab20121,,141076,question,questionText,39272,form,Confirm why the company does not address risks within its indirect suppliers without delay
+643dfe88180000364ab20121,,141076,question,responseOption1,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to adopt and implement preventive measures in its indirect supply chain"
+643dfe88180000364ab20121,,141076,question,responseOption2,39272,form,Company believes business activities have low human rights risks that don’t require preventive measures
+643dfe88180000364ab20121,,141076,question,responseOption3,39272,form,Company is currently developing a process for defining and implementing preventive measures at indirect suppliers
+643dfe88180000364ab20121,,141076,question,responseOption4,39272,form,Company believes that the indirect suppliers implement preventive measures on their own sites / locations
+643dfe88180000364ab20121,,141076,question,responseOption5,39272,form,Company believes that either the client or direct suppliers implement preventive measures within the company’s indirect supplier
+643dfe88180000364ab20121,,141076,question,responseOption6,39272,form,Other
+643dff0b180000bd4ab20124,,141077,question,questionText,39272,form,Other:
+643dff191900004452735c7b,,141078,question,description,39272,form,"The German Supply Chain Act requires that companies assess on a regular basis whether the preventive measures implemented are effective in preventing, reducing or mitigating the risks they are intended to address. "
+643dff191900004452735c7b,,141078,question,questionText,39272,form,Does the company have a formal programme to review the effectiveness of preventive measures adopted to prevent human rights and related environmental risks?
+643dff191900004452735c7b,,141078,question,responseOption1,39272,form,Yes
+643dff191900004452735c7b,,141078,question,responseOption2,39272,form,No
+643dff80180000c44ab20128,,141079,question,questionText,39272,form,Confirm the frequency the company reviews the effectiveness of its preventive measures
+643dff80180000c44ab20128,,141079,question,responseOption1,39272,form,Three yearly review cycle - programmed 
+643dff80180000c44ab20128,,141079,question,responseOption10,39272,form,Review due to changes in how materials/resources are sourced
+643dff80180000c44ab20128,,141079,question,responseOption11,39272,form,Review required post human rights incident  - Internal review only
+643dff80180000c44ab20128,,141079,question,responseOption12,39272,form,Review required post environmental incident  - Internal review only
+643dff80180000c44ab20128,,141079,question,responseOption13,39272,form,Review required post human rights incident - Independent review
+643dff80180000c44ab20128,,141079,question,responseOption14,39272,form,Review required post environmental incident - Independent review
+643dff80180000c44ab20128,,141079,question,responseOption15,39272,form,Other
+643dff80180000c44ab20128,,141079,question,responseOption2,39272,form,Two yearly review cycle - programmed 
+643dff80180000c44ab20128,,141079,question,responseOption3,39272,form,Annual review cycle - programmed
+643dff80180000c44ab20128,,141079,question,responseOption4,39272,form,6-monthly
+643dff80180000c44ab20128,,141079,question,responseOption5,39272,form,Monthly
+643dff80180000c44ab20128,,141079,question,responseOption6,39272,form,Ad hoc - no scheduled programme
+643dff80180000c44ab20128,,141079,question,responseOption7,39272,form,Review initiated due to changes in site activity or client mandate
+643dff80180000c44ab20128,,141079,question,responseOption8,39272,form,Review initiated due to client request or contract requirements
+643dff80180000c44ab20128,,141079,question,responseOption9,39272,form,Review due to changes in purchasing practice
+643e000e1900002f52735c7e,,141080,question,questionText,39272,form,Other:
+643e00231900004352735c80,,141081,question,questionText,39272,form,"Can the company confirm that post review, where change is required to improve the effectiveness of preventive measures, this is implemented?"
+643e00231900004352735c80,,141081,question,responseOption1,39272,form,Yes
+643e00231900004352735c80,,141081,question,responseOption2,39272,form,No
+643eb41a1b0000e10326d90d,,141082,question,questionText,39272,form,Can the company confirm how human rights impacts / violations are identified?
+643eb41a1b0000e10326d90d,,141082,question,responseOption1,39272,form,Yes
+643eb41a1b0000e10326d90d,,141082,question,responseOption2,39272,form,No
+643eb4351b00005c0326dbf7,,141083,question,questionText,39272,form,Confirm the channels or processes to identify human rights impacts / violations
+643eb4351b00005c0326dbf7,,141083,question,responseOption1,39272,form,Complaints / grievance mechanisms
+643eb4351b00005c0326dbf7,,141083,question,responseOption2,39272,form,Audits (own operations)
+643eb4351b00005c0326dbf7,,141083,question,responseOption3,39272,form,Audits (direct suppliers)
+643eb4351b00005c0326dbf7,,141083,question,responseOption4,39272,form,Audits (indirect suppliers)
+643eb4351b00005c0326dbf7,,141083,question,responseOption5,39272,form,Worker engagement formats (own operations)
+643eb4351b00005c0326dbf7,,141083,question,responseOption6,39272,form,Worker engagement formats (direct suppliers)
+643eb4351b00005c0326dbf7,,141083,question,responseOption7,39272,form,Worker engagement formats (indirect suppliers)
+643eb4351b00005c0326dbf7,,141083,question,responseOption8,39272,form,Human Rights Impact Assessments (HRIAs)
+643eb4351b00005c0326dbf7,,141083,question,responseOption9,39272,form,Other
+643eb4901800005b04c0f4dd,,141084,question,questionText,39272,form,Other:
+643eb4a51b0000140326ee39,,141085,question,moreDescription,39272,form,"Remedial actions: when an actual impact or violation is identified, the steps taken to return the situation to its original state to the best of the company's ability are regarded as remedial actions. Remediation goes beyond financial compensation and can include actions like prevention, issuing an apology etc. The remedy should be deemed appropriate by and meet the needs of the people affected. When violations are identified in own operations in Germany, the violation must be ended. In own operations abroad or entities under decisive influence, violations must usually be ended."
+643eb4a51b0000140326ee39,,141085,question,questionText,39272,form,Can the company confirm that remedial actions are implemented in the event that human rights or related environmental standards have actually been violated or their violation is imminent within the company’s own operations? 
+643eb4a51b0000140326ee39,,141085,question,responseOption1,39272,form,Yes
+643eb4a51b0000140326ee39,,141085,question,responseOption2,39272,form,No
+643eb4d61800002d03c0f7fc,,141086,question,questionText,39272,form,Can the company confirm the objective of the remedial actions implemented?
+643eb4d61800002d03c0f7fc,,141086,question,responseOption1,39272,form,Yes
+643eb4d61800002d03c0f7fc,,141086,question,responseOption2,39272,form,No
+643eb4fd1800009505c0f990,,141087,question,questionText,39272,form,Confirm the objective(s) of the remedial actions implemented
+643eb4fd1800009505c0f990,,141087,question,responseOption1,39272,form,Prevent imminent violation from occurring
+643eb4fd1800009505c0f990,,141087,question,responseOption2,39272,form,End the violation
+643eb4fd1800009505c0f990,,141087,question,responseOption3,39272,form,Minimise the extent of the violation or its impact
+643eb4fd1800009505c0f990,,141087,question,responseOption4,39272,form,Other
+643eb5441800007903c0fc6b,,141088,question,questionText,39272,form,Other:
+643eb5651b0000e30226f9f0,,141089,question,questionText,39272,form,"Provide information on remedial actions implemented or to be implemented (e.g., internal action plan)"
+643eb57e1800009305c108a5,,141090,question,questionText,39272,form,Can the company confirm why no remedial actions are implemented for violations in its own operations?
+643eb57e1800009305c108a5,,141090,question,responseOption1,39272,form,Yes
+643eb57e1800009305c108a5,,141090,question,responseOption2,39272,form,No
+643eb5971b00001203270437,,141091,question,questionText,39272,form,Confirm why no remedial actions are implemented
+643eb5971b00001203270437,,141091,question,responseOption1,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to adopt and implement remedial actions in its own operations"
+643eb5971b00001203270437,,141091,question,responseOption2,39272,form,Company has not identified actual (or imminent) violation of human rights or related environmental standards
+643eb5971b00001203270437,,141091,question,responseOption3,39272,form,"Company is developing a process for defining and implementing remedial actions in its own operations, for implementation within next 6 months"
+643eb5971b00001203270437,,141091,question,responseOption4,39272,form,"Company is developing a process for defining and implementing remedial actions in its own operations, for implementation within next 12 months"
+643eb5971b00001203270437,,141091,question,responseOption5,39272,form,Company believes that the client implements remedial actions at its own sites / locations serviced by the company
+643eb5971b00001203270437,,141091,question,responseOption6,39272,form,Other
+643eb5da180000f602c10ee0,,141092,question,questionText,39272,form,Other:
+643eb5e71800006b03c11055,,141093,question,moreDescription,39272,form,"Remedial actions: when an actual impact or violation is identified, the steps taken to return the situation to its original state to the best of the company's ability are regarded as remedial actions. Remediation goes beyond financial compensation and can include actions like prevention, issuing an apology etc. The remedy should be deemed appropriate by and meet the needs of the people affected."
+643eb5e71800006b03c11055,,141093,question,questionText,39272,form,Can the company confirm that remedial actions are implemented in the event that human rights or related environmental standards have actually been violated or their violation is imminent within the company’s direct supply chain?
+643eb5e71800006b03c11055,,141093,question,responseOption1,39272,form,Yes
+643eb5e71800006b03c11055,,141093,question,responseOption2,39272,form,No
+643eb6261b00000003270bb4,,141094,question,questionText,39272,form,Can the company confirm the objective of the remedial actions implemented?
+643eb6261b00000003270bb4,,141094,question,responseOption1,39272,form,Yes
+643eb6261b00000003270bb4,,141094,question,responseOption2,39272,form,No
+643eb6441800007703c11346,,141095,question,questionText,39272,form,Confirm the objective(s) of the remedial actions implemented
+643eb6441800007703c11346,,141095,question,responseOption1,39272,form,Prevent imminent violation from occurring
+643eb6441800007703c11346,,141095,question,responseOption2,39272,form,End the violation
+643eb6441800007703c11346,,141095,question,responseOption3,39272,form,Minimise the extent of the violation or its impact
+643eb6441800007703c11346,,141095,question,responseOption4,39272,form,Other
+643eb6831800006b03c116f5,,141096,question,questionText,39272,form,Other:
+643eb6a6180000f802c117d1,,141097,question,questionText,39272,form,Can the company confirm why no remedial actions are implemented?
+643eb6a6180000f802c117d1,,141097,question,responseOption1,39272,form,Yes
+643eb6a6180000f802c117d1,,141097,question,responseOption2,39272,form,No
+643eb7421b00000d03271c22,,141098,question,questionText,39272,form,Confirm why no remedial actions are implemented
+643eb7421b00000d03271c22,,141098,question,responseOption1,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to adopt and implement remedial actions in its direct supply chain"
+643eb7421b00000d03271c22,,141098,question,responseOption2,39272,form,Company has not identified actual (or imminent) violation of human rights or related environmental standards
+643eb7421b00000d03271c22,,141098,question,responseOption3,39272,form,"Company is developing a process for defining and implementing remedial actions at direct suppliers, for implementation within next 6 months"
+643eb7421b00000d03271c22,,141098,question,responseOption4,39272,form,"Company is developing a process for defining and implementing remedial actions at direct suppliers, for implementation within next 12 months"
+643eb7421b00000d03271c22,,141098,question,responseOption5,39272,form,Company believes that the client implements remedial actions
+643eb7421b00000d03271c22,,141098,question,responseOption6,39272,form,Other
+643eb7761800007503c129f0,,141099,question,questionText,39272,form,Other:
+643eb78d1b00002b0527211c,,141100,question,questionText,39272,form,"When a violation cannot be removed  in the foreseeable future, are strategies put in place with specific programmes and timelines to minimise the harm / impact?"
+643eb78d1b00002b0527211c,,141100,question,responseOption1,39272,form,Yes
+643eb78d1b00002b0527211c,,141100,question,responseOption2,39272,form,No
+643eb8501b00000f032727b5,,141101,question,questionText,39272,form,"State whether, when violations cannot be removed / closed out, the company will use the following methods to minimise the harm / impact"
+643eb8501b00000f032727b5,,141101,question,responseOption1,39272,form,Work with the company / supplier causing  the violation to implement a corrective action plan
+643eb8501b00000f032727b5,,141101,question,responseOption2,39272,form,Multi sector initiatives – working with other companies through sector initiatives and sector standards to influence change within the areas the violation has taken place 
+643eb8501b00000f032727b5,,141101,question,responseOption3,39272,form,Temporarily suspend business relationship while efforts are made to minimise the risk
+643eb8501b00000f032727b5,,141101,question,responseOption4,39272,form,Immediate termination of the business relationship (as a last resort)
+643eb8501b00000f032727b5,,141101,question,responseOption5,39272,form,Other
+643eb8bc1800005704c13e2c,,141102,question,questionText,39272,form,Other:
+643eb8ca1800002d03c13ea1,,141103,question,description,39272,form,The German Supply Chain Act requires that companies assess on a regular basis whether the remedial actions implemented are effective in ending the violation it is intended to address and returning the situation to its original state for the affected party(ies).
+643eb8ca1800002d03c13ea1,,141103,question,questionText,39272,form,Does the company have a formal review programme to assess the effectiveness of remedial actions adopted to end the violation of human rights and related environmental standards (in its own operations and/or its direct supply chain)?
+643eb8ca1800002d03c13ea1,,141103,question,responseOption1,39272,form,Yes
+643eb8ca1800002d03c13ea1,,141103,question,responseOption2,39272,form,No
+643eb9df1800005604c147ea,,141104,question,questionText,39272,form,Confirm the frequency the company reviews the effectiveness of its remedial actions
+643eb9df1800005604c147ea,,141104,question,responseOption1,39272,form,Three yearly review cycle - programmed
+643eb9df1800005604c147ea,,141104,question,responseOption10,39272,form,Review due to changes in how materials/resources are sourced
+643eb9df1800005604c147ea,,141104,question,responseOption11,39272,form,Review required post human rights incident  - Internal review only
+643eb9df1800005604c147ea,,141104,question,responseOption12,39272,form,Review required post environmental incident  - Internal review only
+643eb9df1800005604c147ea,,141104,question,responseOption13,39272,form,Review required post human rights incident - Independent review
+643eb9df1800005604c147ea,,141104,question,responseOption14,39272,form,Review required post environmental incident - Independent review
+643eb9df1800005604c147ea,,141104,question,responseOption15,39272,form,Other
+643eb9df1800005604c147ea,,141104,question,responseOption2,39272,form,Two yearly review cycle - programmed
+643eb9df1800005604c147ea,,141104,question,responseOption3,39272,form,Annual review cycle - programmed
+643eb9df1800005604c147ea,,141104,question,responseOption4,39272,form,6-monthly
+643eb9df1800005604c147ea,,141104,question,responseOption5,39272,form,Monthly
+643eb9df1800005604c147ea,,141104,question,responseOption6,39272,form,Ad hoc - no scheduled programme
+643eb9df1800005604c147ea,,141104,question,responseOption7,39272,form,Review initiated due to changes in site activity or client mandate
+643eb9df1800005604c147ea,,141104,question,responseOption8,39272,form,Review initiated due to client request or contract requirements
+643eb9df1800005604c147ea,,141104,question,responseOption9,39272,form,Review due to changes in purchasing practice
+643eba8f180000c803c14e3e,,141105,question,questionText,39272,form,Other:
+643ebaa01800005804c14f5f,,141106,question,questionText,39272,form,Confirm why the company does not assess the effectiveness of adopted remedial actions
+643ebaa01800005804c14f5f,,141106,question,responseOption1,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to assess the effectiveness of remedial actions"
+643ebaa01800005804c14f5f,,141106,question,responseOption2,39272,form,"Company is developing a process for reviewing effectiveness of remedial actions, for implementation within next 6 months"
+643ebaa01800005804c14f5f,,141106,question,responseOption3,39272,form,"Company is developing a process for reviewing effectiveness of remedial actions, for implementation within next 12 months"
+643ebaa01800005804c14f5f,,141106,question,responseOption4,39272,form,Company believes that the client reviews effectiveness of remedial actions
+643ebaa01800005804c14f5f,,141106,question,responseOption5,39272,form,Other
+643ebaec1800006903c15461,,141107,question,questionText,39272,form,Other:
+643ebb08180000c903c16146,,141108,question,questionText,39272,form,"Can the company confirm that post effectiveness review, where change is required to improve the effectiveness of remedial actions, this is implemented?"
+643ebb08180000c903c16146,,141108,question,responseOption1,39272,form,Yes
+643ebb08180000c903c16146,,141108,question,responseOption2,39272,form,No
+643eca361b0000c9022ece22,,141109,question,description,39272,form,A complaints procedure enables persons to report human rights and environment-related concerns and actual related to the business activities and relationships of an enterprise.
+643eca361b0000c9022ece22,,141109,question,questionText,39272,form,Does the company have a complaints procedure that covers human rights issues and related environmental standards?
+643eca361b0000c9022ece22,,141109,question,responseOption1,39272,form,Yes
+643eca361b0000c9022ece22,,141109,question,responseOption2,39272,form,No
+643ecaa01800007f0ac9d16a,,141110,question,questionText,39272,form,Confirm how the company complaints procedure covering human rights issues and /or environmental impacts is managed
+643ecaa01800007f0ac9d16a,,141110,question,responseOption1,39272,form,"Managed, coordinated and overseen internally"
+643ecaa01800007f0ac9d16a,,141110,question,responseOption2,39272,form,"Managed, coordinated and overseen by an independent (external) third-party"
+643ecaa01800007f0ac9d16a,,141110,question,responseOption3,39272,form,Combination of both internal and external management
+643ecaed1b000006032f366d,,141111,question,questionText,39272,form,The complaints procedure for human rights issues and related environmental standards covers the following areas of the business
+643ecaed1b000006032f366d,,141111,question,responseOption1,39272,form,Inhouse operations including sites / facilities - domestic
+643ecaed1b000006032f366d,,141111,question,responseOption10,39272,form,Indirect supply chain - Provide a service not related to company infrastructure
+643ecaed1b000006032f366d,,141111,question,responseOption11,39272,form,Other
+643ecaed1b000006032f366d,,141111,question,responseOption2,39272,form,Inhouse operations including sites / facilities - international
+643ecaed1b000006032f366d,,141111,question,responseOption3,39272,form,"Inhouse remote working e.g., worksites away from company administrative function"
+643ecaed1b000006032f366d,,141111,question,responseOption4,39272,form,Direct suppliers - Provide a service to company infrastructure (Domestic)
+643ecaed1b000006032f366d,,141111,question,responseOption5,39272,form,Direct suppliers - Provide a service to company infrastructure (International)
+643ecaed1b000006032f366d,,141111,question,responseOption6,39272,form,Direct suppliers - Provide a service not on company infrastructure (Domestic)
+643ecaed1b000006032f366d,,141111,question,responseOption7,39272,form,Direct suppliers - Provide a service not on company infrastructure (International)
+643ecaed1b000006032f366d,,141111,question,responseOption8,39272,form,Direct suppliers - Manufacture and source for and on behalf of the company
+643ecaed1b000006032f366d,,141111,question,responseOption9,39272,form,Indirect supply chain - Provide a service on company infrastructure
+643ecbd0180000150fca86d3,,141112,question,questionText,39272,form,Other:
+643ecbdc1b00001c0a2fcc13,,141113,question,questionText,39272,form,Can the company confirm the complaints procedure meets the following criteria?
+643ecbdc1b00001c0a2fcc13,,141113,question,responseOption1,39272,form,It covers human rights risks and violations
+643ecbdc1b00001c0a2fcc13,,141113,question,responseOption10,39272,form,The complaints procedure guarantees confidentiality of identity / anonymity
+643ecbdc1b00001c0a2fcc13,,141113,question,responseOption11,39272,form,The complaints procedure ensures effective protection against disadvantage or punishment as a result of a complaint 
+643ecbdc1b00001c0a2fcc13,,141113,question,responseOption12,39272,form,Other
+643ecbdc1b00001c0a2fcc13,,141113,question,responseOption2,39272,form,It covers risks to or violation of human rights-related environmental obligations/standards (as defined by the GSCA)
+643ecbdc1b00001c0a2fcc13,,141113,question,responseOption3,39272,form,The complaints procedure is accessible to all potentially affected parties
+643ecbdc1b00001c0a2fcc13,,141113,question,responseOption4,39272,form,Information about the complaint’s procedure is publicly available
+643ecbdc1b00001c0a2fcc13,,141113,question,responseOption5,39272,form,The person(s) who made the complaint receive a confirmation that the complaint has been received
+643ecbdc1b00001c0a2fcc13,,141113,question,responseOption6,39272,form,The person/department responsible for managing the complaints procedure engage with the person who lodged the complaint to receive additional details
+643ecbdc1b00001c0a2fcc13,,141113,question,responseOption7,39272,form,The process offers the affected party access to independent arbitration to assist in the resolution
+643ecbdc1b00001c0a2fcc13,,141113,question,responseOption8,39272,form,The complaints procedure offers to provide potentially affected parties access to a procedure for amicable settlement
+643ecbdc1b00001c0a2fcc13,,141113,question,responseOption9,39272,form,The complaints procedure guarantees impartiality
+643ecc991b0000110a304da4,,141114,question,questionText,39272,form,Other:
+643eccb21800004d0fcb2e1a,,141115,question,description,39272,form,"Upload either a jpeg or a PDF. Web links cannot be accepted due to cyber security reasons, and as they may become outdated or not function appropriately. Personal data must be redacted to ensure anonymity."
+643eccb21800004d0fcb2e1a,,141115,question,questionText,39272,form,Upload a copy of the company complaints procedure
+643eccfe180000890acb6ab5,,141116,question,moreDescription,39272,form,A client is an entity with which the company has a contractual agreement to deliver services or products.\nRightsholders are individuals (such as a worker or community member) or social groups whose human rights may be directly affected by the economic activities of the enterprise or by the economic activities of an enterprise in its supply chains.\n
+643eccfe180000890acb6ab5,,141116,question,questionText,39272,form,Confirm why the company does not have a complaints procedure
+643eccfe180000890acb6ab5,,141116,question,responseOption1,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to establish a complaints procedure"
+643eccfe180000890acb6ab5,,141116,question,responseOption2,39272,form,Company is developing a complaints procedure for implementation within next 6 months
+643eccfe180000890acb6ab5,,141116,question,responseOption3,39272,form,Company is developing a complaints procedure for implementation within next 12 months
+643eccfe180000890acb6ab5,,141116,question,responseOption4,39272,form,Company believes that the client’s complaints procedure is accessible to the company’s potentially affected rightsholders
+643eccfe180000890acb6ab5,,141116,question,responseOption5,39272,form,Other
+643ecd4c1800006d0acb9306,,141117,question,questionText,39272,form,Other:
+643ecd591800004e0fcb9a01,,141118,question,questionText,39272,form,Does the company have a formal review programme to assess the effectiveness of the complaint’s procedure?
+643ecd591800004e0fcb9a01,,141118,question,responseOption1,39272,form,Yes
+643ecd591800004e0fcb9a01,,141118,question,responseOption2,39272,form,No
+643ecd7c180000230fcbbbe8,,141119,question,questionText,39272,form,State the frequency the company reviews the effectiveness of its complaint’s procedure
+643ecd7c180000230fcbbbe8,,141119,question,responseOption1,39272,form,Three yearly review cycle - programmed
+643ecd7c180000230fcbbbe8,,141119,question,responseOption10,39272,form,Review required post human rights incident  - Internal review only
+643ecd7c180000230fcbbbe8,,141119,question,responseOption11,39272,form,Review required post environmental incident  - Internal review only
+643ecd7c180000230fcbbbe8,,141119,question,responseOption12,39272,form,Review required post human rights incident - Independent review
+643ecd7c180000230fcbbbe8,,141119,question,responseOption13,39272,form,Review required post environmental incident - Independent review
+643ecd7c180000230fcbbbe8,,141119,question,responseOption14,39272,form,Other
+643ecd7c180000230fcbbbe8,,141119,question,responseOption2,39272,form,Two yearly review cycle - programmed
+643ecd7c180000230fcbbbe8,,141119,question,responseOption3,39272,form,Annual review cycle - programmed
+643ecd7c180000230fcbbbe8,,141119,question,responseOption4,39272,form,6-monthly 
+643ecd7c180000230fcbbbe8,,141119,question,responseOption5,39272,form,Ad hoc - no scheduled programme 
+643ecd7c180000230fcbbbe8,,141119,question,responseOption6,39272,form,Review initiated due to changes in site activity or client mandate
+643ecd7c180000230fcbbbe8,,141119,question,responseOption7,39272,form,Review initiated due to client request or contract requirements
+643ecd7c180000230fcbbbe8,,141119,question,responseOption8,39272,form,Review due to changes in purchasing practice
+643ecd7c180000230fcbbbe8,,141119,question,responseOption9,39272,form,Review due to changes in how materials/resources are sourced
+643ecdfc1800002a10cc14ee,,141120,question,questionText,39272,form,Other:
+643ece081b00000203312c11,,141121,question,questionText,39272,form,Confirm why the company does not assess the effectiveness of its complaint’s procedure
+643ece081b00000203312c11,,141121,question,responseOption1,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to assess the effectiveness of the complaint’s procedure"
+643ece081b00000203312c11,,141121,question,responseOption2,39272,form,"Company is developing a process for reviewing effectiveness of the complaint’s procedure, for implementation within next 6 months"
+643ece081b00000203312c11,,141121,question,responseOption3,39272,form,"Company is developing a process for reviewing effectiveness of the complaint’s procedure, for implementation within next 12 months"
+643ece081b00000203312c11,,141121,question,responseOption4,39272,form,Company believes that the client reviews effectiveness of the complaint’s procedure
+643ece081b00000203312c11,,141121,question,responseOption5,39272,form,Other
+643ece3d1b00003d0a314769,,141122,question,questionText,39272,form,Other:
+643ecf2d180000f810ccc5cf,,141123,question,moreDescription,39272,form,"The German Supply Chain Act requires that companies continuously document their risk management and due diligence processes, in particular when related to complex considerations and decisions (e.g., how risks are prioritised or about terminating a business relationship due to severe human rights violations). The objective of documenting decisions and processes is to ensure that decisions and their justification can be explained and understood by internal and external stakeholders even in a distant future. The GSCA requires this documentation to be kept available for at least seven years from its creation."
+643ecf2d180000f810ccc5cf,,141123,question,questionText,39272,form,"Does the company document the implementation of its human rights risk management (e.g., processes, procedures, decision-making)?"
+643ecf2d180000f810ccc5cf,,141123,question,responseOption1,39272,form,Yes
+643ecf2d180000f810ccc5cf,,141123,question,responseOption2,39272,form,No
+643ecf74180000f710ccf835,,141124,question,questionText,39272,form,"Can the company confirm records of mandatory risk management and due diligence processes, procedures and decisions are retained for a minimum of seven years?"
+643ecf74180000f710ccf835,,141124,question,responseOption1,39272,form,Yes
+643ecf74180000f710ccf835,,141124,question,responseOption2,39272,form,No
+643ecf961b0000030a3213e2,,141125,question,description,39272,form,"Upload either a jpeg or a PDF. Web links cannot be accepted due to cyber security reasons, and as they may become outdated or not function appropriately. Personal data must  be redacted to ensure anonymity."
+643ecf961b0000030a3213e2,,141125,question,questionText,39272,form,Please upload a copy of risk management documentation
+643ecfba1800009411cd2a15,,141126,question,questionText,39272,form,"Confirm why the company does not document its risk management / due diligence processes, procedures and decisions"
+643ecfba1800009411cd2a15,,141126,question,responseOption1,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to document its risk management obligations"
+643ecfba1800009411cd2a15,,141126,question,responseOption2,39272,form,"Company is developing a process for documenting its risk management obligations, for implementation within next 6 months"
+643ecfba1800009411cd2a15,,141126,question,responseOption3,39272,form,"Company is developing a process for documenting its risk management obligations, for implementation within next 12 months"
+643ecfba1800009411cd2a15,,141126,question,responseOption4,39272,form,Other
+643ecfe21b00000c0332471c,,141127,question,questionText,39272,form,Other:
+643ecff31b0000050a324b32,,141128,question,description,39272,form,"This information can be part of or integrated within the company’s sustainability reporting, non-financial disclosures or other similar channels of sustainability-related disclosure."
+643ecff31b0000050a324b32,,141128,question,questionText,39272,form,Can the company confirm it publishes information related to its human rights risk management?
+643ecff31b0000050a324b32,,141128,question,responseOption1,39272,form,Yes
+643ecff31b0000050a324b32,,141128,question,responseOption2,39272,form,No
+643ed01d1800005b11cd634f,,141129,question,description,39272,form,"Upload either a jpeg or a PDF. Web links cannot be accepted due to cyber security reason, and as they may become outdated or not function appropriately. Personal data must be redacted to ensure anonymity."
+643ed01d1800005b11cd634f,,141129,question,questionText,39272,form,Please upload a copy of the latest report
+644aa2e7170000af00a9b5f8,,141369,question,questionText,39272,form,Other:
+65172f87190000aa559ac572,,145627,question,questionText,39272,form,Can the company confirm it publishes an annual report on the fulfilment of its obligations related to the German Supply Chain Act?
+65172f87190000aa559ac572,,145627,question,responseOption1,39272,form,Yes
+65172f87190000aa559ac572,,145627,question,responseOption2,39272,form,No
+65172fdc1900004e019ac575,,145629,question,questionText,39272,form, Confirm the company’s annual report fulfils the following criteria
+65172fdc1900004e019ac575,,145629,question,responseOption1,39272,form,It is available free of charge
+65172fdc1900004e019ac575,,145629,question,responseOption10,39272,form,It includes details about the company's complaints procedure
+65172fdc1900004e019ac575,,145629,question,responseOption11,39272,form,It takes due consideration of business and trade secrets
+65172fdc1900004e019ac575,,145629,question,responseOption2,39272,form,It is available on the company's website no later than four months after the end of the financial year
+65172fdc1900004e019ac575,,145629,question,responseOption3,39272,form,It is available on the company’s website for a period of seven years
+65172fdc1900004e019ac575,,145629,question,responseOption4,39272,form,It states clearly and comprehensively whether the company has identified any human rights or related environmental risks or violations and if so which ones
+65172fdc1900004e019ac575,,145629,question,responseOption5,39272,form,It provides a plausible explanation in case no human rights or related environmental risks or violations were identified by the company in the reporting period
+65172fdc1900004e019ac575,,145629,question,responseOption6,39272,form,It states clearly and comprehensively what the enterprise has done to fulfil its risk management obligations
+65172fdc1900004e019ac575,,145629,question,responseOption7,39272,form,It includes elements of the human rights policy statement
+65172fdc1900004e019ac575,,145629,question,responseOption8,39272,form,It includes details on how the company assesses the impact and effectiveness of its risk management measures
+65172fdc1900004e019ac575,,145629,question,responseOption9,39272,form,It includes details of what conclusions the company has drawn from its risk management measures and the implications for future measures
+65173042190000aa559ac576,,145630,question,description,39272,form,"Upload either a jpeg or a PDF. Web links cannot be accepted due to cyber security reason, and as they may become outdated or not function appropriately. Personal data will be redacted to ensure anonymity."
+65173042190000aa559ac576,,145630,question,questionText,39272,form,Please upload a copy of the latest annual report
+65173042190000aa559ac576,,145630,question,responseOption1,39272,form,Yes
+65173042190000aa559ac576,,145630,question,responseOption2,39272,form,No
+6517306d190000ac559ac578,,145631,question,questionText,39272,form,State why the company does not publish or has not published an annual GSCA report
+6517306d190000ac559ac578,,145631,question,responseOption1,39272,form,Company is not required to publish an annual report based upon its company size
+6517306d190000ac559ac578,,145631,question,responseOption2,39272,form,"Company does not have adequate resources (e.g., financial or human resources, competences) to publish a report on its GSCA obligations / its human rights risk management approach"
+6517306d190000ac559ac578,,145631,question,responseOption3,39272,form,Company has scheduled to publish its first GSCA report within next 6 months
+6517306d190000ac559ac578,,145631,question,responseOption4,39272,form,Company has scheduled to publish its first GSCA report within next 12 months
+6517306d190000ac559ac578,,145631,question,responseOption5,39272,form,Company has scheduled to publish its first GSCA report within 4 months following the end of its current financial year (if this is more than within the next 12 months)
+6517306d190000ac559ac578,,145631,question,responseOption6,39272,form,Other
+651730c01a0000a570659c62,,145632,question,questionText,39272,form,Please explain
+651730c01a0000a570659c62,,145632,question,responseOption1,39272,form,Yes
+651730c01a0000a570659c62,,145632,question,responseOption2,39272,form,No

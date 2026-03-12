@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6573ad93190000093aff6f8b,65726a0017000054000d197f,40855,questionGroup,questionGroupText,40855,form,Vietnam Citations / Violations
+65726aa61700006d009205b1,,148041,question,description,40855,form,Including any that resulted in prosecution or conviction.
+65726aa61700006d009205b1,,148041,question,questionText,40855,form,"How many citations, violations, or notices were received during the given year?"
+65726ad617000063000d1986,,148042,question,questionText,40855,form,"What is the total monetary cost of penalties and fines resulting from the citations, violations, and/or notices received? Please indicate the amount in Vietnamese dong (VND)."

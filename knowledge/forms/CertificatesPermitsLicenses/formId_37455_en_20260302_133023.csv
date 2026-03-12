@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+636574f8180000d404c0c5b4,636574ee1700003406cf8499,37455,questionGroup,questionGroupText,37455,form,Demolition Contractor Licences – Western Australia
+636574ee1700003406cf849a,,132372,question,questionText,37455,form,Please upload current Demolition Licence
+636574ee1700003406cf849b,,132373,question,questionText,37455,form,Licence Number
+636574ee1700003406cf849c,,132374,question,questionText,37455,form,Effective Date
+636574ee1700003406cf849d,,132375,question,questionText,37455,form,Expiration Date

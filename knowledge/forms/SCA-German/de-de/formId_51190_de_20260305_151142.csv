@@ -1,0 +1,27 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87756a36b6c4c6354682b,69a87756a36b6c4c6354682a,51190,questionGroup,questionGroupText,51190,form,Arbeitsbedingungen,
+69a87756a36b6c4c63546822,,200269,question,description,51190,form,"Die Anhörung der Arbeitnehmer in allen Fragen des Arbeitsschutzes und der Gesundheit am Arbeitsplatz muss sichergestellt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 11 Abs. 4, § 13 Abs. 1</a>",
+69a87756a36b6c4c63546822,,200269,question,questionText,51190,form,Anhörung der Arbeitnehmer in Sicherheitsfragen,
+69a87756a36b6c4c63546823,,200270,question,description,51190,form,"Es müssen klar definierte Aufgaben für Sicherheitsvertrauenspersonen zur Beratung, Unterstützung und Vertretung der Arbeitnehmer in Fragen des Arbeitsschutzes und der Gesundheit festgelegt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 11 Abs. 1</a>",
+69a87756a36b6c4c63546823,,200270,question,questionText,51190,form,Sicherheitsvertrauensperson,
+69a87756a36b6c4c63546824,,200271,question,description,51190,form,"Hindernisse und Vertiefungen müssen gesichert, abgedeckt oder gekennzeichnet werden, um Gefährdungen zu verhindern.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Arbeitsstättenverordnung, § 2 Abs. 8</a>",
+69a87756a36b6c4c63546824,,200271,question,questionText,51190,form,Gefahrenkennzeichnung,
+69a87756a36b6c4c63546825,,200272,question,description,51190,form,"Eine ausreichende Belüftung aller Räume entsprechend ihrer Nutzung muss sichergestellt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Arbeitsstättenverordnung, § 5 Abs. 3, § 26 Abs. 1</a>",
+69a87756a36b6c4c63546825,,200272,question,questionText,51190,form,Ausreichende Belüftung,
+69a87756a36b6c4c63546826,,200273,question,description,51190,form,"Hygienische Toiletten mit Spülung, Toilettenpapier und nahe gelegenen Wascheinrichtungen müssen bereitgestellt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Arbeitsstättenverordnung, §§ 32–34</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 27</a>",
+69a87756a36b6c4c63546826,,200273,question,questionText,51190,form,Sanitäreinrichtungen,
+69a87756a36b6c4c63546827,,200274,question,description,51190,form,"Die Beleuchtung am Arbeitsplatz muss dort ausreichend sein, wo natürliches Licht fehlt. Eine Beleuchtungsstärke von mindestens 30 lux in Innenräumen muss gewährleistet und Blendung muss verhindert werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 6 Abs. 5</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Arbeitsstättenverordnung, § 2 Abs. 7 Z 3, § 5 Abs. 1</a>",
+69a87756a36b6c4c63546827,,200274,question,questionText,51190,form,Ausreichende Beleuchtung am Arbeitsplatz,
+69a87756a36b6c4c63546828,,200275,question,description,51190,form,"Arbeitnehmer dürfen sich nicht durch Alkohol, Medikamente oder Drogen in einen Zustand versetzen, der die eigene Sicherheit oder die Sicherheit anderer gefährden könnte.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 15 Abs. 4</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 5 Abs. 3</a>",
+69a87756a36b6c4c63546828,,200275,question,questionText,51190,form,Verbot des Antretens der Arbeit unter Alkohol- oder Drogeneinfluss,
+69a87756a36b6c4c63546829,,200276,question,questionText,51190,form,<div></div>,

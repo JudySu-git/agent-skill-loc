@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+654177f81a000091597e4659,654032df1600000f5ac60cc2,40575,questionGroup,description,40576,form,You are receiving this category because you selected CPUC Supplier Clearinghouse in the United States Supplier Diversity Certification Questionnaire.
+654177f81a000091597e4659,654032df1600000f5ac60cc2,40575,questionGroup,questionGroupText,40576,form,CPUC Supplier Clearinghouse
+667b462c010000080124707e,654032df1600000f5ac60cc1,40576,questionGroup,questionGroupText,40576,form,Avetta PQF - US Supplier Diversity: CPUC Supplier Clearinghouse
+654032df1600000f5ac60cc3,,146389,question,questionText,40576,form,Please enter the issue date of your company’s CPUC Supplier Clearinghouse Certificate:
+654032df1600000f5ac60cc3,,146389,question,responseOption1,40576,form,Yes
+654032df1600000f5ac60cc3,,146389,question,responseOption2,40576,form,No
+654032df1600000f5ac60cc4,,146390,question,questionText,40576,form,Expiration Date:
+654032df1600000f5ac60cc4,,146390,question,responseOption1,40576,form,Yes
+654032df1600000f5ac60cc4,,146390,question,responseOption2,40576,form,No
+654032df1600000f5ac60cc5,,146391,question,questionText,40576,form,Certificate Number:
+654032df1600000f5ac60cc5,,146391,question,responseOption1,40576,form,Yes
+654032df1600000f5ac60cc5,,146391,question,responseOption2,40576,form,No
+654032e01600000f5ac60cc6,,146392,question,questionText,40576,form,Please upload a copy of your certification certificate:
+654032e01600000f5ac60cc6,,146392,question,responseOption1,40576,form,Yes
+654032e01600000f5ac60cc6,,146392,question,responseOption2,40576,form,No

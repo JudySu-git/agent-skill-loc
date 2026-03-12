@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6920da5e0100006000193ff5,691e54e60100003b008b6292,49155,questionGroup,description,49155,form,This requirement is triggered because you indicated your organization maintains valid Costa Rican Worker's Compensation documentation in the Costa Rica Workers' Compensation SRT Applicability Assessment questionnaire.
+6920da5e0100006000193ff5,691e54e60100003b008b6292,49155,questionGroup,questionGroupText,49155,form,Costa Rica Workers' Compensation SRT Certificate
+691e55e1010000ea00548ea4,,189023,question,description,49155,form,
+691e55e1010000ea00548ea4,,189023,question,questionText,49155,form,Please upload your company’s valid Workers' Compensation insurance policy issued by INS to confirm compliance with Costa Rica's Worker's Compensation requirements.
+691e55f201000041008b62a0,,189024,question,description,49155,form,Most workers' compensation insurance policies are valid for one year depending on your company's policy designation and validity.
+691e55f201000041008b62a0,,189024,question,questionText,49155,form,Please provide the expiration date of your Workers' Compensation insurance policy issued by INS.

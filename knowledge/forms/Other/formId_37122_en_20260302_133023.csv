@@ -1,0 +1,1323 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63c86dd21300000a0e3e612f,630e8a7d300000e3fbb385c8,37111,questionGroup,questionGroupText,37122,form,Modern Slavery and Forced Labor
+63c86df8150000a70ed2b1bc,630e8a7d300000e3fbb385d5,37112,questionGroup,questionGroupText,37122,form,Sustainability and Ethical Sourcing
+63c86e1d130000060e3e6489,630e8a7e300000e3fbb385fc,37113,questionGroup,questionGroupText,37122,form,Environmental Due Diligence
+63c86e4c150000a70ed2b3a6,630e8a7e300000e3fbb38608,37114,questionGroup,questionGroupText,37122,form,Payment and Wages
+63c86e69150000aa0ed2b45b,630e8a7e300000e3fbb3860d,37115,questionGroup,questionGroupText,37122,form,Working Time
+63c86e881300000a0e3e689f,630e8a7e300000e3fbb38617,37116,questionGroup,questionGroupText,37122,form,Carbon Management
+63c86ea2150000b10ed2b68b,630e8a7e300000e3fbb3863a,37117,questionGroup,questionGroupText,37122,form,Diversity and Inclusion
+63c86ec01300000a0e3e6a79,630e8a7f300000e3fbb3864b,37118,questionGroup,questionGroupText,37122,form,Prevention of Underage Labor
+63c86edd1300001f0e3e6b25,630e8a7f300000e3fbb38650,37119,questionGroup,questionGroupText,37122,form,Health and Wellbeing
+63c86efb150000b00ed2ba04,630e8a7f300000e3fbb38658,37120,questionGroup,questionGroupText,37122,form,Societal and Community Engagement
+63c86f17150000b10ed2bb4f,630e8a7f300000e3fbb3865c,37121,questionGroup,questionGroupText,37122,form,Business Ethics
+63c871ee1300004c0e3e8874,630e8a7d300000e3fbb385c7,37122,questionGroup,questionGroupText,37122,form,ESG & Sustainability - Assessment
+63ab9c121800005e02320414,63ab9c121800005e02320413,38264,questionGroup,questionGroupText,37122,form,Gender Ratio – General Workforce
+63ab9d731a00002d022d7c09,63ab9d731a00002d022d7c08,38265,questionGroup,questionGroupText,37122,form,Gender Ratio – Supervisory Management
+63ab9e6b1a0000f5012d7c12,63ab9e6b1a0000f5012d7c11,38266,questionGroup,questionGroupText,37122,form,Gender Ratio –  Executives
+63ab9f171a00002d022d7c19,63ab9f171a00002d022d7c18,38267,questionGroup,questionGroupText,37122,form,Gender Ratio – Board Members
+63aba8f61a00007b022d7e6e,63aba8f61a00007b022d7e6d,38268,questionGroup,questionGroupText,37122,form,General 
+630e8a7d300000e3fbb385c9,,130745,question,questionText,37122,form,"Does the company have a policy statement, program or management system that confirms a commitment to preventing modern slavery, forced labor and human trafficking within the company’s operations and supply chain?"
+630e8a7d300000e3fbb385c9,,130745,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385c9,,130745,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385ca,,130746,question,questionText,37122,form,Does this policy statement cover anti-slavery practices?
+630e8a7d300000e3fbb385ca,,130746,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385ca,,130746,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385cb,,130747,question,questionText,37122,form,"Does the management commitment  confirm, that the following classification of modern slavery and forced labor are prohibited within the business and its supply chain?"
+630e8a7d300000e3fbb385cb,,130747,question,responseOption1,37122,form,Convict/prison labor
+630e8a7d300000e3fbb385cb,,130747,question,responseOption2,37122,form,Indentured labor
+630e8a7d300000e3fbb385cb,,130747,question,responseOption3,37122,form,Forced labor
+630e8a7d300000e3fbb385cb,,130747,question,responseOption4,37122,form,Bonded labor
+630e8a7d300000e3fbb385cb,,130747,question,responseOption5,37122,form,Underage labor
+630e8a7d300000e3fbb385cc,,130748,question,questionText,37122,form,"Does this statement and all of the prohibited practices relating to forced labor extend to subcontractors, agents and other third-parties involved with the delivery of company services?"
+630e8a7d300000e3fbb385cc,,130748,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385cc,,130748,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385cd,,130749,question,description,37122,form,"To assist the review personnel assessing your company documentation, please ensure the following criteria is met:</br>\n• Company name, or parent company, as recorded within your Avetta account.<br>\n• All information and documents must be submitted in English.<br>\n• All documents must confirm the date they were produced, or subject to review before approval by the company (documents should preferably be no older than 2 years old).<br>\n• Where applicable include a signature of senior member of the management team e.g. CEO / President / Managing Director (Confirming the company intent and motivation to deliver a specific requirement).<br>\n• Uploaded documents and files should be in a searchable text format (PDF, Word, Txt).  Policy and program information found on your company’s website, or via an hyperlink, should be converted and submit as electronic documents. Scanned documents or image captures will be rejected.\n<br>\n\nInformation provided to support your responses will be assessed based upon the documentary title, even if it may be part of a larger program or standardized manual.  Anything different from a standard approach may be rejected and not scored."
+630e8a7d300000e3fbb385cd,,130749,question,questionText,37122,form,"Please upload a policy statement / document related to the prevention of modern slavery, forced labor and human trafficking:"
+630e8a7d300000e3fbb385ce,,130750,question,questionText,37122,form,Please explain why there is no policy / statement currently in place.
+630e8a7d300000e3fbb385ce,,130750,question,responseOption1,37122,form,Company believes this policy is not required based on current scope of work
+630e8a7d300000e3fbb385ce,,130750,question,responseOption2,37122,form,Company does not believe it is big enough to justify this category/type of policy
+630e8a7d300000e3fbb385ce,,130750,question,responseOption3,37122,form,Current company management programs currently under review
+630e8a7d300000e3fbb385ce,,130750,question,responseOption4,37122,form,Company currently developing modern slavery statement/policy and it will be implemented within the next 12 months
+630e8a7d300000e3fbb385ce,,130750,question,responseOption5,37122,form,Company currently developing modern slavery statement/policy and it will be implemented within the next 6 months
+630e8a7d300000e3fbb385ce,,130750,question,responseOption6,37122,form,Other
+630e8a7d300000e3fbb385cf,,130751,question,questionText,37122,form,"Can the company confirm that it complies with national and international legislation relating to modern slavery, forced labor, and human trafficking?"
+630e8a7d300000e3fbb385cf,,130751,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385cf,,130751,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385d0,,130752,question,questionText,37122,form,"Has the company appointed a senior management representative responsible for the implementation, enforcement and compliance of the company policy statement / management program regarding the prevention of modern slavery and forced labor?\n"
+630e8a7d300000e3fbb385d0,,130752,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385d0,,130752,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385d1,,130753,question,questionText,37122,form,Has the company or any company within the supply chain been found to have identified issues around modern slavery or forced labor?
+630e8a7d300000e3fbb385d1,,130753,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385d1,,130753,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385d2,,130754,question,questionText,37122,form,Issues relating to modern slavery and forced labor were identified:
+630e8a7d300000e3fbb385d2,,130754,question,responseOption1,37122,form,Found within the company
+630e8a7d300000e3fbb385d2,,130754,question,responseOption2,37122,form,Found within the supply chain – direct supplier
+630e8a7d300000e3fbb385d2,,130754,question,responseOption3,37122,form,Found within the supply chain – indirect supplier
+630e8a7d300000e3fbb385d2,,130754,question,responseOption4,37122,form,Found within supply chain – non-contracted supplier
+630e8a7d300000e3fbb385d2,,130754,question,responseOption5,37122,form,Found within primary country of operation
+630e8a7d300000e3fbb385d2,,130754,question,responseOption6,37122,form,Found within international supplier
+630e8a7d300000e3fbb385d2,,130754,question,responseOption7,37122,form,Full investigation undertaken – in-house
+630e8a7d300000e3fbb385d2,,130754,question,responseOption8,37122,form,Full investigation undertaken - independent
+630e8a7d300000e3fbb385d2,,130754,question,responseOption9,37122,form,Other
+630e8a7d300000e3fbb385d3,,130755,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7d300000e3fbb385d3,,130755,question,questionText,37122,form,Other:
+630e8a7d300000e3fbb385d4,,130756,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score."
+630e8a7d300000e3fbb385d4,,130756,question,questionText,37122,form,Other:
+630e8a7d300000e3fbb385d6,,130757,question,questionText,37122,form,Does the company apply a “Code of Conduct”  that all suppliers must acknowledge and adhere to when working and providing their services?
+630e8a7d300000e3fbb385d6,,130757,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385d6,,130757,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385d7,,130758,question,questionText,37122,form,Please confirm how the supplier code of conduct is applied.
+630e8a7d300000e3fbb385d7,,130758,question,responseOption1,37122,form,Applies to all levels of the company's supply chain
+630e8a7d300000e3fbb385d7,,130758,question,responseOption2,37122,form,Content confirms the principles of doing business with the company
+630e8a7d300000e3fbb385d7,,130758,question,responseOption3,37122,form,Includes international suppliers
+630e8a7d300000e3fbb385d7,,130758,question,responseOption4,37122,form,Is publicly available (e.g. displayed on the company's website)
+630e8a7d300000e3fbb385d7,,130758,question,responseOption5,37122,form,Suppliers do not receive any business if the suppliers do not recognize and accept the requirements of the code
+630e8a7d300000e3fbb385d8,,130759,question,description,37122,form,"To assist the review personnel assessing your company documentation, please ensure the following criteria is met:</br>\n• Company name, or parent company, as recorded within your Avetta account.<br>\n• All information and documents must be submitted in English.<br>\n• All documents must confirm the date they were produced, or subject to review before approval by the company (documents should preferably be no older than 2 years old).<br>\n• Where applicable include a signature of senior member of the management team e.g. CEO / President / Managing Director (Confirming the company intent and motivation to deliver a specific requirement).<br>\n• Uploaded documents and files should be in a searchable text format (PDF, Word, Txt).  Policy and program information found on your company’s website, or via an hyperlink, should be converted and submit as electronic documents. Scanned documents or image captures will be rejected.\n<br>\nInformation provided to support your responses will be assessed based upon the documentary title, even if it may be part of a larger program or standardized manual.  Anything different from a standard approach may be rejected and not scored."
+630e8a7d300000e3fbb385d8,,130759,question,questionText,37122,form,"Please upload a copy of the company ""Supplier Code of Conduct"" issued to all formally engaged suppliers."
+630e8a7d300000e3fbb385d9,,130760,question,questionText,37122,form,Does your company purchase materials and equipment that are used to provide your services / work activities to your clients?
+630e8a7d300000e3fbb385d9,,130760,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385d9,,130760,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385da,,130761,question,questionText,37122,form,"Can the company confirm that any products, goods, or equipment used within its operations are validated as being sourced from suppliers that trade ethically?"
+630e8a7d300000e3fbb385da,,130761,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385da,,130761,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385db,,130762,question,questionText,37122,form,"Programs / processes used to source goods, products, materials, and work equipment to deliver the full range of client based services include:"
+630e8a7d300000e3fbb385db,,130762,question,responseOption1,37122,form,Ethical sourcing questionnaire - desktop only
+630e8a7d300000e3fbb385db,,130762,question,responseOption2,37122,form,Validation of ethical working via an in-house field-based audit
+630e8a7d300000e3fbb385db,,130762,question,responseOption3,37122,form,Validation of ethical working via an independent 3rd party field-based audit
+630e8a7d300000e3fbb385db,,130762,question,responseOption4,37122,form,Use of 3rd party agency/social media to assess potential negative reporting of human rights issues
+630e8a7d300000e3fbb385db,,130762,question,responseOption5,37122,form,Analysis of NGO/local government agency data sites
+630e8a7d300000e3fbb385db,,130762,question,responseOption6,37122,form,Other
+630e8a7d300000e3fbb385dc,,130763,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7d300000e3fbb385dc,,130763,question,questionText,37122,form,Other:
+630e8a7d300000e3fbb385dd,,130764,question,questionText,37122,form,Does the company provide employee / worker training focused on sustainable business practice that includes sourcing and service provision?
+630e8a7d300000e3fbb385dd,,130764,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385dd,,130764,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385de,,130765,question,questionText,37122,form,Please confirm the training methods used to provide sustainable sourcing / service training to employee / worker groups.
+630e8a7d300000e3fbb385de,,130765,question,responseOption1,37122,form,Traditional classroom teaching
+630e8a7d300000e3fbb385de,,130765,question,responseOption10,37122,form,Other
+630e8a7d300000e3fbb385de,,130765,question,responseOption2,37122,form,"E-Learning,  Remote or Virtual Teaching"
+630e8a7d300000e3fbb385de,,130765,question,responseOption3,37122,form,Fund / encourage membership of ethical sourcing organizations
+630e8a7d300000e3fbb385de,,130765,question,responseOption4,37122,form,Company Conference
+630e8a7d300000e3fbb385de,,130765,question,responseOption5,37122,form,Simulation / scenario workshops
+630e8a7d300000e3fbb385de,,130765,question,responseOption6,37122,form,On-the job learning
+630e8a7d300000e3fbb385de,,130765,question,responseOption7,37122,form,Working with experienced coaches / mentors
+630e8a7d300000e3fbb385de,,130765,question,responseOption8,37122,form,Funded academic training / study
+630e8a7d300000e3fbb385de,,130765,question,responseOption9,37122,form,Corporate in-house training
+630e8a7d300000e3fbb385df,,130766,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7d300000e3fbb385df,,130766,question,questionText,37122,form,Other:
+630e8a7d300000e3fbb385e0,,130767,question,questionText,37122,form,Does the company own or operate (directly or via a third party) a production / manufacturing facility?
+630e8a7d300000e3fbb385e0,,130767,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385e0,,130767,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385e1,,130768,question,questionText,37122,form,Please confirm the locations where production facilities are located:
+630e8a7d300000e3fbb385e1,,130768,question,responseOption1,37122,form,Company owns / operates production / manufacturing facilities – Domestic only
+630e8a7d300000e3fbb385e1,,130768,question,responseOption2,37122,form,Company owns / operates production / manufacturing facilities – International
+630e8a7d300000e3fbb385e1,,130768,question,responseOption3,37122,form,Company owns / operates production / manufacturing facilities – Domestic & International
+630e8a7d300000e3fbb385e2,,130769,question,questionText,37122,form,Does the company outsource production of goods or parts that are critical to the services provided by the company?
+630e8a7d300000e3fbb385e2,,130769,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385e2,,130769,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385e3,,130770,question,questionText,37122,form,"Does the company, as part of its supplier evaluation / prequalification process (pre contract and existing suppliers), use sustainability as a criteria for making purchasing decisions?"
+630e8a7d300000e3fbb385e3,,130770,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385e3,,130770,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385e4,,130771,question,questionText,37122,form,Please confirm how / where the company applies sustainability requirements when making purchasing decisions.
+630e8a7d300000e3fbb385e4,,130771,question,responseOption1,37122,form,Sustainability selection criteria applied to all top level tier 1 /  strategic suppliers - domestic 
+630e8a7d300000e3fbb385e4,,130771,question,responseOption2,37122,form,Sustainability selection criteria applied to all top level tier 1 / strategic suppliers - international
+630e8a7d300000e3fbb385e4,,130771,question,responseOption3,37122,form,Sustainability selection criteria applied to all non-strategic domestic suppliers
+630e8a7d300000e3fbb385e4,,130771,question,responseOption4,37122,form,Sustainability selection criteria applied to all non-strategic international suppliers
+630e8a7d300000e3fbb385e4,,130771,question,responseOption5,37122,form,Sustainability applied to indirect supply chain
+630e8a7d300000e3fbb385e4,,130771,question,responseOption6,37122,form,Sustainability applied to direct supply chain
+630e8a7d300000e3fbb385e4,,130771,question,responseOption7,37122,form,Sustainability selection criteria gathered for information only
+630e8a7d300000e3fbb385e4,,130771,question,responseOption8,37122,form,Other
+630e8a7d300000e3fbb385e5,,130772,question,questionText,37122,form,Other:
+630e8a7d300000e3fbb385ea,,130777,question,questionText,37122,form,"Does the company have a Sustainability and / or Environmental, Social & Governance (ESG) management program? "
+630e8a7d300000e3fbb385ea,,130777,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385ea,,130777,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385eb,,130778,question,questionText,37122,form,Please confirm the primary elements found within the program: 
+630e8a7d300000e3fbb385eb,,130778,question,responseOption1,37122,form,Company commitment to reduce its impact on the localised environment as a result of work scope
+630e8a7d300000e3fbb385eb,,130778,question,responseOption10,37122,form,Conduct transparent and ethical business practice (domestic and international)
+630e8a7d300000e3fbb385eb,,130778,question,responseOption11,37122,form,Address recycling / waste reduction program
+630e8a7d300000e3fbb385eb,,130778,question,responseOption12,37122,form,Conserve raw materials
+630e8a7d300000e3fbb385eb,,130778,question,responseOption13,37122,form,"Conserve natural resources e.g., water"
+630e8a7d300000e3fbb385eb,,130778,question,responseOption14,37122,form,Commitment to reduce energy / resource usage
+630e8a7d300000e3fbb385eb,,130778,question,responseOption15,37122,form,Minimize the impact on biodiversity (fauna / flora and wildlife)
+630e8a7d300000e3fbb385eb,,130778,question,responseOption16,37122,form,Support / encourage greater societal and community engagement
+630e8a7d300000e3fbb385eb,,130778,question,responseOption17,37122,form,Other
+630e8a7d300000e3fbb385eb,,130778,question,responseOption2,37122,form,Company commitment to reduce its impact on the global environment as a result of work scope
+630e8a7d300000e3fbb385eb,,130778,question,responseOption3,37122,form,A framework for setting objectives and targets to improve company environmental performance
+630e8a7d300000e3fbb385eb,,130778,question,responseOption4,37122,form,Compliance with environmental laws  for all locations where the company operates
+630e8a7d300000e3fbb385eb,,130778,question,responseOption5,37122,form,Confirm with employees their environmental responsibilities
+630e8a7d300000e3fbb385eb,,130778,question,responseOption6,37122,form,Confirm all environmental impacts have been identified and mitigation (controls) measures implemented
+630e8a7d300000e3fbb385eb,,130778,question,responseOption7,37122,form,Support and uphold human rights  (Internally)
+630e8a7d300000e3fbb385eb,,130778,question,responseOption8,37122,form,Support and uphold human rights (Within the supply chain)
+630e8a7d300000e3fbb385eb,,130778,question,responseOption9,37122,form,"Sourcing / Purchasing practice (raw materials, use of recycled materials, etc)"
+630e8a7d300000e3fbb385ec,,130779,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7d300000e3fbb385ec,,130779,question,questionText,37122,form,Other:
+630e8a7d300000e3fbb385ed,,130780,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7d300000e3fbb385ed,,130780,question,questionText,37122,form,Other:
+630e8a7d300000e3fbb385ee,,130781,question,questionText,37122,form,"Does the company provide training focused on sustainable business practice (including sourcing / service provision) to members of the supply chain (Suppliers, contractors, material provision, manufacturers, etc.)?"
+630e8a7d300000e3fbb385ee,,130781,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385ee,,130781,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385ef,,130782,question,questionText,37122,form,Please confirm the training methodologies used to provide training to members of the supply chain focused on sustainable sourcing and provision of a sustainable service
+630e8a7d300000e3fbb385ef,,130782,question,responseOption1,37122,form,Traditional classroom teaching
+630e8a7d300000e3fbb385ef,,130782,question,responseOption10,37122,form,Other
+630e8a7d300000e3fbb385ef,,130782,question,responseOption11,37122,form,Funded academic training/study
+630e8a7d300000e3fbb385ef,,130782,question,responseOption12,37122,form,Corporate in-house training
+630e8a7d300000e3fbb385ef,,130782,question,responseOption13,37122,form,Provide independent consultancy services to assist suppliers
+630e8a7d300000e3fbb385ef,,130782,question,responseOption14,37122,form,Other
+630e8a7d300000e3fbb385ef,,130782,question,responseOption2,37122,form,"E-Learning,  Remote or Virtual Teaching"
+630e8a7d300000e3fbb385ef,,130782,question,responseOption3,37122,form,Fund / encourage membership of ethical sourcing organizations
+630e8a7d300000e3fbb385ef,,130782,question,responseOption4,37122,form,Company Conference
+630e8a7d300000e3fbb385ef,,130782,question,responseOption5,37122,form,Simulation / scenario workshops
+630e8a7d300000e3fbb385ef,,130782,question,responseOption6,37122,form,On-the job learning
+630e8a7d300000e3fbb385ef,,130782,question,responseOption7,37122,form,Working with experienced coaches/mentors
+630e8a7d300000e3fbb385ef,,130782,question,responseOption8,37122,form,Funded academic training / study
+630e8a7d300000e3fbb385ef,,130782,question,responseOption9,37122,form,Corporate in-house training
+630e8a7d300000e3fbb385f0,,130783,question,questionText,37122,form,Does the company undertake evaluation / due diligence checks on  suppliers to confirm they have undertaken checks on goods / services provided as part of their scope of work is ethically sourced / manufactured?
+630e8a7d300000e3fbb385f0,,130783,question,responseOption1,37122,form,Yes
+630e8a7d300000e3fbb385f0,,130783,question,responseOption2,37122,form,No
+630e8a7d300000e3fbb385f1,,130784,question,questionText,37122,form,Confirm the methods / options used by the company to check goods / services being provided are ethically sourced.
+630e8a7d300000e3fbb385f1,,130784,question,responseOption1,37122,form,Provide supplier with ethical sourcing questionnaire - desktop only.
+630e8a7d300000e3fbb385f1,,130784,question,responseOption2,37122,form,Supplier subject to in-house field-audit focused on ethical working and labour rights.
+630e8a7d300000e3fbb385f1,,130784,question,responseOption3,37122,form,Supplier subject to independent field-audit focused on ethical working and labour rights.
+630e8a7d300000e3fbb385f1,,130784,question,responseOption4,37122,form,Access media to covering negative reporting on labour rights issues.
+630e8a7d300000e3fbb385f1,,130784,question,responseOption5,37122,form,Analysis of NGO / local government agency data sites where supplier based.
+630e8a7d300000e3fbb385f1,,130784,question,responseOption6,37122,form,Use sanction check information from 3rd party agency / social media.
+630e8a7d300000e3fbb385f1,,130784,question,responseOption7,37122,form,Other
+630e8a7d300000e3fbb385f2,,130785,question,questionText,37122,form,Does the company work with suppliers to resolve issues that may have been identified during their ethical sourcing evaluation?\n\nMethods used by the company to assist suppliers to resolve issues / events identified from ethical evaluations:
+630e8a7d300000e3fbb385f2,,130785,question,responseOption1,37122,form,Provide 3rd party / independent support to rectify the issue / event
+630e8a7d300000e3fbb385f2,,130785,question,responseOption2,37122,form,Work directly with supplier to source alternative providers of services / materials
+630e8a7d300000e3fbb385f2,,130785,question,responseOption3,37122,form,Work directly with supplier to initiate action plan to mitigate potential business impact
+630e8a7d300000e3fbb385f2,,130785,question,responseOption4,37122,form,Instruct company legal counsel to advise supplier
+630e8a7d300000e3fbb385f2,,130785,question,responseOption5,37122,form,Initiate business risk mitigation program
+630e8a7d300000e3fbb385f2,,130785,question,responseOption6,37122,form,Other
+630e8a7d300000e3fbb385f3,,130786,question,questionText,37122,form,"Please select the reason(s) why there is no Environmental, Social & Governance (ESG) or Sustainability Program currently in place: "
+630e8a7d300000e3fbb385f3,,130786,question,responseOption1,37122,form,Company believes this program is not required based on current business activity
+630e8a7d300000e3fbb385f3,,130786,question,responseOption2,37122,form,Company believes they are too small (Small number of workers in the business)
+630e8a7d300000e3fbb385f3,,130786,question,responseOption3,37122,form,"Current management program / system currently under review – cannot submit, work in progress"
+630e8a7d300000e3fbb385f3,,130786,question,responseOption4,37122,form,Company currently developing Sustainability / ESG strategy and will have a management program implemented within 12 months
+630e8a7d300000e3fbb385f3,,130786,question,responseOption5,37122,form,Company currently developing Sustainability / ESG strategy and will have a management program implemented within 6 months
+630e8a7d300000e3fbb385f3,,130786,question,responseOption6,37122,form,Other
+630e8a7d300000e3fbb385f4,,130787,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7d300000e3fbb385f4,,130787,question,questionText,37122,form,Other:
+630e8a7d300000e3fbb385f5,,130788,question,questionText,37122,form,Other:
+630e8a7d300000e3fbb385f6,,130789,question,questionText,37122,form,"Please select the relevant countries where you source products / materials either directly via your inhouse procurement or via the services of a third party /agent. First, select the appropriate regional location(s) - You can select multiple locations / countries. "
+630e8a7d300000e3fbb385f6,,130789,question,responseOption1,37122,form,Africa
+630e8a7d300000e3fbb385f6,,130789,question,responseOption2,37122,form,Americas
+630e8a7d300000e3fbb385f6,,130789,question,responseOption3,37122,form,Arab States
+630e8a7d300000e3fbb385f6,,130789,question,responseOption4,37122,form,Asia and the Pacific
+630e8a7d300000e3fbb385f6,,130789,question,responseOption5,37122,form,Europe and Central Asia
+630e8a7d300000e3fbb385f7,,130790,question,questionText,37122,form,Africa
+630e8a7d300000e3fbb385f7,,130790,question,responseOption1,37122,form,Algeria
+630e8a7d300000e3fbb385f7,,130790,question,responseOption10,37122,form,Chad
+630e8a7d300000e3fbb385f7,,130790,question,responseOption11,37122,form,Congo
+630e8a7d300000e3fbb385f7,,130790,question,responseOption12,37122,form,Côte d'Ivoire
+630e8a7d300000e3fbb385f7,,130790,question,responseOption13,37122,form,Democratic Republic of the Congo
+630e8a7d300000e3fbb385f7,,130790,question,responseOption14,37122,form,Djibouti
+630e8a7d300000e3fbb385f7,,130790,question,responseOption15,37122,form,Egypt
+630e8a7d300000e3fbb385f7,,130790,question,responseOption16,37122,form,Equatorial Guinea
+630e8a7d300000e3fbb385f7,,130790,question,responseOption17,37122,form,Eritrea
+630e8a7d300000e3fbb385f7,,130790,question,responseOption18,37122,form,Ethiopia
+630e8a7d300000e3fbb385f7,,130790,question,responseOption19,37122,form,Gabon
+630e8a7d300000e3fbb385f7,,130790,question,responseOption2,37122,form,Angola
+630e8a7d300000e3fbb385f7,,130790,question,responseOption20,37122,form,Gambia
+630e8a7d300000e3fbb385f7,,130790,question,responseOption21,37122,form,Ghana
+630e8a7d300000e3fbb385f7,,130790,question,responseOption22,37122,form,Guinea
+630e8a7d300000e3fbb385f7,,130790,question,responseOption23,37122,form,Guinea-Bissau
+630e8a7d300000e3fbb385f7,,130790,question,responseOption24,37122,form,Kenya
+630e8a7d300000e3fbb385f7,,130790,question,responseOption25,37122,form,Lesotho
+630e8a7d300000e3fbb385f7,,130790,question,responseOption26,37122,form,Liberia
+630e8a7d300000e3fbb385f7,,130790,question,responseOption27,37122,form,Libya
+630e8a7d300000e3fbb385f7,,130790,question,responseOption28,37122,form,Madagascar
+630e8a7d300000e3fbb385f7,,130790,question,responseOption29,37122,form,Malawi
+630e8a7d300000e3fbb385f7,,130790,question,responseOption3,37122,form,Benin
+630e8a7d300000e3fbb385f7,,130790,question,responseOption30,37122,form,Mali
+630e8a7d300000e3fbb385f7,,130790,question,responseOption31,37122,form,Mauritania
+630e8a7d300000e3fbb385f7,,130790,question,responseOption32,37122,form,Mauritius
+630e8a7d300000e3fbb385f7,,130790,question,responseOption33,37122,form,Morocco
+630e8a7d300000e3fbb385f7,,130790,question,responseOption34,37122,form,Mozambique
+630e8a7d300000e3fbb385f7,,130790,question,responseOption35,37122,form,Namibia
+630e8a7d300000e3fbb385f7,,130790,question,responseOption36,37122,form,Niger
+630e8a7d300000e3fbb385f7,,130790,question,responseOption37,37122,form,Nigeria
+630e8a7d300000e3fbb385f7,,130790,question,responseOption38,37122,form,Rwanda
+630e8a7d300000e3fbb385f7,,130790,question,responseOption39,37122,form,Senegal
+630e8a7d300000e3fbb385f7,,130790,question,responseOption4,37122,form,Botswana
+630e8a7d300000e3fbb385f7,,130790,question,responseOption40,37122,form,Sierra Leone
+630e8a7d300000e3fbb385f7,,130790,question,responseOption41,37122,form,Somalia
+630e8a7d300000e3fbb385f7,,130790,question,responseOption42,37122,form,South Africa
+630e8a7d300000e3fbb385f7,,130790,question,responseOption43,37122,form,South Sudan
+630e8a7d300000e3fbb385f7,,130790,question,responseOption44,37122,form,Sudan
+630e8a7d300000e3fbb385f7,,130790,question,responseOption45,37122,form,Swaziland
+630e8a7d300000e3fbb385f7,,130790,question,responseOption46,37122,form,Tanzania
+630e8a7d300000e3fbb385f7,,130790,question,responseOption47,37122,form,Togo
+630e8a7d300000e3fbb385f7,,130790,question,responseOption48,37122,form,Tunisia
+630e8a7d300000e3fbb385f7,,130790,question,responseOption49,37122,form,Uganda
+630e8a7d300000e3fbb385f7,,130790,question,responseOption5,37122,form,Burkina Faso
+630e8a7d300000e3fbb385f7,,130790,question,responseOption50,37122,form,Zambia
+630e8a7d300000e3fbb385f7,,130790,question,responseOption51,37122,form,Zimbabwe
+630e8a7d300000e3fbb385f7,,130790,question,responseOption6,37122,form,Burundi
+630e8a7d300000e3fbb385f7,,130790,question,responseOption7,37122,form,Cameroon
+630e8a7d300000e3fbb385f7,,130790,question,responseOption8,37122,form,Cape Verde
+630e8a7d300000e3fbb385f7,,130790,question,responseOption9,37122,form,Central African Republic
+630e8a7d300000e3fbb385f8,,130791,question,questionText,37122,form,Americas
+630e8a7d300000e3fbb385f8,,130791,question,responseOption1,37122,form,Barbados
+630e8a7d300000e3fbb385f8,,130791,question,responseOption10,37122,form,Ecuador
+630e8a7d300000e3fbb385f8,,130791,question,responseOption11,37122,form,El Salvador
+630e8a7d300000e3fbb385f8,,130791,question,responseOption12,37122,form,Guatemala
+630e8a7d300000e3fbb385f8,,130791,question,responseOption13,37122,form,Guyana
+630e8a7d300000e3fbb385f8,,130791,question,responseOption14,37122,form,Haiti
+630e8a7d300000e3fbb385f8,,130791,question,responseOption15,37122,form,Honduras
+630e8a7d300000e3fbb385f8,,130791,question,responseOption16,37122,form,Jamaica
+630e8a7d300000e3fbb385f8,,130791,question,responseOption17,37122,form,Mexico
+630e8a7d300000e3fbb385f8,,130791,question,responseOption18,37122,form,Nicaragua
+630e8a7d300000e3fbb385f8,,130791,question,responseOption19,37122,form,Panama
+630e8a7d300000e3fbb385f8,,130791,question,responseOption2,37122,form,Bolivia
+630e8a7d300000e3fbb385f8,,130791,question,responseOption20,37122,form,Paraguay
+630e8a7d300000e3fbb385f8,,130791,question,responseOption21,37122,form,Peru
+630e8a7d300000e3fbb385f8,,130791,question,responseOption22,37122,form,Suriname
+630e8a7d300000e3fbb385f8,,130791,question,responseOption23,37122,form,Trinidad and Tobago
+630e8a7d300000e3fbb385f8,,130791,question,responseOption24,37122,form,United States
+630e8a7d300000e3fbb385f8,,130791,question,responseOption25,37122,form,Uruguay
+630e8a7d300000e3fbb385f8,,130791,question,responseOption26,37122,form,Venezuela
+630e8a7d300000e3fbb385f8,,130791,question,responseOption3,37122,form,Brazil
+630e8a7d300000e3fbb385f8,,130791,question,responseOption4,37122,form,Canada
+630e8a7d300000e3fbb385f8,,130791,question,responseOption5,37122,form,Chile
+630e8a7d300000e3fbb385f8,,130791,question,responseOption6,37122,form,Colombia
+630e8a7d300000e3fbb385f8,,130791,question,responseOption7,37122,form,Costa Rica
+630e8a7d300000e3fbb385f8,,130791,question,responseOption8,37122,form,Cuba
+630e8a7d300000e3fbb385f8,,130791,question,responseOption9,37122,form,Dominican Republic
+630e8a7e300000e3fbb385f9,,130792,question,questionText,37122,form,Arab States
+630e8a7e300000e3fbb385f9,,130792,question,responseOption1,37122,form,Bahrain
+630e8a7e300000e3fbb385f9,,130792,question,responseOption10,37122,form,United Arab Emirates
+630e8a7e300000e3fbb385f9,,130792,question,responseOption11,37122,form,Yemen
+630e8a7e300000e3fbb385f9,,130792,question,responseOption2,37122,form,Iraq
+630e8a7e300000e3fbb385f9,,130792,question,responseOption3,37122,form,Jordan
+630e8a7e300000e3fbb385f9,,130792,question,responseOption4,37122,form,Kuwait
+630e8a7e300000e3fbb385f9,,130792,question,responseOption5,37122,form,Lebanon
+630e8a7e300000e3fbb385f9,,130792,question,responseOption6,37122,form,Oman
+630e8a7e300000e3fbb385f9,,130792,question,responseOption7,37122,form,Qatar
+630e8a7e300000e3fbb385f9,,130792,question,responseOption8,37122,form,Saudi Arabia
+630e8a7e300000e3fbb385f9,,130792,question,responseOption9,37122,form,Syrian Arab Republic
+630e8a7e300000e3fbb385fa,,130793,question,questionText,37122,form,Asia and the Pacific
+630e8a7e300000e3fbb385fa,,130793,question,responseOption1,37122,form,Afghanistan
+630e8a7e300000e3fbb385fa,,130793,question,responseOption10,37122,form,Iran
+630e8a7e300000e3fbb385fa,,130793,question,responseOption11,37122,form,Japan
+630e8a7e300000e3fbb385fa,,130793,question,responseOption12,37122,form,Laos
+630e8a7e300000e3fbb385fa,,130793,question,responseOption13,37122,form,Malaysia
+630e8a7e300000e3fbb385fa,,130793,question,responseOption14,37122,form,Mongolia
+630e8a7e300000e3fbb385fa,,130793,question,responseOption15,37122,form,Myanmar
+630e8a7e300000e3fbb385fa,,130793,question,responseOption16,37122,form,Nepal
+630e8a7e300000e3fbb385fa,,130793,question,responseOption17,37122,form,New Zealand
+630e8a7e300000e3fbb385fa,,130793,question,responseOption18,37122,form,North Korea
+630e8a7e300000e3fbb385fa,,130793,question,responseOption19,37122,form,Pakistan
+630e8a7e300000e3fbb385fa,,130793,question,responseOption2,37122,form,Australia
+630e8a7e300000e3fbb385fa,,130793,question,responseOption20,37122,form,Papua New Guinea
+630e8a7e300000e3fbb385fa,,130793,question,responseOption21,37122,form,Philippines
+630e8a7e300000e3fbb385fa,,130793,question,responseOption22,37122,form,Singapore
+630e8a7e300000e3fbb385fa,,130793,question,responseOption23,37122,form,South Korea
+630e8a7e300000e3fbb385fa,,130793,question,responseOption24,37122,form,Sri Lanka
+630e8a7e300000e3fbb385fa,,130793,question,responseOption25,37122,form,"Taiwan, China"
+630e8a7e300000e3fbb385fa,,130793,question,responseOption26,37122,form,Thailand
+630e8a7e300000e3fbb385fa,,130793,question,responseOption27,37122,form,Timor-Leste
+630e8a7e300000e3fbb385fa,,130793,question,responseOption28,37122,form,Viet Nam
+630e8a7e300000e3fbb385fa,,130793,question,responseOption3,37122,form,Bangladesh
+630e8a7e300000e3fbb385fa,,130793,question,responseOption4,37122,form,Brunei Darussalam
+630e8a7e300000e3fbb385fa,,130793,question,responseOption5,37122,form,Cambodia
+630e8a7e300000e3fbb385fa,,130793,question,responseOption6,37122,form,China
+630e8a7e300000e3fbb385fa,,130793,question,responseOption7,37122,form,"Hong Kong, China"
+630e8a7e300000e3fbb385fa,,130793,question,responseOption8,37122,form,India
+630e8a7e300000e3fbb385fa,,130793,question,responseOption9,37122,form,Indonesia
+630e8a7e300000e3fbb385fb,,130794,question,questionText,37122,form,Europe and Central Asia
+630e8a7e300000e3fbb385fb,,130794,question,responseOption1,37122,form,Albania
+630e8a7e300000e3fbb385fb,,130794,question,responseOption10,37122,form,Cyprus
+630e8a7e300000e3fbb385fb,,130794,question,responseOption11,37122,form,Czech Republic
+630e8a7e300000e3fbb385fb,,130794,question,responseOption12,37122,form,Denmark
+630e8a7e300000e3fbb385fb,,130794,question,responseOption13,37122,form,Estonia
+630e8a7e300000e3fbb385fb,,130794,question,responseOption14,37122,form,Finland
+630e8a7e300000e3fbb385fb,,130794,question,responseOption15,37122,form,France
+630e8a7e300000e3fbb385fb,,130794,question,responseOption16,37122,form,Georgia
+630e8a7e300000e3fbb385fb,,130794,question,responseOption17,37122,form,Germany
+630e8a7e300000e3fbb385fb,,130794,question,responseOption18,37122,form,Greece
+630e8a7e300000e3fbb385fb,,130794,question,responseOption19,37122,form,Hungary
+630e8a7e300000e3fbb385fb,,130794,question,responseOption2,37122,form,Armenia
+630e8a7e300000e3fbb385fb,,130794,question,responseOption20,37122,form,Iceland
+630e8a7e300000e3fbb385fb,,130794,question,responseOption21,37122,form,Ireland
+630e8a7e300000e3fbb385fb,,130794,question,responseOption22,37122,form,Israel
+630e8a7e300000e3fbb385fb,,130794,question,responseOption23,37122,form,Italy
+630e8a7e300000e3fbb385fb,,130794,question,responseOption24,37122,form,Kazakhstan
+630e8a7e300000e3fbb385fb,,130794,question,responseOption25,37122,form,Kosovo
+630e8a7e300000e3fbb385fb,,130794,question,responseOption26,37122,form,Kyrgyzstan
+630e8a7e300000e3fbb385fb,,130794,question,responseOption27,37122,form,Latvia
+630e8a7e300000e3fbb385fb,,130794,question,responseOption28,37122,form,Lithuania
+630e8a7e300000e3fbb385fb,,130794,question,responseOption29,37122,form,Luxembourg
+630e8a7e300000e3fbb385fb,,130794,question,responseOption3,37122,form,Austria
+630e8a7e300000e3fbb385fb,,130794,question,responseOption30,37122,form,Macedonia
+630e8a7e300000e3fbb385fb,,130794,question,responseOption31,37122,form,Montenegro
+630e8a7e300000e3fbb385fb,,130794,question,responseOption32,37122,form,Netherlands
+630e8a7e300000e3fbb385fb,,130794,question,responseOption33,37122,form,Norway
+630e8a7e300000e3fbb385fb,,130794,question,responseOption34,37122,form,Poland
+630e8a7e300000e3fbb385fb,,130794,question,responseOption35,37122,form,Portugal
+630e8a7e300000e3fbb385fb,,130794,question,responseOption36,37122,form,Republic of Moldova
+630e8a7e300000e3fbb385fb,,130794,question,responseOption37,37122,form,Romania
+630e8a7e300000e3fbb385fb,,130794,question,responseOption38,37122,form,Russian Federation
+630e8a7e300000e3fbb385fb,,130794,question,responseOption39,37122,form,Serbia
+630e8a7e300000e3fbb385fb,,130794,question,responseOption4,37122,form,Azerbaijan
+630e8a7e300000e3fbb385fb,,130794,question,responseOption40,37122,form,Slovakia
+630e8a7e300000e3fbb385fb,,130794,question,responseOption41,37122,form,Slovenia
+630e8a7e300000e3fbb385fb,,130794,question,responseOption42,37122,form,Spain
+630e8a7e300000e3fbb385fb,,130794,question,responseOption43,37122,form,Sweden
+630e8a7e300000e3fbb385fb,,130794,question,responseOption44,37122,form,Switzerland
+630e8a7e300000e3fbb385fb,,130794,question,responseOption45,37122,form,Tajikistan
+630e8a7e300000e3fbb385fb,,130794,question,responseOption46,37122,form,Turkey
+630e8a7e300000e3fbb385fb,,130794,question,responseOption47,37122,form,Turkmenistan
+630e8a7e300000e3fbb385fb,,130794,question,responseOption48,37122,form,Ukraine
+630e8a7e300000e3fbb385fb,,130794,question,responseOption49,37122,form,United Kingdom
+630e8a7e300000e3fbb385fb,,130794,question,responseOption5,37122,form,Belarus
+630e8a7e300000e3fbb385fb,,130794,question,responseOption50,37122,form,Uzbekistan
+630e8a7e300000e3fbb385fb,,130794,question,responseOption6,37122,form,Belgium
+630e8a7e300000e3fbb385fb,,130794,question,responseOption7,37122,form,Bosnia and Herzegovina
+630e8a7e300000e3fbb385fb,,130794,question,responseOption8,37122,form,Bulgaria
+630e8a7e300000e3fbb385fb,,130794,question,responseOption9,37122,form,Croatia
+630e8a7e300000e3fbb385fd,,130795,question,questionText,37122,form,Can the company confirm that as part of its supplier due diligence (Checking / Evaluation) program that it verifies if the supplier has an environmental management system in place?
+630e8a7e300000e3fbb385fd,,130795,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb385fd,,130795,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb385fe,,130796,question,questionText,37122,form,"Does the company's supplier due diligence / evaluation process check the suppliers environmental management system has the capacity to identify, measure and mitigate all foreseeable environmental impacts created by their work activity / service?"
+630e8a7e300000e3fbb385fe,,130796,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb385fe,,130796,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb385ff,,130797,question,description,37122,form,"(e.g., sourcing raw materials / processing / manufacturing / production / assembly and transportation)"
+630e8a7e300000e3fbb385ff,,130797,question,questionText,37122,form,"Can the company confirm, when evaluating suppliers / subcontractors producing / manufacturing goods for the  company, that the evaluation process confirms they comply with applicable environmental regulatory requirements."
+630e8a7e300000e3fbb385ff,,130797,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb385ff,,130797,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb38600,,130798,question,questionText,37122,form,"Please confirm, as part of the company supplier evaluation process, an assessment of the different regulatory / industry requirements applicable to the supplier is verified:"
+630e8a7e300000e3fbb38600,,130798,question,responseOption1,37122,form,International laws (Where applicable)
+630e8a7e300000e3fbb38600,,130798,question,responseOption2,37122,form,National / Country Specific laws
+630e8a7e300000e3fbb38600,,130798,question,responseOption3,37122,form,Province / State laws
+630e8a7e300000e3fbb38600,,130798,question,responseOption4,37122,form,Local / Municipal laws
+630e8a7e300000e3fbb38600,,130798,question,responseOption5,37122,form,Contract specific requirements
+630e8a7e300000e3fbb38600,,130798,question,responseOption6,37122,form,Industry best practice
+630e8a7e300000e3fbb38600,,130798,question,responseOption7,37122,form,Corporate / Company Initiative
+630e8a7e300000e3fbb38600,,130798,question,responseOption8,37122,form,Other
+630e8a7e300000e3fbb38601,,130799,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7e300000e3fbb38601,,130799,question,questionText,37122,form,Other:
+630e8a7e300000e3fbb38602,,130800,question,description,37122,form,"Management programs to conserve resources such as water, reduce and segregate waste, recycling, use of renewable energy, reduction in fossil fuel usage, etc."
+630e8a7e300000e3fbb38602,,130800,question,questionText,37122,form,Can the company confirm the scope of work / services is delivered using the most efficient environmental best practices.
+630e8a7e300000e3fbb38602,,130800,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38602,,130800,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb38603,,130801,question,questionText,37122,form,Please confirm examples of environmental best practice to deliver the company work scope.
+630e8a7e300000e3fbb38603,,130801,question,responseOption1,37122,form,Manage renewable resources - sourcing
+630e8a7e300000e3fbb38603,,130801,question,responseOption10,37122,form,Water Efficiency - Manufacturing process
+630e8a7e300000e3fbb38603,,130801,question,responseOption11,37122,form,Reduce air contaminants
+630e8a7e300000e3fbb38603,,130801,question,responseOption12,37122,form,Monitor and track greenhouse gas emissions
+630e8a7e300000e3fbb38603,,130801,question,responseOption13,37122,form,"Green initiatives (e.g. circular economy, recycling)"
+630e8a7e300000e3fbb38603,,130801,question,responseOption14,37122,form,Reduce hazardous waste
+630e8a7e300000e3fbb38603,,130801,question,responseOption15,37122,form,Source alternative materials
+630e8a7e300000e3fbb38603,,130801,question,responseOption16,37122,form,Implement 3rd-party certification program
+630e8a7e300000e3fbb38603,,130801,question,responseOption17,37122,form,Other
+630e8a7e300000e3fbb38603,,130801,question,responseOption2,37122,form,Manage renewable resources - utilization
+630e8a7e300000e3fbb38603,,130801,question,responseOption3,37122,form,Energy Efficiency - Office Buildings
+630e8a7e300000e3fbb38603,,130801,question,responseOption4,37122,form,Energy Efficiency - Company transportation
+630e8a7e300000e3fbb38603,,130801,question,responseOption5,37122,form,Energy Efficiency - Work site operations
+630e8a7e300000e3fbb38603,,130801,question,responseOption6,37122,form,Energy Efficiency - Manufacturing process
+630e8a7e300000e3fbb38603,,130801,question,responseOption7,37122,form,Water Efficiency Management
+630e8a7e300000e3fbb38603,,130801,question,responseOption8,37122,form,Water Efficiency - Office Buildings
+630e8a7e300000e3fbb38603,,130801,question,responseOption9,37122,form,Water Efficiency - Work site operations
+630e8a7e300000e3fbb38604,,130802,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7e300000e3fbb38604,,130802,question,questionText,37122,form,Other:
+630e8a7e300000e3fbb38605,,130803,question,description,37122,form,"To assist the review personnel assessing your company documentation, please ensure the following criteria is met:</br>\n• Company name, or parent company, as recorded within your Avetta account.<br>\n• All information and documents must be submitted in English.<br>\n• All documents must confirm the date they were produced, or subject to review before approval by the company (documents should preferably be no older than 2 years old).<br>\n• Where applicable include a signature of senior member of the management team e.g. CEO / President / Managing Director (Confirming the company intent and motivation to deliver a specific requirement).<br>\n• Uploaded documents and files should be in a searchable text format (PDF, Word, Txt).  Policy and program information found on your company’s website, or via an hyperlink, should be converted and submit as electronic documents. Scanned documents or image captures will be rejected.<br>\nInformation provided to support your responses will be assessed based upon the documentary title, even if it may be part of a larger program or standardized manual.  Anything different from a standard approach may be rejected and not scored."
+630e8a7e300000e3fbb38605,,130803,question,questionText,37122,form,"Please upload examples of positive environmental impacts as a result of implementing best practices (e.g. case studies, social media, company reports, industry award, etc.)"
+630e8a7e300000e3fbb38606,,130804,question,questionText,37122,form,Please confirm why the company does not include any verification of the suppliers environmental management programs when evaluating them as part of the prequalification process.
+630e8a7e300000e3fbb38606,,130804,question,responseOption1,37122,form,The client (Organization that has placed the contract with the company) take responsibility for conducting this type of check
+630e8a7e300000e3fbb38606,,130804,question,responseOption2,37122,form,Environmental compliance is not part of the supplier verification process
+630e8a7e300000e3fbb38606,,130804,question,responseOption3,37122,form,The company does not understand / requires to know what impact suppliers have on the environment
+630e8a7e300000e3fbb38606,,130804,question,responseOption4,37122,form,Other
+630e8a7e300000e3fbb38607,,130805,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7e300000e3fbb38607,,130805,question,questionText,37122,form,Other: 
+630e8a7e300000e3fbb38609,,130806,question,description,37122,form,"A living-wage provides workers with an income level that allows them to pay for adequate housing / shelter, food and essentials e.g., basic medical care. This should not be confused with a minimum wage that may be regulated / mandated by a government agency. The living wage normally exceeds the minimum level."
+630e8a7e300000e3fbb38609,,130806,question,questionText,37122,form,Does the company pay workers a “living-wage”  in the country of operation?
+630e8a7e300000e3fbb38609,,130806,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38609,,130806,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb3860a,,130807,question,questionText,37122,form,Can your company demonstrate workers are paid the national minimum wage in the country of operation?
+630e8a7e300000e3fbb3860a,,130807,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb3860a,,130807,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb3860a,,130807,question,responseOption3,37122,form,N/A
+630e8a7e300000e3fbb3860b,,130808,question,questionText,37122,form,Please explain why the company does not pay the minimum wage as part of the remuneration payment of workers:
+630e8a7e300000e3fbb3860b,,130808,question,responseOption1,37122,form,All company workers are paid in excess of the minimum wage
+630e8a7e300000e3fbb3860b,,130808,question,responseOption2,37122,form,All company workers are paid in excess of the minimum wage (living wage only)
+630e8a7e300000e3fbb3860b,,130808,question,responseOption3,37122,form,No mandatory minimum wage required in country of operation
+630e8a7e300000e3fbb3860b,,130808,question,responseOption4,37122,form,"Wages calculated based upon production process and worker performance/individual output e.g., piecework"
+630e8a7e300000e3fbb3860b,,130808,question,responseOption5,37122,form,Other
+630e8a7e300000e3fbb3860c,,130809,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7e300000e3fbb3860c,,130809,question,questionText,37122,form,Other:
+630e8a7e300000e3fbb3860e,,130810,question,questionText,37122,form,Can the company demonstrate that it offers employees / workers flexible working hours?
+630e8a7e300000e3fbb3860e,,130810,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb3860e,,130810,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb3860f,,130811,question,questionText,37122,form,Please confirm the different types of flexible working offered to the workforce:
+630e8a7e300000e3fbb3860f,,130811,question,responseOption1,37122,form,Flexi-time
+630e8a7e300000e3fbb3860f,,130811,question,responseOption10,37122,form,Other
+630e8a7e300000e3fbb3860f,,130811,question,responseOption11,37122,form,Other
+630e8a7e300000e3fbb3860f,,130811,question,responseOption2,37122,form,Individualized working hours
+630e8a7e300000e3fbb3860f,,130811,question,responseOption3,37122,form,Remote working / telecommunication
+630e8a7e300000e3fbb3860f,,130811,question,responseOption4,37122,form,Job Share
+630e8a7e300000e3fbb3860f,,130811,question,responseOption5,37122,form,Flexible work locations
+630e8a7e300000e3fbb3860f,,130811,question,responseOption6,37122,form,Annualized hours
+630e8a7e300000e3fbb3860f,,130811,question,responseOption7,37122,form,Part Time
+630e8a7e300000e3fbb3860f,,130811,question,responseOption8,37122,form,Compressed hours (e.g. work contracted / agreed hours over fewer days)
+630e8a7e300000e3fbb3860f,,130811,question,responseOption9,37122,form,Phased Retirement
+630e8a7e300000e3fbb38610,,130812,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7e300000e3fbb38610,,130812,question,questionText,37122,form,Other:
+630e8a7e300000e3fbb38611,,130813,question,questionText,37122,form,Does the company use workers employed with a zero hours contract / casual employment contract in any part of the business?
+630e8a7e300000e3fbb38611,,130813,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38611,,130813,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb38612,,130814,question,questionText,37122,form,Please confirm the percentage of the workforce that have been issued with a zero hours / casual work contracts:
+630e8a7e300000e3fbb38612,,130814,question,responseOption1,37122,form,0 (No zero hours contract or casual contract in place)
+630e8a7e300000e3fbb38612,,130814,question,responseOption10,37122,form,81-90 %
+630e8a7e300000e3fbb38612,,130814,question,responseOption11,37122,form,91-100 %
+630e8a7e300000e3fbb38612,,130814,question,responseOption2,37122,form,1-10 %
+630e8a7e300000e3fbb38612,,130814,question,responseOption3,37122,form,11-20 %
+630e8a7e300000e3fbb38612,,130814,question,responseOption4,37122,form,21-30 %
+630e8a7e300000e3fbb38612,,130814,question,responseOption5,37122,form,31-40 %
+630e8a7e300000e3fbb38612,,130814,question,responseOption6,37122,form,41-50 %
+630e8a7e300000e3fbb38612,,130814,question,responseOption7,37122,form,51-60 %
+630e8a7e300000e3fbb38612,,130814,question,responseOption8,37122,form,61-70 %
+630e8a7e300000e3fbb38612,,130814,question,responseOption9,37122,form,71-80 %
+630e8a7e300000e3fbb38613,,130815,question,description,37122,form,"There are different options the supplier can use, direct employment, employment agencies, casual employment contracts, zero-hours contracts, sub contracted labor, day labor, etc."
+630e8a7e300000e3fbb38613,,130815,question,questionText,37122,form,Can the company confirm that as part of the supplier prequalification / evaluation process the employment status of their workforce  is confirmed?
+630e8a7e300000e3fbb38613,,130815,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38613,,130815,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb38614,,130816,question,questionText,37122,form,Can the company confirm there are controls (automated / physical) and management procedures to prevent workers from working excessive hours (site based / manufacturing operations and administrative locations)?
+630e8a7e300000e3fbb38614,,130816,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38614,,130816,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb38615,,130817,question,questionText,37122,form,The company does not offer flexible working hours as other options are in place:
+630e8a7e300000e3fbb38615,,130817,question,responseOption1,37122,form,Fixed shift patterns
+630e8a7e300000e3fbb38615,,130817,question,responseOption2,37122,form,Company premises have restricted access and require set working times
+630e8a7e300000e3fbb38615,,130817,question,responseOption3,37122,form,Other
+630e8a7e300000e3fbb38616,,130818,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7e300000e3fbb38616,,130818,question,questionText,37122,form,Other:
+630e8a7e300000e3fbb38618,,130819,question,questionText,37122,form,Does the company track/monitor and analyze greenhouse gas emissions (GHG)?
+630e8a7e300000e3fbb38618,,130819,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38618,,130819,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb38619,,130820,question,questionText,37122,form,Please confirm monitoring frequency:
+630e8a7e300000e3fbb38619,,130820,question,responseOption1,37122,form,Greenhouse gases (GHG) monitored annually
+630e8a7e300000e3fbb38619,,130820,question,responseOption2,37122,form,Greenhouse gases (GHG) monitored monthly
+630e8a7e300000e3fbb38619,,130820,question,responseOption3,37122,form,Greenhouse gases (GHG) monitored both monthly and annually
+630e8a7e300000e3fbb38619,,130820,question,responseOption4,37122,form,Other
+630e8a7e300000e3fbb3861a,,130821,question,questionText,37122,form,"Please confirm which category of emissions are tracked, monitored, and subject to analysis:"
+630e8a7e300000e3fbb3861a,,130821,question,responseOption1,37122,form,Scope 1
+630e8a7e300000e3fbb3861a,,130821,question,responseOption2,37122,form,Scope 2
+630e8a7e300000e3fbb3861a,,130821,question,responseOption3,37122,form,Scope 3
+630e8a7e300000e3fbb3861b,,130822,question,questionText,37122,form,Which gases are tracked/monitored and analyzed?
+630e8a7e300000e3fbb3861b,,130822,question,responseOption1,37122,form,Carbon dioxide (CO2)
+630e8a7e300000e3fbb3861b,,130822,question,responseOption2,37122,form,Methane (CH4)
+630e8a7e300000e3fbb3861b,,130822,question,responseOption3,37122,form,Hydrofluorocarbons (HFCs)
+630e8a7e300000e3fbb3861b,,130822,question,responseOption4,37122,form,Nitrous oxide (N2O)
+630e8a7e300000e3fbb3861b,,130822,question,responseOption5,37122,form,Perfluorocarbons (PFCs)
+630e8a7e300000e3fbb3861b,,130822,question,responseOption6,37122,form,Sulphur hexafluoride (SF6)19
+630e8a7e300000e3fbb3861b,,130822,question,responseOption7,37122,form,Other
+630e8a7e300000e3fbb3861c,,130823,question,questionText,37122,form,"Please confirm why the company does not track, monitor, and analyze greenhouse gas emissions."
+630e8a7e300000e3fbb3861c,,130823,question,responseOption1,37122,form,Do not believe there is any value in doing this process
+630e8a7e300000e3fbb3861c,,130823,question,responseOption2,37122,form,Do not think the company is large enough to justify the requirement
+630e8a7e300000e3fbb3861c,,130823,question,responseOption3,37122,form,Working on developing a system that will be introduced within 6 months
+630e8a7e300000e3fbb3861c,,130823,question,responseOption4,37122,form,Working on developing a system that will be introduced within 1 year
+630e8a7e300000e3fbb3861c,,130823,question,responseOption5,37122,form,Other
+630e8a7e300000e3fbb3861d,,130824,question,questionText,37122,form,Other:
+630e8a7e300000e3fbb3861e,,130825,question,questionText,37122,form,Has the company set greenhouse gas emissions (GHG) targets?
+630e8a7e300000e3fbb3861e,,130825,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb3861e,,130825,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb3861f,,130826,question,questionText,37122,form,What is the company's total annual greenhouse gas emissions / gross figure in tons of CO2e in the last calendar year?
+630e8a7e300000e3fbb38620,,130827,question,questionText,37122,form,Are your GHG emission targets publicly available?
+630e8a7e300000e3fbb38620,,130827,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38620,,130827,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb38621,,130828,question,questionText,37122,form,Does the company have all emissions data verified?
+630e8a7e300000e3fbb38621,,130828,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38621,,130828,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb38622,,130829,question,questionText,37122,form,Does the company monitor business travel greenhouse gas emissions?
+630e8a7e300000e3fbb38622,,130829,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38622,,130829,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb38623,,130830,question,description,37122,form,"E.g., Streamlined Energy and Carbon Reporting (SECR), Carbon Disclosure Project (CDP), Greenhouse Gas Reporting Program (GHGRP), National Greenhouse and Energy Reporting (NGER), etc."
+630e8a7e300000e3fbb38623,,130830,question,questionText,37122,form,Is your company mandated to report greenhouse gases (GHG) emissions and energy use?
+630e8a7e300000e3fbb38623,,130830,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38623,,130830,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb38624,,130831,question,description,37122,form,"To assist the review personnel assessing your company documentation, please ensure the following criteria is met:</br>\n• Company name, or parent company, as recorded within your Avetta account.<br>\n• All information and documents must be submitted in English.<br>\n• All documents must confirm the date they were produced, or subject to review before approval by the company (documents should preferably be no older than 2 years old).<br>\n• Where applicable include a signature of senior member of the management team e.g. CEO / President / Managing Director (Confirming the company intent and motivation to deliver a specific requirement).<br>\n• Uploaded documents and files should be in a searchable text format (PDF, Word, Txt).  Policy and program information found on your company’s website, or via an hyperlink, should be converted and submit as electronic documents. Scanned documents or image captures will be rejected.<br>\nInformation provided to support your responses will be assessed based upon the documentary title, even if it may be part of a larger program or standardized manual.  Anything different from a standard approach may be rejected and not scored."
+630e8a7e300000e3fbb38624,,130831,question,questionText,37122,form,Please upload the most recent greenhouse gas (GHG) emission company report.
+630e8a7e300000e3fbb38625,,130832,question,questionText,37122,form,Has the company made a commitment to carbon neutral and / or net zero goals?
+630e8a7e300000e3fbb38625,,130832,question,responseOption1,37122,form,Carbon Neutral only
+630e8a7e300000e3fbb38625,,130832,question,responseOption2,37122,form,Net Zero only
+630e8a7e300000e3fbb38625,,130832,question,responseOption3,37122,form,Carbon Neutral and Net Zero
+630e8a7e300000e3fbb38625,,130832,question,responseOption4,37122,form,None
+630e8a7e300000e3fbb38626,,130833,question,questionText,37122,form,Has the company confirmed the carbon neutral and / or net zero commitment publicly or via a third party?
+630e8a7e300000e3fbb38626,,130833,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38626,,130833,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb38627,,130834,question,questionText,37122,form,Please explain why the company is not committed to carbon neutral or net zero:
+630e8a7e300000e3fbb38627,,130834,question,responseOption1,37122,form,Do not believe the company is large enough
+630e8a7e300000e3fbb38627,,130834,question,responseOption2,37122,form,Do not believe that the company services/work scope impacts upon climate change
+630e8a7e300000e3fbb38627,,130834,question,responseOption3,37122,form,Company currently assessing environmental impacts and making an assessment specific to climate change with plans to implement policy and change strategy within next 6 months
+630e8a7e300000e3fbb38627,,130834,question,responseOption4,37122,form,Company currently assessing environmental impacts and making an assessment specific to climate change with plans to implement policy and change strategy within 1 year
+630e8a7e300000e3fbb38627,,130834,question,responseOption5,37122,form,Company has not enough financial resources or access to necessary expertise
+630e8a7e300000e3fbb38627,,130834,question,responseOption6,37122,form,Other
+630e8a7e300000e3fbb38628,,130835,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7e300000e3fbb38628,,130835,question,questionText,37122,form,Other:
+630e8a7e300000e3fbb38629,,130836,question,questionText,37122,form,Does the company have a Climate Change Policy or position statement around GHG or reduction targets in the company's carbon footprint?
+630e8a7e300000e3fbb38629,,130836,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38629,,130836,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb3862a,,130837,question,description,37122,form,"To assist the review personnel assessing your company documentation, please ensure the following criteria is met:</br>\n• Company name, or parent company, as recorded within your Avetta account.<br>\n• All information and documents must be submitted in English.<br>\n• All documents must confirm the date they were produced, or subject to review before approval by the company (documents should preferably be no older than 2 years old).<br>\n• Where applicable include a signature of senior member of the management team e.g. CEO / President / Managing Director (Confirming the company intent and motivation to deliver a specific requirement).<br>\n• Uploaded documents and files should be in a searchable text format (PDF, Word, Txt).  Policy and program information found on your company’s website, or via an hyperlink, should be converted and submit as electronic documents. Scanned documents or image captures will be rejected.<br>\nInformation provided to support your responses will be assessed based upon the documentary title, even if it may be part of a larger program or standardized manual.  Anything different from a standard approach may be rejected and not scored."
+630e8a7e300000e3fbb3862a,,130837,question,questionText,37122,form,Please upload the company Climate Change Policy or position statement around GHG or reduction targets: 
+630e8a7e300000e3fbb3862b,,130838,question,questionText,37122,form,Please confirm why the company does not have a Climate Change policy or position statement.
+630e8a7e300000e3fbb3862b,,130838,question,responseOption1,37122,form,Do not believe the company is large enough to justify having this documentation in place
+630e8a7e300000e3fbb3862b,,130838,question,responseOption2,37122,form,Do not believe that the company services/work scope impact upon climate change
+630e8a7e300000e3fbb3862b,,130838,question,responseOption3,37122,form,Work under client related programs
+630e8a7e300000e3fbb3862b,,130838,question,responseOption4,37122,form,Company currently assessing environmental impacts and making an assessment specific to climate change with plans to implement policy and change strategy within next 6 months
+630e8a7e300000e3fbb3862b,,130838,question,responseOption5,37122,form,Company currently assessing environmental impacts and making an assessment specific to climate change with plans to implement policy and change strategy within 1 year
+630e8a7e300000e3fbb3862b,,130838,question,responseOption6,37122,form,Other
+630e8a7e300000e3fbb3862c,,130839,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7e300000e3fbb3862c,,130839,question,questionText,37122,form,Other:
+630e8a7e300000e3fbb3862d,,130840,question,description,37122,form,These are suppliers where the company has a formal documented business relationship with specific terms & conditions
+630e8a7e300000e3fbb3862d,,130840,question,questionText,37122,form,Can the company confirm that management controls have been developed and implemented to manage sustainability risks with top level and strategic contracted suppliers?
+630e8a7e300000e3fbb3862d,,130840,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb3862d,,130840,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb3862e,,130841,question,description,37122,form,These are suppliers where the company has a formal documented business relationship with specific terms & conditions
+630e8a7e300000e3fbb3862e,,130841,question,questionText,37122,form,"Please confirm the following sustainability risk elements that have been identified and implemented as a management program, specifically focused on top level and strategic contracted suppliers:"
+630e8a7e300000e3fbb3862e,,130841,question,responseOption1,37122,form,Environmental risks – Related to sourced materials
+630e8a7e300000e3fbb3862e,,130841,question,responseOption10,37122,form,Societal risk – Reduction/removal of hazardous work operations
+630e8a7e300000e3fbb3862e,,130841,question,responseOption11,37122,form,"Compliance with relevant safety, business practice and environmental legislation in countries of operation"
+630e8a7e300000e3fbb3862e,,130841,question,responseOption12,37122,form,Transparent and ethical business practice
+630e8a7e300000e3fbb3862e,,130841,question,responseOption13,37122,form,Other
+630e8a7e300000e3fbb3862e,,130841,question,responseOption2,37122,form,"Environmental risks – Related to process, production and use of materials"
+630e8a7e300000e3fbb3862e,,130841,question,responseOption3,37122,form,Environmental risks – Related to carbon related risk
+630e8a7e300000e3fbb3862e,,130841,question,responseOption4,37122,form,Environmental risk – Use/conservation of water
+630e8a7e300000e3fbb3862e,,130841,question,responseOption5,37122,form,Environmental risk – Waste management
+630e8a7e300000e3fbb3862e,,130841,question,responseOption6,37122,form,Environmental risk – Natural resources
+630e8a7e300000e3fbb3862e,,130841,question,responseOption7,37122,form,"Societal risk - Human rights, labor and working conditions, working hours"
+630e8a7e300000e3fbb3862e,,130841,question,responseOption8,37122,form,Societal risk – Prevention of underage labor/forced labor
+630e8a7e300000e3fbb3862e,,130841,question,responseOption9,37122,form,"Societal risk – Community engagement, Working with local populations, etc."
+630e8a7e300000e3fbb3862f,,130842,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7e300000e3fbb3862f,,130842,question,questionText,37122,form,Other:
+630e8a7e300000e3fbb38633,,130846,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7e300000e3fbb38633,,130846,question,questionText,37122,form,Other:
+630e8a7e300000e3fbb38634,,130847,question,questionText,37122,form,Please indicate which verification process / program is used to verify greenhouse gas (GHG) emission data.
+630e8a7e300000e3fbb38634,,130847,question,responseOption1,37122,form,Independent third party verification – against accredited standard (body accredited to ISO 14065)
+630e8a7e300000e3fbb38634,,130847,question,responseOption2,37122,form,Independent verification – Non-accredited system
+630e8a7e300000e3fbb38634,,130847,question,responseOption3,37122,form,Verified in-house
+630e8a7e300000e3fbb38634,,130847,question,responseOption4,37122,form,Other 
+630e8a7e300000e3fbb38635,,130848,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7e300000e3fbb38635,,130848,question,questionText,37122,form,Other:
+630e8a7e300000e3fbb38636,,130849,question,questionText,37122,form,Reporting process is set where:
+630e8a7e300000e3fbb38636,,130849,question,responseOption1,37122,form,All reporting is voluntary
+630e8a7e300000e3fbb38636,,130849,question,responseOption2,37122,form,All reporting is mandated by localized government requirement
+630e8a7e300000e3fbb38636,,130849,question,responseOption3,37122,form,Reporting requirements based upon country of main operational hubs
+630e8a7e300000e3fbb38637,,130850,question,questionText,37122,form,The timeline or target date for meeting net zero is:
+630e8a7e300000e3fbb38637,,130850,question,responseOption1,37122,form,Present - 2025
+630e8a7e300000e3fbb38637,,130850,question,responseOption2,37122,form,2026 - 2030
+630e8a7e300000e3fbb38637,,130850,question,responseOption3,37122,form,2031 - 2035
+630e8a7e300000e3fbb38637,,130850,question,responseOption4,37122,form,2036 - 2040
+630e8a7e300000e3fbb38637,,130850,question,responseOption5,37122,form,2041 - 2050
+630e8a7e300000e3fbb38637,,130850,question,responseOption6,37122,form,2050+
+630e8a7e300000e3fbb38637,,130850,question,responseOption7,37122,form,Other:
+630e8a7e300000e3fbb38639,,130852,question,questionText,37122,form,Please confirm which category of emissions are tracked/monitored and subject to analysis as part of the net zero commitment:
+630e8a7e300000e3fbb38639,,130852,question,responseOption1,37122,form,Scope 1
+630e8a7e300000e3fbb38639,,130852,question,responseOption2,37122,form,Scope 2
+630e8a7e300000e3fbb38639,,130852,question,responseOption3,37122,form,Scope 3
+630e8a7e300000e3fbb3863b,,130853,question,questionText,37122,form,"Does the company monitor and evaluate diversity, equity and inclusion (DEI) throughout the business?"
+630e8a7e300000e3fbb3863b,,130853,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb3863b,,130853,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb3863c,,130854,question,questionText,37122,form,Diversity and inclusion are monitored by the company within the following areas:
+630e8a7e300000e3fbb3863c,,130854,question,responseOption1,37122,form,Throughout all areas of the company
+630e8a7e300000e3fbb3863c,,130854,question,responseOption10,37122,form,Workplace culture assessments
+630e8a7e300000e3fbb3863c,,130854,question,responseOption11,37122,form,Review of employee resource group (ERG) participation-in company
+630e8a7e300000e3fbb3863c,,130854,question,responseOption12,37122,form,Representing the underrepresented employee groups
+630e8a7e300000e3fbb3863c,,130854,question,responseOption13,37122,form,"All categories of worker / employee group, e.g., full-time, permanent, contract, temporary, etc."
+630e8a7e300000e3fbb3863c,,130854,question,responseOption14,37122,form,Strategic supply chain members
+630e8a7e300000e3fbb3863c,,130854,question,responseOption15,37122,form,"Request information from low level members of the domestic supply chain – level 2.3, etc."
+630e8a7e300000e3fbb3863c,,130854,question,responseOption16,37122,form,"Request information from low level members of the international supply chain – level 2.3, etc."
+630e8a7e300000e3fbb3863c,,130854,question,responseOption17,37122,form,Monitor all categories of supplier for findings of unlawful discrimination confirmed by court/legal due process in the last three years
+630e8a7e300000e3fbb3863c,,130854,question,responseOption18,37122,form,Other
+630e8a7e300000e3fbb3863c,,130854,question,responseOption2,37122,form,Membership of the executive board / team
+630e8a7e300000e3fbb3863c,,130854,question,responseOption3,37122,form,Executive / Senior management recruitment
+630e8a7e300000e3fbb3863c,,130854,question,responseOption4,37122,form,Promotion of workers
+630e8a7e300000e3fbb3863c,,130854,question,responseOption5,37122,form,Retention levels of all groups of workers
+630e8a7e300000e3fbb3863c,,130854,question,responseOption6,37122,form,Recruitment through employment agencies / services
+630e8a7e300000e3fbb3863c,,130854,question,responseOption7,37122,form,Company disciplinary programme
+630e8a7e300000e3fbb3863c,,130854,question,responseOption8,37122,form,Workplace satisfaction
+630e8a7e300000e3fbb3863c,,130854,question,responseOption9,37122,form,Gender breakdown across management levels
+630e8a7e300000e3fbb3863d,,130855,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7e300000e3fbb3863d,,130855,question,questionText,37122,form,Other:
+630e8a7e300000e3fbb3863e,,130856,question,questionText,37122,form,"The company monitors and evaluate the following elements of diversity, equity and inclusion (DEI):"
+630e8a7e300000e3fbb3863e,,130856,question,responseOption1,37122,form,Age group distribution
+630e8a7e300000e3fbb3863e,,130856,question,responseOption10,37122,form,Abilty to communicate (Speak / Read / Write ) official languages where employed
+630e8a7e300000e3fbb3863e,,130856,question,responseOption11,37122,form,Multi-languages proficiency
+630e8a7e300000e3fbb3863e,,130856,question,responseOption12,37122,form,Socio-economic background
+630e8a7e300000e3fbb3863e,,130856,question,responseOption13,37122,form,Criminal record / history
+630e8a7e300000e3fbb3863e,,130856,question,responseOption14,37122,form,Educational level / background
+630e8a7e300000e3fbb3863e,,130856,question,responseOption15,37122,form,Disability status
+630e8a7e300000e3fbb3863e,,130856,question,responseOption16,37122,form,Health status
+630e8a7e300000e3fbb3863e,,130856,question,responseOption17,37122,form,Sexual orientation / Identity
+630e8a7e300000e3fbb3863e,,130856,question,responseOption18,37122,form,Family status
+630e8a7e300000e3fbb3863e,,130856,question,responseOption19,37122,form,Civil status
+630e8a7e300000e3fbb3863e,,130856,question,responseOption2,37122,form,Gender pay gap
+630e8a7e300000e3fbb3863e,,130856,question,responseOption20,37122,form,Caregiver and parental status
+630e8a7e300000e3fbb3863e,,130856,question,responseOption21,37122,form,"Employment status (full time, part-time, flexible working)"
+630e8a7e300000e3fbb3863e,,130856,question,responseOption22,37122,form,Religion / Belief
+630e8a7e300000e3fbb3863e,,130856,question,responseOption23,37122,form,Political /  Belief
+630e8a7e300000e3fbb3863e,,130856,question,responseOption24,37122,form,Veteran status
+630e8a7e300000e3fbb3863e,,130856,question,responseOption25,37122,form,Other
+630e8a7e300000e3fbb3863e,,130856,question,responseOption3,37122,form,Gender Identity
+630e8a7e300000e3fbb3863e,,130856,question,responseOption4,37122,form,Gender Ratio
+630e8a7e300000e3fbb3863e,,130856,question,responseOption5,37122,form,Compensation and Pay Equity Analysis
+630e8a7e300000e3fbb3863e,,130856,question,responseOption6,37122,form,Ethnicity
+630e8a7e300000e3fbb3863e,,130856,question,responseOption7,37122,form,Racial diversity
+630e8a7e300000e3fbb3863e,,130856,question,responseOption8,37122,form,Immigration status
+630e8a7e300000e3fbb3863e,,130856,question,responseOption9,37122,form,Nationality
+630e8a7e300000e3fbb3863f,,130857,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7e300000e3fbb3863f,,130857,question,questionText,37122,form,Other:
+630e8a7e300000e3fbb38640,,130858,question,questionText,37122,form,"Can the company confirm the areas of the business where  the principles of diversity, equity and inclusion (DEI) have been implemented?"
+630e8a7e300000e3fbb38640,,130858,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38640,,130858,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb38641,,130859,question,description,37122,form,"The evidence should demonstrate the commitment and motivation of the leadership and management team, confirming what and how they have applied these practices within the company especially if the legal parameters have been exceeded, communicated throughout the business and if reported to interested parties. Documents from different sources are acceptable."
+630e8a7e300000e3fbb38641,,130859,question,moreDescription,37122,form,"To assist the review personnel assessing your company documentation, please ensure the following criteria is met:</br>\n• Company name, or parent company, as recorded within your Avetta account.<br>\n• All information and documents must be submitted in English.<br>\n• All documents must confirm the date they were produced, or subject to review before approval by the company (documents should preferably be no older than 2 years old).<br>\n• Where applicable include a signature of senior member of the management team e.g. CEO / President / Managing Director (Confirming the company intent and motivation to deliver a specific requirement).<br>\n• Uploaded documents and files should be in a searchable text format (PDF, Word, Txt).  Policy and program information found on your company’s website, or via an hyperlink, should be converted and submit as electronic documents. Scanned documents or image captures will be rejected.<br>\nInformation provided to support your responses will be assessed based upon the documentary title, even if it may be part of a larger program or standardized manual.  Anything different from a standard approach may be rejected and not scored."
+630e8a7e300000e3fbb38641,,130859,question,questionText,37122,form,"Upload a copy of a company policy / mission statement, management process that supports a workplace committed to diversity, equity and inclusion and non-discriminatory practices."
+630e8a7e300000e3fbb38642,,130860,question,description,37122,form,"e.g., company reports, independent assessment or 3rd party certification."
+630e8a7e300000e3fbb38642,,130860,question,questionText,37122,form, Can the company demonstrate and communicate how employee diversity and gender ratios are managed?
+630e8a7e300000e3fbb38642,,130860,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38642,,130860,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb38643,,130861,question,description,37122,form,"This can be a company report, an independent report or verification, 3rd party certification or individual human resource initiatives undertaken by the company. E.g., social media reporting, industry awards, company culture study."
+630e8a7e300000e3fbb38643,,130861,question,moreDescription,37122,form,"To assist the review personnel assessing your company documentation, please ensure the following criteria is met:</br>\n• Company name, or parent company, as recorded within your Avetta account.<br>\n• All information and documents must be submitted in English.<br>\n• All documents must confirm the date they were produced, or subject to review before approval by the company (documents should preferably be no older than 2 years old).<br>\n• Where applicable include a signature of senior member of the management team e.g. CEO / President / Managing Director (Confirming the company intent and motivation to deliver a specific requirement).<br>\n• Uploaded documents and files should be in a searchable text format (PDF, Word, Txt).  Policy and program information found on your company’s website, or via an hyperlink, should be converted and submit as electronic documents. Scanned documents or image captures will be rejected.<br>\nInformation provided to support your responses will be assessed based upon the documentary title, even if it may be part of a larger program or standardized manual.  Anything different from a standard approach may be rejected and not scored."
+630e8a7e300000e3fbb38643,,130861,question,questionText,37122,form,Upload information demonstrating how the company reports on their performance to improve employee diversity and increasing gender ratios throughout the company.
+630e8a7e300000e3fbb38644,,130862,question,description,37122,form,"The breakdown should include the categories of male, female and non-binary, and confirm the different levels within the company up to executive and board level."
+630e8a7e300000e3fbb38644,,130862,question,questionText,37122,form,"Can the company confirm the gender ratio of the general workforce, including the supervisory / management team and the Executive team?"
+630e8a7e300000e3fbb38644,,130862,question,responseOption1,37122,form,Yes
+630e8a7e300000e3fbb38644,,130862,question,responseOption2,37122,form,No
+630e8a7e300000e3fbb38645,,130863,question,questionText,37122,form,Male Ratio (General Workforce)
+630e8a7e300000e3fbb38645,,130863,question,responseOption1,37122,form,0 (No male)
+630e8a7e300000e3fbb38645,,130863,question,responseOption10,37122,form,81-90 %
+630e8a7e300000e3fbb38645,,130863,question,responseOption11,37122,form,91-100 %
+630e8a7e300000e3fbb38645,,130863,question,responseOption2,37122,form,1-10 %
+630e8a7e300000e3fbb38645,,130863,question,responseOption3,37122,form,11-20 %
+630e8a7e300000e3fbb38645,,130863,question,responseOption4,37122,form,21-30 %
+630e8a7e300000e3fbb38645,,130863,question,responseOption5,37122,form,31-40 %
+630e8a7e300000e3fbb38645,,130863,question,responseOption6,37122,form,41-50 %
+630e8a7e300000e3fbb38645,,130863,question,responseOption7,37122,form,51-60 %
+630e8a7e300000e3fbb38645,,130863,question,responseOption8,37122,form,61-70 %
+630e8a7e300000e3fbb38645,,130863,question,responseOption9,37122,form,71-80 %
+630e8a7f300000e3fbb38646,,130864,question,questionText,37122,form,Male Ratio (Executives)
+630e8a7f300000e3fbb38646,,130864,question,responseOption1,37122,form,0 (No male)
+630e8a7f300000e3fbb38646,,130864,question,responseOption10,37122,form,81-90 %
+630e8a7f300000e3fbb38646,,130864,question,responseOption11,37122,form,91-100 %
+630e8a7f300000e3fbb38646,,130864,question,responseOption2,37122,form,1-10 %
+630e8a7f300000e3fbb38646,,130864,question,responseOption3,37122,form,11-20 %
+630e8a7f300000e3fbb38646,,130864,question,responseOption4,37122,form,21-30 %
+630e8a7f300000e3fbb38646,,130864,question,responseOption5,37122,form,31-40 %
+630e8a7f300000e3fbb38646,,130864,question,responseOption6,37122,form,41-50 %
+630e8a7f300000e3fbb38646,,130864,question,responseOption7,37122,form,51-60 %
+630e8a7f300000e3fbb38646,,130864,question,responseOption8,37122,form,61-70 %
+630e8a7f300000e3fbb38646,,130864,question,responseOption9,37122,form,71-80 %
+630e8a7f300000e3fbb38647,,130865,question,questionText,37122,form,Can the company confirm what factors are used when calculating gender pay gap calculations?
+630e8a7f300000e3fbb38647,,130865,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb38647,,130865,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb38648,,130866,question,questionText,37122,form,Factors used by company to calculate the gender pay gaps:
+630e8a7f300000e3fbb38648,,130866,question,responseOption1,37122,form,Review applicable employees – Receive full-time hours / pay
+630e8a7f300000e3fbb38648,,130866,question,responseOption2,37122,form,Review applicable employees – Receive part-time hours / pay
+630e8a7f300000e3fbb38648,,130866,question,responseOption3,37122,form,Confirm gender of all employee’s full-time hours / pay
+630e8a7f300000e3fbb38648,,130866,question,responseOption4,37122,form,Confirm gender of all employee’s part-time hours / pay
+630e8a7f300000e3fbb38648,,130866,question,responseOption5,37122,form,Complete and review records of bonuses received – full time workers
+630e8a7f300000e3fbb38648,,130866,question,responseOption6,37122,form,Complete and review records of bonuses received – part-time workers
+630e8a7f300000e3fbb38648,,130866,question,responseOption7,37122,form,Other
+630e8a7f300000e3fbb38648,,130866,question,responseOption8,37122,form,Other
+630e8a7f300000e3fbb38649,,130867,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7f300000e3fbb38649,,130867,question,questionText,37122,form,Other:
+630e8a7f300000e3fbb3864a,,130868,question,description,37122,form,The evaluation process can be part of the company selection criteria used to assess a 3rd party before awarding them any form of work / contract.
+630e8a7f300000e3fbb3864a,,130868,question,questionText,37122,form,"Does the company have a formal process to evaluate how potential suppliers / subcontractors  manage diversity, equality and inclusion (DEI) practices, before awarding contracts?"
+630e8a7f300000e3fbb3864a,,130868,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb3864a,,130868,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb3864c,,130869,question,description,37122,form,"The controls should include pre-employment checks to verify age, visual checks, previous work history in both administrative and industrial parts of the business, including any international operations and when selecting suppliers and subcontractors."
+630e8a7f300000e3fbb3864c,,130869,question,questionText,37122,form,Can the company confirm there are management controls that prevents the recruitment and use of underage labor (Under the age of 15 years) within any part of the business?
+630e8a7f300000e3fbb3864c,,130869,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb3864c,,130869,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb3864d,,130870,question,questionText,37122,form,"Can the company demonstrate that the controls are supported by  management systems/procedures and a company statement confirming a ""zero-tolerance"" to recruitment of child labor?"
+630e8a7f300000e3fbb3864d,,130870,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb3864d,,130870,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb3864e,,130871,question,description,37122,form,"This includes demonstrating a “zero-tolerance “ to the use of child labor within supplier organizations contracted to provide a service, and their suppliers who support them, this can be in the form of formal policy, mandatory contract requirement, etc."
+630e8a7f300000e3fbb3864e,,130871,question,questionText,37122,form,Can the company confirm the controls and management commitment to not using child labor is applied to all parts of the supply chain?
+630e8a7f300000e3fbb3864e,,130871,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb3864e,,130871,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb3864f,,130872,question,description,37122,form,"This can include procedures, wording from contracts  and company policy statements advising on the company attitude to the use of underage labor and how it is applied to the selection and use of subcontractors and suppliers."
+630e8a7f300000e3fbb3864f,,130872,question,moreDescription,37122,form,"To assist the review personnel assessing your company documentation, please ensure the following criteria is met:</br>\n• Company name, or parent company, as recorded within your Avetta account.<br>\n• All information and documents must be submitted in English.<br>\n• All documents must confirm the date they were produced, or subject to review before approval by the company (documents should preferably be no older than 2 years old).<br>\n• Where applicable include a signature of senior member of the management team e.g. CEO / President / Managing Director (Confirming the company intent and motivation to deliver a specific requirement).<br>\n• Uploaded documents and files should be in a searchable text format (PDF, Word, Txt).  Policy and program information found on your company’s website, or via an hyperlink, should be converted and submit as electronic documents. Scanned documents or image captures will be rejected.<br>\nInformation provided to support your responses will be assessed based upon the documentary title, even if it may be part of a larger program or standardized manual.  Anything different from a standard approach may be rejected and not scored."
+630e8a7f300000e3fbb3864f,,130872,question,questionText,37122,form,Please upload a copy of the company procedure or policy statement that covers the prevention of underage labor within the company supply chain.
+630e8a7f300000e3fbb38651,,130873,question,questionText,37122,form,Can the company demonstrate that a health and wellness (wellbeing) program has been implemented within the business and is accessible by all members of the workforce?
+630e8a7f300000e3fbb38651,,130873,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb38651,,130873,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb38652,,130874,question,description,37122,form,Select all applicable
+630e8a7f300000e3fbb38652,,130874,question,questionText,37122,form,The  options within the company health and wellness (wellbeing) program:
+630e8a7f300000e3fbb38652,,130874,question,responseOption1,37122,form,Helping with performance and productivity
+630e8a7f300000e3fbb38652,,130874,question,responseOption10,37122,form,Mental health assessment
+630e8a7f300000e3fbb38652,,130874,question,responseOption11,37122,form,Access to occupational health services
+630e8a7f300000e3fbb38652,,130874,question,responseOption12,37122,form,Reducing absenteeism
+630e8a7f300000e3fbb38652,,130874,question,responseOption13,37122,form,Preventing presenteeism
+630e8a7f300000e3fbb38652,,130874,question,responseOption14,37122,form,Other
+630e8a7f300000e3fbb38652,,130874,question,responseOption2,37122,form,Worker recruitment and retention
+630e8a7f300000e3fbb38652,,130874,question,responseOption3,37122,form,Flexible working
+630e8a7f300000e3fbb38652,,130874,question,responseOption4,37122,form,Health initiatives
+630e8a7f300000e3fbb38652,,130874,question,responseOption5,37122,form,Reducing worker turnover
+630e8a7f300000e3fbb38652,,130874,question,responseOption6,37122,form,Worker motivation
+630e8a7f300000e3fbb38652,,130874,question,responseOption7,37122,form,"Use of 3rd party services such as counselling, medical screening"
+630e8a7f300000e3fbb38652,,130874,question,responseOption8,37122,form,Creation of positive work culture
+630e8a7f300000e3fbb38652,,130874,question,responseOption9,37122,form,Flexible policies relating to family member’s (e.g. parental leave)
+630e8a7f300000e3fbb38653,,130875,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7f300000e3fbb38653,,130875,question,questionText,37122,form,Other:
+630e8a7f300000e3fbb38654,,130876,question,description,37122,form,"This may be in the form of a rewards program, part of a occupational program based upon the scope of services offered, an industry initiative which can be offered internally or via a 3rd party."
+630e8a7f300000e3fbb38654,,130876,question,moreDescription,37122,form,"To assist the review personnel assessing your company documentation, please ensure the following criteria is met:</br>\n• Company name, or parent company, as recorded within your Avetta account.<br>\n• All information and documents must be submitted in English.<br>\n• All documents must confirm the date they were produced, or subject to review before approval by the company (documents should preferably be no older than 2 years old).<br>\n• Where applicable include a signature of senior member of the management team e.g. CEO / President / Managing Director (Confirming the company intent and motivation to deliver a specific requirement).<br>\n• Uploaded documents and files should be in a searchable text format (PDF, Word, Txt).  Policy and program information found on your company’s website, or via an hyperlink, should be converted and submit as electronic documents. Scanned documents or image captures will be rejected.<br>\nInformation provided to support your responses will be assessed based upon the documentary title, even if it may be part of a larger program or standardized manual.  Anything different from a standard approach may be rejected and not scored."
+630e8a7f300000e3fbb38654,,130876,question,questionText,37122,form,Please upload information demonstrating how the company have introduce a health and wellness (wellbeing)  program.
+630e8a7f300000e3fbb38655,,130877,question,questionText,37122,form,Does the company have an active parental leave policy?
+630e8a7f300000e3fbb38655,,130877,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb38655,,130877,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb38656,,130878,question,questionText,37122,form,Please confirm what actions the company has taken if the company parental leave package goes beyond the statutory requirement.
+630e8a7f300000e3fbb38656,,130878,question,responseOption1,37122,form,Parental leave period exceeds 18 weeks
+630e8a7f300000e3fbb38656,,130878,question,responseOption10,37122,form,Parental leave program includes discretionary payment
+630e8a7f300000e3fbb38656,,130878,question,responseOption11,37122,form,There is flexibility on the mandatory (employee) 21-day notification period
+630e8a7f300000e3fbb38656,,130878,question,responseOption12,37122,form,There is flexibility around the employer postponement period
+630e8a7f300000e3fbb38656,,130878,question,responseOption13,37122,form,Employer continues pension contributions if leave is paid
+630e8a7f300000e3fbb38656,,130878,question,responseOption14,37122,form,Employer issues the employee with communication regarding the business so that the employee is not disadvantaged by not being in the workplace
+630e8a7f300000e3fbb38656,,130878,question,responseOption15,37122,form,Company maintains record of when leave was taken
+630e8a7f300000e3fbb38656,,130878,question,responseOption16,37122,form,Other
+630e8a7f300000e3fbb38656,,130878,question,responseOption2,37122,form,Parental leave covers children over the age of five
+630e8a7f300000e3fbb38656,,130878,question,responseOption3,37122,form,Parental leave cover is the same for parental responsibility and individuals going through placement in the adoption process
+630e8a7f300000e3fbb38656,,130878,question,responseOption4,37122,form,Parental leave exceeds 4 weeks in a calendar year
+630e8a7f300000e3fbb38656,,130878,question,responseOption5,37122,form,Parental leave can be taken in days as well as a full week
+630e8a7f300000e3fbb38656,,130878,question,responseOption6,37122,form,Parental leave program provides part-time workers with additional flexibility over their normal weekly entitlement
+630e8a7f300000e3fbb38656,,130878,question,responseOption7,37122,form,"Parental leave can be applied to workers who have not been employed for more than a year,(with discretion)"
+630e8a7f300000e3fbb38656,,130878,question,responseOption8,37122,form,Company allows workers to return to their normal role if leave period greatly exceeds the four-week period
+630e8a7f300000e3fbb38656,,130878,question,responseOption9,37122,form,"Where non contracted workers have been engaged for extended periods of time (casual, employment agency, etc.) the policy can be extended to the worker (with discretion)"
+630e8a7f300000e3fbb38657,,130879,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7f300000e3fbb38657,,130879,question,questionText,37122,form,Other:
+630e8a7f300000e3fbb38659,,130880,question,description,37122,form,"E.g., This can be worker based initiatives helping local communities, fundraising or charitable donations to a global program, providing education to under privileged children, food drives, encouraging employees to volunteer on local projects, funding international infrastructure projects such as better drinking water, or provision of medical facilities / materials in developing economies, etc."
+630e8a7f300000e3fbb38659,,130880,question,questionText,37122,form,Can the company confirm it has made contributions to community initiatives and societal development enhancement programs (either domestically or international) within the last calendar year?
+630e8a7f300000e3fbb38659,,130880,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb38659,,130880,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb3865a,,130881,question,questionText,37122,form,Community and societal initiatives (domestic and/or international) implemented or funded  by the company:
+630e8a7f300000e3fbb3865a,,130881,question,responseOption1,37122,form,Agriculture and connected work
+630e8a7f300000e3fbb3865a,,130881,question,responseOption10,37122,form,"Environmental – Ecology based e.g., tree planting - international"
+630e8a7f300000e3fbb3865a,,130881,question,responseOption11,37122,form,Environmental - Waterway /marine clean-up – domestic
+630e8a7f300000e3fbb3865a,,130881,question,responseOption12,37122,form,Environmental - Waterway /marine clean-up – international
+630e8a7f300000e3fbb3865a,,130881,question,responseOption13,37122,form,Environmental – Land preservation – domestic
+630e8a7f300000e3fbb3865a,,130881,question,responseOption14,37122,form,Environmental – Land preservation – international
+630e8a7f300000e3fbb3865a,,130881,question,responseOption15,37122,form,"Health initiatives e.g., drinking water, vaccination programs, health education – domestic"
+630e8a7f300000e3fbb3865a,,130881,question,responseOption16,37122,form,"Health initiatives e.g., drinking water, vaccination programs, health education – international"
+630e8a7f300000e3fbb3865a,,130881,question,responseOption17,37122,form,Housing – construction and maintenance in under privilege locations - domestic
+630e8a7f300000e3fbb3865a,,130881,question,responseOption18,37122,form,Housing – construction and maintenance in under privilege locations - international
+630e8a7f300000e3fbb3865a,,130881,question,responseOption19,37122,form,"Infrastructure development, e.g., roadways, internet connectivity, school construction, etc. - domestic"
+630e8a7f300000e3fbb3865a,,130881,question,responseOption2,37122,form,Education
+630e8a7f300000e3fbb3865a,,130881,question,responseOption20,37122,form,"Infrastructure development, e.g., roadways, internet connectivity, school construction, etc. - international"
+630e8a7f300000e3fbb3865a,,130881,question,responseOption21,37122,form,Occupational skill based training for workers - domestic
+630e8a7f300000e3fbb3865a,,130881,question,responseOption22,37122,form,Occupational skill based training for workers - international
+630e8a7f300000e3fbb3865a,,130881,question,responseOption23,37122,form,Social wellbeing programs – domestic
+630e8a7f300000e3fbb3865a,,130881,question,responseOption24,37122,form,Social wellbeing programs – international
+630e8a7f300000e3fbb3865a,,130881,question,responseOption25,37122,form,Wildlife conservation - domestic
+630e8a7f300000e3fbb3865a,,130881,question,responseOption26,37122,form,Wildlife conservation – international
+630e8a7f300000e3fbb3865a,,130881,question,responseOption27,37122,form,Other
+630e8a7f300000e3fbb3865a,,130881,question,responseOption3,37122,form,Health services
+630e8a7f300000e3fbb3865a,,130881,question,responseOption4,37122,form,Agriculture development  - domestic
+630e8a7f300000e3fbb3865a,,130881,question,responseOption5,37122,form,Agriculture development  - international
+630e8a7f300000e3fbb3865a,,130881,question,responseOption6,37122,form,"Education – managing illiteracy, funding educational materials – domestic"
+630e8a7f300000e3fbb3865a,,130881,question,responseOption7,37122,form,"Education – managing illiteracy, funding educational materials – international"
+630e8a7f300000e3fbb3865a,,130881,question,responseOption8,37122,form,International locations
+630e8a7f300000e3fbb3865a,,130881,question,responseOption9,37122,form,"Environmental – Ecology based e.g., tree planting - domestic"
+630e8a7f300000e3fbb3865b,,130882,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7f300000e3fbb3865b,,130882,question,questionText,37122,form,Other:
+630e8a7f300000e3fbb3865d,,130883,question,questionText,37122,form,"Does the company have an anti-bribery, prevention of corrupt business practices policy or ethical code of conduct that is applied to all members of the workforce or independent individuals / 3rd parties who represent the company?"
+630e8a7f300000e3fbb3865d,,130883,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb3865d,,130883,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb3865e,,130884,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8a7f300000e3fbb3865e,,130884,question,questionText,37122,form,Other:
+630e8a7f300000e3fbb3865f,,130885,question,description,37122,form,"e.g., giving of gifts, provision of entertainment, travel and accommodation, hospitalities"
+630e8a7f300000e3fbb3865f,,130885,question,questionText,37122,form,Does the company have a policy statement or company procedure that regulates issues that may be interpreted as having potential to influence business decisions?
+630e8a7f300000e3fbb3865f,,130885,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb3865f,,130885,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb38660,,130886,question,description,37122,form,"e.g. entertainment, travel, hospitalities, donations"
+630e8a7f300000e3fbb38660,,130886,question,questionText,37122,form,Does the company have a policy or documented procedure regulating the acceptance of gifts from 3rd parties or potential customers?
+630e8a7f300000e3fbb38660,,130886,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb38660,,130886,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb38661,,130887,question,description,37122,form,"e.g. receipt of entertainment, gifts, monetary donations, attendance of meals"
+630e8a7f300000e3fbb38661,,130887,question,questionText,37122,form,Does the company have a zero tolerance stance on the provision of gifts from prospective clients and companies that wish to provide services or goods to the company?
+630e8a7f300000e3fbb38661,,130887,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb38661,,130887,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb38662,,130888,question,questionText,37122,form,Does the company operate within a country where it is culturally acceptable to give gifts as part of the business process?
+630e8a7f300000e3fbb38662,,130888,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb38662,,130888,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb38662,,130888,question,responseOption3,37122,form,N/A
+630e8a7f300000e3fbb38663,,130889,question,description,37122,form,"If no company anti-bribery, prevention of corrupt business practices policy or code of conduct is available, a work procedure  or template is acceptable"
+630e8a7f300000e3fbb38663,,130889,question,moreDescription,37122,form,"To assist the review personnel assessing your company documentation, please ensure the following criteria is met:</br>\n• Company name, or parent company, as recorded within your Avetta account.<br>\n• All information and documents must be submitted in English.<br>\n• All documents must confirm the date they were produced, or subject to review before approval by the company (documents should preferably be no older than 2 years old).<br>\n• Where applicable include a signature of senior member of the management team e.g. CEO / President / Managing Director (Confirming the company intent and motivation to deliver a specific requirement).<br>\n• Uploaded documents and files should be in a searchable text format (PDF, Word, Txt).  Policy and program information found on your company’s website, or via an hyperlink, should be converted and submit as electronic documents. Scanned documents or image captures will be rejected.<br>\nInformation provided to support your responses will be assessed based upon the documentary title, even if it may be part of a larger program or standardized manual.  Anything different from a standard approach may be rejected and not scored."
+630e8a7f300000e3fbb38663,,130889,question,questionText,37122,form,"Please upload a copy of the company anti-bribery, prevention of corrupt business practices policy, or ethical code of conduct."
+630e8a7f300000e3fbb38664,,130890,question,questionText,37122,form,"Does the company assess the risk of working with new and potential suppliers (Domestic or International) to understand and identify the potential of fraud, corruption and unethical business practice?"
+630e8a7f300000e3fbb38664,,130890,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb38664,,130890,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb38665,,130891,question,description,37122,form,"This can be a company procedure or template that has to be completed as part of any business assessment, risk matrix or credit check"
+630e8a7f300000e3fbb38665,,130891,question,moreDescription,37122,form,"To assist the review personnel assessing your company documentation, please ensure the following criteria is met:</br>\n• Company name, or parent company, as recorded within your Avetta account.<br>\n• All information and documents must be submitted in English.<br>\n• All documents must confirm the date they were produced, or subject to review before approval by the company (documents should preferably be no older than 2 years old).<br>\n• Where applicable include a signature of senior member of the management team e.g. CEO / President / Managing Director (Confirming the company intent and motivation to deliver a specific requirement).<br>\n• Uploaded documents and files should be in a searchable text format (PDF, Word, Txt).  Policy and program information found on your company’s website, or via an hyperlink, should be converted and submit as electronic documents. Scanned documents or image captures will be rejected.<br>\nInformation provided to support your responses will be assessed based upon the documentary title, even if it may be part of a larger program or standardized manual.  Anything different from a standard approach may be rejected and not scored."
+630e8a7f300000e3fbb38665,,130891,question,questionText,37122,form,Upload an example of how risk is addressed when assessing potential business corruption or acts of bribery.
+630e8a7f300000e3fbb38666,,130892,question,questionText,37122,form,"If the company uses the services of an agent (representing the company) to deliver business in a different country, does the agent sign an agreement preventing fraud or corruption during the relationship?"
+630e8a7f300000e3fbb38666,,130892,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb38666,,130892,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb38666,,130892,question,responseOption3,37122,form,N/A
+630e8a7f300000e3fbb38667,,130893,question,questionText,37122,form,"Does the company give an induction to new workers that provides guidance on the company rules relating to fraud, acts of bribery, corruption and potential conflicts of interest?"
+630e8a7f300000e3fbb38667,,130893,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb38667,,130893,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb38668,,130894,question,questionText,37122,form,Does the company provide information / training to employees on how to report corrupt business practice within the organization?
+630e8a7f300000e3fbb38668,,130894,question,responseOption1,37122,form,Yes
+630e8a7f300000e3fbb38668,,130894,question,responseOption2,37122,form,No
+630e8a7f300000e3fbb38669,,130895,question,questionText,37122,form,Company ethical policy / code of conduct applies to the following categories:
+630e8a7f300000e3fbb38669,,130895,question,responseOption1,37122,form,Top level suppliers contracted to provide a service – domestic supply only (Vendor / Contractor) – Indirect Supply Chain
+630e8a7f300000e3fbb38669,,130895,question,responseOption10,37122,form,Lobbyists
+630e8a7f300000e3fbb38669,,130895,question,responseOption11,37122,form,Working with customs and border control agencies
+630e8a7f300000e3fbb38669,,130895,question,responseOption12,37122,form,Other
+630e8a7f300000e3fbb38669,,130895,question,responseOption2,37122,form,Top level suppliers contracted to provide a service – domestic supply only (Vendor / Contractor) – Direct Supply Chain
+630e8a7f300000e3fbb38669,,130895,question,responseOption3,37122,form,Lower level suppliers and below (Vendors / Contractors) – Indirect supply chain
+630e8a7f300000e3fbb38669,,130895,question,responseOption4,37122,form,Lower level suppliers and below (Vendors / Contractors) – Direct supply chain
+630e8a7f300000e3fbb38669,,130895,question,responseOption5,37122,form,Distributors / Agents selling company products
+630e8a7f300000e3fbb38669,,130895,question,responseOption6,37122,form,All domestic and international business transactions
+630e8a7f300000e3fbb38669,,130895,question,responseOption7,37122,form,Members of any Joint venture programs (e.g. Specialist  Project.)
+630e8a7f300000e3fbb38669,,130895,question,responseOption8,37122,form,Third-party Advisors / consultants working for the company
+630e8a7f300000e3fbb38669,,130895,question,responseOption9,37122,form,"General Service providers (logistics, storage, maintenance, etc.)"
+630e8f1c3000006bf2786e7d,,130896,question,questionText,37122,form,"Please confirm which employee / worker groups have received the sustainable business practice training (e.g. anti-corruption practices, modern slavery, environmental impacts, and reduction in carbon footprint)."
+630e8f1c3000006bf2786e7d,,130896,question,responseOption1,37122,form,Purchasing / Procurement
+630e8f1c3000006bf2786e7d,,130896,question,responseOption10,37122,form,Risk
+630e8f1c3000006bf2786e7d,,130896,question,responseOption11,37122,form,Security
+630e8f1c3000006bf2786e7d,,130896,question,responseOption12,37122,form,Other
+630e8f1c3000006bf2786e7d,,130896,question,responseOption2,37122,form,Health and Safety
+630e8f1c3000006bf2786e7d,,130896,question,responseOption3,37122,form,Environmental
+630e8f1c3000006bf2786e7d,,130896,question,responseOption4,37122,form,Operations / Facilities
+630e8f1c3000006bf2786e7d,,130896,question,responseOption5,37122,form,Project Management
+630e8f1c3000006bf2786e7d,,130896,question,responseOption6,37122,form,Engineering
+630e8f1c3000006bf2786e7d,,130896,question,responseOption7,37122,form,Human Resources
+630e8f1c3000006bf2786e7d,,130896,question,responseOption8,37122,form,Information Technology
+630e8f1c3000006bf2786e7d,,130896,question,responseOption9,37122,form,Compliance/ Legal
+630e8f7e300000613c7871ec,,130897,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+630e8f7e300000613c7871ec,,130897,question,questionText,37122,form,Other:
+630e98b73000001295b3eded,,130898,question,questionText,37122,form,The timeline or target date for meeting carbon neutral by:
+630e98b73000001295b3eded,,130898,question,responseOption1,37122,form,Present - 2025
+630e98b73000001295b3eded,,130898,question,responseOption2,37122,form,2026 - 2030
+630e98b73000001295b3eded,,130898,question,responseOption3,37122,form,2031 - 2035
+630e98b73000001295b3eded,,130898,question,responseOption4,37122,form,2036 - 2040
+630e98b73000001295b3eded,,130898,question,responseOption5,37122,form,2041 - 2050
+630e98b73000001295b3eded,,130898,question,responseOption6,37122,form,2050+
+630e98b73000001295b3eded,,130898,question,responseOption7,37122,form,Other:
+630e9901300000991c78c7d6,,130900,question,questionText,37122,form,Please confirm which category of emissions are tracked/monitored and subject to analysis as part of the carbon neutral commitment:
+630e9901300000991c78c7d6,,130900,question,responseOption1,37122,form,Scope 1
+630e9901300000991c78c7d6,,130900,question,responseOption2,37122,form,Scope 2
+630e9901300000991c78c7d6,,130900,question,responseOption3,37122,form,Scope 3
+630e9dfa300000a349b41fd7,,130901,question,questionText,37122,form,Female Ratio (General Workforce)
+630e9dfa300000a349b41fd7,,130901,question,responseOption1,37122,form,0 (No female)
+630e9dfa300000a349b41fd7,,130901,question,responseOption10,37122,form,81-90 %
+630e9dfa300000a349b41fd7,,130901,question,responseOption11,37122,form,91-100 %
+630e9dfa300000a349b41fd7,,130901,question,responseOption2,37122,form,1-10 %
+630e9dfa300000a349b41fd7,,130901,question,responseOption3,37122,form,11-20 %
+630e9dfa300000a349b41fd7,,130901,question,responseOption4,37122,form,21-30 %
+630e9dfa300000a349b41fd7,,130901,question,responseOption5,37122,form,31-40 %
+630e9dfa300000a349b41fd7,,130901,question,responseOption6,37122,form,41-50 %
+630e9dfa300000a349b41fd7,,130901,question,responseOption7,37122,form,51-60 %
+630e9dfa300000a349b41fd7,,130901,question,responseOption8,37122,form,61-70 %
+630e9dfa300000a349b41fd7,,130901,question,responseOption9,37122,form,71-80 %
+630e9e263000004142b42254,,130902,question,questionText,37122,form,Non-binary Ratio (General Workforce)
+630e9e263000004142b42254,,130902,question,responseOption1,37122,form,0 (No non-binary)
+630e9e263000004142b42254,,130902,question,responseOption10,37122,form,81-90 %
+630e9e263000004142b42254,,130902,question,responseOption11,37122,form,91-100 %
+630e9e263000004142b42254,,130902,question,responseOption2,37122,form,1-10 %
+630e9e263000004142b42254,,130902,question,responseOption3,37122,form,11-20 %
+630e9e263000004142b42254,,130902,question,responseOption4,37122,form,21-30 %
+630e9e263000004142b42254,,130902,question,responseOption5,37122,form,31-40 %
+630e9e263000004142b42254,,130902,question,responseOption6,37122,form,41-50 %
+630e9e263000004142b42254,,130902,question,responseOption7,37122,form,51-60 %
+630e9e263000004142b42254,,130902,question,responseOption8,37122,form,61-70 %
+630e9e263000004142b42254,,130902,question,responseOption9,37122,form,71-80 %
+630e9e6630000091ab78f97d,,130903,question,questionText,37122,form,Female Ratio (Executives)
+630e9e6630000091ab78f97d,,130903,question,responseOption1,37122,form,0 (No female)
+630e9e6630000091ab78f97d,,130903,question,responseOption10,37122,form,81-90 %
+630e9e6630000091ab78f97d,,130903,question,responseOption11,37122,form,91-100 %
+630e9e6630000091ab78f97d,,130903,question,responseOption2,37122,form,1-10 %
+630e9e6630000091ab78f97d,,130903,question,responseOption3,37122,form,11-20 %
+630e9e6630000091ab78f97d,,130903,question,responseOption4,37122,form,21-30 %
+630e9e6630000091ab78f97d,,130903,question,responseOption5,37122,form,31-40 %
+630e9e6630000091ab78f97d,,130903,question,responseOption6,37122,form,41-50 %
+630e9e6630000091ab78f97d,,130903,question,responseOption7,37122,form,51-60 %
+630e9e6630000091ab78f97d,,130903,question,responseOption8,37122,form,61-70 %
+630e9e6630000091ab78f97d,,130903,question,responseOption9,37122,form,71-80 %
+630e9e8a3000002e44b4284c,,130904,question,questionText,37122,form,Non-binary Ratio (Executives)
+630e9e8a3000002e44b4284c,,130904,question,responseOption1,37122,form,0 (No non-binary)
+630e9e8a3000002e44b4284c,,130904,question,responseOption10,37122,form,81-90 %
+630e9e8a3000002e44b4284c,,130904,question,responseOption11,37122,form,91-100 %
+630e9e8a3000002e44b4284c,,130904,question,responseOption2,37122,form,1-10 %
+630e9e8a3000002e44b4284c,,130904,question,responseOption3,37122,form,11-20 %
+630e9e8a3000002e44b4284c,,130904,question,responseOption4,37122,form,21-30 %
+630e9e8a3000002e44b4284c,,130904,question,responseOption5,37122,form,31-40 %
+630e9e8a3000002e44b4284c,,130904,question,responseOption6,37122,form,41-50 %
+630e9e8a3000002e44b4284c,,130904,question,responseOption7,37122,form,51-60 %
+630e9e8a3000002e44b4284c,,130904,question,responseOption8,37122,form,61-70 %
+630e9e8a3000002e44b4284c,,130904,question,responseOption9,37122,form,71-80 %
+63ab6d75180000e20031eec1,,135948,question,questionText,37122,form,"Review - Does the company have a policy statement, program or management system that confirms a commitment to preventing modern slavery, forced labor and human trafficking within the company’s operations and supply chain?"
+63ab6d75180000e20031eec1,,135948,question,responseOption1,37122,form,No document was provided.
+63ab6d75180000e20031eec1,,135948,question,responseOption2,37122,form,Document must be in English or under an acceptable text format (scanned or imaged text cannot be reviewed).
+63ab6d75180000e20031eec1,,135948,question,responseOption3,37122,form,Uploaded document not applicable.
+63ab6d75180000e20031eec1,,135948,question,responseOption4,37122,form,Document not referencing supplier or parent company by name. Revision recommended.
+63ab6d75180000e20031eec1,,135948,question,responseOption5,37122,form,"Policy document or statement related to ""Prevention of Modern Slavery, Forced labor and Human Trafficking"" is incomplete (partial statement or description), and / or is over 5 years old. Revision recommended."
+63ab6d75180000e20031eec1,,135948,question,responseOption6,37122,form,"Policy document or statement related to ""Prevention of Modern Slavery, Forced labor and Human Trafficking"" is incomplete (partial statement or description), and / or is over 5 years old. Revision recommended."
+63ab6d75180000e20031eec1,,135948,question,responseOption7,37122,form,"Policy document or statement related to ""Prevention of Modern Slavery, Forced labor and Human Trafficking"" is incomplete (partial statement or description), and is dated between 2 to 5 years old. Revision recommended."
+63ab6d75180000e20031eec1,,135948,question,responseOption8,37122,form,"Policy document or statement related to ""Prevention of Modern Slavery, Forced labor and Human Trafficking"" is incomplete (partial statement or description), and is less than 2 years old."
+63ab7154180000090131ef76,,135954,question,questionText,37122,form,Review - Does the company apply a “Code of Conduct”  that all suppliers must acknowledge and adhere to when working and providing their services?
+63ab7154180000090131ef76,,135954,question,responseOption1,37122,form,No document was provided.
+63ab7154180000090131ef76,,135954,question,responseOption2,37122,form,Document must be in English or under an acceptable text format (scanned or imaged text cannot be reviewed).
+63ab7154180000090131ef76,,135954,question,responseOption3,37122,form,Uploaded document not applicable.
+63ab7154180000090131ef76,,135954,question,responseOption4,37122,form,Document not referencing supplier or parent company by name. Revision recommended.
+63ab7154180000090131ef76,,135954,question,responseOption5,37122,form,"""Supplier Code of Conduct"" is incomplete (partial statement or description) , and / or is over 5 years old. Revision recommended."
+63ab7154180000090131ef76,,135954,question,responseOption6,37122,form,"Policy document or statement referenced as ""Supplier Code of Conduct"" is incomplete (partial statement or description), and is dated between 2 to 5 years old. Revision recommended."
+63ab7154180000090131ef76,,135954,question,responseOption7,37122,form,"Policy document or statement referenced as ""Supplier Code of Conduct"" is incomplete (partial statement or description), and is less than 2 years old."
+63ab7f83180000880131f870,,135970,question,description,37122,form,"(e.g., potential child labor, illegal dumping of waste, large volume of safety violations  or human rights issues, etc.)"
+63ab7f83180000880131f870,,135970,question,questionText,37122,form,Does the company work with suppliers to resolve  high risk issues / events that may have been identified during their ethical sourcing evaluations? 
+63ab7f83180000880131f870,,135970,question,responseOption1,37122,form,Yes
+63ab7f83180000880131f870,,135970,question,responseOption2,37122,form,No
+63ab80601a0000af012d75b0,,135971,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+63ab80601a0000af012d75b0,,135971,question,questionText,37122,form,Other:
+63ab82451a0000cf012d76ee,,135972,question,questionText,37122,form,"Can the company provide evidence showing how Sustainability / Environmental, Social & Governance (ESG) is managed?"
+63ab82451a0000cf012d76ee,,135972,question,responseOption1,37122,form,Yes
+63ab82451a0000cf012d76ee,,135972,question,responseOption2,37122,form,No
+63ab8262180000010231fdee,,135973,question,description,37122,form,"In the event the content is too large, you can submit a copy of a workflow, capability statement or index for the management program, demonstrating how the company manages this area\n<br>"
+63ab8262180000010231fdee,,135973,question,moreDescription,37122,form,"To assist the review personnel assessing your company documentation, please ensure the following criteria is met:</br>\n• Company name, or parent company, as recorded within your Avetta account.<br>\n• All information and documents must be submitted in English.<br>\n• All documents must confirm the date they were produced, or subject to review before approval by the company (documents should preferably be no older than 2 years old).<br>\n• Where applicable include a signature of senior member of the management team e.g. CEO / President / Managing Director (Confirming the company intent and motivation to deliver a specific requirement).<br>\n• Uploaded documents and files should be in a searchable text format (PDF, Word, Txt).  Policy and program information found on your company’s website, or via an hyperlink, should be converted and submit as electronic documents. Scanned documents or image captures will be rejected.<br>\nInformation provided to support your responses will be assessed based upon the documentary title, even if it may be part of a larger program or standardized manual.  Anything different from a standard approach may be rejected and not scored."
+63ab8262180000010231fdee,,135973,question,questionText,37122,form,"Please upload evidence showing how the company manages Sustainability / Environmental, Social & Governance (ESG). "
+63ab82ee180000f10131fe83,,135974,question,questionText,37122,form,"Review - Can the company provide evidence showing how Sustainability / Environmental, Social & Governance (ESG) is managed?"
+63ab82ee180000f10131fe83,,135974,question,responseOption1,37122,form,No document was provided.
+63ab82ee180000f10131fe83,,135974,question,responseOption2,37122,form,Document must be in English or under an acceptable text format (scanned or imaged text cannot be reviewed).
+63ab82ee180000f10131fe83,,135974,question,responseOption3,37122,form,Uploaded document not applicable.
+63ab82ee180000f10131fe83,,135974,question,responseOption4,37122,form,Document not referencing supplier or parent company by name. Revision recommended.
+63ab82ee180000f10131fe83,,135974,question,responseOption5,37122,form,"""Sustainability / Environmental, Social & Governance (ESG) Program"" is incomplete (partial program description) and / or is over 5 years old. Revision recommended."
+63ab82ee180000f10131fe83,,135974,question,responseOption6,37122,form,"Policy document or program referenced as ""Sustainability / Environmental, Social & Governance (ESG) Program"" is incomplete (partial statement or description), and is dated between 2 to 5 years old. Revision recommended."
+63ab82ee180000f10131fe83,,135974,question,responseOption7,37122,form,"Policy document or program referenced as ""Sustainability / Environmental, Social & Governance (ESG) Program"" is incomplete (partial statement or description), and is less than 2 years old."
+63ab87be1a00002b012d788f,,135975,question,description,37122,form,"e.g., participate in tree planting program to offset carbon usage, have reduced water usage within production cycle."
+63ab87be1a00002b012d788f,,135975,question,questionText,37122,form,"Can the company provide examples of cases studies, social media reports, excerpts from company reports to support any  positive environmental impacts managed by the business?"
+63ab87be1a00002b012d788f,,135975,question,responseOption1,37122,form,Yes
+63ab87be1a00002b012d788f,,135975,question,responseOption2,37122,form,No
+63ab87f51800008901320052,,135977,question,description,37122,form,"e.g., participate in tree planting program to offset carbon usage, have reduced water usage within production cycle."
+63ab87f51800008901320052,,135977,question,questionText,37122,form,"Review - Can the company provide examples of cases studies, social media reports, excerpts from company reports to support any  positive environmental impacts managed by the business?"
+63ab87f51800008901320052,,135977,question,responseOption1,37122,form,No document was provided.
+63ab87f51800008901320052,,135977,question,responseOption2,37122,form,Document must be in English or under an acceptable text format (scanned or imaged text cannot be reviewed).
+63ab87f51800008901320052,,135977,question,responseOption3,37122,form,Uploaded document not applicable.
+63ab87f51800008901320052,,135977,question,responseOption4,37122,form,Document not referencing supplier or parent company by name. Revision recommended.
+63ab87f51800008901320052,,135977,question,responseOption5,37122,form,"""Positive Environmental Impacts"" document / report is incomplete (partial report or description), and / or is over 5 years old. Revision recommended."
+63ab87f51800008901320052,,135977,question,responseOption6,37122,form,"Policy document or report referenced as ""Positive Environmental Impacts"" is incomplete (partial statement or description), and is dated between 2 to 5 years old. Revision recommended."
+63ab87f51800008901320052,,135977,question,responseOption7,37122,form,"Policy document or report referenced as ""Positive Environmental Impacts"" is incomplete (partial statement or description), and is less than 2 years old."
+63ab8e621a000004022d79f3,,135978,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+63ab8e621a000004022d79f3,,135978,question,questionText,37122,form,Other:
+63ab90481800002502320266,,135979,question,questionText,37122,form,Can the company provide the most recent greenhouse gas (GHG) emission company report?
+63ab90481800002502320266,,135979,question,responseOption1,37122,form,Yes
+63ab90481800002502320266,,135979,question,responseOption2,37122,form,No
+63ab90ba1800003c02320267,,135980,question,questionText,37122,form,Review - Can the company provide the most recent greenhouse gas (GHG) emission company report?
+63ab90ba1800003c02320267,,135980,question,responseOption1,37122,form,No document was provided.
+63ab90ba1800003c02320267,,135980,question,responseOption2,37122,form,Document must be in English or under an acceptable text format (scanned or imaged text cannot be reviewed).
+63ab90ba1800003c02320267,,135980,question,responseOption3,37122,form,Uploaded document not applicable.
+63ab90ba1800003c02320267,,135980,question,responseOption4,37122,form,Document not referencing supplier or parent company by name. Revision recommended.
+63ab90ba1800003c02320267,,135980,question,responseOption5,37122,form,"The ""Greenhouse Gas Emission Report"" is incomplete (partial report or document provided), and / or is over 5 years old. Revision recommended."
+63ab90ba1800003c02320267,,135980,question,responseOption6,37122,form,"Policy document or report referenced as ""Greenhouse Gas Emission Report"" is incomplete (partial statement or description), and is dated between 2 to 5 years old. Revision recommended."
+63ab90ba1800003c02320267,,135980,question,responseOption7,37122,form,"Policy document or report referenced as ""Greenhouse Gas Emission Report"" is incomplete (partial statement or description), and is less than 2 years old."
+63ab945018000025023203a5,,135981,question,questionText,37122,form,Review - Does the company have a Climate Change Policy or position statement around GHG or reduction targets in the company's carbon footprint?
+63ab945018000025023203a5,,135981,question,responseOption1,37122,form,No document was provided.
+63ab945018000025023203a5,,135981,question,responseOption2,37122,form,Document must be in English or under an acceptable text format (scanned or imaged text cannot be reviewed).
+63ab945018000025023203a5,,135981,question,responseOption3,37122,form,Uploaded document not applicable.
+63ab945018000025023203a5,,135981,question,responseOption4,37122,form,Policy document not referencing supplier or parent company by name. Revision recommended.
+63ab945018000025023203a5,,135981,question,responseOption5,37122,form,"""Climate Change Policy"" is present but no ""GHG Emission Reduction Targets"" are provided, or ""GHG Emission Reduction Targets"" are set beyond the next 10 years."
+63ab945018000025023203a5,,135981,question,responseOption6,37122,form,"""Climate Change Policy"" is present and ""GHG Emission Reduction Targets"" are set within the next 5 to 10 years."
+63ab945018000025023203a5,,135981,question,responseOption7,37122,form,"""Climate Change Policy"" is present and ""GHG Emission Reduction Targets"" are set within the next 5 years."
+63ab97a61a000027022d7ae9,,135982,question,description,37122,form,"The elements may be specific to a location or operation or employee status, e.g., gender, ethnicity, and racial diversity."
+63ab97a61a000027022d7ae9,,135982,question,questionText,37122,form,"Does the company monitor and evaluate a range of elements that address diversity, equity and inclusion (DEI) in the workplace?"
+63ab97a61a000027022d7ae9,,135982,question,responseOption1,37122,form,Yes
+63ab97a61a000027022d7ae9,,135982,question,responseOption2,37122,form,No
+63ab98c41800003b02320407,,135983,question,questionText,37122,form,"Confirm the different employee / worker levels within the company where the principles of diversity, equity and inclusion (DEI) has been applied:"
+63ab98c41800003b02320407,,135983,question,responseOption1,37122,form,Workforce members – Permanent (Full-time)
+63ab98c41800003b02320407,,135983,question,responseOption2,37122,form,Workforce members – Permanent (Part-time)
+63ab98c41800003b02320407,,135983,question,responseOption3,37122,form,Workforce members – Temporary (Full-time)
+63ab98c41800003b02320407,,135983,question,responseOption4,37122,form,Workforce members – Temporary (Part-time)
+63ab98c41800003b02320407,,135983,question,responseOption5,37122,form,Employment Agency / Temporary Labor
+63ab98c41800003b02320407,,135983,question,responseOption6,37122,form,Recognized trade unions
+63ab98c41800003b02320407,,135983,question,responseOption7,37122,form,Members of the supply chain (contracted suppliers)
+63ab98c41800003b02320407,,135983,question,responseOption8,37122,form,Independent trade association / body
+63ab98c41800003b02320407,,135983,question,responseOption9,37122,form,Other
+63ab99241a000005022d7aee,,135984,question,questionText,37122,form,Other: 
+63ab99431a000005022d7af1,,135985,question,questionText,37122,form,"Can the company provide a policy / mission statement / management process that contributes to a workplace committed to diversity, equity and inclusion and non-discriminatory practices?"
+63ab99431a000005022d7af1,,135985,question,responseOption1,37122,form,Yes
+63ab99431a000005022d7af1,,135985,question,responseOption2,37122,form,No
+63ab99b6180000250232040b,,135986,question,questionText,37122,form,"Review - Can the company provide a policy / mission statement / management process that contributes to a workplace committed to diversity, equity and inclusion and non-discriminatory practices?"
+63ab99b6180000250232040b,,135986,question,responseOption1,37122,form,No document was provided.
+63ab99b6180000250232040b,,135986,question,responseOption2,37122,form,Document must be in English or under an acceptable text format (scanned or imaged text cannot be reviewed).
+63ab99b6180000250232040b,,135986,question,responseOption3,37122,form,Uploaded document not applicable.
+63ab99b6180000250232040b,,135986,question,responseOption4,37122,form,Policy document not referencing supplier or parent company by name. Revision recommended.
+63ab99b6180000250232040b,,135986,question,responseOption5,37122,form,"""Diversity, Equity & Inclusion Program / Policy"" is incomplete and / or is over 5 years old. Revision recommended."
+63ab99b6180000250232040b,,135986,question,responseOption6,37122,form,"Policy document or statement related to ""Diversity, Equity & Inclusion Program / Policy"" is incomplete (partial statement or description), and is over 5 years old. Revision recommended."
+63ab99b6180000250232040b,,135986,question,responseOption7,37122,form,"Policy document or statement related to ""Diversity, Equity & Inclusion Program / Policy"" is incomplete (partial statement or description), and is dated between 2 to 5 years old. Revision recommended."
+63ab99b6180000250232040b,,135986,question,responseOption8,37122,form,"Policy document or statement related to ""Diversity, Equity & Inclusion Program / Policy"" is incomplete (partial statement or description), and is less than 2 years old."
+63ab9abe1a0000f5012d7af8,,135987,question,questionText,37122,form,Review -  Can the company demonstrate and communicate how employee diversity and gender ratios are managed?
+63ab9abe1a0000f5012d7af8,,135987,question,responseOption1,37122,form,No document was provided.
+63ab9abe1a0000f5012d7af8,,135987,question,responseOption2,37122,form,Document must be in English or under an acceptable text format (scanned or imaged text cannot be reviewed).
+63ab9abe1a0000f5012d7af8,,135987,question,responseOption3,37122,form,Uploaded document not applicable.
+63ab9abe1a0000f5012d7af8,,135987,question,responseOption4,37122,form,Policy document not referencing supplier or parent company by name. Revision recommended.
+63ab9abe1a0000f5012d7af8,,135987,question,responseOption5,37122,form,"""Diversity, Equity & Inclusion Performance / Results"" are incomplete (partial information or description)  and / or is over 5 years old. Revision recommended."
+63ab9abe1a0000f5012d7af8,,135987,question,responseOption6,37122,form,"Policy document or information referenced as ""Diversity, Equity & Inclusion Performance / Results"" is incomplete (partial statement or description), and is dated between 2 to 5 years old. Revision recommended."
+63ab9abe1a0000f5012d7af8,,135987,question,responseOption7,37122,form,"Policy document or information referenced as ""Diversity, Equity & Inclusion Performance / Results"" is incomplete (partial statement or description), and is less than 2 years old."
+63ab9d901a000005022d7c0d,,135988,question,questionText,37122,form,Male Ratio (Supervisory Management)
+63ab9d901a000005022d7c0d,,135988,question,responseOption1,37122,form,0 (No male)
+63ab9d901a000005022d7c0d,,135988,question,responseOption10,37122,form,81-90 %
+63ab9d901a000005022d7c0d,,135988,question,responseOption11,37122,form,91-100 %
+63ab9d901a000005022d7c0d,,135988,question,responseOption2,37122,form,1-10 %
+63ab9d901a000005022d7c0d,,135988,question,responseOption3,37122,form,11-20 %
+63ab9d901a000005022d7c0d,,135988,question,responseOption4,37122,form,21-30 %
+63ab9d901a000005022d7c0d,,135988,question,responseOption5,37122,form,31-40 %
+63ab9d901a000005022d7c0d,,135988,question,responseOption6,37122,form,41-50 %
+63ab9d901a000005022d7c0d,,135988,question,responseOption7,37122,form,51-60 %
+63ab9d901a000005022d7c0d,,135988,question,responseOption8,37122,form,61-70 %
+63ab9d901a000005022d7c0d,,135988,question,responseOption9,37122,form,71-80 %
+63ab9e0b1800003b02320475,,135989,question,questionText,37122,form,Female Ratio (Supervisory Management)
+63ab9e0b1800003b02320475,,135989,question,responseOption1,37122,form,0 (No female)
+63ab9e0b1800003b02320475,,135989,question,responseOption10,37122,form,81-90 %
+63ab9e0b1800003b02320475,,135989,question,responseOption11,37122,form,91-100 %
+63ab9e0b1800003b02320475,,135989,question,responseOption2,37122,form,1-10 %
+63ab9e0b1800003b02320475,,135989,question,responseOption3,37122,form,11-20 %
+63ab9e0b1800003b02320475,,135989,question,responseOption4,37122,form,21-30 %
+63ab9e0b1800003b02320475,,135989,question,responseOption5,37122,form,31-40 %
+63ab9e0b1800003b02320475,,135989,question,responseOption6,37122,form,41-50 %
+63ab9e0b1800003b02320475,,135989,question,responseOption7,37122,form,51-60 %
+63ab9e0b1800003b02320475,,135989,question,responseOption8,37122,form,61-70 %
+63ab9e0b1800003b02320475,,135989,question,responseOption9,37122,form,71-80 %
+63ab9e361800005e02320476,,135990,question,questionText,37122,form,Non-binary Ratio (Supervisory Management)
+63ab9e361800005e02320476,,135990,question,responseOption1,37122,form,0 (No non-binary)
+63ab9e361800005e02320476,,135990,question,responseOption10,37122,form,81-90 %
+63ab9e361800005e02320476,,135990,question,responseOption11,37122,form,91-100 %
+63ab9e361800005e02320476,,135990,question,responseOption2,37122,form,1-10 %
+63ab9e361800005e02320476,,135990,question,responseOption3,37122,form,11-20 %
+63ab9e361800005e02320476,,135990,question,responseOption4,37122,form,21-30 %
+63ab9e361800005e02320476,,135990,question,responseOption5,37122,form,31-40 %
+63ab9e361800005e02320476,,135990,question,responseOption6,37122,form,41-50 %
+63ab9e361800005e02320476,,135990,question,responseOption7,37122,form,51-60 %
+63ab9e361800005e02320476,,135990,question,responseOption8,37122,form,61-70 %
+63ab9e361800005e02320476,,135990,question,responseOption9,37122,form,71-80 %
+63ab9f261800005e02320480,,135991,question,questionText,37122,form,Male Ratio (Board Members)
+63ab9f261800005e02320480,,135991,question,responseOption1,37122,form,0 (No male)
+63ab9f261800005e02320480,,135991,question,responseOption10,37122,form,81-90 %
+63ab9f261800005e02320480,,135991,question,responseOption11,37122,form,91-100 %
+63ab9f261800005e02320480,,135991,question,responseOption2,37122,form,1-10 %
+63ab9f261800005e02320480,,135991,question,responseOption3,37122,form,11-20 %
+63ab9f261800005e02320480,,135991,question,responseOption4,37122,form,21-30 %
+63ab9f261800005e02320480,,135991,question,responseOption5,37122,form,31-40 %
+63ab9f261800005e02320480,,135991,question,responseOption6,37122,form,41-50 %
+63ab9f261800005e02320480,,135991,question,responseOption7,37122,form,51-60 %
+63ab9f261800005e02320480,,135991,question,responseOption8,37122,form,61-70 %
+63ab9f261800005e02320480,,135991,question,responseOption9,37122,form,71-80 %
+63ab9f4c1a000039022d7c1c,,135992,question,questionText,37122,form,Female Ratio (Board Members)
+63ab9f4c1a000039022d7c1c,,135992,question,responseOption1,37122,form,0 (No female)
+63ab9f4c1a000039022d7c1c,,135992,question,responseOption10,37122,form,81-90 %
+63ab9f4c1a000039022d7c1c,,135992,question,responseOption11,37122,form,91-100 %
+63ab9f4c1a000039022d7c1c,,135992,question,responseOption2,37122,form,1-10 %
+63ab9f4c1a000039022d7c1c,,135992,question,responseOption3,37122,form,11-20 %
+63ab9f4c1a000039022d7c1c,,135992,question,responseOption4,37122,form,21-30 %
+63ab9f4c1a000039022d7c1c,,135992,question,responseOption5,37122,form,31-40 %
+63ab9f4c1a000039022d7c1c,,135992,question,responseOption6,37122,form,41-50 %
+63ab9f4c1a000039022d7c1c,,135992,question,responseOption7,37122,form,51-60 %
+63ab9f4c1a000039022d7c1c,,135992,question,responseOption8,37122,form,61-70 %
+63ab9f4c1a000039022d7c1c,,135992,question,responseOption9,37122,form,71-80 %
+63ab9f721800005e02320484,,135993,question,questionText,37122,form,Non-binary Ratio (Board Members)
+63ab9f721800005e02320484,,135993,question,responseOption1,37122,form,0 (No non-binary)
+63ab9f721800005e02320484,,135993,question,responseOption10,37122,form,81-90 %
+63ab9f721800005e02320484,,135993,question,responseOption11,37122,form,91-100 %
+63ab9f721800005e02320484,,135993,question,responseOption2,37122,form,1-10 %
+63ab9f721800005e02320484,,135993,question,responseOption3,37122,form,11-20 %
+63ab9f721800005e02320484,,135993,question,responseOption4,37122,form,21-30 %
+63ab9f721800005e02320484,,135993,question,responseOption5,37122,form,31-40 %
+63ab9f721800005e02320484,,135993,question,responseOption6,37122,form,41-50 %
+63ab9f721800005e02320484,,135993,question,responseOption7,37122,form,51-60 %
+63ab9f721800005e02320484,,135993,question,responseOption8,37122,form,61-70 %
+63ab9f721800005e02320484,,135993,question,responseOption9,37122,form,71-80 %
+63aba1381800003b02320487,,135994,question,questionText,37122,form,"Can the company  demonstrate the methods related to the prevention of child / underage labor within the supply chain, including any supporting management commitment statements?"
+63aba1381800003b02320487,,135994,question,responseOption1,37122,form,Yes
+63aba1381800003b02320487,,135994,question,responseOption2,37122,form,No
+63aba1831a000039022d7c26,,135995,question,questionText,37122,form,"Review - Can the company  demonstrate the methods related to the prevention of child / underage labor within the supply chain, including any supporting management commitment statements?"
+63aba1831a000039022d7c26,,135995,question,responseOption1,37122,form,No document was provided.
+63aba1831a000039022d7c26,,135995,question,responseOption2,37122,form,Document must be in English or under an acceptable text format (scanned or imaged text cannot be reviewed).
+63aba1831a000039022d7c26,,135995,question,responseOption3,37122,form,Uploaded document not applicable.
+63aba1831a000039022d7c26,,135995,question,responseOption4,37122,form,Policy document not referencing supplier or parent company by name. Revision recommended.
+63aba1831a000039022d7c26,,135995,question,responseOption5,37122,form,"""Prevention of Child / Underage Labor"" policy document is incomplete (partial document or statement) and / or is over 5 years old. Revision recommended."
+63aba1831a000039022d7c26,,135995,question,responseOption6,37122,form,"Policy document or statement referenced as ""Prevention of Child / Underage Labor"" is incomplete (partial statement or description), and is dated between 2 to 5 years old. Revision recommended."
+63aba1831a000039022d7c26,,135995,question,responseOption7,37122,form,"Policy document or statement referenced as ""Prevention of Child / Underage Labor"" is incomplete (partial statement or description), and is less than 2 years old."
+63aba34c1a000005022d7c2e,,135996,question,questionText,37122,form,Can the company demonstrate if any form of health and wellness (wellbeing)  program have been introduced into the business?
+63aba34c1a000005022d7c2e,,135996,question,responseOption1,37122,form,Yes
+63aba34c1a000005022d7c2e,,135996,question,responseOption2,37122,form,No
+63aba37a1800003b02320560,,135997,question,questionText,37122,form,Review - Can the company demonstrate if any form of health and wellness (wellbeing)  program have been introduced into the business?
+63aba37a1800003b02320560,,135997,question,responseOption1,37122,form,No document was provided.
+63aba37a1800003b02320560,,135997,question,responseOption2,37122,form,Document must be in English or under an acceptable text format (scanned or imaged text cannot be reviewed).
+63aba37a1800003b02320560,,135997,question,responseOption3,37122,form,Uploaded document not applicable.
+63aba37a1800003b02320560,,135997,question,responseOption4,37122,form,Policy document not referencing supplier or parent company by name. Revision recommended.
+63aba37a1800003b02320560,,135997,question,responseOption5,37122,form,"""Health & Wellness Program"" is incomplete (partial document or program) and / or is over 5 years old. Revision recommended."
+63aba37a1800003b02320560,,135997,question,responseOption6,37122,form,"Policy document or program referenced as ""Health & Wellness Program"" is incomplete (partial statement or description), and is dated between 2 to 5 years old. Revision recommended."
+63aba37a1800003b02320560,,135997,question,responseOption7,37122,form,"Policy document or program referenced as ""Health & Wellness Program"" is incomplete (partial statement or description), and is less than 2 years old."
+63aba5dc1a00005d022d7d0f,,135998,question,questionText,37122,form,"Review - Does the company have an anti-bribery, prevention of corrupt business practices policy or ethical code of conduct that is applied to all members of the workforce or independent individuals / 3rd parties who represent the company?"
+63aba5dc1a00005d022d7d0f,,135998,question,responseOption1,37122,form,No document was provided.
+63aba5dc1a00005d022d7d0f,,135998,question,responseOption2,37122,form,Document must be in English or under an acceptable text format (scanned or imaged text cannot be reviewed).
+63aba5dc1a00005d022d7d0f,,135998,question,responseOption3,37122,form,Uploaded document not applicable.
+63aba5dc1a00005d022d7d0f,,135998,question,responseOption4,37122,form,Policy document not referencing supplier or parent company by name. Revision recommended.
+63aba5dc1a00005d022d7d0f,,135998,question,responseOption5,37122,form,"""Anti-Corruption Policy"" is incomplete (partial document or statement) and / or is over 5 years old. Revision recommended."
+63aba5dc1a00005d022d7d0f,,135998,question,responseOption6,37122,form,"Policy document or statement referenced as ""Anti-Corruption Policy"" is incomplete (partial statement or description), and is dated between 2 to 5 years old. Revision recommended."
+63aba5dc1a00005d022d7d0f,,135998,question,responseOption7,37122,form,"Policy document or statement referenced as ""Anti-Corruption Policy"" is incomplete (partial statement or description), and is less than 2 years old."
+63aba7971a000071022d7d19,,135999,question,questionText,37122,form,Does the company evaluate the giving / receiving of gifts to ensure transparency and compliance with relevant legislation and company policy?
+63aba7971a000071022d7d19,,135999,question,responseOption1,37122,form,Yes
+63aba7971a000071022d7d19,,135999,question,responseOption2,37122,form,No
+63aba81718000085023206aa,,136000,question,questionText,37122,form,"Review - Does the company assess the risk of working with new and potential suppliers (Domestic or International) to understand and identify the potential of fraud, corruption and unethical business practice?"
+63aba81718000085023206aa,,136000,question,responseOption1,37122,form,No document was provided.
+63aba81718000085023206aa,,136000,question,responseOption2,37122,form,Document must be in English or under an acceptable text format (scanned or imaged text cannot be reviewed).
+63aba81718000085023206aa,,136000,question,responseOption3,37122,form,Uploaded document not applicable.
+63aba81718000085023206aa,,136000,question,responseOption4,37122,form,Policy document not referencing supplier or parent company by name. Revision recommended.
+63aba81718000085023206aa,,136000,question,responseOption5,37122,form,"""Anti-Corruption Work Practices"" are incomplete (partial document or statement), and / or is over 5 years old. Revision recommended."
+63aba81718000085023206aa,,136000,question,responseOption6,37122,form,"Policy document or statement referenced as ""Anti-Corruption Work Practices"" is incomplete (partial statement or description), and is dated between 2 to 5 years old. Revision recommended."
+63aba81718000085023206aa,,136000,question,responseOption7,37122,form,"Policy document or statement referenced as ""Anti-Corruption Work Practices"" is incomplete (partial statement or description), and is less than 2 years old."
+63aba9011800009e023206b2,,136002,question,questionText,37122,form,Does your company participate in any third-party human rights or Social Responsibility management / certification program or initiative? 
+63aba9011800009e023206b2,,136002,question,responseOption1,37122,form,Yes
+63aba9011800009e023206b2,,136002,question,responseOption2,37122,form,No
+63aba9271800009e023206b5,,136003,question,questionText,37122,form,Select the current program / s the company currently participates within: 
+63aba9271800009e023206b5,,136003,question,responseOption1,37122,form,B Corp
+63aba9271800009e023206b5,,136003,question,responseOption10,37122,form,Fair Tax
+63aba9271800009e023206b5,,136003,question,responseOption11,37122,form,Fairtrade
+63aba9271800009e023206b5,,136003,question,responseOption12,37122,form,Forest Stewardship Council (FSC)
+63aba9271800009e023206b5,,136003,question,responseOption13,37122,form,Global Electronics Council - Environmental Product Environmental Assessment Tool (EPEAT)
+63aba9271800009e023206b5,,136003,question,responseOption14,37122,form,Global Real Estate Sustainability Benchmark (GRESB)
+63aba9271800009e023206b5,,136003,question,responseOption15,37122,form,Global Reporting Initiative
+63aba9271800009e023206b5,,136003,question,responseOption16,37122,form,Green Accord
+63aba9271800009e023206b5,,136003,question,responseOption17,37122,form,Green America
+63aba9271800009e023206b5,,136003,question,responseOption18,37122,form,Green Business Bureau
+63aba9271800009e023206b5,,136003,question,responseOption19,37122,form,Green C Certification
+63aba9271800009e023206b5,,136003,question,responseOption2,37122,form,BES 6001 - Responsible Sourcing of Construction Products
+63aba9271800009e023206b5,,136003,question,responseOption20,37122,form,Green Code
+63aba9271800009e023206b5,,136003,question,responseOption21,37122,form,Green Mark
+63aba9271800009e023206b5,,136003,question,responseOption22,37122,form,Green Plus
+63aba9271800009e023206b5,,136003,question,responseOption23,37122,form,Green Seal
+63aba9271800009e023206b5,,136003,question,responseOption24,37122,form,Green Tourism
+63aba9271800009e023206b5,,136003,question,responseOption25,37122,form,IAS Plus
+63aba9271800009e023206b5,,136003,question,responseOption26,37122,form,International Sustainability and Carbon Certification (ISCC)
+63aba9271800009e023206b5,,136003,question,responseOption27,37122,form,International WELL Building Institute (IWBI) Certification
+63aba9271800009e023206b5,,136003,question,responseOption28,37122,form,Investors in the Environment
+63aba9271800009e023206b5,,136003,question,responseOption29,37122,form,ISO 14001:2015
+63aba9271800009e023206b5,,136003,question,responseOption3,37122,form,BS EN ISO 26000:2020
+63aba9271800009e023206b5,,136003,question,responseOption30,37122,form,ISSB
+63aba9271800009e023206b5,,136003,question,responseOption31,37122,form,Leadership in Energy and Environmental Design (LEED)
+63aba9271800009e023206b5,,136003,question,responseOption32,37122,form,Parksmart
+63aba9271800009e023206b5,,136003,question,responseOption33,37122,form,Performance Excellence in Electricity Renewal (PEER)
+63aba9271800009e023206b5,,136003,question,responseOption34,37122,form,Programme for the Endorsement of Forest Certification [PEFC)
+63aba9271800009e023206b5,,136003,question,responseOption35,37122,form,Responsible Business Alliance
+63aba9271800009e023206b5,,136003,question,responseOption36,37122,form,Safer Choice
+63aba9271800009e023206b5,,136003,question,responseOption37,37122,form,SEDEX
+63aba9271800009e023206b5,,136003,question,responseOption38,37122,form,SITES
+63aba9271800009e023206b5,,136003,question,responseOption39,37122,form,Sustainable Procurement Pledge (SPP)
+63aba9271800009e023206b5,,136003,question,responseOption4,37122,form,Carbon Trust
+63aba9271800009e023206b5,,136003,question,responseOption40,37122,form,Task Force on Climate-Related Financial Disclosures (TCFD)
+63aba9271800009e023206b5,,136003,question,responseOption41,37122,form,The Institute for Green Business Certification
+63aba9271800009e023206b5,,136003,question,responseOption42,37122,form,United Nations Global Compact
+63aba9271800009e023206b5,,136003,question,responseOption43,37122,form,USDA Organic
+63aba9271800009e023206b5,,136003,question,responseOption44,37122,form,Wastewise
+63aba9271800009e023206b5,,136003,question,responseOption45,37122,form,Watersense
+63aba9271800009e023206b5,,136003,question,responseOption46,37122,form,Other
+63aba9271800009e023206b5,,136003,question,responseOption5,37122,form,CDP
+63aba9271800009e023206b5,,136003,question,responseOption6,37122,form,Ecovadis
+63aba9271800009e023206b5,,136003,question,responseOption7,37122,form,Energy Star
+63aba9271800009e023206b5,,136003,question,responseOption8,37122,form,Ethical Trade Initiative Base Code
+63aba9271800009e023206b5,,136003,question,responseOption9,37122,form,Excellence in Design for Greater Efficiencies (EDGE)
+63aba9cd18000092023206b7,,136004,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+63aba9cd18000092023206b7,,136004,question,questionText,37122,form,Other:
+63aba9f01a00007b022d7e72,,136005,question,description,37122,form,"Supporting evidence can include audit reports, accreditation certification, etc."
+63aba9f01a00007b022d7e72,,136005,question,moreDescription,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+63aba9f01a00007b022d7e72,,136005,question,questionText,37122,form,Please upload supporting evidence to confirm the participation of the company in the selected programs: 
+63abaa2118000085023206bb,,136006,question,questionText,37122,form,Is the company actively working towards membership of any third-party human rights or socially responsible certification program or initiative?
+63abaa2118000085023206bb,,136006,question,responseOption1,37122,form,Yes
+63abaa2118000085023206bb,,136006,question,responseOption2,37122,form,No
+63abaa3518000085023206be,,136007,question,questionText,37122,form,Select the program / s the company is planning membership / certification:
+63abaa3518000085023206be,,136007,question,responseOption1,37122,form,B Corp
+63abaa3518000085023206be,,136007,question,responseOption10,37122,form,Fair Tax
+63abaa3518000085023206be,,136007,question,responseOption11,37122,form,Fairtrade
+63abaa3518000085023206be,,136007,question,responseOption12,37122,form,Forest Stewardship Council (FSC)
+63abaa3518000085023206be,,136007,question,responseOption13,37122,form,Global Electronics Council - Environmental Product Environmental Assessment Tool (EPEAT)
+63abaa3518000085023206be,,136007,question,responseOption14,37122,form,Global Real Estate Sustainability Benchmark (GRESB)
+63abaa3518000085023206be,,136007,question,responseOption15,37122,form,Global Reporting Initiative
+63abaa3518000085023206be,,136007,question,responseOption16,37122,form,Green Accord
+63abaa3518000085023206be,,136007,question,responseOption17,37122,form,Green America
+63abaa3518000085023206be,,136007,question,responseOption18,37122,form,Green Business Bureau
+63abaa3518000085023206be,,136007,question,responseOption19,37122,form,Green C Certification
+63abaa3518000085023206be,,136007,question,responseOption2,37122,form,BES 6001 - Responsible Sourcing of Construction Products
+63abaa3518000085023206be,,136007,question,responseOption20,37122,form,Green Code
+63abaa3518000085023206be,,136007,question,responseOption21,37122,form,Green Mark
+63abaa3518000085023206be,,136007,question,responseOption22,37122,form,Green Plus
+63abaa3518000085023206be,,136007,question,responseOption23,37122,form,Green Seal
+63abaa3518000085023206be,,136007,question,responseOption24,37122,form,Green Tourism
+63abaa3518000085023206be,,136007,question,responseOption25,37122,form,IAS Plus
+63abaa3518000085023206be,,136007,question,responseOption26,37122,form,International Sustainability and Carbon Certification (ISCC)
+63abaa3518000085023206be,,136007,question,responseOption27,37122,form,International WELL Building Institute (IWBI) Certification
+63abaa3518000085023206be,,136007,question,responseOption28,37122,form,Investors in the Environment
+63abaa3518000085023206be,,136007,question,responseOption29,37122,form,ISO 14001:2015
+63abaa3518000085023206be,,136007,question,responseOption3,37122,form,BS EN ISO 26000:2020
+63abaa3518000085023206be,,136007,question,responseOption30,37122,form,ISSB
+63abaa3518000085023206be,,136007,question,responseOption31,37122,form,Leadership in Energy and Environmental Design (LEED)
+63abaa3518000085023206be,,136007,question,responseOption32,37122,form,Parksmart
+63abaa3518000085023206be,,136007,question,responseOption33,37122,form,Performance Excellence in Electricity Renewal (PEER)
+63abaa3518000085023206be,,136007,question,responseOption34,37122,form,Programme for the Endorsement of Forest Certification [PEFC)
+63abaa3518000085023206be,,136007,question,responseOption35,37122,form,Responsible Business Alliance
+63abaa3518000085023206be,,136007,question,responseOption36,37122,form,Safer Choice
+63abaa3518000085023206be,,136007,question,responseOption37,37122,form,SEDEX
+63abaa3518000085023206be,,136007,question,responseOption38,37122,form,SITES
+63abaa3518000085023206be,,136007,question,responseOption39,37122,form,Sustainable Procurement Pledge (SPP)
+63abaa3518000085023206be,,136007,question,responseOption4,37122,form,Carbon Trust
+63abaa3518000085023206be,,136007,question,responseOption40,37122,form,Task Force on Climate-Related Financial Disclosures (TCFD)
+63abaa3518000085023206be,,136007,question,responseOption41,37122,form,The Institute for Green Business Certification
+63abaa3518000085023206be,,136007,question,responseOption42,37122,form,United Nations Global Compact
+63abaa3518000085023206be,,136007,question,responseOption43,37122,form,USDA Organic
+63abaa3518000085023206be,,136007,question,responseOption44,37122,form,Wastewise
+63abaa3518000085023206be,,136007,question,responseOption45,37122,form,Watersense
+63abaa3518000085023206be,,136007,question,responseOption46,37122,form,Other
+63abaa3518000085023206be,,136007,question,responseOption5,37122,form,CDP
+63abaa3518000085023206be,,136007,question,responseOption6,37122,form,Ecovadis
+63abaa3518000085023206be,,136007,question,responseOption7,37122,form,Energy Star
+63abaa3518000085023206be,,136007,question,responseOption8,37122,form,Ethical Trade Initiative Base Code
+63abaa3518000085023206be,,136007,question,responseOption9,37122,form,Excellence in Design for Greater Efficiencies (EDGE)
+63abaaf61a00007a022d7e77,,136009,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+63abaaf61a00007a022d7e77,,136009,question,questionText,37122,form,Other:
+63abab0e18000092023206c2,,136010,question,description,37122,form,"The process should include the following subjects - Health and Safety, Labor / Human Rights, Environmental best practice, and transparent business practice as part of a combined audit / evaluation."
+63abab0e18000092023206c2,,136010,question,questionText,37122,form,Has your company been through any form of independent third-party audit / and or client led sustainability initiative as part of a review or evaluation program? 
+63abab0e18000092023206c2,,136010,question,responseOption1,37122,form,Yes
+63abab0e18000092023206c2,,136010,question,responseOption2,37122,form,No
+63abab521a00007a022d7e7a,,136011,question,description,37122,form,"The evaluation can be undertaken by in-house personnel or via an internal 3rd party and should cover the following core subjects as a minimum, health and safety, environmental best practice, labor / human rights, and business transparency and can be applied pre / post contract award)"
+63abab521a00007a022d7e7a,,136011,question,questionText,37122,form,Has your company carried out any form of sustainability audit program on members of your strategic supply chain? 
+63abab521a00007a022d7e7a,,136011,question,responseOption1,37122,form,Yes
+63abab521a00007a022d7e7a,,136011,question,responseOption2,37122,form,No
+63abab7d1a000054022d7e7b,,136012,question,description,37122,form,"If the report contains any confidential or personal information that may endanger or impact on any individual, this should be redacted"
+63abab7d1a000054022d7e7b,,136012,question,moreDescription,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+63abab7d1a000054022d7e7b,,136012,question,questionText,37122,form,"Upload a sample report or executive summary, confirming any issues identified during the sustainability assessment or audit, and include any action plans produced to address findings."
+63abab9a1a00007a022d7e7d,,136013,question,questionText,37122,form,Is the company working to address any of the United Nations - Sustainable Development Goals (SDG’s)? 
+63abab9a1a00007a022d7e7d,,136013,question,responseOption1,37122,form,Yes
+63abab9a1a00007a022d7e7d,,136013,question,responseOption2,37122,form,No
+63ababb81800009e023206c9,,136014,question,questionText,37122,form,Please select the applicable Sustainable Development Goals (SDGs): 
+63ababb81800009e023206c9,,136014,question,responseOption1,37122,form,GOAL 1: No Poverty
+63ababb81800009e023206c9,,136014,question,responseOption10,37122,form,GOAL 10: Reduced Inequality
+63ababb81800009e023206c9,,136014,question,responseOption11,37122,form,GOAL 11: Sustainable Cities and Communities
+63ababb81800009e023206c9,,136014,question,responseOption12,37122,form,GOAL 12: Responsible Consumption and Production
+63ababb81800009e023206c9,,136014,question,responseOption13,37122,form,GOAL 13: Climate Action
+63ababb81800009e023206c9,,136014,question,responseOption14,37122,form,GOAL 14: Life Below Water
+63ababb81800009e023206c9,,136014,question,responseOption15,37122,form,GOAL 15: Life on Land
+63ababb81800009e023206c9,,136014,question,responseOption16,37122,form,GOAL 16: Peace and Justice Strong Institutions
+63ababb81800009e023206c9,,136014,question,responseOption17,37122,form,GOAL 17: Partnerships to achieve the Goal
+63ababb81800009e023206c9,,136014,question,responseOption2,37122,form,GOAL 2: Zero Hunger
+63ababb81800009e023206c9,,136014,question,responseOption3,37122,form,GOAL 3: Good Health and Well-being
+63ababb81800009e023206c9,,136014,question,responseOption4,37122,form,GOAL 4: Quality Education
+63ababb81800009e023206c9,,136014,question,responseOption5,37122,form,GOAL 5: Gender Equality
+63ababb81800009e023206c9,,136014,question,responseOption6,37122,form,GOAL 6: Clean Water and Sanitation
+63ababb81800009e023206c9,,136014,question,responseOption7,37122,form,GOAL 7: Affordable and Clean Energy
+63ababb81800009e023206c9,,136014,question,responseOption8,37122,form,GOAL 8: Decent Work and Economic Growth
+63ababb81800009e023206c9,,136014,question,responseOption9,37122,form,"GOAL 9: Industry, Innovation, and Infrastructure"
+63abac0c18000089023206cb,,136015,question,questionText,37122,form,Please confirm which part of the business is participating in the implementation of the United Nations - Sustainable Development Goals (SDG’s):
+63abac0c18000089023206cb,,136015,question,responseOption1,37122,form,Parent Company initiative only
+63abac0c18000089023206cb,,136015,question,responseOption2,37122,form,Parent Company and subsidiaries within the business (National / International)
+63abac0c18000089023206cb,,136015,question,responseOption3,37122,form,Your company only
+63abac0c18000089023206cb,,136015,question,responseOption4,37122,form,Other
+63abac2f1800009e023206cc,,136016,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+63abac2f1800009e023206cc,,136016,question,questionText,37122,form,Other:
+63abac4e18000089023206ce,,136017,question,description,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+63abac4e18000089023206ce,,136017,question,questionText,37122,form,Please upload supporting documentation confirming how and which SDG’s the company is addressing \nwithin the business.
+63abac6d18000089023206d1,,136018,question,description,37122,form,"This can be facilitated using questionnaires, interviews, 1:1 sessions, team briefings, covering the working environment, remuneration equity [equal pay between genders], fairness, inclusion, workplace safety and where applicable the organizations ESG / Sustainability credentials)"
+63abac6d18000089023206d1,,136018,question,questionText,37122,form,Has the company obtained employee feedback on how the business is managed using employee surveys or cultural assessments?
+63abac6d18000089023206d1,,136018,question,responseOption1,37122,form,Yes
+63abac6d18000089023206d1,,136018,question,responseOption2,37122,form,No
+63abacc218000092023206d2,,136019,question,description,37122,form,"Screenshots and examples of how results were communicated, and media used e.g., individual email, verbal briefings, company intranet, etc. Redacting any sensitive, confidential, or personal information"
+63abacc218000092023206d2,,136019,question,moreDescription,37122,form,"Additional information, details, answers, or documents entered under this question may be subject to verification / examination, but will not be considered in the overall ESG Assessment score"
+63abacc218000092023206d2,,136019,question,questionText,37122,form,Please upload supporting documentation confirming how the company delivered the survey or cultural assessment.

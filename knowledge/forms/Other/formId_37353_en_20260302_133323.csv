@@ -1,0 +1,20 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6351b032170000031121b96b,6351af19170000f11021adfa,37353,questionGroup,questionGroupText,37353,form,Ecuador Health & Safety Regulatory Requirements
+6351af4d170000f11021b00b,,131892,question,questionText,37353,form,Does the company have a registered Safety Professional according to ministerial agreement No. 219?
+6351af4d170000f11021b00b,,131892,question,responseOption1,37353,form,Yes
+6351af4d170000f11021b00b,,131892,question,responseOption2,37353,form,No
+6351af62160000f711715123,,131893,question,questionText,37353,form,"Does the company have a current Health & Safety Program and Risk Matrices, approved by the Ministry of Labor?"
+6351af62160000f711715123,,131893,question,responseOption1,37353,form,Yes
+6351af62160000f711715123,,131893,question,responseOption2,37353,form,No
+6351af75170000f41121b115,,131894,question,questionText,37353,form,Does your company have a basic HSE plan approved by the ministry of labor?
+6351af75170000f41121b115,,131894,question,responseOption1,37353,form,Yes
+6351af75170000f41121b115,,131894,question,responseOption2,37353,form,No
+6351af88170000f11021b193,,131895,question,questionText,37353,form,Does your company have an HSE policy?
+6351af88170000f11021b193,,131895,question,responseOption1,37353,form,Yes
+6351af88170000f11021b193,,131895,question,responseOption2,37353,form,No
+6351af9c160000fc117151e3,,131896,question,questionText,37353,form,"Please upload a joint Health and Safety Committee Certificate, issued by the Ministry of Labor."
+6351afb8170000031121b3ac,,131897,question,questionText,37353,form,Does your company have an environmental register (environmental license or best practices plan in accordance with the environmental classification)?
+6351afb8170000031121b3ac,,131897,question,responseOption1,37353,form,Yes
+6351afb8170000031121b3ac,,131897,question,responseOption2,37353,form,No
+6351afb8170000031121b3ac,,131897,question,responseOption3,37353,form,N/A
+6351afe0160000f711715381,,131898,question,questionText,37353,form,Please upload a Certificate from the Ministry of the Environment.

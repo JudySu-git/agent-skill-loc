@@ -1,0 +1,69 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65a981a61a0000d7019c66eb,65a94f541a0000cd019b86bc,41135,questionGroup,questionGroupText,41136,form,Company Operational Details
+67094af101000036005e6609,65a94f541a0000cd019b86bb,41136,questionGroup,questionGroupText,41136,form,Avetta PQF - Iraq Company Operational & Ownership/Affiliation Details
+65a97c31170000b344ea64c4,65a97c31170000b344ea64c3,41138,questionGroup,questionGroupText,41136,form,Company Ownership and Affiliation Details
+65a94f541a0000cd019b86be,,149838,question,questionText,41136,form,### Registered Office Address in Iraq:\nAddress:
+65a94f541a0000cd019b86be,,149838,question,responseOption1,41136,form,Yes
+65a94f541a0000cd019b86be,,149838,question,responseOption2,41136,form,No
+65a94fc6170000e940e9a2ee,,149839,question,questionText,41136,form,City:
+65a94fc6170000e940e9a2ee,,149839,question,responseOption1,41136,form,Yes
+65a94fc6170000e940e9a2ee,,149839,question,responseOption2,41136,form,No
+65a94fd01a0000b4009bae92,,149840,question,questionText,41136,form,Province:
+65a94fd01a0000b4009bae92,,149840,question,responseOption1,41136,form,Yes
+65a94fd01a0000b4009bae92,,149840,question,responseOption2,41136,form,No
+65a950531700000242e9d324,,149842,question,description,41136,form,"The operating address is different from a corporate or registered address, which is often used for legal and official correspondence. It is where the day-to-day operations of the business take place, such as:\n<br>\n\n* Offices where employees work.\n\n* Manufacturing facilities where products are made.\n\n* Retail locations where products are sold.\n\n* Warehouses where goods are stored."
+65a950531700000242e9d324,,149842,question,questionText,41136,form,### Operating Address in Iraq:\n\nAddress: 
+65a950531700000242e9d324,,149842,question,responseOption1,41136,form,Yes
+65a950531700000242e9d324,,149842,question,responseOption2,41136,form,No
+65a9505d1700000241e9d9b7,,149843,question,questionText,41136,form,City:
+65a9505d1700000241e9d9b7,,149843,question,responseOption1,41136,form,Yes
+65a9505d1700000241e9d9b7,,149843,question,responseOption2,41136,form,No
+65a9506a1a0000be019be25b,,149844,question,questionText,41136,form,Province: 
+65a9506a1a0000be019be25b,,149844,question,responseOption1,41136,form,Yes
+65a9506a1a0000be019be25b,,149844,question,responseOption2,41136,form,No
+65a950991700007242e9f76a,,149846,question,questionText,41136,form,### Legal Representative in Iraq:\nDoes your company have a legal representative in Iraq?
+65a950991700007242e9f76a,,149846,question,responseOption1,41136,form,Yes
+65a950991700007242e9f76a,,149846,question,responseOption2,41136,form,No
+65a950be1700007e42e9fe2d,,149847,question,questionText,41136,form,Name of Representative:
+65a950be1700007e42e9fe2d,,149847,question,responseOption1,41136,form,Yes
+65a950be1700007e42e9fe2d,,149847,question,responseOption2,41136,form,No
+65a950d51700008342ea09a5,,149849,question,questionText,41136,form,#### Contact Information:\nPhone number:
+65a950d51700008342ea09a5,,149849,question,responseOption1,41136,form,Yes
+65a950d51700008342ea09a5,,149849,question,responseOption2,41136,form,No
+65a950e11700009a42ea0fdd,,149850,question,questionText,41136,form,Email:
+65a950e11700009a42ea0fdd,,149850,question,responseOption1,41136,form,Yes
+65a950e11700009a42ea0fdd,,149850,question,responseOption2,41136,form,No
+65a97be9170000fe43ea64b9,,149852,question,questionText,41136,form,### Local and Foreign Ownership Details:\nPercentage of Iraqi Ownership:
+65a97bf61a0000be339c6699,,149853,question,questionText,41136,form,Percentage of Foreign Ownership:
+65a97c0f170000d743ea64bf,,149855,question,questionText,41136,form,### Employee Details:\nNumber of Iraqi Nationals:
+65a97c1c1700000842ea64c1,,149856,question,questionText,41136,form,Number of Foreign Nationals:
+65a97c5f1700000842ea64c9,,149857,question,questionText,41136,form,"Has your company, or the owners of your company, operated under a different name in the last three years?"
+65a97c5f1700000842ea64c9,,149857,question,responseOption1,41136,form,Yes
+65a97c5f1700000842ea64c9,,149857,question,responseOption2,41136,form,No
+65a97c6c1700000842ea64cb,,149858,question,questionText,41136,form,What was the name & location of the company?
+65a97c6c1700000842ea64cb,,149858,question,responseOption1,41136,form,Yes
+65a97c6c1700000842ea64cb,,149858,question,responseOption2,41136,form,No
+65a97c791a0000be339c66a7,,149859,question,questionText,41136,form,Does your company currently operate under any other company names?
+65a97c791a0000be339c66a7,,149859,question,responseOption1,41136,form,Yes
+65a97c791a0000be339c66a7,,149859,question,responseOption2,41136,form,No
+65a97c81170000c042ea64cd,,149860,question,description,41136,form,(Separate multiple names by semicolons)
+65a97c81170000c042ea64cd,,149860,question,questionText,41136,form,Please list all other names under which your company operates:\n
+65a97c81170000c042ea64cd,,149860,question,responseOption1,41136,form,Yes
+65a97c81170000c042ea64cd,,149860,question,responseOption2,41136,form,No
+65a97cbb1a0000bd339c66aa,,149861,question,questionText,41136,form,Is your company an affiliate of any other organization(s)?
+65a97cbb1a0000bd339c66aa,,149861,question,responseOption1,41136,form,Yes
+65a97cbb1a0000bd339c66aa,,149861,question,responseOption2,41136,form,No
+65a97cfd170000b444ea64d1,,149862,question,questionText,41136,form,What is your parent company's name?
+65a97cfd170000b444ea64d1,,149862,question,responseOption1,41136,form,Yes
+65a97cfd170000b444ea64d1,,149862,question,responseOption2,41136,form,No
+65a97d0c1a0000d7019c66ae,,149863,question,questionText,41136,form,What is your subsidiary company's name(s)?
+65a97d0c1a0000d7019c66ae,,149863,question,responseOption1,41136,form,Yes
+65a97d0c1a0000d7019c66ae,,149863,question,responseOption2,41136,form,No
+65a97d1e170000b444ea64d4,,149864,question,questionText,41136,form,Please select the option that best describes the reporting for the information available in Avetta:
+65a97d1e170000b444ea64d4,,149864,question,responseOption1,41136,form,Entire COMPANY: COMPANY-wide employee numbers or entire corporation
+65a97d1e170000b444ea64d4,,149864,question,responseOption2,41136,form,Service Unit
+65a97d1e170000b444ea64d4,,149864,question,responseOption3,41136,form,Specialized service unit
+65a97d1e170000b444ea64d4,,149864,question,responseOption4,41136,form,Other
+65a97d48170000c042ea64d6,,149865,question,questionText,41136,form,Please explain:
+65a97d48170000c042ea64d6,,149865,question,responseOption1,41136,form,Yes
+65a97d48170000c042ea64d6,,149865,question,responseOption2,41136,form,No

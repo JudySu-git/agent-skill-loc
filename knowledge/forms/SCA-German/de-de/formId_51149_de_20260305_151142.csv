@@ -1,0 +1,13 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87738a36b6c4c635466c5,69a87738a36b6c4c635466c4,51149,questionGroup,questionGroupText,51149,form,Bau - Materialtransport und Lagerung,
+69a87738a36b6c4c635466be,,199995,question,description,51149,form,"Die Materiallagerung muss Gefahren durch Herunterfallen, Abrutschen, Umkippen oder Wegrollen verhindern.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 15 Abs. 1</a>",
+69a87738a36b6c4c635466be,,199995,question,questionText,51149,form,Sichere Materiallagerung,
+69a87738a36b6c4c635466bf,,199996,question,description,51149,form,"Die Lagerhöhe muss auf ein standsicheres Maß begrenzt werden. Nur leichte Materialien dürfen manuell höher als 2,00 m gestapelt werden.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 15 Abs. 3</a>",
+69a87738a36b6c4c635466bf,,199996,question,questionText,51149,form,Begrenzung der Lagerhöhe (Nicht mehr als 2 Meter),
+69a87738a36b6c4c635466c0,,199997,question,description,51149,form,"Die Grundfläche von Stapeln muss fest, eben und tragfähig sein.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 15 Abs. 4</a>",
+69a87738a36b6c4c635466c0,,199997,question,questionText,51149,form,Standfeste Stapelunterlage,
+69a87738a36b6c4c635466c1,,199998,question,description,51149,form,"Der Zustand der Verpackung muss vor dem Transport von verpackten Materialien überprüft werden.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 16 Abs. 3</a>",
+69a87738a36b6c4c635466c1,,199998,question,questionText,51149,form,Überprüfung (Vor dem Transport),
+69a87738a36b6c4c635466c2,,199999,question,description,51149,form,"Abwurfbereiche müssen vor dem Abwerfen von Materialien gesichert werden. Freigabesignale für den Abwurf müssen die Sicherheit des Bereichs bestätigen.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 16 Abs. 5</a>",
+69a87738a36b6c4c635466c2,,199999,question,questionText,51149,form,Genehmigte Abwurfzonen,
+69a87738a36b6c4c635466c3,,200000,question,questionText,51149,form,<div></div>,

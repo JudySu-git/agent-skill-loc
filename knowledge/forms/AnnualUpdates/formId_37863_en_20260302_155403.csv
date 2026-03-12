@@ -1,0 +1,21 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6582182a1900008500e30e42,6386450819000039012ead9c,37862,questionGroup,questionGroupText,37863,form,Uruguay
+65847f9d180000073d9bddb0,6386450819000039012ead9b,37863,questionGroup,questionGroupText,37863,form,Avetta Uruguay Annual Update
+6386450819000039012ead9d,,133956,question,questionText,37863,form,What is the _average_ number of employees for the given year? Approximate if necessary.
+6386450819000039012ead9e,,133957,question,description,37863,form,Any unexpected injury or incident that occurs at work or commuting to and from work is classified as a work accident. Occupational diseases/illnesses are those incidents that occur due to the scope of the work being carried out or due to the hazards present within the work environment.
+6386450819000039012ead9e,,133957,question,questionText,37863,form,Did your company experience any work accidents or occupational diseases/illnesses for the given year?
+6386450819000039012ead9e,,133957,question,responseOptionNo,37863,form,No
+6386450819000039012ead9e,,133957,question,responseOptionYes,37863,form,Yes
+6386450819000039012ead9f,,133958,question,questionText,37863,form,What is the total number of hours worked?
+6386450819000039012eada0,,133959,question,description,37863,form,Work accidents or occupational diseases that result in an employee death.
+6386450819000039012eada0,,133959,question,questionText,37863,form,How many fatalities were there for the given year?
+6386450819000039012eada6,,133965,question,questionText,37863,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+6386450819000039012eada7,,133966,question,questionText,37863,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+6386450819000039012eadaa,,133969,question,questionText,37863,form,Please enter the total number of total days away from work:
+658218d3160000c00048d361,,148623,question,description,37863,form,Those incidents that resulted in a _permanent loss_ in the employee's working capacity including physical integrity and ability to work.
+658218d3160000c00048d361,,148623,question,questionText,37863,form,How many _total permanent_ disability incidents were there for the given year?
+658218ed190000a100e30f48,,148624,question,description,37863,form,Those incidents that resulted in a <u>permanent reduction</u> in the employee's working capacity including physical integrity and ability to work.
+658218ed190000a100e30f48,,148624,question,questionText,37863,form,How many _partial permanent_ disability incidents were there for the given year?
+6582191c1900009000e30f4b,,148625,question,questionText,37863,form,How many _non-disabling serious_ incidents were there for the given year?
+65821933160000ae0048d366,,148626,question,questionText,37863,form,How many cases of _occupational diseases/illnesses_ were there for the given year?
+6582194e190000a000e30f4e,,148627,question,questionText,37863,form,How many _other recordable_ incidents were there for the given year?

@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63657633180000ee04c0cb49,636576271700003906cf8e10,37463,questionGroup,questionGroupText,37463,form,Electrical Contractor Licences – Western Australia
+636576271700003906cf8e11,,132410,question,questionText,37463,form,Please upload current Electrical Licence
+636576271700003906cf8e12,,132411,question,questionText,37463,form,Licence Number
+636576271700003906cf8e13,,132412,question,questionText,37463,form,Effective Date
+636576271700003906cf8e14,,132413,question,questionText,37463,form,Expiration Date

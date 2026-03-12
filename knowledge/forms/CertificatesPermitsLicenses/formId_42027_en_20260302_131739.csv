@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce49af010000510021f97e,662fed281a0000650045d386,42027,questionGroup,description,42027,form,You are getting this category because you selected a license in the Avetta PQF - Queensland License.
+66ce49af010000510021f97e,662fed281a0000650045d386,42027,questionGroup,questionGroupText,42027,form,Queensland Contractor License - Security Master
+662fed281a0000310045d387,,153385,question,questionText,42027,form,Please upload your license:\n
+662fed281a0000310045d387,,153385,question,responseOption1,42027,form,Yes
+662fed281a0000310045d387,,153385,question,responseOption2,42027,form,No
+662fed281a0000310045d388,,153386,question,questionText,42027,form,Expiration Date:
+662fed281a0000310045d388,,153386,question,responseOption1,42027,form,Yes
+662fed281a0000310045d388,,153386,question,responseOption2,42027,form,No
+662fed281a0000280045d389,,153387,question,questionText,42027,form,License Number:
+662fed281a0000280045d389,,153387,question,responseOption1,42027,form,Yes
+662fed281a0000280045d389,,153387,question,responseOption2,42027,form,No

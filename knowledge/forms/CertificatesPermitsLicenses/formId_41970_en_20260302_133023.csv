@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce412a010000bd0021f3e3,662bd9c21c00006000ff8ad4,41970,questionGroup,description,41970,form,You are getting this category because you selected a license in the Avetta PQF - Australia Capital Territory Contractor License.
+66ce412a010000bd0021f3e3,662bd9c21c00006000ff8ad4,41970,questionGroup,questionGroupText,41970,form,Australian Capital Territory Contractor License - Transport Explosives and / or Security Sensitive Dangerous Substance
+662bd9c21c00006800ff8ad6,,153224,question,questionText,41970,form,License Number:
+662bd9c21c00006800ff8ad6,,153224,question,responseOption1,41970,form,Yes
+662bd9c21c00006800ff8ad6,,153224,question,responseOption2,41970,form,No
+662bd9c21c00006200ff8ad7,,153225,question,questionText,41970,form,Expiration Date:
+662bd9c21c00006200ff8ad7,,153225,question,responseOption1,41970,form,Yes
+662bd9c21c00006200ff8ad7,,153225,question,responseOption2,41970,form,No
+662bd9c21c00006800ff8ad5,,153226,question,questionText,41970,form,Please upload your license:\n
+662bd9c21c00006800ff8ad5,,153226,question,responseOption1,41970,form,Yes
+662bd9c21c00006800ff8ad5,,153226,question,responseOption2,41970,form,No

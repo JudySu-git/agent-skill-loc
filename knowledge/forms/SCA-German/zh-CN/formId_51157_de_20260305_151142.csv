@@ -1,0 +1,24 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8773ea36b6c4c63546714,69a8773ea36b6c4c63546713,51157,questionGroup,questionGroupText,51157,form,挖掘作业,
+69a8773da36b6c4c6354670b,,200056,question,description,51157,form,"地下管线及土壤危害识别必须在土方作业前对管道、设施、危险土壤、水文条件及振动影响进行评估。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第48(1)条</a>",
+69a8773da36b6c4c6354670b,,200056,question,questionText,51157,form,地下管线危害识别,
+69a8773da36b6c4c6354670c,,200057,question,description,51157,form,"挖掘安全方法的选择必须针对深度超过1.25 m的挖掘，明确放坡、加固或土体稳定措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第48(2)条</a>",
+69a8773da36b6c4c6354670c,,200057,question,questionText,51157,form,放坡、加固和/或稳定处理,
+69a8773da36b6c4c6354670d,,200058,question,description,51157,form,"边缘荷载限制规定，除非已采取防坍塌措施，否则必须在挖掘边缘设置50 cm的保护隔离带。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第48(4)条</a>",
+69a8773da36b6c4c6354670d,,200058,question,questionText,51157,form,边缘荷载限制,
+69a8773da36b6c4c6354670e,,200059,question,description,51157,form,"坠落物控制措施必须明确对松散结构构件或岩石的清除或固定要求。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第48(6)条</a>",
+69a8773da36b6c4c6354670e,,200059,question,questionText,51157,form,坠落物控制措施,
+69a8773da36b6c4c6354670f,,200060,question,description,51157,form,"挖掘作业入场条件须限制工人在放坡、加固或稳定措施到位之前进入作业区域。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第48(7)条</a>",
+69a8773da36b6c4c6354670f,,200060,question,questionText,51157,form,安全入场条件（作业前）,
+69a8773da36b6c4c63546710,,200061,question,description,51157,form,"适任且称职的操作人员须具备身体、精神及专业资质，并须符合设备安全操作的相关要求。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第5(6)条</a>",
+69a8773da36b6c4c63546710,,200061,question,questionText,51157,form,称职人员,
+69a8773da36b6c4c63546711,,200062,question,description,51157,form,"支护检查规定须包括由监督人员进行的例行检查及事件触发检查。支护的所有部件须在施工期间定期检查，并在必要时进行修复或加固。在长时间停工、强降雨、荷载显著变化、解冻、爆破或其他振动发生后，须在作业恢复前对支护进行检查。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例，第51(3)、54(4)条</a>",
+69a8773da36b6c4c63546711,,200062,question,questionText,51157,form,检查（作业前、影响稳定性事件后、定期）,
+69a8773da36b6c4c63546712,,200063,question,questionText,51157,form,<div></div>,

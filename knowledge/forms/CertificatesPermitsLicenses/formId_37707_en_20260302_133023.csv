@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+674df5c60100007000a411b0,6374283616000023051d2f6d,37707,questionGroup,description,37707,form,"You are getting this category because you selected ISO 14001:2015 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for the a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+674df5c60100007000a411b0,6374283616000023051d2f6d,37707,questionGroup,questionGroupText,37707,form,ISO/IEC 20000 - 1 - Information Technology
+6374289b16000011051d32d1,,133516,question,questionText,37707,form,Please upload your ISO/IEC 20000-1:2018 - Information Technology — Service Management — Part 1: Service Management System Requirements certificate:
+637428d916000040051d3441,,133517,question,questionText,37707,form,Please enter the certificate expiration date:

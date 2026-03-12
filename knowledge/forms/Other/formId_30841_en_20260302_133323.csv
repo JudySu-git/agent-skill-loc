@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67781d740100003400ec0594,5efa358a340000082457a699,30841,questionGroup,questionGroupText,30841,form,Medical Control and Occupational Health Program (PCMSO)
+5efa35a5340000444c506593,,99842,question,description,30841,form,"<a href = ""http://www.guiatrabalhista.com.br/legislacao/nr/nr7.htm"" target = ""_BLANK_"">Labor Guide - PCMSO\n\n</a>"
+5efa35a5340000444c506593,,99842,question,questionText,30841,form,Please upload your company's valid PCMSO\n
+5efa35d5340000444c5065ac,,99843,question,questionText,30841,form,Expiration Date:

@@ -1,0 +1,23 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+649a1a81190000035c73875b,649a1a18190000155c738755,39616,questionGroup,questionGroupText,39616,form,Constellation Brands Insurance Variance Form
+649a1a18190000155c738756,,142348,question,questionText,39616,form,Please identify the scope of work and/or project:
+649a1a18190000155c738757,,142349,question,questionText,39616,form,Please identify the Constellation Brands facility(s) where the services / work will be performed:
+649a1a18190000155c738757,,142349,question,responseOption1,39616,form,Central Coast Wineries
+649a1a18190000155c738757,,142349,question,responseOption10,39616,form,Napa Bottling Center
+649a1a18190000155c738757,,142349,question,responseOption11,39616,form,Napa Vineyards
+649a1a18190000155c738757,,142349,question,responseOption12,39616,form,Nelson's Green Brier Distillery
+649a1a18190000155c738757,,142349,question,responseOption13,39616,form,Quarry Lake Winery
+649a1a18190000155c738757,,142349,question,responseOption14,39616,form,Robert Mondavi Winery
+649a1a18190000155c738757,,142349,question,responseOption15,39616,form,Simi Winery
+649a1a18190000155c738757,,142349,question,responseOption16,39616,form,Sonoma Vineyards
+649a1a18190000155c738757,,142349,question,responseOption17,39616,form,The Prisoner Wine Company
+649a1a18190000155c738757,,142349,question,responseOption18,39616,form,Woodbridge Winery
+649a1a18190000155c738757,,142349,question,responseOption2,39616,form,Central Valley Vineyards
+649a1a18190000155c738757,,142349,question,responseOption3,39616,form,Copper & Kings Distillery
+649a1a18190000155c738757,,142349,question,responseOption4,39616,form,Dunnewood Winery
+649a1a18190000155c738757,,142349,question,responseOption5,39616,form,High West Distillery All Locations
+649a1a18190000155c738757,,142349,question,responseOption6,39616,form,Linqua Franca Winery/Vineyard
+649a1a18190000155c738757,,142349,question,responseOption7,39616,form,Lodi Distribution Center
+649a1a18190000155c738757,,142349,question,responseOption8,39616,form,Mission Bell Winery
+649a1a18190000155c738757,,142349,question,responseOption9,39616,form,Booker (My Favorite Neighbor) Winery
+649a1a501900000e5c738759,,142350,question,questionText,39616,form,"For this insurance requirement, please provide a detailed description of why you are requesting a variance:"

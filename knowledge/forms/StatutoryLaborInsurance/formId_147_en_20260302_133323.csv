@@ -1,0 +1,4 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4f39dd465049438e2fa03554,4f39dd465049438e2fa03554,147,questionGroup,questionGroupText,147,category,City Specific
+5755c9af5049438fe3757f9a,5755c9af5049438fe3757f9a,372,questionGroup,questionGroupText,147,category,Essential Requirements
+4f6726a95049438bd25a9de1,4f6726a95049438bd25a9de1,373,questionGroup,questionGroupText,147,category,Organization

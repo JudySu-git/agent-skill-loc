@@ -1,0 +1,38 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+42a3d850504943f4d091277d,,244,question,questionText,20102,form,Does your company have a Quality Assurance/Quality Control Department?
+42a3d850504943f4d091277d,,244,question,responseOptionNA,20102,form,N/A
+42a3d850504943f4d091277d,,244,question,responseOptionNo,20102,form,No
+42a3d850504943f4d091277d,,244,question,responseOptionYes,20102,form,Yes
+429e9250504943d75591340a,,245,question,questionText,20102,form,Does your company have a Quality Assurance/Quality Control manual?
+429e9250504943d75591340a,,245,question,responseOptionNA,20102,form,N/A
+429e9250504943d75591340a,,245,question,responseOptionNo,20102,form,No
+429e9250504943d75591340a,,245,question,responseOptionYes,20102,form,Yes
+429e925050494340046c7960,,246,question,questionText,20102,form,Does your company have a management of change process/program?
+429e925050494340046c7960,,246,question,responseOptionNA,20102,form,N/A
+429e925050494340046c7960,,246,question,responseOptionNo,20102,form,No
+429e925050494340046c7960,,246,question,responseOptionYes,20102,form,Yes
+429e92505049435e51822dd3,,247,question,questionText,20102,form,Does your company have a document control policy?
+429e92505049435e51822dd3,,247,question,responseOptionNA,20102,form,N/A
+429e92505049435e51822dd3,,247,question,responseOptionNo,20102,form,No
+429e92505049435e51822dd3,,247,question,responseOptionYes,20102,form,Yes
+429e92505049436fef992250,,250,question,questionText,20102,form,Does your company keep preventative maintenance and equipment inspection records?
+429e92505049436fef992250,,250,question,responseOptionNA,20102,form,N/A
+429e92505049436fef992250,,250,question,responseOptionNo,20102,form,No
+429e92505049436fef992250,,250,question,responseOptionYes,20102,form,Yes
+429e9250504943adde99ef87,,252,question,questionText,20102,form,Does your company maintain the applicable inspection and maintenance certification records for operating equipment?
+429e9250504943adde99ef87,,252,question,responseOptionNA,20102,form,N/A
+429e9250504943adde99ef87,,252,question,responseOptionNo,20102,form,No
+429e9250504943adde99ef87,,252,question,responseOptionYes,20102,form,Yes
+42ddda50504943e813ca9240,,253,question,questionText,20102,form,"Does your company perform equipment checks on all equipment (cranes, forklifts, JLG's etc.)?"
+42ddda50504943e813ca9240,,253,question,responseOptionNA,20102,form,N/A
+42ddda50504943e813ca9240,,253,question,responseOptionNo,20102,form,No
+42ddda50504943e813ca9240,,253,question,responseOptionYes,20102,form,Yes
+4b8ff44e5049434e785e83ca,,3299,question,questionText,20102,form,Are your company's employees and subcontractors provided with a copy of H&S Rules?
+4b8ff44e5049434e785e83ca,,3299,question,responseOptionNA,20102,form,N/A
+4b8ff44e5049434e785e83ca,,3299,question,responseOptionNo,20102,form,No
+4b8ff44e5049434e785e83ca,,3299,question,responseOptionYes,20102,form,Yes
+4b9135da5049437dce8d0aa9,,3312,question,questionText,20102,form,Does your company have a Continual Improvement and/or Lessons Learned Program (LLP)?
+4b9135da5049437dce8d0aa9,,3312,question,responseOptionNA,20102,form,N/A
+4b9135da5049437dce8d0aa9,,3312,question,responseOptionNo,20102,form,No
+4b9135da5049437dce8d0aa9,,3312,question,responseOptionYes,20102,form,Yes
+5c182d7a360000f1e542e50a,5ab42f962400005f009c27aa,20102,questionGroup,questionGroupText,20102,form,Avetta PQF - Quality Assurance/Quality Control

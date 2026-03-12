@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4de00099504943b645904c4f,4de00099504943b645904c4f,1715,questionGroup,questionGroupText,20070,form,Canadian Environmental
+4de00129504943a2d9b3a14a,,7791,question,questionText,20070,form,Does your company's Environmental System require the setting of specific goals/targets?
+4de00129504943a2d9b3a14a,,7791,question,responseOptionNA,20070,form,N/A
+4de00129504943a2d9b3a14a,,7791,question,responseOptionNo,20070,form,No
+4de00129504943a2d9b3a14a,,7791,question,responseOptionYes,20070,form,Yes
+4de001d75049436ce5810d79,,7793,question,questionText,20070,form,Does your company have an Environmental Management System?
+4de001d75049436ce5810d79,,7793,question,responseOptionNA,20070,form,N/A
+4de001d75049436ce5810d79,,7793,question,responseOptionNo,20070,form,No
+4de001d75049436ce5810d79,,7793,question,responseOptionYes,20070,form,Yes
+4de002ac50494340d4630536,,7795,question,questionText,20070,form,Is your company's Environmental Management System audited?
+4de002ac50494340d4630536,,7795,question,responseOptionNA,20070,form,N/A
+4de002ac50494340d4630536,,7795,question,responseOptionNo,20070,form,No
+4de002ac50494340d4630536,,7795,question,responseOptionYes,20070,form,Yes
+4de002e6504943782486b932,,7797,question,questionText,20070,form,Please provide the date of your company's most recent audit:
+4de00301504943393169ca15,,7798,question,questionText,20070,form,"Please provide the audit type (i.e. ISO, CSA, etc.):"
+5c181e6b36000067c3425a68,5ab074042b00006f00d45b10,20070,questionGroup,questionGroupText,20070,form,Avetta PQF - Canada Environmental Issues

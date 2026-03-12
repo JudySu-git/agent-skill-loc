@@ -1,0 +1,21 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+602c2b014400000515b740d1,6027109144000005158c4bf5,32427,questionGroup,questionGroupText,32427,form,Avetta PQF - California Wildfire Prevention & Air Quality Program
+602710ba44000005158c4d9f,,107021,question,questionText,32427,form,Does your company have a California Wildfire Prevention/Air Quality Policy?\n
+602710ba44000005158c4d9f,,107021,question,responseOption1,32427,form,Yes
+602710ba44000005158c4d9f,,107021,question,responseOption2,32427,form,No
+602710c9420000fc2de20409,,107022,question,questionText,32427,form,Please upload a copy of your California Wildfire Prevention/Air Quality Policy:
+602710d7420000fc2de2045f,,107023,question,questionText,32427,form,Does your California Wildfire Prevention/Air Quality Policy address the following:\n\nIdentification of harmful exposures?
+602710d7420000fc2de2045f,,107023,question,responseOption1,32427,form,Yes
+602710d7420000fc2de2045f,,107023,question,responseOption2,32427,form,No
+602710ef420000fc2de205c3,,107024,question,questionText,32427,form,Communication?
+602710ef420000fc2de205c3,,107024,question,responseOption1,32427,form,Yes
+602710ef420000fc2de205c3,,107024,question,responseOption2,32427,form,No
+602710fc44000005158c50df,,107025,question,questionText,32427,form,Training & Instruction?
+602710fc44000005158c50df,,107025,question,responseOption1,32427,form,Yes
+602710fc44000005158c50df,,107025,question,responseOption2,32427,form,No
+6027110d420000fc2de20700,,107026,question,questionText,32427,form,Control of Harmful Exposures?
+6027110d420000fc2de20700,,107026,question,responseOption1,32427,form,Yes
+6027110d420000fc2de20700,,107026,question,responseOption2,32427,form,No
+6027111b44000005158c51fd,,107027,question,questionText,32427,form,AQI Monitoring - Specific particulate sampling requirements if an employer opts to monitor employee exposure with a direct reading instrument (most use <a href='https://airnow.com/' target='_BLANK'> www.airnow.gov)</a> ?
+6027111b44000005158c51fd,,107027,question,responseOption1,32427,form,Yes
+6027111b44000005158c51fd,,107027,question,responseOption2,32427,form,No

@@ -1,0 +1,18 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4de3d5845049438935704d02,4de3d5845049438935704d02,1720,questionGroup,questionGroupText,20100,form,Canada
+4de406565049435a2b5624e3,,7814,question,questionText,20100,form,What is your average TRIF for the most recent three years? (Total Recordable Incident Frequency. Please input in decimal form i.e. 1.25)
+4de4077b5049439035ce9f0b,,7815,question,questionText,20100,form,Does your company have a Worker's Compensation Board account in good standing?
+4de4077b5049439035ce9f0b,,7815,question,responseOptionNo,20100,form,No
+4de4077b5049439035ce9f0b,,7815,question,responseOptionYes,20100,form,Yes
+5c5b59263a0000316922e218,5ab425ab24000060009c2748,20100,questionGroup,questionGroupText,20100,form,Avetta PQF - Canada Performance Safety Statistics
+547cd948504943953f306f09,,27404,question,questionText,20100,form,Did your company keep records of occupational injuries during the given year?
+547cd948504943953f306f09,,27404,question,responseOptionNo,20100,form,No
+547cd948504943953f306f09,,27404,question,responseOptionYes,20100,form,Yes
+547cd98b504943126daad8e0,,27405,question,questionText,20100,form,Do you or your company qualify for an exemption from workers compensation coverage?
+547cd98b504943126daad8e0,,27405,question,responseOptionNo,20100,form,No
+547cd98b504943126daad8e0,,27405,question,responseOptionYes,20100,form,Yes
+547cdc31504943a61f10099e,,27407,question,questionText,20100,form,The Experience Rating adjustment is:
+547cdc31504943a61f10099e,,27407,question,responseOptionA,20100,form,a Surcharge
+547cdc31504943a61f10099e,,27407,question,responseOptionB,20100,form,a Discount
+547cdc31504943a61f10099e,,27407,question,responseOptionC,20100,form,Equal to Industry Rate
+547cdc31504943a61f10099e,,27407,question,responseOptionD,20100,form,Not Applicable

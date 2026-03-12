@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4a3d0100005b0021f98d,663007e61b00006000b6e6a4,42036,questionGroup,description,42036,form,You are getting this category because you selected a license in the Avetta PQF - South Australia License.
+66ce4a3d0100005b0021f98d,663007e61b00006000b6e6a4,42036,questionGroup,questionGroupText,42036,form,South Australia Contractor License - Pest Management
+663007e61b00002900b6e6a5,,153413,question,questionText,42036,form,License Number:
+663007e61b00002900b6e6a5,,153413,question,responseOption1,42036,form,Yes
+663007e61b00002900b6e6a5,,153413,question,responseOption2,42036,form,No
+663007e61b00005f00b6e6a6,,153414,question,questionText,42036,form,Expiration Date:
+663007e61b00005f00b6e6a6,,153414,question,responseOption1,42036,form,Yes
+663007e61b00005f00b6e6a6,,153414,question,responseOption2,42036,form,No
+663007e61b00005f00b6e6a7,,153415,question,questionText,42036,form,Please upload your license:\n
+663007e61b00005f00b6e6a7,,153415,question,responseOption1,42036,form,Yes
+663007e61b00005f00b6e6a7,,153415,question,responseOption2,42036,form,No

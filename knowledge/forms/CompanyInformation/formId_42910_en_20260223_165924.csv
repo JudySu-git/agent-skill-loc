@@ -1,0 +1,67 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66a03e6001000034007e7f81,66a02d670100006f0133aa8b,42910,questionGroup,questionGroupText,42910,form,Avetta PQF - Armenia Company Information
+66a02fe30100002f007e7f21,66a02fe30100002f007e7f20,42913,questionGroup,questionGroupText,42910,form,Armenia
+66a02eee010000290033aa9d,,157167,question,questionText,42910,form,Please indicate where your company is established:
+66a02eee010000290033aa9d,,157167,question,responseOption1,42910,form,Yes
+66a02eee010000290033aa9d,,157167,question,responseOption2,42910,form,No
+66a02ef90100002a007e7f10,,157168,question,questionText,42910,form,Please explain:
+66a02ef90100002a007e7f10,,157168,question,responseOption1,42910,form,Yes
+66a02ef90100002a007e7f10,,157168,question,responseOption2,42910,form,No
+66a02f0301000035007e7f11,,157169,question,description,42910,form,"<a href=""https://www.e-register.am/am/"" target=""blank"">Electronic Register, Government of Armenia</a>"
+66a02f0301000035007e7f11,,157169,question,questionText,42910,form,Is your company registered with the State Register of Legal Entities?
+66a02f0301000035007e7f11,,157169,question,responseOption1,42910,form,Yes
+66a02f0301000035007e7f11,,157169,question,responseOption2,42910,form,No
+66a02f0e010000320033aa9e,,157170,question,questionText,42910,form,Please explain:
+66a02f0e010000320033aa9e,,157170,question,responseOption1,42910,form,Yes
+66a02f0e010000320033aa9e,,157170,question,responseOption2,42910,form,No
+66a02f19010000330033aa9f,,157171,question,questionText,42910,form,Does your company have a State Registration Number?
+66a02f19010000330033aa9f,,157171,question,responseOption1,42910,form,Yes
+66a02f19010000330033aa9f,,157171,question,responseOption2,42910,form,No
+66a02f4601000036007e7f13,,157172,question,questionText,42910,form,Please explain:
+66a02f4601000036007e7f13,,157172,question,responseOption1,42910,form,Yes
+66a02f4601000036007e7f13,,157172,question,responseOption2,42910,form,No
+66a02f52010000630033aaa0,,157173,question,questionText,42910,form,Please provide your company's State Registration Number.
+66a02f52010000630033aaa0,,157173,question,responseOption1,42910,form,Yes
+66a02f52010000630033aaa0,,157173,question,responseOption2,42910,form,No
+66a02f6201000098017e7f14,,157174,question,description,42910,form,"<a href=""https://www.src.am/en"" target=""blank"">State Revenue Committee of the Republic of Armenia</a>"
+66a02f6201000098017e7f14,,157174,question,questionText,42910,form,Is your company registered with the State Revenue Committee (SRC)?
+66a02f6201000098017e7f14,,157174,question,responseOption1,42910,form,Yes
+66a02f6201000098017e7f14,,157174,question,responseOption2,42910,form,No
+66a02f6d0100002a007e7f15,,157175,question,questionText,42910,form,Please explain:
+66a02f6d0100002a007e7f15,,157175,question,responseOption1,42910,form,Yes
+66a02f6d0100002a007e7f15,,157175,question,responseOption2,42910,form,No
+66a02f7a01000098017e7f16,,157176,question,questionText,42910,form,Does your company have a Tax ID Number?\t
+66a02f7a01000098017e7f16,,157176,question,responseOption1,42910,form,Yes
+66a02f7a01000098017e7f16,,157176,question,responseOption2,42910,form,No
+66a02f86010000340033aaa1,,157177,question,questionText,42910,form,Please explain:
+66a02f86010000340033aaa1,,157177,question,responseOption1,42910,form,Yes
+66a02f86010000340033aaa1,,157177,question,responseOption2,42910,form,No
+66a02f90010000310033aaa2,,157178,question,questionText,42910,form,Please provide your company's Tax ID Number.
+66a02f90010000310033aaa2,,157178,question,responseOption1,42910,form,Yes
+66a02f90010000310033aaa2,,157178,question,responseOption2,42910,form,No
+66a02f9c01000036007e7f17,,157179,question,questionText,42910,form,Does your company have a VAT registration number?
+66a02f9c01000036007e7f17,,157179,question,responseOption1,42910,form,Yes
+66a02f9c01000036007e7f17,,157179,question,responseOption2,42910,form,No
+66a02fa8010000730133aaa4,,157180,question,questionText,42910,form,Please explain:
+66a02fa8010000730133aaa4,,157180,question,responseOption1,42910,form,Yes
+66a02fa8010000730133aaa4,,157180,question,responseOption2,42910,form,No
+66a02fb30100006f0133aaa5,,157181,question,questionText,42910,form,Please provide the VAT registration number.
+66a02fb30100006f0133aaa5,,157181,question,responseOption1,42910,form,Yes
+66a02fb30100006f0133aaa5,,157181,question,responseOption2,42910,form,No
+66a02fbf0100009b017e7f18,,157182,question,description,42910,form,"<a href=""/file-preview.html?fileId=2024-07-24T20%3A02%3A06.963Z~~*MjAyMF9OMTA3N2hhdiAoMSkucGRm"" target=""blank"">Armenia Classification of Economic Activities</a>"
+66a02fbf0100009b017e7f18,,157182,question,questionText,42910,form,Do you know your company's Industry Classification code in Armenia?
+66a02fbf0100009b017e7f18,,157182,question,responseOption1,42910,form,Yes
+66a02fbf0100009b017e7f18,,157182,question,responseOption2,42910,form,No
+66a02fc90100002f007e7f19,,157183,question,questionText,42910,form,Please provide your company's Industry Classification code in Armenia.
+66a02fc90100002f007e7f19,,157183,question,responseOption1,42910,form,Yes
+66a02fc90100002f007e7f19,,157183,question,responseOption2,42910,form,No
+66a032f60100002f007e7f5e,,157200,question,description,42910,form,"Sole Proprietorship (SP): (Անհատ ձեռնարկատեր (ԱՁ)): A business owned by one individual, with the owner personally liable for all debts.\nLimited Liability Company (LLC): (Սահմանափակ պատասխանատվությամբ ընկերություն (ՍՊԸ)): A business entity where owners' liability is limited to their investment in the company. \nJoint Stock Company (JSC): (Բաց բաժնետիրական ընկերություն (ԲԲԸ)): A company with shareholders whose liability is limited to their shareholdings, can be public or private.\nGeneral Partnership (GP): (Ընդհանուր համատեղ ձեռնարկություն (ԸՀՁ)): A business owned by two or more partners who share management duties and are personally liable for debts. \nLimited Partnership (LP): (Սահմանափակ պատասխանատվությամբ համատեղ ձեռնարկություն (ՍՊՀՁ)): A partnership with both general partners (who manage and are liable) and limited partners (who invest and have limited liability)."
+66a032f60100002f007e7f5e,,157200,question,questionText,42910,form,Please indicate your company's business entity / form of business within Armenia:
+66a032f60100002f007e7f5e,,157200,question,responseOption1,42910,form,Sole Proprietorship (SP): (Անհատ ձեռնարկատեր (ԱՁ))
+66a032f60100002f007e7f5e,,157200,question,responseOption2,42910,form,Limited Liability Company (LLC): (Սահմանափակ պատասխանատվությամբ ընկերություն (ՍՊԸ))
+66a032f60100002f007e7f5e,,157200,question,responseOption3,42910,form, Joint Stock Company (JSC): (Բաց բաժնետիրական ընկերություն (ԲԲԸ))
+66a032f60100002f007e7f5e,,157200,question,responseOption4,42910,form,General Partnership (GP): (Ընդհանուր համատեղ ձեռնարկություն (ԸՀՁ))
+66a032f60100002f007e7f5e,,157200,question,responseOption5,42910,form,Limited Partnership (LP): (Սահմանափակ պատասխանատվությամբ համատեղ ձեռնարկություն (ՍՊՀՁ))
+66a032f60100002f007e7f5e,,157200,question,responseOption6,42910,form,Foreign entity with no local fiscal presence
+66a032f60100002f007e7f5e,,157200,question,responseOption7,42910,form,Foreign entity with no local fiscal presence
+66a032f60100002f007e7f5e,,157200,question,responseOption8,42910,form,Other

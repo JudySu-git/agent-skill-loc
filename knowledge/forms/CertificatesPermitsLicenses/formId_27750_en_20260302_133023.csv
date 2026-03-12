@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+606f437d4300008efba493da,5dc5b9c03300006ed9a1342d,27750,questionGroup,description,27750,form,Aviation Liability collects Each Occurrence and Aggregate
+606f437d4300008efba493da,5dc5b9c03300006ed9a1342d,27750,questionGroup,questionGroupText,27750,form,Aviation Liability
+606f43294300008efba493d0,5dc5b9d83300008bc5fa2931,27751,questionGroup,questionGroupText,27750,form,Policy Information
+5dc5b9db3300006ed9a13430,5dc5b9db3300006ed9a1342f,27752,questionGroup,questionGroupText,27750,form,Policy Limits
+5dc5ba223400008bc57f9136,,87882,question,questionText,27750,form,Date of Commencement:
+5dc5ba313300006ed9a13433,,87883,question,questionText,27750,form,Expiration Date:
+5dc5ba3f3300008bc5fa2935,,87884,question,questionText,27750,form,Insurance Carrier:
+5dc5ba643300006ed9a13435,,87885,question,questionText,27750,form,Please upload Aviation Liability Certificate:
+5dc5bb053300008bc5fa2937,,87886,question,questionText,27750,form,Each Occurrence
+5dc5bb2b3300008bc5fa2938,,87887,question,questionText,27750,form,Aggregate
+606f43284300008efba493cf,,108534,question,description,27750,form,Used to provide instructions from Client
+606f43284300008efba493cf,,108534,question,questionText,27750,form,Comments
+606f433b4400004cc13565d7,,108535,question,description,27750,form,Date the instructions from Client expire
+606f433b4400004cc13565d7,,108535,question,questionText,27750,form,VARIANCE Expiration Date
+62f53f4282eb52eab3c18fca,,130559,question,questionText,27750,form,Currency used in Certificate of Insurance (COI)

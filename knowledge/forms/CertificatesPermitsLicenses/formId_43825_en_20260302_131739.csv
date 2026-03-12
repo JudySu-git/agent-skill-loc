@@ -1,0 +1,24 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67bce1f4010000b10030cdff,6723e90b010000370091b30f,43825,questionGroup,questionGroupText,43825,form,India Employees' State Insurance (ESI)
+6723e9970100007401aa7088,,161346,question,description,43825,form,
+6723e9970100007401aa7088,,161346,question,questionText,43825,form,Is your company required to comply with the Employees' State Insurance (ESI) Scheme in India?
+6723e9970100007401aa7088,,161346,question,responseOption1,43825,form,Yes
+6723e9970100007401aa7088,,161346,question,responseOption2,43825,form,No
+6723eab30100007201aa708a,,161347,question,description,43825,form,"You will be required to confirm that you have alternative coverage in place for occupational health and safety risks (e.g., private insurance or coverage under the Employee’s Compensation Act)"
+6723eab30100007201aa708a,,161347,question,questionText,43825,form,Please select an option:
+6723eab30100007201aa708a,,161347,question,responseOption1,43825,form,"All employees in the company earn more than ₹21,000 per month."
+6723eab30100007201aa708a,,161347,question,responseOption2,43825,form,"The company has fewer than the required number of employees (10 employees, or 20 employees depending on the state)."
+6723eab30100007201aa708a,,161347,question,responseOption3,43825,form,Other
+6723eaf6010000370091b318,,161348,question,questionText,43825,form,"If other, please explain"
+6723eaf6010000370091b318,,161348,question,responseOption1,43825,form,Yes
+6723eaf6010000370091b318,,161348,question,responseOption2,43825,form,No
+6723eb32010000360091b31b,,161349,question,questionText,43825,form,Has your company made all required contributions for the previous fiscal year?
+6723eb32010000360091b31b,,161349,question,responseOption1,43825,form,Yes
+6723eb32010000360091b31b,,161349,question,responseOption2,43825,form,No
+6723eb410100003100aa7090,,161350,question,description,43825,form,The receipt must be issued within 3 months prior to the submission date
+6723eb410100003100aa7090,,161350,question,questionText,43825,form,Please upload a copy of your latest ESI Contribution Receipt
+6723eb410100003100aa7090,,161350,question,responseOption1,43825,form,Yes
+6723eb410100003100aa7090,,161350,question,responseOption2,43825,form,No
+6723eb6a010000320091b31f,,161351,question,questionText,43825,form,Sign below to confirm the information and/or document provided is correct and updated
+6723eb6a010000320091b31f,,161351,question,responseOption1,43825,form,Yes
+6723eb6a010000320091b31f,,161351,question,responseOption2,43825,form,No

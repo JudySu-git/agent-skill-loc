@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4be3010000370021f99f,66300d901b00002900b6e6e2,42043,questionGroup,description,42043,form,You are getting this category because you selected a license in the Avetta PQF - Tasmania License.
+66ce4be3010000370021f99f,66300d901b00002900b6e6e2,42043,questionGroup,questionGroupText,42043,form,Tasmania Contractor License - Gas Fitting
+66300d901b00006000b6e6e3,,153432,question,questionText,42043,form,License Number:
+66300d901b00006000b6e6e3,,153432,question,responseOption1,42043,form,Yes
+66300d901b00006000b6e6e3,,153432,question,responseOption2,42043,form,No
+66300d901b00002d00b6e6e4,,153433,question,questionText,42043,form,Expiration Date:
+66300d901b00002d00b6e6e4,,153433,question,responseOption1,42043,form,Yes
+66300d901b00002d00b6e6e4,,153433,question,responseOption2,42043,form,No
+66300d901b00006100b6e6e5,,153434,question,questionText,42043,form,Please upload your license:\n
+66300d901b00006100b6e6e5,,153434,question,responseOption1,42043,form,Yes
+66300d901b00006100b6e6e5,,153434,question,responseOption2,42043,form,No

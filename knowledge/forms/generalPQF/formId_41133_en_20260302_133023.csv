@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67094d5d0100004f005e660b,65a94ce71a000088009acfc4,41133,questionGroup,questionGroupText,41133,form,Avetta PQF - Iraq Ministry of Oil Registration (For Oil and Gas Sector)
+65a94d491a0000c4019aedbb,65a94d491a0000c4019aedba,41134,questionGroup,questionGroupText,41133,form,Ministry of Oil Registration (For Oil and Gas Sector):
+65a94d551a000080029af1d9,,149835,question,description,41133,form,"<a href=""https://oil.gov.iq/"">Federal Ministry of Oil (Iraq)</a>\n\n<a href=""https://mnr.gov.krd"">Kurdistan Regional Government Ministry of Natural Resources (MNR)</a>"
+65a94d551a000080029af1d9,,149835,question,questionText,41133,form,Are you registered with the competent authority for oil and gas operations (Federal Ministry of Oil or Kurdistan Regional Government Ministry of Natural Resources)?
+65a94d551a000080029af1d9,,149835,question,responseOption1,41133,form,Yes
+65a94d551a000080029af1d9,,149835,question,responseOption2,41133,form,No
+65a94d5f1700001f3de8d19d,,149836,question,questionText,41133,form,Please upload a copy of your registration certificate issued by the relevant authority.

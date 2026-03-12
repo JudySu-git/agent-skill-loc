@@ -1,0 +1,114 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a85eba0100006000b914b3,69a85e510100003f00b914aa,51136,questionGroup,questionGroupText,51136,form,奥地利 - 公司安全详情与说明,
+69a85e510100005e00b914ae,,199915,question,description,51136,form,"请注意：您的选择应涵盖贵公司提供的所有服务，而非针对特定客户或施工现场。
+
+每项工作类型的选择将为您的审查与合规增加额外的审核要求。
+",Bitte beachten: Ihre Auswahl(en) sollten alle von Ihrem Unternehmen erbrachten Dienstleistungen umfassen und nicht einen bestimmten Kunden oder Standort. Mit jeder Auswahl eines Arbeitstyps werden zusätzliche Audit-Anforderungen für Ihre Überprüfung und Compliance hinzugefügt.\n
+69a85e510100005e00b914ae,,199915,question,questionText,51136,form,"###  请确定与贵公司专业领域或服务范围最为吻合的工作类型。
+
+<b>选择适当的工作类型有助于我们为贵公司的运营构建定制化审核方案。</b>","### Bitte geben Sie die Arbeitstypen an, die am besten zu Ihrem Fachgebiet oder Leistungsumfang passen. <b>Durch die Auswahl geeigneter Arbeitstypen können wir ein individuelles Audit erstellen, das auf die Geschäftstätigkeit Ihres Unternehmens zugeschnitten ist. </b>"
+69a85e510100005e00b914ae,,199915,question,responseOption1,51136,form,石棉清除,Asbestreduzierung
+69a85e510100005e00b914ae,,199915,question,responseOption10,51136,form,木工,Schreinerei
+69a85e510100005e00b914ae,,199915,question,responseOption11,51136,form,涂层/涂料,Beschichtungen
+69a85e510100005e00b914ae,,199915,question,responseOption12,51136,form,商业潜水,Gewerbliches Tauchen
+69a85e510100005e00b914ae,,199915,question,responseOption13,51136,form,混凝土工程,Betonarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption15,51136,form,管理、咨询及培训服务,"Management-, Beratungs- und Schulungsdienstleistungen"
+69a85e510100005e00b914ae,,199915,question,responseOption16,51136,form,输送带安装／维修,Installation/Reparatur von Förderbändern
+69a85e510100005e00b914ae,,199915,question,responseOption17,51136,form,起重机租赁服务及维护,Kranvermietung und -wartung
+69a85e510100005e00b914ae,,199915,question,responseOption18,51136,form,深基础工程（沉箱、桩基、围堰）,"Tiefe Fundamente (Senkkästen, Pfähle, Kofferdämme)"
+69a85e510100005e00b914ae,,199915,question,responseOption19,51136,form,拆除工程,Abbrucharbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption2,51136,form,铅清除,Bleireduzierung
+69a85e510100005e00b914ae,,199915,question,responseOption20,51136,form,疏浚工程,Baggerarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption21,51136,form,钻探,Bohren
+69a85e510100005e00b914ae,,199915,question,responseOption22,51136,form,无人机服务,Drohnen-Services
+69a85e510100005e00b914ae,,199915,question,responseOption23,51136,form,土方工程／场地工程,Erdarbeiten/Standortarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption24,51136,form,电气工程,Elektroarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption25,51136,form,电梯维修／维护,Reparatur/Wartung von Aufzügen
+69a85e510100005e00b914ae,,199915,question,responseOption26,51136,form,工程专业服务,Professionelle Engineering-Dienstleistungen
+69a85e510100005e00b914ae,,199915,question,responseOption27,51136,form,环境污染清除或修复,Minderung von Umweltauswirkungen oder Umweltsanierung
+69a85e510100005e00b914ae,,199915,question,responseOption28,51136,form,设备检测,Geräteprüfung
+69a85e510100005e00b914ae,,199915,question,responseOption29,51136,form,估算,Schätzung
+69a85e510100005e00b914ae,,199915,question,responseOption3,51136,form,其他有害物质清除,Reduzierung Sonstiges
+69a85e510100005e00b914ae,,199915,question,responseOption30,51136,form,灭虫／害虫防治,Schädlingsbekämpfung/-vernichtung
+69a85e510100005e00b914ae,,199915,question,responseOption31,51136,form,围栏工程,Einzäunung
+69a85e510100005e00b914ae,,199915,question,responseOption32,51136,form,光纤安装,Glasfaserinstallation
+69a85e510100005e00b914ae,,199915,question,responseOption33,51136,form,消防保护,Brandschutz
+69a85e510100005e00b914ae,,199915,question,responseOption34,51136,form,地板安装,Bodenverlegung
+69a85e510100005e00b914ae,,199915,question,responseOption35,51136,form,基础工程,Fundamente
+69a85e510100005e00b914ae,,199915,question,responseOption36,51136,form,FRP（纤维增强塑料）,GFK (Faserverstärkter Kunststoff)
+69a85e510100005e00b914ae,,199915,question,responseOption37,51136,form,一般物业维护,Allgemeine Instandhaltung von Immobilien
+69a85e510100005e00b914ae,,199915,question,responseOption38,51136,form,岩土测试,Geotechnische Prüfungen
+69a85e510100005e00b914ae,,199915,question,responseOption39,51136,form,玻璃工 - 玻璃工程,Glaserei – Glasarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption4,51136,form,航空服务,Luftfahrt-Services
+69a85e510100005e00b914ae,,199915,question,responseOption40,51136,form,危险废物作业,Handhabung von Gefahrgut
+69a85e510100005e00b914ae,,199915,question,responseOption41,51136,form,热处理,Wärmebehandlung
+69a85e510100005e00b914ae,,199915,question,responseOption42,51136,form,重型运输与吊装,Anheben und Transport schwerer Lasten
+69a85e510100005e00b914ae,,199915,question,responseOption43,51136,form,直升机服务,Hubschrauber-Services
+69a85e510100005e00b914ae,,199915,question,responseOption44,51136,form,HVACR,HLKR
+69a85e510100005e00b914ae,,199915,question,responseOption45,51136,form,高压水射流清洗,Hochdruckreinigung (Wasser)
+69a85e510100005e00b914ae,,199915,question,responseOption46,51136,form,真空水力挖掘,Nass-Trocken-Saugen
+69a85e510100005e00b914ae,,199915,question,responseOption47,51136,form,检验员,Inspektor:in
+69a85e510100005e00b914ae,,199915,question,responseOption48,51136,form,仪器仪表,Messtechnik
+69a85e510100005e00b914ae,,199915,question,responseOption49,51136,form,隔热／绝缘,Isolierung
+69a85e510100005e00b914ae,,199915,question,responseOption5,51136,form,爆破工／爆炸物专家／烟火技术人员,Sprengmeister:in/Sprengstoff-Expert:in/Pyrotechniker:in
+69a85e510100005e00b914ae,,199915,question,responseOption50,51136,form,园林绿化,Landschaftsgestaltung
+69a85e510100005e00b914ae,,199915,question,responseOption51,51136,form,物流服务 - 包装与运输,Logistikservices – Verpackung und Versand
+69a85e510100005e00b914ae,,199915,question,responseOption52,51136,form,机械维修／安装／维护,Reparatur/Installation/Wartung von Maschinen
+69a85e510100005e00b914ae,,199915,question,responseOption53,51136,form,海洋作业（水上/水边作业）,Marine (Arbeiten auf dem/in der Nähe von Wasser)
+69a85e510100005e00b914ae,,199915,question,responseOption54,51136,form,砌体施工,Mauerwerksbau
+69a85e510100005e00b914ae,,199915,question,responseOption55,51136,form,物料搬运 / 仓储 / 制造,Materialtransport/Lager/Fertigung
+69a85e510100005e00b914ae,,199915,question,responseOption56,51136,form,机械,Mechanik
+69a85e510100005e00b914ae,,199915,question,responseOption57,51136,form,金属加工,Metallarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption58,51136,form,细木工,Schreinerarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption59,51136,form,矿业服务（地上 / 地下）,Bergbaudienstleistungen Übertage/Untertage
+69a85e510100005e00b914ae,,199915,question,responseOption6,51136,form,锅炉 / 风管工程,Kessel/Kanalarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption60,51136,form,无损检测 (NDT) 与无损评估 (NDE),Zerstörungsfreie Prüfung (NDT) und Zerstörungsfreie Bewertung (NDE)
+69a85e510100005e00b914ae,,199915,question,responseOption61,51136,form,油漆,Farbe
+69a85e510100005e00b914ae,,199915,question,responseOption62,51136,form,铺路,Pflasterarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption63,51136,form,管道,Pipelines
+69a85e510100005e00b914ae,,199915,question,responseOption64,51136,form,管道工程（给排水）,Klempnerleistungen
+69a85e510100005e00b914ae,,199915,question,responseOption65,51136,form,预制建筑（结构）/ 建筑装饰,Fertighäuser (Baustruktur)/Architektonische Feinarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption66,51136,form,铁路,Eisenbahn
+69a85e510100005e00b914ae,,199915,question,responseOption67,51136,form,屋面工程,Dacharbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption68,51136,form,喷砂处理,Sandstrahlen
+69a85e510100005e00b914ae,,199915,question,responseOption69,51136,form,卫生工程师 / 清洁 / 废物处理,Sanitärtechnik/Reinigung/Abfall
+69a85e510100005e00b914ae,,199915,question,responseOption7,51136,form,建筑施工 - 干墙、框架、维护、维修,"Gebäudekonstruktion – Trockenwand, Rahmen, Wartung, Reparatur"
+69a85e510100005e00b914ae,,199915,question,responseOption70,51136,form,脚手架,Gerüste
+69a85e510100005e00b914ae,,199915,question,responseOption71,51136,form,安全系统,Sicherheitssysteme
+69a85e510100005e00b914ae,,199915,question,responseOption72,51136,form,支护,Abstützung
+69a85e510100005e00b914ae,,199915,question,responseOption73,51136,form,除雪,Winterdienst
+69a85e510100005e00b914ae,,199915,question,responseOption74,51136,form,土壤修复,Bodensanierung
+69a85e510100005e00b914ae,,199915,question,responseOption75,51136,form,声波钻探,Schallbohrungen
+69a85e510100005e00b914ae,,199915,question,responseOption76,51136,form,烟囱竖立与维护,Stapelbau und -wartung
+69a85e510100005e00b914ae,,199915,question,responseOption77,51136,form,劳务派遣机构,Personalvermittlungsagenturen
+69a85e510100005e00b914ae,,199915,question,responseOption78,51136,form,结构钢,Baustahl
+69a85e510100005e00b914ae,,199915,question,responseOption79,51136,form,测量,Vermessung
+69a85e510100005e00b914ae,,199915,question,responseOption8,51136,form,电缆安装,Kabelinstallation
+69a85e510100005e00b914ae,,199915,question,responseOption80,51136,form,储罐 / 筒仓,Tanks/Silos
+69a85e510100005e00b914ae,,199915,question,responseOption81,51136,form,电信 - 建设,Telekommunikation – Bauwesen
+69a85e510100005e00b914ae,,199915,question,responseOption82,51136,form,电信 - 安装,Telekommunikation – Installation
+69a85e510100005e00b914ae,,199915,question,responseOption83,51136,form,运输（车队 / 承运商）,Transport (Flotten/Spediteure)
+69a85e510100005e00b914ae,,199915,question,responseOption84,51136,form,沟槽开挖与土方开挖,Ausschachtungen und Grabung
+69a85e510100005e00b914ae,,199915,question,responseOption85,51136,form,地下公用设施 / 迁移,Unterirdische Versorgungsunternehmen/Umzüge
+69a85e510100005e00b914ae,,199915,question,responseOption86,51136,form,水质检测与采样,Prüfung und Probenahme von Wasser
+69a85e510100005e00b914ae,,199915,question,responseOption87,51136,form,水处理,Wasseraufbereitung
+69a85e510100005e00b914ae,,199915,question,responseOption88,51136,form,焊接,Schweißen
+69a85e510100005e00b914ae,,199915,question,responseOption89,51136,form,批发分销 / 零售,Großhandelsvertrieb/Einzelhandelsverkauf
+69a85e510100005e00b914ae,,199915,question,responseOption9,51136,form,校准服务,Kalibrierungsservices
+69a85e510100005e00b914ae,,199915,question,responseOption90,51136,form,餐饮 / 食品服务,Catering/Lebensmitteldienste
+69a85e510100005e00b914ae,,199915,question,responseOption91,51136,form,工业设备租赁 / 销售 / 租用,Vermietung/Verkauf/Verleih von Industrieanlagen
+69a85e510100005e00b914ae,,199915,question,responseOption92,51136,form,石油下游,Öl- und Gasindustrie Downstream
+69a85e510100005e00b914ae,,199915,question,responseOption93,51136,form,石油中游,Öl- und Gasindustrie Midstream
+69a85e510100005e00b914ae,,199915,question,responseOption94,51136,form,石油上游 / 勘探与生产 (E&P),Öl- und Gasindustrie Upstream/E&amp;P
+69a85e510100005e00b914ae,,199915,question,responseOption95,51136,form,可再生能源 / 太阳能 / 风能 / 水力发电,Erneuerbare Energien/Solar/Windkraft/Wasserkraft
+69a85e510100005e00b914ae,,199915,question,responseOption96,51136,form,安保 / 资产保护服务,Sicherheit/Ressourcenschutzservices
+69a85e510100005e00b914ae,,199915,question,responseOption97,51136,form,交通管制服务,Verkehrskontrolldienste
+69a85e510100004300b914ac,,199916,question,questionText,51136,form,"## 健康与安全代表
+
+请输入贵组织负责健康与安全合规的健康与安全代表或相关负责人的姓名：
+
+姓名：",
+69a85e510100004400b914ab,,199917,question,questionText,51136,form,电子邮件：,
+69a85e510100006000b914ad,,199918,question,questionText,51136,form,职位/头衔：,
+69a85e510100004400b914b0,,199919,question,questionText,51136,form,### 政策和程序必须以英文上传，以满足审计要求。,
+69a85e510100004400b914af,,199920,question,questionText,51136,form,电话：,

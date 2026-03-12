@@ -1,0 +1,36 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774ca36b6c4c635467bd,69a8774ca36b6c4c635467bc,51176,questionGroup,questionGroupText,51176,form,噪声,
+69a8774ca36b6c4c635467b2,,200185,question,description,51176,form,"噪声危害识别必须评估员工的潜在暴露情况。当无法排除暴露可能时，必须进行工作场所噪声测量。测量必须考虑冲击噪声。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 65(2)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Noise and Vibration Regulation (VOLV), Section 6(2)</a>",
+69a8774ca36b6c4c635467b2,,200185,question,questionText,51176,form,暴露评估（定期、变更后）,
+69a8774ca36b6c4c635467b3,,200186,question,description,51176,form,"在涉及有害噪声暴露的任务开始前，必须进行上岗前听力检查。对暴露于有害噪声水平的员工，必须定期进行听力检查。检查频率必须反映健康风险。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 50(1)</a>",
+69a8774ca36b6c4c635467b3,,200186,question,questionText,51176,form,听力检查（上岗前、定期）,
+69a8774ca36b6c4c635467b4,,200187,question,description,51176,form,"噪声暴露限值不得超标。超标时必须立即采取纠正措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Noise and Vibration Regulation (VOLV), Section 3(1)-(3)</a>",
+69a8774ca36b6c4c635467b4,,200187,question,questionText,51176,form,未超出暴露限值（85 dBA）,
+69a8774ca36b6c4c635467b5,,200188,question,description,51176,form,"噪声触发值必须规定何时适用额外控制措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Noise and Vibration Regulation (VOLV), Section 4(1), 9(3)</a>",
+69a8774ca36b6c4c635467b5,,200188,question,questionText,51176,form,超出限值时的应对措施（80 dBA）,
+69a8774ca36b6c4c635467b6,,200189,question,description,51176,form,"噪声降低措施必须在考虑最新技术和源头控制的前提下降低暴露水平。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 65(1,4), 65(4)5</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Noise and Vibration Regulation (VOLV), Section 11, 13(1)(1),(2)</a>",
+69a8774ca36b6c4c635467b6,,200189,question,questionText,51176,form,控制措施（工程控制、行政管理、PPE）,
+69a8774ca36b6c4c635467b7,,200190,question,description,51176,form,"在存在有害噪声暴露的区域必须强制要求佩戴听力防护装备。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 65(4)3</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Noise and Vibration Regulation (VOLV), Section 14(1)</a>",
+69a8774ca36b6c4c635467b7,,200190,question,questionText,51176,form,听力防护,
+69a8774ca36b6c4c635467b8,,200191,question,description,51176,form,"噪声暴露登记册必须列明受暴露员工并保持更新。暴露登记册必须保存至暴露结束，并提交相关保险机构。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 65(4)6</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Noise and Vibration Regulation (VOLV), Section 14(5)</a>",
+69a8774ca36b6c4c635467b8,,200191,question,questionText,51176,form,暴露登记册,
+69a8774ca36b6c4c635467b9,,200192,question,description,51176,form,"高暴露区域必须进行标识，并在有充分依据时划定限制进入的隔离区。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 65(4)4</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Noise and Vibration Regulation (VOLV), Section 14(3)</a>",
+69a8774ca36b6c4c635467b9,,200192,question,questionText,51176,form,限制进入控制,
+69a8774ca36b6c4c635467ba,,200193,question,description,51176,form,"噪声危害教育必须涵盖风险及防护措施。当触发值超标时必须进行教育，内容须包括控制措施、限值、测量结果、健康影响、安全操作方法及PPE使用。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 65(4)(1)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Noise and Vibration Regulation (VOLV), Section 8(1)</a>",
+69a8774ca36b6c4c635467ba,,200193,question,questionText,51176,form,培训（初始培训、超标后培训）,
+69a8774ca36b6c4c635467bb,,200194,question,questionText,51176,form,<div></div>,

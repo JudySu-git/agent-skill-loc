@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67094d1b010000330007a989,65b03bcd18000072392157f2,41153,questionGroup,questionGroupText,41153,form,Avetta PQF - Iraq Environmental Clearance Certificate
+65b03c741800005d392157f8,65b03c741800005d392157f7,41154,questionGroup,questionGroupText,41153,form,Environmental Compliance
+65b03c8b18000015386d334f,,149937,question,description,41153,form,"<a href=""https://moen.gov.iq/"">Federal Ministry of Environment</a>\n\n<a href=""https://gov.krd/environment/"">Kurdistan Regional Government Ministry of Environment</a>"
+65b03c8b18000015386d334f,,149937,question,questionText,41153,form,Does your company hold a valid Environmental Clearance Certificate issued by the competent environmental authority (Federal Ministry of Environment or Kurdistan Regional Government Ministry of Environment)?
+65b03c8b18000015386d334f,,149937,question,responseOption1,41153,form,Yes
+65b03c8b18000015386d334f,,149937,question,responseOption2,41153,form,No
+65b03eb3180000283821585b,,149938,question,questionText,41153,form,Please upload the certificate issued by the relevant authority.

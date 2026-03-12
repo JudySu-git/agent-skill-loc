@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4d84010000500021f9d4,66302df51b00003200b6e88a,42072,questionGroup,description,42072,form,You are getting this category because you selected a license in the Avetta PQF - Western Australia License.
+66ce4d84010000500021f9d4,66302df51b00003200b6e88a,42072,questionGroup,questionGroupText,42072,form,Western Australia Contractor License - Radiation
+66302df51b00006100b6e88c,,153517,question,questionText,42072,form,Expiration Date:
+66302df51b00006100b6e88c,,153517,question,responseOption1,42072,form,Yes
+66302df51b00006100b6e88c,,153517,question,responseOption2,42072,form,No
+66302df51b00005d00b6e88b,,153518,question,questionText,42072,form,Please upload your license:\n
+66302df51b00005d00b6e88b,,153518,question,responseOption1,42072,form,Yes
+66302df51b00005d00b6e88b,,153518,question,responseOption2,42072,form,No
+66302df51b00005e00b6e88d,,153519,question,questionText,42072,form,License Number:
+66302df51b00005e00b6e88d,,153519,question,responseOption1,42072,form,Yes
+66302df51b00005e00b6e88d,,153519,question,responseOption2,42072,form,No

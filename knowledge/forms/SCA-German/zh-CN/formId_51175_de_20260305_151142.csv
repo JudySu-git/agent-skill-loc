@@ -1,0 +1,12 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774ba36b6c4c635467b1,69a8774ba36b6c4c635467b0,51175,questionGroup,questionGroupText,51175,form,多雇主协调,
+69a8774ba36b6c4c635467ac,,200181,question,description,51175,form,"必须确保共享工作场所中各雇主之间的危害预防协调。必须根据工作场所危害确定并实施针对外部员工的商定防护措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 8(1)(1), 8(2)(3), 8(2)(4)</a>",
+69a8774ba36b6c4c635467ac,,200181,question,questionText,51175,form,协调危害预防活动,
+69a8774ba36b6c4c635467ad,,200182,question,description,51175,form,"必须确保向雇主、员工及其代表相互通报工作场所危害信息。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 8(1)(2), 9(4)</a>",
+69a8774ba36b6c4c635467ad,,200182,question,questionText,51175,form,共享危害信息,
+69a8774ba36b6c4c635467ae,,200183,question,description,51175,form,"必须向外部员工提供危害信息及适当的指导说明。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 8(2)(1)</a>",
+69a8774ba36b6c4c635467ae,,200183,question,questionText,51175,form,外部工作人员培训,
+69a8774ba36b6c4c635467af,,200184,question,questionText,51175,form,<div></div>,

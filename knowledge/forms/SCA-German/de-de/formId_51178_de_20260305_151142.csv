@@ -1,0 +1,15 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774ea36b6c4c635467c9,69a8774ea36b6c4c635467c8,51178,questionGroup,questionGroupText,51178,form,Optische Strahlung,
+69a8774da36b6c4c635467c3,,200198,question,description,51178,form,"Eine Gefährdungsbeurteilung für optische Strahlung ist bei Tätigkeiten mit möglicher Exposition erforderlich und muss Strahlungsart, Expositionsdauer und Arbeitsplatzbedingungen berücksichtigen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006827"">Verordnung über optische Strahlung, § 1 Abs. 1, 5</a>",
+69a8774da36b6c4c635467c3,,200198,question,questionText,51178,form,Gefährdungsbeurteilung,
+69a8774da36b6c4c635467c4,,200199,question,description,51178,form,"Die Einhaltung der Expositionsgrenzwerte ist erforderlich und muss sicherstellen, dass die Grenzwerte für künstliche optische Strahlung bei inkohärenten oder Laserquellen nicht überschritten werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006827"">Verordnung über optische Strahlung, § 3 Abs. 1</a>",
+69a8774da36b6c4c635467c4,,200199,question,questionText,51178,form,Expositionsgrenzwerte,
+69a8774da36b6c4c635467c5,,200200,question,description,51178,form,"Bei der Arbeitsplatzgestaltung müssen Maßnahmen zur Trennung, Abschirmung und räumlichen Anordnung berücksichtigt werden. Maßnahmen zur Expositionsreduzierung müssen umgesetzt werden und alternative Arbeitsmittel sowie technische Schutzmaßnahmen einbeziehen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006827"">Verordnung über optische Strahlung, § 5 Abs. 4 Z 1–2, § 7 Abs. 1</a>",
+69a8774da36b6c4c635467c5,,200200,question,questionText,51178,form,"Schutzmaßnahmen (technische, organisatorische und/oder persönliche Schutzausrüstung)",
+69a8774da36b6c4c635467c6,,200201,question,description,51178,form,"Die Information der Beschäftigten über Strahlungsrisiken ist erforderlich und muss Gefährdungen sowie Schutzmaßnahmen behandeln.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006827"">Verordnung über optische Strahlung, § 6 Abs. 1</a>",
+69a8774da36b6c4c635467c6,,200201,question,questionText,51178,form,Unterweisung,
+69a8774da36b6c4c635467c7,,200202,question,questionText,51178,form,<div></div>,

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce49a10100003200ebe517,662fed181a0000660045d381,42026,questionGroup,description,42026,form,You are getting this category because you selected a license in the Avetta PQF - Queensland License.
+66ce49a10100003200ebe517,662fed181a0000660045d381,42026,questionGroup,questionGroupText,42026,form,Queensland Contractor License - Plumbing
+662fed181a0000610045d382,,153382,question,questionText,42026,form,License Number:
+662fed181a0000610045d382,,153382,question,responseOption1,42026,form,Yes
+662fed181a0000610045d382,,153382,question,responseOption2,42026,form,No
+662fed181a0000610045d383,,153383,question,questionText,42026,form,Please upload your license:\n
+662fed181a0000610045d383,,153383,question,responseOption1,42026,form,Yes
+662fed181a0000610045d383,,153383,question,responseOption2,42026,form,No
+662fed181a0000610045d384,,153384,question,questionText,42026,form,Expiration Date:
+662fed181a0000610045d384,,153384,question,responseOption1,42026,form,Yes
+662fed181a0000610045d384,,153384,question,responseOption2,42026,form,No

@@ -1,0 +1,18 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87736a36b6c4c635466af,69a87736a36b6c4c635466ae,51146,questionGroup,questionGroupText,51146,form,建筑施工 - 铅,
+69a87736a36b6c4c635466a8,,199979,question,description,51146,form,"含铅量超过质量分数2%的涂料不得进行喷涂作业。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">《建筑工人保护条例》第125(1)条</a>",
+69a87736a36b6c4c635466a8,,199979,question,questionText,51146,form,禁止使用含铅量>2%的油漆,
+69a87736a36b6c4c635466a9,,199980,question,description,51146,form,"涉及铅尘的作业必须以尽量减少粉尘产生的方式进行。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">《建筑工人保护条例》第125(1)条</a>",
+69a87736a36b6c4c635466a9,,199980,question,questionText,51146,form,粉尘控制,
+69a87736a36b6c4c635466aa,,199981,question,description,51146,form,"在存在铅尘暴露的场所，必须为工人提供呼吸防护装备。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">《建筑工人保护条例》第125(2)条</a>",
+69a87736a36b6c4c635466aa,,199981,question,questionText,51146,form,呼吸防护,
+69a87736a36b6c4c635466ab,,199982,question,description,51146,form,"必须为从事铅尘作业的工人提供温热流动水和护肤产品。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">《建筑工人保护条例》第125(3)条</a>",
+69a87736a36b6c4c635466ab,,199982,question,questionText,51146,form,卫生规定,
+69a87736a36b6c4c635466ac,,199983,question,description,51146,form,"如果建筑施工作业涉及铅尘释放且预计持续时间超过五个工作日，必须向相关劳动监察机构进行通报。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">《建筑工人保护条例》第3(5)(3)条</a>",
+69a87736a36b6c4c635466ac,,199983,question,questionText,51146,form,向劳动监察机构通报（如作业预计持续时间超过5个工作日）,
+69a87736a36b6c4c635466ad,,199984,question,questionText,51146,form,<div></div>,

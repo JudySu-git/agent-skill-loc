@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67f590d30100001d01691be3,67f58e230100002a013cb965,45221,questionGroup,questionGroupText,45221,form,Brazil ANP - National Petroleum Agency (Autorização da Agencia Nacional de Petróleo)
+67f58f6e0100002a013cb96e,,167382,question,description,45221,form,"<a href = ""https://www.gov.br/pt-br/servicos/obter-autorizacao-de-exercicio-da-atividade-de-coleta-de-oleo-lubrificante-usado-ou-contaminado""target=""BLANK"">Reference</a>"
+67f58f6e0100002a013cb96e,,167382,question,questionText,45221,form,Does your company engage in collecting used or contaminated lubricating oil in Brazil?
+67f58f6e0100002a013cb96e,,167382,question,responseOption1,45221,form,Yes
+67f58f6e0100002a013cb96e,,167382,question,responseOption2,45221,form,No
+67f58fbc0100004300691ba9,,167383,question,description,45221,form,Please describe the main types of services provided by your company in Brazil.
+67f58fbc0100004300691ba9,,167383,question,questionText,45221,form,Please explain:
+67f58fbc0100004300691ba9,,167383,question,responseOption1,45221,form,Yes
+67f58fbc0100004300691ba9,,167383,question,responseOption2,45221,form,No
+67f58fe30100001501691bab,,167384,question,description,45221,form,Please provide the most recently issued authorization certificate.
+67f58fe30100001501691bab,,167384,question,questionText,45221,form,Please upload your current authorization certificate issued by the ANP.
+67f58fe30100001501691bab,,167384,question,responseOption1,45221,form,Yes
+67f58fe30100001501691bab,,167384,question,responseOption2,45221,form,No

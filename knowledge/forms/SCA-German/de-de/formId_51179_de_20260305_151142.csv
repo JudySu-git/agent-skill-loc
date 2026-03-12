@@ -1,0 +1,25 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774ea36b6c4c635467d2,69a8774ea36b6c4c635467d1,51179,questionGroup,questionGroupText,51179,form,Persönliche Schutzausrüstung (PSA),
+69a8774ea36b6c4c635467ca,,200203,question,description,51179,form,"Die PSA-Beurteilung muss Gefährdungen ermitteln und erforderliche Schutzeigenschaften festlegen. PSA-Beurteilungen sind zu wiederholen, wenn sich die Beurteilungskriterien ändern.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 70 Abs. 5–6</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">PSA-Verordnung, § 4 Abs. 1</a>",
+69a8774ea36b6c4c635467ca,,200203,question,questionText,51179,form,Gefährdungsbeurteilung,
+69a8774ea36b6c4c635467cb,,200204,question,description,51179,form,"Die Eignung der PSA muss den Arbeitsplatzbedingungen und Gefährdungen entsprechen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 70 Abs. 1 Z 2–3</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">PSA-Verordnung, § 7 Abs. 2 und 3</a>",
+69a8774ea36b6c4c635467cb,,200204,question,questionText,51179,form,Ausrüstungsauswahl,
+69a8774ea36b6c4c635467cc,,200205,question,description,51179,form,"Die Bereitstellung von PSA hat auf Kosten des Arbeitgebers zu erfolgen, wenn Gefährdungen nicht anderweitig beherrscht werden können.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 69 Abs. 2</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">PSA-Verordnung, § 3 Abs. 1</a>",
+69a8774ea36b6c4c635467cc,,200205,question,questionText,51179,form,Bereitstellung zur Verwendung,
+69a8774ea36b6c4c635467cd,,200206,question,description,51179,form,"Die PSA muss für den Träger passend sein, einschließlich der erforderlichen Anpassungen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 70 Abs. 1 Z 5</a>",
+69a8774ea36b6c4c635467cd,,200206,question,questionText,51179,form,Ordnungsgemäße Passform,
+69a8774ea36b6c4c635467ce,,200207,question,description,51179,form,"Zustand und Hygiene der PSA sind durch Reinigung, Wartung, Instandsetzung und Austausch aufrechtzuerhalten.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 17 Abs. 1–2, § 69 Abs. 6</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">PSA-Verordnung, § 3 Abs. 5</a>",
+69a8774ea36b6c4c635467ce,,200207,question,questionText,51179,form,Prüfung,
+69a8774ea36b6c4c635467cf,,200208,question,description,51179,form,"Informationen und Unterweisungen zur PSA müssen vor dem erstmaligen Einsatz und mindestens jährlich erfolgen, sofern längere Intervalle nicht begründet sind.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">PSA-Verordnung, § 7 Abs. 1</a>",
+69a8774ea36b6c4c635467cf,,200208,question,questionText,51179,form,"Unterweisung (vor Erstverwendung, jährlich)",
+69a8774ea36b6c4c635467d0,,200209,question,questionText,51179,form,<div></div>,

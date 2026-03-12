@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6172fb182d000052a8386d29,6172debb2d000052a836d28d,34019,questionGroup,questionGroupText,34019,form,Marine Cargo
+6172e6982d000052a8373758,6172e6982d000052a8373757,34020,questionGroup,questionGroupText,34019,form,Policy Information
+6172e6cf2d000052a837375a,,115598,question,description,34019,form,Used to provide instructions from Client
+6172e6cf2d000052a837375a,,115598,question,questionText,34019,form,Comments
+6172e7372d000052a837375d,,115599,question,description,34019,form,Date the instructions from Client expire
+6172e7372d000052a837375d,,115599,question,questionText,34019,form,VARIANCE Expiration Date
+6172e7532d000052a837375e,,115600,question,questionText,34019,form,Policy Effective Date
+6172e79c2d0000698b5e825b,,115601,question,questionText,34019,form,Policy Expiration Date
+6172e7b42d000052a8373761,,115602,question,questionText,34019,form,Insurance Carrier:
+6172e7f22d0000698b5e9324,,115603,question,description,34019,form,Marine Cargo Insurance Certificate
+6172e7f22d0000698b5e9324,,115603,question,questionText,34019,form,Please upload Marine Cargo Insurance Certificate

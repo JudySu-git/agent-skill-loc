@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4ce50100002f00ebe55d,663014941b00006100b6e741,42060,questionGroup,description,42060,form,You are getting this category because you selected a license in the Avetta PQF - Victoria License.
+66ce4ce50100002f00ebe55d,663014941b00006100b6e741,42060,questionGroup,questionGroupText,42060,form,Victoria Contractor License - Security Master
+663014941b00005f00b6e742,,153481,question,questionText,42060,form,License Number:
+663014941b00005f00b6e742,,153481,question,responseOption1,42060,form,Yes
+663014941b00005f00b6e742,,153481,question,responseOption2,42060,form,No
+663014941b00003200b6e744,,153482,question,questionText,42060,form,Please upload your license:\n
+663014941b00003200b6e744,,153482,question,responseOption1,42060,form,Yes
+663014941b00003200b6e744,,153482,question,responseOption2,42060,form,No
+663014941b00005f00b6e743,,153483,question,questionText,42060,form,Expiration Date:
+663014941b00005f00b6e743,,153483,question,responseOption1,42060,form,Yes
+663014941b00005f00b6e743,,153483,question,responseOption2,42060,form,No

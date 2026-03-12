@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87755a36b6c4c63546821,69a87755a36b6c4c63546820,51189,questionGroup,questionGroupText,51189,form,"Working On, Over, or Near Water",
+69a87755a36b6c4c6354681a,,200263,question,description,51189,form,"Drowning-risk work arrangements must include the availability of life-saving PPE and rescue equipment. Watercraft equipment must provide one life-saving device per person.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 106(1), 107(1)</a>",
+69a87755a36b6c4c6354681a,,200263,question,questionText,51189,form,Personal Protective Equipment,
+69a87755a36b6c4c6354681b,,200264,question,description,51189,form,"Worksite staffing must include trained users of rescue equipment. At least one person with resuscitation knowledge must be present on-site.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 106(1-2)</a>",
+69a87755a36b6c4c6354681b,,200264,question,questionText,51189,form,Rescue Personnel,
+69a87755a36b6c4c6354681c,,200265,question,description,51189,form,"Before commencing work, employees must be instructed in the handling of protective and rescue equipment and in the correct procedures in the event of accidents.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 106(2)</a>",
+69a87755a36b6c4c6354681c,,200265,question,questionText,51189,form,Training,
+69a87755a36b6c4c6354681d,,200266,question,description,51189,form,"Annual water rescue drills must occur for all employees involved, simulating realistic emergency scenarios, with documented records.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 106(2)</a>",
+69a87755a36b6c4c6354681d,,200266,question,questionText,51189,form,Annual Water Rescue Drills,
+69a87755a36b6c4c6354681e,,200267,question,description,51189,form,"High-risk water work arrangements must include manned motorboats equipped and crewed for rescue operations\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 106(3)</a>",
+69a87755a36b6c4c6354681e,,200267,question,questionText,51189,form,Manned Motorboat Availability,
+69a87755a36b6c4c6354681f,,200268,question,questionText,51189,form,<div></div>,

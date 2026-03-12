@@ -1,0 +1,9 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774da36b6c4c635467c2,69a8774da36b6c4c635467c1,51177,questionGroup,questionGroupText,51177,form,职业健康与安全委员会,
+69a8774da36b6c4c635467be,,200195,question,description,51177,form,"在拥有至少100名员工的工作场所必须成立职业安全委员会。委员会成员必须包括雇主、专业人员和代表。外部工人和建筑工人必须纳入劳动力人数计算。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第88(1)条</a>",
+69a8774da36b6c4c635467be,,200195,question,questionText,51177,form,委员会成立情况（≥100名工人）,
+69a8774da36b6c4c635467bf,,200196,question,description,51177,form,"委员会会议每个日历年至少召开一次。每次委员会会议必须编写会议记录。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第88(5,7)条</a>",
+69a8774da36b6c4c635467bf,,200196,question,questionText,51177,form,每年至少召开一次委员会会议,
+69a8774da36b6c4c635467c0,,200197,question,questionText,51177,form,<div></div>,

@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6706c771010000120101650a,67046b0f0100009200ef6ee2,43526,questionGroup,questionGroupText,43526,form,Loureiro - RPW Insurance Questionnaire
+67046b48010000ac00ef6ee5,,159966,question,questionText,43526,form,"Does your company provide ""asbestos abatement/removal, armed security services, demolition work, fire/sprinkler installation, general construction, excavation work, plumbing work (new installation, re-work, building wide systems) electrical work (new installation, rework, building wide systems)?"""
+67046b48010000ac00ef6ee5,,159966,question,responseOption1,43526,form,Yes
+67046b48010000ac00ef6ee5,,159966,question,responseOption2,43526,form,No
+67046b670100005400ef6ee8,,159967,question,questionText,43526,form,Does your company lease employees through a Professional Employer Organization (PEO) and/or is required to maintain an Alternate Employer endorsement on your Workers’ Compensation policy?
+67046b670100005400ef6ee8,,159967,question,responseOption1,43526,form,Yes
+67046b670100005400ef6ee8,,159967,question,responseOption2,43526,form,No

@@ -1,0 +1,15 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87750a36b6c4c635467e2,69a87750a36b6c4c635467e1,51181,questionGroup,questionGroupText,51181,form,Risikobeurteilung und Gefahrenverhütung,
+69a8774fa36b6c4c635467dc,,200217,question,description,51181,form,"Die Ermittlung und Beurteilung von Gefahren am Arbeitsplatz, die Gestaltung, Ausrüstung, Materialien, Arbeitsvorgänge und Ausbildung umfasst, muss durchgeführt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 4(1), 5</a>",
+69a8774fa36b6c4c635467dc,,200217,question,questionText,51181,form,Gefahrenbeurteilung,
+69a8774fa36b6c4c635467dd,,200218,question,description,51181,form,"Gefahrenbeurteilungen müssen dokumentierte Schutzmaßnahmen umfassen, die auf allgemeinen Präventionsgrundsätzen basieren. Die Maßnahmen müssen den Normalbetrieb, Notsituationen und mögliche Störungen berücksichtigen und auf allen Organisationsebenen integriert sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 4(1,3), 5, 7</a>",
+69a8774fa36b6c4c635467dd,,200218,question,questionText,51181,form,Dokumentierte Schutzmaßnahmen,
+69a8774fa36b6c4c635467de,,200219,question,description,51181,form,"Kollektiven Schutzmaßnahmen ist Vorrang vor individuellen Schutzmaßnahmen einzuräumen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 7(8)</a>",
+69a8774fa36b6c4c635467de,,200219,question,questionText,51181,form,Vorrang kollektiver Schutzmaßnahmen,
+69a8774fa36b6c4c635467df,,200220,question,description,51181,form,"Gefahrenbeurteilungen und Schutzmaßnahmen müssen bei Bedarf überprüft und aktualisiert werden, insbesondere nach Unfällen, Berufskrankheiten, psychosozialen Belastungen, Änderungen an Arbeitsmitteln oder Arbeitsvorgängen oder auf Verlangen der Behörden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 4(4,5)</a>",
+69a8774fa36b6c4c635467df,,200220,question,questionText,51181,form,Aktualisierung der Beurteilungen,
+69a8774fa36b6c4c635467e0,,200221,question,questionText,51181,form,<div></div>,

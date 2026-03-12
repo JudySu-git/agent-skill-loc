@@ -1,0 +1,18 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+618439b52e00009499dfe1ab,618437242d00003091387d32,34075,questionGroup,questionGroupText,34075,form,Avetta PQF - Argentina Fiscal Compliance
+618438112e00009499dfbd35,618438112e00009499dfbd34,34076,questionGroup,questionGroupText,34075,form,Argentina Fiscal Compliance
+618438252e00009499dfc02a,,115742,question,questionText,34075,form,Does your company qualify for VAT exemption? 
+618438252e00009499dfc02a,,115742,question,responseOption1,34075,form,Yes
+618438252e00009499dfc02a,,115742,question,responseOption2,34075,form,No
+6184384b2d00003091389a92,,115743,question,questionText,34075,form,"If yes, Please upload your Certificate of VAT Exclusion:"
+618438672d00003091389c82,,115744,question,questionText,34075,form,Does your company qualify for Federal Revenue tax withholding exemption? 
+618438672d00003091389c82,,115744,question,responseOption1,34075,form,Yes
+618438672d00003091389c82,,115744,question,responseOption2,34075,form,No
+6184388a2e00009499dfc895,,115745,question,questionText,34075,form,"If yes, Please upload your Federal Income withholding exemption:"
+618438a72e00009499dfcb85,,115746,question,questionText,34075,form,Is your company registered with multiple provincial gross revenue tax authorities? 
+618438a72e00009499dfcb85,,115746,question,responseOption1,34075,form,Yes
+618438a72e00009499dfcb85,,115746,question,responseOption2,34075,form,No
+618438ce2e00009499dfcea2,,115747,question,questionText,34075,form,"If yes, Please upload a copy of your multi-provincial registration form (Form CM01):"
+618438f72d0000309138a25f,,115748,question,questionText,34075,form,"If no, Please upload a copy of your local provincial registration from: "
+618439242d0000309138a472,,115750,question,description,34075,form,Name of the Responsible manager/owner
+618439242d0000309138a472,,115750,question,questionText,34075,form,"I certify that my company is compliant with all current labor regulations, and is not subject to any REPSAL sanctions by MTEySS, the AFIP, provincial authorities and the Autonomous City of Buenos Aires, the SRT or by the RENATRE"

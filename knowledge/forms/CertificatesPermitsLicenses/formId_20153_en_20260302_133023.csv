@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+606f65234300008efba54d3d,52418a9d504943f1007abc84,4506,questionGroup,questionGroupText,20153,form,Policy Information
+52418bf750494372abbd248f,52418bf750494372abbd248f,4507,questionGroup,questionGroupText,20153,form,Policy Limits
+606f66cf4400004cc1364d47,5abe74b12500002c0167d1cf,20153,questionGroup,questionGroupText,20153,form,Commercial Crime Liability
+52418b5f504943cf2da5a706,,20892,question,questionText,20153,form,Date of Commencement:
+52418b8f504943bebbc8b1f5,,20893,question,questionText,20153,form,Expiration Date:
+52418d3a5049431dd34e208e,,20895,question,questionText,20153,form,Each Occurrence
+52418d545049432d27d76481,,20896,question,questionText,20153,form,Aggregate
+5abe7391210000d601f29de8,,70081,question,description,20153,form,Commercial Crime Certificate
+5abe7391210000d601f29de8,,70081,question,questionText,20153,form,Please upload your Commercial Crime Certificate
+5d7135a235000005b10630d5,,86249,question,questionText,20153,form,Insurance Carrier:
+606f65214300008efba54d3c,,108545,question,description,20153,form,Used to provide instructions from Client
+606f65214300008efba54d3c,,108545,question,questionText,20153,form,Comments
+606f652d4400004cc136434a,,108546,question,description,20153,form,Date the instructions from Client expire
+606f652d4400004cc136434a,,108546,question,questionText,20153,form,VARIANCE Expiration Date
+62f53f3282eb52eab3c18fae,,130531,question,questionText,20153,form,Currency used in Certificate of Insurance (COI)

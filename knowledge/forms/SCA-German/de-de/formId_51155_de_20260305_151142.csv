@@ -1,0 +1,21 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8773ca36b6c4c63546701,69a8773ca36b6c4c63546700,51155,questionGroup,questionGroupText,51155,form,Elektromagnetische Felder (EMF),
+69a8773ca36b6c4c635466f9,,200042,question,description,51155,form,"Eine Beurteilung der elektromagnetischen Felder am Arbeitsplatz ist erforderlich, und die Exposition muss unter Verwendung des Stands der Technik, Herstellerdaten und anerkannter Methoden bewertet werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009590"">Verordnung elektromagnetische Felder, § 6 Abs. 1, § 7 Abs. 1</a>",
+69a8773ca36b6c4c635466f9,,200042,question,questionText,51155,form,Expositionsbeurteilung,
+69a8773ca36b6c4c635466fa,,200043,question,description,51155,form,"Nicht-thermische und thermische Expositionsgrenzwerte müssen festgelegt werden, mit Maßnahmen, die sicherstellen, dass diese Grenzwerte für die relevanten Frequenzen und Expositionsarten nicht überschritten werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009590"">Verordnung elektromagnetische Felder, § 3 Abs. 1–2</a>",
+69a8773ca36b6c4c635466fa,,200043,question,questionText,51155,form,Expositionsgrenzwerte,
+69a8773ca36b6c4c635466fb,,200044,question,description,51155,form,"Korrekturmaßnahmen sind erforderlich. Die Exposition muss unverzüglich reduziert werden, die Ursachen für die Grenzwertüberschreitung müssen ermittelt werden, und die Schutzmaßnahmen sowie das Sicherheits- und Gesundheitsschutzdokument müssen entsprechend aktualisiert werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009590"">Verordnung elektromagnetische Felder, § 3 Abs. 5</a>",
+69a8773ca36b6c4c635466fb,,200044,question,questionText,51155,form,Maßnahmen bei Überschreitung der Grenzwerte,
+69a8773ca36b6c4c635466fc,,200045,question,description,51155,form,"Expositionsminderungsmaßnahmen wie Abschirmung, Abstandserhöhung, alternative Geräte, Verriegelungen, quellenreduzierende Maßnahmen, organisatorische Expositionsbegrenzung und technische EMF-Kontrollen müssen in Betracht gezogen werden, um die Exposition zu reduzieren.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009590"">Verordnung elektromagnetische Felder, § 7 Abs. 3, § 9 Abs. 2, § 10 Abs. 1–5</a>",
+69a8773ca36b6c4c635466fc,,200045,question,questionText,51155,form,Schutzmaßnahmen,
+69a8773ca36b6c4c635466fd,,200046,question,description,51155,form,"Die Bereitstellung von persönlicher Schutzausrüstung (PSA) im Zusammenhang mit elektromagnetischen Feldern ist erforderlich; geeignete PSA muss bereitgestellt und verwendet werden, wenn Expositionsgrenzwerte überschritten werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009590"">Verordnung elektromagnetische Felder, § 11 Abs. 1</a>",
+69a8773ca36b6c4c635466fd,,200046,question,questionText,51155,form,Persönliche Schutzausrüstung (PSA),
+69a8773ca36b6c4c635466fe,,200047,question,description,51155,form,"Eine Unterweisung über die Gefährdungen durch elektromagnetische Felder ist erforderlich; Beschäftigte müssen informiert und geschult werden, wenn Auslösewerte überschritten werden oder EMF-Gefährdungen möglich sind. Dies umfasst das Erkennen und Melden von Symptomen, sichere Arbeitsverfahren, den Umgang mit Geräten, die korrekte Verwendung von PSA sowie expositionsminderndes Verhalten.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009590"">Verordnung elektromagnetische Felder, § 8 Abs. 1</a>",
+69a8773ca36b6c4c635466fe,,200047,question,questionText,51155,form,Schulung,
+69a8773ca36b6c4c635466ff,,200048,question,questionText,51155,form,<div></div>,

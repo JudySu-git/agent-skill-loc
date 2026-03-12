@@ -1,0 +1,12 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87753a36b6c4c63546807,69a87753a36b6c4c63546806,51186,questionGroup,questionGroupText,51186,form,Schulung,
+69a87753a36b6c4c63546802,,200245,question,description,51186,form,"Für Arbeitnehmer müssen geeignete Sicherheits- und Gesundheitsunterweisungen bereitgestellt werden. Informationen zu Sicherheits- und Gesundheitsgefahren sowie Präventivmaßnahmen müssen während der Arbeitszeit vermittelt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 7(9), 12(1), 14(1)</a>",
+69a87753a36b6c4c63546802,,200245,question,questionText,51186,form,Allgemeine Sicherheitsanweisungen,
+69a87753a36b6c4c63546803,,200246,question,description,51186,form,"Sicherheitsunterweisungen müssen vor Arbeitsbeginn erteilt und bei Bedarf wiederholt werden. Die Unterweisung muss vor Aufnahme der Arbeit, bei Änderungen, bei Einführung neuer Arbeitsmittel oder Materialien sowie nach Zwischenfällen erfolgen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 12(2), 14(2)</a>",
+69a87753a36b6c4c63546803,,200246,question,questionText,51186,form,"Schulung (Vor Arbeitsbeginn, nach Änderungen oder Zwischenfällen)",
+69a87753a36b6c4c63546804,,200247,question,description,51186,form,"Es muss sichergestellt werden, dass Sicherheitsunterweisungen in verständlicher Sprache erteilt und das Verständnis bestätigt wird.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 12(4), 14(4)</a>",
+69a87753a36b6c4c63546804,,200247,question,questionText,51186,form,Verständliche Sprache,
+69a87753a36b6c4c63546805,,200248,question,questionText,51186,form,<div></div>,

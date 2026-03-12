@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6920999401000062001c88ee,69208de2010000440019397b,49164,questionGroup,description,49164,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+6920999401000062001c88ee,69208de2010000440019397b,49164,questionGroup,questionGroupText,49164,form,Netherlands SNA NEN 4400 Applicability Assessment
+69208e590100004400193981,,189053,question,description,49164,form,"<a href=""https://www.normeringarbeid.nl/labour-standards-register"" target=""blank"">NEN 4400 certification</a> is mandatory for all companies providing (temporary) staffing services or performing contracting or subcontracting work. Entities based outside the Netherlands are required to hold the NEN 4400-2 certificate, the international equivalent."
+69208e590100004400193981,,189053,question,questionText,49164,form,Is your company required to maintain NEN 4400-1 or NEN 4400-2 certification as administered by the Labour Standards Foundation?
+69208e590100004400193981,,189053,question,responseOption1,49164,form,Yes
+69208e590100004400193981,,189053,question,responseOption2,49164,form,No
+69208f560100004000193983,,189054,question,description,49164,form,"<a href=""https://www.normeringarbeid.nl/snakeurmerk/reglementen-en-documenten"" target=""blank"">Article 7, section 1 of the Registration Regulation</a>"
+69208f560100004000193983,,189054,question,questionText,49164,form,Please select from the following reasons your company is exempt from obtaining NEN 4400-1 or NEN 4400-2 certification.
+69208f560100004000193983,,189054,question,responseOption1,49164,form,The company is not based in the Netherlands and has no employees working in the Netherlands.
+69208f560100004000193983,,189054,question,responseOption2,49164,form,The company is a sole proprietorship with no employees in the Netherlands.
+69208f560100004000193983,,189054,question,responseOption3,49164,form,The company does not supply temporary contacts or subcontractors and it does not fall under the regulatory definitions for temporary work agencies or contracting work.
+69208f560100004000193983,,189054,question,responseOption4,49164,form,Other
+69208fbd0100006200193985,,189055,question,questionText,49164,form,Please explain why your company is not required to obtain NEN 4400-1 or NEN 4400-2 certification.

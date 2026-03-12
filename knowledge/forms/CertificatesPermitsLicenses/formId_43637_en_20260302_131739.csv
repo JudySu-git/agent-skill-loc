@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+673b710f01000036002563a3,671c25ac010000cc004db532,43637,questionGroup,questionGroupText,43637,form,Brazil National Register of Road Cargo Transporters (RNTRC)
+671c26a00100004c00e91189,,160397,question,questionText,43637,form,Please upload a copy of your valid RNTRC Certificate
+671c26a00100004c00e91189,,160397,question,responseOption1,43637,form,Yes
+671c26a00100004c00e91189,,160397,question,responseOption2,43637,form,No
+671c26af0100003400e9118c,,160398,question,questionText,43637,form,Expiration Date
+671c26af0100003400e9118c,,160398,question,responseOption1,43637,form,Yes
+671c26af0100003400e9118c,,160398,question,responseOption2,43637,form,No
+6737ce6f010000500061377a,,161938,question,questionText,43637,form,Sign below to confirm the information and/or document provided is correct and updated
+6737ce6f010000500061377a,,161938,question,responseOption1,43637,form,Yes
+6737ce6f010000500061377a,,161938,question,responseOption2,43637,form,No

@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec600100003100a47391,5d30e9e3350000434197e08a,26898,questionGroup,questionGroupText,26898,form,Nebraska Contractor License
+5d5c372234000051366232fb,5d30ea22350000434197e0bb,26899,questionGroup,questionGroupText,26898,form,Nebraska Contractor License
+5d30ea2f350000434197e0da,,84436,question,description,26898,form,"<a href = ""https://dol.nebraska.gov/conreg/Search""target=""_BLANK_"">Nebraska Department of Labor</a>\n\n\n\n\n"
+5d30ea2f350000434197e0da,,84436,question,questionText,26898,form,Nebraska Contractor License Number:\n
+5d30ea5a3500004e4d891b43,,84437,question,description,26898,form,"<a href = ""https://dol.nebraska.gov/conreg/Search""target=""_BLANK_"">Nebraska Department of Labor</a>"
+5d30ea5a3500004e4d891b43,,84437,question,questionText,26898,form,Nebraska Contractor License Classifications:\n
+5d30ea723500004e4d891b45,,84438,question,questionText,26898,form,Nebraska License Expiration Date:\n
+5d30ea863500004e4d891b47,,84439,question,description,26898,form,A URL will make verification quicker if provided\n
+5d30ea863500004e4d891b47,,84439,question,questionText,26898,form,"Upload a copy of your license, and or provide the URL of the license."
+5d30ea863500004e4d891b47,,84439,question,responseOption1,26898,form,File Upload 
+5d30ea863500004e4d891b47,,84439,question,responseOption2,26898,form,URL
+5d30ea9c3500004e4d891b4c,,84440,question,questionText,26898,form,Please upload a copy of your Nebraska license:\n
+5d30eab03500004e4d891b74,,84441,question,questionText,26898,form,Please enter the URL of the license:\n

@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+636576a41700003d06cf908b,636576991700003d06cf9086,37466,questionGroup,questionGroupText,37466,form,Scaffolding Contractor Licences – Northern Territory
+636576991700003d06cf9087,,132424,question,questionText,37466,form,Please upload current Scaffolding Licence
+636576991700003d06cf9088,,132425,question,questionText,37466,form,Licence Number
+636576991700003d06cf9089,,132426,question,questionText,37466,form,Effective Date
+636576991700003d06cf908a,,132427,question,questionText,37466,form,Expiration Date

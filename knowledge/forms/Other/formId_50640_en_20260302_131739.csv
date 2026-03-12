@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+698615b20100006100c09754,6984bde0010000630078201f,50640,questionGroup,questionGroupText,50640,form,Iceland Employer's Registration Applicability Assessment
+6984be6301000045007903c7,,197960,question,description,50640,form,"An activity or business operation must be reported to the <a href=""https://www.skatturinn.is/atvinnurekstur/virdisaukaskattur/almennt-um-vsk/"" target=""blank"">Directorate of Internal Revenue</a>  no later than 8 days before the commencement of operations with registration in the register of employers and, as applicable, in the VAT register."
+6984be6301000045007903c7,,197960,question,questionText,50640,form,Does your company have an Employer's Register number issued from the Iceland Revenue and Customs agency?
+6984be6301000045007903c7,,197960,question,responseOption1,50640,form,Yes
+6984be6301000045007903c7,,197960,question,responseOption2,50640,form,No
+6984beeb0100006000782020,,197961,question,questionText,50640,form,Please explain why your company does not have an Employer's Register number issued from the Iceland Revenue and Customs agency.
+6984bf0401000043007903ca,,197962,question,description,50640,form,
+6984bf0401000043007903ca,,197962,question,questionText,50640,form,Does your company have an Employer's Register confirmation certificate issued from the Iceland Revenue and Customs agency?
+6984bf0401000043007903ca,,197962,question,responseOption1,50640,form,Yes
+6984bf0401000043007903ca,,197962,question,responseOption2,50640,form,No
+6984bf6f01000045007903cb,,197963,question,questionText,50640,form,Please explain why your company does not have an Employer's Register confirmation certificate issued from the Iceland Revenue and Customs agency.

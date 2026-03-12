@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68af576a010000bb00de30fe,68a7a6ef01000037000ae29c,47242,questionGroup,description,47242,form,This requirement is triggered because you indicated your organization maintains valid Ireland's Pay Related Social Insurance (PRSI) documentation in the Ireland Statutory Labor Insurance Applicability Assessment questionnaire.
+68af576a010000bb00de30fe,68a7a6ef01000037000ae29c,47242,questionGroup,questionGroupText,47242,form,Ireland Pay Related Social Insurance (PRSI) Certificate
+68a7a799010000d201abd8ea,,179219,question,description,47242,form,
+68a7a799010000d201abd8ea,,179219,question,questionText,47242,form,Please upload your company's valid revenue-issued Employer PAYE/PRSI Registration Certificate to confirm your company's registration for both PAYE and PRSI. 

@@ -1,0 +1,43 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+57fe855b50494317f8e4772d,57fe855b50494317f8e4772d,9706,questionGroup,questionGroupText,20187,form,Panama Specific Updates
+662bd7c61b00003400b792eb,57fe8680504943827a7a3f2c,9710,questionGroup,questionGroupText,20187,form,Panama
+663106771c00003400e17cff,5acfa6162a0000590051c6e9,20187,questionGroup,questionGroupText,20187,form,Avetta Panama Annual Update
+57fe9e9c5049433f6748c5a9,,41309,question,description,20187,form,"IMPORTANT: Please make sure to all include Full-Time, Part-Time, and Contract workers under your supervision, even if they were not under your direct employment."
+57fe9e9c5049433f6748c5a9,,41309,question,questionText,20187,form,Please enter the Average Number of Employees your company had during the given year:
+57fe9f105049433f812d2ac1,,41313,question,description,20187,form,Any unexpected injury or incident that occurs at work or commuting to and from work is classified as a work accident. Occupational diseases/illnesses are those incidents that occur due to the scope of the work being carried out or due to the hazards present within the work environment.
+57fe9f105049433f812d2ac1,,41313,question,questionText,20187,form,"Did your company experience any work fatalities, accidents or occupational diseases/illnesses for the given year?"
+57fe9f105049433f812d2ac1,,41313,question,responseOptionNo,20187,form,No
+57fe9f105049433f812d2ac1,,41313,question,responseOptionYes,20187,form,Yes
+57fe9fcd504943c93471e84a,,41317,question,description,20187,form,"Include hours worked by salaried, hourly, part-time and contract workers including temporary help services workers under your supervision, even if they were not under your direct employment.\nDo not include vacation, sick leave, holidays, or any other non-work time, even if employees were paid for it. If your establishment keeps records of only the hours paid or if you have employees who are not paid by the hour, please estimate the hours that the employees actually worked. If this number isn't available, an estimate is still needed."
+57fe9fcd504943c93471e84a,,41317,question,questionText,20187,form,Please enter the total number of hours worked by all employees during the given year. Please round your answer to the next highest whole number.
+57fea40c504943f69b7d5228,,41325,question,description,20187,form,Work accidents or occupational diseases that result in an employee death.
+57fea40c504943f69b7d5228,,41325,question,questionText,20187,form,Please enter the number of fatalities for the given year.
+57fea40d5049436ec9a1f91e,,41326,question,description,20187,form,Those incidents that resulted in a <u>permanent loss</u> in the employee's working capacity including physical integrity and ability to work.
+57fea40d5049436ec9a1f91e,,41326,question,questionText,20187,form,Please enter the number of total permanent disability incidents for the given year.
+57fea40e504943dd817d99e2,,41327,question,description,20187,form,Those incidents that resulted in a <u>permanent reduction</u> in the employee's working capacity including physical integrity and ability to work.
+57fea40e504943dd817d99e2,,41327,question,questionText,20187,form,Please enter the number of partial permanent disability incidents for the given year.
+57fea40f504943bb7e40a9b9,,41328,question,description,20187,form,"Those incidents which were <u>not</u> classified above but medical treatment was administered to the injured individual. Incidents where only first aid was administered should not be counted.\n\n<a href = ""https://w3.css.gob.pa/reporte-de-accidente-de-trabajo-y-o-enfermedad-profesional/""target=""_BLANK_"">Work Accident Report and/or Professional Sickness</a>"
+57fea40f504943bb7e40a9b9,,41328,question,questionText,20187,form,Please enter the number of other reportable Medical Treatment incidents for the given year.
+5df2b7c43700009d4be84b3b,,89505,question,questionText,20187,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+5df2b7e33700009d4be84b3c,,89506,question,questionText,20187,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+654bcb731800008a45b6219a,,146731,question,description,20187,form,"<a href = ""https://w3.css.gob.pa/reporte-de-accidente-de-trabajo-y-o-enfermedad-profesional/""target=""_BLANK_"">Work Accident Report and/or Professional Sickness</a>"
+654bcb731800008a45b6219a,,146731,question,questionText,20187,form,Please enter the number of cases of disabilities because of Occupational Disease for the given year.
+654bcba11800008b45b6219c,,146732,question,description,20187,form,"<a href = ""https://w3.css.gob.pa/reporte-de-accidente-de-trabajo-y-o-enfermedad-profesional/""target=""_BLANK_"">Work Accident Report and/or Professional Sickness</a>"
+654bcba11800008b45b6219c,,146732,question,questionText,20187,form,Please enter the number of cases of disabilities due to Mental Illness for the given year.
+662bd7c41b00003100b792ea,,153204,question,description,20187,form,
+662bd7c41b00003100b792ea,,153204,question,questionText,20187,form,"Did your company receive a Resolución de Clasificación de Riesgo Profesional from the Caja de Seguro Social for the given year? Sample Resolución de Clasificación de Riesgo Profesional. \n\nIf you have other official supporting documents issued within the last year that clearly show your company’s Prima de Riesgo, Risk Classification, and Grado, please answer ""Yes"" and proceed to upload those documents in the next step. Acceptable supporting documents are listed in the help text below."
+662bd7c41b00003100b792ea,,153204,question,responseOption1,20187,form,Yes
+662bd7c41b00003100b792ea,,153204,question,responseOption2,20187,form,No
+662bd8471b00003400b792f7,,153209,question,questionText,20187,form,Please select one of the below options: 
+662bd8471b00003400b792f7,,153209,question,responseOption1,20187,form,We are a Newly Registered Company
+662bd8471b00003400b792f7,,153209,question,responseOption2,20187,form,0% Risk Premium
+662bd8471b00003400b792f7,,153209,question,responseOption3,20187,form,Self-Insured for Occupational Risks
+662bd8471b00003400b792f7,,153209,question,responseOption4,20187,form,Other: Please explain:
+662bd88b1c00006100ff8ab6,,153210,question,questionText,20187,form,Please explain:
+662bd88b1c00006100ff8ab6,,153210,question,responseOption1,20187,form,Yes
+662bd88b1c00006100ff8ab6,,153210,question,responseOption2,20187,form,No
+662bd8a41c00006000ff8ab9,,153211,question,description,20187,form,"Upload your most recent Resolución de Clasificación de Riesgo Profesional from the Caja de Seguro Social as a single file.\n\nIf unavailable, you may combine and upload, in a single file, other supporting documents issued within the last year that clearly show your Prima de Riesgo, Risk Classification (Class), and Grado—such as a CSS payment receipt, payroll report, notification letter from CSS, certification letter, or payroll provider report.\n\n<a href = ""https://www.gacetaoficial.gob.pa/gacetas/24329_2001.pdf""target=""_BLANK_"">Decree No. 68</a>, which regulates the reporting of occupational accidents and illnesses to the Caja de Seguro Social (CSS)."
+662bd8a41c00006000ff8ab9,,153211,question,questionText,20187,form,Please upload your most recent Resolución de Clasificación de Riesgo Profesional from the Caja de Seguro Social.
+662bd8ba1b00003400b792fb,,153212,question,questionText,20187,form,"Please provide your company’s Risk Classification:\n\nIf your company is unable to obtain the official ""Resolución de Clasificación de Riesgo Profesional"" from the Caja de Seguro Social (CSS) for the given year, you can upload a copy of your most recent CSS payment proof as long as it clearly shows your company’s ""Prima de Riesgo""."
+662bd8ed1c00006100ff8abc,,153213,question,questionText,20187,form,Please provide your company’s Prima de Riesgo:
+662bd9111c00003100ff8abf,,153214,question,questionText,20187,form,Please provide your company’s Grado:

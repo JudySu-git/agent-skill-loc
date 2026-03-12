@@ -1,0 +1,120 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6862ba850100003c005dde99,62978b862e0000f0c64cfe6b,36527,questionGroup,questionGroupText,36527,form,Department of Transportation (DOT) - FMCSA Motor Carrier Statistics
+6323ced12f0000419fb380f2,62978ba02e0000d83d44ae65,36528,questionGroup,questionGroupText,36527,form,Transportation Supplier Company Specifics\t
+62db0ed42f00009230181c9d,629796fb2e0000f0c64d618b,36529,questionGroup,questionGroupText,36527,form,Transportation Supplier Equipment
+634d8b0b170000ee01b7cc17,62979a5b2e0000f0c64d870f,36530,questionGroup,questionGroupText,36527,form,Transportation Supplier Operating Specifics
+63868e66170000f2046956fd,62979c792e0000f0c64d99f8,36531,questionGroup,questionGroupText,36527,form,U.S. Department of Transportation Safety/Performance Ratings
+62978bb82e0000d83d44ae98,,127927,question,description,36527,form,This is the legal name of the company\n
+62978bb82e0000d83d44ae98,,127927,question,questionText,36527,form,Legal Name:
+62978bef2e0000d83d44b03d,,127928,question,description,36527,form,This may be a trade name under which the company does business.  Any name which identifies the entity other than the Legal Name.
+62978bef2e0000d83d44b03d,,127928,question,questionText,36527,form,Company DBA:
+62978c3a2e0000d83d44b238,,127929,question,description,36527,form,This is the number assigned by MCMIS to a census record. It is sometimes referred to as the USDOT number. Each company should have only one active census number. The census number has no internal coded structure. Numbers are issued sequentially as carriers/shippers/registrants are added to the system.
+62978c3a2e0000d83d44b238,,127929,question,questionText,36527,form,DOT Number:
+62978c9f2e0000f0c64d060c,,127933,question,description,36527,form,Refers to the physical location of the company's principal office.\n
+62978c9f2e0000f0c64d060c,,127933,question,questionText,36527,form,Physical Address:
+6297971a2e0000f0c64d63d7,,127939,question,description,36527,form,"Identifies the number of Trucks, Tractors, Hazardous Material Tank Trucks, Motor Coaches, School Buses, Mini-Bus/Vans and Limousines owned, term leased or trip leased by the motor carrier.\n"
+6297971a2e0000f0c64d63d7,,127939,question,questionText,36527,form,Number of Power Units:\n
+629799ac2e0000d83d4520ba,,127941,question,description,36527,form,Total number of drivers employed by the carrier/shipper.
+629799ac2e0000d83d4520ba,,127941,question,questionText,36527,form,Total Number Drivers:\n
+62979c142e0000d83d4531e6,,127948,question,description,36527,form,"Identifies the carrier as being engaged in interstate, intrastate hazardous material, or intrastate non-hazardous material transport activities.\n"
+62979c142e0000d83d4531e6,,127948,question,questionText,36527,form,Carrier Operation(s):\n
+62979c142e0000d83d4531e6,,127948,question,responseOption1,36527,form,Interstate
+62979c142e0000d83d4531e6,,127948,question,responseOption2,36527,form,Intrastate Hazmat
+62979c142e0000d83d4531e6,,127948,question,responseOption3,36527,form,Intrastate Non-hazmat
+6297a2f52e0000d83d456dbc,,127953,question,description,36527,form,"Operation of commercial motor vehicles (CMVs) in a dangerous or careless manner. Example violations include: speeding, reckless driving, improper lane change, texting while operating a CMV, not wearing safety belts."
+6297a2f52e0000d83d456dbc,,127953,question,questionText,36527,form,Unsafe Driving BASIC Roadside Performance Measure Value:
+6297a30a2e0000f0c64dd691,,127954,question,description,36527,form,"Operation of CMVs by drivers who are ill, fatigued, or in noncompliance with the HOS regulations. This BASIC includes violations of regulations pertaining to records of duty status (RODS) as they relate to HOS requirements and the management of CMV driver fatigue. Example violations include: operating a CMV while ill or fatigued, requiring or permitting a property-carrying CMV driver to drive more than 11 hours, failing to preserve RODS for 6 months/failing to preserve supporting documents."
+6297a30a2e0000f0c64dd691,,127954,question,questionText,36527,form,Hours-of-Service (HOS) Compliance BASIC Roadside Performance measure value:
+6297a3192e0000f0c64dd6c0,,127955,question,description,36527,form,"Operation of CMVs by drivers who are unfit to operate a CMV due to lack of training, experience, or medical qualifications. Example violations include: failing to have a valid and appropriate commercial driver's license (CDL), being medically unqualified to operate a CMV, failing to maintain driver qualification files."
+6297a3192e0000f0c64dd6c0,,127955,question,questionText,36527,form,Driver Fitness BASIC Roadside Performance measure value:
+6297a3282e0000d83d456ef0,,127956,question,description,36527,form,"Operation of CMVs by drivers who are impaired due to alcohol, illegal drugs, and misuse of prescription or over-the-counter medications. Example violations include: use or possession of controlled substances or alcohol, failing to implement an alcohol and/or controlled substance testing program."
+6297a3282e0000d83d456ef0,,127956,question,questionText,36527,form,Controlled Substances and Alcohol BASIC Roadside Performance measure value:
+6297a3312e0000f0c64dd7d9,,127957,question,description,36527,form,"Failure to properly maintain a CMV and prevent shifting loads, spilled or dropped cargo, and overloading of a CMV. Example violations include: inoperative brakes, lights, and other mechanical defects, improper load securement, failure to make required repairs."
+6297a3312e0000f0c64dd7d9,,127957,question,questionText,36527,form,Vehicle Maintenance BASIC Roadside Performance measure value:
+6297a55c2e0000d83d457f8f,,127961,question,description,36527,form,Date from the lates MCS-150 Registration Form filed\n
+6297a55c2e0000d83d457f8f,,127961,question,questionText,36527,form,MCS 150 Form Date Filed:\n
+6297a5802e0000f0c64dea0f,,127963,question,questionText,36527,form,Information updated as of:\n
+62a230392e000057ef207769,,128231,question,questionText,36527,form,Physical City:
+62a230632e000057ef20778d,,128236,question,questionText,36527,form,Physical Country:
+62a2306c2e000057ef2077e2,,128237,question,questionText,36527,form,Physical State:
+62a230742e000057ef207816,,128238,question,questionText,36527,form,Physical Zip:
+62db1d083000009751efeb42,,130036,question,description,36527,form,Carrier is subject to placarardable HM Threshold
+62db1d083000009751efeb42,,130036,question,questionText,36527,form,Hazardous Materials Placardable:
+62db1d083000009751efeb42,,130036,question,responseOption1,36527,form,Yes
+62db1d083000009751efeb42,,130036,question,responseOption2,36527,form,No
+62db1e562f000092301929de,,130037,question,description,36527,form,Carrier is subject to Passenger Carrier Threshold
+62db1e562f000092301929de,,130037,question,questionText,36527,form,Passenger Carrier:
+62db1e562f000092301929de,,130037,question,responseOption1,36527,form,Yes
+62db1e562f000092301929de,,130037,question,responseOption2,36527,form,No
+62db20f03000009751f00b1f,,130039,question,description,36527,form,Total Number of Inspections for the measurement period (24 months)
+62db20f03000009751f00b1f,,130039,question,questionText,36527,form,Total Number of Inspections:
+62db211c3000009751f00ce6,,130040,question,description,36527,form,Total Number of Driver Inspections for the measurement period.
+62db211c3000009751f00ce6,,130040,question,questionText,36527,form,Total Number of Driver Inspections:
+62db235f3000009751f01bee,,130041,question,description,36527,form,Total Number of Driver Inspections containing at least one Driver Out-of-Service Violation
+62db235f3000009751f01bee,,130041,question,questionText,36527,form,Total Number of Driver Inspections w/at least one Driver Out-of-Service Violation:
+62db23852f000092301953b6,,130042,question,description,36527,form,Total Number of Vehicle Inspections for the measurement period\n
+62db23852f000092301953b6,,130042,question,questionText,36527,form,Total Number of Vehicle Inspections:\n
+62db24253000009751f022e4,,130043,question,description,36527,form, Unsafe Driving BASIC Roadside Performance Percentile
+62db24253000009751f022e4,,130043,question,questionText,36527,form, Unsafe Driving BASIC Performance Percentile:\n
+62db24cd2f00009230195baf,,130044,question,description,36527,form,Unsafe Driving BASIC Roadside Performance Over Threshold Indicator (Y = Over Intervention Threshold)\n
+62db24cd2f00009230195baf,,130044,question,questionText,36527,form, Unsafe Driving BASIC Over Threshold:\n
+62db24cd2f00009230195baf,,130044,question,responseOption1,36527,form,Yes
+62db24cd2f00009230195baf,,130044,question,responseOption2,36527,form,No
+62db2a913000009751f0a986,,130045,question,description,36527,form,Number of inspections with at least one Hours-of-Service BASIC violation\n
+62db2a913000009751f0a986,,130045,question,questionText,36527,form,Number of inspections with at least one Hours-of-Service BASIC violation:\n
+62db2ab83000009751f0af44,,130046,question,description,36527,form, Hours-of-Service (HOS) Compliance BASIC Roadside Performance Percentile\n
+62db2ab83000009751f0af44,,130046,question,questionText,36527,form, Hours-of-Service (HOS) BASIC Performance Percentile:\n
+62db2adb2f00009230198d72,,130047,question,description,36527,form,Hours-of-Service (HOS) Compliance BASIC Roadside Performance Over Threshold Indicator (Y = Over Intervention Threshold)\n
+62db2adb2f00009230198d72,,130047,question,questionText,36527,form,Hours-of-Service (HOS) BASIC Over Threshold:\n
+62db2adb2f00009230198d72,,130047,question,responseOption1,36527,form,Yes
+62db2adb2f00009230198d72,,130047,question,responseOption2,36527,form,No
+62db2b0a3000009751f0b2bb,,130048,question,description,36527,form,Number of inspections with at least one Driver Fitness BASIC violation\n
+62db2b0a3000009751f0b2bb,,130048,question,questionText,36527,form,Number of inspections with at least one Driver Fitness BASIC violation:\n
+62db2b2a3000009751f0b491,,130049,question,description,36527,form,Driver Fitness BASIC Roadside Performance Percentile\n
+62db2b2a3000009751f0b491,,130049,question,questionText,36527,form, Driver Fitness BASIC Performance Percentile:\n
+62db2b4b2f00009230198d9b,,130050,question,description,36527,form,Driver Fitness BASIC Roadside Performance Over Threshold Indicator (Y = Over Intervention Threshold)
+62db2b4b2f00009230198d9b,,130050,question,questionText,36527,form, Driver Fitness BASIC Over Threshold:\n
+62db2b4b2f00009230198d9b,,130050,question,responseOption1,36527,form,Yes
+62db2b4b2f00009230198d9b,,130050,question,responseOption2,36527,form,No
+62e0120e300000193c55ee0f,,130116,question,description,36527,form,Number of inspections with at least one Controlled Substances and Alcohol BASIC violation
+62e0120e300000193c55ee0f,,130116,question,questionText,36527,form,Number of inspections with at least one Controlled Substances and Alcohol BASIC violation:
+62e012452f000032bb200269,,130117,question,description,36527,form,Controlled Substances and Alcohol BASIC Roadside Performance Percentile\n
+62e012452f000032bb200269,,130117,question,questionText,36527,form,Controlled Substances and Alcohol BASIC Performance Percentile:\n
+62e0126f2f000032bb2009a1,,130118,question,description,36527,form,Controlled Substances and Alcohol BASIC Roadside Performance Over Threshold Indicator (Y = Over Intervention Threshold)\n
+62e0126f2f000032bb2009a1,,130118,question,questionText,36527,form,Controlled Substances and Alcohol BASIC Over Threshold:
+62e0126f2f000032bb2009a1,,130118,question,responseOption1,36527,form,Yes
+62e0126f2f000032bb2009a1,,130118,question,responseOption2,36527,form,No
+62e014ca2f000032bb20175d,,130119,question,description,36527,form,Number of inspections with at least one Vehicle Maintenance BASIC violation\n
+62e014ca2f000032bb20175d,,130119,question,questionText,36527,form,Number of inspections with at least one Vehicle Maintenance BASIC violation\n
+62e014f8300000193c55efeb,,130120,question,description,36527,form,Vehicle Maintenance BASIC Roadside Performance Percentile\n
+62e014f8300000193c55efeb,,130120,question,questionText,36527,form,Vehicle Maintenance BASIC Performance Percentile:\n
+62e015182f000032bb2017e2,,130121,question,description,36527,form,Vehicle Maintenance BASIC Roadside Performance Over Threshold Indicator (Y = Over Intervention Threshold)\n
+62e015182f000032bb2017e2,,130121,question,questionText,36527,form,Vehicle Maintenance BASIC Over Threshold:\n
+62e015182f000032bb2017e2,,130121,question,responseOption1,36527,form,Yes
+62e015182f000032bb2017e2,,130121,question,responseOption2,36527,form,No
+62e01541300000193c55efee,,130122,question,questionText,36527,form,Total number of fatalities reported in the given period:\n
+6323c9ee2f000036bfb36740,,131216,question,description,36527,form,Mileage from the MCS-150 Registration Form.
+6323c9ee2f000036bfb36740,,131216,question,questionText,36527,form,Vehicle Mileage Traveled Reported on the MCS-150 Form:
+6323ca192f0000b7d0b36749,,131221,question,questionText,36527,form,Year VMT Traveled Reported:
+6323cb032f00005afbb36dce,,131222,question,questionText,36527,form,Total Number of Vehicle Inspections w/at least one Vehicle Out-of-Service Violation:
+6323cb1f2f0000fcf1b36dd1,,131225,question,questionText,36527,form,Number of inspections with at least one Unsafe Driving BASIC violation:
+6323cb2d30000061aac87acb,,131226,question,description,36527,form,(Y = Acute/Critical from investigation within previous 12 months)
+6323cb2d30000061aac87acb,,131226,question,questionText,36527,form,Unsafe Driving BASIC Acute/Critical Indicator:
+6323cb2d30000061aac87acb,,131226,question,responseOption1,36527,form,Yes
+6323cb2d30000061aac87acb,,131226,question,responseOption2,36527,form,No
+6323cb50300000f1afc87bfe,,131227,question,description,36527,form,(Y = Acute/Critical from investigation within previous 12 months)
+6323cb50300000f1afc87bfe,,131227,question,questionText,36527,form,Hours-of-Service (HOS) Compliance BASIC Acute/Critical Indicator:
+6323cb50300000f1afc87bfe,,131227,question,responseOption1,36527,form,Yes
+6323cb50300000f1afc87bfe,,131227,question,responseOption2,36527,form,No
+6323cb772f00008dfdb3705c,,131228,question,description,36527,form,(Y = Acute/Critical from investigation within previous 12 months)
+6323cb772f00008dfdb3705c,,131228,question,questionText,36527,form,Driver Fitness BASIC Serious Violation Indicator:
+6323cb772f00008dfdb3705c,,131228,question,responseOption1,36527,form,Yes
+6323cb772f00008dfdb3705c,,131228,question,responseOption2,36527,form,No
+6323cb942f0000df10b37128,,131229,question,description,36527,form,(Y = Acute/Critical from investigation within previous 12 months)
+6323cb942f0000df10b37128,,131229,question,questionText,36527,form,Controlled Substances and Alcohol BASIC Acute/Critical Indicator:
+6323cb942f0000df10b37128,,131229,question,responseOption1,36527,form,Yes
+6323cb942f0000df10b37128,,131229,question,responseOption2,36527,form,No
+6323cbb62f000043dfb3718a,,131230,question,description,36527,form,(Y = Acute/Critical from investigation within previous 12 months)
+6323cbb62f000043dfb3718a,,131230,question,questionText,36527,form,Vehicle Maintenance BASIC Acute/Critical Indicator:
+6323cbb62f000043dfb3718a,,131230,question,responseOption1,36527,form,Yes
+6323cbb62f000043dfb3718a,,131230,question,responseOption2,36527,form,No

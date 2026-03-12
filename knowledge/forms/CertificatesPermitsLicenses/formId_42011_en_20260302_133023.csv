@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce485c010000bb0021f95f,662fe5941b00003100b6e59a,42011,questionGroup,description,42011,form,You are getting this category because you selected a license in the Avetta PQF - Northern Territory License.
+66ce485c010000bb0021f95f,662fe5941b00003100b6e59a,42011,questionGroup,questionGroupText,42011,form,Northern Territory Contractor License - Transport Explosives and / or Security Sensitive Dangerous Substance
+662fe5941b00003300b6e59d,,153339,question,questionText,42011,form,License Number:
+662fe5941b00003300b6e59d,,153339,question,responseOption1,42011,form,Yes
+662fe5941b00003300b6e59d,,153339,question,responseOption2,42011,form,No
+662fe5941b00003300b6e59c,,153340,question,questionText,42011,form,Please upload your license:\n
+662fe5941b00003300b6e59c,,153340,question,responseOption1,42011,form,Yes
+662fe5941b00003300b6e59c,,153340,question,responseOption2,42011,form,No
+662fe5941b00003300b6e59b,,153341,question,questionText,42011,form,Expiration Date:
+662fe5941b00003300b6e59b,,153341,question,responseOption1,42011,form,Yes
+662fe5941b00003300b6e59b,,153341,question,responseOption2,42011,form,No

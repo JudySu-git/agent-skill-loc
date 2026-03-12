@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+682e405a010000310163fc43,682cf5b20100003d00035d7a,46120,questionGroup,questionGroupText,46120,form,Nigeria Corporate Affairs Commission Registration
+682cf60a0100005900035d82,682cf60a0100005900035d81,46121,questionGroup,questionGroupText,46120,form,Nigeria Corporate Affairs Commission Registration
+682cf66e0100007501de38fe,,174402,question,description,46120,form,"<a href=""https://www.cac.gov.ng/"" target=""blank"">Nigerian Corporate Affairs Commission</a>\n</br>\n\nIf your company is registered with the Nigerian Corporate Affairs Commission and is required to maintain a CAC Acknowledgement letter, you will be required to provide your CAC Acknowledgement Letter in a subsequent form."
+682cf66e0100007501de38fe,,174402,question,questionText,46120,form,Is your company registered with the Nigerian Corporate Affairs Commission?
+682cf66e0100007501de38fe,,174402,question,responseOption1,46120,form,Yes
+682cf66e0100007501de38fe,,174402,question,responseOption2,46120,form,No
+682cf6ba0100003d00035d86,,174403,question,description,46120,form,"<a href=""https://www.nipc.gov.ng/iguide/getting-started/"" target=""blank"">Nigerian Investment Promotion Commission</a>"
+682cf6ba0100003d00035d86,,174403,question,questionText,46120,form,Please select from the following reasons your company is exempt from registering with the Corporate Affairs Commission.
+682cf6ba0100003d00035d86,,174403,question,responseOption1,46120,form,The company is a foreign company and has been invited by any tier of government for specific individual projects 
+682cf6ba0100003d00035d86,,174403,question,responseOption2,46120,form,The company is a foreign company executing specific individual loan projects on behalf of a donor country or international organisation.
+682cf6ba0100003d00035d86,,174403,question,responseOption3,46120,form,The company is a foreign government-owned companies engaged solely in export promotion activities.
+682cf6ba0100003d00035d86,,174403,question,responseOption4,46120,form,The company is a foreign engineering consultant or technical experts engaged in specialist projects with any tier of government.
+682cf6ba0100003d00035d86,,174403,question,responseOption5,46120,form,Other
+682cf7220100007501de3905,,174404,question,questionText,46120,form,Please explain why your company is exempt from registering with the Corporate Affairs Commission.

@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+693c5e980100004100f10a0c,5d2504a135000017833bf7de,26819,questionGroup,questionGroupText,26819,form,Supplier Rating Variance Request Form
+693c5e3f0100004400f10a06,5d2504f838000064f693084a,26820,questionGroup,questionGroupText,26819,form,Basis For Reconsideration
+5d25053d33000091fd81b253,,84219,question,questionText,26819,form,*This form has been triggered by T-Mobile because Supplier has been deemed ineligible to perform services pursuant to pre-qualification standards. T-Mobile provides the opportunity to complete the information requested below to request reconsideration/waiver of such qualifications.*\n\n*Supplier must be current and compliant on all other requirements in Avetta before T-Mobile will consider waiver requests.*\n\n*Information should be provided which directly addresses the deficiencies leading to disqualification. Attach any relevant supporting documentation as applicable.*  \n\n*Contact your T-Mobile Procurement resource for questions or concerns related to this form or the request for reconsideration. Any feedback or approval of this form is provided directly by T-Mobile.* \n___\n\nSupplier Contact Name: 
+5d25056335000017833bf842,,84220,question,questionText,26819,form,Title:
+5d25057835000017833bf851,,84221,question,questionText,26819,form,Email:
+5d25058835000017833bf86a,,84222,question,questionText,26819,form,Phone:
+5d2505e035000017833bf8aa,,84223,question,questionText,26819,form,Current Market/Projects:
+5d2505f833000091fd81b3d5,,84224,question,questionText,26819,form,Current T-Mobile Contact Name/Sponsor (e.g. Field Engineering market manager):\n
+5d25061333000091fd81b400,,84225,question,questionText,26819,form,Infraction(s) creating red flag(s):
+5d25063138000064f6930b2f,,84226,question,questionText,26819,form,Circumstance(s) surrounding the cause of failure to pass requirement:
+5d25065e35000017833bf962,,84228,question,questionText,26819,form,Specify the term for which you request the waiver \n(i.e. When will you pass and how):
+5d42116d360000b82854f1fb,,84977,question,questionText,26819,form,Please upload any supporting documents or files surrounding the above issue.
+5d42129e3700002f3c0a2a10,,84978,question,description,26819,form,For Client use only.
+5d42129e3700002f3c0a2a10,,84978,question,questionText,26819,form,Comments/Feedback:
+693c5e3e0100003e00e99fa8,,192977,question,questionText,26819,form,Provide a corrective action plan to address the situation. Corrective Action Plan should have measurable goals and timeframe for implementation.

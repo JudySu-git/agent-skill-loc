@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+606f81364400004cc13716e5,5dcaef243700000431022a43,27773,questionGroup,description,27773,form,Unmanned Aerial Vehicle Liability collects Each Occurrence and Aggregate\n\n\n
+606f81364400004cc13716e5,5dcaef243700000431022a43,27773,questionGroup,questionGroupText,27773,form,Unmanned Aerial Vehicle Liability
+606f80b14300008efba601ce,5dcaf13c3600001c9ba1bfc0,27774,questionGroup,questionGroupText,27773,form,Policy Information
+5dcaf3cd37000081a151349f,5dcaf3cd37000081a151349e,27776,questionGroup,questionGroupText,27773,form,Policy Limits
+5dcaf15a37000081a1513494,,88025,question,questionText,27773,form,Date of Commencement:
+5dcaf17d37000081a1513495,,88026,question,questionText,27773,form,Expiration Date:
+5dcaf20237000081a1513496,,88027,question,questionText,27773,form,Insurance Carrier:
+5dcaf3383700000431022a51,,88028,question,questionText,27773,form,Please upload Unmanned Aerial Vehicle Liability Certificate
+5dcaf3e83500001c9b8a8515,,88029,question,questionText,27773,form,Each Occurrence
+5dcaf43a3500001c9b8a8516,,88030,question,questionText,27773,form,Aggregate
+606f80af4300008efba601cd,,108589,question,description,27773,form,Used to provide instructions from Client
+606f80af4300008efba601cd,,108589,question,questionText,27773,form,Comments
+606f80ca4300008efba60201,,108590,question,description,27773,form,Date the instructions from Client expire
+606f80ca4300008efba60201,,108590,question,questionText,27773,form,VARIANCE Expiration Date
+62f53f4282eb52eab3c18fcb,,130560,question,questionText,27773,form,Currency used in Certificate of Insurance (COI)

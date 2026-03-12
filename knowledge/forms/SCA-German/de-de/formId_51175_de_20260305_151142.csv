@@ -1,0 +1,12 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774ba36b6c4c635467b1,69a8774ba36b6c4c635467b0,51175,questionGroup,questionGroupText,51175,form,Koordination bei mehreren Arbeitgebern,
+69a8774ba36b6c4c635467ac,,200181,question,description,51175,form,"Die Koordination der Gefahrenverhütung zwischen Arbeitgebern an gemeinsamen Arbeitsstätten muss sichergestellt sein. Vereinbarte Schutzmaßnahmen für externe Arbeitnehmer auf Basis der Arbeitsplatzgefahren müssen festgelegt und umgesetzt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 8 Abs. 1 Z 1, § 8 Abs. 2 Z 3, § 8 Abs. 2 Z 4</a>",
+69a8774ba36b6c4c635467ac,,200181,question,questionText,51175,form,Gefahrenverhütungsmaßnahmen koordinieren,
+69a8774ba36b6c4c635467ad,,200182,question,description,51175,form,"Die gegenseitige Information über Arbeitsplatzgefahren gegenüber Arbeitgebern, Arbeitnehmern und deren Vertretern muss sichergestellt sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 8 Abs. 1 Z 2, § 9 Abs. 4</a>",
+69a8774ba36b6c4c635467ad,,200182,question,questionText,51175,form,Gefahreninformationen weitergeben,
+69a8774ba36b6c4c635467ae,,200183,question,description,51175,form,"Gefahreninformationen und eine geeignete Unterweisung für externe Arbeitnehmer müssen bereitgestellt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 8 Abs. 2 Z 1</a>",
+69a8774ba36b6c4c635467ae,,200183,question,questionText,51175,form,Schulung für externe Arbeitnehmer,
+69a8774ba36b6c4c635467af,,200184,question,questionText,51175,form,<div></div>,

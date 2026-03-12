@@ -1,0 +1,23 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5dc4491c360000ea6b9cf6b5,5755c9af504943d0c5a2299c,557,questionGroup,questionGroupText,20119,form,Policy Information
+651f1edb18000025002adeed,5755c9af504943a87e63fbf0,558,questionGroup,questionGroupText,20119,form,Policy Limits
+3a501ce0504943943f66a78d,,2074,question,questionText,20119,form,Each Occurrence
+3a501ce05049433486b2aa75,,2075,question,questionText,20119,form,Insurance Carrier:
+3a501ce0504943efc0a6c2c0,,2076,question,questionText,20119,form,Damage to Rented Premises (Each Occurrence)
+3a501ce0504943628cd8762d,,2077,question,questionText,20119,form,Medical Expenses (Any one person)
+3a501ce050494332a943eca5,,2078,question,questionText,20119,form,Personal and Adv Injury
+3a501ce0504943aba29e68b6,,2079,question,questionText,20119,form,General Aggregate
+3a501ce050494315225e73b5,,2080,question,questionText,20119,form,Products - Comp/Op Agg
+3a501ce050494398dae0e80f,,2081,question,questionText,20119,form,Date of Commencement:
+3a501ce0504943a9f99f27c9,,2082,question,questionText,20119,form,Policy Expiration Date
+651f22a81800001f0026e88f,5ab73353350000f9008e75a1,20119,questionGroup,questionGroupText,20119,form,General Liability
+5ab73421350000f7008e75ae,,70069,question,questionText,20119,form,Please upload General Liability Certificate
+60707b2443000090e864d4d8,,108714,question,description,20119,form,Used to provide instructions from Client
+60707b2443000090e864d4d8,,108714,question,questionText,20119,form,Comments
+60707b374500009d89bd2f9e,,108715,question,description,20119,form,Date the instructions from Client expire
+60707b374500009d89bd2f9e,,108715,question,questionText,20119,form,VARIANCE Expiration Date
+62f53f1c82eb52eab3c18f88,,130493,question,questionText,20119,form,Currency used in Certificate of Insurance (COI)
+651f1eda18000023002adeec,,145704,question,questionText,20119,form,Stop Gap Liability
+651f1ee8180000200026e872,,145705,question,questionText,20119,form,Sudden & Accidental Pollution
+651f1ee8180000200026e872,,145705,question,responseOption1,20119,form,Click here if pollution is included on your certificate
+651f1ee8180000200026e872,,145705,question,responseOption2,20119,form,No

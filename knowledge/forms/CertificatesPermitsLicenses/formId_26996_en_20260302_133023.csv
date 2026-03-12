@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec600100004a00a47387,5d374251360000a7bcb067b8,26996,questionGroup,questionGroupText,26996,form,New York Contractor License
+5d5c39023700008206927630,5d3743a0330000b828a65ba0,26998,questionGroup,questionGroupText,26996,form,New York Contractor License
+5d37442e330000b828a65bce,,84815,question,description,26996,form,"New York – State, County or City Specific"
+5d37442e330000b828a65bce,,84815,question,questionText,26996,form,New York Contractor License Number:
+5d3744593500002f3cacda92,,84816,question,description,26996,form,"New York – State, County or City Specific"
+5d3744593500002f3cacda92,,84816,question,questionText,26996,form,New York Contractor License Classifications:
+5d37449c330000b828a65c07,,84818,question,questionText,26996,form,New York License Expiration Date:
+5d3744c3360000a7bcb068dc,,84819,question,description,26996,form,A URL will make verification quicker if provided
+5d3744c3360000a7bcb068dc,,84819,question,questionText,26996,form,"Do you wish to upload a copy of your license, and/or provide the URL of the license?"
+5d3744c3360000a7bcb068dc,,84819,question,responseOption1,26996,form,File Upload
+5d3744c3360000a7bcb068dc,,84819,question,responseOption2,26996,form,URL
+5d3744f2360000a7bcb068f4,,84821,question,questionText,26996,form,Please upload a copy of your New York license:
+5d37450c360000b66a8e1000,,84823,question,questionText,26996,form,Please enter the URL of the license:

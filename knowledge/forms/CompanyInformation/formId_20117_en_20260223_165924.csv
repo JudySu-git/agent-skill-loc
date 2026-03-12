@@ -1,0 +1,80 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65821da01900008500e3100b,55284f395049438d11bc5620,6752,questionGroup,questionGroupText,20117,form,Philippines
+65822eba160000fd0048dac0,5ab6bd2c2600005c00cbda37,20117,questionGroup,questionGroupText,20117,form,Avetta PQF - Philippines Company Information
+55285641504943dc03a43d03,,30347,question,linkhttps://psa.gov.ph/classification/psic,20117,form,Click here to locate your company's PSIC code
+55285641504943dc03a43d03,,30347,question,questionText,20117,form,What is your company's primary PSIC Code? \n
+5528564b5049439126d90adc,,30348,question,linkhttps://psa.gov.ph/classification/psic,20117,form,Click here to locate your company's additional PSIC code
+5528564b5049439126d90adc,,30348,question,questionText,20117,form,What is your company's secondary PSIC Code? \n
+552c473a504943ce9637e77c,,30363,question,description,20117,form,"<a href=""https://www.bir.gov.ph/"" target=""_blank"">Bureau of Internal Revenue (BIR)</a>"
+552c473a504943ce9637e77c,,30363,question,questionText,20117,form,Is your company registered with the Bureau of Internal Revenue (BIR)?
+552c473a504943ce9637e77c,,30363,question,responseOptionNo,20117,form,No
+552c473a504943ce9637e77c,,30363,question,responseOptionYes,20117,form,Yes
+552c476f5049437bc2c31794,,30364,question,description,20117,form,"The <a href=""https://www.bir.gov.ph/index.php/registration-requirements/primary-registration/application-for-tin.html"" target=""_blank"">Tax Identification Number (TIN)</a> is 12 digits."
+552c476f5049437bc2c31794,,30364,question,questionText,20117,form,What is your company's Taxpayer Identification Number (TIN)?
+552c47945049436c2db39ca9,,30365,question,description,20117,form,"The Certificate of Registration (COR) is also known as BIR Form 2303. As per Philippines law, the original copy of COR is required to be displayed in any conspicuous place in the head office and branch office(s) of your company."
+552c47945049436c2db39ca9,,30365,question,questionText,20117,form,Does your company have a Certificate of Registration (COR) as issued by the Bureau of Internal Revenue (BIR)?
+552c47945049436c2db39ca9,,30365,question,responseOptionNo,20117,form,No
+552c47945049436c2db39ca9,,30365,question,responseOptionYes,20117,form,Yes
+552c47bd5049434d8648cc66,,30366,question,questionText,20117,form,Please upload a copy of your company's COR.
+552c47ff5049439714bf679e,,30368,question,description,20117,form,"<a href=""https://www.sss.gov.ph/"" target=""_blank"">Social Security System (SSS)</a>"
+552c47ff5049439714bf679e,,30368,question,questionText,20117,form,Is your company registered with the Social Security System (SSS)?
+552c47ff5049439714bf679e,,30368,question,responseOptionNo,20117,form,No
+552c47ff5049439714bf679e,,30368,question,responseOptionYes,20117,form,Yes
+552c4804504943f7c9a8ba00,,30369,question,description,20117,form,"<a href=""https://www.philhealth.gov.ph/"" target=""_blank"">Philippine Health Insurance Corporation (PhilHealth)</a>"
+552c4804504943f7c9a8ba00,,30369,question,questionText,20117,form,Is your company registered with the Philippine Health Insurance Corporation (PhilHealth)?
+552c4804504943f7c9a8ba00,,30369,question,responseOptionNo,20117,form,No
+552c4804504943f7c9a8ba00,,30369,question,responseOptionYes,20117,form,Yes
+552c480e50494354448b297c,,30370,question,description,20117,form,"<a href=""https://www.pagibigfund.gov.ph/"" target=""_blank"">Home Development Mutual Fund (Pag-IBIG)</a>"
+552c480e50494354448b297c,,30370,question,questionText,20117,form,Is your company registered with the Home Development Mutual Fund (Pag-IBIG)?
+552c480e50494354448b297c,,30370,question,responseOptionNo,20117,form,No
+552c480e50494354448b297c,,30370,question,responseOptionYes,20117,form,Yes
+552c486f504943bb01158a3f,,30371,question,questionText,20117,form,What is your company's SSS identification number?
+552c4874504943faafd4cd5f,,30372,question,description,20117,form,The PhilHealth id number is typically 12 digits long.
+552c4874504943faafd4cd5f,,30372,question,questionText,20117,form,What is your company's PhilHealth identification number?
+552c487950494337f56961e1,,30373,question,questionText,20117,form,What is your company's Pag-IBIG / HDMF identification number?
+63a09e7f1a000014024f4b80,,135411,question,questionText,20117,form,Please indicate your company's business entity / form of business within this country:\n
+63a09e7f1a000014024f4b80,,135411,question,responseOption1,20117,form,Corporations or Partnerships 
+63a09e7f1a000014024f4b80,,135411,question,responseOption2,20117,form,Sole proprietors
+63a09e7f1a000014024f4b80,,135411,question,responseOption3,20117,form,Cooperatives
+63a09e7f1a000014024f4b80,,135411,question,responseOption4,20117,form,Other
+63a09e7f1a000014024f4b80,,135411,question,responseOption5,20117,form,Special Economic Zone (SEZ) Entity
+63a09e7f1a000014024f4b80,,135411,question,responseOption6,20117,form,Foreign company
+63a09eb31a0000fa014f4cf2,,135412,question,questionText,20117,form,Other - Please specify:
+63a09f4c1a00004b024f5972,,135413,question,questionText,20117,form,Please upload your company's SEC Certificate of Registration.\n
+63a09f5c190000e901706fa1,,135414,question,questionText,20117,form,Please upload your company's DTI Certificate of Business Name Registration.\n
+63a09f72190000e901706fa4,,135415,question,questionText,20117,form,Please upload your company's CDA Certificate of Registration.\n
+63a0a33b1a00004b024f83a5,,135420,question,questionText,20117,form,Please upload your company's Barangay Clearance from the Barangay where the company is located.\n
+63a0a3481a000080024f83a7,,135421,question,questionText,20117,form,Please upload your company's Mayor’s Permit or Municipal License from the city or municipality where your company's located.\n
+65821d9f160000c00048d43a,,148632,question,questionText,20117,form,Is your company registered with the SEC?
+65821d9f160000c00048d43a,,148632,question,responseOption1,20117,form,Yes
+65821d9f160000c00048d43a,,148632,question,responseOption2,20117,form,No
+65821dc0160000b20048d43d,,148634,question,questionText,20117,form,If No: Please explain.
+65821dc0160000b20048d43d,,148634,question,responseOption1,20117,form,Yes
+65821dc0160000b20048d43d,,148634,question,responseOption2,20117,form,No
+65821e051900008500e31014,,148636,question,questionText,20117,form,Does your company have a DTI Certificate of Business Name Registration?
+65821e051900008500e31014,,148636,question,responseOption1,20117,form,Yes
+65821e051900008500e31014,,148636,question,responseOption2,20117,form,No
+65821e15160000b80048d450,,148637,question,questionText,20117,form,If No: Please explain.
+65821e15160000b80048d450,,148637,question,responseOption1,20117,form,Yes
+65821e15160000b80048d450,,148637,question,responseOption2,20117,form,No
+6582201d160000ca0048d50f,,148639,question,questionText,20117,form,Does your company have a CDA Certificate of Registration?
+6582201d160000ca0048d50f,,148639,question,responseOption1,20117,form,Yes
+6582201d160000ca0048d50f,,148639,question,responseOption2,20117,form,No
+658220a61900007f00e310cb,,148640,question,questionText,20117,form,If No: Please explain.
+658220a61900007f00e310cb,,148640,question,responseOption1,20117,form,Yes
+658220a61900007f00e310cb,,148640,question,responseOption2,20117,form,No
+6582210e190000b100e311d6,,148641,question,questionText,20117,form,If No: Please explain.
+6582210e190000b100e311d6,,148641,question,responseOption1,20117,form,Yes
+6582210e190000b100e311d6,,148641,question,responseOption2,20117,form,No
+65822129190000b300e311d9,,148642,question,questionText,20117,form,If No: Please explain.
+65822129190000b300e311d9,,148642,question,responseOption1,20117,form,Yes
+65822129190000b300e311d9,,148642,question,responseOption2,20117,form,No
+65822346190000af00e31268,,148643,question,questionText,20117,form,If No: Please explain
+65822346190000af00e31268,,148643,question,responseOption1,20117,form,Yes
+65822346190000af00e31268,,148643,question,responseOption2,20117,form,No
+658223a8160000dc0048d6d2,,148644,question,questionText,20117,form,If No: Please explain.
+658223a8160000dc0048d6d2,,148644,question,responseOption1,20117,form,Yes
+658223a8160000dc0048d6d2,,148644,question,responseOption2,20117,form,No
+658223d6190000af00e3126d,,148645,question,questionText,20117,form,If No: Please explain.
+658223d6190000af00e3126d,,148645,question,responseOption1,20117,form,Yes
+658223d6190000af00e3126d,,148645,question,responseOption2,20117,form,No

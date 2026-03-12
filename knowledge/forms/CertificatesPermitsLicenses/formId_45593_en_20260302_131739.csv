@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69051e29010000cd00e9c360,681502a30100003300ea048d,45593,questionGroup,questionGroupText,45593,form,Chinese Enterprise Safety Production Permit Applicability Assessment
+681504a00100005a008f0e31,,169371,question,description,45593,form,"The Chinese Enterprise Health and Safety Production Permit is an official license required for certain high-risk industries in China, mining, construction, hazardous chemicals, fireworks, and explosives manufacturing. The permit certifies that an enterprise meets national standards for workplace safety and health before beginning or continuing production."
+681504a00100005a008f0e31,,169371,question,questionText,45593,form,Is your company required to have a Chinese Enterprise Safety Production Permit?
+681504a00100005a008f0e31,,169371,question,responseOption1,45593,form,Yes
+681504a00100005a008f0e31,,169371,question,responseOption2,45593,form,No
+681504c50100005b008f0e34,,169372,question,description,45593,form,"<a href=""https://www.mem.gov.cn/fw/flfgbz/fg/201407/t20140729_233082.shtml""target=""_blank"">Regulations on Safety Production Permits</a>  \n<a href=""https://www.gov.cn/zhengce/2022-01/25/content_5712013.htm""target=""_blank"">Opinions of the General Office of the Ministry of Housing and Urban-Rural Development on the Application for Safety Production Permits by Eight Types of Specialized Contracting Enterprises Including Earthwork and Precast Concrete Components</a>"
+681504c50100005b008f0e34,,169372,question,questionText,45593,form,Please select from the following reasons your company is exempt from needing a Chinese Enterprise Safety Production Permit.
+681504c50100005b008f0e34,,169372,question,responseOption1,45593,form,"Our company is engaged exclusively in activities exempt from the safety production permit requirement, as specified by the Ministry of Housing and Urban-Rural Development (e.g., earthwork, precast concrete components, metal doors and windows, prestressing, non-destructive testing, or sports venue facility construction)."
+681504c50100005b008f0e34,,169372,question,responseOption2,45593,form,"Our company conducts elevator installation or blasting operations, which are subject to separate qualification approvals by the competent authorities."
+681504c50100005b008f0e34,,169372,question,responseOption3,45593,form,Our company is in the process of applying for the safety production permit and will provide it upon approval.
+681504c50100005b008f0e34,,169372,question,responseOption4,45593,form,Our company has formally confirmed with the relevant authorities that a safety production permit is not required for our specific business activities.
+681504c50100005b008f0e34,,169372,question,responseOption5,45593,form,Other
+6815050a0100005500ea065a,,169373,question,questionText,45593,form,Please explain why your company is exempt from needing a Chinese Enterprise Safety Production Permit.

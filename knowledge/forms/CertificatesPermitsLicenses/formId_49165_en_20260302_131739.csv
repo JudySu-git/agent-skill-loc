@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6924b4010100006400d7412c,692099a801000061001939f6,49165,questionGroup,description,49165,form,This requirement is triggered because you indicated your organization maintains a valid form in the Netherlands SNA NEN 4400 Applicability Assessment questionnaire.
+6924b4010100006400d7412c,692099a801000061001939f6,49165,questionGroup,questionGroupText,49165,form,Netherlands SNA NEN 4400 Certificate
+69209d6301000046001c893e,,189056,question,description,49165,form,"Companies can download a copy of their SNA (NEN 4400) Certification through the official <a href=""https://www.normeringarbeid.nl/snakeurmerk/gecertificeerde-ondernemingen?q="" target=""blank"">Labour Standards Register</a>.\n</br>\n\n<a href=""https://www.normeringarbeid.nl/labour-standards-register"" target=""blank"">NEN 4400-1 standard</a>"
+69209d6301000046001c893e,,189056,question,questionText,49165,form,"Please upload a copy of your company's SNA NEN 4400-1 or NEN 4400-2 certification, confirming your company’s compliance with NEN 4400 standard."

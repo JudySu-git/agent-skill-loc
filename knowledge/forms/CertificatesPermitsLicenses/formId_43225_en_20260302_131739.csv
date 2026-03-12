@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66c378710100002f003094d7,66c369520100002b003093b6,43225,questionGroup,questionGroupText,43225,form,General Liability - Additional Insured Endorsement Forms
+66c3695201000035003093b7,,158734,question,questionText,43225,form,Please upload the following General Liability Additional Insured endorsement forms for Ongoing and Completed Operations.\n
+66c3695201000035003093b7,,158734,question,responseOption1,43225,form,Yes
+66c3695201000035003093b7,,158734,question,responseOption2,43225,form,No
+66c3695201000033003093ba,,158735,question,questionText,43225,form,General Liability Policy: Date of Commencement
+66c3695201000033003093ba,,158735,question,responseOption1,43225,form,Yes
+66c3695201000033003093ba,,158735,question,responseOption2,43225,form,No
+66c3695201000032003093bb,,158736,question,questionText,43225,form,General Liability Policy: Policy Expiration Date
+66c3695201000032003093bb,,158736,question,responseOption1,43225,form,Yes
+66c3695201000032003093bb,,158736,question,responseOption2,43225,form,No
+66c3695201000035003093b9,,158737,question,questionText,43225,form,General Liability Additional Insured Endorsement Form for Ongoing Operations
+66c3695201000035003093b9,,158737,question,responseOption1,43225,form,Yes
+66c3695201000035003093b9,,158737,question,responseOption2,43225,form,No
+66c3695201000035003093b8,,158738,question,questionText,43225,form,General Liability Additional Insured Endorsement Form for Completed Operations
+66c3695201000035003093b8,,158738,question,responseOption1,43225,form,Yes
+66c3695201000035003093b8,,158738,question,responseOption2,43225,form,No

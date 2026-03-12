@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6904e50d01000006016c9dd9,690392a2010000f2006c9343,48661,questionGroup,description,48661,form,"If your company is required to comply with Austria's Social Security requirements, you will be asked to provide relevant documents in a subsequent form(s)."
+6904e50d01000006016c9dd9,690392a2010000f2006c9343,48661,questionGroup,questionGroupText,48661,form,Austria Social Security Applicability Assessment
+69039394010000cf00e9bbdf,,186391,question,description,48661,form,"All employers in Austria are required to register their employees for social security coverage, which includes health, pension, and accident insurance. These requirements are established under <a href=""https://broschuerenservice.sozialministerium.gv.at/Home/Download?publicationId=639&attachmentName=The_Pensions_System_in_Austria_an_Overview_2025.pdf"" target=""blank"">the Social Insurance Organisation Act</a>  and are primarily overseen by the <a href="" https://www.sozialministerium.gv.at/en/Topics/Social-Affairs/Social-Insurance.html"" target=""blank"">Federal Ministry of Labour, Social Affairs, Health, Care and Consumer Protection.</a> \n"
+69039394010000cf00e9bbdf,,186391,question,questionText,48661,form,Is your company required to comply with Austria's Social Security requirements maintain applicable documentation to show compliance?
+69039394010000cf00e9bbdf,,186391,question,responseOption1,48661,form,Yes
+69039394010000cf00e9bbdf,,186391,question,responseOption2,48661,form,No
+6903953f010000f2006c9351,,186392,question,questionText,48661,form,Please select from the following reason(s) your company is exempt from complying with Austria's Social Security requirements.
+6903953f010000f2006c9351,,186392,question,responseOption1,48661,form,The company is a sole proprietorship with no other employees. 
+6903953f010000f2006c9351,,186392,question,responseOption2,48661,form,The company does not have any employees in Austria.
+6903953f010000f2006c9351,,186392,question,responseOption3,48661,form,The company has foreign employee(s) working temporarily (less than 24 months) in Austria that are covered by the home country's scheme and are prepared to provide a copy of the A1 certificate(s) upon request.
+6903953f010000f2006c9351,,186392,question,responseOption4,48661,form,Other
+690395f5010000eb006c9357,,186393,question,questionText,48661,form,"If ""other"", please explain."

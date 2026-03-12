@@ -1,0 +1,21 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63ab72bb1800000a0131efe0,638aa9751800008509b6b286,37966,questionGroup,questionGroupText,37966,form,Heavy Vehicle National Law (HVNL) - Annual Carrier Compliance Review
+63ab7264180000090131efda,638aa9b41800008108b6b58d,37967,questionGroup,questionGroupText,37966,form,HVNL Annual Carrier Compliance Review
+63ab726d1800000a0131efdc,638aae221800008409b6ebc9,37968,questionGroup,questionGroupText,37966,form,Safety Professional Review
+63910d421800002203df10ca,638fe0f418000055091fe27a,37990,questionGroup,questionGroupText,37966,form,Audit Conditions
+638aa9bc190000da09624c4c,,134343,question,questionText,37966,form,Have there been any material changes to the information you have previously provided regarding HVNL compliance and/or any material changes to the processes your organization has implemented to eliminate or minimize transport safety/WHS risks?
+638aa9bc190000da09624c4c,,134343,question,responseOption1,37966,form,Yes
+638aa9bc190000da09624c4c,,134343,question,responseOption2,37966,form,No
+638aa9ef1800008509b6b6e5,,134344,question,questionText,37966,form,"Please identify any changes to previously provided information or implemented processes to eliminate or minimize Safety/WHS Risks below. If no changes, please indicate this accordingly:"
+638aad6b190000180a627dcd,,134345,question,questionText,37966,form,Provide details of any key transport safety initiatives your organization has implemented in the last six months.
+638aad911900004b0a627e6c,,134346,question,questionText,37966,form,"Have there been any material road transport safety issues that have occurred in your organization in the past six months needing declared (e.g. any serious incidents, regulatory enforcement activity or non-compliance with legal requirements)?"
+638aad911900004b0a627e6c,,134346,question,responseOption1,37966,form,Yes
+638aad911900004b0a627e6c,,134346,question,responseOption2,37966,form,No
+638aadb41800005b08b6e8ce,,134347,question,questionText,37966,form,"Please identify any material road transport safety issues that have occurred in your organization in the past six months. If no material issues, please indicate this accordingly:"
+638aae0b1800007d08b6eb76,,134348,question,questionText,37966,form,"Please confirm that you are aware of and agree to adhere to your obligations under the applicable Australian road rules, HVNL and health and safety laws in relation to the transport activities relevant to the services provided under customer services agreements. "
+638aae30190000380a62872c,,134349,question,questionText,37966,form,Has all of the appropriate information been provided to support the HVNL Annual Carrier Compliance Review?
+638aae30190000380a62872c,,134349,question,responseOption1,37966,form,Yes
+638aae30190000380a62872c,,134349,question,responseOption2,37966,form,No
+638aae401800008709b6ee0f,,134350,question,questionText,37966,form,HVNL Annual Carrier Compliance Review:\n\nAfter review of the evidence and documentation provided there is additional information needed. Please upload or provide additional evidence to support compliance. 
+638aae5c190000380a628922,,134351,question,questionText,37966,form,HVNL Initial Carrier Compliance Assessment was performed by:
+638aae73190000640a628b0e,,134352,question,questionText,37966,form,<br>

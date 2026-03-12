@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec600100002d00a47399,5d30d06c350000434197b9fa,26884,questionGroup,questionGroupText,26884,form,Minnesota Contractor License
+5d5598de360000a743a9ace0,5d30d09a350000434197b9fe,26885,questionGroup,questionGroupText,26884,form,Minnesota Contractor License
+5d30d0a43500004e4d88f017,,84397,question,description,26884,form,"<a href = ""https://ims.dli.mn.gov/ims/Find3?cat=Pros""target=""_BLANK_"">Minnesota Department of Labor and Industry</a>\n\n\n"
+5d30d0a43500004e4d88f017,,84397,question,questionText,26884,form,Minnesota Contractor License Number:\n
+5d30d0cb3500004e4d88f019,,84398,question,description,26884,form,"<a href = ""https://ims.dli.mn.gov/ims/Find3?cat=Pros""target=""_BLANK_"">Minnesota Department of Labor and Industry</a>\n\n\n"
+5d30d0cb3500004e4d88f019,,84398,question,questionText,26884,form,Minnesota Contractor License Classifications:\n
+5d30d0dc3500004e4d88f01b,,84399,question,questionText,26884,form,Minnesota License Expiration Date:\n
+5d30d0ed3500004e4d88f01d,,84400,question,description,26884,form,A URL will make verification quicker if provided\n
+5d30d0ed3500004e4d88f01d,,84400,question,questionText,26884,form,"Upload a copy of your license, and or provide the URL of the license."
+5d30d0ed3500004e4d88f01d,,84400,question,responseOption1,26884,form,File Upload
+5d30d0ed3500004e4d88f01d,,84400,question,responseOption2,26884,form,URL
+5d30d1033500004e4d88f01f,,84401,question,questionText,26884,form,Please upload a copy of your Minnesota license:\n
+5d30d1113500004e4d88f021,,84402,question,questionText,26884,form,Please enter the URL of the license:\n

@@ -1,0 +1,25 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6282cdd82e00009ecd75524e,627edbd22f00000da6205585,36381,questionGroup,questionGroupText,36381,form,Avetta PQF - Oman Company Information
+627edc8e2f00000da6205c71,627edc8e2f00000da6205c70,36382,questionGroup,questionGroupText,36381,form,Oman
+6282b8f22e00009ecd748a33,,127600,question,questionText,36381,form,Please indicate your company's business entity / form of business within this country:
+6282b8f22e00009ecd748a33,,127600,question,responseOption1,36381,form,The Limited Liability Company (LLC)
+6282b8f22e00009ecd748a33,,127600,question,responseOption2,36381,form,The Joint Stock Company (Closed) (SAOC) 
+6282b8f22e00009ecd748a33,,127600,question,responseOption3,36381,form,The Joint Stock Company (Public) (SAOG)
+6282b8f22e00009ecd748a33,,127600,question,responseOption4,36381,form,Joint Venture (JV)
+6282b8f22e00009ecd748a33,,127600,question,responseOption5,36381,form,General Partnership 
+6282b8f22e00009ecd748a33,,127600,question,responseOption6,36381,form,Other
+6282ba582f00000bf6618e56,,127601,question,questionText,36381,form,Please provide a copy of your company’s commercial registration CR provided by the Ministry of Commerce and Industry (MOCI) https://www.moci.gov.qa/en/
+6282ba792f00000bf6618efc,,127602,question,questionText,36381,form,"Is your company a member of  <a href=""https://chamberoman.om/""target=""blank"">Oman Chamber of Commerce and Industry</a> (OCCI)?"
+6282ba792f00000bf6618efc,,127602,question,responseOption1,36381,form,Yes
+6282ba792f00000bf6618efc,,127602,question,responseOption2,36381,form,No
+6282ba792f00000bf6618efc,,127602,question,responseOption3,36381,form,N/A
+6282bb682f00000bf6619352,,127603,question,questionText,36381,form,"Please provide your company’s <a href=""https://zatca.gov.sa/en/eServices/Pages/default.aspx?taxtype=3""target=""blank""> VAT Taxpayer Registry number</a>"
+6282bbe02f00000bf661968c,,127604,question,questionText,36381,form,"Please enter your company’s main  <a href=""https://www.ncsi.gov.om/Pages/Classifications.aspx""target=""blank"">Industry Classification code(s) </a> in Oman"
+6282c5192e00009ecd7508e0,,127605,question,questionText,36381,form,Does your company have any additional Industry classification codes?
+6282c5192e00009ecd7508e0,,127605,question,responseOption1,36381,form,Yes
+6282c5192e00009ecd7508e0,,127605,question,responseOption2,36381,form,No
+6282c58a2f00000bf6621a1d,,127606,question,questionText,36381,form,Please provide the additional Industry classification code
+6282c5b12f00000bf6621c42,,127607,question,questionText,36381,form,Does your company have any additional Industry classification codes?
+6282c5b12f00000bf6621c42,,127607,question,responseOption1,36381,form,Yes
+6282c5b12f00000bf6621c42,,127607,question,responseOption2,36381,form,No
+6282c5c32e00009ecd750e79,,127608,question,questionText,36381,form,Please provide the additional Industry classification code

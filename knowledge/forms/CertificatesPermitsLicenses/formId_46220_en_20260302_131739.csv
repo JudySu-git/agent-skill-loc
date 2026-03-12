@@ -1,0 +1,4 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+684219e101000058006db658,6842026401000059006db34c,46220,questionGroup,questionGroupText,46220,form,Portugal Occupational Risk Insurance Compliance
+684202a70100003600f6722e,,174690,question,questionText,46220,form,Please upload a copy of your Certidão de Situação Regularizada da Segurança Social issued by Instituto da Segurança Social (ISS).
+684202d601000058006db363,,174692,question,questionText,46220,form,Please enter the issue date of this document.

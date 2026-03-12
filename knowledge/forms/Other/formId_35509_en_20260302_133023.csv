@@ -1,0 +1,23 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+62166c6d2f000038839dd5f7,620ee2b92e000058b98c0e41,35509,questionGroup,questionGroupText,35509,form,Greenhouse Gas (GHG) Monthly Reporting
+620ee3822e000058b98c0e57,620ee3822e000058b98c0e56,35510,questionGroup,questionGroupText,35509,form,GHG Monthly Reporting Scope 1
+620ee3942e000058b98c0e5a,620ee3942e000058b98c0e59,35511,questionGroup,questionGroupText,35509,form,GHG Monthly Reporting Scope 2
+620ee3422e000058b98c0e54,,121716,question,questionText,35509,form,"Based on your Sustainability and ESG responses, you are required to report your GHG emissions on a consistent basis. This will provide visibility to your connected Clients to see relevant reporting of Scope 1 and 2 emissions.\n\nPlease report the total MT CO2e for that scope and period in your responses below. Ensure that your inputs align with either a monthly or quarterly input, based on your GHG reporting frequency."
+620ee3a92f00006794fff047,,121717,question,description,35509,form,"Fuel burned in buildings or equipment your organization owns or operates. Include building heating fuels, like oil or gas, fuel used in stationary generators, and fuel-powered production equipment."
+620ee3a92f00006794fff047,,121717,question,questionText,35509,form,Do you track and calculate GHG for Stationary combustion?
+620ee3a92f00006794fff047,,121717,question,responseOption1,35509,form,Yes
+620ee3a92f00006794fff047,,121717,question,responseOption2,35509,form,No
+620ee3a92f00006794fff047,,121717,question,responseOption3,35509,form,N/A
+620ee3e72f00006794fff049,,121718,question,questionText,35509,form,Please provide your calculated monthly MT CO2e for Stationary combustion
+6215143e2e0000c9507a5c57,,121725,question,description,35509,form,"The production and distribution of electricity you purchase from the utility or another supplier. If your electricity mix is high in fossil fuels, your emissions will be higher."
+6215143e2e0000c9507a5c57,,121725,question,questionText,35509,form,Do you track and calculate GHG for Purchased electricity?
+6215143e2e0000c9507a5c57,,121725,question,responseOption1,35509,form,Yes
+6215143e2e0000c9507a5c57,,121725,question,responseOption2,35509,form,No
+6215143e2e0000c9507a5c57,,121725,question,responseOption3,35509,form,N/A
+621514532e0000c9507a5c58,,121726,question,questionText,35509,form,Please provide your calculated monthly MT CO2e for Purchased electricity
+621514622e00008238243b53,,121727,question,description,35509,form,"Steam, heat, and cooling generated off-site that you purchase from a utility or another supplier—for instance, district heating and cooling, or steam used in industrial processes. Not to be confused with heat you generate on-site by using a boiler or furnace or cooling your facility with an electricity-powered AC unit."
+621514622e00008238243b53,,121727,question,questionText,35509,form,"Do you track and calculate GHG for Purchased steam, heat or cooling?"
+621514622e00008238243b53,,121727,question,responseOption1,35509,form,Yes
+621514622e00008238243b53,,121727,question,responseOption2,35509,form,No
+621514622e00008238243b53,,121727,question,responseOption3,35509,form,N/A
+621514782e00008238243b55,,121728,question,questionText,35509,form,"Please provide your calculated monthly MT CO2e for Purchased steam, heat and cooling"

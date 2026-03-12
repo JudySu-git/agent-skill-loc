@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4d1bb0d9504943d96c14ce76,4d1bb0d9504943d96c14ce76,1384,questionGroup,questionGroupText,1384,category,Audit Requirements: Line Specifications
+4bc764f5504943db40119c74,,3616,question,description,1384,category,Please add to your program a statement that the drawings contain information that is vital to maintenance and other line opening activity.
+4bc764f5504943db40119c74,,3616,question,questionText,1384,category,Does the program state that the drawings contain information that is vital to maintenance and other line opening activity?
+4bc764f5504943db40119c74,,3616,question,responseOptionNA,1384,category,N/A
+4bc764f5504943db40119c74,,3616,question,responseOptionNo,1384,category,No
+4bc764f5504943db40119c74,,3616,question,responseOptionYes,1384,category,Yes
+4bc765ab504943864d7aafc7,,3617,question,description,1384,category,Please add to your program the documentation that reference to these drawings must be made before intrusive work is carried out.
+4bc765ab504943864d7aafc7,,3617,question,questionText,1384,category,Does the program state that reference to these drawings must be made before intrusive work is carried out?
+4bc765ab504943864d7aafc7,,3617,question,responseOptionNA,1384,category,N/A
+4bc765ab504943864d7aafc7,,3617,question,responseOptionNo,1384,category,No
+4bc765ab504943864d7aafc7,,3617,question,responseOptionYes,1384,category,Yes
+4bc76656504943c2856c8bc1,,3618,question,description,1384,category,Please add to your program what the various codes mean in terms of process operating variables.
+4bc76656504943c2856c8bc1,,3618,question,questionText,1384,category,Does the program explain what the various codes mean in terms of process operating variables?
+4bc76656504943c2856c8bc1,,3618,question,responseOptionNA,1384,category,N/A
+4bc76656504943c2856c8bc1,,3618,question,responseOptionNo,1384,category,No
+4bc76656504943c2856c8bc1,,3618,question,responseOptionYes,1384,category,Yes

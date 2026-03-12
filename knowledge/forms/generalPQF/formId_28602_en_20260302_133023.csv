@@ -1,0 +1,51 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+429fe3d0504943d803bd6c66,,318,question,questionText,28602,form,"Does your company have a written policy regarding the management, control and screening for drugs, alcohol & intoxicants in the workplace?"
+429fe3d0504943d803bd6c66,,318,question,responseOptionNo,28602,form,No
+429fe3d0504943d803bd6c66,,318,question,responseOptionYes,28602,form,Yes
+429fe3d0504943bf6e7f2ef5,,328,question,questionText,28602,form,Are all workers engaged by the company subject to post accident / incident drug & alcohol screening?
+429fe3d0504943bf6e7f2ef5,,328,question,responseOptionNo,28602,form,No
+429fe3d0504943bf6e7f2ef5,,328,question,responseOptionYes,28602,form,Yes
+429fe3d05049432d9e468c74,,329,question,questionText,28602,form,"Are all workers engaged by the company subject to Probable / For Cause drug, alcohol & intoxicant screening?"
+429fe3d05049432d9e468c74,,329,question,responseOptionNo,28602,form,No
+429fe3d05049432d9e468c74,,329,question,responseOptionYes,28602,form,Yes
+429fe3d0504943c7e233c603,,330,question,questionText,28602,form,"Are all workers engaged by the company subject to random drug, alcohol & intoxicant screening?"
+429fe3d0504943c7e233c603,,330,question,responseOptionNo,28602,form,No
+429fe3d0504943c7e233c603,,330,question,responseOptionYes,28602,form,Yes
+429fe3d05049437b37ccc237,,331,question,questionText,28602,form,"Are all workers engaged by the company subject to drug, alcohol & intoxicant screening as part of a return to work program post incident/accident?"
+429fe3d05049437b37ccc237,,331,question,responseOptionNo,28602,form,No
+429fe3d05049437b37ccc237,,331,question,responseOptionYes,28602,form,Yes
+453463505049436ea1733f9e,,1458,question,description,28602,form,"Examples of Training Topics: Recognizing signs of intoxication, understanding how to initiate testing for workers, etc."
+453463505049436ea1733f9e,,1458,question,questionText,28602,form,"Does your company provide training to people that manage workers, addressing drugs, alcohol and intoxicant awareness in the workplace?"
+453463505049436ea1733f9e,,1458,question,responseOptionNA,28602,form,N/A
+453463505049436ea1733f9e,,1458,question,responseOptionNo,28602,form,No
+453463505049436ea1733f9e,,1458,question,responseOptionYes,28602,form,Yes
+6435d5031600002348a04050,5a9d899632fc7c21fb6af737,28602,questionGroup,questionGroupText,28602,form,"Avetta PQF - Drug (Prescribed / Over-the-Counter & Illegal), Alcohol & Intoxicants Program"
+5f4ec14c2a0000fd99812473,,102618,question,questionText,28602,form,"If Yes, please upload a copy of the policy:"
+5f4ec2172d0000fd99fdb4f2,,102621,question,questionText,28602,form,"If Yes, what percentage of workers are tested on a random basis? "
+5f4ec2172d0000fd99fdb4f2,,102621,question,responseOption1,28602,form,5%
+5f4ec2172d0000fd99fdb4f2,,102621,question,responseOption2,28602,form,10%
+5f4ec2172d0000fd99fdb4f2,,102621,question,responseOption3,28602,form,15%
+5f4ec2172d0000fd99fdb4f2,,102621,question,responseOption4,28602,form,20>%
+5f4ec2c92b00007e7887c269,,102622,question,questionText,28602,form,"Are subcontractors engaged to work on behalf of your company subject to the same rules and screening program regarding drugs, alcohol and intoxicants?"
+5f4ec2c92b00007e7887c269,,102622,question,responseOption1,28602,form,Yes
+5f4ec2c92b00007e7887c269,,102622,question,responseOption2,28602,form,No
+5f4ec2dc2d0000023748e66e,,102623,question,questionText,28602,form,Does your company use the services of an independent third party to conduct the screening program?
+5f4ec2dc2d0000023748e66e,,102623,question,responseOption1,28602,form,Yes
+5f4ec2dc2d0000023748e66e,,102623,question,responseOption2,28602,form,No
+5f4ec2ec2d0000023748e673,,102624,question,questionText,28602,form,Does your company conduct any form of in-house screening of workers?
+5f4ec2ec2d0000023748e673,,102624,question,responseOption1,28602,form,Yes
+5f4ec2ec2d0000023748e673,,102624,question,responseOption2,28602,form,No
+5f4ec2ec2d0000023748e673,,102624,question,responseOption3,28602,form,N/A
+5f4ec3042d0000023748e686,,102625,question,questionText,28602,form,"If Yes, what type of in-house screening does your company conduct?"
+5f4ec3042d0000023748e686,,102625,question,responseOption1,28602,form,Alcohol only screening
+5f4ec3042d0000023748e686,,102625,question,responseOption2,28602,form,Drugs only screening
+5f4ec3042d0000023748e686,,102625,question,responseOption3,28602,form,Both alcohol and drugs screening
+5f4ec3042d0000023748e686,,102625,question,responseOption4,28602,form,In-house and 3rd party screening
+5f4ec3442b00007e7887c333,,102627,question,questionText,28602,form,"If a worker discloses they have an issue with drugs and/or alcohol, does your company have the facility to offer professional help, counseling or rehabilitation services for that worker?"
+5f4ec3442b00007e7887c333,,102627,question,responseOption1,28602,form,Yes
+5f4ec3442b00007e7887c333,,102627,question,responseOption2,28602,form,No
+5f4ec3442b00007e7887c333,,102627,question,responseOption3,28602,form,N/A
+6435cae515000089481b8532,,140647,question,questionText,28602,form,Does your company have a policy in place to terminate a worker if they refuse screening?
+6435cae515000089481b8532,,140647,question,responseOption1,28602,form,Yes
+6435cae515000089481b8532,,140647,question,responseOption2,28602,form,No
+6435cae515000089481b8532,,140647,question,responseOption3,28602,form,N/A

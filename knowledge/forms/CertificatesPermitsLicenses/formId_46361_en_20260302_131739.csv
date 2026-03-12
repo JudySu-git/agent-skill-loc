@@ -1,0 +1,4 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6855a4c00100005701af25e6,6855a4a10100005c00ec3da1,46361,questionGroup,questionGroupText,46361,form,GTS Insurance Variance Form
+6855a4a10100004300ec3da2,,175090,question,questionText,46361,form,Please upload a copy of your executed Master Service Agreement (MSA) / Contract with GTS
+6855a4a10100004300ec3da3,,175091,question,questionText,46361,form,"Please provide the name, title and contact information of your GTS Project Manager"

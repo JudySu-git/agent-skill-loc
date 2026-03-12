@@ -1,0 +1,54 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8773aa36b6c4c635466e5,69a8773aa36b6c4c635466e4,51152,questionGroup,questionGroupText,51152,form,Bau – Untertagebergbau,
+69a8773aa36b6c4c635466d3,,200010,question,description,51152,form,"Untertagekontrollen müssen mindestens täglich von einer qualifizierten Person durchgeführt werden. Tägliche Inspektionen durch eine qualifizierte Person müssen den sicheren Gerätebetrieb vor der Verwendung bestätigen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 95 Abs. 2, § 98 Abs. 6</a>",
+69a8773aa36b6c4c635466d3,,200010,question,questionText,51152,form,Inspektionen durch qualifizierte Person (täglich),
+69a8773aa36b6c4c635466d4,,200011,question,description,51152,form,"Untertagearbeiten dürfen nur von Beschäftigten durchgeführt werden, die mit der Arbeit vertraut, körperlich und geistig geeignet sind und eine besondere Unterweisung erhalten haben.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 5 Abs. 4 Z 5</a>",
+69a8773aa36b6c4c635466d4,,200011,question,questionText,51152,form,Qualifiziertes Personal,
+69a8773aa36b6c4c635466d5,,200012,question,description,51152,form,"Bohr- und Sicherungsarbeiten müssen auf gesicherten Plattformen oder in Arbeitskörben durchgeführt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 95 Abs. 6</a>",
+69a8773aa36b6c4c635466d5,,200012,question,questionText,51152,form,Gesicherte Arbeitsbereiche und Plattformen,
+69a8773aa36b6c4c635466d6,,200013,question,description,51152,form,"Die Belüftung des Arbeitsplatzes muss eine ausreichende und gleichmäßige Luftzufuhr in Untertagebereichen gewährleisten. Die Frischluftzufuhr muss mindestens 2 m³/min pro Beschäftigten betragen. Überprüfungen der Bewetterungsleitung auf Undichtigkeiten sowie Luftgeschwindigkeitsmessungen müssen mindestens wöchentlich erfolgen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 96 Abs. 1–2</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Verordnung über explosionsfähige Atmosphären, § 18 Abs. 1 Z 1</a>",
+69a8773aa36b6c4c635466d6,,200013,question,questionText,51152,form,Ausreichende Belüftung,
+69a8773aa36b6c4c635466d7,,200014,question,description,51152,form,"Die Überwachung der Gaskonzentration muss mindestens täglich erfolgen. Gasmessungen müssen nach jeder Sprengung durchgeführt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 96 Abs. 5</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Verordnung über explosionsfähige Atmosphären, § 18 Abs. 3 Z 2</a>",
+69a8773aa36b6c4c635466d7,,200014,question,questionText,51152,form,"Gasüberwachung (täglich, nach Sprengung)",
+69a8773aa36b6c4c635466d8,,200015,question,description,51152,form,"Die erste Staubmessung muss nach der Einrichtung der Bewetterung oder über eine Länge von 70 m erfolgen. Die Staubüberwachung muss grundsätzlich in Abständen von höchstens zwei Monaten durchgeführt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 96 Abs. 5</a>",
+69a8773aa36b6c4c635466d8,,200015,question,questionText,51152,form,Staubüberwachung,
+69a8773aa36b6c4c635466d9,,200016,question,description,51152,form,"Zur Staubbekämpfung beim Tunnelvortrieb müssen Absaug- oder Sprühunterdrückungssysteme eingesetzt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 98 Abs. 8</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Verordnung über explosionsfähige Atmosphären, § 18 Abs. 2</a>",
+69a8773aa36b6c4c635466d9,,200016,question,questionText,51152,form,Staubschutzmaßnahmen,
+69a8773aa36b6c4c635466da,,200017,question,description,51152,form,"Atemschutzausrüstung muss bereitgestellt und verwendet werden, wenn Grenzwerte (z. B. Quarzstaub) überschritten werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 96 Abs. 8</a>",
+69a8773aa36b6c4c635466da,,200017,question,questionText,51152,form,Atemschutz,
+69a8773aa36b6c4c635466db,,200018,question,description,51152,form,"Motorgetriebene Geräte müssen mit Schutzeinrichtungen gegen unbeabsichtigte Inbetriebnahme ausgestattet sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 98 Abs. 7</a>",
+69a8773aa36b6c4c635466db,,200018,question,questionText,51152,form,Geräteschutzeinrichtungen,
+69a8773aa36b6c4c635466dc,,200019,question,description,51152,form,"Verkehrswege müssen eine Breite von mindestens 1,00 m und eine Höhe von mindestens 2,00 m aufweisen. Schienenfreie Verkehrswege müssen von Fahrbahnen getrennt sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 99 Abs. 2</a>",
+69a8773aa36b6c4c635466dc,,200019,question,questionText,51152,form,Verkehrswege und Trennung,
+69a8773aa36b6c4c635466dd,,200020,question,description,51152,form,"Verkehrsregelungsmaßnahmen müssen die Bewegungen in der Nähe von Förderanlagen kontrollieren. Fahrzeugbewegungen in der Nähe von Arbeitsstellen müssen auf Schrittgeschwindigkeit begrenzt sein, sofern keine anderweitige Sicherung besteht.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 99 Abs. 5, § 101 Abs. 1, § 102 Abs. 3</a>",
+69a8773aa36b6c4c635466dd,,200020,question,questionText,51152,form,Verkehrsregelung,
+69a8773aa36b6c4c635466de,,200021,question,description,51152,form,"Aushubplattformen müssen über eine bidirektionale Kommunikation zwischen Basis und Kopf verfügen. Eine zuverlässige Kommunikation muss unterirdische und oberirdische Arbeitsstellen verbinden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 104 Abs. 1, § 105 Abs. 4</a>",
+69a8773aa36b6c4c635466de,,200021,question,questionText,51152,form,Kommunikationssysteme,
+69a8773aa36b6c4c635466df,,200022,question,description,51152,form,"Personenförderanlagen müssen planmäßigen Inspektionen durch qualifizierte Personen unterzogen werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 104 Abs. 7</a>",
+69a8773aa36b6c4c635466df,,200022,question,questionText,51152,form,Inspektionen von Personenförderanlagen,
+69a8773aa36b6c4c635466e0,,200023,question,description,51152,form,"Selbstrettungsgeräte müssen in Tunneln mit mehr als 500 m Länge verfügbar und deutlich gekennzeichnet sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 105 Abs. 1</a>",
+69a8773aa36b6c4c635466e0,,200023,question,questionText,51152,form,Selbstrettungsgeräte,
+69a8773aa36b6c4c635466e1,,200024,question,description,51152,form,"Die Flucht- und Rettungsplanung muss Alarmierung, Fluchtwege, Rettung und Brandbekämpfung umfassen. Rettungsausrüstung wie Tragen und Werkzeug muss bereitstehen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 105 Abs. 2–3, § 105 Abs. 5</a>",
+69a8773aa36b6c4c635466e1,,200024,question,questionText,51152,form,Flucht- und Rettungsmaßnahmen,
+69a8773aa36b6c4c635466e2,,200025,question,description,51152,form,"Notfallübungen müssen mindestens einmal jährlich mit Dokumentation durchgeführt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 105 Abs. 3</a>",
+69a8773aa36b6c4c635466e2,,200025,question,questionText,51152,form,Jährliche Notfallübungen,
+69a8773aa36b6c4c635466e3,,200026,question,questionText,51152,form,<div></div>,

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce40e00100002f0021f3db,662bda041b00003300b79319,41973,questionGroup,description,41973,form,You are getting this category because you selected a license in the Avetta PQF - Australia Capital Territory Contractor License.
+66ce40e00100002f0021f3db,662bda041b00003300b79319,41973,questionGroup,questionGroupText,41973,form,Australian Capital Territory Contractor License - Security Master
+662bda041b00003200b7931b,,153233,question,questionText,41973,form,License Number:
+662bda041b00003200b7931b,,153233,question,responseOption1,41973,form,Yes
+662bda041b00003200b7931b,,153233,question,responseOption2,41973,form,No
+662bda041b00003400b7931a,,153234,question,questionText,41973,form,Please upload your license:\n
+662bda041b00003400b7931a,,153234,question,responseOption1,41973,form,Yes
+662bda041b00003400b7931a,,153234,question,responseOption2,41973,form,No
+662bda041b00003400b7931c,,153235,question,questionText,41973,form,Expiration Date:
+662bda041b00003400b7931c,,153235,question,responseOption1,41973,form,Yes
+662bda041b00003400b7931c,,153235,question,responseOption2,41973,form,No

@@ -1,0 +1,24 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+62c8712c2e00006bbcf52ef2,62b0f7f92f0000388bb065ef,36657,questionGroup,questionGroupText,36657,form,Avetta PQF - Egypt Company Information 
+62c862c42e00006bbcf4c64f,62b0f86330000014b6b69c4a,36658,questionGroup,questionGroupText,36657,form,Egypt
+62b0f87e30000014b6b69c50,,128556,question,questionText,36657,form,Please indicate your company's business entity / form of business within this country:
+62b0f87e30000014b6b69c50,,128556,question,responseOption1,36657,form,Joint Stock Company (JCS)
+62b0f87e30000014b6b69c50,,128556,question,responseOption2,36657,form,Limited Liability Company (LLC)
+62b0f87e30000014b6b69c50,,128556,question,responseOption3,36657,form,Branch of a Foreign Corporation (Branch)
+62b0f87e30000014b6b69c50,,128556,question,responseOption4,36657,form,One Person Company
+62b0f87e30000014b6b69c50,,128556,question,responseOption5,36657,form,Other
+62b0f8c930000014b6b69c52,,128557,question,questionText,36657,form,"Is your company registered with the <a href = ""https://www.mti.gov.eg/English/Pages/default.aspx"" target = ""_Blank"">Ministry of Trade and Industry</a>?"
+62b0f8c930000014b6b69c52,,128557,question,responseOption1,36657,form,Yes
+62b0f8c930000014b6b69c52,,128557,question,responseOption2,36657,form,No
+62b0f8c930000014b6b69c52,,128557,question,responseOption3,36657,form,N/A
+62b0f90130000014b6b69c54,,128558,question,questionText,36657,form,"Is your company a member of <a href = ""https://www.amcham.org.eg/"" target = ""_Blank""> American Chamber of Commerce in Egypt</a>?"
+62b0f90130000014b6b69c54,,128558,question,responseOption1,36657,form,Yes
+62b0f90130000014b6b69c54,,128558,question,responseOption2,36657,form,No
+62b0f90130000014b6b69c54,,128558,question,responseOption3,36657,form,N/A
+62c862c32e0000b90906c5e9,,128960,question,questionText,36657,form,"If ‘Other’ is selected, please explain  "
+62c862d92e00006bbcf4c652,,128961,question,questionText,36657,form,Please provide your company’s tax card 
+62c862fe2e0000b90906c5eb,,128962,question,questionText,36657,form,Please provide your company’s recent commercial register number
+62c863262e00006bbcf4c654,,128963,question,questionText,36657,form,"Please provide your company’s <a href = ""https://ilostat.ilo.org/resources/concepts-and-definitions/classification-economic-activities/"" target = ""_Blank"">International Standard Industrial Classification (ISIC) </a>"
+62c863642e00006bbcf4c656,,128964,question,questionText,36657,form,Is your company registered for VAT?
+62c863642e00006bbcf4c656,,128964,question,responseOption1,36657,form,Yes
+62c863642e00006bbcf4c656,,128964,question,responseOption2,36657,form,No

@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+696ac2f40100008b01c68f46,696ac15c01000062001adf67,50396,questionGroup,description,50396,form,This requirement is triggered because you indicated your organization maintains a valid Authorization Certificate in the Czech Republic Trade Licensing Commercial Register Applicability Assessment questionnaire.
+696ac2f40100008b01c68f46,696ac15c01000062001adf67,50396,questionGroup,questionGroupText,50396,form,Czech Republic Architects Authorization
+696ac15c01000060001adf68,,197119,question,description,50396,form,"Upload your company’s authorization issued under the <a href=""https://www.e-sbirka.cz/sb/1992/360?zalozka=text"" target=""_BLANK_"">Architects Act (360/1992 Coll.)</a>.\n\nA company must obtain an authorization under special laws if its intended activity is explicitly excluded from the Trade Licensing Act or requires additional sectoral approval.\n"
+696ac15c01000060001adf68,,197119,question,questionText,50396,form,Please upload proof of registration or authorization from your relevant professional chamber or authority.

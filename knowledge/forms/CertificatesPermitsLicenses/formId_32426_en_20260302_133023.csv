@@ -1,0 +1,20 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+602c2e434400000515b7a577,60270eb544000005158c3187,32426,questionGroup,questionGroupText,32426,form,Avetta PQF - Drone Operations
+60270eda420000fc2de1ef7a,,107015,question,questionText,32426,form,Does your company operate drones as part of its service offering?
+60270eda420000fc2de1ef7a,,107015,question,responseOption1,32426,form,Yes
+60270eda420000fc2de1ef7a,,107015,question,responseOption2,32426,form,No
+60270ee844000005158c33ee,,107016,question,questionText,32426,form,Are your drone operators properly licensed?
+60270ee844000005158c33ee,,107016,question,responseOption1,32426,form,Yes
+60270ee844000005158c33ee,,107016,question,responseOption2,32426,form,No
+60270ef7420000fc2de1ef7c,,107017,question,questionText,32426,form,Have your drone operators passed a background check?
+60270ef7420000fc2de1ef7c,,107017,question,responseOption1,32426,form,Yes
+60270ef7420000fc2de1ef7c,,107017,question,responseOption2,32426,form,No
+60270f1144000005158c34a5,,107018,question,questionText,32426,form,Have your drone operators completed a written assessment  to ensure they understand FAA regulations?
+60270f1144000005158c34a5,,107018,question,responseOption1,32426,form,Yes
+60270f1144000005158c34a5,,107018,question,responseOption2,32426,form,No
+60270f3244000005158c361d,,107019,question,questionText,32426,form,Have your drones been registered with the FAA?
+60270f3244000005158c361d,,107019,question,responseOption1,32426,form,Yes
+60270f3244000005158c361d,,107019,question,responseOption2,32426,form,No
+60270f3f44000005158c36a5,,107020,question,questionText,32426,form,Does your company adhere to the rules outlined under FAA regulation FAR Part 107?
+60270f3f44000005158c36a5,,107020,question,responseOption1,32426,form,Yes
+60270f3f44000005158c36a5,,107020,question,responseOption2,32426,form,No

@@ -1,0 +1,43 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+656e30bb1b0000437d32f6d2,656e30bb1b0000437d32f6d2,40825,questionGroup,questionGroupText,40826,form,Tanzania
+656e383c1b00004a7d32f740,656e30bb1b0000437d32f6d1,40826,questionGroup,questionGroupText,40826,form,Avetta PQF - Tanzania Company Information
+656e30bb1b0000437d32f6d3,,147592,question,questionText,40826,form,Please indicate your company's business entity / form of business within this country.
+656e30bb1b0000437d32f6d3,,147592,question,responseOption1,40826,form,Sole Proprietorship
+656e30bb1b0000437d32f6d3,,147592,question,responseOption2,40826,form,Private Company Limited by Shares (Ltd)
+656e30bb1b0000437d32f6d3,,147592,question,responseOption3,40826,form,Public Company Limited by Shares (Plc)
+656e30bb1b0000437d32f6d3,,147592,question,responseOption4,40826,form,Company Limited by Guarantee
+656e30bb1b0000437d32f6d3,,147592,question,responseOption5,40826,form,General Partnership
+656e30bb1b0000437d32f6d3,,147592,question,responseOption6,40826,form,Limited Partnership
+656e30bb1b0000437d32f6d3,,147592,question,responseOption7,40826,form,Branch Office
+656e30bb1b0000437d32f6d3,,147592,question,responseOption8,40826,form,Foreign entity with no local fiscal presence
+656e30bb1b0000437d32f6d3,,147592,question,responseOption9,40826,form,Other
+656e30bb1b0000437d32f6d4,,147593,question,questionText,40826,form,Please indicate where your company is established:
+656e30bb1b0000437d32f6d4,,147593,question,responseOption1,40826,form,Yes
+656e30bb1b0000437d32f6d4,,147593,question,responseOption2,40826,form,No
+656e30bb1b0000437d32f6d5,,147594,question,questionText,40826,form,"If Other, please explain:"
+656e30bb1b0000437d32f6d5,,147594,question,responseOption1,40826,form,Yes
+656e30bb1b0000437d32f6d5,,147594,question,responseOption2,40826,form,No
+656e30bb1b0000437d32f6d6,,147595,question,questionText,40826,form,"Is your company registered with the <a href=""https://www.brela.go.tz/"" \ntarget=""_Blank"">Business Registration and Licensing Agency (BRELA)</a> in Tanzania?"
+656e30bb1b0000437d32f6d6,,147595,question,responseOption1,40826,form,Yes
+656e30bb1b0000437d32f6d6,,147595,question,responseOption2,40826,form,No
+656e30bb1b0000437d32f6d7,,147596,question,questionText,40826,form,Please provide your company's registration number issued by the Business Registration and Licensing Agency (BRELA).
+656e30bb1b0000437d32f6d7,,147596,question,responseOption1,40826,form,Yes
+656e30bb1b0000437d32f6d7,,147596,question,responseOption2,40826,form,No
+656e30bb1b0000437d32f6d8,,147597,question,questionText,40826,form,Please explain why:
+656e30bb1b0000437d32f6d8,,147597,question,responseOption1,40826,form,Yes
+656e30bb1b0000437d32f6d8,,147597,question,responseOption2,40826,form,No
+656e30bb1b0000437d32f6d9,,147598,question,questionText,40826,form,"Is your company registered with the <a href=""https://taxpayerportal.tra.go.tz/#/"" \ntarget=""_Blank"">Tanzania Revenue Authority (TRA)</a>?"
+656e30bb1b0000437d32f6d9,,147598,question,responseOption1,40826,form,Yes
+656e30bb1b0000437d32f6d9,,147598,question,responseOption2,40826,form,No
+656e30bb1b0000437d32f6da,,147599,question,questionText,40826,form,Please provide your company's Taxpayer Identification Number (TIN).
+656e30bb1b0000437d32f6da,,147599,question,responseOption1,40826,form,Yes
+656e30bb1b0000437d32f6da,,147599,question,responseOption2,40826,form,No
+656e30bb1b0000437d32f6db,,147600,question,questionText,40826,form,Please explain why:
+656e30bb1b0000437d32f6db,,147600,question,responseOption1,40826,form,Yes
+656e30bb1b0000437d32f6db,,147600,question,responseOption2,40826,form,No
+656e30bb1b0000437d32f6dc,,147601,question,questionText,40826,form,"Please provide your primary Industry Classification Code (<a href=""https://www.nbs.go.tz/index.php/en/standards/economic-statistics-manuals-standards-classifications/international-standard-industrial-classification-isic"" \ntarget=""_Blank"">ISIC</a>)."
+656e30bb1b0000437d32f6dc,,147601,question,responseOption1,40826,form,Yes
+656e30bb1b0000437d32f6dc,,147601,question,responseOption2,40826,form,No
+656e30bb1b0000437d32f6dd,,147602,question,questionText,40826,form,"Please provide your secondary Industry Classification Code (<a href=""https://www.nbs.go.tz/index.php/en/standards/economic-statistics-manuals-standards-classifications/international-standard-industrial-classification-isic"" \ntarget=""_Blank"">ISIC</a>)."
+656e30bb1b0000437d32f6dd,,147602,question,responseOption1,40826,form,Yes
+656e30bb1b0000437d32f6dd,,147602,question,responseOption2,40826,form,No

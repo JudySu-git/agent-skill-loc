@@ -1,0 +1,18 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67bce2b50100003a0030ce02,67323e8801000051009d4f9d,43954,questionGroup,questionGroupText,43954,form,Saudi Arabia General Organization for Social Insurance (GOSI) Social Insurance Certificate
+6733f6870100007b00e63ef8,67323ef201000033002f11b0,43955,questionGroup,questionGroupText,43954,form,Saudi Arabia General Organization for Social Insurance (GOSI) Social Insurance Certificate
+67323efd01000035002f11b4,,161713,question,description,43954,form,"<a href = ""https://www.gosi.gov.sa/en/SystemsAndRegulations/SocialInsurance""target=""BLANK"">GOSI Social Insurance Law</a>\n<a href = ""/file-preview.html?fileId=2024-11-11T17%3A58%3A28.927Z~~*R09TSSBDZXJ0aWZpY2F0ZSBvZiBDb21wbGlhbmNlIFNhbXBsZS5wZGY%3D""target=""BLANK"">GOSI Certificate of Compliance Sample</a>"
+67323efd01000035002f11b4,,161713,question,questionText,43954,form,Is your company required to register with the General Organization of Social Insurance (GOSI)?
+67323efd01000035002f11b4,,161713,question,responseOption1,43954,form,Yes
+67323efd01000035002f11b4,,161713,question,responseOption2,43954,form,No
+67323f1e01000034002f11b7,,161714,question,questionText,43954,form,Please explain.
+67323f1e01000034002f11b7,,161714,question,responseOption1,43954,form,Yes
+67323f1e01000034002f11b7,,161714,question,responseOption2,43954,form,No
+67323f3101000038009d4fa0,,161715,question,description,43954,form,"The certificate must be issued within 3 months prior to the submission date.\n\n<a href = ""/file-preview.html?fileId=2024-11-11T17%3A58%3A28.927Z~~*R09TSSBDZXJ0aWZpY2F0ZSBvZiBDb21wbGlhbmNlIFNhbXBsZS5wZGY%3D""target=""BLANK"">GOSI Certificate of Compliance Sample</a>"
+67323f3101000038009d4fa0,,161715,question,questionText,43954,form,Please upload a copy of your GOSI Social Insurance Compliance Certificate.
+67323f3101000038009d4fa0,,161715,question,responseOption1,43954,form,Yes
+67323f3101000038009d4fa0,,161715,question,responseOption2,43954,form,No
+6733f4d60100003300e63ef1,,161774,question,description,43954,form,Sign below to confirm the information and/or document provided is correct and updated.
+6733f4d60100003300e63ef1,,161774,question,questionText,43954,form,Electronic Signature
+6733f4d60100003300e63ef1,,161774,question,responseOption1,43954,form,Yes
+6733f4d60100003300e63ef1,,161774,question,responseOption2,43954,form,No

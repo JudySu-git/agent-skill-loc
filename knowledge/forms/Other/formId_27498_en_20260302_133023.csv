@@ -1,0 +1,27 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5dbb4832330000ac16a03e46,5d9e09bb330000d2ace5d77e,27498,questionGroup,description,27498,form,\n
+5dbb4832330000ac16a03e46,5d9e09bb330000d2ace5d77e,27498,questionGroup,questionGroupText,27498,form,FRA Part 243 Standard Form
+5d9b9339330000d2acd7983b,,86752,question,questionText,27498,form,"The following list of questions is intended as a guide for determining whether your company is required to comply with 49 C.F.R. Part 243 – Training, Qualification and Oversight for Safety-Related Railroad Employees.  Railroad contractors required to comply with 49 C.F.R. Part 243 are not excused from compliance requirements based on responses to these questions.  Contractors must independently review all requirements of 49 C.F.R. Part 243 to assess whether they must comply with the regulation.  The regulation is controlling for purposes of determining compliance requirements and applicability.  \n\nThe following references may assist you regarding the FRA website for part 243. \n[https://www.fra.dot.gov/Page/P1023](https://www.fra.dot.gov/Page/P1023)\n [https://safetydata.fra.dot.gov/Part243/](https://safetydata.fra.dot.gov/Part243/)\n___\n\n\nDo any of your employees perform work covered under the hours of service laws found at 49 U.S.C. 21101, et seq.; \n"
+5d9b9339330000d2acd7983b,,86752,question,responseOption1,27498,form,Yes
+5d9b9339330000d2acd7983b,,86752,question,responseOption2,27498,form,No
+5d9b93873700001d12af3b1c,,86753,question,questionText,27498,form,"Do any of your employees perform work as an operating railroad employee who is not subject to the hours of service laws found at 49 U.S.C. 21101, et seq.;"
+5d9b93873700001d12af3b1c,,86753,question,responseOption1,27498,form,Yes
+5d9b93873700001d12af3b1c,,86753,question,responseOption2,27498,form,No
+5d9b93ad3700001d12af3b1d,,86754,question,questionText,27498,form,"Do any of your employees in the application of parts 213 and 214 of the Federal Railroad Administration’s (“FRA”) regulations (which can be found at Title 49, Chapter II, Parts 200 – 299), inspect, install, repair, or maintain track, roadbed, and signal and communication systems, including a roadway worker or railroad bridge worker as defined in §214.7 of FRA’s regulations;"
+5d9b93ad3700001d12af3b1d,,86754,question,responseOption1,27498,form,Yes
+5d9b93ad3700001d12af3b1d,,86754,question,responseOption2,27498,form,No
+5d9b93e13700001d12af3b1e,,86755,question,questionText,27498,form,"Do any of your employees inspect, repair, or maintain locomotives, passenger cars or freight cars;"
+5d9b93e13700001d12af3b1e,,86755,question,responseOption1,27498,form,Yes
+5d9b93e13700001d12af3b1e,,86755,question,responseOption2,27498,form,No
+5d9b94033700001d12af3b1f,,86756,question,questionText,27498,form,"Do any of your employees inspect, repair, or maintain other railroad on-track equipment when such equipment is in a service that constitutes a train movement under part 232 of FRA’s regulations;"
+5d9b94033700001d12af3b1f,,86756,question,responseOption1,27498,form,Yes
+5d9b94033700001d12af3b1f,,86756,question,responseOption2,27498,form,No
+5d9b94213700001d12af3b20,,86757,question,questionText,27498,form,"Do any of your employees determine that an on-track roadway maintenance machine or hi-rail vehicle may be used in accordance with part 214, subpart D of FRA’s regulations, without repair of a non-complying condition;"
+5d9b94213700001d12af3b20,,86757,question,responseOption1,27498,form,Yes
+5d9b94213700001d12af3b20,,86757,question,responseOption2,27498,form,No
+5d9b943e36000062b8f9a6ed,,86758,question,questionText,27498,form,"Do any of your employees directly instruct, mentor, inspect, or test, as a primary duty, any person while that other person is engaged in a safety-related task; or Directly supervise the performance of safety-related duties in connection with periodic oversight in accordance with §243.205."
+5d9b943e36000062b8f9a6ed,,86758,question,responseOption1,27498,form,Yes
+5d9b943e36000062b8f9a6ed,,86758,question,responseOption2,27498,form,No
+5d9b947c350000f5f622d1a2,,86760,question,questionText,27498,form,My organization is required to submit a training program to the Federal Railroad Administration (FRA) as required by 49 C.F.R. 243.
+5d9b947c350000f5f622d1a2,,86760,question,responseOption1,27498,form,Yes
+5d9b947c350000f5f622d1a2,,86760,question,responseOption2,27498,form,No

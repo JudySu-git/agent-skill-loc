@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4c2e010000ba00ebe53e,663011be1a0000650045d484,42048,questionGroup,description,42048,form,You are getting this category because you selected a license in the Avetta PQF - Victoria License.
+66ce4c2e010000ba00ebe53e,663011be1a0000650045d484,42048,questionGroup,questionGroupText,42048,form,Victoria Contractor License - Asbestos Assessor
+663011be1a00005b0045d485,,153445,question,questionText,42048,form,License Number:
+663011be1a00005b0045d485,,153445,question,responseOption1,42048,form,Yes
+663011be1a00005b0045d485,,153445,question,responseOption2,42048,form,No
+663011be1a00005b0045d486,,153446,question,questionText,42048,form,Please upload your license:\n
+663011be1a00005b0045d486,,153446,question,responseOption1,42048,form,Yes
+663011be1a00005b0045d486,,153446,question,responseOption2,42048,form,No
+663011be1a00005f0045d487,,153447,question,questionText,42048,form,Expiration Date:
+663011be1a00005f0045d487,,153447,question,responseOption1,42048,form,Yes
+663011be1a00005f0045d487,,153447,question,responseOption2,42048,form,No

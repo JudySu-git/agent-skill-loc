@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6924b7a00100006500d7415a,6920a83b0100004400193cb6,49173,questionGroup,description,49173,form,This requirement is triggered because you indicated your organization has a Joint Prevention Service (SPM) in the Spain Occupational Risk Prevention Services Applicability Assessment.
+6924b7a00100006500d7415a,6920a83b0100004400193cb6,49173,questionGroup,questionGroupText,49173,form,Spain Occupational Risk Prevention Services - Joint Prevention Service
+6920a83b0100004500193cbb,,189094,question,description,49173,form,"Employers are required to assess and prevent workplace risks and to implement preventive measures to protect workers’ health and safety. \n\n<a href=""https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/trabajo-jubilacion/seguridad-salud/prevencion-riesgos.html"" target=""blank"">Law 31</a>\n\n<a href=""https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/trabajo-jubilacion/seguridad-salud/prevencion-riesgos.html"" target=""blank"">Royal Decree 39</a>\n\n<a href=""https://www.boe.es/buscar/act.php?id=BOE-A-2004-1848"" target=""blank"">Royal Decree 171</a>"
+6920a83b0100004500193cbb,,189094,question,questionText,49173,form,"Please list all participating companies, as documented within your Joint Prevention Service agreement: "
+6920a83b0100004600193cba,,189095,question,description,49173,form,Employee level training documents must not be uploaded here. If your documents are Employee level then you must uploaded these in Worker Management.
+6920a83b0100004600193cba,,189095,question,questionText,49173,form,Please upload your Company level accreditation document as issued by the labour authority:
+6920a83b0100004500193cb8,,189096,question,questionText,49173,form,Please enter the issue date of your Joint Prevention Service agreement:
+6920a83b0100006300193cb9,,189097,question,questionText,49173,form,Please enter the expiry/renewal date of your Joint Prevention Service agreement:
+6920a83b0100006100193cb7,,189098,question,description,49173,form,If your documents are Employee level then you must uploaded these in Worker Management.
+6920a83b0100006100193cb7,,189098,question,questionText,49173,form,Do you have Company or Employee level accreditation documents as issued by the Labour Authority?
+6920a83b0100006100193cb7,,189098,question,responseOption1,49173,form,Company Level
+6920a83b0100006100193cb7,,189098,question,responseOption2,49173,form,Employee Level

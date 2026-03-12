@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce47f4010000500021f954,662fe5811b00003300b6e593,42010,questionGroup,description,42010,form,You are getting this category because you selected a license in the Avetta PQF - Northern Territory License.
+66ce47f4010000500021f954,662fe5811b00003300b6e593,42010,questionGroup,questionGroupText,42010,form,Northern Territory Contractor License - Gas Fitting
+662fe5811b00003200b6e595,,153336,question,questionText,42010,form,License Number:
+662fe5811b00003200b6e595,,153336,question,responseOption1,42010,form,Yes
+662fe5811b00003200b6e595,,153336,question,responseOption2,42010,form,No
+662fe5811b00003200b6e594,,153337,question,questionText,42010,form,Expiration Date:
+662fe5811b00003200b6e594,,153337,question,responseOption1,42010,form,Yes
+662fe5811b00003200b6e594,,153337,question,responseOption2,42010,form,No
+662fe5811b00003200b6e596,,153338,question,questionText,42010,form,Please upload your license:\n
+662fe5811b00003200b6e596,,153338,question,responseOption1,42010,form,Yes
+662fe5811b00003200b6e596,,153338,question,responseOption2,42010,form,No

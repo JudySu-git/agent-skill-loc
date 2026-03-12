@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61324f2e470000efa7f80256,61324daa470000efa7f7fbf6,33805,questionGroup,questionGroupText,33805,form,Structural Pest Control License
+61324daa470000efa7f7fbf7,,114526,question,questionText,33805,form,Contractor License Classifications:
+61324daa470000efa7f7fbf8,,114527,question,questionText,33805,form,Expiration Date:
+61324daa470000efa7f7fbf9,,114528,question,description,33805,form,A URL will make verification quicker if provided.
+61324daa470000efa7f7fbf9,,114528,question,questionText,33805,form,"Upload a copy of your license, and or provide the URL of the license."
+61324daa470000efa7f7fbf9,,114528,question,responseOption1,33805,form,File Upload
+61324daa470000efa7f7fbf9,,114528,question,responseOption2,33805,form,URL
+61324daa470000efa7f7fbfa,,114529,question,questionText,33805,form,Please upload a copy of your license:
+61324daa470000efa7f7fbfb,,114530,question,questionText,33805,form,Please enter the URL of the license:
+61324daa470000efa7f7fbfc,,114531,question,description,33805,form,<a href='https://www.pestboard.ca.gov/license.shtml' target='_BLANK'>SPCB</a>
+61324daa470000efa7f7fbfc,,114531,question,questionText,33805,form,Contractor License Number:

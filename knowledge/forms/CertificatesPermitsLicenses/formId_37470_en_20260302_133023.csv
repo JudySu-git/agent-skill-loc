@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63657788180000f804c0cf82,6365777e180000f604c0cf00,37470,questionGroup,questionGroupText,37470,form,Scaffolding Contractor Licences – Victoria
+6365777e180000f604c0cf02,,132445,question,questionText,37470,form,Please upload current Scaffolding Licence
+6365777e180000f604c0cf0f,,132446,question,questionText,37470,form,Licence Number
+6365777e180000f604c0cf18,,132447,question,questionText,37470,form,Effective Date
+6365777e180000f604c0cf21,,132448,question,questionText,37470,form,Expiration Date

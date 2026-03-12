@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4ca5010000ba00ebe554,6630140e1b00003300b6e72b,42055,questionGroup,description,42055,form,You are getting this category because you selected a license in the Avetta PQF - Victoria License.
+66ce4ca5010000ba00ebe554,6630140e1b00003300b6e72b,42055,questionGroup,questionGroupText,42055,form,Victoria Contractor License - Gas Fitting
+6630140e1b00002f00b6e72c,,153466,question,questionText,42055,form,Please upload your license:\n
+6630140e1b00002f00b6e72c,,153466,question,responseOption1,42055,form,Yes
+6630140e1b00002f00b6e72c,,153466,question,responseOption2,42055,form,No
+6630140e1b00002d00b6e72e,,153467,question,questionText,42055,form,Expiration Date:
+6630140e1b00002d00b6e72e,,153467,question,responseOption1,42055,form,Yes
+6630140e1b00002d00b6e72e,,153467,question,responseOption2,42055,form,No
+6630140e1b00002d00b6e72d,,153468,question,questionText,42055,form,License Number:
+6630140e1b00002d00b6e72d,,153468,question,responseOption1,42055,form,Yes
+6630140e1b00002d00b6e72d,,153468,question,responseOption2,42055,form,No

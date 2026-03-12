@@ -1,0 +1,60 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6582139f1900009000e30bee,51bf65bd5049433f65751169,4047,questionGroup,questionGroupText,20239,form,Spain
+63a0f0f1160000910756d428,535545e7504943ac32229d8a,5247,questionGroup,questionGroupText,20239,form,CNAE
+51bf66c35049437b39abb93b,,18657,question,description,20239,form,"The <a href=""https://www.rmc.es/"" target=""_blank"">central registry</a> provides information on registered companies and/or corporate names."
+51bf66c35049437b39abb93b,,18657,question,linkhttps://www.rmc.es/,20239,form,The target central registry provides information on registered companies and/or corporate names.
+51bf66c35049437b39abb93b,,18657,question,questionText,20239,form,Is your company a Spanish Legal Entity?\n
+51bf66c35049437b39abb93b,,18657,question,responseOptionNo,20239,form,No
+51bf66c35049437b39abb93b,,18657,question,responseOptionYes,20239,form,Yes
+51bf6717504943e8f09987ba,,18658,question,questionText,20239,form,Does your company have a company registration number?
+51bf6717504943e8f09987ba,,18658,question,responseOptionNo,20239,form,No
+51bf6717504943e8f09987ba,,18658,question,responseOptionYes,20239,form,Yes
+51bf676b50494334d41b8fc4,,18659,question,questionText,20239,form,Please provide the company registration number.
+51bf6795504943cb51c5e607,,18660,question,description,20239,form,"Value Added Tax (VAT) = <i>Número de Identificación Fiscal</i> (<i>NIF</i>) <br>\nVAT and VIES number are the same. When registering before the STA, you obtain the tax ID number. Then, when requesting the VIES number, you obtain the same tax ID but with the ES at the beginning of it.  \n"
+51bf6795504943cb51c5e607,,18660,question,questionText,20239,form,Does your company have a VAT registration number?
+51bf6795504943cb51c5e607,,18660,question,responseOptionNo,20239,form,No
+51bf6795504943cb51c5e607,,18660,question,responseOptionYes,20239,form,Yes
+51bf67bd5049437b8af804b0,,18661,question,questionText,20239,form,Please provide the VAT registration number.
+658220891900009f00e310c7,5ae8ddfe240000840091fa3b,20239,questionGroup,questionGroupText,20239,form,Avetta PQF - Spain Company Information
+535546b5504943b60b7266ee,,23311,question,description,20239,form,CNAE is a Spanish industry code standardization.
+535546b5504943b60b7266ee,,23311,question,linkhttps://www.ine.es/uc/Z7rrBQPg,20239,form,Click here to locate your company's CNAE code
+535546b5504943b60b7266ee,,23311,question,questionText,20239,form,What is your company's primary CNAE Code? \n
+5355473b504943f9deaa2559,,23312,question,linkhttps://www.ine.es/uc/Z7rrBQPg,20239,form,Click here to locate your company's CNAE code
+5355473b504943f9deaa2559,,23312,question,linkhttps://www.ine.es/uc/Z7rrBQPg,20239,form,Click here to locate your company's CNAE code
+5355473b504943f9deaa2559,,23312,question,questionText,20239,form,What is your company's secondary CNAE Code? \n
+63a0ee51160000db055e16c5,,135445,question,questionText,20239,form,"Please provide registration date and commercial registry data as volume, sheet, and page (i.e., “Tomo, folio y hoja”)<br> \nTomo: "
+63a0ef25160000e50656bfb5,,135446,question,questionText,20239,form,Folio:
+63a0ef37160000150756c0d2,,135447,question,questionText,20239,form,Hoja:
+63a0f078160000850756d06e,,135448,question,questionText,20239,form,Is your company registered within the VIES system?
+63a0f078160000850756d06e,,135448,question,responseOption1,20239,form,Yes
+63a0f078160000850756d06e,,135448,question,responseOption2,20239,form,No
+63a0f0f016000080065e4071,,135449,question,description,20239,form,"<a href =""https://sede.agenciatributaria.gob.es/Sede/en_gb/procedimientoini/G304.shtml"" target=""_blank"" > Spanish Tax Authorities </a> \n\n<a href=""https://sede.seg-social.gob.es/wps/portal/sede/sede/EmpresasyProfesionales/EmpresasyProfDetalle/!ut/p/z0/rY87D4IwFIX_CgyM5ra8IiMxhvhgIIaIXUgDBavSQtsY_fcCO0yO37lfzs0BAgUQQd-8pYZLQV8j30hYejj0cYTwOUGHPYrz9JRHXuYlmQcXpuEIZEWKg6mFP4aBxEAqKQz7GCg0q1k5k-C11A6aAgexrldM05G5aKTqmLa-VsWU4Q2v6CwivHCa_rgq3aUtkJ6a-2byoFi0l4vWF42z_7vIRUHkY-ifyXWrm1THtv0DrjsyQw!!/?changeLanguage=en"" target=""_blank"" >Social Security </a>  \n"
+63a0f0f016000080065e4071,,135449,question,questionText,20239,form,"I certify that my company is up to date with tax compliance, social security obligations, financial statements and annual account filings. "
+6582139e1900007f00e30bed,,148603,question,questionText,20239,form,Please provide your company’s business type:
+6582139e1900007f00e30bed,,148603,question,responseOption1,20239,form,Sole proprietorship
+6582139e1900007f00e30bed,,148603,question,responseOption2,20239,form,Jointly owned company
+6582139e1900007f00e30bed,,148603,question,responseOption3,20239,form,Private partnership
+6582139e1900007f00e30bed,,148603,question,responseOption4,20239,form,Limited liability company
+6582139e1900007f00e30bed,,148603,question,responseOption5,20239,form,Public limited company
+6582139e1900007f00e30bed,,148603,question,responseOption6,20239,form,Worker-owned company
+6582139e1900007f00e30bed,,148603,question,responseOption7,20239,form,Cooperative
+6582139e1900007f00e30bed,,148603,question,responseOption8,20239,form,Foreign entity with no local fiscal presence
+6582139e1900007f00e30bed,,148603,question,responseOption9,20239,form,Other
+6582143a1900009500e30c56,,148604,question,questionText,20239,form,Please indicate where your company is established:
+6582143a1900009500e30c56,,148604,question,responseOption1,20239,form,Yes
+6582143a1900009500e30c56,,148604,question,responseOption2,20239,form,No
+65821444160000b20048cf19,,148605,question,questionText,20239,form,"If Other, Please explain"
+65821444160000b20048cf19,,148605,question,responseOption1,20239,form,Yes
+65821444160000b20048cf19,,148605,question,responseOption2,20239,form,No
+658214bd1900009300e30c58,,148606,question,questionText,20239,form,Please explain:
+658214bd1900009300e30c58,,148606,question,responseOption1,20239,form,Yes
+658214bd1900009300e30c58,,148606,question,responseOption2,20239,form,No
+65821a981900007f00e30f5b,,148629,question,questionText,20239,form,"Is your company registered with the <a href = ""https://www.registradores.org/"" target = ""_blank"">“Directorate-General for Legal Security and Public Registries” (Dirección General de Seguridad Jurídica y Registros Públicos) </a>"
+65821a981900007f00e30f5b,,148629,question,responseOption1,20239,form,Yes
+65821a981900007f00e30f5b,,148629,question,responseOption2,20239,form,No
+65821ae1190000a200e30f5e,,148630,question,questionText,20239,form,Please explain:
+65821ae1190000a200e30f5e,,148630,question,responseOption1,20239,form,Yes
+65821ae1190000a200e30f5e,,148630,question,responseOption2,20239,form,No
+65821b11160000d10048d405,,148631,question,questionText,20239,form,Please explain:
+65821b11160000d10048d405,,148631,question,responseOption1,20239,form,Yes
+65821b11160000d10048d405,,148631,question,responseOption2,20239,form,No

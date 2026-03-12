@@ -1,0 +1,27 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+680681ce0100002602eb28a7,67e1997b0100005a00c959d2,44822,questionGroup,questionGroupText,44822,form,South Korea Industrial Accident Compensation Insurance
+67e199da01000033000e29fc,,166707,question,description,44822,form,[Korea Workers' Compensation & Welfare Service](https://www.kcomwel.or.kr/)
+67e199da01000033000e29fc,,166707,question,questionText,44822,form,Is your company required to pay contributions on behalf of your employees to the Korea Workers' Compensation & Welfare Service (KCOMWEL)?
+67e199da01000033000e29fc,,166707,question,responseOption1,44822,form,Yes
+67e199da01000033000e29fc,,166707,question,responseOption2,44822,form,No
+67e19ab50100003e00c959dc,,166708,question,description,44822,form,[South Korea Industrial Compensation Insurance Act](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002159602&)
+67e19ab50100003e00c959dc,,166708,question,questionText,44822,form,Please select an option.
+67e19ab50100003e00c959dc,,166708,question,responseOption1,44822,form,The company does not have any employees
+67e19ab50100003e00c959dc,,166708,question,responseOption2,44822,form,Other
+67e19ab50100003e00c959dc,,166708,question,responseOption3,44822,form,The company is foreign and does not have an entity in South Korea
+67e19b000100004200c959df,,166709,question,questionText,44822,form,Please explain.
+67e19b000100004200c959df,,166709,question,responseOption1,44822,form,Yes
+67e19b000100004200c959df,,166709,question,responseOption2,44822,form,No
+67e19b12010000f2000e2a07,,166710,question,description,44822,form,Companies can request an official certificate of their Industrial Accident Insurance registration through [KCOMWEL](https://www.kcomwel.or.kr/) or the [South Korea Government24 portal.](https://www.gov.kr/portal/service/serviceInfo/B49000100049)
+67e19b12010000f2000e2a07,,166710,question,questionText,44822,form,Does your company have a certificate of evidence of Industrial Accident Compensation Insurance (산재보험 가입 증명원) under the Korea Workers' Compensation & Welfare Service (KCOMWEL)?
+67e19b12010000f2000e2a07,,166710,question,responseOption1,44822,form,Yes
+67e19b12010000f2000e2a07,,166710,question,responseOption2,44822,form,No
+67e19b9c01000057000e2a10,,166711,question,description,44822,form,[South Korea Industrial Compensation Insurance Act](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002159602&)
+67e19b9c01000057000e2a10,,166711,question,questionText,44822,form,Please select an option.
+67e19b9c01000057000e2a10,,166711,question,responseOption1,44822,form,The company does not have any employees
+67e19b9c01000057000e2a10,,166711,question,responseOption2,44822,form,Other
+67e19bd901000057000e2a13,,166712,question,description,44822,form,"National Industrial Accident Insurance/Workers' Compensation/Certificate must be issued by Korea Workers' Compensation & Welfare Service (COMWEL), not by a private company.\n\nThere must be a red stamp next to the government body's name, Korea Workers' Compensation & Welfare Service.\n"
+67e19bd901000057000e2a13,,166712,question,questionText,44822,form,
+67ed553f0100005a00a35579,,167188,question,questionText,44822,form,Please explain.
+67ed553f0100005a00a35579,,167188,question,responseOption1,44822,form,Yes
+67ed553f0100005a00a35579,,167188,question,responseOption2,44822,form,No

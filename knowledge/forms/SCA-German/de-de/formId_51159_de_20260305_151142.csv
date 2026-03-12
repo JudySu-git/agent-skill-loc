@@ -1,0 +1,21 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8773fa36b6c4c63546728,69a8773fa36b6c4c63546727,51159,questionGroup,questionGroupText,51159,form,Explosivstoffe,
+69a8773fa36b6c4c63546720,,200073,question,description,51159,form,"Die Anwendbarkeit auf externe Arbeitsstätten, Baustellen und auswärtige Tätigkeiten gemäß dem ArbeitnehmerInnenschutzgesetz ist in einer schriftlichen Sicherheitsdokumentation zu regeln.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006570&utm_"">Sprengmittelgesetz, § 22</a>",
+69a8773fa36b6c4c63546720,,200073,question,questionText,51159,form,Besitzgenehmigung,
+69a8773fa36b6c4c63546721,,200074,question,description,51159,form,"Eine dokumentierte Sprengbefugnis muss die Voraussetzung für eine Sprengmittelgenehmigung belegen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006570&utm_"">Sprengmittelgesetz, § 24 Abs. 2</a>",
+69a8773fa36b6c4c63546721,,200074,question,questionText,51159,form,Qualifizierte Sprengberechtigte,
+69a8773fa36b6c4c63546722,,200075,question,description,51159,form,"Es müssen sichere Lagervorschriften vorhanden sein, um einen sicheren und genehmigten Umgang mit Explosivstoffen zu gewährleisten.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006570&utm_"">Sprengmittelgesetz, § 24 Abs. 1</a>",
+69a8773fa36b6c4c63546722,,200075,question,questionText,51159,form,Sichere Lagerungsregelungen,
+69a8773fa36b6c4c63546723,,200076,question,description,51159,form,"Ein verantwortlicher Sprengmittelbeauftragter muss bestellt werden, wenn Explosivstoffe erworben, besessen, eingeführt, übertragen oder gelagert werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006570&utm_"">Sprengmittelgesetz, § 26 Abs. 1</a>",
+69a8773fa36b6c4c63546723,,200076,question,questionText,51159,form,Bestellung eines Sprengmittelbeauftragten,
+69a8773fa36b6c4c63546724,,200077,question,description,51159,form,"Unbrauchbare oder fehlerhafte Explosivstoffe müssen nach zugelassenen Methoden sowie gemäß den Anweisungen des Herstellers oder Händlers beseitigt oder vernichtet werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006570&utm_"">Sprengmittelgesetz, § 9 Abs. 1–3</a>",
+69a8773fa36b6c4c63546724,,200077,question,questionText,51159,form,Zugelassene Entsorgungsmethoden,
+69a8773fa36b6c4c63546725,,200078,question,description,51159,form,"Sprengmittelverzeichnisse müssen Erwerb, Weitergabe, Verwendung und Vernichtung nach Lagerort erfassen und sind 10 Jahre lang aufzubewahren.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006570&utm_"">Sprengmittelgesetz, § 33 Abs. 1, 4</a>",
+69a8773fa36b6c4c63546725,,200078,question,questionText,51159,form,Aufzeichnungen (10-jährige Aufbewahrungspflicht),
+69a8773fa36b6c4c63546726,,200079,question,questionText,51159,form,<div></div>,

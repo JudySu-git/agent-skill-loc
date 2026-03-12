@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+607071444500009d89bc3f93,5d37596a3500002f3cacf4d9,27018,questionGroup,description,27018,form,This policy was triggered by the Avetta PQF - Workers' Compensation Questionnaire
+607071444500009d89bc3f93,5d37596a3500002f3cacf4d9,27018,questionGroup,questionGroupText,27018,form,North Dakota Workers' Compensation
+607070ed4500009d89bc3889,5d37597c360000b66a8e3d6a,27019,questionGroup,questionGroupText,27018,form,Policy Information 
+5d375992360000b66a8e3d78,,84872,question,questionText,27018,form,Date of Commencement: 
+5d3759a5330000b828a68bc8,,84873,question,questionText,27018,form,Expiration Date: 
+5d3759b53500002f3cacf4fe,,84874,question,questionText,27018,form,Please Upload North Dakota Workers' Compensation Certificate
+607070ec43000090e8639422,,108649,question,description,27018,form,Used to provide instructions from Client
+607070ec43000090e8639422,,108649,question,questionText,27018,form,Comments
+607070ff4500009d89bc388c,,108651,question,description,27018,form,Date the instructions from Client expire
+607070ff4500009d89bc388c,,108651,question,questionText,27018,form,VARIANCE Expiration Date

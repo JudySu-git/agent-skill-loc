@@ -1,0 +1,27 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+691783840100000e019275b1,517aa7075049438295ba6fc7,3757,questionGroup,questionGroupText,20207,form,Turkey
+65820d0d1900007500e30a52,517aae0e5049432c6e7ed6f7,3758,questionGroup,questionGroupText,20207,form,Turkey Specific Updates
+517aa7c250494379161d5570,,17151,question,description,20207,form,"Include hours worked by salaried, hourly, part-time and contract workers including temporary help services workers under your supervision, even if they were not under your direct employment.\nDo not include vacation, sick leave, holidays, or any other non-work time, even if employees were paid for it. If your establishment keeps records of only the hours paid or if you have employees who are not paid by the hour, please estimate the hours that the employees actually worked. If this number isn't available, an estimate is still needed."
+517aa7c250494379161d5570,,17151,question,questionText,20207,form,Please enter the total number of hours worked by all employees during the given year. Please round your answer to the next highest whole number.
+517aa803504943f768ad07c7,,17152,question,description,20207,form,An incident that results in the death of a worker within 1 year of the incident.
+517aa803504943f768ad07c7,,17152,question,questionText,20207,form,Please enter the total number of work related fatalities for the given year.
+517aafa4504943b62bdc8587,,17167,question,description,20207,form,"\nIMPORTANT: Please make sure to all include Full-Time, Part-Time and Contract workers under your supervision, even if they were not under your direct employment."
+517aafa4504943b62bdc8587,,17167,question,questionText,20207,form,Please enter the Average Number of Employees your company had during the given year:
+517ab00c5049433c1a66f3a1,,17168,question,questionText,20207,form,"Did your company record/report any workplace fatalities, accidents, occupational diseases, or dangerous occurrences?"
+517ab00c5049433c1a66f3a1,,17168,question,responseOptionNo,20207,form,No
+517ab00c5049433c1a66f3a1,,17168,question,responseOptionYes,20207,form,Yes
+691783cd010000ef007ceb93,5ade3df3240000730091c0e7,20207,questionGroup,questionGroupText,20207,form,Avetta Turkey Annual Update
+5df3d615350000fecba1dbd3,,89621,question,questionText,20207,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+5df3d621350000fecba1dbd4,,89622,question,questionText,20207,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+65822fc2190000d000e3174a,,148659,question,description,20207,form,An incident that results in a worker having a permanent physical or mental impairment that prevents them from performing their job duties.
+65822fc2190000d000e3174a,,148659,question,questionText,20207,form,Please enter the total number of permanent disability incidents for the given year.
+65822fd6160000d10048db58,,148660,question,description,20207,form,"An incident that results in a worker having a temporary physical or mental impairment that prevents them from performing their job duties for a period of time, but from which they are expected to recover fully."
+65822fd6160000d10048db58,,148660,question,questionText,20207,form,Please enter the total number of temporary disability incidents for the given year.
+6582311e160000fd0048db5e,,148662,question,description,20207,form,"Any intervention beyond first aid that requires professional medical assessment and treatment, but the worker may still be able to continue working or return to work soon after the treatment."
+6582311e160000fd0048db5e,,148662,question,questionText,20207,form,Please enter the number of *Medical treatment accidents* for the given year.
+6582313c160000ca0048db5f,,148663,question,description,20207,form,"An incident that results in a worker developing an occupational illness, such as asthma or carpal tunnel syndrome."
+6582313c160000ca0048db5f,,148663,question,questionText,20207,form,Please enter the number of cases of Occupational Diseases/Illnesses for the given year.
+65823158160000ae0048db63,,148664,question,description,20207,form,Incidents that require first aid treatment only.
+65823158160000ae0048db63,,148664,question,questionText,20207,form,Please enter the number of First Aid cases for the given year.
+65823175160000fb0048db64,,148665,question,description,20207,form,"Incidents that could have resulted in an occupational accident or illness, but did not."
+65823175160000fb0048db64,,148665,question,questionText,20207,form,Please enter the number of Dangerous Occurrences for the given year.

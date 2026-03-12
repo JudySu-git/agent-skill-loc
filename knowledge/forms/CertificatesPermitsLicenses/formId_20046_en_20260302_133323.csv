@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4fa2de01504943e06e277aa9,4fa2de01504943e06e277aa9,2620,questionGroup,questionGroupText,20046,form,Canada Insurance Information
+4fa2915b504943b5d1d38419,,11592,question,questionText,20046,form,Please provide proof of exempt industry status by uploading a letter from the province.
+4fa293175049431020961829,,11593,question,questionText,20046,form,I verify that the above information is correct.
+4fa2e04d504943174ecad07d,,11629,question,questionText,20046,form,Does your company or your company qualify for an exemption from workers compensation coverage?
+4fa2e04d504943174ecad07d,,11629,question,responseOptionNo,20046,form,No
+4fa2e04d504943174ecad07d,,11629,question,responseOptionYes,20046,form,Yes
+5c17f5b03f0000426db090e9,5aadb5c82b00001400d3e0f4,20046,questionGroup,questionGroupText,20046,form,Avetta PQF - Canada Insurance Information

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce40c70100003700ebdbb7,662bd9ef1c00006300ff8adc,41972,questionGroup,description,41972,form,You are getting this category because you selected a license in the Avetta PQF - Australia Capital Territory Contractor License.
+66ce40c70100003700ebdbb7,662bd9ef1c00006300ff8adc,41972,questionGroup,questionGroupText,41972,form,Australian Capital Territory Contractor License - Plumbing
+662bd9f01c00006800ff8ade,,153230,question,questionText,41972,form,License Number:
+662bd9f01c00006800ff8ade,,153230,question,responseOption1,41972,form,Yes
+662bd9f01c00006800ff8ade,,153230,question,responseOption2,41972,form,No
+662bd9f01c00006800ff8add,,153231,question,questionText,41972,form,Please upload your license:\n
+662bd9f01c00006800ff8add,,153231,question,responseOption1,41972,form,Yes
+662bd9f01c00006800ff8add,,153231,question,responseOption2,41972,form,No
+662bd9f01c00006100ff8adf,,153232,question,questionText,41972,form,Expiration Date:
+662bd9f01c00006100ff8adf,,153232,question,responseOption1,41972,form,Yes
+662bd9f01c00006100ff8adf,,153232,question,responseOption2,41972,form,No

@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69861521010000a200c0974e,698387f10100006400c962b5,50632,questionGroup,questionGroupText,50632,form,Iceland Employer's Registration
+6984b9c501000061007903b3,,197958,question,description,50632,form,"An activity or business operation must be reported to the <a href=""https://www.skatturinn.is/atvinnurekstur/virdisaukaskattur/almennt-um-vsk/"" target=""blank"">Directorate of Internal Revenue</a>  no later than 8 days before the commencement of operations with registration in the register of employers and, as applicable, in the VAT register."
+6984b9c501000061007903b3,,197958,question,questionText,50632,form,Please provide your Employer's Register number issued from the Iceland Revenue and Customs agency.
+6984ba3a0100003f007903b6,,197959,question,description,50632,form,"Companies can apply for an official employer’s registration certificate by submitting form <a href=""https://www.skatturinn.is/atvinnurekstur/eydublod/2026"" target=""blank"">RSK 14.10 – Application</a>  for a certificate to Skatturinn"
+6984ba3a0100003f007903b6,,197959,question,questionText,50632,form,Please provide your Employer's Register confirmation certificate issued from the Iceland Revenue and Customs agency .

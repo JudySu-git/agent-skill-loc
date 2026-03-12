@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5c182a723600004bda42e349,5a00b0442f0000f724e0faa0,28600,questionGroup,questionGroupText,28600,form,Avetta PQF - Modern Slavery
+5849b37c504943693810d6c9,,43069,question,questionText,28600,form,Does your company have a turnover of £36 million or greater?
+5849b37c504943693810d6c9,,43069,question,responseOptionNo,28600,form,No
+5849b37c504943693810d6c9,,43069,question,responseOptionYes,28600,form,Yes
+5849b3a9504943e88788201c,,43070,question,questionText,28600,form,Has your company developed a Slavery and Human Trafficking Statement?
+5849b3a9504943e88788201c,,43070,question,responseOptionNo,28600,form,No
+5849b3a9504943e88788201c,,43070,question,responseOptionYes,28600,form,Yes
+5849b534504943403468608e,,43071,question,questionText,28600,form,Please upload your company's Slavery and Human Trafficking Statement.
+5849b57d504943494425334d,,43072,question,questionText,28600,form,Have your company appointed a senior representative who is responsible for compliance?
+5849b57d504943494425334d,,43072,question,responseOptionNo,28600,form,No
+5849b57d504943494425334d,,43072,question,responseOptionYes,28600,form,Yes
+5849b5cc5049434d3df8e429,,43073,question,questionText,28600,form,"Has your company published your annual ""Slavery and Human Trafficking Statement?"""
+5849b5cc5049434d3df8e429,,43073,question,responseOptionNA,28600,form,N/A
+5849b5cc5049434d3df8e429,,43073,question,responseOptionNo,28600,form,No
+5849b5cc5049434d3df8e429,,43073,question,responseOptionYes,28600,form,Yes
+5849b649504943ed8aae8fa6,,43074,question,questionText,28600,form,Please provide your electronic signature below:

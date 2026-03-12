@@ -1,0 +1,85 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+697a5fea0100006200f504a8,697a4f8e0100004b0047ed21,50551,questionGroup,description,50551,form,"Any tool used for work (including laptops, tablets and related electrical accessories) is considered work equipment. The scope of these requirements are applied proportionately to the nature, complexity and risk level of the equipment and activities performed e.g. low risk IT equipment such as a laptop used on site does not have the same requirements as industrial machinery."
+697a5fea0100006200f504a8,697a4f8e0100004b0047ed21,50551,questionGroup,questionGroupText,50551,form,Italy Equipment and Machinery Conformity
+697a5016010000630047ed26,,197551,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Articles 70, 71, 72 Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>"
+697a5016010000630047ed26,,197551,question,questionText,50551,form,Do you declare that all machinery and work equipment supplied are fully compliant to requirements?
+697a5016010000630047ed26,,197551,question,responseOption1,50551,form,Yes
+697a5016010000630047ed26,,197551,question,responseOption2,50551,form,No
+697a5016010000630047ed26,,197551,question,responseOption3,50551,form,Not Applicable
+697a50d10100004b0047ed4e,,197552,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Article 72, Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>"
+697a50d10100004b0047ed4e,,197552,question,questionText,50551,form,"Do you acknowledge your responsibilities, including the obligation to supply equipment that is safe, compliant, and properly maintained?"
+697a50d10100004b0047ed4e,,197552,question,responseOption1,50551,form,Yes
+697a50d10100004b0047ed4e,,197552,question,responseOption2,50551,form,No
+697a50d10100004b0047ed4e,,197552,question,responseOption3,50551,form,Not Applicable
+697a5132010000620047ed50,,197553,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Annex V Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>\n<a href=""https://www.normattiva.it/""target=""_blank"">Legislative Decree 17 - Machinery Directive</a>"
+697a5132010000620047ed50,,197553,question,questionText,50551,form,"Do you declare that CE-marked equipment has a valid EU/EC Declaration of Conformity, and that non-CE or pre-directive equipment complies with requirements?"
+697a5132010000620047ed50,,197553,question,responseOption1,50551,form,Yes
+697a5132010000620047ed50,,197553,question,responseOption2,50551,form,No
+697a5132010000620047ed50,,197553,question,responseOption3,50551,form,Not Applicable
+697a51aa0100006100f50434,,197554,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>"
+697a51aa0100006100f50434,,197554,question,questionText,50551,form,"Do you confirm that no equipment supplied has been modified in a way that could compromise safety or invalidate its conformity, and that any modifications carried out have been assessed to ensure continued compliance with applicable legislation?"
+697a51aa0100006100f50434,,197554,question,responseOption1,50551,form,Yes
+697a51aa0100006100f50434,,197554,question,responseOption2,50551,form,No
+697a51aa0100006100f50434,,197554,question,responseOption3,50551,form,Not Applicable
+697a51eb010000440047ed5d,,197555,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Article 71 Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>"
+697a51eb010000440047ed5d,,197555,question,questionText,50551,form,"Do you declare that all supplied equipment is subject to a planned and documented maintenance program, carried out in accordance with the manufacturer’s instructions?"
+697a51eb010000440047ed5d,,197555,question,responseOption1,50551,form,Yes
+697a51eb010000440047ed5d,,197555,question,responseOption2,50551,form,No
+697a51eb010000440047ed5d,,197555,question,responseOption3,50551,form,Not Applicable
+697a5243010000620047ed71,,197556,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Article 71 Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>"
+697a5243010000620047ed71,,197556,question,questionText,50551,form,Do you confirm that all mandatory inspections and controls have been performed and are in date?
+697a5243010000620047ed71,,197556,question,responseOption1,50551,form,Yes
+697a5243010000620047ed71,,197556,question,responseOption2,50551,form,No
+697a5243010000620047ed71,,197556,question,responseOption3,50551,form,Not Applicable
+697a525b010000d200f5046a,,197557,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Annex VII Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>"
+697a525b010000d200f5046a,,197557,question,questionText,50551,form,"Where applicable, do you declare compliance with mandatory periodic verification requirements, including registration with the competent authority?"
+697a525b010000d200f5046a,,197557,question,responseOption1,50551,form,Yes
+697a525b010000d200f5046a,,197557,question,responseOption2,50551,form,No
+697a525b010000d200f5046a,,197557,question,responseOption3,50551,form,Not Applicable
+697a52950100006200f5046d,,197558,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Article 71 Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>"
+697a52950100006200f5046d,,197558,question,questionText,50551,form,Do you confirm that equipment supplied is within inspection validity periods at the time of supply?
+697a52950100006200f5046d,,197558,question,responseOption1,50551,form,Yes
+697a52950100006200f5046d,,197558,question,responseOption2,50551,form,No
+697a52950100006200f5046d,,197558,question,responseOption3,50551,form,Not Applicable
+697a52b2010000430047ed76,,197559,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>"
+697a52b2010000430047ed76,,197559,question,questionText,50551,form,Do you confirm that operating instructions and safety information are available for all equipment?
+697a52b2010000430047ed76,,197559,question,responseOption1,50551,form,Yes
+697a52b2010000430047ed76,,197559,question,responseOption2,50551,form,No
+697a52b2010000430047ed76,,197559,question,responseOption3,50551,form,Not Applicable
+697a52f1010000630047ed7a,,197560,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>"
+697a52f1010000630047ed7a,,197560,question,questionText,50551,form,"Do you declare that all equipment is supplied in good working order, free from known defects, complete with all required safety devices, guards and protective systems, and is suitable for its intended use?"
+697a52f1010000630047ed7a,,197560,question,responseOption1,50551,form,Yes
+697a52f1010000630047ed7a,,197560,question,responseOption2,50551,form,No
+697a52f1010000630047ed7a,,197560,question,responseOption3,50551,form,Not Applicable
+697a53120100003f00f5047a,,197561,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>"
+697a53120100003f00f5047a,,197561,question,questionText,50551,form,"Where applicable, do you declare compliance for scaffolding and temporary works?"
+697a53120100003f00f5047a,,197561,question,responseOption1,50551,form,Yes
+697a53120100003f00f5047a,,197561,question,responseOption2,50551,form,No
+697a53120100003f00f5047a,,197561,question,responseOption3,50551,form,Not Applicable
+697a5330010000d100f5047f,,197562,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>"
+697a5330010000d100f5047f,,197562,question,questionText,50551,form,"Do you confirm that any equipment supplied with operator is operated by personnel who are trained, informed and competent for the specific equipment and tasks involved?"
+697a5330010000d100f5047f,,197562,question,responseOption1,50551,form,Yes
+697a5330010000d100f5047f,,197562,question,responseOption2,50551,form,No
+697a5330010000d100f5047f,,197562,question,responseOption3,50551,form,Not Applicable
+697a5343010000430047ed7f,,197563,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Article 14 Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>\n"
+697a5343010000430047ed7f,,197563,question,questionText,50551,form,"Do you declare that your company is not subject to any suspension measures, nor to equivalent measures issued by competent authorities, and that no such conditions currently exist?"
+697a5343010000430047ed7f,,197563,question,responseOption1,50551,form,Yes
+697a5343010000430047ed7f,,197563,question,responseOption2,50551,form,No
+697a5343010000430047ed7f,,197563,question,responseOption3,50551,form,Not Applicable
+697a53900100004b0047ed81,,197564,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Annex XVII Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>"
+697a53900100004b0047ed81,,197564,question,questionText,50551,form,"Where applicable, do you declare that your company meets the documentation and suitability requirements set out, and that such documentation is maintained, valid and available upon reasonable request?"
+697a53900100004b0047ed81,,197564,question,responseOption1,50551,form,Yes
+697a53900100004b0047ed81,,197564,question,responseOption2,50551,form,No
+697a53900100004b0047ed81,,197564,question,responseOption3,50551,form,Not Applicable
+697a53c60100004a0047ed88,,197565,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>"
+697a53c60100004a0047ed88,,197565,question,questionText,50551,form,Do you commit to cooperate and coordinate with the client on safety matters?
+697a53c60100004a0047ed88,,197565,question,responseOption1,50551,form,Yes
+697a53c60100004a0047ed88,,197565,question,responseOption2,50551,form,No
+697a53c60100004a0047ed88,,197565,question,responseOption3,50551,form,Not Applicable
+697a53e00100004300f50485,,197566,question,description,50551,form,"<a href=""https://www.gazzettaufficiale.it/eli/id/2008/04/30/008G0104/s""target=""_blank"">Legislative Decree 81 - Consolidated Act on Health & Safety at Work</a>"
+697a53e00100004300f50485,,197566,question,questionText,50551,form,Do you declare ongoing compliance and a duty to notify the client of safety-relevant changes?
+697a53e00100004300f50485,,197566,question,responseOption1,50551,form,Yes
+697a53e00100004300f50485,,197566,question,responseOption2,50551,form,No
+697a53e00100004300f50485,,197566,question,responseOption3,50551,form,Not Applicable
+697a53fb0100003f0047ed8a,,197567,question,questionText,50551,form,If you have answered 'Not Applicable' to any question please explain why:
+697a5414010000630047ed8c,,197568,question,questionText,50551,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Italian legislation."

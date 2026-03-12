@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec5e0100004a00a47363,5d362fa4360000a7bcd34b01,26977,questionGroup,questionGroupText,26977,form,Wyoming Contractor License
+5d5c3e143400005136624894,5d363001340000a7bc844e61,26979,questionGroup,questionGroupText,26977,form,Wyoming Contractor License
+5d363012360000a7bcd34b8b,,84728,question,description,26977,form,"Wyoming Department of Workforce Services – State, County or City Specific"
+5d363012360000a7bcd34b8b,,84728,question,questionText,26977,form,Wyoming Contractor License Number: \n\n
+5d363059340000a7bc844e8f,,84733,question,description,26977,form,"Wyoming Department of Workforce Services – State, County or City Specific"
+5d363059340000a7bc844e8f,,84733,question,questionText,26977,form,Wyoming Contractor License Classifications:
+5d3630a7390000a7bc5f3780,,84736,question,description,26977,form,A URL will make verification quicker if provided
+5d3630a7390000a7bc5f3780,,84736,question,questionText,26977,form,"Upload a copy of your license, and or provide the URL of the license."
+5d3630a7390000a7bc5f3780,,84736,question,responseOption1,26977,form,File Upload
+5d3630a7390000a7bc5f3780,,84736,question,responseOption2,26977,form,URL
+5d3630d0340000a7bc844ed0,,84738,question,questionText,26977,form,Please upload a copy of your Wyoming license:
+5d3630ef390000a7bc5f37ac,,84741,question,questionText,26977,form,Please enter the URL of the license:
+5d363428350000b8287306dd,,84747,question,questionText,26977,form,Wyoming License Expiration Date:

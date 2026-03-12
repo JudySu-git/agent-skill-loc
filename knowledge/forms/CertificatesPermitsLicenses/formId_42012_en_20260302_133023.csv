@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce48190100004e00ebe502,662fe5aa1b00003200b6e5a1,42012,questionGroup,description,42012,form,You are getting this category because you selected a license in the Avetta PQF - Northern Territory License.
+66ce48190100004e00ebe502,662fe5aa1b00003200b6e5a1,42012,questionGroup,questionGroupText,42012,form,Northern Territory Contractor License - Pest Management
+662fe5aa1b00002f00b6e5a2,,153342,question,questionText,42012,form,Please upload your license:\n
+662fe5aa1b00002f00b6e5a2,,153342,question,responseOption1,42012,form,Yes
+662fe5aa1b00002f00b6e5a2,,153342,question,responseOption2,42012,form,No
+662fe5aa1b00003100b6e5a3,,153343,question,questionText,42012,form,Expiration Date:
+662fe5aa1b00003100b6e5a3,,153343,question,responseOption1,42012,form,Yes
+662fe5aa1b00003100b6e5a3,,153343,question,responseOption2,42012,form,No
+662fe5aa1b00005e00b6e5a4,,153344,question,questionText,42012,form,License Number:
+662fe5aa1b00005e00b6e5a4,,153344,question,responseOption1,42012,form,Yes
+662fe5aa1b00005e00b6e5a4,,153344,question,responseOption2,42012,form,No

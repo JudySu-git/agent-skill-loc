@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6920b6cf01000045001c905a,6920a07401000043001c8955,49166,questionGroup,description,49166,form,"If these requirements are applicable to your company, you will be asked to provide additional details in a subsequent form."
+6920b6cf01000045001c905a,6920a07401000043001c8955,49166,questionGroup,questionGroupText,49166,form,Spain Occupational Risk Prevention Services
+6920a0bd01000044001c899c,,189057,question,description,49166,form,"Employers are required to assess and prevent workplace risks and to implement preventive measures to protect workers’ health and safety. \n\n<a href=""https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/trabajo-jubilacion/seguridad-salud/prevencion-riesgos.html"" target=""blank"">Law 31 </a>\n\n<a href=""https://administracion.gob.es/pag_Home/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/trabajo-jubilacion/seguridad-salud/prevencion-riesgos.html"" target=""blank"">Royal Decree 39</a>\n\n<a href=""https://www.boe.es/buscar/act.php?id=BOE-A-2004-1848"" target=""blank"">Royal Decree 171</a>"
+6920a0bd01000044001c899c,,189057,question,questionText,49166,form,What type of Occupational Risk Prevention Service does your company have?
+6920a0bd01000044001c899c,,189057,question,responseOption1,49166,form,External Prevention Service (SPA)
+6920a0bd01000044001c899c,,189057,question,responseOption2,49166,form,In-House Prevention Service (SPP)
+6920a0bd01000044001c899c,,189057,question,responseOption3,49166,form,Joint Prevention Service (SPM)
+6920a0bd01000044001c899c,,189057,question,responseOption4,49166,form,Not applicable
+6920a13201000043001c89a8,,189058,question,questionText,49166,form,Please select the reason why you do not have any Occupational Risk Prevention Service in place:
+6920a13201000043001c89a8,,189058,question,responseOption1,49166,form,Owner operator with no employees in Spain
+6920a13201000043001c89a8,,189058,question,responseOption2,49166,form,Foreign company with no employees in Spain
+6920a13201000043001c89a8,,189058,question,responseOption3,49166,form,Other
+6920a14701000046001c89ad,,189059,question,questionText,49166,form,Please explain the reason why this requirement does not apply to you:
+6920a15601000064001c89b0,,189060,question,questionText,49166,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Spanish legislation."

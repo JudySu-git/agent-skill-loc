@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+694afb280100005101ee36d5,662feb101b00002f00b6e5bb,42015,questionGroup,description,42015,form,You are getting this category because you selected that you have a license in the Avetta PQF - Australia Contractor License.
+694afb280100005101ee36d5,662feb101b00002f00b6e5bb,42015,questionGroup,questionGroupText,42015,form,Avetta PQF - Queensland License
+694af6700100004300ee36c5,,194236,question,questionText,42015,form,Please select all of the licenses your company currently maintains:
+694af6700100004300ee36c5,,194236,question,responseOption1,42015,form,Builders
+694af6700100004300ee36c5,,194236,question,responseOption10,42015,form,Security Master
+694af6700100004300ee36c5,,194236,question,responseOption2,42015,form,Class A: Asbestos Removal
+694af6700100004300ee36c5,,194236,question,responseOption3,42015,form,Class B: Asbestos Removal
+694af6700100004300ee36c5,,194236,question,responseOption4,42015,form,Drainers
+694af6700100004300ee36c5,,194236,question,responseOption5,42015,form,Electrical
+694af6700100004300ee36c5,,194236,question,responseOption6,42015,form,Fire
+694af6700100004300ee36c5,,194236,question,responseOption7,42015,form,Gas Fitting
+694af6700100004300ee36c5,,194236,question,responseOption8,42015,form,Transport Explosives and / or Security Sensitive Dangerous Substance
+694af6700100004300ee36c5,,194236,question,responseOption9,42015,form,Plumbing

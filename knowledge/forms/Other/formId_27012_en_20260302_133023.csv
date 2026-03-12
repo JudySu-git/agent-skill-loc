@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+60706ea84500009d89bc209c,5d3756983500002f3cacf37e,27012,questionGroup,description,27012,form,This policy was triggered by the Avetta PQF - Workers' Compensation Questionnaire 
+60706ea84500009d89bc209c,5d3756983500002f3cacf37e,27012,questionGroup,questionGroupText,27012,form,Ohio Workers' Compensation
+60706e644500009d89bc1999,5d3756ba360000b66a8e35fb,27013,questionGroup,questionGroupText,27012,form,Policy Information
+5d3756c7330000b828a689c2,,84863,question,questionText,27012,form,Date of Commencement: 
+5d37571b360000b66a8e3919,,84864,question,questionText,27012,form,Expiration Date:
+5d37572a330000b828a689e9,,84865,question,questionText,27012,form,Please Upload Ohio Workers' Compensation Certificate 
+60706e624500009d89bc1992,,108637,question,description,27012,form,Used to provide instructions from Client
+60706e624500009d89bc1992,,108637,question,questionText,27012,form,Comments
+60706e734500009d89bc19f8,,108638,question,description,27012,form,Date the instructions from Client expire
+60706e734500009d89bc19f8,,108638,question,questionText,27012,form,VARIANCE Expiration Date

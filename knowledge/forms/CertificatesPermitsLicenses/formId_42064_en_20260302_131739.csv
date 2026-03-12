@@ -1,0 +1,19 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce42a10100003700ebdf09,66302c7c1b00005d00b6e86a,42064,questionGroup,description,42064,form,You are getting this category because you selected that you have a license in the Avetta PQF - Australia Contractor License.
+66ce42a10100003700ebdf09,66302c7c1b00005d00b6e86a,42064,questionGroup,questionGroupText,42064,form,Avetta PQF - Western Australia License
+66302c7c1b00002e00b6e86b,,153495,question,questionText,42064,form,Please select all of the licenses your company currently maintains:
+66302c7c1b00002e00b6e86b,,153495,question,responseOption1,42064,form,Builders
+66302c7c1b00002e00b6e86b,,153495,question,responseOption10,42064,form,Transport Explosives and / or Security Sensitive Dangerous Substance
+66302c7c1b00002e00b6e86b,,153495,question,responseOption11,42064,form,Pest Management
+66302c7c1b00002e00b6e86b,,153495,question,responseOption12,42064,form,Plumbing
+66302c7c1b00002e00b6e86b,,153495,question,responseOption13,42064,form,Security Master
+66302c7c1b00002e00b6e86b,,153495,question,responseOption14,42064,form,Waste
+66302c7c1b00002e00b6e86b,,153495,question,responseOption15,42064,form,Waste
+66302c7c1b00002e00b6e86b,,153495,question,responseOption2,42064,form,Class A: Asbestos Removal
+66302c7c1b00002e00b6e86b,,153495,question,responseOption3,42064,form,Class B: Asbestos Removal
+66302c7c1b00002e00b6e86b,,153495,question,responseOption4,42064,form,Electrical
+66302c7c1b00002e00b6e86b,,153495,question,responseOption5,42064,form,Transport Explosives and / or Security Sensitive Dangerous Substance
+66302c7c1b00002e00b6e86b,,153495,question,responseOption6,42064,form,Pest Management
+66302c7c1b00002e00b6e86b,,153495,question,responseOption7,42064,form,Plumbing
+66302c7c1b00002e00b6e86b,,153495,question,responseOption8,42064,form,Radiation
+66302c7c1b00002e00b6e86b,,153495,question,responseOption9,42064,form,Security Master

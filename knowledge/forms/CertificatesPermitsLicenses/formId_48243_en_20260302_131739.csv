@@ -1,0 +1,201 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68ed72ca0100003500d5b743,68e955cf01000059000c9b66,48243,questionGroup,questionGroupText,48243,form,Italy Chamber of Commerce Certificate Applicability Assessment
+68e9565c0100003c00d5b238,,184172,question,description,48243,form,"<a href = ""https://www.registroimprese.it/dettaglio-ricerca-gratuita""target=""_BLANK_"">Dettaglio Ricerca Gratuita | Registro Imprese</a> "
+68e9565c0100003c00d5b238,,184172,question,questionText,48243,form,Is your company registered with the Italian Chamber of Commerce?
+68e9565c0100003c00d5b238,,184172,question,responseOption1,48243,form,Yes
+68e9565c0100003c00d5b238,,184172,question,responseOption2,48243,form,No
+68e957520100003a000c9b7f,,184173,question,questionText,48243,form,Please select one of the below options:
+68e957520100003a000c9b7f,,184173,question,responseOption1,48243,form,My company is based in a different country
+68e957520100003a000c9b7f,,184173,question,responseOption2,48243,form,Other
+68e957ab0100005c00d5b245,,184175,question,questionText,48243,form,Please explain:
+68e975af0100004200d5b2a6,,184180,question,questionText,48243,form,Please enter your company’s home country:
+68e975af0100004200d5b2a6,,184180,question,responseOption1,48243,form,Angola
+68e975af0100004200d5b2a6,,184180,question,responseOption10,48243,form,Brazil
+68e975af0100004200d5b2a6,,184180,question,responseOption100,48243,form,Bosnia and Herzegovina
+68e975af0100004200d5b2a6,,184180,question,responseOption101,48243,form,Burkina Faso
+68e975af0100004200d5b2a6,,184180,question,responseOption102,48243,form,Burundi
+68e975af0100004200d5b2a6,,184180,question,responseOption103,48243,form,Cabo Verde
+68e975af0100004200d5b2a6,,184180,question,responseOption104,48243,form,Cambodia
+68e975af0100004200d5b2a6,,184180,question,responseOption105,48243,form,Central African Republic
+68e975af0100004200d5b2a6,,184180,question,responseOption106,48243,form,Chad
+68e975af0100004200d5b2a6,,184180,question,responseOption107,48243,form,Comoros
+68e975af0100004200d5b2a6,,184180,question,responseOption108,48243,form,Congo
+68e975af0100004200d5b2a6,,184180,question,responseOption109,48243,form,Cuba
+68e975af0100004200d5b2a6,,184180,question,responseOption11,48243,form,Brunei
+68e975af0100004200d5b2a6,,184180,question,responseOption110,48243,form,Cyprus
+68e975af0100004200d5b2a6,,184180,question,responseOption111,48243,form,Democratic People's Republic of Korea
+68e975af0100004200d5b2a6,,184180,question,responseOption112,48243,form,Democratic Republic of the Congo
+68e975af0100004200d5b2a6,,184180,question,responseOption113,48243,form,Djibouti
+68e975af0100004200d5b2a6,,184180,question,responseOption114,48243,form,Dominica
+68e975af0100004200d5b2a6,,184180,question,responseOption115,48243,form,Equatorial Guinea
+68e975af0100004200d5b2a6,,184180,question,responseOption116,48243,form,Eritrea
+68e975af0100004200d5b2a6,,184180,question,responseOption117,48243,form,Eswatini
+68e975af0100004200d5b2a6,,184180,question,responseOption118,48243,form,Ethiopia
+68e975af0100004200d5b2a6,,184180,question,responseOption119,48243,form,Fiji
+68e975af0100004200d5b2a6,,184180,question,responseOption12,48243,form,Bulgaria
+68e975af0100004200d5b2a6,,184180,question,responseOption120,48243,form,Gabon
+68e975af0100004200d5b2a6,,184180,question,responseOption121,48243,form,Gambia
+68e975af0100004200d5b2a6,,184180,question,responseOption122,48243,form,Georgia
+68e975af0100004200d5b2a6,,184180,question,responseOption123,48243,form,Grenada
+68e975af0100004200d5b2a6,,184180,question,responseOption124,48243,form,Guinea
+68e975af0100004200d5b2a6,,184180,question,responseOption125,48243,form,Guinea-Bissau
+68e975af0100004200d5b2a6,,184180,question,responseOption126,48243,form,Guyana
+68e975af0100004200d5b2a6,,184180,question,responseOption127,48243,form,Iceland
+68e975af0100004200d5b2a6,,184180,question,responseOption128,48243,form,Iran
+68e975af0100004200d5b2a6,,184180,question,responseOption129,48243,form,Kazakhstan
+68e975af0100004200d5b2a6,,184180,question,responseOption13,48243,form,Cameroon
+68e975af0100004200d5b2a6,,184180,question,responseOption130,48243,form,Kiribati
+68e975af0100004200d5b2a6,,184180,question,responseOption131,48243,form,Kuwait
+68e975af0100004200d5b2a6,,184180,question,responseOption132,48243,form,Kyrgyzstan
+68e975af0100004200d5b2a6,,184180,question,responseOption133,48243,form,Laos
+68e975af0100004200d5b2a6,,184180,question,responseOption134,48243,form,Lebanon
+68e975af0100004200d5b2a6,,184180,question,responseOption135,48243,form,Lesotho
+68e975af0100004200d5b2a6,,184180,question,responseOption136,48243,form,Liberia
+68e975af0100004200d5b2a6,,184180,question,responseOption137,48243,form,Libya
+68e975af0100004200d5b2a6,,184180,question,responseOption138,48243,form,Liechtenstein
+68e975af0100004200d5b2a6,,184180,question,responseOption139,48243,form,Madagascar
+68e975af0100004200d5b2a6,,184180,question,responseOption14,48243,form,Canada
+68e975af0100004200d5b2a6,,184180,question,responseOption141,48243,form,Malawi
+68e975af0100004200d5b2a6,,184180,question,responseOption142,48243,form,Maldives
+68e975af0100004200d5b2a6,,184180,question,responseOption143,48243,form,Mali
+68e975af0100004200d5b2a6,,184180,question,responseOption144,48243,form,Malta
+68e975af0100004200d5b2a6,,184180,question,responseOption145,48243,form,Marshall Islands
+68e975af0100004200d5b2a6,,184180,question,responseOption146,48243,form,Mauritania
+68e975af0100004200d5b2a6,,184180,question,responseOption147,48243,form,Micronesia
+68e975af0100004200d5b2a6,,184180,question,responseOption148,48243,form,Moldova
+68e975af0100004200d5b2a6,,184180,question,responseOption149,48243,form,Monaco
+68e975af0100004200d5b2a6,,184180,question,responseOption15,48243,form,Chile
+68e975af0100004200d5b2a6,,184180,question,responseOption150,48243,form,Mongolia
+68e975af0100004200d5b2a6,,184180,question,responseOption151,48243,form,Montenegro
+68e975af0100004200d5b2a6,,184180,question,responseOption152,48243,form,Morocco
+68e975af0100004200d5b2a6,,184180,question,responseOption153,48243,form,Myanmar
+68e975af0100004200d5b2a6,,184180,question,responseOption154,48243,form,Nauru
+68e975af0100004200d5b2a6,,184180,question,responseOption155,48243,form,Niger
+68e975af0100004200d5b2a6,,184180,question,responseOption156,48243,form,North Macedonia
+68e975af0100004200d5b2a6,,184180,question,responseOption157,48243,form,Palau
+68e975af0100004200d5b2a6,,184180,question,responseOption158,48243,form,Palestine
+68e975af0100004200d5b2a6,,184180,question,responseOption159,48243,form,Russia
+68e975af0100004200d5b2a6,,184180,question,responseOption16,48243,form,China
+68e975af0100004200d5b2a6,,184180,question,responseOption160,48243,form,Rwanda
+68e975af0100004200d5b2a6,,184180,question,responseOption161,48243,form,Saint Kitts and Nevis
+68e975af0100004200d5b2a6,,184180,question,responseOption162,48243,form,Saint Lucia
+68e975af0100004200d5b2a6,,184180,question,responseOption163,48243,form,Saint Vincent and the Grenadines
+68e975af0100004200d5b2a6,,184180,question,responseOption164,48243,form,San Marino
+68e975af0100004200d5b2a6,,184180,question,responseOption165,48243,form,Sao Tome and Principe
+68e975af0100004200d5b2a6,,184180,question,responseOption166,48243,form,Senegal
+68e975af0100004200d5b2a6,,184180,question,responseOption169,48243,form,Serbia
+68e975af0100004200d5b2a6,,184180,question,responseOption17,48243,form,Colombia
+68e975af0100004200d5b2a6,,184180,question,responseOption170,48243,form,Seychelles
+68e975af0100004200d5b2a6,,184180,question,responseOption171,48243,form,Sierra Leone
+68e975af0100004200d5b2a6,,184180,question,responseOption172,48243,form,Slovenia
+68e975af0100004200d5b2a6,,184180,question,responseOption173,48243,form,Solomon Islands
+68e975af0100004200d5b2a6,,184180,question,responseOption174,48243,form,Somalia
+68e975af0100004200d5b2a6,,184180,question,responseOption175,48243,form,Sudan
+68e975af0100004200d5b2a6,,184180,question,responseOption176,48243,form,Suriname
+68e975af0100004200d5b2a6,,184180,question,responseOption177,48243,form,Syria
+68e975af0100004200d5b2a6,,184180,question,responseOption178,48243,form,Tajikistan
+68e975af0100004200d5b2a6,,184180,question,responseOption179,48243,form,Timor-Leste
+68e975af0100004200d5b2a6,,184180,question,responseOption18,48243,form,Costa Rica
+68e975af0100004200d5b2a6,,184180,question,responseOption180,48243,form,Togo
+68e975af0100004200d5b2a6,,184180,question,responseOption181,48243,form,Tonga
+68e975af0100004200d5b2a6,,184180,question,responseOption182,48243,form,Trinidad and Tobago
+68e975af0100004200d5b2a6,,184180,question,responseOption183,48243,form,Tunisia
+68e975af0100004200d5b2a6,,184180,question,responseOption184,48243,form,Turkmenistan
+68e975af0100004200d5b2a6,,184180,question,responseOption185,48243,form,Tuvalu
+68e975af0100004200d5b2a6,,184180,question,responseOption186,48243,form,Uganda
+68e975af0100004200d5b2a6,,184180,question,responseOption187,48243,form,United States of America
+68e975af0100004200d5b2a6,,184180,question,responseOption188,48243,form,Vanuatu
+68e975af0100004200d5b2a6,,184180,question,responseOption189,48243,form,Vatican City
+68e975af0100004200d5b2a6,,184180,question,responseOption19,48243,form,Czechia
+68e975af0100004200d5b2a6,,184180,question,responseOption190,48243,form,Venezuela
+68e975af0100004200d5b2a6,,184180,question,responseOption191,48243,form,Zambia
+68e975af0100004200d5b2a6,,184180,question,responseOption192,48243,form,Zimbabwe
+68e975af0100004200d5b2a6,,184180,question,responseOption193,48243,form,Croatia
+68e975af0100004200d5b2a6,,184180,question,responseOption2,48243,form,Argentina
+68e975af0100004200d5b2a6,,184180,question,responseOption20,48243,form,Denmark
+68e975af0100004200d5b2a6,,184180,question,responseOption21,48243,form,Dominican Republic
+68e975af0100004200d5b2a6,,184180,question,responseOption22,48243,form,Ecuador
+68e975af0100004200d5b2a6,,184180,question,responseOption23,48243,form,Egypt
+68e975af0100004200d5b2a6,,184180,question,responseOption24,48243,form,El Salvador
+68e975af0100004200d5b2a6,,184180,question,responseOption25,48243,form,Finland
+68e975af0100004200d5b2a6,,184180,question,responseOption26,48243,form,France
+68e975af0100004200d5b2a6,,184180,question,responseOption27,48243,form,Germany
+68e975af0100004200d5b2a6,,184180,question,responseOption28,48243,form,Ghana
+68e975af0100004200d5b2a6,,184180,question,responseOption29,48243,form,Greece
+68e975af0100004200d5b2a6,,184180,question,responseOption3,48243,form,Armenia
+68e975af0100004200d5b2a6,,184180,question,responseOption30,48243,form,Guatemala
+68e975af0100004200d5b2a6,,184180,question,responseOption31,48243,form,Haiti
+68e975af0100004200d5b2a6,,184180,question,responseOption32,48243,form,Honduras
+68e975af0100004200d5b2a6,,184180,question,responseOption33,48243,form,Hong Kong
+68e975af0100004200d5b2a6,,184180,question,responseOption34,48243,form,Hungary
+68e975af0100004200d5b2a6,,184180,question,responseOption35,48243,form,India
+68e975af0100004200d5b2a6,,184180,question,responseOption36,48243,form,Indonesia
+68e975af0100004200d5b2a6,,184180,question,responseOption37,48243,form,Iraq
+68e975af0100004200d5b2a6,,184180,question,responseOption38,48243,form,Israel
+68e975af0100004200d5b2a6,,184180,question,responseOption39,48243,form,Italy
+68e975af0100004200d5b2a6,,184180,question,responseOption4,48243,form,Australia
+68e975af0100004200d5b2a6,,184180,question,responseOption40,48243,form,Ivory Coast
+68e975af0100004200d5b2a6,,184180,question,responseOption41,48243,form,Japan
+68e975af0100004200d5b2a6,,184180,question,responseOption42,48243,form,Jordan
+68e975af0100004200d5b2a6,,184180,question,responseOption43,48243,form,Kenya
+68e975af0100004200d5b2a6,,184180,question,responseOption44,48243,form,Lithuania
+68e975af0100004200d5b2a6,,184180,question,responseOption45,48243,form,Luxembourg
+68e975af0100004200d5b2a6,,184180,question,responseOption46,48243,form,Macao
+68e975af0100004200d5b2a6,,184180,question,responseOption47,48243,form,Malaysia
+68e975af0100004200d5b2a6,,184180,question,responseOption48,48243,form,Mauritius
+68e975af0100004200d5b2a6,,184180,question,responseOption49,48243,form,Mexico
+68e975af0100004200d5b2a6,,184180,question,responseOption5,48243,form,Austria
+68e975af0100004200d5b2a6,,184180,question,responseOption50,48243,form,Nepal
+68e975af0100004200d5b2a6,,184180,question,responseOption51,48243,form,Netherlands
+68e975af0100004200d5b2a6,,184180,question,responseOption52,48243,form,New Zealand
+68e975af0100004200d5b2a6,,184180,question,responseOption53,48243,form,Nicaragua
+68e975af0100004200d5b2a6,,184180,question,responseOption54,48243,form,Nigeria
+68e975af0100004200d5b2a6,,184180,question,responseOption55,48243,form,Norway
+68e975af0100004200d5b2a6,,184180,question,responseOption56,48243,form,Oman
+68e975af0100004200d5b2a6,,184180,question,responseOption57,48243,form,Pakistan
+68e975af0100004200d5b2a6,,184180,question,responseOption58,48243,form,Panama
+68e975af0100004200d5b2a6,,184180,question,responseOption59,48243,form,Papua New Guinea
+68e975af0100004200d5b2a6,,184180,question,responseOption6,48243,form,Bahrain
+68e975af0100004200d5b2a6,,184180,question,responseOption60,48243,form,Paraguay
+68e975af0100004200d5b2a6,,184180,question,responseOption61,48243,form,Peru
+68e975af0100004200d5b2a6,,184180,question,responseOption62,48243,form,Philippines
+68e975af0100004200d5b2a6,,184180,question,responseOption63,48243,form,Poland
+68e975af0100004200d5b2a6,,184180,question,responseOption64,48243,form,Portugal
+68e975af0100004200d5b2a6,,184180,question,responseOption65,48243,form,Qatar
+68e975af0100004200d5b2a6,,184180,question,responseOption66,48243,form,Ireland
+68e975af0100004200d5b2a6,,184180,question,responseOption67,48243,form,Romania
+68e975af0100004200d5b2a6,,184180,question,responseOption68,48243,form,Saudi Arabia
+68e975af0100004200d5b2a6,,184180,question,responseOption69,48243,form,Singapore
+68e975af0100004200d5b2a6,,184180,question,responseOption7,48243,form,Bangladesh
+68e975af0100004200d5b2a6,,184180,question,responseOption70,48243,form,Slovakia
+68e975af0100004200d5b2a6,,184180,question,responseOption71,48243,form,South Africa
+68e975af0100004200d5b2a6,,184180,question,responseOption72,48243,form,South Korea
+68e975af0100004200d5b2a6,,184180,question,responseOption73,48243,form,South Sudan
+68e975af0100004200d5b2a6,,184180,question,responseOption74,48243,form,Spain
+68e975af0100004200d5b2a6,,184180,question,responseOption75,48243,form,Sri Lanka
+68e975af0100004200d5b2a6,,184180,question,responseOption76,48243,form,Sweden
+68e975af0100004200d5b2a6,,184180,question,responseOption77,48243,form,Switzerland
+68e975af0100004200d5b2a6,,184180,question,responseOption78,48243,form,Taiwan
+68e975af0100004200d5b2a6,,184180,question,responseOption79,48243,form,Tanzania
+68e975af0100004200d5b2a6,,184180,question,responseOption8,48243,form,Belgium
+68e975af0100004200d5b2a6,,184180,question,responseOption80,48243,form,Thailand
+68e975af0100004200d5b2a6,,184180,question,responseOption81,48243,form,Türkiye
+68e975af0100004200d5b2a6,,184180,question,responseOption82,48243,form,United Arab Emirates
+68e975af0100004200d5b2a6,,184180,question,responseOption83,48243,form,United Kingdom
+68e975af0100004200d5b2a6,,184180,question,responseOption84,48243,form,Uruguay
+68e975af0100004200d5b2a6,,184180,question,responseOption85,48243,form,Ukraine
+68e975af0100004200d5b2a6,,184180,question,responseOption86,48243,form,Vietnam
+68e975af0100004200d5b2a6,,184180,question,responseOption87,48243,form,Afghanistan
+68e975af0100004200d5b2a6,,184180,question,responseOption88,48243,form,Albania
+68e975af0100004200d5b2a6,,184180,question,responseOption89,48243,form,Algeria
+68e975af0100004200d5b2a6,,184180,question,responseOption9,48243,form,Bolivia
+68e975af0100004200d5b2a6,,184180,question,responseOption90,48243,form,Andorra
+68e975af0100004200d5b2a6,,184180,question,responseOption91,48243,form,Antigua and Barbuda
+68e975af0100004200d5b2a6,,184180,question,responseOption92,48243,form,Azerbaijan
+68e975af0100004200d5b2a6,,184180,question,responseOption93,48243,form,Bahamas
+68e975af0100004200d5b2a6,,184180,question,responseOption94,48243,form,Barbados
+68e975af0100004200d5b2a6,,184180,question,responseOption95,48243,form,Belarus
+68e975af0100004200d5b2a6,,184180,question,responseOption96,48243,form,Belize
+68e975af0100004200d5b2a6,,184180,question,responseOption97,48243,form,Benin
+68e975af0100004200d5b2a6,,184180,question,responseOption98,48243,form,Bhutan
+68e975af0100004200d5b2a6,,184180,question,responseOption99,48243,form,Botswana

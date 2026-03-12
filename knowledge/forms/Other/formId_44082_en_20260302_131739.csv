@@ -1,0 +1,27 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+673e68b00100008f00a815c1,673e30af0100006b0179d90e,44082,questionGroup,questionGroupText,44082,form,Omaha Public Power Corrective Action Plan Variance Form
+673e30af010000490079d90f,673e30af010000490079d90f,44083,questionGroup,questionGroupText,44082,form,Omaha Public Power Corrective Action Plan
+673e30af0100006c0179d910,,162303,question,questionText,44082,form,Date Corrective Action Plan completed:
+673e30af0100006c0179d910,,162303,question,responseOption1,44082,form,Yes
+673e30af0100006c0179d910,,162303,question,responseOption2,44082,form,No
+673e30af0100004b0079d914,,162304,question,questionText,44082,form,Contractor Type of Work:
+673e30af0100004b0079d914,,162304,question,responseOption1,44082,form,Yes
+673e30af0100004b0079d914,,162304,question,responseOption2,44082,form,No
+673e30af0100006c0179d911,,162305,question,questionText,44082,form,Describe current deficiencies/Incidents that necessitated development of Corrective Action/Recovery Plan:
+673e30af0100006c0179d911,,162305,question,responseOption1,44082,form,Yes
+673e30af0100006c0179d911,,162305,question,responseOption2,44082,form,No
+673e30af010000310079d915,,162306,question,questionText,44082,form,Safety Corrective Action/Recovery Plan to prevent recurrence:
+673e30af010000310079d915,,162306,question,responseOption1,44082,form,Yes
+673e30af010000310079d915,,162306,question,responseOption2,44082,form,No
+673e30af010000310079d912,,162307,question,questionText,44082,form,Please attach any supplemental documentation:
+673e30af010000310079d912,,162307,question,responseOption1,44082,form,Yes
+673e30af010000310079d912,,162307,question,responseOption2,44082,form,No
+673e30af0100004b0079d913,,162308,question,questionText,44082,form,Safety Manager Contact Information:
+673e30af0100004b0079d913,,162308,question,responseOption1,44082,form,Yes
+673e30af0100004b0079d913,,162308,question,responseOption2,44082,form,No
+673e30af0100006c0179d916,,162309,question,questionText,44082,form,"By signing below, you confirm that the above is true and correct:"
+673e30af0100006c0179d916,,162309,question,responseOption1,44082,form,Yes
+673e30af0100006c0179d916,,162309,question,responseOption2,44082,form,No
+673e30af0100006c0179d917,,162310,question,questionText,44082,form,Contractor Safety Manager Name:
+673e30af0100006c0179d917,,162310,question,responseOption1,44082,form,Yes
+673e30af0100006c0179d917,,162310,question,responseOption2,44082,form,No

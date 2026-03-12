@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4cf9010000330021f9b8,663014401a0000600045d4bf,42057,questionGroup,description,42057,form,You are getting this category because you selected a license in the Avetta PQF - Victoria License.
+66ce4cf9010000330021f9b8,663014401a0000600045d4bf,42057,questionGroup,questionGroupText,42057,form,Victoria Contractor License - Transport Explosives and / or Security Sensitive Dangerous Substance
+663014401a0000630045d4c0,,153472,question,questionText,42057,form,License Number:
+663014401a0000630045d4c0,,153472,question,responseOption1,42057,form,Yes
+663014401a0000630045d4c0,,153472,question,responseOption2,42057,form,No
+663014401a00002e0045d4c1,,153473,question,questionText,42057,form,Expiration Date:
+663014401a00002e0045d4c1,,153473,question,responseOption1,42057,form,Yes
+663014401a00002e0045d4c1,,153473,question,responseOption2,42057,form,No
+663014401a00002e0045d4c2,,153474,question,questionText,42057,form,Please upload your license:\n
+663014401a00002e0045d4c2,,153474,question,responseOption1,42057,form,Yes
+663014401a00002e0045d4c2,,153474,question,responseOption2,42057,form,No

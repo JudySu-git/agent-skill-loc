@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68bf41e40100003a009bb31a,68bf41bc010000ea000149a7,47570,questionGroup,questionGroupText,47570,form,Vantage Data Centers Insurance Billing
+68bf41bc01000041000149a8,,180348,question,questionText,47570,form,Insurance Pending
+68bf41bc01000041000149a8,,180348,question,responseOption1,47570,form,Yes
+68bf41bc01000041000149a8,,180348,question,responseOption2,47570,form,No

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61324f38470000efa7f8025b,61324dc5480000bdbda01e08,33806,questionGroup,questionGroupText,33806,form,ASB - Asbestos Certification
+61324dc5480000bdbda01e09,,114532,question,questionText,33806,form,Contractor License Classifications:
+61324dc5480000bdbda01e0a,,114533,question,questionText,33806,form,Expiration Date:
+61324dc5480000bdbda01e0b,,114534,question,description,33806,form,A URL will make verification quicker if provided.
+61324dc5480000bdbda01e0b,,114534,question,questionText,33806,form,"Upload a copy of your license, and or provide the URL of the license."
+61324dc5480000bdbda01e0b,,114534,question,responseOption1,33806,form,File Upload
+61324dc5480000bdbda01e0b,,114534,question,responseOption2,33806,form,URL
+61324dc5480000bdbda01e0c,,114535,question,questionText,33806,form,Please upload a copy of your license:
+61324dc5480000bdbda01e0d,,114536,question,questionText,33806,form,Please enter the URL of the license:
+61324dc5480000bdbda01e0e,,114537,question,description,33806,form,<a href='https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/CheckLicense.aspx' target='_BLANK'>CSLB</a>
+61324dc5480000bdbda01e0e,,114537,question,questionText,33806,form,Contractor License Number:

@@ -1,0 +1,10 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5e38b81536000064e4d3d886,5d9e0ad63500001d129ec98a,27499,questionGroup,questionGroupText,27499,form,FRA Part 243 Specific Form
+5d9e2da83500001d129ecaa7,,86839,question,questionText,27499,form,"Does your company have over 400,000 total employee work hours annually?"
+5d9e2da83500001d129ecaa7,,86839,question,responseOption1,27499,form,Yes
+5d9e2da83500001d129ecaa7,,86839,question,responseOption2,27499,form,No
+5d9e2dcb350000a79a5c52e0,,86840,question,questionText,27499,form,Has your company’s 49 CFR Part 243 training program been submitted to the FRA?
+5d9e2dcb350000a79a5c52e0,,86840,question,responseOption1,27499,form,Yes
+5d9e2dcb350000a79a5c52e0,,86840,question,responseOption2,27499,form,No
+5d9e2df0350000a79a5c52e1,,86841,question,questionText,27499,form,Enter the date the plan was submitted:
+5d9e2e2e330000d2ace5d9ba,,86842,question,questionText,27499,form,Upload a copy of the email from the FRA acknowledging receipt of submitted plan:

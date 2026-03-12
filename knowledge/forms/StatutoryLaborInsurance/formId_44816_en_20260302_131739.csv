@@ -1,0 +1,23 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67e42da0010000f300b47af5,67e18c230100004000c957e5,44816,questionGroup,questionGroupText,44816,form,Netherlands Statutory Insurance
+67e18cf801000057000e2904,67e18cf801000057000e2903,44817,questionGroup,questionGroupText,44816,form,Statutory Insurance
+67e18d1f0100003500c95844,67e18d1f0100003500c95843,44818,questionGroup,questionGroupText,44816,form,Insurance General
+67e18d3601000039000e2909,,166702,question,description,44816,form,"[Netherlands Tax Administration - See Chapter 7.1](https://www.belastingdienst.nl/wps/wcm/connect/nl/personeel-en-loon/personeel-en-loon)\nNote: If you are not established in the Netherlands, but you employ people who live or work in the Netherlands, you may have to withhold payroll taxes. In that case you must register as a foreign company with the Netherlands Tax Administration."
+67e18d3601000039000e2909,,166702,question,questionText,44816,form,Is your company required to pay contributions on behalf of your employees to the Netherlands Tax Administration (Belastingdienst)?
+67e18d3601000039000e2909,,166702,question,responseOption1,44816,form,Yes
+67e18d3601000039000e2909,,166702,question,responseOption2,44816,form,No
+67e18de601000057000e290b,,166703,question,questionText,44816,form,Please select an option:
+67e18de601000057000e290b,,166703,question,responseOption1,44816,form,The Company does not have any employees.
+67e18de601000057000e290b,,166703,question,responseOption2,44816,form,Other
+67e18de601000057000e290b,,166703,question,responseOption3,44816,form,The Company is not EU-based and does not employ any Netherlands based workers. We are prepared to show proof of home country insurance scheme upon request.
+67e18de601000057000e290b,,166703,question,responseOption4,44816,form,"The Company is EU-based, employees are not based in the Netherlands and are covered by the home country insurance scheme. We are prepared to provide a copy of the A1 certificate upon request."
+67e18e280100003b000e290d,,166704,question,questionText,44816,form,Please explain:
+67e18e280100003b000e290d,,166704,question,responseOption1,44816,form,Yes
+67e18e280100003b000e290d,,166704,question,responseOption2,44816,form,No
+67e18e550100003500c9584d,,166705,question,description,44816,form,Please ensure that no sensitive information is provided
+67e18e550100003500c9584d,,166705,question,questionText,44816,form,Please upload evidence of compliance / proof of payment:
+67e18e550100003500c9584d,,166705,question,responseOption1,44816,form,Yes
+67e18e550100003500c9584d,,166705,question,responseOption2,44816,form,No
+67e18e900100003f000e2914,,166706,question,questionText,44816,form,I confirm that I am an authorised signatory of the company and that the information and documentation provided is valid.
+67e18e900100003f000e2914,,166706,question,responseOption1,44816,form,Yes
+67e18e900100003f000e2914,,166706,question,responseOption2,44816,form,No

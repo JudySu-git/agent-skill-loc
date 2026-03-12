@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6621a9c41c00005f00fa1eee,6619c5bf1c0000330079d450,41848,questionGroup,description,41848,form,You are receiving this category because you selected LGBTQ+ Owned Business in the UK Supplier Diversity Questionnaire.
+6621a9c41c00005f00fa1eee,6619c5bf1c0000330079d450,41848,questionGroup,questionGroupText,41848,form,Avetta PQF - UK Supplier Diversity LGBTQ+ Owned Business
+6619c5bf1c0000290079d451,,152711,question,questionText,41848,form,Please upload any supporting documentation:
+6619c5bf1c0000290079d451,,152711,question,responseOption1,41848,form,Yes
+6619c5bf1c0000290079d451,,152711,question,responseOption2,41848,form,No
+6619c5bf1c0000320079d453,,152712,question,questionText,41848,form,Does this documentation have an expiration date?
+6619c5bf1c0000320079d453,,152712,question,responseOption1,41848,form,Yes
+6619c5bf1c0000320079d453,,152712,question,responseOption2,41848,form,No
+6619c5bf1c00002f0079d454,,152713,question,questionText,41848,form,Please provide the expiration date:
+6619c5bf1c00002f0079d454,,152713,question,responseOption1,41848,form,Yes
+6619c5bf1c00002f0079d454,,152713,question,responseOption2,41848,form,No
+6619c5bf1c0000290079d452,,152714,question,questionText,41848,form,Does your company have any documentation to provide to support your LGBTQ+ Owned Business status?
+6619c5bf1c0000290079d452,,152714,question,responseOption1,41848,form,Yes
+6619c5bf1c0000290079d452,,152714,question,responseOption2,41848,form,No

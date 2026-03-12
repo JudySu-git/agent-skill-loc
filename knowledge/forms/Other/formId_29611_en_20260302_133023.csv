@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5ea392c03500009d6b0dc69d,5e972c51320000c141dca3e6,29611,questionGroup,questionGroupText,29611,form,Road Transport (UK)
+5ea2ffe4350000acbcd364a7,5e972c8d340000dfb5cf3005,29612,questionGroup,questionGroupText,29611,form,Road Transport (UK)
+5e5f256e350000c7ea62d327,,91311,question,questionText,29611,form,Are your vehicles compliant with the London Direct Vision Standard?
+5e5f256e350000c7ea62d327,,91311,question,responseOption1,29611,form,Yes
+5e5f256e350000c7ea62d327,,91311,question,responseOption2,29611,form,No
+5e5f256e350000c7ea62d327,,91311,question,responseOption3,29611,form,N/A
+5e5f2584350000c7ea62d328,,91312,question,questionText,29611,form,"If Yes, please confirm the level of compliance:"
+5e5f2584350000c7ea62d328,,91312,question,responseOption1,29611,form,Fleet fully compliant
+5e5f2584350000c7ea62d328,,91312,question,responseOption2,29611,form,Fleet has partial compliance
+5e5f25e83500008b011994f6,,91313,question,questionText,29611,form,"If No, please confirm why you have answered in the manner you have:"

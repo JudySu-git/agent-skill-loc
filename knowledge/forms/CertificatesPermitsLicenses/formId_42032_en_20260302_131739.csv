@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4a0d0100002f0021f987,663007a01a00005e0045d42a,42032,questionGroup,description,42032,form,You are getting this category because you selected a license in the Avetta PQF - South Australia License.
+66ce4a0d0100002f0021f987,663007a01a00005e0045d42a,42032,questionGroup,questionGroupText,42032,form,South Australia Contractor License - Class B: Asbestos Removal
+663007a11a00002d0045d42c,,153401,question,questionText,42032,form,Expiration Date:
+663007a11a00002d0045d42c,,153401,question,responseOption1,42032,form,Yes
+663007a11a00002d0045d42c,,153401,question,responseOption2,42032,form,No
+663007a11a00002d0045d42b,,153402,question,questionText,42032,form,License Number:
+663007a11a00002d0045d42b,,153402,question,responseOption1,42032,form,Yes
+663007a11a00002d0045d42b,,153402,question,responseOption2,42032,form,No
+663007a11a00002c0045d42d,,153403,question,questionText,42032,form,Please upload your license:\n
+663007a11a00002c0045d42d,,153403,question,responseOption1,42032,form,Yes
+663007a11a00002c0045d42d,,153403,question,responseOption2,42032,form,No

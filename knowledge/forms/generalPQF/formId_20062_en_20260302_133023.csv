@@ -1,0 +1,51 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4f39dbf450494369692df45d,4f39dbf450494369692df45d,31,questionGroup,questionGroupText,20062,form,Driving/Vehicle Safety
+4365b2e0504943d4ad7df3b4,,608,question,questionText,20062,form,Does your company have a preventative maintenance program for company-owned equipment and vehicles?
+4365b2e0504943d4ad7df3b4,,608,question,responseOptionNA,20062,form,N/A
+4365b2e0504943d4ad7df3b4,,608,question,responseOptionNo,20062,form,No
+4365b2e0504943d4ad7df3b4,,608,question,responseOptionYes,20062,form,Yes
+42d742d0504943d7bacccb27,,609,question,questionText,20062,form,Please list the types of vehicles and equipment that are included.
+42d742d0504943bf04337f6b,,613,question,questionText,20062,form,Does your company have a policy/best practice on mobile phone usage while operating a motor vehicle?
+42d742d0504943bf04337f6b,,613,question,responseOptionNo,20062,form,No
+42d742d0504943bf04337f6b,,613,question,responseOptionYes,20062,form,Yes
+42d742d0504943ed07ae2558,,615,question,questionText,20062,form,How many of your vehicles are equipped with VDR's (Video Data Recorder)?
+4365b2e05049438fa5b3ca93,,616,question,questionText,20062,form,Does your company have a policy and program for managing driver fatigue?
+4365b2e05049438fa5b3ca93,,616,question,responseOptionNA,20062,form,N/A
+4365b2e05049438fa5b3ca93,,616,question,responseOptionNo,20062,form,No
+4365b2e05049438fa5b3ca93,,616,question,responseOptionYes,20062,form,Yes
+42d742d0504943d40418b8e0,,617,question,questionText,20062,form,Does your company have a policy requiring routine employee driver license checks?
+42d742d0504943d40418b8e0,,617,question,responseOptionNo,20062,form,No
+42d742d0504943d40418b8e0,,617,question,responseOptionYes,20062,form,Yes
+4365b2e0504943bf8d939977,,618,question,questionText,20062,form,Does your company require a 'spotter' when backing a vehicle?
+4365b2e0504943bf8d939977,,618,question,responseOptionNA,20062,form,N/A
+4365b2e0504943bf8d939977,,618,question,responseOptionNo,20062,form,No
+4365b2e0504943bf8d939977,,618,question,responseOptionYes,20062,form,Yes
+4365b2e0504943d370cf873e,,620,question,questionText,20062,form,Does your company have a formal driver training program?
+4365b2e0504943d370cf873e,,620,question,responseOptionNA,20062,form,N/A
+4365b2e0504943d370cf873e,,620,question,responseOptionNo,20062,form,No
+4365b2e0504943d370cf873e,,620,question,responseOptionYes,20062,form,Yes
+45346350504943202e8ca269,,1457,question,questionText,20062,form,Are all company vehicles or vehicles driven while performing work for your company equipped with airbags and/or seatbelts?
+45346350504943202e8ca269,,1457,question,responseOptionNA,20062,form,N/A
+45346350504943202e8ca269,,1457,question,responseOptionNo,20062,form,No
+45346350504943202e8ca269,,1457,question,responseOptionYes,20062,form,Yes
+4f6c31eb504943e5ed93d14a,,11140,question,questionText,20062,form,Do drivers conduct documented inspections of vehicles prior to use?
+4f6c31eb504943e5ed93d14a,,11140,question,responseOptionNo,20062,form,No
+4f6c31eb504943e5ed93d14a,,11140,question,responseOptionYes,20062,form,Yes
+5c182e6236000030e842e5b9,5ab038922b0000d33fd42405,20062,questionGroup,questionGroupText,20062,form,Avetta PQF - Driving / Vehicle Safety
+547c995e504943369752edec,,27382,question,questionText,20062,form,Does your company have a pre-employment screening program for new drivers?
+547c995e504943369752edec,,27382,question,responseOptionNo,20062,form,No
+547c995e504943369752edec,,27382,question,responseOptionYes,20062,form,Yes
+547cd3a45049438907434417,,27403,question,questionText,20062,form,"If yes, what is the frequency of the training?"
+547cd3a45049438907434417,,27403,question,responseOptionAnnually,20062,form,Annually
+547cd3a45049438907434417,,27403,question,responseOptionBi-Annually,20062,form,Bi-Annually
+547cd3a45049438907434417,,27403,question,responseOptionDaily,20062,form,Daily
+547cd3a45049438907434417,,27403,question,responseOptionEvery2Years,20062,form,Every 2 Years
+547cd3a45049438907434417,,27403,question,responseOptionEvery3Years,20062,form,Every 3 Years
+547cd3a45049438907434417,,27403,question,responseOptionMonthly,20062,form,Monthly
+547cd3a45049438907434417,,27403,question,responseOptionNotApplicable,20062,form,Not Applicable
+547cd3a45049438907434417,,27403,question,responseOptionOther,20062,form,Other
+547cd3a45049438907434417,,27403,question,responseOptionQuarterly,20062,form,Quarterly
+547cd3a45049438907434417,,27403,question,responseOptionWeekly,20062,form,Weekly
+547cda185049433ef21a3157,,27406,question,questionText,20062,form,"Does your company have a policy requiring that signs, stickers or labels are to be fitted in such a\r\nmanner that they do not obstruct the driver's vision or impede the driver's use of any controls?"
+547cda185049433ef21a3157,,27406,question,responseOptionNo,20062,form,No
+547cda185049433ef21a3157,,27406,question,responseOptionYes,20062,form,Yes

@@ -1,0 +1,21 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6983baec0100004600423cc1,4cb5a7885049431403680a16,168,questionGroup,questionGroupText,168,form,Nova Scotia WCB Experience Rating Statement
+62797e0d2e0000f8b6999297,4e1e19a35049431ab95cbf21,1815,questionGroup,questionGroupText,168,form,Nova Scotia (Workers' Compensation Board of Nova Scotia)
+4e1e19da5049433add9039fa,,8146,question,questionText,168,form,Nova Scotia WCB Experience Rating Statement \nUpload your most recent Experience Rating Statement.
+4e1e19f8504943308821fce3,,8147,question,questionText,168,form,Firm Number:
+4e1e1a2f504943f856a3bb18,,8148,question,questionText,168,form,Standard Industrial Classification (SIC) Code / Industry Group:
+4e1e1a5550494339a314fecd,,8149,question,questionText,168,form,Basic Industry Rate:
+4e1e1a6d5049439c10dd556f,,8150,question,questionText,168,form,Total Rate:
+4e1e23965049438e7a206217,,8151,question,questionText,168,form,The Experience Rating is:
+4e1e23965049438e7a206217,,8151,question,responseOptionA,168,form,Merit
+4e1e23965049438e7a206217,,8151,question,responseOptionB,168,form,Demerit
+4e1e23965049438e7a206217,,8151,question,responseOptionC,168,form,Equal to Industry Rate
+4e1e23965049438e7a206217,,8151,question,responseOptionD,168,form,Not Applicable
+585602f5504943d75b6e0f04,,43475,question,description,168,form,"(i.e.; owner/operator, sole proprietor. If yes, please ensure that they are covered under provincial workers compensation, unless exempted)"
+585602f5504943d75b6e0f04,,43475,question,questionText,168,form,Is the principle/owner of your company acting as an employee when performing work?
+585602f5504943d75b6e0f04,,43475,question,responseOptionNo,168,form,No
+585602f5504943d75b6e0f04,,43475,question,responseOptionYes,168,form,Yes
+60706fbf43000090e8636a92,,108644,question,description,168,form,Used to provide instructions from Client
+60706fbf43000090e8636a92,,108644,question,questionText,168,form,Comments
+60706fe243000090e8636ba0,,108646,question,description,168,form,Date the instructions from Client expire
+60706fe243000090e8636ba0,,108646,question,questionText,168,form,VARIANCE Expiration Date

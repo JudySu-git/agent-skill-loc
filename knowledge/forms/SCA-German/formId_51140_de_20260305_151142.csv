@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87731a36b6c4c6354667a,69a87731a36b6c4c63546679,51140,questionGroup,questionGroupText,51140,form,Construction - Concrete Equipment,
+69a87731a36b6c4c63546675,,199940,question,description,51140,form,"Mixing containers must be secured against falling before cleaning or maintenance, and brakes alone must not be relied upon.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 149(4)</a>",
+69a87731a36b6c4c63546675,,199940,question,questionText,51140,form,Mixer Container Securement,
+69a87731a36b6c4c63546676,,199941,question,description,51140,form,"Power supply isolation and restart prevention must be ensured during cleaning or internal work.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 149(5, 7)</a>",
+69a87731a36b6c4c63546676,,199941,question,questionText,51140,form,Energy Isolation Before Maintenance,
+69a87731a36b6c4c63546677,,199942,question,description,51140,form,"Specialized training and operational familiarity must be required for concrete spraying machine operators.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 149(6)</a>",
+69a87731a36b6c4c63546677,,199942,question,questionText,51140,form,Training,
+69a87731a36b6c4c63546678,,199943,question,questionText,51140,form,<div></div>,

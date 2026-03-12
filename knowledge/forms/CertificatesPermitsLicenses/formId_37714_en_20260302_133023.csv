@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+674df5c50100007000a411ac,63755023170000a5049990ed,37714,questionGroup,description,37714,form,"You are getting this category because you selected ISO 29001:2020 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for the a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+674df5c50100007000a411ac,63755023170000a5049990ed,37714,questionGroup,questionGroupText,37714,form,"ISO 29001 - Petroleum, Petrochemical and Natural Gas Industries"
+63755023170000a5049990ee,,133535,question,questionText,37714,form,"Please upload your ISO 29001:2020 - Petroleum, Petrochemical and Natural Gas Industries — Sector-Specific Quality Management Systems — Requirements for Product and Service Supply Organizations certificate:"
+63755023170000a5049990ef,,133536,question,questionText,37714,form,Please enter the certificate expiration date:\n

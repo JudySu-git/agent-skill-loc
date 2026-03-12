@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66c38d7b01000035003095ed,66bf99570100003200cb8d70,43187,questionGroup,questionGroupText,43187,form,Avetta PQF - New South Wales - Coal Mines Insurance Questionnaire
+66bf99a30100003500784026,,158441,question,description,43187,form,"Please note that if you answer ‘Yes’ to this question, you will be required to upload your Coal Mines Insurance issued policy. If you answer ‘No’ to this question, you will be required to upload a Coal Mines Insurance issued exemption.\n\nMore Information: <a href=""https://www.coalservices.com.au/insurance/policy-premium/who-needs-cmi-policy/"">Who needs a CMI policy?</a>\n"
+66bf99a30100003500784026,,158441,question,questionText,43187,form,Does your company have employees who work in or around a coal mine where your company is required to carry Coal Mines Insurance (CMI)?
+66bf99a30100003500784026,,158441,question,responseOption1,43187,form,Yes
+66bf99a30100003500784026,,158441,question,responseOption2,43187,form,"No, my organisation has been issued with an exemption letter from Coal Mines Insurance (CMI)"

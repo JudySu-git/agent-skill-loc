@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec620100002d00a473c7,5d2cce5439000008998b4a42,26828,questionGroup,questionGroupText,26828,form,Alabama Contractor License
+5da8c353360000d2ac78d4a6,5d2cce8a3500005b1432412b,26829,questionGroup,questionGroupText,26828,form,Alabama Contractor License
+5d2ccea239000008998b4ab3,,84248,question,description,26828,form,"<a href = ""http://genconbd.alabama.gov/database-sql/roster.aspx""target=""_BLANK_"">Alabama Licensing Board for General Contractors</a>"
+5d2ccea239000008998b4ab3,,84248,question,questionText,26828,form,Alabama Contractor License Number:\n
+5d2ccec039000008998b4aec,,84249,question,description,26828,form,"<a href = ""http://genconbd.alabama.gov/database-sql/roster.aspx""target=""_BLANK_"">Alabama Licensing Board for General Contractors</a>"
+5d2ccec039000008998b4aec,,84249,question,questionText,26828,form,Alabama Contractor License Classifications:\n
+5d2cced63400004e4d9d6440,,84250,question,questionText,26828,form,Alabama License Expiration Date:\n
+5d2ccee939000008998b4aff,,84251,question,questionText,26828,form,Please upload a copy of your Alabama license:\n
+5d2ccef63400004e4d9d645f,,84252,question,questionText,26828,form,Please enter the URL of the license:
+5d4c785d360000513683c707,,85163,question,description,26828,form,A URL will make verification quicker if provided\n
+5d4c785d360000513683c707,,85163,question,questionText,26828,form,"Upload a copy of your license, and or provide the URL of the license."
+5d4c785d360000513683c707,,85163,question,responseOption1,26828,form,File Upload
+5d4c785d360000513683c707,,85163,question,responseOption2,26828,form,URL

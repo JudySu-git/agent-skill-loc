@@ -1,0 +1,31 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+652056a4170000553fa9b3a8,516c578e504943aabfb3ae08,3702,questionGroup,questionGroupText,20242,form,Chile
+516ee2bc504943c152a18387,,16908,question,questionText,20242,form,"Is your company registered with the Commercial Registry (<a href=""https://www.conservador.cl/portal/tramites_comercio"" \ntarget=""_Blank"">CBRS</a>)?"
+516ee2bc504943c152a18387,,16908,question,responseOptionNo,20242,form,No
+516ee2bc504943c152a18387,,16908,question,responseOptionYes,20242,form,Yes
+516ee2f5504943d39a4d7a08,,16909,question,questionText,20242,form,Please upload a copy of your company's registration certificate.
+516ee311504943d892726edd,,16910,question,questionText,20242,form,Does your company have a tax identification number (RUT)?
+516ee311504943d892726edd,,16910,question,responseOptionNo,20242,form,No
+516ee311504943d892726edd,,16910,question,responseOptionYes,20242,form,Yes
+516ee337504943927284f025,,16911,question,questionText,20242,form,Please provide your company's tax identification number.
+516ee34c504943d15997ecfd,,16912,question,questionText,20242,form,Does your company have a Value Added Tax (VAT) number?
+516ee34c504943d15997ecfd,,16912,question,responseOptionNo,20242,form,No
+516ee34c504943d15997ecfd,,16912,question,responseOptionYes,20242,form,Yes
+516ee41450494373956a258a,,16913,question,questionText,20242,form,Please provide your company's VAT number.
+51c4b6d050494326879dc53a,,18755,question,description,20242,form,The Chilean Classification of Economic Activities is modeled after the International Standard Industrial Classification (ISIC).
+51c4b6d050494326879dc53a,,18755,question,questionText,20242,form,"What is your company’s primary <a href=""https://www.sii.cl/ayudas/ayudas_por_servicios/1956-codigos-1959.html"" \ntarget=""_Blank"">CIIU.CL</a> Code?"
+51c4b6e1504943b1429cfbcd,,18756,question,questionText,20242,form,"What is your company’s secondary <a href=""https://www.sii.cl/ayudas/ayudas_por_servicios/1956-codigos-1959.html"" \ntarget=""_Blank"">CIIU.CL</a> Code?"
+652088ec1700005d3fa9b4cc,5aea25753200007c00307cc9,20242,questionGroup,questionGroupText,20242,form,Avetta PQF - Chile Company Information
+652056a31600008d10eb2a0b,,145716,question,questionText,20242,form,Please indicate your company's business entity / form of business within this country.
+652056a31600008d10eb2a0b,,145716,question,responseOption1,20242,form,Sole Proprietorship
+652056a31600008d10eb2a0b,,145716,question,responseOption2,20242,form,Limited Liability Company
+652056a31600008d10eb2a0b,,145716,question,responseOption3,20242,form,Sociedad por Acciones (SpA)
+652056a31600008d10eb2a0b,,145716,question,responseOption4,20242,form,Corporation
+652056a31600008d10eb2a0b,,145716,question,responseOption5,20242,form,Foreign entity with no local fiscal presence
+652056a31600008d10eb2a0b,,145716,question,responseOption6,20242,form,Other
+6520570d160000310feb2a0d,,145717,question,questionText,20242,form,Please indicate where your company is established:
+6520570d160000310feb2a0d,,145717,question,responseOption1,20242,form,Yes
+6520570d160000310feb2a0d,,145717,question,responseOption2,20242,form,No
+65205736170000c205a9b3ac,,145718,question,questionText,20242,form,"If Other, please explain:"
+65205736170000c205a9b3ac,,145718,question,responseOption1,20242,form,Yes
+65205736170000c205a9b3ac,,145718,question,responseOption2,20242,form,No

@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68db01170100003d00815f19,68daeb970100003f0081553a,48012,questionGroup,description,48012,form,"If your company is required to comply with Turkey Statutory Labor Insurance, you will be asked to provide relevant documents in a subsequent form."
+68db01170100003d00815f19,68daeb970100003f0081553a,48012,questionGroup,questionGroupText,48012,form,Turkey Statutory Labor Insurance Applicability Assessment
+68daecce0100003e00815540,,183176,question,description,48012,form,
+68daecce0100003e00815540,,183176,question,questionText,48012,form,Is your company required to comply with Turkey's employee insurance schemes established by the Labour Law and Social Insurance and Universal Health Insurance Law and maintain applicable documentation to show compliance?
+68daecce0100003e00815540,,183176,question,responseOption1,48012,form,Yes
+68daecce0100003e00815540,,183176,question,responseOption2,48012,form,No
+68daee0b0100003b004c9873,,183177,question,description,48012,form,"<a href=""https://mevzuat.gov.tr/mevzuat?MevzuatNo=5362&MevzuatTur=1&MevzuatTertip=5"" target=""_blank""> Article 2 of the Tradesmen and Small Handicrafts Act</a>"
+68daee0b0100003b004c9873,,183177,question,questionText,48012,form,
+68daee0b0100003b004c9873,,183177,question,responseOption1,48012,form,The company solely performs sea or air transportation activities.
+68daee0b0100003b004c9873,,183177,question,responseOption2,48012,form,The company solely performs agricultural and forestry work and has less than 50 employees.
+68daee0b0100003b004c9873,,183177,question,responseOption3,48012,form,The company performs construction work related to agriculture which falls within the scope of family economy.
+68daee0b0100003b004c9873,,183177,question,responseOption4,48012,form,The company works solely in works and handicrafts performed in the home without any outside help by members of the family or close relatives up to 3rd degree (3rd degree included).
+68daee0b0100003b004c9873,,183177,question,responseOption5,48012,form,The company is a domestic services company. 
+68daee0b0100003b004c9873,,183177,question,responseOption6,48012,form,The company employs three or fewer employees and falling within the definition given in Article 2 of the Tradesmen and Small Handicrafts Act.
+68daee0b0100003b004c9873,,183177,question,responseOption7,48012,form,Other
+68daef3701000043024c9875,,183178,question,questionText,48012,form,"If other, please explain."

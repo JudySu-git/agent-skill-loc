@@ -1,0 +1,10 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68b092aa01000049000285bb,68b0911601000038005b7555,47481,questionGroup,description,47481,form,"If your company is required to comply with ZUS Employer Social Insurance, you will be asked to provide relevant documents in a subsequent form."
+68b092aa01000049000285bb,68b0911601000038005b7555,47481,questionGroup,questionGroupText,47481,form,Poland Statutory Labor Insurance Applicability Assessment
+68b091680100003f000285b7,,179964,question,description,47481,form,"All Polish employers must register with the <a href = ""https://www.zus.pl/o-zus/o-nas/finanse/zaklad-ubezpieczen-spolecznych""target=""_BLANK_"">Social Insurance Institution (ZUS)</a> to contribute to national pension, health, and accident insurance schemes. "
+68b091680100003f000285b7,,179964,question,questionText,47481,form,Is your company required to comply with ZUS Employer Social Insurance and maintain applicable documentation to show compliance?
+68b091680100003f000285b7,,179964,question,responseOption1,47481,form,Yes
+68b091680100003f000285b7,,179964,question,responseOption2,47481,form,No
+68b091bf01000043000285b8,,179965,question,questionText,47481,form,Please select from the following reasons your company is exempt from complying with ZUS Employer Social Insurance.
+68b091bf01000043000285b8,,179965,question,responseOption1,47481,form,The company's employees are entirely contracted through another entity to perform the work for you.
+68b091bf01000043000285b8,,179965,question,responseOption2,47481,form,The company has foreign employee(s) working in Poland that are covered by the home country's scheme and are prepared to provide a copy of the A1 certificate(s) upon request.

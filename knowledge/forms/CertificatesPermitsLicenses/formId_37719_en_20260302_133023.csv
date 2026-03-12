@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+690bbcc5010000d300e9e8b7,63755754170000780599d876,37719,questionGroup,description,37719,form,"You are getting this category because you selected ISO 28002:2011 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+690bbcc5010000d300e9e8b7,63755754170000780599d876,37719,questionGroup,questionGroupText,37719,form,ISO 28002 - Security Management Systems for the Supply Chain
+63755754170000780599d877,,133545,question,questionText,37719,form,Please upload your ISO 28002:2011 - Security Management Systems for the Supply Chain — Development of Resilience in the Supply Chain — Requirements with Guidance for use certificate:
+63755754170000780599d878,,133546,question,questionText,37719,form,Please enter the certificate expiration date:\n

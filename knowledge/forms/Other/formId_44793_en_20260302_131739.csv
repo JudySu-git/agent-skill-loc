@@ -1,0 +1,26 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67d9cb150100001401e03206,67d9c88b0100002c011f3a2b,44793,questionGroup,questionGroupText,44793,form,TriStruX HSE Variance Form
+67d9ca72010000ee001f3a2d,,166625,question,questionText,44793,form,Date Corrective Action Plan completed:
+67d9ca72010000ee001f3a2d,,166625,question,responseOption1,44793,form,Yes
+67d9ca72010000ee001f3a2d,,166625,question,responseOption2,44793,form,No
+67d9ca860100008801e031f3,,166626,question,questionText,44793,form,Contractor Type of Work:
+67d9ca860100008801e031f3,,166626,question,responseOption1,44793,form,Yes
+67d9ca860100008801e031f3,,166626,question,responseOption2,44793,form,No
+67d9caac0100009501e031f6,,166627,question,questionText,44793,form,Contractor Safety Manager Name:
+67d9caac0100009501e031f6,,166627,question,responseOption1,44793,form,Yes
+67d9caac0100009501e031f6,,166627,question,responseOption2,44793,form,No
+67d9cab90100009401e031f9,,166628,question,questionText,44793,form,Safety Manager Contact Information:
+67d9cab90100009401e031f9,,166628,question,responseOption1,44793,form,Yes
+67d9cab90100009401e031f9,,166628,question,responseOption2,44793,form,No
+67d9cac6010000ee001f3a30,,166629,question,questionText,44793,form,Describe current deficiencies/Incidents that necessitated development of Corrective Action/Recovery Plan:
+67d9cac6010000ee001f3a30,,166629,question,responseOption1,44793,form,Yes
+67d9cac6010000ee001f3a30,,166629,question,responseOption2,44793,form,No
+67d9cad60100008801e031fd,,166630,question,questionText,44793,form,Safety Corrective Action/Recovery Plan to prevent recurrence:
+67d9cad60100008801e031fd,,166630,question,responseOption1,44793,form,Yes
+67d9cad60100008801e031fd,,166630,question,responseOption2,44793,form,No
+67d9cae30100003d00e03200,,166631,question,questionText,44793,form,Please attach any supplemental documentation:
+67d9cae30100003d00e03200,,166631,question,responseOption1,44793,form,Yes
+67d9cae30100003d00e03200,,166631,question,responseOption2,44793,form,No
+67d9caf50100008801e03203,,166632,question,questionText,44793,form,"By signing below, you confirm that the above is true and correct:"
+67d9caf50100008801e03203,,166632,question,responseOption1,44793,form,Yes
+67d9caf50100008801e03203,,166632,question,responseOption2,44793,form,No

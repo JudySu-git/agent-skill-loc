@@ -1,0 +1,23 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5755c9af5049434bd1352ace,5755c9af5049434bd1352ace,186,questionGroup,questionGroupText,186,category,Medical Surveillance
+49ac62f35049435393b9ee3f,,2383,question,description,186,category,Please provide documentation of Audiometric Testing for any/all employee(s).
+49ac62f35049435393b9ee3f,,2383,question,linkhttp://apps.leg.wa.gov/wac/default.aspx?cite=296-817,186,category,WAC 296-817
+49ac62f35049435393b9ee3f,,2383,question,linkhttp://hawaii.gov/labor/hiosh/pdf/standards/part-3/12-114.2.pdf,186,category,HIOSH 12-114.2
+49ac62f35049435393b9ee3f,,2383,question,linkhttp://www.dir.ca.gov/Title8/5097.html,186,category,8 CCR Section 5097
+49ac62f35049435393b9ee3f,,2383,question,linkhttp://www.dir.ca.gov/title8/5097.html,186,category,8 CCR Section 5097
+49ac62f35049435393b9ee3f,,2383,question,linkhttp://www.osha.gov/pls/oshaweb/owadisp.show_document?p_id=9735&p_table=STANDARDS,186,category,Fed OSHA 1910.95
+49ac62f35049435393b9ee3f,,2383,question,linkhttp://www.osha.gov/pls/oshaweb/owadisp.show_document?p_id=9735&p_table=standards,186,category,Fed OSHA 1910.95
+49ac62f35049435393b9ee3f,,2383,question,questionText,186,category,"Does the employee have Audiometric testing conducted in the past 12 months? \n<a href=""http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_id=9735&p_table=STANDARDS"" target=""_BLANK"">Fed OSHA 1910.95</a> <a href=""http://www.dir.ca.gov/Title8/5097.html"" target=""_BLANK"">8 CCR Section 5097</a> <a href=""http://apps.leg.wa.gov/wac/default.aspx?cite=296-817"" target=""_BLANK"">WAC 296-817</a> <a href=""http://hawaii.gov/labor/hiosh/pdf/standards/part-3/12-114.2.pdf"" target=""_BLANK"">HIOSH 12-114.2</a>"
+49ac62f35049435393b9ee3f,,2383,question,responseOptionNA,186,category,N/A
+49ac62f35049435393b9ee3f,,2383,question,responseOptionNo,186,category,No
+49ac62f35049435393b9ee3f,,2383,question,responseOptionYes,186,category,Yes
+49ac6369504943b6ec64d383,,2384,question,description,186,category,Please provide documentation Respiratory Protection/Fit testing for any/all employee(s).
+49ac6369504943b6ec64d383,,2384,question,linkhttp://apps.leg.wa.gov/wac/default.aspx?cite=296-842-15005,186,category,WAC 296-842-15005
+49ac6369504943b6ec64d383,,2384,question,linkhttp://hawaii.gov/labor/hiosh/pdf/standards/part-3/12-114.2.pdf,186,category,HIOSH 12.114.2
+49ac6369504943b6ec64d383,,2384,question,linkhttp://www.dir.ca.gov/title8/5144.html,186,category,8 CCR Section 5144
+49ac6369504943b6ec64d383,,2384,question,linkhttp://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDARDS&p_id=12716#1910.134(f),186,category,Fed OSHA 1910.134(f)
+49ac6369504943b6ec64d383,,2384,question,linkhttp://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=standards&p_id=12716#1910.134(f),186,category,Fed OSHA 1910.134(f)
+49ac6369504943b6ec64d383,,2384,question,questionText,186,category,"Does the employee have Respiratory Protection testing conducted in the last 12 months? \n<a href=""http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDARDS&p_id=12716#1910.134(f)"" target=""_BLANK"">Fed OSHA 1910.134(f)</a> <a href=""http://www.dir.ca.gov/title8/5144.html"" target=""_BLANK"">8 CCR Section 5144</a> <a href=""http://apps.leg.wa.gov/wac/default.aspx?cite=296-842-15005"" target=""_BLANK"">WAC 296-842-15005</a> <a href=""http://hawaii.gov/labor/hiosh/pdf/standards/part-3/12-114.2.pdf"" target=""_BLANK"">HIOSH 12.114.2</a>"
+49ac6369504943b6ec64d383,,2384,question,responseOptionNA,186,category,N/A
+49ac6369504943b6ec64d383,,2384,question,responseOptionNo,186,category,No
+49ac6369504943b6ec64d383,,2384,question,responseOptionYes,186,category,Yes

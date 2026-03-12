@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4cdad9d9504943e4826efefa,4cdad9d9504943e4826efefa,1212,questionGroup,questionGroupText,20064,form,US Security Screening
+44bb195050494381971684a1,,1388,question,questionText,20064,form,Does your company's background investigation include a Social Security Number (SSN) check?
+44bb195050494381971684a1,,1388,question,responseOptionNA,20064,form,N/A
+44bb195050494381971684a1,,1388,question,responseOptionNo,20064,form,No
+44bb195050494381971684a1,,1388,question,responseOptionYes,20064,form,Yes
+44bb195050494383dfc2af48,,1396,question,questionText,20064,form,"Does your company restrict employees from working on Owner premises if in the seven (7) year period ending on the date of the background investigation an employee has been convicted of the following? A crime referred to in Section 46306, 46308, 46312, 46314, or 46315 of Title 49 of the United States Code (U.S.C.) or chapter 465 of Title 49 or Section 32 of Title 18?"
+44bb195050494383dfc2af48,,1396,question,responseOptionNA,20064,form,N/A
+44bb195050494383dfc2af48,,1396,question,responseOptionNo,20064,form,No
+44bb195050494383dfc2af48,,1396,question,responseOptionYes,20064,form,Yes
+44bb195050494351cf30fefc,,1397,question,questionText,20064,form,"Has any employee been denied admission to the United States or removed from the United States who: \nIs a representative of a political, social, or other similar group whose public endorsement of acts of terrorism reduces the US ability to eliminate terrorist activities?"
+44bb195050494351cf30fefc,,1397,question,responseOptionNo,20064,form,No
+44bb195050494351cf30fefc,,1397,question,responseOptionYes,20064,form,Yes
+44bb1950504943df8ceac340,,1398,question,questionText,20064,form,"Has used the alien's position of prominence within any country to endorse or espouse terrorist activity, or to persuade others to support terrorist activity or a terrorist organization, in a way that\r\nThe Secretary of State has determined undermines United States efforts to reduce or eliminate terrorist activities?"
+44bb1950504943df8ceac340,,1398,question,responseOptionNo,20064,form,No
+44bb1950504943df8ceac340,,1398,question,responseOptionYes,20064,form,Yes
+5c17f486360000c268423df2,5ab04c3e2b000078fdd44590,20064,questionGroup,questionGroupText,20064,form,Avetta PQF - United States Security Screening

@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+636572321800009604c0b782,636572241700000a06cf75e5,37446,questionGroup,questionGroupText,37446,form,Demolition Contractor Licences – New South Wales
+636572241700000a06cf75e6,,132323,question,questionText,37446,form,Please upload current Demolition Licence
+636572241700000a06cf75e7,,132324,question,questionText,37446,form,Licence Number
+636572241700000a06cf75e8,,132325,question,questionText,37446,form,Effective Date
+636572241700000a06cf75e9,,132326,question,questionText,37446,form,Expiration Date

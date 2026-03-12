@@ -1,0 +1,21 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+429fe3d05049432d54dc3842,,339,question,questionText,28599,form,Does your company conduct accident/incident investigations?
+429fe3d05049432d54dc3842,,339,question,responseOptionNo,28599,form,No
+429fe3d05049432d54dc3842,,339,question,responseOptionYes,28599,form,Yes
+429fe3d0504943e51ce4e5b4,,340,question,questionText,28599,form,Are accident/incident reports reviewed by managers/ supervisors?
+429fe3d0504943e51ce4e5b4,,340,question,responseOptionNo,28599,form,No
+429fe3d0504943e51ce4e5b4,,340,question,responseOptionYes,28599,form,Yes
+429fe3d0504943c9273f1212,,341,question,questionText,28599,form,Does your company investigate and document near-miss incidents?
+429fe3d0504943c9273f1212,,341,question,responseOptionNo,28599,form,No
+429fe3d0504943c9273f1212,,341,question,responseOptionYes,28599,form,Yes
+429fe3d0504943d4415fa4fc,,345,question,questionText,28599,form,Does your company have a documented process in place to share the lessons learned from incidents with all employees?
+429fe3d0504943d4415fa4fc,,345,question,responseOptionNo,28599,form,No
+429fe3d0504943d4415fa4fc,,345,question,responseOptionYes,28599,form,Yes
+429fe3d0504943b6517bfb00,,349,question,questionText,28599,form,Have your relevant employees received formal incident investigation training?
+429fe3d0504943b6517bfb00,,349,question,responseOptionNA,28599,form,N/A
+429fe3d0504943b6517bfb00,,349,question,responseOptionNo,28599,form,No
+429fe3d0504943b6517bfb00,,349,question,responseOptionYes,28599,form,Yes
+429fe3d0504943113c8bb904,,351,question,questionText,28599,form,Does your company have a system to track corrective action(s) to closure?
+429fe3d0504943113c8bb904,,351,question,responseOptionNo,28599,form,No
+429fe3d0504943113c8bb904,,351,question,responseOptionYes,28599,form,Yes
+62f344552f00009cd21451c5,59f75edd2500007c0cbd9f93,28599,questionGroup,questionGroupText,28599,form,Avetta PQF - Accident & Incident Procedures

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4dae010000bc0021f9da,66302daf1b00006000b6e87f,42069,questionGroup,description,42069,form,You are getting this category because you selected a license in the Avetta PQF - Western Australia License.
+66ce4dae010000bc0021f9da,66302daf1b00006000b6e87f,42069,questionGroup,questionGroupText,42069,form,Western Australia Contractor License - Transport Explosives and / or Security Sensitive Dangerous Substance
+66302daf1b00005f00b6e881,,153508,question,questionText,42069,form,Please upload your license:\n
+66302daf1b00005f00b6e881,,153508,question,responseOption1,42069,form,Yes
+66302daf1b00005f00b6e881,,153508,question,responseOption2,42069,form,No
+66302daf1b00006100b6e880,,153509,question,questionText,42069,form,License Number:
+66302daf1b00006100b6e880,,153509,question,responseOption1,42069,form,Yes
+66302daf1b00006100b6e880,,153509,question,responseOption2,42069,form,No
+66302daf1b00006100b6e882,,153510,question,questionText,42069,form,Expiration Date:
+66302daf1b00006100b6e882,,153510,question,responseOption1,42069,form,Yes
+66302daf1b00006100b6e882,,153510,question,responseOption2,42069,form,No

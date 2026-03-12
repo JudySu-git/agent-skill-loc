@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec5f0100004a00a47375,5d387a243300002f3c4327f0,27033,questionGroup,questionGroupText,27033,form,South Dakota Contractor License
+5d5c3b5e330000767d88f611,5d387a363a0000a7bcaad704,27034,questionGroup,questionGroupText,27033,form,South Dakota Contractor License
+5d387a403a0000a7bcaad706,,84923,question,description,27033,form,"South Dakota - State, County or City Specific"
+5d387a403a0000a7bcaad706,,84923,question,questionText,27033,form,South Dakota Contractor License Number:
+5d387a6f3a0000a7bcaad707,,84924,question,description,27033,form,"South Dakota - State, County or City Specific"
+5d387a6f3a0000a7bcaad707,,84924,question,questionText,27033,form,South Dakota Contractor License Classifications:
+5d387a7f360000b8284d2e2a,,84925,question,questionText,27033,form,South Dakota License Expiration Date:
+5d387a93360000b8284d2e2b,,84926,question,description,27033,form,A URL will make verification quicker if provided
+5d387a93360000b8284d2e2b,,84926,question,questionText,27033,form,"Upload a copy of your license, and or provide the URL of the license."
+5d387a93360000b8284d2e2b,,84926,question,responseOption1,27033,form,File Upload
+5d387a93360000b8284d2e2b,,84926,question,responseOption2,27033,form,URL
+5d387aa6360000b8284d2e2c,,84927,question,questionText,27033,form,Please upload a copy of your South Dakota license:
+5d387ab5360000b8284d2e2d,,84928,question,questionText,27033,form,Please enter the URL of the license:

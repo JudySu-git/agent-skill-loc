@@ -1,0 +1,15 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87745a36b6c4c6354676a,69a87745a36b6c4c63546769,51167,questionGroup,questionGroupText,51167,form,Feuerarbeiten,
+69a87745a36b6c4c63546764,,200125,question,description,51167,form,"Eine jährliche Unterweisung für autogenes Schweißen, Schneiden und verwandte Verfahren muss durchgeführt werden, abgestimmt auf die Standortbedingungen, Herstelleranweisungen und einschlägige technische Informationen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Arbeitsmittelverordnung, § 26 Abs. 4</a>",
+69a87745a36b6c4c63546764,,200125,question,questionText,51167,form,Jährliche Unterweisung,
+69a87745a36b6c4c63546765,,200126,question,description,51167,form,"Druckgasflaschen müssen gegen Umkippen und Überhitzung gesichert sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Arbeitsmittelverordnung, § 26 Abs. 2 Z 6</a>",
+69a87745a36b6c4c63546765,,200126,question,questionText,51167,form,Gesicherte Gasflaschen,
+69a87745a36b6c4c63546766,,200127,question,description,51167,form,"Brandschutzmaßnahmen bei Feuerarbeiten müssen Schweißen, Schneiden, Löten und andere funkenerzeugende Tätigkeiten in brandgefährdeten Bereichen berücksichtigen. Schutzmaßnahmen bei Feuerarbeiten müssen eine Entzündung brennbarer oder leicht entzündlicher Materialien durch Flammen, Hitze oder Schweißspritzer verhindern.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 42 Abs. 2, § 42 Abs. 3</a>",
+69a87745a36b6c4c63546766,,200127,question,questionText,51167,form,Brandschutzmaßnahmen,
+69a87745a36b6c4c63546767,,200128,question,description,51167,form,"Brandwacheregelungen müssen festgelegt werden, wenn durch Feuerarbeiten Brandgefahr besteht.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 42 Abs. 3</a>",
+69a87745a36b6c4c63546767,,200128,question,questionText,51167,form,Feuerarbeiten,
+69a87745a36b6c4c63546768,,200129,question,questionText,51167,form,<div></div>,

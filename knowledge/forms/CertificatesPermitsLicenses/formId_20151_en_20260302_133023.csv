@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+607078dc4500009d89bd1e6d,4f55c4a6504943a35e2cbdb6,566,questionGroup,questionGroupText,20151,form,Policy Information
+5755c9af504943c59875c0d5,5755c9af504943c59875c0d5,567,questionGroup,questionGroupText,20151,form,Policy Limits
+3a501ce050494365da2a8f1e,,2114,question,questionText,20151,form,Insurance Carrier:
+3a501ce0504943e8d65aa872,,2116,question,questionText,20151,form,Date of Commencement:
+3a501ce0504943dac655e992,,2117,question,questionText,20151,form,Expiration Date:
+3a501ce0504943719c535ef0,,2161,question,questionText,20151,form,Each Occurrence
+3a501ce05049433c06220496,,2165,question,questionText,20151,form,Aggregate
+6070798c43000090e864cbd6,5abd4cdc2100008200f29154,20151,questionGroup,questionGroupText,20151,form,Excess / Umbrella Liability
+5abd4c7a2100008500f29137,,70080,question,questionText,20151,form,Please upload Excess Umbrella Liability Certificate
+6070741943000090e8640f1c,,108670,question,description,20151,form,Date the instructions from Client expire
+6070741943000090e8640f1c,,108670,question,questionText,20151,form,VARIANCE Expiration Date
+607078da4500009d89bd1e6c,,108699,question,description,20151,form,Used to provide instructions from Client
+607078da4500009d89bd1e6c,,108699,question,questionText,20151,form,Comments
+62f53f2082eb52eab3c18f8f,,130500,question,questionText,20151,form,Currency used in Certificate of Insurance (COI)

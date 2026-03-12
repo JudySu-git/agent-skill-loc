@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec5f0100004a00a47379,5d38777f3300002f3c4327de,27029,questionGroup,questionGroupText,27029,form,Rhode Island Contractor License
+5d5c3abe37000082069281f8,5d387793370000d98192ef03,27030,questionGroup,questionGroupText,27029,form,Rhode Island Contractor License
+5d38779e360000b8284d2e18,,84911,question,description,27029,form,"<a href = ""https://crb.ri.gov/search/contractor-search""target=""_BLANK_"">Rhode Island Contractors’ Registration and Licensing Board</a>\n"
+5d38779e360000b8284d2e18,,84911,question,questionText,27029,form,Rhode Island Contractor License Number:
+5d3877bf360000b8284d2e19,,84912,question,description,27029,form,"<a href = ""https://crb.ri.gov/search/contractor-search""target=""_BLANK_"">Rhode Island Contractors’ Registration and Licensing Board</a>\n"
+5d3877bf360000b8284d2e19,,84912,question,questionText,27029,form,Rhode Island Contractor License Classifications:
+5d3877cd360000b8284d2e1a,,84913,question,questionText,27029,form,Rhode Island License Expiration Date:
+5d3877dd360000b8284d2e1b,,84914,question,description,27029,form,A URL will make verification quicker if provided
+5d3877dd360000b8284d2e1b,,84914,question,questionText,27029,form,"Upload a copy of your license, and or provide the URL of the license."
+5d3877dd360000b8284d2e1b,,84914,question,responseOption1,27029,form,File Upload
+5d3877dd360000b8284d2e1b,,84914,question,responseOption2,27029,form,URL
+5d3877ee3300002f3c4327e0,,84915,question,questionText,27029,form,Please upload a copy of your Rhode Island license:
+5d3878023300002f3c4327e1,,84916,question,questionText,27029,form,Please enter the URL of the license:

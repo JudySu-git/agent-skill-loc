@@ -1,0 +1,10 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+56e07e4e50494381b323dfe3,,36521,question,description,37476,category,"If yes, your company will be required to complete the Motor/Vehicle Liability Insurance requirements by providing a Certificate of Insurance."
+56e07e4e50494381b323dfe3,,36521,question,questionText,37476,category,Motor/Vehicle Insurance Requirements: \nAre your company's vehicles operated onsite?
+56e07e4e50494381b323dfe3,,36521,question,responseOptionNo,37476,category,No
+56e07e4e50494381b323dfe3,,36521,question,responseOptionYes,37476,category,Yes
+56e083fe50494379f37d91cb,,36552,question,questionText,37476,category,Subcontractor Insurances: \nDo you maintain subcontractor insurances?
+56e083fe50494379f37d91cb,,36552,question,responseOptionNo,37476,category,No
+56e083fe50494379f37d91cb,,36552,question,responseOptionYes,37476,category,Yes
+56e08429504943f5ff7545d6,,36553,question,questionText,37476,category,Please upload the attachments:
+56ee1c525049437da1f88639,56ee1c525049437da1f88639,37476,questionGroup,questionGroupText,37476,category,Insurance Requirements

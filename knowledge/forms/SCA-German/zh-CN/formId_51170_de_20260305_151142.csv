@@ -1,0 +1,12 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87748a36b6c4c6354678b,69a87748a36b6c4c6354678a,51170,questionGroup,questionGroupText,51170,form,事故记录与报告,
+69a87747a36b6c4c63546786,,200153,question,description,51170,form,"必须要求立即报告事故、未遂事故、危险情况及安全缺陷。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法第15条第5款</a>",
+69a87747a36b6c4c63546786,,200153,question,questionText,51170,form,员工报告,
+69a87747a36b6c4c63546787,,200154,question,description,51170,form,"事故记录必须至少保存五年。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法第16条第2款</a>",
+69a87747a36b6c4c63546787,,200154,question,questionText,51170,form,记录保存（5年）,
+69a87747a36b6c4c63546788,,200155,question,description,51170,form,"导致超过三天丧失劳动能力的事故、任何与工作相关的死亡事故以及已确诊的职业病，必须在五天内向负责任的事故保险机构报告，包括在职业病发病后五天内进行报告。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147"">一般社会保险法第363条第1款</a>",
+69a87747a36b6c4c63546788,,200155,question,questionText,51170,form,雇主向事故保险机构报告事故,
+69a87747a36b6c4c63546789,,200156,question,questionText,51170,form,<div></div>,

@@ -1,0 +1,56 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+657b6d491b0000db4c80d0f4,62a8c32a2f000046c800746f,36601,questionGroup,questionGroupText,36601,form,Avetta PQF - Taiwan Company Information
+657b5096180000bb3bb122a5,62a8c4042f000046c8007b30,36602,questionGroup,questionGroupText,36601,form,Taiwan
+62a8c41d2f000046c8007bb9,,128418,question,questionText,36601,form,"Please enter your Tax ID - <a href = ""https://www.etax.nat.gov.tw/etwmain/en/download-document-file/business-tax"" target = ""_blank"">Business Tax</a>"
+62a8c5652f0000bef391cbbc,,128419,question,questionText,36601,form,"Please enter your <a href = ""https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?request_locale=en&fhl=en"" target = ""_blank"">Company ID number/Unified Business number</a> "
+62a8c5832f0000bef391cd7c,,128420,question,questionText,36601,form,"Please provide your primary <a href = ""https://eng.stat.gov.tw/ct.asp?xItem=5008&ctNode=1528"" target = ""_blank"">Industry Classification</a> code"
+62a8c63d2f000046c8008b4d,,128421,question,questionText,36601,form,"Please provide your secondary <a href = ""https://eng.stat.gov.tw/ct.asp?xItem=5008&ctNode=1528"" target = ""_blank"">Industry Classification</a> code"
+62ec2aee2f00001adc62f6a7,,130444,question,questionText,36601,form,Is your company VAT registered?
+62ec2aee2f00001adc62f6a7,,130444,question,responseOption1,36601,form,Yes
+62ec2aee2f00001adc62f6a7,,130444,question,responseOption2,36601,form,No
+62ec2b1a2f000039eade1f37,,130446,question,questionText,36601,form,"If yes, please upload your company’s VAT Filing Certificate (401)."
+62ec2b3a2f000039eade20a1,,130447,question,questionText,36601,form,Does your company have a Certificate or Permission?
+62ec2b3a2f000039eade20a1,,130447,question,responseOption1,36601,form,Yes
+62ec2b3a2f000039eade20a1,,130447,question,responseOption2,36601,form,No
+62ec2b542f00001adc62ff02,,130448,question,questionText,36601,form,"If yes, please upload your company’s certificate or permission."
+657b5094180000bb3bb122a4,,148339,question,questionText,36601,form,Please indicate your company's business entity / form of business within this country.
+657b5094180000bb3bb122a4,,148339,question,responseOption1,36601,form,Sole Proprietorship
+657b5094180000bb3bb122a4,,148339,question,responseOption2,36601,form,Limited Liability Company (LLC)
+657b5094180000bb3bb122a4,,148339,question,responseOption3,36601,form,Corporation
+657b5094180000bb3bb122a4,,148339,question,responseOption4,36601,form,Partnership
+657b5094180000bb3bb122a4,,148339,question,responseOption5,36601,form,Branch Office
+657b5094180000bb3bb122a4,,148339,question,responseOption6,36601,form,Foreign entity with no local fiscal presence
+657b5094180000bb3bb122a4,,148339,question,responseOption7,36601,form,Other
+657b50fa180000a73bb122aa,,148340,question,questionText,36601,form,Please indicate where your company is established:
+657b50fa180000a73bb122aa,,148340,question,responseOption1,36601,form,Yes
+657b50fa180000a73bb122aa,,148340,question,responseOption2,36601,form,No
+657b51291b00009c4c80cd26,,148341,question,questionText,36601,form,"If Other, please explain:"
+657b51291b00009c4c80cd26,,148341,question,responseOption1,36601,form,Yes
+657b51291b00009c4c80cd26,,148341,question,responseOption2,36601,form,No
+657b539f1b0000cb4c80ce1c,,148342,question,questionText,36601,form,Please explain why:
+657b539f1b0000cb4c80ce1c,,148342,question,responseOption1,36601,form,Yes
+657b539f1b0000cb4c80ce1c,,148342,question,responseOption2,36601,form,No
+657b53d21b00009d4c80ce1e,,148343,question,questionText,36601,form,Would you like to upload a sample of your company seal and legal representative’s seal registered with the Ministry of Economic Affairs?
+657b53d21b00009d4c80ce1e,,148343,question,responseOption1,36601,form,Yes
+657b53d21b00009d4c80ce1e,,148343,question,responseOption2,36601,form,No
+657b53dc180000ce3bb123ed,,148344,question,questionText,36601,form,"If yes, please upload your company’s seal / legal representative’s seal"
+657b53dc180000ce3bb123ed,,148344,question,responseOption1,36601,form,Yes
+657b53dc180000ce3bb123ed,,148344,question,responseOption2,36601,form,No
+657b53f9180000cc3bb123f0,,148345,question,questionText,36601,form,Please explain why:
+657b53f9180000cc3bb123f0,,148345,question,responseOption1,36601,form,Yes
+657b53f9180000cc3bb123f0,,148345,question,responseOption2,36601,form,No
+657b54111b00009d4c80ce20,,148346,question,questionText,36601,form,Is your company directly or indirectly invested or controlled by a foreign (non-Taiwanese) entity or individual?
+657b54111b00009d4c80ce20,,148346,question,responseOption1,36601,form,Yes
+657b54111b00009d4c80ce20,,148346,question,responseOption2,36601,form,No
+657b541a1b0000c74c80ce21,,148347,question,questionText,36601,form,"If yes, has your company been approved by the Department of Investment Review of the Ministry of Economic Affairs?"
+657b541a1b0000c74c80ce21,,148347,question,responseOption1,36601,form,Yes
+657b541a1b0000c74c80ce21,,148347,question,responseOption2,36601,form,No
+657b5425180000c83bb123f5,,148348,question,questionText,36601,form,Please upload the approval certificate from the Department of Investment Review of the Ministry of Economic Affairs
+657b5425180000c83bb123f5,,148348,question,responseOption1,36601,form,Yes
+657b5425180000c83bb123f5,,148348,question,responseOption2,36601,form,No
+657b5436180000be3bb123f8,,148349,question,questionText,36601,form,Please explain why:
+657b5436180000be3bb123f8,,148349,question,responseOption1,36601,form,Yes
+657b5436180000be3bb123f8,,148349,question,responseOption2,36601,form,No
+657b56ae180000be3bb12408,,148350,question,questionText,36601,form,"Please enter your <a href = ""https://gcis.nat.gov.tw/mainNew/simple/companyAction.do?method=list"">Commercial Register</a> ID"
+657b56ae180000be3bb12408,,148350,question,responseOption1,36601,form,Yes
+657b56ae180000be3bb12408,,148350,question,responseOption2,36601,form,No

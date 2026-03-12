@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+636570ec170000fc05cf6a17,636570d91800003504c0b32d,37438,questionGroup,questionGroupText,37438,form,Asbestos Contractor Licences – Northern Territory
+636570d91800003504c0b32e,,132282,question,questionText,37438,form,Please upload current Asbestos Licence
+636570d91800003504c0b32f,,132283,question,questionText,37438,form,Licence Number
+636570d91800003504c0b330,,132284,question,questionText,37438,form,Effective Date
+636570d91800003504c0b331,,132285,question,questionText,37438,form,Expiration Date

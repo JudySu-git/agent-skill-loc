@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68f7c2e4010000ca0682e3e5,68efeda70100004200983fce,48290,questionGroup,description,48290,form,This requirement is triggered because you indicated your organization maintains valid Taiwan Labor Insurance documentation in the Taiwan Labor Insurance Applicability Assessment questionnaire.
+68f7c2e4010000ca0682e3e5,68efeda70100004200983fce,48290,questionGroup,questionGroupText,48290,form,Taiwan Labor or Occupational Accident Insurance Premium Payment Certificate
+68efedc80100004300983fcf,,184412,question,description,48290,form,
+68efedc80100004300983fcf,,184412,question,questionText,48290,form,Please upload your company’s valid Labor or Occupational Accident Insurance Premium Payment Certificate to confirm compliance with Taiwan's Labor Insurance requirements.
+68efee4e0100004300c8af32,,184413,question,questionText,48290,form,"I hereby certify that the company has registered all eligible employees in accordance with Taiwan’s Labor Insurance requirements, as stipulated in the Labor Occupational Accident Insurance and Protection Act. The company is able to provide relevant supporting documentation upon request. Furthermore, the company affirms full compliance with all applicable legal obligations and accepts responsibility for any consequences arising from inaccuracies in this attestation."

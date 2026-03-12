@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+636570c4170000c405cf6a13,636570ae170000fc05cf6a0e,37437,questionGroup,questionGroupText,37437,form,Asbestos Contractor Licences – New South Wales
+636570ae170000fc05cf6a0f,,132278,question,questionText,37437,form,Please upload current Asbestos Licence
+636570ae170000fc05cf6a10,,132279,question,questionText,37437,form,Licence Number
+636570ae170000fc05cf6a11,,132280,question,questionText,37437,form,Effective Date
+636570ae170000fc05cf6a12,,132281,question,questionText,37437,form,Expiration Date

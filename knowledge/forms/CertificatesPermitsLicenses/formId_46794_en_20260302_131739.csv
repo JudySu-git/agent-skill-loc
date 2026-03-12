@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6882b7870100003e00a456c1,6882b6740100003f00b7589b,46794,questionGroup,description,46794,form,"This requirement is triggered because you answered ""Yes"" to maintaining a Mexico Special Permit for the Transport of Hazardous Materials and Wastes in the Mexico Special Permit for the Transport of Hazardous Materials and Wastes Applicability Assessment."
+6882b7870100003e00a456c1,6882b6740100003f00b7589b,46794,questionGroup,questionGroupText,46794,form,Mexico Special Permit for the Transport of Hazardous Materials and Wastes
+6882b7000100003900a456b7,,177295,question,questionText,46794,form,Please upload your Special Permit for the Transport of Hazardous Materials and Wastes.
+6882b7120100003900a456ba,,177296,question,questionText,46794,form,Please enter the issue date of your Special Permit for the Transport of Hazardous Materials and Wastes.
+6882b71b0100004200b758a4,,177297,question,description,46794,form,"The validity period can vary based on the type of permit and the specifics of the company's operation, but permits are typically valid for one to five years."
+6882b71b0100004200b758a4,,177297,question,questionText,46794,form,Please enter the expiration date of your Special Permit for the Transport of Hazardous Materials and Wastes.

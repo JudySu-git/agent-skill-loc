@@ -1,0 +1,28 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+429d40d0504943b3252e878e,,120,question,questionText,20044,form,Is your company self-insured for workers' compensation insurance?
+429d40d0504943b3252e878e,,120,question,responseOptionNo,20044,form,No
+429d40d0504943b3252e878e,,120,question,responseOptionYes,20044,form,Yes
+42d894505049439f34a06f52,,121,question,questionText,20044,form,Your company contact person for insurance information: \nName:
+43095bd0504943448f557f1f,,122,question,questionText,20044,form,Type of Coverage:
+429fe3d0504943691e3ea6ef,,286,question,questionText,20044,form,"In the last five years has any insurance carrier, for any form of insurance, refused to renew the insurance policy for your firm?"
+429fe3d0504943691e3ea6ef,,286,question,responseOptionNo,20044,form,No
+429fe3d0504943691e3ea6ef,,286,question,responseOptionYes,20044,form,Yes
+429fe3d0504943dde8b993f3,,287,question,questionText,20044,form,"If yes, list the name the insurance carrier, the form of insurance, and the year of the refusal."
+4f39d90d504943ae375a9a95,4f39d90d504943ae375a9a95,406,questionGroup,questionGroupText,20044,form,General Insurance Information
+42d89450504943de786d9a0f,,626,question,questionText,20044,form,Phone number:
+42d894505049436898b22c6c,,627,question,questionText,20044,form,Email:
+43095bd0504943a21fcf763d,,650,question,questionText,20044,form,Insurance Carrier(s) \nName:
+43095bd050494336f0745104,,651,question,questionText,20044,form,Telephone:
+43095bd0504943a0c2c6db2a,,652,question,questionText,20044,form,Name:
+43095bd0504943ffffbb6afb,,653,question,questionText,20044,form,Type of Coverage:
+43095bd05049439919bb3c34,,654,question,questionText,20044,form,Telephone:
+43095bd0504943dce12eb516,,655,question,questionText,20044,form,Name:
+43095bd050494322e31252d4,,656,question,questionText,20044,form,Type of Coverage:
+43095bd0504943d2f317c7ff,,657,question,questionText,20044,form,Telephone:
+61c26b0d300000a586f865b9,52b498295049435bfc726d64,4868,questionGroup,questionGroupText,20044,form,Automobile / Motor Vehicle Liability
+61c34cf430000020e58f3d90,5aadaee32400006200183e0e,20044,questionGroup,questionGroupText,20044,form,Avetta PQF - General Insurance Information
+52b4a7d5504943fd943ae8f9,,22196,question,description,20044,form,"“Commercial Vehicles” are vehicles that are registered, insured, and maintained by the company, used exclusively for business purposes and driven by employees during work hours.\n\nIf your company selects ‘no,’ you may still need to provide proof of Automobile Liability Insurance, such as coverage for Non-Owned and/or Hired Automobile.\n"
+52b4a7d5504943fd943ae8f9,,22196,question,questionText,20044,form,Does your company own or operate any commercial vehicles?
+52b4a7d5504943fd943ae8f9,,22196,question,responseOptionNo,20044,form,No
+52b4a7d5504943fd943ae8f9,,22196,question,responseOptionYes,20044,form,Yes
+61c26b0b2f00007628c37501,,118612,question,questionText,20044,form,"By signing below, you verify that the above questions related to your companies work activities and risk have been answered correctly."

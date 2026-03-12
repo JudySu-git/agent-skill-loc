@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5553d30a5049438153b3dddf,5553d30a5049438153b3dddf,6878,questionGroup,questionGroupText,20966,form,CCS Certification Program
+5c17f6042f00000a6f84bf22,5be26a493800001a930b21d2,20966,questionGroup,questionGroupText,20966,form,Avetta PQF - CCS Certification Program
+5553d3ff50494343806ac206,,30821,question,description,20966,form,"About CCS<br>\r\n\r\n<br>\r\n\r\nThe Coalition for Construction Safety (CCS) is a nonprofit organization dedicated to achieving zero injuries on construction job sites and administers the CCS Certification Program. Companies that attain CCS certification represent companies with a safety performance among the top 20% of construction companies in the US. Information on the CCS Certification Program can be found at <a href=""http://www.ccscertification.org/"" target=""_blank"" >http://www.ccscertification.org/</a> or by calling CCS at 317-686-2665."
+5553d3ff50494343806ac206,,30821,question,questionText,20966,form,Is your company part of the CCS Certification Program?
+5553d3ff50494343806ac206,,30821,question,responseOptionNo,20966,form,No
+5553d3ff50494343806ac206,,30821,question,responseOptionYes,20966,form,Yes

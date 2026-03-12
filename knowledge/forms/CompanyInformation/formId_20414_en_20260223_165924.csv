@@ -1,0 +1,50 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+655d07a2180000b40aa348e8,55ddec3a5049433d5be001af,7288,questionGroup,questionGroupText,20414,form,El Salvador
+655d17291800006a04a34999,5b4686002200003303c4be38,20414,questionGroup,questionGroupText,20414,form,Avetta PQF - El Salvador Company Information
+55dded90504943679874c38d,,32654,question,description,20414,form,"<a href=""https://www.cnr.gob.sv/"" target=""_blank"">National Registration Center</a>"
+55dded90504943679874c38d,,32654,question,questionText,20414,form,Is your company registered at the National Registration Center?
+55dded90504943679874c38d,,32654,question,responseOptionNo,20414,form,No
+55dded90504943679874c38d,,32654,question,responseOptionYes,20414,form,Yes
+55ddeda55049431107c6dc0c,,32655,question,questionText,20414,form,Is the name of your company registered with the National Registration Center different from the company name as it appears on your Avetta account?
+55ddeda55049431107c6dc0c,,32655,question,responseOptionNo,20414,form,No
+55ddeda55049431107c6dc0c,,32655,question,responseOptionYes,20414,form,Yes
+55ddedcd504943cf35b774fa,,32656,question,questionText,20414,form,What is the official name of your company as registered with the National Registration Center?
+55ddedf450494327a96ff223,,32657,question,description,20414,form,"<a href=""https://www.mh.gob.sv/portal/page/portal/PMH"" target=""_blank"">Ministry of Finance</a>"
+55ddedf450494327a96ff223,,32657,question,questionText,20414,form,Is your company registered with the Ministry of Finance for taxes?
+55ddedf450494327a96ff223,,32657,question,responseOptionNo,20414,form,No
+55ddedf450494327a96ff223,,32657,question,responseOptionYes,20414,form,Yes
+55ddee0c504943b8bd5bdbd6,,32658,question,questionText,20414,form,What is your company's tax identification number (NIT)?
+55ddeeed504943811371cdb3,,32659,question,description,20414,form,"<a href=""https://www.isss.gob.sv/"" target=""_blank"">Salvadoran Social Security Institute (ISSS)</a>"
+55ddeeed504943811371cdb3,,32659,question,questionText,20414,form,Is your company registered with the Salvadoran Social Security Institute (ISSS)?
+55ddeeed504943811371cdb3,,32659,question,responseOptionNo,20414,form,No
+55ddeeed504943811371cdb3,,32659,question,responseOptionYes,20414,form,Yes
+55ddef12504943a5cae789d5,,32660,question,questionText,20414,form,What is your company's ISSS employer identification number?
+55ddefca504943a4526eff88,,32661,question,description,20414,form,"More information about the CLAEES code can be found on the El Salvador Department of Statistics and Censuses (DIGESTYC) <a href=""https://aplicaciones.digestyc.gob.sv/Clasificadores/Sistema/Informacion/CLAEES/InformacionCLAEES.aspx"" target=""_blank"">website (in Spanish only)</a>."
+55ddefca504943a4526eff88,,32661,question,questionText,20414,form,What is your company’s primary Classification of Economic Activities of El Salvador (CLAEES) Code?
+55ddefcd5049432e05791e9c,,32662,question,description,20414,form,"More information about the CLAEES code can be found on the El Salvador Department of Statistics and Censuses (DIGESTYC) <a href=""https://aplicaciones.digestyc.gob.sv/Clasificadores/Sistema/Informacion/CLAEES/InformacionCLAEES.aspx"" target=""_blank"">website (in Spanish only)</a>."
+55ddefcd5049432e05791e9c,,32662,question,questionText,20414,form,What is your company’s secondary Classification of Economic Activities of El Salvador (CLAEES) Code?
+561ebf4450494353161b0876,,33547,question,questionText,20414,form,What is the Registration Number (NRC) of your company?
+655d07a01800006a04a348e7,,147299,question,questionText,20414,form,Please indicate your company's business entity / form of business within this country.
+655d07a01800006a04a348e7,,147299,question,responseOption1,20414,form,Sole Proprietorship
+655d07a01800006a04a348e7,,147299,question,responseOption2,20414,form,Corporation
+655d07a01800006a04a348e7,,147299,question,responseOption3,20414,form,Limited Liability Company
+655d07a01800006a04a348e7,,147299,question,responseOption4,20414,form,General Partnership
+655d07a01800006a04a348e7,,147299,question,responseOption5,20414,form,Limited Partnership
+655d07a01800006a04a348e7,,147299,question,responseOption6,20414,form,Branch Office
+655d07a01800006a04a348e7,,147299,question,responseOption7,20414,form,Foreign entity with no local fiscal presence
+655d07a01800006a04a348e7,,147299,question,responseOption8,20414,form,Other
+655d0e2b180000137fa348ec,,147300,question,questionText,20414,form,Please indicate where your company is established:
+655d0e2b180000137fa348ec,,147300,question,responseOption1,20414,form,Yes
+655d0e2b180000137fa348ec,,147300,question,responseOption2,20414,form,No
+655d0e52180000187fa348ef,,147301,question,questionText,20414,form,"If Other, please explain:"
+655d0e52180000187fa348ef,,147301,question,responseOption1,20414,form,Yes
+655d0e52180000187fa348ef,,147301,question,responseOption2,20414,form,No
+655d0e71180000197fa348f2,,147302,question,questionText,20414,form,Please explain why:
+655d0e71180000197fa348f2,,147302,question,responseOption1,20414,form,Yes
+655d0e71180000197fa348f2,,147302,question,responseOption2,20414,form,No
+655d0e9f180000ca0aa348f5,,147303,question,questionText,20414,form,Please explain why:
+655d0e9f180000ca0aa348f5,,147303,question,responseOption1,20414,form,Yes
+655d0e9f180000ca0aa348f5,,147303,question,responseOption2,20414,form,No
+655d0f69180000137fa348f9,,147304,question,questionText,20414,form,Please explain why:
+655d0f69180000137fa348f9,,147304,question,responseOption1,20414,form,Yes
+655d0f69180000137fa348f9,,147304,question,responseOption2,20414,form,No

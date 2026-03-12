@@ -1,0 +1,28 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+543ee403504943807b220f3c,,25918,question,questionText,28603,form,"Does your company evaluate or review hazard identification and risk assessment procedures at regular intervals to ensure accuracy and continual improvement (e.g. Safe System of Work, JHA, etc.)?"
+543ee403504943807b220f3c,,25918,question,responseOptionNo,28603,form,No
+543ee403504943807b220f3c,,25918,question,responseOptionYes,28603,form,Yes
+543ee443504943f8d8a60f2d,,25919,question,questionText,28603,form,Does your company maintain records of all evaluations or reviews of hazard identification and risk assessments?
+543ee443504943f8d8a60f2d,,25919,question,responseOptionNo,28603,form,No
+543ee443504943f8d8a60f2d,,25919,question,responseOptionYes,28603,form,Yes
+543ee46d50494343c040974a,,25920,question,questionText,28603,form,Is each task assessed according to risk?
+543ee46d50494343c040974a,,25920,question,responseOptionNo,28603,form,No
+543ee46d50494343c040974a,,25920,question,responseOptionYes,28603,form,Yes
+543ee4ad50494367b144b1eb,,25921,question,questionText,28603,form,"Are your company's hazard identification and risk assessment procedures reviewed and updated periodically or when things change (company, regulations or conditions)?"
+543ee4ad50494367b144b1eb,,25921,question,responseOptionNo,28603,form,No
+543ee4ad50494367b144b1eb,,25921,question,responseOptionYes,28603,form,Yes
+543ee4e3504943106463e2dc,,25922,question,questionText,28603,form,Does your company train your employees on hazards identified and risks assessed?
+543ee4e3504943106463e2dc,,25922,question,responseOptionNo,28603,form,No
+543ee4e3504943106463e2dc,,25922,question,responseOptionYes,28603,form,Yes
+543ee992504943272a851753,,25924,question,questionText,28603,form,Does your company have a system in place for when a permit to work is required?
+543ee992504943272a851753,,25924,question,responseOptionNA,28603,form,N/A
+543ee992504943272a851753,,25924,question,responseOptionNo,28603,form,No
+543ee992504943272a851753,,25924,question,responseOptionYes,28603,form,Yes
+543eea32504943fa96177970,,25926,question,questionText,28603,form,Do all employees have authority to stop unsafe work?
+543eea32504943fa96177970,,25926,question,responseOptionNA,28603,form,N/A
+543eea32504943fa96177970,,25926,question,responseOptionNo,28603,form,No
+543eea32504943fa96177970,,25926,question,responseOptionYes,28603,form,Yes
+543eeaf35049437b3b375574,,25928,question,questionText,28603,form,Does your company's safety management system include policies that apply to lone / remote workers?
+543eeaf35049437b3b375574,,25928,question,responseOptionNo,28603,form,No
+543eeaf35049437b3b375574,,25928,question,responseOptionYes,28603,form,Yes
+62eaa2322e0000a90fa5380a,59f75eca2d0000a10cca581f,28603,questionGroup,questionGroupText,28603,form,Avetta PQF - Risk Assessment/Safe System of Work

@@ -1,0 +1,23 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+516db73450494382295fc33a,516db73450494382295fc33a,3703,questionGroup,questionGroupText,20237,form,Switzerland Specific Updates
+658b11091700003f49618f0c,516db9a850494348543a5f0e,3704,questionGroup,questionGroupText,20237,form,Switzerland
+516db8595049435b66917279,,16893,question,questionText,20237,form,What is the total number of employees for the given year? Approximate if necessary.
+516db897504943c50934d98b,,16894,question,questionText,20237,form,"Did your company record/report any workplace accidents, occupational diseases, or specified dangerous occurrences (near misses)?"
+516db897504943c50934d98b,,16894,question,responseOptionNo,20237,form,No
+516db897504943c50934d98b,,16894,question,responseOptionYes,20237,form,Yes
+516dbac450494389221f1f1c,,16895,question,description,20237,form,Corporate hours are defined as all hours your employees have worked within the country this Annual Update applies to.
+516dbac450494389221f1f1c,,16895,question,questionText,20237,form,What is the total number of corporate hours?
+516dbb0f504943d034d3a942,,16896,question,questionText,20237,form,How many fatalities were there for the given year?
+516dbb51504943b1b0ed77ee,,16897,question,description,20237,form,"Examples of major injuries include broken bones, amputations, unconsciousness and death. They also include injuries that would result in not being able to attend work for more than 3 consecutive days."
+516dbb51504943b1b0ed77ee,,16897,question,questionText,20237,form,Number of _major_ injuries that are classified as _over-three-day_ injuries?
+516dbb935049439e453ef360,,16898,question,questionText,20237,form,Number of _major_ injuries that are classified as _under-three-day_ injuries?
+516dbbbb5049433ff072d8c4,,16899,question,description,20237,form,"Minor injuries are typically those injuries not classified as a major such as a paper cut, twisted ankle, bruising or knock."
+516dbbbb5049433ff072d8c4,,16899,question,questionText,20237,form,Number of _minor_ injuries?
+516dbbe25049437e6a1f8840,,16900,question,description,20237,form,"A list of specific disease and the manners in which they are contracted. Examples such as anthrax, hepatitis, legionellosis or leptospirosis."
+516dbbe25049437e6a1f8840,,16900,question,questionText,20237,form,Number of reportable diseases?
+516dbbfd504943f26a8d7de8,,16901,question,description,20237,form,Dangerous occurrences are certain listed near-miss events. Not every near miss event must be reported.
+516dbbfd504943f26a8d7de8,,16901,question,questionText,20237,form,Number of reportable dangerous occurrences (or near misses)?
+658b2ab31700007b49619c25,5ae8d896240000840091f9a4,20237,questionGroup,questionGroupText,20237,form,Avetta Switzerland Annual Update
+5df3b3d5350000fecba120b7,,89538,question,questionText,20237,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers.\n"
+5df3b3e4370000fe2dc937e7,,89539,question,questionText,20237,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+658b1107180000bf3cfe9754,,149054,question,questionText,20237,form,Please enter the total number of recordable incidents for the year

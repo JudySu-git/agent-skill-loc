@@ -1,0 +1,25 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+60761e6b430000c32ed7ce69,60761e6b430000c32ed7ce69,32805,questionGroup,questionGroupText,32809,form,Protocol Information
+647fe21e180000250074fe24,60761e6b430000c32ed7ce6d,32806,questionGroup,questionGroupText,32809,form,Document Upload
+60761e6b430000c32ed7ce72,60761e6b430000c32ed7ce72,32807,questionGroup,questionGroupText,32809,form,I.N.P.S. and I.N.A.I.L. Information
+65df6976190000dc3664c0f1,60761e6b430000c32ed7ce68,32808,questionGroup,questionGroupText,32809,form,DURC Audit
+66f186c60100003900d23283,60761e6b430000c32ed7ce67,32809,questionGroup,questionGroupText,32809,form,Avetta PQF - Italy DURC Audit
+60761e6b430000c32ed7ce6a,,109204,question,questionText,32809,form,Please enter your Documento Unico Di Regolarità Contributiva Protocol Number:
+60761e6b430000c32ed7ce6b,,109205,question,questionText,32809,form,Please enter your Documento Unico Di Regolarità Contributiva Requested Date:
+60761e6b430000c32ed7ce6c,,109206,question,questionText,32809,form,Please enter the Documento Unico Di Regolarità Contributiva Expiration Date:
+60761e6b430000c32ed7ce71,,109210,question,questionText,32809,form,"Please upload your current Documento Unico Di Regolarità Contributiva form:\n\n<a href=""https://www.inps.it/en/en.information-english.contributions.contributory-situation.online-durc-certificate-of-contributions-complianc.html"" \ntarget=""_Blank"">Online Durc (certificate of contributions compliance)</a>"
+60761e6b430000c32ed7ce73,,109211,question,description,32809,form,"<a href=""https://www.inps.it"" target=""_BLANK"">Instituto Nazionale Previdenza Sociale</a>\n"
+60761e6b430000c32ed7ce73,,109211,question,questionText,32809,form,Please enter your I.N.P.S number.
+60761e6b430000c32ed7ce74,,109212,question,description,32809,form,"<a href=""https://www.inail.it/cs/internet/home.html"" target=""_BLANK"">Instituto Nazionale Per L’Assicurazione Contro Gli Infortuni Sul Lavoro</a>\n"
+60761e6b430000c32ed7ce74,,109212,question,questionText,32809,form,Please enter your I.N.A.I.L number.
+60761e6b430000c32ed7ce75,,109213,question,questionText,32809,form,Please confirm the information you provided above is correct by signing below:
+65df6975190000dc3664c0f0,,150969,question,questionText,32809,form,Is your company based in Italy or Does your company employ any Italy-based employees:
+65df6975190000dc3664c0f0,,150969,question,responseOption1,32809,form,Yes
+65df6975190000dc3664c0f0,,150969,question,responseOption2,32809,form,No
+65df6a02190000de3664c0f6,,150971,question,questionText,32809,form,If Not - Please select one of the options below:
+65df6a02190000de3664c0f6,,150971,question,responseOption1,32809,form,The Company is EU-based and employees are not based in Italy but they are covered by the company’s home country’s scheme and we’re prepared to provide a copy of the A1 form upon request
+65df6a02190000de3664c0f6,,150971,question,responseOption2,32809,form,The Company is not EU-based and does not employ any Italy-based workers and we’re prepared to show Proof of Home Country Social Security and Insurance Contributions or Certificate of Coverage or Equivalent upon request
+65df6a02190000de3664c0f6,,150971,question,responseOption3,32809,form,Other
+65df6b1f190000e03364c0f9,,150972,question,questionText,32809,form,Please explain.
+65df6b1f190000e03364c0f9,,150972,question,responseOption1,32809,form,Yes
+65df6b1f190000e03364c0f9,,150972,question,responseOption2,32809,form,No

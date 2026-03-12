@@ -1,0 +1,15 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87750a36b6c4c635467e2,69a87750a36b6c4c635467e1,51181,questionGroup,questionGroupText,51181,form,风险评估与危害预防,
+69a8774fa36b6c4c635467dc,,200217,question,description,51181,form,"必须对设计、设备、材料、工艺和培训等方面进行工作场所危害识别与评估。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 4(1), 5</a>",
+69a8774fa36b6c4c635467dc,,200217,question,questionText,51181,form,危害评估,
+69a8774fa36b6c4c635467dd,,200218,question,description,51181,form,"危害评估必须包含基于一般预防原则的书面预防措施。控制措施须涵盖正常操作、紧急情况及潜在干扰，并须贯穿于各组织层级。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 4(1,3), 5, 7</a>",
+69a8774fa36b6c4c635467dd,,200218,question,questionText,51181,form,已记录的控制措施,
+69a8774fa36b6c4c635467de,,200219,question,description,51181,form,"必须优先采用集体防护措施，而非个人防护措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 7(8)</a>",
+69a8774fa36b6c4c635467de,,200219,question,questionText,51181,form,集体防护优先原则,
+69a8774fa36b6c4c635467df,,200220,question,description,51181,form,"必须根据需要对危害评估和预防措施进行审查和更新，包括在发生事故、职业病、社会心理压力、设备或工艺变更后，或应主管部门要求时进行。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 4(4,5)</a>",
+69a8774fa36b6c4c635467df,,200220,question,questionText,51181,form,评估更新,
+69a8774fa36b6c4c635467e0,,200221,question,questionText,51181,form,<div></div>,

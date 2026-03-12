@@ -1,0 +1,31 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68810337010000580028fbce,687960900100004400d2c902,46721,questionGroup,description,46721,form,"If your company performs any construction work in the UK and is required to register under the Construction Industry Scheme (CIS) with HM Revenue and Customs (HMRC), you will be asked to provide relevant documents in a subsequent form. Construction work includes: site preparation, alterations, dismantling, construction, repairs, decorating, demolition."
+68810337010000580028fbce,687960900100004400d2c902,46721,questionGroup,questionGroupText,46721,form,United Kingdom Construction Industry Scheme (CIS)
+687961f90100004300d2c94e,,176648,question,description,46721,form,"This includes all construction work carried out in the UK, including: \n- site preparation\n- alterations\n- dismantling\n- construction\n- repairs\n- decorating\n- demolition\nFind more information at <a href=""https://www.gov.uk/government/publications/construction-industry-scheme-cis-340/construction-industry-scheme-a-guide-for-contractors-and-subcontractors-cis-340""target=""_blank"">HMRC - CIS Overview</a>."
+687961f90100004300d2c94e,,176648,question,questionText,46721,form,Is your company registered under the Construction Industry Scheme (CIS) with HMRC?
+687961f90100004300d2c94e,,176648,question,responseOption1,46721,form,Yes
+687961f90100004300d2c94e,,176648,question,responseOption2,46721,form,No
+6879626d010000560084fc0e,,176649,question,description,46721,form,"<a href=""https://www.gov.uk/government/publications/construction-industry-scheme-cis-340/construction-industry-scheme-a-guide-for-contractors-and-subcontractors-cis-340#the-terms-used-under-the-scheme""target=""_blank"">Sections 2.3 to 2.5</a> of the CIS Guide for Contractors and Subtractors provides details on types of work and businesses that are exempt from the CIS.\n<br>The company falls under one of the below listed exemptions:"
+6879626d010000560084fc0e,,176649,question,questionText,46721,form,Please select a reason why your company is not registered.
+6879626d010000560084fc0e,,176649,question,responseOption1,46721,form,Ordinary householders doing work on their own homes are not contractors under CIS.
+6879626d010000560084fc0e,,176649,question,responseOption2,46721,form,Businesses not in construction spending less than £3 million/year on construction are not contractors.
+6879626d010000560084fc0e,,176649,question,responseOption3,46721,form,"Businesses spending over £3 million/year only become contractors for certain works, not for projects on their own business property or group facilities."
+6879626d010000560084fc0e,,176649,question,responseOption4,46721,form,"CIS does not apply to construction on property used by the business or its group, including offices, warehouses, and leased group property."
+6879626d010000560084fc0e,,176649,question,responseOption5,46721,form,"CIS must be applied to construction on property intended for sale, let, or investment, unless letting/sale is incidental to the business."
+6879626d010000560084fc0e,,176649,question,responseOption6,46721,form,Other
+687963840100003b0084fc11,,176650,question,questionText,46721,form,"If other is selected, please explain why your company is not registered with CIS."
+6879639e0100003e0084fc13,,176651,question,description,46721,form,This can be a registration certificate or a confirmation letter from the HMRC.
+6879639e0100003e0084fc13,,176651,question,questionText,46721,form,Please upload proof of CIS registration.
+687963bb0100003c00d2c955,,176652,question,description,46721,form,"This is a 10-digit number that can be found <a href=""https://www.gov.uk/find-utr-number""target=""_blank"">here</a>."
+687963bb0100003c00d2c955,,176652,question,questionText,46721,form,Please provide your Unique Taxpayer Reference (UTR).
+687964d30100003700d2c961,,176653,question,description,46721,form,"Follow this <a href=""https://www.gov.uk/government/publications/construction-industry-scheme-cis-340/construction-industry-scheme-a-guide-for-contractors-and-subcontractors-cis-340#the-terms-used-under-the-scheme""target=""_blank"">link</a> to understand who counts as a contractor and/or a subcontractor."
+687964d30100003700d2c961,,176653,question,questionText,46721,form,Please indicate your company’s role in the construction industry.
+687964d30100003700d2c961,,176653,question,responseOption1,46721,form,Contractor
+687964d30100003700d2c961,,176653,question,responseOption2,46721,form,Subcontractor
+687964d30100003700d2c961,,176653,question,responseOption3,46721,form,Both - Contractor and Subcontractor
+687965630100004400d2c964,,176654,question,description,46721,form,"How to get <a href=""https://www.gov.uk/what-you-must-do-as-a-cis-subcontractor/gross-payment-status""target=""_blank"">gross payment status</a>"
+687965630100004400d2c964,,176654,question,questionText,46721,form,"Does your company, as a subcontractor, have Gross Payment Status under CIS?"
+687965630100004400d2c964,,176654,question,responseOption1,46721,form,Gross Payment
+687965630100004400d2c964,,176654,question,responseOption2,46721,form,20% Deductions
+687965630100004400d2c964,,176654,question,responseOption3,46721,form,30% Deductions
+687965ff010000040184fc27,,176655,question,questionText,46721,form,Please upload a copy of your Gross Payment Status confirmation from HMRC.

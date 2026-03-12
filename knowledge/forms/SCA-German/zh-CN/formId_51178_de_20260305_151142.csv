@@ -1,0 +1,15 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774ea36b6c4c635467c9,69a8774ea36b6c4c635467c8,51178,questionGroup,questionGroupText,51178,form,光辐射,
+69a8774da36b6c4c635467c3,,200198,question,description,51178,form,"对于可能存在暴露的活动，须进行光辐射危害评估，并必须考虑辐射类型、持续时间及工作场所条件。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006827"">《光辐射条例》第1条第(1)款、第5款</a>",
+69a8774da36b6c4c635467c3,,200198,question,questionText,51178,form,危害评估,
+69a8774da36b6c4c635467c4,,200199,question,description,51178,form,"须符合暴露限值要求，并确保非相干光源或激光光源的人工光辐射限值不被超出。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006827"">《光辐射条例》第3条第(1)款</a>",
+69a8774da36b6c4c635467c4,,200199,question,questionText,51178,form,暴露限值,
+69a8774da36b6c4c635467c5,,200200,question,description,51178,form,"工作场所设计方案须考虑隔离、屏蔽及布局控制措施。必须实施减少暴露的措施，并须考虑替代设备和技术控制手段。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006827"">《光辐射条例》第5条第(4)款第(1)至(2)项、第7条第(1)款</a>",
+69a8774da36b6c4c635467c5,,200200,question,questionText,51178,form,控制措施（工程控制、行政管理控制和/或个人防护装备）,
+69a8774da36b6c4c635467c6,,200201,question,description,51178,form,"须向员工提供有关辐射风险的信息，并必须涵盖危害及防护措施相关内容。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006827"">《光辐射条例》第6条第(1)款</a>",
+69a8774da36b6c4c635467c6,,200201,question,questionText,51178,form,培训,
+69a8774da36b6c4c635467c7,,200202,question,questionText,51178,form,<div></div>,

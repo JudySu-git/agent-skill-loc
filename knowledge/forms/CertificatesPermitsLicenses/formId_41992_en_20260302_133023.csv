@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce433c0100005b0021f6a3,662fd4c21a00005b0045d2c2,41992,questionGroup,description,41992,form,You are getting this category because you selected a license in the Avetta PQF - New South Wales Contractor License.
+66ce433c0100005b0021f6a3,662fd4c21a00005b0045d2c2,41992,questionGroup,questionGroupText,41992,form,New South Wales Contractor License - Class B: Asbestos Removal
+662fd4c21a00005e0045d2c5,,153284,question,questionText,41992,form,License Number:
+662fd4c21a00005e0045d2c5,,153284,question,responseOption1,41992,form,Yes
+662fd4c21a00005e0045d2c5,,153284,question,responseOption2,41992,form,No
+662fd4c21a00002c0045d2c3,,153285,question,questionText,41992,form,Expiration Date:
+662fd4c21a00002c0045d2c3,,153285,question,responseOption1,41992,form,Yes
+662fd4c21a00002c0045d2c3,,153285,question,responseOption2,41992,form,No
+662fd4c21a00002c0045d2c4,,153286,question,questionText,41992,form,Please upload your license:\n
+662fd4c21a00002c0045d2c4,,153286,question,responseOption1,41992,form,Yes
+662fd4c21a00002c0045d2c4,,153286,question,responseOption2,41992,form,No

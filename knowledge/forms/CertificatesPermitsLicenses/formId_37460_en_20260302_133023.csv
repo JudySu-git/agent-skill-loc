@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+636575ca1700003d06cf89aa,636575c1180000a304c0c88c,37460,questionGroup,questionGroupText,37460,form,Electrical Contractor Licences – South Australia
+636575c1180000a304c0c88d,,132397,question,questionText,37460,form,Please upload current Electrical Licence
+636575c1180000a304c0c88e,,132398,question,questionText,37460,form,Licence Number
+636575c1180000a304c0c88f,,132399,question,questionText,37460,form,Effective Date
+636575c1180000a304c0c890,,132400,question,questionText,37460,form,Expiration Date

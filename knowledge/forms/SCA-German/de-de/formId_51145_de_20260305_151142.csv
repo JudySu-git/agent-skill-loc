@@ -1,0 +1,18 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87735a36b6c4c635466a7,69a87735a36b6c4c635466a6,51145,questionGroup,questionGroupText,51145,form,Bau - Aufzüge,
+69a87735a36b6c4c635466a0,,199973,question,description,51145,form,"Eine sichere Montage und bauliche Verankerung muss gewährleistet sein, wobei die Verankerungen in der Lage sein müssen, Kräfte in allen erforderlichen Richtungen zu übertragen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 139 Abs. 2</a>",
+69a87735a36b6c4c635466a0,,199973,question,questionText,51145,form,Sichere Montage,
+69a87735a36b6c4c635466a1,,199974,question,description,51145,form,"Lastbereiche müssen einsehbar oder positionsangezeigt sein, und Signaleinrichtungen müssen bereitgestellt werden, wenn Höhenunterschiede 5,00 m überschreiten.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 139 Abs. 4</a>",
+69a87735a36b6c4c635466a1,,199974,question,questionText,51145,form,Signalgebung,
+69a87735a36b6c4c635466a2,,199975,question,description,51145,form,"Aushänge mit Angaben zur zulässigen Nutzlast und zum Personenbeförderungsverbot müssen am Lastaufnahmemittel angebracht sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 139 Abs. 7</a>",
+69a87735a36b6c4c635466a2,,199975,question,questionText,51145,form,Lastgrenzen,
+69a87735a36b6c4c635466a3,,199976,question,description,51145,form,"Die Absicherung oder Sicherung von Aufzugsbahnen muss Arbeitnehmer vor Gefährdungen durch bewegliche Teile schützen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 140 Abs. 1 Z 1</a>",
+69a87735a36b6c4c635466a3,,199976,question,questionText,51145,form,Absicherung beweglicher Teile,
+69a87735a36b6c4c635466a4,,199977,question,description,51145,form,"Nicht entfernbare, manipulationssichere Absperrungen mit einem Abstand von mindestens 1,50 m und einer Höhe von 1,00–1,20 m müssen jeden Ladepunkt schützen. An jedem Zugang zur Fahrbahn muss eine Absperrung mit einem Abstand von mindestens 1,50 m und einer Höhe von 1,00–1,20 m errichtet werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 140 Abs. 2 Z 1–2</a>",
+69a87735a36b6c4c635466a4,,199977,question,questionText,51145,form,Zutrittsbeschränkung,
+69a87735a36b6c4c635466a5,,199978,question,questionText,51145,form,<div></div>,

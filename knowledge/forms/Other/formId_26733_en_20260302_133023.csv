@@ -1,0 +1,68 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5cf55b0736000073d23459f6,5cf53c1e370000c1c4d70050,26733,questionGroup,questionGroupText,26733,form,Anti-Bribery and Corruption Questionnaire
+5cf53f30350000000ca6abcf,5cf53f30350000000ca6abce,26734,questionGroup,questionGroupText,26733,form,Employees and Organization
+5cf54174350000000ca6ae07,5cf54174350000000ca6ae06,26735,questionGroup,questionGroupText,26733,form,"Gifts, Hospitalities, Sponsorship and Donations"
+5cf5418836000073d2344828,5cf5418836000073d2344827,26736,questionGroup,questionGroupText,26733,form,Third-Parties
+5cf54563370000b1d2173c85,5cf54563370000b1d2173c84,26737,questionGroup,questionGroupText,26733,form,Anti money Laundering
+5cf545f6370000b1d2173cf8,5cf545f6370000b1d2173cf7,26738,questionGroup,questionGroupText,26733,form,Internal Reporting System
+5cf5460236000073d2345222,5cf5460236000073d2345221,26739,questionGroup,questionGroupText,26733,form,Authorization
+5cf53ffa370000c1c4d70133,,83930,question,questionText,26733,form,Are any of your Employees or Management holding a current or a former public official role?
+5cf53ffa370000c1c4d70133,,83930,question,responseOption1,26733,form,Yes
+5cf53ffa370000c1c4d70133,,83930,question,responseOption2,26733,form,No
+5cf5403736000073d2344702,,83931,question,questionText,26733,form,"If yes, please describe the public office role and whether, in your opinion, it could be perceived as a conflict of interest for your employee, you company or LafargeHolcim Group"
+5cf540a936000073d2344773,,83932,question,questionText,26733,form,Was your business or company or any of its Key Persons or Key Employees involved in any bribery-related investigation by enforcement authorities or any other criminal proceedings in the past 10 years?
+5cf540a936000073d2344773,,83932,question,responseOption1,26733,form,Yes
+5cf540a936000073d2344773,,83932,question,responseOption2,26733,form,No
+5cf540c4370000b1d2172cc9,,83933,question,questionText,26733,form,"If yes, please state the involved parties, allegations made and status of the proceeding and action plan put in place to remediate this issue (if applicable):"
+5cf541ad350000000ca6ae23,,83934,question,questionText,26733,form,Did you give any type of gifts or hospitalities to public officials in the previous year or current year?
+5cf541ad350000000ca6ae23,,83934,question,responseOption1,26733,form,Yes
+5cf541ad350000000ca6ae23,,83934,question,responseOption2,26733,form,No
+5cf541fc36000073d2344829,,83935,question,questionText,26733,form,"If yes, for how much and in which context?"
+5cf54212370000c1c4d702c8,,83936,question,questionText,26733,form,Do you have a gift and hospitalities register and a formal approval in place?
+5cf54212370000c1c4d702c8,,83936,question,responseOption1,26733,form,Yes
+5cf54212370000c1c4d702c8,,83936,question,responseOption2,26733,form,No
+5cf5427b36000073d23448b8,,83937,question,questionText,26733,form,Did you give any type of sponsorship and donations to public organizations or private companies in the previous year or current year?
+5cf5427b36000073d23448b8,,83937,question,responseOption1,26733,form,Yes
+5cf5427b36000073d23448b8,,83937,question,responseOption2,26733,form,No
+5cf542ee370000c1c4d7044b,,83938,question,questionText,26733,form,"If yes, for how much and in which context?"
+5cf54315350000000ca6afde,,83939,question,questionText,26733,form,Do you have a sponsorship and donations register and a formal approval in place?
+5cf54315350000000ca6afde,,83939,question,responseOption1,26733,form,Yes
+5cf54315350000000ca6afde,,83939,question,responseOption2,26733,form,No
+5cf54389370000c1c4d70504,,83940,question,questionText,26733,form,"Are potential subcontractors used to execute the contract for LafargeHolcim Group informed about the required standards for Ethics, Compliance, Anti corruption?"
+5cf54389370000c1c4d70504,,83940,question,responseOption1,26733,form,Yes
+5cf54389370000c1c4d70504,,83940,question,responseOption2,26733,form,No
+5cf543f2370000c1c4d70520,,83941,question,questionText,26733,form,"Do you perform any type of screening of your third parties such as customers, vendors, jv partners?"
+5cf543f2370000c1c4d70520,,83941,question,responseOption1,26733,form,Yes
+5cf543f2370000c1c4d70520,,83941,question,responseOption2,26733,form,No
+5cf5443036000073d2344aa9,,83942,question,questionText,26733,form,"If yes, please specify the type of services and materials purchased or sold abroad and in which country you would execute the transactions?"
+5cf5444f350000000ca6b11d,,83943,question,questionText,26733,form,Does your company has any export or import activity?
+5cf5444f350000000ca6b11d,,83943,question,responseOption1,26733,form,Yes
+5cf5444f350000000ca6b11d,,83943,question,responseOption2,26733,form,No
+5cf5447b370000c1c4d70592,,83944,question,questionText,26733,form,"If yes, please specify the type of services and materials purchased or sold abroad and in which country you would execute the transactions:"
+5cf5449f36000073d2344afa,,83945,question,questionText,26733,form,What type of control do you have over third parties that you use abroad?
+5cf544cd370000b1d2173bea,,83946,question,questionText,26733,form,Do you have any rules regarding payments issued or received in cash abroad?
+5cf544cd370000b1d2173bea,,83946,question,responseOption1,26733,form,Yes
+5cf544cd370000b1d2173bea,,83946,question,responseOption2,26733,form,No
+5cf544e9350000000ca6b1ac,,83947,question,questionText,26733,form,"If yes, please provide evidence?"
+5cf54583350000000ca6b25e,,83948,question,questionText,26733,form,Do you have a threshold above which payments issued or received in cash are forbidden?
+5cf54583350000000ca6b25e,,83948,question,responseOption1,26733,form,Yes
+5cf54583350000000ca6b25e,,83948,question,responseOption2,26733,form,No
+5cf54598370000b1d2173cb6,,83949,question,questionText,26733,form,"If yes, what is the threshold in your main country?"
+5cf545b2350000000ca6b29b,,83950,question,questionText,26733,form,What is the threshold in the countries abroad?
+5cf5461636000073d234523c,,83951,question,questionText,26733,form,Does your company have a internal Reporting System for employees to raise an issue?
+5cf5461636000073d234523c,,83951,question,responseOption1,26733,form,Yes
+5cf5461636000073d234523c,,83951,question,responseOption2,26733,form,No
+5cf5462a370000c1c4d70773,,83952,question,questionText,26733,form,Is this internal reporting system accessible to Third-Parties?
+5cf5462a370000c1c4d70773,,83952,question,responseOption1,26733,form,Yes
+5cf5462a370000c1c4d70773,,83952,question,responseOption2,26733,form,No
+5cf54640370000c1c4d707b3,,83953,question,questionText,26733,form,Does your company have a written Policy describing the way third-parties can use this internal reporting system?
+5cf54640370000c1c4d707b3,,83953,question,responseOption1,26733,form,Yes
+5cf54640370000c1c4d707b3,,83953,question,responseOption2,26733,form,No
+5cf5465e370000c1c4d707ba,,83954,question,questionText,26733,form,"If yes, please provide evidence?"
+5cf5466b370000c1c4d707bb,,83955,question,questionText,26733,form,Do you have any protection in place to protect whistle blower in your company?
+5cf5466b370000c1c4d707bb,,83955,question,responseOption1,26733,form,Yes
+5cf5466b370000c1c4d707bb,,83955,question,responseOption2,26733,form,No
+5cf546a4370000b1d2173df2,,83956,question,questionText,26733,form,"Please proved the first name, last name and position of the person answering this questionnaire"
+5cf546f6350000000ca6b3eb,,83957,question,questionText,26733,form,Please provide contact details (email) in cases of further clarifications are needed:
+5cf5470d370000c1c4d707f5,,83958,question,questionText,26733,form,I agree that the documents uploaded above are our most up-to-date and complete programs.
+5cf547d336000073d2345571,,83959,question,questionText,26733,form,Please sign below to acknowledge that the information provided in this section is complete and accurate.

@@ -1,0 +1,41 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6882a3100100001701ed1996,688281e40100000801889d45,46787,questionGroup,questionGroupText,46787,form,Avetta PQF - Kazakhstan Company Information
+688297db0100000802889d83,688297db0100000802889d82,46788,questionGroup,questionGroupText,46787,form,Kazakhstan
+688298020100000702889d89,,177185,question,description,46787,form,"**Limited Liability Partnership (LLP)**\nAn LLP is a business partnership established by one or more individuals or legal entities.\n <p>\n**Joint Stock Company (JSC)**\nA JSC is a legal entity that issues shares (stock) to raise capital for its activities. \n <p>\n**State Enterprise**\nA state enterprise is a business entity established and owned by the state (national or local government).\n <p>\n**Production Cooperative**\nA production cooperative is a voluntary association of individuals based on personal labor participation and joint asset contributions for conducting entrepreneurial activity.\n <p>\n**Branches of Foreign Legal Entity**\nA branch is a separate subdivision of a foreign legal entity, registered and located in Kazakhstan. Branches may carry out full or partial business activities of the parent entity.\n <p>\n**Representative Offices of Foreign Legal Entity**\nRepresentative offices are a separate subdivision of a foreign legal entity, limited to representing and protecting parent company interests and cannot conduct commercial business."
+688298020100000702889d89,,177185,question,questionText,46787,form,Please indicate your company's business entity / form of business within Kazakhstan.
+688298020100000702889d89,,177185,question,responseOption1,46787,form,Limited Liability Partnership (LLP)
+688298020100000702889d89,,177185,question,responseOption2,46787,form,Joint Stock Company (JSC)
+688298020100000702889d89,,177185,question,responseOption3,46787,form,State Enterprise
+688298020100000702889d89,,177185,question,responseOption4,46787,form,Production Cooperative
+688298020100000702889d89,,177185,question,responseOption5,46787,form,Branches of Foreign Legal Entity
+688298020100000702889d89,,177185,question,responseOption6,46787,form,Representative Offices of Foreign Legal Entity
+688298020100000702889d89,,177185,question,responseOption7,46787,form,Other
+6882991d0100000502889d8c,,177186,question,questionText,46787,form,"If Other, please explain."
+6882993b0100000901889d8e,,177187,question,description,46787,form,"The OKED code is a 4-6 digit numerical code, and covers all sectors of the economy."
+6882993b0100000901889d8e,,177187,question,questionText,46787,form,Does your company have an OKED code (General Classifier of Economic Activities)?
+6882993b0100000901889d8e,,177187,question,responseOption1,46787,form,Yes
+6882993b0100000901889d8e,,177187,question,responseOption2,46787,form,No
+6882995a0100003b00ed194b,,177188,question,description,46787,form,"You may find your OKED code on the <a href = ""https://stat.gov.kz/en/cabinet/juridical/oked/""target=""_BLANK_"">Bureau of National Statistics’ website</a>.\n"
+6882995a0100003b00ed194b,,177188,question,questionText,46787,form,Please provide your company's OKED code (General Classifier of Economic Activities).
+688299be0100000702889d90,,177189,question,questionText,46787,form,Please explain why your company does not have an OKED code (General Classifier of Economic Activities).
+688299d20100000302889d91,,177190,question,description,46787,form,"BIN is mandatory for all legal entities, including foreign companies operating in Kazakhstan. This is your unique 12 digit business identification number issued by the Ministry of Finance of the Republic of Kazakhstan."
+688299d20100000302889d91,,177190,question,questionText,46787,form,Does your company have a BIN (Business Identification Number)?
+688299d20100000302889d91,,177190,question,responseOption1,46787,form,Yes
+688299d20100000302889d91,,177190,question,responseOption2,46787,form,No
+688299eb0100004000889d93,,177191,question,description,46787,form,
+688299eb0100004000889d93,,177191,question,questionText,46787,form,Please provide your company's BIN.
+68829a650100003f00ed1951,,177192,question,questionText,46787,form,Please explain why your company does not have a BIN.
+68829a770100003f00ed1952,,177193,question,description,46787,form,This certificate serves as the official confirmation that your company has been established and is recognized by the state.
+68829a770100003f00ed1952,,177193,question,questionText,46787,form,Does your company have a Certificate of Registration of a legal entity?
+68829a770100003f00ed1952,,177193,question,responseOption1,46787,form,Yes
+68829a770100003f00ed1952,,177193,question,responseOption2,46787,form,No
+68829b080100000901889d97,,177194,question,description,46787,form,
+68829b080100000901889d97,,177194,question,questionText,46787,form,Please upload your company's Certificate of Registration of a legal entity.
+68829b5a0100004000889d99,,177195,question,questionText,46787,form,Please explain why your company does not have a Certificate of Registration of a legal entity.
+68829b670100003e00889d9b,,177196,question,description,46787,form,The VAT Registration Certificate is a required document for all companies engaged in activities subject to VAT in Kazakhstan.
+68829b670100003e00889d9b,,177196,question,questionText,46787,form,Does your company have a VAT Registration Certificate?
+68829b670100003e00889d9b,,177196,question,responseOption1,46787,form,Yes
+68829b670100003e00889d9b,,177196,question,responseOption2,46787,form,No
+68829b7f0100003e00889d9e,,177197,question,description,46787,form,
+68829b7f0100003e00889d9e,,177197,question,questionText,46787,form,Please upload your company's VAT Registration Certificate.
+68829bca0100003b00ed1959,,177198,question,questionText,46787,form,Please explain why your company does not have a VAT Registration Certificate.

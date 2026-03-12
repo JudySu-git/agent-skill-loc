@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+60709a234500009d89bded74,5ed6d99c330000444c7da6a9,30115,questionGroup,questionGroupText,30115,form,Hull and Equipment Liability Policy  
+607099f34500009d89bdec32,5ed6d9aa3b0000deb59440c5,30117,questionGroup,questionGroupText,30115,form,Policy Information
+5ed6d9b8340000444ccf8603,5ed6d9b8340000444ccf8602,30118,questionGroup,questionGroupText,30115,form,Policy Limits
+5ed6d9ef330000444c7da6d4,,97456,question,questionText,30115,form,Date of Commencement
+5ed6da023b0000deb59440e7,,97457,question,questionText,30115,form,Policy Expiration Date
+5ed6da19330000444c7da704,,97459,question,questionText,30115,form,Insurance Carrier
+5ed6da7d3500007c6099c30b,,97463,question,questionText,30115,form,Please upload Hull and Equipment Liability Certificate
+5ed6dbf8330000444c7da78c,,97476,question,questionText,30115,form,Each Occurrence
+5ed6dc233500007c6099c3f9,,97479,question,questionText,30115,form,General Aggregate
+607099f24500009d89bdec31,,108747,question,description,30115,form,Used to provide instructions from Client
+607099f24500009d89bdec31,,108747,question,questionText,30115,form,Comments
+60709a0543000090e8659486,,108748,question,description,30115,form,Date the instructions from Client expire
+60709a0543000090e8659486,,108748,question,questionText,30115,form,VARIANCE Expiration Date
+62f53f4482eb52eab3c18fcd,,130562,question,questionText,30115,form,Currency used in Certificate of Insurance (COI)

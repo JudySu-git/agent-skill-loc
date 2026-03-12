@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4caa1f875049432f59647d97,4caa1f875049432f59647d97,1123,questionGroup,questionGroupText,1123,category,Sikorsky Aircraft
+4caa21f15049435915ccb9c3,,5055,question,linkResources!download.action?id=1018,1123,category,Sikorsky Insurance Requirements
+4caa21f15049435915ccb9c3,,5055,question,linkresources!download.action?id=1018,1123,category,Sikorsky Insurance Requirements
+4caa21f15049435915ccb9c3,,5055,question,questionText,1123,category,"This insurance policy complies with all additional Sikorsky Aircraft requirements. <a href=""Resources!download.action?id=1018"" target=""_blank"">Sikorsky Insurance Requirements</a>"
+4caa21f15049435915ccb9c3,,5055,question,responseOptionNo,1123,category,No
+4caa21f15049435915ccb9c3,,5055,question,responseOptionYes,1123,category,Yes
+4caa2094504943a486752d62,,5759,question,questionText,1123,category,Upload a Certificate of Insurance or other supporting documentation for this policy.

@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6807bc1a01000080005685de,5fc6a2492a0000124bcb6296,32050,questionGroup,questionGroupText,32050,form,Brazil Operation License (Regional Environmental Agency) (LO)
+6728f86d0100003a00cf91b1,5fc6a2542a00006f88f7f76b,32051,questionGroup,questionGroupText,32050,form,Brazil Operation License (Regional Environmental Agency) (LO)
+5fc6a2612a00006f88f7f76e,,104792,question,questionText,32050,form,Please upload the LO - Operation License (Regional Environmental Agency).\n
+5fc6a2722a0000124bcb62bb,,104793,question,questionText,32050,form,Expiration Date:\n
+5fc6a27d2a00006f88f7f771,,104794,question,questionText,32050,form,Sign below to confirm  the uploaded document is correct and updated.\n

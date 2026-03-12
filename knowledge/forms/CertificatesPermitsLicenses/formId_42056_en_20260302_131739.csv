@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4cb4010000bb0021f9af,663014241b00006100b6e732,42056,questionGroup,description,42056,form,You are getting this category because you selected a license in the Avetta PQF - Victoria License.
+66ce4cb4010000bb0021f9af,663014241b00006100b6e732,42056,questionGroup,questionGroupText,42056,form,Victoria Contractor License - HVAC
+663014241b00005f00b6e733,,153469,question,questionText,42056,form,Please upload your license:\n
+663014241b00005f00b6e733,,153469,question,responseOption1,42056,form,Yes
+663014241b00005f00b6e733,,153469,question,responseOption2,42056,form,No
+663014241b00005f00b6e734,,153470,question,questionText,42056,form,License Number:
+663014241b00005f00b6e734,,153470,question,responseOption1,42056,form,Yes
+663014241b00005f00b6e734,,153470,question,responseOption2,42056,form,No
+663014241b00006000b6e735,,153471,question,questionText,42056,form,Expiration Date:
+663014241b00006000b6e735,,153471,question,responseOption1,42056,form,Yes
+663014241b00006000b6e735,,153471,question,responseOption2,42056,form,No

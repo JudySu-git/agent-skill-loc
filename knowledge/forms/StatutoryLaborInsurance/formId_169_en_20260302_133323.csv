@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5bb19cf8360000534e7e12c9,4afc46b25049433cadf16281,169,questionGroup,questionGroupText,169,category,Documentation
+49507e60504943b1ce50b762,,2088,question,description,169,category,"Provide an accurate and detailed description of the function and job duties specific for each position identified as well as identifying any specific competencies and skills required for each craft and/or professional position identified. (i.e. resumes, certificates, etc.)"
+49507e60504943b1ce50b762,,2088,question,questionText,169,category,Upload Job Description and Competencies:
+49507e605049435e29d4aa64,,2089,question,description,169,category,Provide completed evidence of initial assessments that identify knowledge and skills required by each employee for the position they hold.
+49507e605049435e29d4aa64,,2089,question,questionText,169,category,Upload Initial Assessment:
+49507e605049432cd63232f9,,2090,question,description,169,category,"Provide performance reviews, evaluations or assessments that provide an area for identifying gaps in specific craft skills and competencies."
+49507e605049432cd63232f9,,2090,question,questionText,169,category,"Upload Performance Reviews, Evaluations or Gap Assessments:"
+49507e60504943647a5fcb00,,2091,question,description,169,category,"For gaps identified in evaluations and assessments, provide recommendations for training or provide details on how your company addresses skill gaps."
+49507e60504943647a5fcb00,,2091,question,questionText,169,category,Upload Training and Re-Training Plan addressing gaps:
+4ba9458f504943c39a493d13,,3481,question,description,169,category,Please upload additional documentation to close out requirements.
+4ba9458f504943c39a493d13,,3481,question,questionText,169,category,Upload Additional Information.
+56a6c5e95049439880d78e08,,36017,question,description,169,category,"Provide your method that is used to track an employee’s progress toward gap closure.<br><a href=""Resources!download.action?id=5623"" target=""_BLANK"">Contractor Competency Review Process</a>"
+56a6c5e95049439880d78e08,,36017,question,questionText,169,category,Upload Training Plan for tracking progress:

@@ -1,0 +1,10 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67ed6d22010000cf00a358fd,5fd2accb290000124b876a4e,32135,questionGroup,questionGroupText,32135,form,Brazil IBAMA Certificate of Regularity
+678046930100007a007dc17e,5fd2acd4290000124b876a51,32136,questionGroup,questionGroupText,32135,form,IBAMA Certificate 
+5fd2acde290000124b876a59,,105477,question,description,32135,form,"To request or verify an IBAMA debt clearance certificate, visit the links below and enter the company’s CNPJ or the certificate number and CNPJ.\n\n<a href=""https://www.gov.br/ibama/pt-br/servicos/certificados-e-certidoes/certidao-negativa-de-debito"" target=""_blank""> Certidão negativa de débito</a>\n<a href=""https://servicos.ibama.gov.br/sicafiext/sistema.php"" target=""_blank""> Access the IBAMA system</a>"
+5fd2acde290000124b876a59,,105477,question,questionText,32135,form,Please upload the IBAMA Certification of your company.
+5fd2ace9290000124b876a5a,,105478,question,questionText,32135,form,Expiration date:
+678046910100007a007dc17d,,164212,question,description,32135,form,"<a href=""https://servicos.ibama.gov.br/ctf/publico/areasembargadas/"" target=""_blank"">https://servicos.ibama.gov.br/ctf/publico/areasembargadas/</a>"
+678046910100007a007dc17d,,164212,question,questionText,32135,form,"Has your company been subject to any fines, sanctions, or embargoes issued by IBAMA?"
+678046910100007a007dc17d,,164212,question,responseOption1,32135,form,Yes
+678046910100007a007dc17d,,164212,question,responseOption2,32135,form,No

@@ -1,0 +1,34 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5c182c3f360000a2e042e48f,5a60068730000080641e0ea8,242,questionGroup,questionGroupText,242,form,Avetta PQF - Bureau of Safety and Environmental Enforcement (BSEE)
+547dc85f5049432dd1a4fab7,,27408,question,questionText,242,form,Does your company perform offshore operations or work in the outer continental shelf (OCS) of the United States under BSEE jurisdiction?
+547dc85f5049432dd1a4fab7,,27408,question,responseOptionNA,242,form,N/A
+547dc85f5049432dd1a4fab7,,27408,question,responseOptionNo,242,form,No
+547dc85f5049432dd1a4fab7,,27408,question,responseOptionYes,242,form,Yes
+547dc8ab504943bf71ce450e,,27409,question,questionText,242,form,Does your company provide SEMS training for employees working offshore or in the OCS?
+547dc8ab504943bf71ce450e,,27409,question,responseOptionNo,242,form,No
+547dc8ab504943bf71ce450e,,27409,question,responseOptionYes,242,form,Yes
+547dc8f6504943c906824fa3,,27410,question,questionText,242,form,Is training documentation kept in case of requisition by a BSEE official?
+547dc8f6504943c906824fa3,,27410,question,responseOptionNo,242,form,No
+547dc8f6504943c906824fa3,,27410,question,responseOptionYes,242,form,Yes
+547dc938504943207beb7ba2,,27411,question,questionText,242,form,Does your company perform well-control and production safety services?
+547dc938504943207beb7ba2,,27411,question,responseOptionNA,242,form,N/A
+547dc938504943207beb7ba2,,27411,question,responseOptionNo,242,form,No
+547dc938504943207beb7ba2,,27411,question,responseOptionYes,242,form,Yes
+547dc99c50494367f7256058,,27412,question,questionText,242,form,Does your company conduct weekly well-control drills with each drilling crew and familiarize the crew with their roles and functions so that all crew members can perform their duties promptly and efficiently?
+547dc99c50494367f7256058,,27412,question,responseOptionNo,242,form,No
+547dc99c50494367f7256058,,27412,question,responseOptionYes,242,form,Yes
+547dca1e50494362fc7ecdd6,,27413,question,questionText,242,form,Are your company's production safety systems tested and documented in accordance with API RP14C?
+547dca1e50494362fc7ecdd6,,27413,question,responseOptionNo,242,form,No
+547dca1e50494362fc7ecdd6,,27413,question,responseOptionYes,242,form,Yes
+547dca61504943510ff8e3d5,,27414,question,questionText,242,form,Does your company use measurement while drilling (MWD) tools to monitor kicks?
+547dca61504943510ff8e3d5,,27414,question,responseOptionNo,242,form,No
+547dca61504943510ff8e3d5,,27414,question,responseOptionYes,242,form,Yes
+547dcac4504943194453ac4c,,27415,question,questionText,242,form,Does your company maintain records and documentation that meets BSEE requirements in 30 CFR 250.462?
+547dcac4504943194453ac4c,,27415,question,responseOptionNo,242,form,No
+547dcac4504943194453ac4c,,27415,question,responseOptionYes,242,form,Yes
+547dcb1e504943568fa5c72d,,27416,question,questionText,242,form,Does your company utilize killsheets and have shut-in procedures in place for situations where a kick warning sign is observed?
+547dcb1e504943568fa5c72d,,27416,question,responseOptionNo,242,form,No
+547dcb1e504943568fa5c72d,,27416,question,responseOptionYes,242,form,Yes
+547dcb5850494349365cb9b9,,27417,question,questionText,242,form,Are your company's employees trained in the implementation of shut-in procedures?
+547dcb5850494349365cb9b9,,27417,question,responseOptionNo,242,form,No
+547dcb5850494349365cb9b9,,27417,question,responseOptionYes,242,form,Yes

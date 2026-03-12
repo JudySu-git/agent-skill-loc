@@ -1,0 +1,54 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8773aa36b6c4c635466e5,69a8773aa36b6c4c635466e4,51152,questionGroup,questionGroupText,51152,form,建筑 - 地下采矿,
+69a8773aa36b6c4c635466d3,,200010,question,description,51152,form,"地下作业检查必须由具备资质的人员每天至少进行一次。具备资质的人员每日检查必须在使用前确认设备的安全运行。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 95(2), 98(6)</a>",
+69a8773aa36b6c4c635466d3,,200010,question,questionText,51152,form,具备资质人员的检查（每日）,
+69a8773aa36b6c4c635466d4,,200011,question,description,51152,form,"只有熟悉相关工作、身心健康且已接受专项培训的员工，方可从事地下作业。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 5(4)5</a>",
+69a8773aa36b6c4c635466d4,,200011,question,questionText,51152,form,具备资质的人员,
+69a8773aa36b6c4c635466d5,,200012,question,description,51152,form,"钻探和支护作业必须使用安全平台或作业吊篮。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 95(6)</a>",
+69a8773aa36b6c4c635466d5,,200012,question,questionText,51152,form,安全作业区域和平台,
+69a8773aa36b6c4c635466d6,,200013,question,description,51152,form,"工作场所通风必须确保地下区域的气流充足且稳定。新鲜空气供应量必须至少达到每名工人 2 m³/min。通风管路泄漏检查和风速测量必须至少每周进行一次。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 96(1-2)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Explosive Atmospheres Ordinance, Section 18(1)(1)</a>",
+69a8773aa36b6c4c635466d6,,200013,question,questionText,51152,form,充足的通风,
+69a8773aa36b6c4c635466d7,,200014,question,description,51152,form,"气体浓度监测必须至少每日进行一次。每次爆破后必须进行气体检测。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 96(5)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Explosive Atmospheres Ordinance, Section 18(3)(2)</a>",
+69a8773aa36b6c4c635466d7,,200014,question,questionText,51152,form,气体监测（每日、爆破后）,
+69a8773aa36b6c4c635466d8,,200015,question,description,51152,form,"初始粉尘测量必须在通风系统安装完成后或每 70 m 长度范围内进行。粉尘监测通常必须在不超过两个月的间隔内进行。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 96(5)</a>",
+69a8773aa36b6c4c635466d8,,200015,question,questionText,51152,form,粉尘监测,
+69a8773aa36b6c4c635466d9,,200016,question,description,51152,form,"隧道掘进粉尘控制必须采用抽排或喷雾抑尘系统。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 98(8)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Explosive Atmospheres Ordinance, Section 18(2)</a>",
+69a8773aa36b6c4c635466d9,,200016,question,questionText,51152,form,粉尘控制措施,
+69a8773aa36b6c4c635466da,,200017,question,description,51152,form,"在超过接触限值（如石英粉尘）的场所，必须提供并佩戴呼吸防护装备。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 96(8)</a>",
+69a8773aa36b6c4c635466da,,200017,question,questionText,51152,form,呼吸防护,
+69a8773aa36b6c4c635466db,,200018,question,description,51152,form,"机动设备必须配备防止意外启动的安全装置。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 98(7)</a>",
+69a8773aa36b6c4c635466db,,200018,question,questionText,51152,form,设备安全装置,
+69a8773aa36b6c4c635466dc,,200019,question,description,51152,form,"交通路线必须提供至少 1.00 m 的宽度和 2.00 m 的净高。非轨道交通路线必须与行车道分隔。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 99(2)</a>",
+69a8773aa36b6c4c635466dc,,200019,question,questionText,51152,form,交通路线与隔离,
+69a8773aa36b6c4c635466dd,,200020,question,description,51152,form,"交通管制措施必须控制传送带附近的人员及车辆流动。在工地附近行驶的车辆必须限速至步行速度，除非另有安全保障措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 99(5), 101(1), 102(3)</a>",
+69a8773aa36b6c4c635466dd,,200020,question,questionText,51152,form,交通管制,
+69a8773aa36b6c4c635466de,,200021,question,description,51152,form,"挖掘平台必须在底部与顶部之间配备双向通信设施。地下与地面工作场所之间必须建立可靠的通信联络。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 104(1), 105(4)</a>",
+69a8773aa36b6c4c635466de,,200021,question,questionText,51152,form,通信系统,
+69a8773aa36b6c4c635466df,,200022,question,description,51152,form,"用于人员运输的传送系统必须由具备资质的人员按计划进行检查。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 104(7)</a>",
+69a8773aa36b6c4c635466df,,200022,question,questionText,51152,form,人员运输系统检查,
+69a8773aa36b6c4c635466e0,,200023,question,description,51152,form,"在超过 500 m 的隧道中，必须配备自救呼吸器并明确标识。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 105(1)</a>",
+69a8773aa36b6c4c635466e0,,200023,question,questionText,51152,form,自救呼吸器,
+69a8773aa36b6c4c635466e1,,200024,question,description,51152,form,"逃生和救援规划必须涵盖预警、逃生路线、救援及消防。必须配备担架和工具等救援设备。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 105(2-3), 105(5)</a>",
+69a8773aa36b6c4c635466e1,,200024,question,questionText,51152,form,逃生和救援安排,
+69a8773aa36b6c4c635466e2,,200025,question,description,51152,form,"必须至少每年进行一次应急演练并留存相关记录。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 105(3)</a>",
+69a8773aa36b6c4c635466e2,,200025,question,questionText,51152,form,年度应急演练,
+69a8773aa36b6c4c635466e3,,200026,question,questionText,51152,form,<div></div>,

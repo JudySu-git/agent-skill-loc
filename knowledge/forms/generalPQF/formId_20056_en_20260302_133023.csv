@@ -1,0 +1,50 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4cd0a2ec504943ab967cd1ee,4cd0a2ec504943ab967cd1ee,1192,questionGroup,questionGroupText,20056,form,Canadian HSE Programs
+5bf5972b3f0000efcc48a970,501182c65049438e957748f0,2795,questionGroup,questionGroupText,20056,form,Visits/Assessments
+4b141e5c5049433615f23f1e,,2918,question,questionText,20056,form,Does your company have a documented WHMIS (Workplace Hazardous Materials Information System) program/policy?
+4b141e5c5049433615f23f1e,,2918,question,responseOptionNA,20056,form,N/A
+4b141e5c5049433615f23f1e,,2918,question,responseOptionNo,20056,form,No
+4b141e5c5049433615f23f1e,,2918,question,responseOptionYes,20056,form,Yes
+4b141f1a50494348f9662468,,2919,question,questionText,20056,form,Does your company have a documented Picker Trucks training program/policy?
+4b141f1a50494348f9662468,,2919,question,responseOptionNA,20056,form,N/A
+4b141f1a50494348f9662468,,2919,question,responseOptionNo,20056,form,No
+4b141f1a50494348f9662468,,2919,question,responseOptionYes,20056,form,Yes
+4b1421f1504943b2374914b2,,2924,question,questionText,20056,form,Does your company have a documented TDG (Transport Dangerous Goods) employee training program?
+4b1421f1504943b2374914b2,,2924,question,responseOptionNA,20056,form,N/A
+4b1421f1504943b2374914b2,,2924,question,responseOptionNo,20056,form,No
+4b1421f1504943b2374914b2,,2924,question,responseOptionYes,20056,form,Yes
+4b8ff6e7504943dd28563cd2,,3300,question,questionText,20056,form,Does your company have a documented Mineral Fibers program?
+4b8ff6e7504943dd28563cd2,,3300,question,responseOptionNA,20056,form,N/A
+4b8ff6e7504943dd28563cd2,,3300,question,responseOptionNo,20056,form,No
+4b8ff6e7504943dd28563cd2,,3300,question,responseOptionYes,20056,form,Yes
+4b8ff71d504943e7b8a3e18b,,3301,question,questionText,20056,form,Does your company have a documented Power Line Clearances program?
+4b8ff71d504943e7b8a3e18b,,3301,question,responseOptionNA,20056,form,N/A
+4b8ff71d504943e7b8a3e18b,,3301,question,responseOptionNo,20056,form,No
+4b8ff71d504943e7b8a3e18b,,3301,question,responseOptionYes,20056,form,Yes
+4b8ff7625049436c3f2199ef,,3302,question,questionText,20056,form,Does your company have a documented Waste Disposal program?
+4b8ff7625049436c3f2199ef,,3302,question,responseOptionNA,20056,form,N/A
+4b8ff7625049436c3f2199ef,,3302,question,responseOptionNo,20056,form,No
+4b8ff7625049436c3f2199ef,,3302,question,responseOptionYes,20056,form,Yes
+4b8ff88b5049437cf0ecaee3,,3305,question,questionText,20056,form,Does your company have General Health and Safety meetings?
+4b8ff88b5049437cf0ecaee3,,3305,question,responseOptionNA,20056,form,N/A
+4b8ff88b5049437cf0ecaee3,,3305,question,responseOptionNo,20056,form,No
+4b8ff88b5049437cf0ecaee3,,3305,question,responseOptionYes,20056,form,Yes
+5c1d535731000092cbfd2854,5aadfd632400001400183e98,20056,questionGroup,questionGroupText,20056,form,Avetta PQF - Canada HSE Programs
+522a091e504943c723667c86,,20601,question,description,20056,form,"<a href=""http://www.clickbeforeyoudig.com/"" target=""_BLANK"">Call Before You Dig</a>"
+522a091e504943c723667c86,,20601,question,questionText,20056,form,"Does your company have a program that addresses procedures for calling the appropriate one call center at least 72 hours before digging, driving equipment into the ground or engaging in any earth-moving activities?"
+522a091e504943c723667c86,,20601,question,responseOptionNA,20056,form,N/A
+522a091e504943c723667c86,,20601,question,responseOptionNo,20056,form,No
+522a091e504943c723667c86,,20601,question,responseOptionYes,20056,form,Yes
+53e26622504943ff7bb6ad96,,24533,question,description,20056,form,"<a href=""http://www.tc.gc.ca/eng/tdg/safety-menu.htm "">Transport Canada - Transportation of Dangerous Goods</a>"
+53e26622504943ff7bb6ad96,,24533,question,questionText,20056,form,Does your company have drivers certified to transport dangerous goods (TDG)?
+53e26622504943ff7bb6ad96,,24533,question,responseOptionNA,20056,form,N/A
+53e26622504943ff7bb6ad96,,24533,question,responseOptionNo,20056,form,No
+53e26622504943ff7bb6ad96,,24533,question,responseOptionYes,20056,form,Yes
+587fc7445049432b69580551,,44257,question,questionText,20056,form,Do managers/executives visit the worksite?
+587fc7445049432b69580551,,44257,question,responseOptionNA,20056,form,N/A
+587fc7445049432b69580551,,44257,question,responseOptionNo,20056,form,No
+587fc7445049432b69580551,,44257,question,responseOptionYes,20056,form,Yes
+587fc75c504943fecf67df07,,44258,question,questionText,20056,form,Do offsite company personnel perform frequent Audits/Assessments?
+587fc75c504943fecf67df07,,44258,question,responseOptionNA,20056,form,N/A
+587fc75c504943fecf67df07,,44258,question,responseOptionNo,20056,form,No
+587fc75c504943fecf67df07,,44258,question,responseOptionYes,20056,form,Yes

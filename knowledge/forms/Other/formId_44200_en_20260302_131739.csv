@@ -1,0 +1,36 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6765bcc80100002e004455ea,6765bc900100002f0072bf7c,44200,questionGroup,questionGroupText,44200,form,Voltera Power Performance Review
+6765bc90010000330072bf7d,6765bc90010000330072bf7d,44201,questionGroup,questionGroupText,44200,form,Review - General Information
+6765bc90010000330072bf7e,6765bc90010000330072bf7e,44202,questionGroup,questionGroupText,44200,form,Review - Safety
+6765bc90010000330072bf82,6765bc90010000330072bf82,44203,questionGroup,questionGroupText,44200,form,Review - Environmental and Sustainability
+6765bc90010000330072bf83,6765bc90010000330072bf83,44204,questionGroup,questionGroupText,44200,form,Review - General Comments
+6765bc90010000330072bf80,6765bc90010000330072bf80,44205,questionGroup,questionGroupText,44200,form,Review - Schedule/Time
+6765bc90010000330072bf7f,6765bc90010000330072bf7f,44206,questionGroup,questionGroupText,44200,form,Review - Quality
+6765bc90010000330072bf81,6765bc90010000330072bf81,44207,questionGroup,questionGroupText,44200,form,Review - Cost/Financial/Budget
+6765bc90010000b40072bf85,,163640,question,questionText,44200,form,Project Name
+6765bc90010000b40072bf84,,163641,question,questionText,44200,form,Project Completion Date
+6765bc90010000330072bf86,,163642,question,questionText,44200,form,Please provide any additional comments or constructive feedback for this contractor:
+6765bc90010000b40072bf87,,163643,question,questionText,44200,form,How well did the contractor/supplier adhere to all applicable environmental regulations and sustainability practices?
+6765bc90010000be0072bf88,,163644,question,questionText,44200,form,Comment - Environment and Sustainability
+6765bc90010000be0072bf91,,163645,question,questionText,44200,form,Comments:
+6765bc90010000370072bf8b,,163646,question,questionText,44200,form,Comment - Quality of Materials and Workmanship
+6765bc90010000370072bf8a,,163647,question,questionText,44200,form,How well did the contractor/supplier complete the project with regards to quality of materials and workmanship?
+6765bc90010000b40072bf89,,163648,question,questionText,44200,form,How well did the contractor/supplier complete the project within the agreed-upon time frames and schedules?
+6765bc90010000370072bf90,,163649,question,questionText,44200,form,Comment- Project Completion
+6765bc90010000b40072bf8c,,163650,question,questionText,44200,form,"If changes in schedule took place, how well did the contractor/supplier effectively communicate the changes?"
+6765bc90010000b40072bf8d,,163651,question,questionText,44200,form,Comments:
+6765bc90010000be0072bf8f,,163652,question,questionText,44200,form,Comments:
+6765bc90010000370072bf8e,,163653,question,questionText,44200,form,Attachments (Optional):
+6765bc90010000be0072bf92,,163654,question,questionText,44200,form,Comment - Changes in Schedule
+6765bc90010000b40072bf95,,163655,question,questionText,44200,form,How well did the contractor/supplier follow all applicable health and safety guidelines throughout the duration of the project?
+6765bc90010000be0072bf94,,163656,question,questionText,44200,form,"If there was an incident, how well did the contractor/supplier resolve the issue in accordance with all applicable guidelines and regulation?"
+6765bc90010000be0072bf93,,163657,question,questionText,44200,form,Comments:
+6765bc90010000b40072bf96,,163658,question,questionText,44200,form,Comment - Health and Safety Guidelines
+6765bc90010000b40072bf99,,163659,question,questionText,44200,form,Comment - Use of Personal Protection Equipment
+6765bc90010000b40072bf97,,163660,question,questionText,44200,form,Comment - Incident Resolution
+6765bc90010000330072bf98,,163661,question,questionText,44200,form,How well did the contractor/supplier properly use personal protection equipment if required?
+6765bc90010000b40072bf9d,,163662,question,questionText,44200,form,Comment - Budget and Costs
+6765bc90010000370072bf9b,,163663,question,questionText,44200,form,"If cost changes were made, how well did the contractor communicate those changes?"
+6765bc90010000be0072bf9a,,163664,question,questionText,44200,form,Comments:
+6765bc90010000330072bf9c,,163665,question,questionText,44200,form,Comment - Cost Changes
+6765bc90010000330072bf9e,,163666,question,questionText,44200,form,How well did the contractor/supplier adhere to agreed-upon budget and costs?

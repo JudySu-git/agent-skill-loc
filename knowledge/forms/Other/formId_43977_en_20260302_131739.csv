@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+674751a101000075001e023f,6733d7060100008900c3cb19,43977,questionGroup,questionGroupText,43977,form,Brazil Occupational Health Medical Control Program (PCMSO) Applicability Assessment
+6733d7850100007900e63c65,,161770,question,questionText,43977,form,Has your company implemented a PCMSO (Occupational Health Medical Control Program) in accordance with NR-7 regulations?
+6733d7850100007900e63c65,,161770,question,responseOption1,43977,form,Yes
+6733d7850100007900e63c65,,161770,question,responseOption2,43977,form,No
+6733d78f0100003200e63c69,,161771,question,questionText,43977,form,Please upload an exemption document or a written statement on company letterhead to support your response.
+6733d78f0100003200e63c69,,161771,question,responseOption1,43977,form,Yes
+6733d78f0100003200e63c69,,161771,question,responseOption2,43977,form,No
+6733d79b0100003a00c3cb1f,,161772,question,questionText,43977,form,Sign below to confirm the information and/or document provided is correct and updated
+6733d79b0100003a00c3cb1f,,161772,question,responseOption1,43977,form,Yes
+6733d79b0100003a00c3cb1f,,161772,question,responseOption2,43977,form,No

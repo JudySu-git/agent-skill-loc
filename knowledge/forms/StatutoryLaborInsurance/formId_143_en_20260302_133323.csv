@@ -1,0 +1,22 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5755c9af5049435453862c8b,5755c9af5049435453862c8b,143,questionGroup,questionGroupText,143,category,Operator Qualification
+48acf650504943eeec1dd725,,1984,question,questionText,143,category,Does the work being performed include OQ tasks?
+48acf650504943eeec1dd725,,1984,question,responseOptionNA,143,category,N/A
+48acf650504943eeec1dd725,,1984,question,responseOptionNo,143,category,No
+48acf650504943eeec1dd725,,1984,question,responseOptionYes,143,category,Yes
+48acf650504943886f60a771,,1985,question,questionText,143,category,Has contractor submitted an OQ report prior to performing the covered tasks for the job site?
+48acf650504943886f60a771,,1985,question,responseOptionNA,143,category,N/A
+48acf650504943886f60a771,,1985,question,responseOptionNo,143,category,No
+48acf650504943886f60a771,,1985,question,responseOptionYes,143,category,Yes
+48acf65050494339f7dfdd1e,,1986,question,questionText,143,category,Are there an adequate number of qualified individuals on the job site to complete the work involving OQ tasks?
+48acf65050494339f7dfdd1e,,1986,question,responseOptionNA,143,category,N/A
+48acf65050494339f7dfdd1e,,1986,question,responseOptionNo,143,category,No
+48acf65050494339f7dfdd1e,,1986,question,responseOptionYes,143,category,Yes
+48acf650504943d16c77864f,,1988,question,questionText,143,category,Do contract employees have correct identification?
+48acf650504943d16c77864f,,1988,question,responseOptionNA,143,category,N/A
+48acf650504943d16c77864f,,1988,question,responseOptionNo,143,category,No
+48acf650504943d16c77864f,,1988,question,responseOptionYes,143,category,Yes
+48acf650504943c15a7031d5,,1989,question,questionText,143,category,"Is there consistency among contractor's OQ covered task work plan, employee ID, and employee transcript?"
+48acf650504943c15a7031d5,,1989,question,responseOptionNA,143,category,N/A
+48acf650504943c15a7031d5,,1989,question,responseOptionNo,143,category,No
+48acf650504943c15a7031d5,,1989,question,responseOptionYes,143,category,Yes

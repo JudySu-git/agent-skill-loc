@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5d48c487370000756dc9b2db,5d485633360000d9819c2d70,27075,questionGroup,questionGroupText,27075,form,Avetta PQF - ANZSIC Code
+5d485714350000b8283a85de,5d485714350000b8283a85dd,27076,questionGroup,questionGroupText,27075,form,What is your company's primary ANZSIC Code?
+5d485742360000d9819c2d75,5d485742360000d9819c2d74,27077,questionGroup,questionGroupText,27075,form,What is your company's secondary ANZSIC Code?
+5d4857a6370000756dc8a06d,,85102,question,description,27075,form,"ANZ Standard Industrial Classification (ANZSIC) was jointly developed by the <a href=""http://www.abs.gov.au/"" target=""_blank"">Australian Bureau of Statistics</a> and <a href=""http://www.stats.govt.nz/"" target=""_blank"">Statistics New Zealand</a> to reflect the structure of Australian and New Zealand industries and improve the comparability with other countries’ statistics."
+5d4857a6370000756dc8a06d,,85102,question,questionText,27075,form,
+5d48598a350000b8283a85e2,,85103,question,questionText,27075,form,

@@ -1,0 +1,24 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87754a36b6c4c63546810,69a87754a36b6c4c6354680f,51187,questionGroup,questionGroupText,51187,form,Vibration,
+69a87754a36b6c4c63546808,,200249,question,description,51187,form,"Expositionsgrenzwerte für Vibrationen (Hand-Arm: 5 m/s², Ganzkörper: 1,15 m/s², gemittelt über einen 8-Stunden-Zeitraum) dürfen nicht überschritten werden. Bei Überschreitung sind sofortige Korrekturmaßnahmen erforderlich.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Lärm- und Vibrationsverordnung (VOLV), § 3 Abs. 1–3</a>",
+69a87754a36b6c4c63546808,,200249,question,questionText,51187,form,Expositionsgrenzwerte,
+69a87754a36b6c4c63546809,,200250,question,description,51187,form,"Auslösewerte (Hand-Arm: 2,5 m/s², Ganzkörper: 0,5 m/s²) legen fest, ab wann zusätzliche Schutzmaßnahmen ergriffen werden müssen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Lärm- und Vibrationsverordnung (VOLV), § 4 Abs. 1, § 9 Abs. 3</a>",
+69a87754a36b6c4c63546809,,200250,question,questionText,51187,form,Maßnahmen bei Grenzwertüberschreitung,
+69a87754a36b6c4c6354680a,,200251,question,description,51187,form,"Repräsentative Messungen müssen durchgeführt werden, wenn Beurteilungen eine Überschreitung der geltenden Grenzwerte nicht zuverlässig ausschließen können. Die Messmethoden müssen klare und repräsentative Expositionsergebnisse liefern, die Dauer, Höhe und Umgebung berücksichtigen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Verordnung zum Schutz der Arbeitnehmer/innen vor den Gefährdungen durch Lärm und Vibrationen</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Lärm- und Vibrationsverordnung (VOLV), § 6 Abs. 2, § 6 Abs. 3 Z 2</a>",
+69a87754a36b6c4c6354680a,,200251,question,questionText,51187,form,Expositionsbeurteilung,
+69a87754a36b6c4c6354680b,,200252,question,description,51187,form,"Die Vibrationsexposition muss durch dem Stand der Technik entsprechende Maßnahmen der Prozess- und Arbeitsplatzgestaltung auf ein Minimum reduziert werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz (ASchG), § 66 Abs. 1, 3</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Lärm- und Vibrationsverordnung (VOLV), § 11, § 13 Abs. 1, 2, § 14 Abs. 2</a>",
+69a87754a36b6c4c6354680b,,200252,question,questionText,51187,form,"Schutzmaßnahmen (technische, organisatorische und/oder persönliche Schutzausrüstung)",
+69a87754a36b6c4c6354680c,,200253,question,description,51187,form,"Bereiche mit hoher Exposition müssen gekennzeichnet und, sofern dies gerechtfertigt ist, mit eingeschränktem Zugang abgegrenzt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz (ASchG), § 65 Abs. 4 Z 4</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Lärm- und Vibrationsverordnung (VOLV), § 14 Abs. 3</a>",
+69a87754a36b6c4c6354680c,,200253,question,questionText,51187,form,Zutrittsbeschränkung,
+69a87754a36b6c4c6354680d,,200254,question,description,51187,form,"Die Unterweisung zu Vibrationsgefahren muss Risiken und Schutzmaßnahmen behandeln. Die Unterweisung muss bei Überschreitung der Auslösewerte erfolgen und Schutzmaßnahmen, Grenzwerte, Ergebnisse, gesundheitliche Auswirkungen, sichere Arbeitsmethoden sowie die Verwendung von PSA umfassen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">Lärm- und Vibrationsverordnung (VOLV), § 8 Abs. 1</a>",
+69a87754a36b6c4c6354680d,,200254,question,questionText,51187,form,Unterweisung,
+69a87754a36b6c4c6354680e,,200255,question,questionText,51187,form,<div></div>,

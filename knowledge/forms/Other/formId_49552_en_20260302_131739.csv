@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69374b1401000048009e5281,6937441801000052029e512e,49552,questionGroup,description,49552,form,"If your company is required to comply with Nicaraguan Social Security requirements, you will be asked to provide relevant documents in a subsequent form(s)."
+69374b1401000048009e5281,6937441801000052029e512e,49552,questionGroup,questionGroupText,49552,form,Nicaragua Social Security INSS Applicability Assessment
+6937441801000043009e512f,,191997,question,description,49552,form,"In Nicaragua, companies must comply with the General Regulations of the INSS, as reformed by <a href = ""http://legislacion.asamblea.gob.ni/normaweb.nsf/9e314815a08d4a6206257265005d21f9/0f4768f9afa035e3062572840075fe1d?OpenDocument""target=""_BLANK_"">Decreto No. 975</a> and upheld by the <a href = ""https://inss-princ.inss.gob.ni/index.php/sergurosinss-2/8-seguro-de-riesgos-profesionales-rp""target=""_BLANK_"">Nicaraguan Social Security Institute (INSS)</a>."
+6937441801000043009e512f,,191997,question,questionText,49552,form,Is your company required to comply with Nicaraguan Social Security requirements as regulated by the Nicaraguan Social Security Institute (INSS) and maintain applicable documentation to show compliance?
+6937441801000043009e512f,,191997,question,responseOption1,49552,form,Yes
+6937441801000043009e512f,,191997,question,responseOption2,49552,form,No
+69374418010000e0019e5130,,191998,question,questionText,49552,form,Please select from the following reason(s) your company is exempt from complying with Nicaraguan Social Security requirements.
+69374418010000e0019e5130,,191998,question,responseOption1,49552,form,The company is a sole proprietorship with no other employees. 
+69374418010000e0019e5130,,191998,question,responseOption2,49552,form,The company does not have any employees in Nicaragua.
+69374418010000e0019e5130,,191998,question,responseOption3,49552,form,Other
+6937441801000043009e5131,,191999,question,questionText,49552,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Nicaraguan legislation."
+6937441801000043009e5132,,192000,question,questionText,49552,form,"If ""other"", please explain."

@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+694adb5b0100003c017ff980,694434010100006300f9f8e9,49838,questionGroup,description,49838,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+694adb5b0100003c017ff980,694434010100006300f9f8e9,49838,questionGroup,questionGroupText,49838,form,Spain Fiscal Compliance Applicability Assessment
+6944347b0100006500f9f8ee,,193424,question,description,49838,form,"The <a href = ""https://sede.agenciatributaria.gob.es/Sede/certificaciones/situacion-tributaria/certificados-trib_____os-estar-corriente-obligaciones-tributarias/que-certifica.html""target=""BLANK"">AEAT Tax Compliance Certificate</a> is an official document issued by the Spanish State Tax Agency confirming a taxpayer’s situation with respect to state tax obligations."
+6944347b0100006500f9f8ee,,193424,question,questionText,49838,form,Does your company pay taxes to the Spanish Tax Agency (AEAT) and require an AEAT Tax Compliance Certificate?
+6944347b0100006500f9f8ee,,193424,question,responseOption1,49838,form,Yes
+6944347b0100006500f9f8ee,,193424,question,responseOption2,49838,form,No
+694434d50100003f00d1f89d,,193425,question,questionText,49838,form,Please explain why your company is exempt from needing an AEAT Tax Compliance Certificate.

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4bf80100002f00ebe536,66300ddc1a00005e0045d469,42044,questionGroup,description,42044,form,You are getting this category because you selected a license in the Avetta PQF - Tasmania License.
+66ce4bf80100002f00ebe536,66300ddc1a00005e0045d469,42044,questionGroup,questionGroupText,42044,form,Tasmania Contractor License - Pest Management
+66300ddc1a0000650045d46a,,153435,question,questionText,42044,form,License Number:
+66300ddc1a0000650045d46a,,153435,question,responseOption1,42044,form,Yes
+66300ddc1a0000650045d46a,,153435,question,responseOption2,42044,form,No
+66300ddc1a0000650045d46b,,153436,question,questionText,42044,form,Expiration Date:
+66300ddc1a0000650045d46b,,153436,question,responseOption1,42044,form,Yes
+66300ddc1a0000650045d46b,,153436,question,responseOption2,42044,form,No
+66300ddc1a0000650045d46c,,153437,question,questionText,42044,form,Please upload your license:\n
+66300ddc1a0000650045d46c,,153437,question,responseOption1,42044,form,Yes
+66300ddc1a0000650045d46c,,153437,question,responseOption2,42044,form,No

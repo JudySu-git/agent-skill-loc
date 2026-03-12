@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+680ffd050100003d00960411,680a91f2010000a000895783,45490,questionGroup,questionGroupText,45490,form,Safety Production Liability Insurance
+680f9e620100003a0095ed88,680a92b8010000a000895791,45491,questionGroup,questionGroupText,45490,form,Policy Information
+680f9ea70100005c005ddc6b,680a9309010000a00089579b,45492,questionGroup,questionGroupText,45490,form,Policy Limits
+680a924f0100003700895788,,168838,question,questionText,45490,form,Date of Commencement:
+680a925f0100003a00a4526f,,168839,question,questionText,45490,form,Expiration Date:
+680a927f010000860089578c,,168840,question,questionText,45490,form,Safety Production Liability Insurance
+680a9289010000370089578e,,168841,question,questionText,45490,form,Property Damage to Third Party
+680a9291010000a200a45272,,168842,question,questionText,45490,form,Bodily Injury
+680f9e610100007b0095ed87,,168939,question,description,45490,form,Used to provide instructions from Client
+680f9e610100007b0095ed87,,168939,question,questionText,45490,form,Comments
+680f9e840100007b0095ed95,,168940,question,description,45490,form,Date the instructions from Client expire
+680f9e840100007b0095ed95,,168940,question,questionText,45490,form,VARIANCE Expiration Date
+680f9ea60100005c005ddc6a,,168941,question,questionText,45490,form,Currency used in Certificate of Insurance (COI)

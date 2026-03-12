@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61324eff470000efa7f80240,61324cf7480000bdbda01a97,33800,questionGroup,questionGroupText,33800,form,Motor Carrier Permit
+61324cf7480000bdbda01a98,,114495,question,questionText,33800,form,Contractor License Classifications:
+61324cf7480000bdbda01a99,,114496,question,questionText,33800,form,Expiration Date:
+61324cf7480000bdbda01a9a,,114497,question,description,33800,form,A URL will make verification quicker if provided.
+61324cf7480000bdbda01a9a,,114497,question,questionText,33800,form,"Upload a copy of your license, and or provide the URL of the license."
+61324cf7480000bdbda01a9a,,114497,question,responseOption1,33800,form,File Upload
+61324cf7480000bdbda01a9a,,114497,question,responseOption2,33800,form,URL
+61324cf7480000bdbda01a9b,,114498,question,questionText,33800,form,Please upload a copy of your license:
+61324cf7480000bdbda01a9c,,114499,question,questionText,33800,form,Please enter the URL of the license:
+61324cf7480000bdbda01a9d,,114500,question,description,33800,form,<a href='https://www.dmv.ca.gov/portal/vehicle-industry-services/motor-carrier-services-mcs/motor-carrier-permits/active-motor-carriers/' target='_BLANK'>DMV Motor Carrier</a>
+61324cf7480000bdbda01a9d,,114500,question,questionText,33800,form,Contractor License Number:

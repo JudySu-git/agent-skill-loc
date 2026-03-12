@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6577400d1900000401815b8e,6577400d1900000401815b8e,40860,questionGroup,description,40861,form,You are receiving this category because you selected Disability-Owned Business Enterprise in the United States Supplier Diversity Certification Questionnaire.
+6577400d1900000401815b8e,6577400d1900000401815b8e,40860,questionGroup,questionGroupText,40861,form,Disability-Owned Business Enterprise
+667b462c0100004e0024707c,6577400d1900000401815b8d,40861,questionGroup,questionGroupText,40861,form,Avetta PQF - US Supplier Diversity: Disability-Owned Business Enterprise
+6577400d1900000401815b8f,,148058,question,questionText,40861,form,Please enter the issue date of your company’s Disability-Owned Business Enterprise certificate:
+6577400d1900000401815b8f,,148058,question,responseOption1,40861,form,Yes
+6577400d1900000401815b8f,,148058,question,responseOption2,40861,form,No
+6577400d1900000401815b90,,148059,question,questionText,40861,form,Expiration Date:
+6577400d1900000401815b90,,148059,question,responseOption1,40861,form,Yes
+6577400d1900000401815b90,,148059,question,responseOption2,40861,form,No
+6577400d1900000401815b91,,148060,question,questionText,40861,form,Certificate Number:
+6577400d1900000401815b91,,148060,question,responseOption1,40861,form,Yes
+6577400d1900000401815b91,,148060,question,responseOption2,40861,form,No
+6577400d1900000401815b92,,148061,question,questionText,40861,form,Please upload a copy of your certification certificate:
+6577400d1900000401815b92,,148061,question,responseOption1,40861,form,Yes
+6577400d1900000401815b92,,148061,question,responseOption2,40861,form,No

@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87748a36b6c4c6354678b,69a87748a36b6c4c6354678a,51170,questionGroup,questionGroupText,51170,form,Incident Recording and Reporting,
+69a87747a36b6c4c63546786,,200153,question,description,51170,form,"Immediate reporting of accidents, near misses, dangers, and safety defects must be required.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 15(5)</a>",
+69a87747a36b6c4c63546786,,200153,question,questionText,51170,form,Employee Reporting,
+69a87747a36b6c4c63546787,,200154,question,description,51170,form,"Accident records must be retained for at least five years.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 16(2)</a>",
+69a87747a36b6c4c63546787,,200154,question,questionText,51170,form,Record Retention (5 Years),
+69a87747a36b6c4c63546788,,200155,question,description,51170,form,"Accidents resulting in more than three days of incapacity, any work-related death, and diagnosed occupational diseases must be reported to the responsible accident insurance institution within five days, including reporting occupational diseases within five days of onset.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147"">General Social Insurance Act, Article 363(1)</a>",
+69a87747a36b6c4c63546788,,200155,question,questionText,51170,form,Employer Accident Report to Accident Insurance Institution,
+69a87747a36b6c4c63546789,,200156,question,questionText,51170,form,<div></div>,

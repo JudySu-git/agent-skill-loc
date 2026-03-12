@@ -1,0 +1,26 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67634a5201000090013d6039,618596022e00000f12a39843,34080,questionGroup,questionGroupText,34080,form,Avetta PQF – Nigeria Company Information
+676348a90100008e013d5fd6,618596572d000021a7d36c6b,34081,questionGroup,questionGroupText,34080,form,General
+6189b0a42d0000391c3d3175,6185b4892d000021a7d47269,34084,questionGroup,questionGroupText,34080,form,Company Ownership & Employees Details
+61897a912d0000391c3bdf0f,61897a912d0000391c3bdf0e,34097,questionGroup,questionGroupText,34080,form,Company Employee Details
+6189b0a42d0000391c3d3174,61897bcb2d0000391c3be60f,34098,questionGroup,questionGroupText,34080,form,Nigerian/Foreign Ownership Details
+618596622d000021a7d36c6f,,115761,question,questionText,34080,form,"Is your company registered with the <a href=""https://www.firs.gov.ng/"" target=""_blank"">Federal Inland Revenue Service </a>(FIRS)?"
+618596622d000021a7d36c6f,,115761,question,responseOption1,34080,form,Yes
+618596622d000021a7d36c6f,,115761,question,responseOption2,34080,form,No
+618597382d000021a7d37e62,,115762,question,questionText,34080,form,"Please provide your Company’s <a href=""https://apps.firs.gov.ng/tinverification/"" target=""_blank"">TIN</a>"
+6185b37e2e00000f12a4a17c,,115768,question,questionText,34080,form,Please provide a copy of your Company’s current Income Tax Clearance Certificate
+6185b3912e00000f12a4a1ff,,115770,question,questionText,34080,form,Please provide a copy of your Company’s VAT certificate of registration
+6185b4062e00000f12a4a6a9,,115774,question,questionText,34080,form,Please select your business structure in Nigeria: 
+6185b4062e00000f12a4a6a9,,115774,question,responseOption1,34080,form,Sole Trader
+6185b4062e00000f12a4a6a9,,115774,question,responseOption2,34080,form,Private Limited Company
+6185b4062e00000f12a4a6a9,,115774,question,responseOption3,34080,form,Public Limited Company
+6185b4942d000021a7d472b0,,115775,question,questionText,34080,form,Total number of employees
+6185b4a72d000021a7d4735a,,115776,question,questionText,34080,form,Number of Nigerian staff
+6185b4d92e00000f12a4aff1,,115777,question,questionText,34080,form,Number of Expatriate staff
+6185b4ef2d000021a7d4755c,,115779,question,questionText,34080,form,Ratio of Nigerian to Expatriate management staff
+6185b7072d000021a7d48e7f,,115788,question,questionText,34080,form, What is the legal name of your company as registered with the Corporate Affairs Commission?
+6185b7c12d000021a7d49638,,115790,question,questionText,34080,form,Percentage held by Nigerians
+6185b7d02d000021a7d496d1,,115791,question,questionText,34080,form,Do you have a Partnership Attestation Letter?
+6185b7d02d000021a7d496d1,,115791,question,responseOption1,34080,form,Yes
+6185b7d02d000021a7d496d1,,115791,question,responseOption2,34080,form,No
+6185b8112d000021a7d498e8,,115792,question,questionText,34080,form,Please upload your Partnership Attestation Letter

@@ -1,0 +1,19 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce426b0100002a00ebdde0,66300c861b00002d00b6e6c8,42039,questionGroup,description,42039,form,You are getting this category because you selected that you have a license in the Avetta PQF - Australia Contractor License.
+66ce426b0100002a00ebdde0,66300c861b00002d00b6e6c8,42039,questionGroup,questionGroupText,42039,form,Avetta PQF - Tasmania License
+66300c861b00006100b6e6c9,,153422,question,questionText,42039,form,Please select all of the licenses your company currently maintains:
+66300c861b00006100b6e6c9,,153422,question,responseOption1,42039,form,Builders
+66300c861b00006100b6e6c9,,153422,question,responseOption10,42039,form,Security Master
+66300c861b00006100b6e6c9,,153422,question,responseOption11,42039,form,Plumbing
+66300c861b00006100b6e6c9,,153422,question,responseOption12,42039,form,Security Master
+66300c861b00006100b6e6c9,,153422,question,responseOption13,42039,form,Radiation
+66300c861b00006100b6e6c9,,153422,question,responseOption14,42039,form,Security Master
+66300c861b00006100b6e6c9,,153422,question,responseOption15,42039,form,Waste
+66300c861b00006100b6e6c9,,153422,question,responseOption2,42039,form,Electrical
+66300c861b00006100b6e6c9,,153422,question,responseOption3,42039,form,Fire
+66300c861b00006100b6e6c9,,153422,question,responseOption4,42039,form,Gas Fitting
+66300c861b00006100b6e6c9,,153422,question,responseOption5,42039,form,Pest Management
+66300c861b00006100b6e6c9,,153422,question,responseOption6,42039,form,Plumbing
+66300c861b00006100b6e6c9,,153422,question,responseOption7,42039,form,Security Master
+66300c861b00006100b6e6c9,,153422,question,responseOption8,42039,form,Pest Management
+66300c861b00006100b6e6c9,,153422,question,responseOption9,42039,form,Plumbing

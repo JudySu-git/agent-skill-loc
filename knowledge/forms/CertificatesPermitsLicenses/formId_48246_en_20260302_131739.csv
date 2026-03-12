@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+695e96900100009700ab59bd,68e95c790100003d00d5b279,48246,questionGroup,description,48246,form,You are getting this form because you said “Yes” to having an Italy Chamber of Commerce Certificate in the Italy Chamber of Commerce Certificate Applicability Assessment
+695e96900100009700ab59bd,68e95c790100003d00d5b279,48246,questionGroup,questionGroupText,48246,form,Italy Chamber of Commerce Certificate
+68e95d4501000040000c9bda,,184176,question,description,48246,form,"<a href = ""https://www.registroimprese.it/dettaglio-ricerca-gratuita""target=""_BLANK_"">Dettaglio Ricerca Gratuita | Registro Imprese</a> "
+68e95d4501000040000c9bda,,184176,question,questionText,48246,form,Please submit a copy of your Chamber of Commerce Registration Certificate (Visura Camerale).
+68e95d5b0100003500d5b27e,,184177,question,description,48246,form,The document must be issued within the last 6 months and still valid.
+68e95d5b0100003500d5b27e,,184177,question,questionText,48246,form,Please enter the issue date of the document.
+68ed6ea10100003e000ca03c,,184242,question,description,48246,form,"Please enter a date that is six (6) months from the issue date.\nFor compliance purposes, a Visura Camerale is considered valid for six (6) months from the Issue Date."
+68ed6ea10100003e000ca03c,,184242,question,questionText,48246,form,Please enter the Validity End date of the document.

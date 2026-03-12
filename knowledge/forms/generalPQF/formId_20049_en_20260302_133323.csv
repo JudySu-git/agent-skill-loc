@@ -1,0 +1,69 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4cbaaeb750494342debc2098,4cbaaeb750494342debc2098,1168,questionGroup,description,20049,form,"Do you perform work in the following locations? If you select ""Yes, on permanent basis without an office"" or ""Yes, with office"" you will be required to provide province specific documentation. Once you have selected all applicable locations, please scroll to the bottom of the page to complete this category."
+4cbaaeb750494342debc2098,4cbaaeb750494342debc2098,1168,questionGroup,questionGroupText,20049,form,Canada
+4768b3605049436bd13c9521,,1621,question,questionText,20049,form,"British Columbia, Canada"
+4768b3605049436bd13c9521,,1621,question,responseOptionNo,20049,form,No
+4768b3605049436bd13c9521,,1621,question,responseOptionYes,20049,form,"Yes, on permanent basis without an office"
+4768b3605049436bd13c9521,,1621,question,responseOptionYesPeriodicWithoutOffice,20049,form,"Yes, on periodic basis without an office"
+4768b3605049436bd13c9521,,1621,question,responseOptionYesWithOffice,20049,form,"Yes, with Office"
+4768b36050494367c49edcf7,,1638,question,questionText,20049,form,"Manitoba, Canada"
+4768b36050494367c49edcf7,,1638,question,responseOptionNo,20049,form,No
+4768b36050494367c49edcf7,,1638,question,responseOptionYes,20049,form,"Yes, on permanent basis without an office"
+4768b36050494367c49edcf7,,1638,question,responseOptionYesPeriodicWithoutOffice,20049,form,"Yes, on periodic basis without an office"
+4768b36050494367c49edcf7,,1638,question,responseOptionYesWithOffice,20049,form,"Yes, with Office"
+4768b3605049433a3837aa13,,1648,question,questionText,20049,form,"New Brunswick, Canada"
+4768b3605049433a3837aa13,,1648,question,responseOptionNo,20049,form,No
+4768b3605049433a3837aa13,,1648,question,responseOptionYes,20049,form,"Yes, on permanent basis without an office"
+4768b3605049433a3837aa13,,1648,question,responseOptionYesPeriodicWithoutOffice,20049,form,"Yes, on periodic basis without an office"
+4768b3605049433a3837aa13,,1648,question,responseOptionYesWithOffice,20049,form,"Yes, with Office"
+4768b36050494357a8ff4ec3,,1649,question,questionText,20049,form,"Newfoundland & Labrador, Canada"
+4768b36050494357a8ff4ec3,,1649,question,responseOptionNo,20049,form,No
+4768b36050494357a8ff4ec3,,1649,question,responseOptionYes,20049,form,"Yes, on permanent basis without an office"
+4768b36050494357a8ff4ec3,,1649,question,responseOptionYesPeriodicWithoutOffice,20049,form,"Yes, on periodic basis without an office"
+4768b36050494357a8ff4ec3,,1649,question,responseOptionYesWithOffice,20049,form,"Yes, with Office"
+4768b360504943d530c33d92,,1656,question,questionText,20049,form,"Nova Scotia, Canada"
+4768b360504943d530c33d92,,1656,question,responseOptionNo,20049,form,No
+4768b360504943d530c33d92,,1656,question,responseOptionYes,20049,form,"Yes, on permanent basis without an office"
+4768b360504943d530c33d92,,1656,question,responseOptionYesPeriodicWithoutOffice,20049,form,"Yes, on periodic basis without an office"
+4768b360504943d530c33d92,,1656,question,responseOptionYesWithOffice,20049,form,"Yes, with Office"
+4768b36050494350a3297a05,,1657,question,questionText,20049,form,"Nunavut, Canada"
+4768b36050494350a3297a05,,1657,question,responseOptionNo,20049,form,No
+4768b36050494350a3297a05,,1657,question,responseOptionYes,20049,form,"Yes, on permanent basis without an office"
+4768b36050494350a3297a05,,1657,question,responseOptionYesPeriodicWithoutOffice,20049,form,"Yes, on periodic basis without an office"
+4768b36050494350a3297a05,,1657,question,responseOptionYesWithOffice,20049,form,"Yes, with Office"
+4768b3605049436613d56b32,,1660,question,questionText,20049,form,"Ontario, Canada"
+4768b3605049436613d56b32,,1660,question,responseOptionNo,20049,form,No
+4768b3605049436613d56b32,,1660,question,responseOptionYes,20049,form,"Yes, on permanent basis without an office"
+4768b3605049436613d56b32,,1660,question,responseOptionYesPeriodicWithoutOffice,20049,form,"Yes, on periodic basis without an office"
+4768b3605049436613d56b32,,1660,question,responseOptionYesWithOffice,20049,form,"Yes, with Office"
+4768b360504943b0cdb6d7b8,,1663,question,questionText,20049,form,"Prince Edward Island, Canada"
+4768b360504943b0cdb6d7b8,,1663,question,responseOptionNo,20049,form,No
+4768b360504943b0cdb6d7b8,,1663,question,responseOptionYes,20049,form,"Yes, on permanent basis without an office"
+4768b360504943b0cdb6d7b8,,1663,question,responseOptionYesPeriodicWithoutOffice,20049,form,"Yes, on periodic basis without an office"
+4768b360504943b0cdb6d7b8,,1663,question,responseOptionYesWithOffice,20049,form,"Yes, with Office"
+4768b360504943d5206a195e,,1665,question,questionText,20049,form,"Quebec, Canada"
+4768b360504943d5206a195e,,1665,question,responseOptionNo,20049,form,No
+4768b360504943d5206a195e,,1665,question,responseOptionYes,20049,form,"Yes, on permanent basis without an office"
+4768b360504943d5206a195e,,1665,question,responseOptionYesPeriodicWithoutOffice,20049,form,"Yes, on periodic basis without an office"
+4768b360504943d5206a195e,,1665,question,responseOptionYesWithOffice,20049,form,"Yes, with Office"
+4768b3605049437d1f7dbc29,,1667,question,questionText,20049,form,"Saskatchewan, Canada"
+4768b3605049437d1f7dbc29,,1667,question,responseOptionNo,20049,form,No
+4768b3605049437d1f7dbc29,,1667,question,responseOptionYes,20049,form,"Yes, on permanent basis without an office"
+4768b3605049437d1f7dbc29,,1667,question,responseOptionYesPeriodicWithoutOffice,20049,form,"Yes, on periodic basis without an office"
+4768b3605049437d1f7dbc29,,1667,question,responseOptionYesWithOffice,20049,form,"Yes, with Office"
+4768b36050494386a75d9593,,1680,question,questionText,20049,form,"Yukon, Canada"
+4768b36050494386a75d9593,,1680,question,responseOptionNo,20049,form,No
+4768b36050494386a75d9593,,1680,question,responseOptionYes,20049,form,"Yes, on permanent basis without an office"
+4768b36050494386a75d9593,,1680,question,responseOptionYesPeriodicWithoutOffice,20049,form,"Yes, on periodic basis without an office"
+4768b36050494386a75d9593,,1680,question,responseOptionYesWithOffice,20049,form,"Yes, with Office"
+4768b3605049435d21b0d273,,1683,question,questionText,20049,form,"Alberta, Canada"
+4768b3605049435d21b0d273,,1683,question,responseOptionNo,20049,form,No
+4768b3605049435d21b0d273,,1683,question,responseOptionYes,20049,form,"Yes, on permanent basis without an office"
+4768b3605049435d21b0d273,,1683,question,responseOptionYesPeriodicWithoutOffice,20049,form,"Yes, on periodic basis without an office"
+4768b3605049435d21b0d273,,1683,question,responseOptionYesWithOffice,20049,form,"Yes, with Office"
+4e5e882d50494391e5261e94,,8929,question,questionText,20049,form,"North West Territories, Canada"
+4e5e882d50494391e5261e94,,8929,question,responseOptionNo,20049,form,No
+4e5e882d50494391e5261e94,,8929,question,responseOptionYes,20049,form,"Yes, on permanent basis without an office"
+4e5e882d50494391e5261e94,,8929,question,responseOptionYesPeriodicWithoutOffice,20049,form,"Yes, on periodic basis without an office"
+4e5e882d50494391e5261e94,,8929,question,responseOptionYesWithOffice,20049,form,"Yes, with Office"
+5c18235937000072cdbf4e95,5aadcb9c2400006c00183e40,20049,questionGroup,questionGroupText,20049,form,Avetta PQF - Canada Offices and Locations of Work Performed

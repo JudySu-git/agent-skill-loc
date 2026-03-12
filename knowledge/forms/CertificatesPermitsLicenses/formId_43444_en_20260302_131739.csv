@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66f194860100005200d23293,66f182310100005200d23278,43444,questionGroup,questionGroupText,43444,form,GM Global Insurance Variance Form
+66f182700100003200d2327b,,159679,question,description,43444,form,Please include verbiage from your agreement with GM to support the variance process.
+66f182700100003200d2327b,,159679,question,questionText,43444,form,What service (scope of work) are you providing under contract?
+66f182700100003200d2327b,,159679,question,responseOption1,43444,form,Yes
+66f182700100003200d2327b,,159679,question,responseOption2,43444,form,No
+66f1827f0100003900d2327d,,159680,question,description,43444,form,Example documentation that will be accepted.\n -Project Scope\n -Active Contract / Agreement\n -GM Project Owner Approval
+66f1827f0100003900d2327d,,159680,question,questionText,43444,form,Please include the documentation that defines the insurance terms between your organization and GM.
+66f1827f0100003900d2327d,,159680,question,responseOption1,43444,form,Yes
+66f1827f0100003900d2327d,,159680,question,responseOption2,43444,form,No
+66f182920100003800d23280,,159681,question,questionText,43444,form,What GM business unit are you supporting?
+66f182920100003800d23280,,159681,question,responseOption1,43444,form,Construction
+66f182920100003800d23280,,159681,question,responseOption2,43444,form,Facilities
+66f182920100003800d23280,,159681,question,responseOption3,43444,form,Service Providers
+66f1829f0100002a00e522a9,,159682,question,questionText,43444,form,Who is your primary GM contact?
+66f1829f0100002a00e522a9,,159682,question,responseOption1,43444,form,Yes
+66f1829f0100002a00e522a9,,159682,question,responseOption2,43444,form,No

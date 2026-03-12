@@ -1,0 +1,41 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6230fb332e0000a275a3449d,6230f5212f0000728d2cc0bf,35608,questionGroup,questionGroupText,35608,form,Avetta PQF - Czech Republic Company Information
+6230f5472e0000a275a30529,6230f5472e0000a275a30528,35609,questionGroup,questionGroupText,35608,form,Czech Republic
+6230f5972e0000a275a30776,,122155,question,description,35608,form,8 digits
+6230f5972e0000a275a30776,,122155,question,questionText,35608,form,"Please enter your <a href=""https://ares.gov.cz/""target=""_blank"">Trade Register</a> company ID"
+6230f6032e0000a275a30cec,,122156,question,description,35608,form,A company might have multiple Industry Classification Codes. Between 2-5 digits.
+6230f6032e0000a275a30cec,,122156,question,questionText,35608,form,"Please enter your company’s main <a href=""https://csu.gov.cz/klasifikace""target=""_blank"">CZ-NACE classification of economic activities</a>"
+6230f6d22f0000728d2cd53a,,122157,question,questionText,35608,form,Does your company have any additional CZ-NACE classification codes?
+6230f6d22f0000728d2cd53a,,122157,question,responseOption1,35608,form,Yes
+6230f6d22f0000728d2cd53a,,122157,question,responseOption2,35608,form,No
+6230f6ef2f0000728d2cd698,,122158,question,questionText,35608,form,Please provide the additional code
+6230f6fa2e0000a275a318fe,,122159,question,questionText,35608,form,Does your company have any additional CZ-NACE classification codes?
+6230f6fa2e0000a275a318fe,,122159,question,responseOption1,35608,form,Yes
+6230f6fa2e0000a275a318fe,,122159,question,responseOption2,35608,form,No
+6230f7102f0000728d2cd99b,,122160,question,questionText,35608,form,Please provide the additional code
+6230f7202e0000a275a31ad2,,122161,question,questionText,35608,form,Does your company have any additional CZ-NACE classification codes?
+6230f7202e0000a275a31ad2,,122161,question,responseOption1,35608,form,Yes
+6230f7202e0000a275a31ad2,,122161,question,responseOption2,35608,form,No
+6230f7392e0000a275a31be2,,122162,question,questionText,35608,form,Please provide the additional code
+6230f74e2e0000a275a31c60,,122163,question,questionText,35608,form,Does your company have any additional CZ-NACE classification codes?
+6230f74e2e0000a275a31c60,,122163,question,responseOption1,35608,form,Yes
+6230f74e2e0000a275a31c60,,122163,question,responseOption2,35608,form,No
+6230f7672f0000728d2cdc36,,122164,question,questionText,35608,form,Please provide the additional code
+6230f7852f0000728d2cdc38,,122165,question,questionText,35608,form,Does your company have any additional CZ-NACE classification codes?
+6230f7852f0000728d2cdc38,,122165,question,responseOption1,35608,form,Yes
+6230f7852f0000728d2cdc38,,122165,question,responseOption2,35608,form,No
+6230f7a12f0000728d2cdc3a,,122166,question,questionText,35608,form,Please provide the additional code
+6230f7c22e0000a275a3218f,,122167,question,questionText,35608,form,"Please upload your company’s <a href=""https://esm.justice.cz/ias/issm/rejstrik"" target=""_BLANK""> Registration of Beneficial owner of the company</a>"
+6230f81c2e0000a275a3245f,,122168,question,questionText,35608,form,Is your company VAT-registered?
+6230f81c2e0000a275a3245f,,122168,question,responseOption1,35608,form,Yes
+6230f81c2e0000a275a3245f,,122168,question,responseOption2,35608,form,No
+6230f88b2f0000728d2ce3ea,,122169,question,description,35608,form,"CZ VAT registration ID is “CZ” followed by 8, 9 or 10 digits – e.g. CZ63998581 for RSM CZ"
+6230f88b2f0000728d2ce3ea,,122169,question,questionText,35608,form,Please enter your company’s VAT registration ID
+6230f8a92e0000a275a32a23,,122170,question,questionText,35608,form,"Is your company listed as an <a href=""https://adisspr.mfcr.cz/dpr/adis/idpr_pub/izdr/izdr.faces"" target=""_BLANK"">unreliable VAT payer</a>?"
+6230f8a92e0000a275a32a23,,122170,question,responseOption1,35608,form,Yes
+6230f8a92e0000a275a32a23,,122170,question,responseOption2,35608,form,No
+6230f8fd2e0000a275a32bec,,122171,question,description,35608,form,"A company might have several Registered Bank Account for VAT payer, but we are only requesting the bank account(s) related to their work with Avetta’s clients"
+6230f8fd2e0000a275a32bec,,122171,question,questionText,35608,form,"Please enter your <a href=""https://ares.gov.cz/"" target=""_BLANK"">Registered bank account(s) number(s) for VAT payers</a> for the product(s)/service(s) provided to your Client(s) in Avetta"
+6230f9492e0000a275a32e62,,122172,question,questionText,35608,form,"Is your company listed in the <a href=""https://isir.justice.cz/isir/common/index.do"" target=""_BLANK"">Insolvency Register</a>?"
+6230f9492e0000a275a32e62,,122172,question,responseOption1,35608,form,Yes
+6230f9492e0000a275a32e62,,122172,question,responseOption2,35608,form,No

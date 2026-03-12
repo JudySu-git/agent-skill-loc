@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4a1c0100003700ebe526,663007b11b00002900b6e69d,42033,questionGroup,description,42033,form,You are getting this category because you selected a license in the Avetta PQF - South Australia License.
+66ce4a1c0100003700ebe526,663007b11b00002900b6e69d,42033,questionGroup,questionGroupText,42033,form,South Australia Contractor License - Electrical
+663007b11b00002e00b6e69e,,153404,question,questionText,42033,form,License Number:
+663007b11b00002e00b6e69e,,153404,question,responseOption1,42033,form,Yes
+663007b11b00002e00b6e69e,,153404,question,responseOption2,42033,form,No
+663007b11b00002e00b6e69f,,153405,question,questionText,42033,form,Please upload your license:\n
+663007b11b00002e00b6e69f,,153405,question,responseOption1,42033,form,Yes
+663007b11b00002e00b6e69f,,153405,question,responseOption2,42033,form,No
+663007b11b00003200b6e6a0,,153406,question,questionText,42033,form,Expiration Date:
+663007b11b00003200b6e6a0,,153406,question,responseOption1,42033,form,Yes
+663007b11b00003200b6e6a0,,153406,question,responseOption2,42033,form,No

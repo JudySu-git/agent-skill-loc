@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+636575871700003d06cf879f,6365757e180000db04c0c851,37458,questionGroup,questionGroupText,37458,form,Electrical Contractor Licences – Northern Territory
+6365757e180000db04c0c852,,132388,question,questionText,37458,form,Please upload current Electrical Licence
+6365757e180000db04c0c853,,132389,question,questionText,37458,form,Licence Number
+6365757e180000db04c0c854,,132390,question,questionText,37458,form,Effective Date
+6365757e180000db04c0c855,,132391,question,questionText,37458,form,Expiration Date

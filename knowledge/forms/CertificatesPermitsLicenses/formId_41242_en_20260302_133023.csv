@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65cff074180000ae41214dae,65bd7e97180000af41b8ce30,41242,questionGroup,questionGroupText,41242,form,Trucker's Civil Liability - Disappearance of Cargo (RCF-DC)
+65c13ce71700007a018367df,65c13ce71700007a018367de,41264,questionGroup,questionGroupText,41242,form,Policy Information
+65c13cf2170000cc008367e3,65c13cf2170000cc008367e2,41265,questionGroup,questionGroupText,41242,form,Policy Limits
+65bd7f06180000b541b8cef1,,150176,question,questionText,41242,form,Maximum Guarantee Limit:
+65bd7f21180000a741b8cef4,,150177,question,questionText,41242,form,Policy Expiration:
+65bd7f21180000a741b8cef4,,150177,question,responseOption1,41242,form,Yes
+65bd7f21180000a741b8cef4,,150177,question,responseOption2,41242,form,No
+65c13d20170000b2308367e5,,150215,question,description,41242,form,Used to provide instructions from Client
+65c13d20170000b2308367e5,,150215,question,questionText,41242,form,Comments
+65c13d3a180000e02fb40e48,,150217,question,description,41242,form,Date the instructions from Client expire
+65c13d3a180000e02fb40e48,,150217,question,questionText,41242,form,VARIANCE Expiration Date
+65c13dba180000e02fb40e4d,,150219,question,questionText,41242,form,Please upload Trucker’s Civil Liability - Disappearance of Cargo Certificate.

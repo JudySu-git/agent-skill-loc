@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6866aeaf010000390098b5db,6866ae0d0100003c0098b5cd,46484,questionGroup,questionGroupText,46484,form, Motor/Vehicle Liability - Kooragang Island
+6866ae0d010000390098b5ce,6866ae0d010000390098b5ce,46485,questionGroup,questionGroupText,46484,form,Policy Information
+6866ae0d010000390098b5cf,6866ae0d010000390098b5cf,46486,questionGroup,questionGroupText,46484,form,Policy Limits
+6866ae0d010000340098b5d0,,175455,question,questionText,46484,form,Monetary Limit
+6866ae0d0100003e0098b5d1,,175456,question,questionText,46484,form,Currency used in Certificate of Insurance (COI)
+6866ae0d0100003e0098b5d2,,175457,question,questionText,46484,form,Date of Commencement of Policy
+6866ae0d0100003e0098b5d3,,175458,question,questionText,46484,form,Insurance Carrier Name
+6866ae0d0100003e0098b5d4,,175459,question,description,46484,form,Date the instructions from Client expire
+6866ae0d0100003e0098b5d4,,175459,question,questionText,46484,form,VARIANCE Expiration Date
+6866ae0d0100003e0098b5d5,,175460,question,questionText,46484,form,Date of Expiry of Policy
+6866ae0d0100003e0098b5d7,,175461,question,description,46484,form,Motor Vehicle Liability Certificate
+6866ae0d0100003e0098b5d7,,175461,question,questionText,46484,form,Please upload Motor Vehicle Liability Certificate
+6866ae0d010000340098b5d6,,175462,question,description,46484,form,Used to provide instructions from Client
+6866ae0d010000340098b5d6,,175462,question,questionText,46484,form,Comments

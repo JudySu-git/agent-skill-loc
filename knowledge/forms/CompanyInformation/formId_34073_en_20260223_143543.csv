@@ -1,0 +1,18 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+618453f92d000030913b1700,61842c5f2d0000309137970e,34073,questionGroup,questionGroupText,34073,form,Avetta PQF - Denmark Company Information
+618436d52e00009499df9def,618436d52e00009499df9dee,34074,questionGroup,questionGroupText,34073,form,Denmark
+618436e82e00009499df9f58,,115741,question,questionText,34073,form,"Is your company registered with the <a href=""https://danishbusinessauthority.dk/"" target=""_BLANK""> Danish Business Authority </a>(Erhvervsstyrelsen)?"
+618436e82e00009499df9f58,,115741,question,responseOption1,34073,form,Yes
+618436e82e00009499df9f58,,115741,question,responseOption2,34073,form,No
+618439022e00009499dfd46a,,115749,question,questionText,34073,form,Please provide your Company Register Number (CVR)
+61843a072e00009499dfecda,,115751,question,questionText,34073,form,"Does your company have a <a href=""https://www.sktst.dk/english/"" target=""_BLANK""> Mervaerdiafgift (MOMS)</a> number?"
+61843a072e00009499dfecda,,115751,question,responseOption1,34073,form,Yes
+61843a072e00009499dfecda,,115751,question,responseOption2,34073,form,No
+61843a4a2e00009499dff334,,115752,question,questionText,34073,form,Please provide your MOMS number
+61843a722e00009499dffd1f,,115753,question,questionText,34073,form,Please indicate your company's business entity / form of business within this country
+61843a722e00009499dffd1f,,115753,question,responseOption1,34073,form,A/S
+61843a722e00009499dffd1f,,115753,question,responseOption2,34073,form,ApS
+61843a722e00009499dffd1f,,115753,question,responseOption3,34073,form,P/S
+61843a722e00009499dffd1f,,115753,question,responseOption4,34073,form,IVS
+61843a722e00009499dffd1f,,115753,question,responseOption5,34073,form,I/S
+61843a722e00009499dffd1f,,115753,question,responseOption6,34073,form,K/S

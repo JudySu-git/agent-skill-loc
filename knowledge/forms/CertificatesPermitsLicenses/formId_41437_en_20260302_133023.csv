@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+662ab4021a00005f00fbfeed,65dd19741a0000da1e192ccc,41437,questionGroup,questionGroupText,41437,form,Avetta PQF - Italy Chamber of Commerce Certificate
+65dd1a4f1a00008e00192dd0,,150897,question,questionText,41437,form,"Is your company registered with the Italian Chamber of Commerce?\n\n<a href=""https://www.registroimprese.it/dettaglio-ricerca-gratuita?p_p_id=ricercaportlet_WAR_ricercaRIportlet&p_p_lifecycle=0&p_p_state=normal&_ricercaportlet_WAR_ricercaRIportlet_view=%2Frisultatiricercagratuita%2Fdettaglio_impresa.jsp&_ricercaportlet_WAR_ricercaRIportlet_pageToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDczNTQxNzAsImNvdW50IjoyNTB9.YRTsEHmMn_2qme2cJa_pewePwEiBK-aLV-KUm5l-DFM"" \ntarget=""_Blank"">Dettaglio Ricerca Gratuita | Registro Imprese</a>"
+65dd1a4f1a00008e00192dd0,,150897,question,responseOption1,41437,form,Yes
+65dd1a4f1a00008e00192dd0,,150897,question,responseOption2,41437,form,No
+65dd1b3319000096185867bf,,150898,question,questionText,41437,form,Please submit a copy of your Visura Camerale.
+65dd1b3319000096185867bf,,150898,question,responseOption1,41437,form,Yes
+65dd1b3319000096185867bf,,150898,question,responseOption2,41437,form,No
+65dd1b8b190000541f5867c2,,150899,question,questionText,41437,form,Please select one of the below options:
+65dd1b8b190000541f5867c2,,150899,question,responseOption1,41437,form,My company is based in a different country
+65dd1b8b190000541f5867c2,,150899,question,responseOption2,41437,form,Other
+65dd1bbc19000068035867c7,,150900,question,questionText,41437,form,Please enter your company’s home country:
+65dd1bbc19000068035867c7,,150900,question,responseOption1,41437,form,Yes
+65dd1bbc19000068035867c7,,150900,question,responseOption2,41437,form,No
+65dd1be01a00006806192dd6,,150901,question,questionText,41437,form,Please explain:
+65dd1be01a00006806192dd6,,150901,question,responseOption1,41437,form,Yes
+65dd1be01a00006806192dd6,,150901,question,responseOption2,41437,form,No

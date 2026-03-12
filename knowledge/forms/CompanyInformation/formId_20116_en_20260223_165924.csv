@@ -1,0 +1,61 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+658269ac160000fd0048e26c,51e9558b5049435f8532cff9,4121,questionGroup,questionGroupText,20116,form,Poland
+51e9564550494320ce73ef32,,19141,question,description,20116,form,"Most companies in Poland are required to register with the <a href=""https://ekrs.ms.gov.pl/web/wyszukiwarka-krs/strona-glowna/index.html"" target=""_blank"">National Court Register</a> (KRS)."
+51e9564550494320ce73ef32,,19141,question,questionText,20116,form,Is your company registered on the National Court Register (KRS)?
+51e9564550494320ce73ef32,,19141,question,responseOptionNo,20116,form,No
+51e9564550494320ce73ef32,,19141,question,responseOptionYes,20116,form,Yes
+51e95757504943f0836336ee,,19143,question,description,20116,form,The KRS number is issued by the National Court Register to companies that register on their database. It typically contains 10 digits.
+51e95757504943f0836336ee,,19143,question,questionText,20116,form,Please provide your company's KRS number.
+51e957a3504943ee869efdee,,19144,question,description,20116,form,"You can verify your NIP (Number Identyfikacji Podatkowej) <a href = ""https://ppuslugi.mf.gov.pl/?link=NIP&;"" target = ""_blank"">here</a>."
+51e957a3504943ee869efdee,,19144,question,questionText,20116,form,Does your company have a NIP number?
+51e957a3504943ee869efdee,,19144,question,responseOptionNo,20116,form,No
+51e957a3504943ee869efdee,,19144,question,responseOptionYes,20116,form,Yes
+51e957e15049433f603fea60,,19145,question,description,20116,form,The NIP number will typically contain 10 digits.
+51e957e15049433f603fea60,,19145,question,questionText,20116,form,Please provide your company's NIP number.
+65862e301900001c38ed3674,5ab6bb1d2600005d00cbda2f,20116,questionGroup,questionGroupText,20116,form,Avetta PQF - Poland Company Information
+65827443160000ca0048e2ff,65827443160000ca0048e2fe,40953,questionGroup,questionGroupText,20116,form,PDK
+63603b1d19000066056203c6,,132079,question,description,20116,form,"CEDIG is maintained by the Ministry of Development, Labour and Technology. It is granted to all entrepreneurs (both sole-traders and companies)."
+63603b1d19000066056203c6,,132079,question,questionText,20116,form,Is your company registered on the National Register of Entrepreneurs (CEDIG)?
+63603b1d19000066056203c6,,132079,question,responseOption1,20116,form,Yes
+63603b1d19000066056203c6,,132079,question,responseOption2,20116,form,No
+63603d68180000ae056c03d8,,132080,question,questionText,20116,form,Does your company have a REGON number?
+63603d68180000ae056c03d8,,132080,question,responseOption1,20116,form,Yes
+63603d68180000ae056c03d8,,132080,question,responseOption2,20116,form,No
+63603d9f18000060056c06de,,132081,question,description,20116,form,It typically contains 9 digits.
+63603d9f18000060056c06de,,132081,question,questionText,20116,form,"If yes, please provide your company's REGON number."
+658269ab1600001b0148e26b,,148736,question,questionText,20116,form,Please indicate your company's business entity / form of business within this country.
+658269ab1600001b0148e26b,,148736,question,responseOption1,20116,form,Sole Proprietorship
+658269ab1600001b0148e26b,,148736,question,responseOption2,20116,form,General Partnership
+658269ab1600001b0148e26b,,148736,question,responseOption3,20116,form,Limited Partnership
+658269ab1600001b0148e26b,,148736,question,responseOption4,20116,form,Limited Liability Company
+658269ab1600001b0148e26b,,148736,question,responseOption5,20116,form,Corporation
+658269ab1600001b0148e26b,,148736,question,responseOption6,20116,form,Foreign entity with no local fiscal presence
+658269ab1600001b0148e26b,,148736,question,responseOption7,20116,form,Other
+65826a58160000d10048e270,,148737,question,questionText,20116,form,Please indicate where your company is established:
+65826a58160000d10048e270,,148737,question,responseOption1,20116,form,Yes
+65826a58160000d10048e270,,148737,question,responseOption2,20116,form,No
+65826a71160000fe0048e271,,148738,question,questionText,20116,form,"If Other, please explain:"
+65826a71160000fe0048e271,,148738,question,responseOption1,20116,form,Yes
+65826a71160000fe0048e271,,148738,question,responseOption2,20116,form,No
+658271f7160000390148e2bc,,148739,question,questionText,20116,form,"If No, please explain why:"
+658271f7160000390148e2bc,,148739,question,responseOption1,20116,form,Yes
+658271f7160000390148e2bc,,148739,question,responseOption2,20116,form,No
+658272781900001501e31f57,,148740,question,description,20116,form,It typically contains 15 digits.
+658272781900001501e31f57,,148740,question,questionText,20116,form,Please provide your company's CEDIG number.
+658272781900001501e31f57,,148740,question,responseOption1,20116,form,Yes
+658272781900001501e31f57,,148740,question,responseOption2,20116,form,No
+6582729e1600003b0148e2f6,,148741,question,questionText,20116,form,"If No, please explain why:"
+6582729e1600003b0148e2f6,,148741,question,responseOption1,20116,form,Yes
+6582729e1600003b0148e2f6,,148741,question,responseOption2,20116,form,No
+6582731a160000ae0048e2f8,,148742,question,questionText,20116,form,"If No, please explain why:"
+6582731a160000ae0048e2f8,,148742,question,responseOption1,20116,form,Yes
+6582731a160000ae0048e2f8,,148742,question,responseOption2,20116,form,No
+658273701900001501e31f5d,,148743,question,questionText,20116,form,"If No, please explain why:"
+658273701900001501e31f5d,,148743,question,responseOption1,20116,form,Yes
+658273701900001501e31f5d,,148743,question,responseOption2,20116,form,No
+65827456190000e000e31f62,,148744,question,questionText,20116,form,
+65827456190000e000e31f62,,148744,question,responseOption1,20116,form,Yes
+65827456190000e000e31f62,,148744,question,responseOption2,20116,form,No
+658274ab1900001501e31f64,,148745,question,questionText,20116,form,
+658274ab1900001501e31f64,,148745,question,responseOption1,20116,form,Yes
+658274ab1900001501e31f64,,148745,question,responseOption2,20116,form,No

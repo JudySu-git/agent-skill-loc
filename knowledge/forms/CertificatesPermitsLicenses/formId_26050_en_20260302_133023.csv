@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+626ab4812e000039ea41d9a7,58484e7350494317b260cc89,10170,questionGroup,questionGroupText,26050,form,CE Marking
+626ab5122e000039ea41e1d6,5c1ab5983100009f4b4c766b,26050,questionGroup,questionGroupText,26050,form,Avetta PQF - CE Marking
+584850f750494342f1aa552a,,42800,question,questionText,26050,form,"Do you or a subsidiary business, including any subcontractor, or other part of your supply chain, partake in any of the following activities: the supply, fabrication or design of steel structures, or supply of structural material and/ or structural components, any kind of welding, erection of, or modification of any structures, either temporary or permanent?"
+584850f750494342f1aa552a,,42800,question,responseOptionNo,26050,form,No
+584850f750494342f1aa552a,,42800,question,responseOptionYes,26050,form,Yes
+5848523150494322ab24e3cf,,42802,question,questionText,26050,form,"<span style=""color:rgb(129, 141, 161);font-size: 20px"">Please upload the following Certifications: </span> <br>\nFactory Production Control Certificate"
+58485250504943304476cc7e,,42803,question,questionText,26050,form,Welding Certificate
+584852525049434a1b84cfad,,42804,question,questionText,26050,form,Declaration of Performance Certificate
+626ab4802e000039ea41d9a6,,126664,question,questionText,26050,form,"It is now a legal obligation for the construction supply chain to use CE marked products, and to supply, along with those products, all requisite supporting documentation, and for those involved in the supply, design, fabrication or welding of steel structures, or supply of structural steel and steel components to attain CE Marking certification through BS EN 1090-1-2.\n \n \n\nHave you or the relevant party in your supply chain attained BS EN 1090-1-2 to Execution Class 2 or above? "
+626ab4802e000039ea41d9a6,,126664,question,responseOption1,26050,form,"Yes, my company has attained BS EN 1090-1-2 to Execution Class 2 or above "
+626ab4802e000039ea41d9a6,,126664,question,responseOption2,26050,form,"Yes, my supplier has attained BS EN 1090-1-2 to Execution Class 2 or above "
+626ab4802e000039ea41d9a6,,126664,question,responseOption3,26050,form,"No, my company has not attained BS EN 1090-1-2 to Execution Class 2 or above "
+626ab4802e000039ea41d9a6,,126664,question,responseOption4,26050,form,"No, my supplier has not attained BS EN 1090-1-2 to Execution Class 2 or above "

@@ -1,0 +1,27 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6197c2972e00006ea7db52cb,61967b6c2e0000acc89afe5c,34236,questionGroup,questionGroupText,34236,form,Avetta PQF - Sustainability Stage 1 - UK Specific
+61967ba12d00009d55cd9dad,61967ba12d00009d55cd9dac,34237,questionGroup,questionGroupText,34236,form,Modern Slavery and Forced Labour - UK
+61967bb62d00009d55cd9e44,,116273,question,questionText,34236,form,Does your company have a physical presence (Premises/Employees/Company Agents/ Registered business practice/ Delivery of a business function) within the United Kingdom(UK)?\n
+61967bb62d00009d55cd9e44,,116273,question,responseOption1,34236,form,Yes
+61967bb62d00009d55cd9e44,,116273,question,responseOption2,34236,form,No
+61967bd22d00009d55cd9e6c,,116274,question,questionText,34236,form,Does the company have a turnover threshold of (£36m) or greater?\n
+61967bd22d00009d55cd9e6c,,116274,question,responseOption1,34236,form,Yes
+61967bd22d00009d55cd9e6c,,116274,question,responseOption2,34236,form,No
+61967be32e0000acc89afff2,,116275,question,questionText,34236,form,Has your company produced a Modern Slavery Statement?
+61967be32e0000acc89afff2,,116275,question,responseOption1,34236,form,Yes
+61967be32e0000acc89afff2,,116275,question,responseOption2,34236,form,No
+61967bfd2d00009d55cd9f47,,116276,question,questionText,34236,form,Please upload a copy of the company policy on the prevention of modern slavery\n
+61967c1f2e0000acc89b00de,,116277,question,questionText,34236,form,If the company does not meet the United Kingdom (UK) company turnover threshold (£36m) to produce a modern slavery statement do you voluntarily produce a statement demonstrating company commitment to preventing modern slavery within the supply chain?\n
+61967c1f2e0000acc89b00de,,116277,question,responseOption1,34236,form,Yes
+61967c1f2e0000acc89b00de,,116277,question,responseOption2,34236,form,No
+61967c1f2e0000acc89b00de,,116277,question,responseOption3,34236,form,N/A
+61967c532e0000acc89b024e,,116278,question,questionText,34236,form,Please upload a copy of the company policy on the prevention of modern slavery\n\n
+61967c7e2e0000acc89b0331,,116279,question,questionText,34236,form,Has your company published your annual Modern Slavery Statement?\n
+61967c7e2e0000acc89b0331,,116279,question,responseOption1,34236,form,Yes
+61967c7e2e0000acc89b0331,,116279,question,responseOption2,34236,form,No
+61967c7e2e0000acc89b0331,,116279,question,responseOption3,34236,form,N/A
+61967c9e2e0000acc89b0333,,116280,question,questionText,34236,form,Report is published:\n
+61967c9e2e0000acc89b0333,,116280,question,responseOption1,34236,form,Available on the company website
+61967c9e2e0000acc89b0333,,116280,question,responseOption2,34236,form,Published on the government web portal
+61967c9e2e0000acc89b0333,,116280,question,responseOption3,34236,form,Other
+61967cd02d00009d55cda371,,116281,question,questionText,34236,form,Please provide your electronic signature below:

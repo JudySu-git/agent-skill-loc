@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+636576c31700003906cf918b,636576ba180000f304c0cc24,37467,questionGroup,questionGroupText,37467,form,Scaffolding Contractor Licences – Queensland
+636576ba180000f304c0cc25,,132428,question,questionText,37467,form,Please upload current Scaffolding Licence
+636576ba180000f304c0cc26,,132429,question,questionText,37467,form,Licence Number
+636576ba180000f304c0cc27,,132430,question,questionText,37467,form,Effective Date
+636576ba180000f304c0cc28,,132431,question,questionText,37467,form,Expiration Date

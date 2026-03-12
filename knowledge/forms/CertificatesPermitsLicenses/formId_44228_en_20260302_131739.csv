@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+677d642c01000031005689ce,677305ff010000c900327278,44228,questionGroup,questionGroupText,44228,form,Nigeria Permits and Certificates
+677306930100007601d90dc3,677306930100007601d90dc2,44229,questionGroup,questionGroupText,44228,form,Oil & Gas
+6773069d0100007601d90dc8,6773069d0100007601d90dc7,44230,questionGroup,questionGroupText,44228,form,Manufacturing & OEM (Original Equipment Manufacturing)
+677306b2010000be00327281,677306b2010000be00327280,44231,questionGroup,questionGroupText,44228,form,The National Agency for Food and Drug Administration and Control (NAFDAC) 
+677306d2010000c900327284,,163912,question,questionText,44228,form,"Does your company have a <a href=""https://www.nuprc.gov.ng/index.php"" target=""_blank"">NUPRC </a>Service Permit?"
+677306d2010000c900327284,,163912,question,responseOption1,44228,form,Yes
+677306d2010000c900327284,,163912,question,responseOption2,44228,form,No
+677306e5010000be00327286,,163913,question,questionText,44228,form,Please upload your current NUPRC Service Permit(s)
+677306fa0100002f01d90dcb,,163914,question,questionText,44228,form,"Do you have NCEC Certificate(s) issued by <a href=""https://ncdmb.gov.ng/"" target=""_blank"">Nigerian Content Development & Monitoring Board</a>?"
+677306fa0100002f01d90dcb,,163914,question,responseOption1,44228,form,Yes
+677306fa0100002f01d90dcb,,163914,question,responseOption2,44228,form,No
+67730711010000aa00327287,,163915,question,questionText,44228,form,Please upload your NCEC Certificate(s) 
+67730754010000be00327289,,163916,question,questionText,44228,form,"Do you have a <a href=""https://www.nafdac.gov.ng/"" target=""_blank"">NAFDAC </a> Permit? "
+67730754010000be00327289,,163916,question,responseOption1,44228,form,Yes
+67730754010000be00327289,,163916,question,responseOption2,44228,form,No
+6773076b0100007601d90dce,,163917,question,questionText,44228,form,Please upload your NAFDAC Permit

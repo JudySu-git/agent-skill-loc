@@ -1,0 +1,22 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6736555b0100005000a317c0,66fed4e60100007a0097c400,43470,questionGroup,questionGroupText,43470,form,Kleinfelder Safety Variance Form
+673646c901000034002f5dae,66fed5de0100002b00c2adab,43471,questionGroup,questionGroupText,43470,form,Kleinfelder Supplier Variance Inputs
+66fed5f4010000b300c2adb2,,159748,question,description,43470,form,"Kleinfelder’s Subcontractor Evaluation Criteria, they will be “red-flagged,\ni.e., identified as “non-compliant,” within the Avetta system. Subcontractors who are red flagged\nwithin the Avetta system may, of their own accord, request a variance through the Avetta system. If\nthe variance is approved the subcontractor must work with the Kleinfelder PM to implement the\napproved mitigations described and agreed to by the subcontractor.\n\nFor this compliance criteria, please provide a detailed root cause of what caused the occurrence or\nthe subsequent non- compliance.\n\nDescribe what circumstances, conditions, events that have been determined through investigation to\nbe the cause of subsequent non- compliance or upload a document that provides this information"
+66fed5f4010000b300c2adb2,,159748,question,questionText,43470,form,Why request a Variance? 
+66fed5f4010000b300c2adb2,,159748,question,responseOption1,43470,form,Yes
+66fed5f4010000b300c2adb2,,159748,question,responseOption2,43470,form,No
+66fee15b0100007900c2adb9,,159749,question,description,43470,form,Details could include plans to reduce risk of reoccurrence of the events leading to the performance gap. Plan should include information around:\n-Additional training\n-Staffing Considerations\n-Risk Assessment or Job Loss Analyses\n-Communication / Engagement Plans\n-Other mitigative actions that have been/will be implemented to prevent injury/incident while working
+66fee15b0100007900c2adb9,,159749,question,questionText,43470,form,"In detail, provide corrective actions being taken to address the current performance gap. Please list both Immediate and Long-Term corrective actions or upload a document that provides this information.\n"
+66fee15b0100007900c2adb9,,159749,question,responseOption1,43470,form,Yes
+66fee15b0100007900c2adb9,,159749,question,responseOption2,43470,form,No
+66fee1970100002c0097c410,,159750,question,description,43470,form,Examples of supporting documentation could include but not limited to:\n-Copy of Agreement (s)\n-Settlements\n-Citations or Violations\n-Notices\n-Incident Investigation Report\n-Corrective Action Plan
+66fee1970100002c0097c410,,159750,question,questionText,43470,form,Please upload any supporting documentation for this variance.\n
+66fee1970100002c0097c410,,159750,question,responseOption1,43470,form,Yes
+66fee1970100002c0097c410,,159750,question,responseOption2,43470,form,No
+66fee1b8010000320097c413,,159751,question,description,43470,form,Supplier Contact Name:
+66fee1b8010000320097c413,,159751,question,questionText,43470,form,"By providing this information, the supplier agrees to implement the corrective actions and mitigation plan while working on Kleinfelder projects. "
+66fee1b8010000320097c413,,159751,question,responseOption1,43470,form,Yes
+66fee1b8010000320097c413,,159751,question,responseOption2,43470,form,No
+67364cc1010000d400a307b4,,161878,question,questionText,43470,form,"Please provide the name, title and contact information of your Kleinfelder Project Manager"
+67364cc1010000d400a307b4,,161878,question,responseOption1,43470,form,Yes
+67364cc1010000d400a307b4,,161878,question,responseOption2,43470,form,No

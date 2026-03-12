@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+667b462c0100000801247086,653af4a21800002a001ad386,40535,questionGroup,questionGroupText,40535,form,Avetta PQF - US Supplier Diversity: Native American-Owned Business
+6542741c190000dd52f4d70a,653af6711800005600dc8378,40536,questionGroup,description,40535,form,You are receiving this category because you selected Native American-Owned Business in the United States Supplier Diversity Certification Questionnaire.
+6542741c190000dd52f4d70a,653af6711800005600dc8378,40536,questionGroup,questionGroupText,40535,form,Native American-Owned Business
+653af6dd1800002a001ad38c,,146192,question,questionText,40535,form,Please enter the issue date of your company’s Native American-Owned Business certificate:
+653af6dd1800002a001ad38c,,146192,question,responseOption1,40535,form,Yes
+653af6dd1800002a001ad38c,,146192,question,responseOption2,40535,form,No
+653af6fb1800002200dc837e,,146193,question,questionText,40535,form,Expiration Date:
+653af6fb1800002200dc837e,,146193,question,responseOption1,40535,form,Yes
+653af6fb1800002200dc837e,,146193,question,responseOption2,40535,form,No
+653af70e1800002a001ad38f,,146194,question,questionText,40535,form,Certificate Number:
+653af70e1800002a001ad38f,,146194,question,responseOption1,40535,form,Yes
+653af70e1800002a001ad38f,,146194,question,responseOption2,40535,form,No
+653af7571800002100dc8380,,146195,question,questionText,40535,form,Please upload a copy of your certification certificate:
+653af7571800002100dc8380,,146195,question,responseOption1,40535,form,Yes
+653af7571800002100dc8380,,146195,question,responseOption2,40535,form,No

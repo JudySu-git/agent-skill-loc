@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63bef9531500001e04d18bb8,62b3aa442f00008fe13f82a5,36691,questionGroup,questionGroupText,36691,form,Department of Transportation (DOT) Number - FMCSA\t
+62b3aa552f000087f5bf72e5,62b3aa552f000087f5bf72e4,36692,questionGroup,questionGroupText,36691,form,Department of Transportation (DOT) Number
+62b3aa672f00008fe13f83c1,,128645,question,description,36691,form,"Department of Transportation (DOT) is a hyperlink: <a href=""https://safer.fmcsa.dot.gov/CompanySnapshot.aspx""target=""_blank"">https://safer.fmcsa.dot.gov/CompanySnapshot.aspx</a> \n\nFederal Motor Carrier Safety Administration (FMCSA) is a hyperlink: <a href=""https://www.fmcsa.dot.gov/""target=""_blank"">https://www.fmcsa.dot.gov/</a>"
+62b3aa672f00008fe13f83c1,,128645,question,questionText,36691,form,Is your company required to maintain Department of Transportation (DOT) number regulated by the Federal Motor Carrier Safety Administration (FMCSA)?\n
+62b3aa672f00008fe13f83c1,,128645,question,responseOption1,36691,form,Yes
+62b3aa672f00008fe13f83c1,,128645,question,responseOption2,36691,form,No
+62b3aac22f00008fe13f871c,,128646,question,description,36691,form,Please input numerical values
+62b3aac22f00008fe13f871c,,128646,question,questionText,36691,form,Please provide your DOT (Department of Transportation) number.\n

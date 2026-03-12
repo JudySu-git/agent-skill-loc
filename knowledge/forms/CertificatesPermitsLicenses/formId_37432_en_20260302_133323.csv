@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6709483c0100004f0007a90b,636567b71700009805cf3b39,37432,questionGroup,questionGroupText,37432,form,Avetta PQF - Australia Contractor Licensing Requirements
+6365694d170000cb05cf44f6,,132254,question,questionText,37432,form,Does your company require to maintain any of the following licences?
+6365694d170000cb05cf44f6,,132254,question,responseOption1,37432,form,"Yes, Australia Asbestos Licences"
+6365694d170000cb05cf44f6,,132254,question,responseOption2,37432,form,"Yes, Australia Demolition Licences"
+6365694d170000cb05cf44f6,,132254,question,responseOption3,37432,form,"Yes, Australia Scaffolding Licences"
+6365694d170000cb05cf44f6,,132254,question,responseOption4,37432,form,"Yes, Australia Electrical Licences"
+6365694d170000cb05cf44f6,,132254,question,responseOption5,37432,form,No licences required
+636569bb170000c405cf4631,,132255,question,questionText,37432,form,Which state(s)/territory(ies) are you licenced in?
+636569bb170000c405cf4631,,132255,question,responseOption1,37432,form,New South Wales
+636569bb170000c405cf4631,,132255,question,responseOption2,37432,form,Queensland
+636569bb170000c405cf4631,,132255,question,responseOption3,37432,form,South Australia
+636569bb170000c405cf4631,,132255,question,responseOption4,37432,form,Tasmania
+636569bb170000c405cf4631,,132255,question,responseOption5,37432,form,Victoria
+636569bb170000c405cf4631,,132255,question,responseOption6,37432,form,Western Australia
+636569bb170000c405cf4631,,132255,question,responseOption7,37432,form,Northern Territory
+636569bb170000c405cf4631,,132255,question,responseOption8,37432,form,Australian Capital Territory (ACT)

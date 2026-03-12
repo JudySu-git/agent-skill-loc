@@ -1,0 +1,24 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87755a36b6c4c63546819,69a87755a36b6c4c63546818,51188,questionGroup,questionGroupText,51188,form,Arbeitsmittel,
+69a87754a36b6c4c63546811,,200256,question,description,51188,form,"Wenn vollständige Sicherheit nicht möglich ist, müssen Maßnahmen zur Gefahrenreduzierung sowie Not- und Rettungsverfahren umgesetzt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 33 Abs. 6</a>",
+69a87754a36b6c4c63546811,,200256,question,questionText,51188,form,"Schutzmaßnahmen (Technische, Organisatorische und/oder Persönliche Schutzausrüstung)",
+69a87754a36b6c4c63546812,,200257,question,description,51188,form,"Es müssen Maßnahmen getroffen werden, um gefährliche Annäherungen und elektrische Schläge in der Nähe von Freileitungen zu verhindern.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 34 Abs. 4</a>",
+69a87754a36b6c4c63546812,,200257,question,questionText,51188,form,Sicherheitsabstand zu Stromleitungen,
+69a87754a36b6c4c63546813,,200258,question,description,51188,form,"Arbeitnehmer müssen vor der Benutzung auf offensichtliche Mängel prüfen und andere Personen nicht gefährden. Regelmäßige Prüfungen der Arbeitsmittel müssen Schäden durch Benutzung oder Umwelteinflüsse berücksichtigen. Die Prüfhäufigkeit muss den Einwirkungen schädlicher Bedingungen entsprechen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 35 Abs. 3, § 37 Abs. 2–3, Abs. 7</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Arbeitsmittelverordnung, § 8</a>",
+69a87754a36b6c4c63546813,,200258,question,questionText,51188,form,"Prüfungen (Vor der Benutzung, Regelmäßig und Nach besonderen Ereignissen)",
+69a87754a36b6c4c63546814,,200259,question,description,51188,form,"Die Unterweisung muss sicherstellen, dass Arbeitnehmer vor der Benutzung auf offensichtliche Mängel prüfen, Arbeitsmittel ohne Gefährdung anderer bedienen und Unregelmäßigkeiten bei der Übergabe melden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 35 Abs. 3</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Arbeitsmittelverordnung, § 4, § 5</a>",
+69a87754a36b6c4c63546814,,200259,question,questionText,51188,form,Unterweisung,
+69a87754a36b6c4c63546815,,200260,question,description,51188,form,"Die Instandhaltung muss gemäß den Herstelleranweisungen erfolgen, um den sicheren Zustand zu erhalten. Instandhaltungsmaßnahmen müssen den gesetzlichen Anforderungen und den Vorgaben des Herstellers entsprechen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 38 Abs. 1</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Arbeitsmittelverordnung, § 16</a>",
+69a87754a36b6c4c63546815,,200260,question,questionText,51188,form,Instandhaltung,
+69a87754a36b6c4c63546816,,200261,question,description,51188,form,"Vor der erstmaligen Inbetriebnahme, nach dem Wiederaufbau sowie nach wesentlichen Reparaturen oder Änderungen ist eine Abnahmeprüfung erforderlich, wenn die Sicherheit vom Zustand oder der Standsicherheit abhängt.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 37 Abs. 1</a>",
+69a87754a36b6c4c63546816,,200261,question,questionText,51188,form,"Abnahmeprüfung (Vor der Erstinbetriebnahme, Nach Reparaturen)",
+69a87754a36b6c4c63546817,,200262,question,questionText,51188,form,<div></div>,

@@ -1,0 +1,23 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8773da36b6c4c6354670a,69a8773da36b6c4c63546709,51156,questionGroup,questionGroupText,51156,form,应急准备与响应,
+69a8773da36b6c4c63546702,,200049,question,description,51156,form,"在警报关闭前，必须采取预防措施以确保立即发出危险通知。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 12(2)</a>",
+69a8773da36b6c4c63546702,,200049,question,questionText,51156,form,紧急通知,
+69a8773da36b6c4c63546703,,200050,question,description,51156,form,"必须每年至少在工作时间内进行一次警报演练，并做好记录。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 12(3)</a>",
+69a8773da36b6c4c63546703,,200050,question,questionText,51156,form,警报演练（每年）,
+69a8773da36b6c4c63546704,,200051,question,description,51156,form,"必须确保在任何工作场所位置10 m范围内有符合规定且畅通的疏散通道。员工在场时，疏散通道必须保持畅通无阻。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 17(1)(1), 19(1)(4), 21(4)</a>",
+69a8773da36b6c4c63546704,,200051,question,questionText,51156,form,畅通的疏散通道,
+69a8773da36b6c4c63546705,,200052,question,description,51156,form,"必须向员工提供有关危险情况下行为规范的信息。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 14(1)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 46(3)</a>",
+69a8773da36b6c4c63546705,,200052,question,questionText,51156,form,培训,
+69a8773da36b6c4c63546706,,200053,question,description,51156,form,"必须确保应急设备的正确维护与清洁，并定期检查消防和救援设备的状况，及时纠正缺陷。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 17(1-2)</a>",
+69a8773da36b6c4c63546706,,200053,question,questionText,51156,form,设备检查,
+69a8773da36b6c4c63546707,,200054,question,description,51156,form,"应急照明必须能够在黑暗中支持安全疏散。必须为自然采光不足的工作区域、高风险区域及疏散通道提供应急照明。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 6(5)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 9(1)(1-3)</a>",
+69a8773da36b6c4c63546707,,200054,question,questionText,51156,form,应急照明,
+69a8773da36b6c4c63546708,,200055,question,questionText,51156,form,<div></div>,

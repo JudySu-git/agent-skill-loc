@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4b9574755049434227b15eaf,4b9574755049434227b15eaf,261,questionGroup,questionGroupText,261,category,Doing Business With Goodyear
+4b957654504943ac71b1fa57,,3436,question,linkResources!download.action?id=59,261,category,How to do Business with Goodyear
+4b957654504943ac71b1fa57,,3436,question,linkresources!download.action?id=59,261,category,How to do Business with Goodyear
+4b957654504943ac71b1fa57,,3436,question,questionText,261,category,"Have you read and do you understand the ""How to do Business with Goodyear"" document below? \n<a href=""/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_59.pdf"" target=""_BLANK"">How to do Business with Goodyear</a>"
+4b957654504943ac71b1fa57,,3436,question,responseOptionNo,261,category,No
+4b957654504943ac71b1fa57,,3436,question,responseOptionYes,261,category,Yes
+4b95767d504943748e20db48,,3437,question,questionText,261,category,Who is your Goodyear main point of contact?

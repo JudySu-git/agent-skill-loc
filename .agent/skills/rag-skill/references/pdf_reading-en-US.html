@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>pdf_reading-en-US.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="pdf-reading--analysis">PDF Reading &amp; Analysis</h1>
+<blockquote>
+<p>⚠️ <strong>Before using this document</strong>: Read this document in full before processing any PDF file, so you can choose the most appropriate tool and method. Do not attempt to process a PDF without reading this first.</p>
+</blockquote>
+<p>Methods for extracting text, tables, and metadata from PDF files.</p>
+<h2 id="quick-decision-table">Quick Decision Table</h2>
+<table>
+<thead>
+<tr>
+<th>Scenario</th>
+<th>Recommended Tool</th>
+<th>Reason</th>
+<th>Command / Code Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Plain text extraction (most common)</td>
+<td>pdftotext command</td>
+<td>Fastest and simplest</td>
+<td><code>pdftotext input.pdf output.txt</code></td>
+</tr>
+<tr>
+<td>Preserve layout</td>
+<td>pdftotext -layout</td>
+<td>Retains original formatting</td>
+<td><code>pdftotext -layout input.pdf output.txt</code></td>
+</tr>
+<tr>
+<td>Extract tables</td>
+<td>pdfplumber</td>
+<td>Strong table recognition</td>
+<td><code>page.extract_tables()</code></td>
+</tr>
+<tr>
+<td>Extract metadata</td>
+<td>pypdf</td>
+<td>Lightweight</td>
+<td><code>reader.metadata</code></td>
+</tr>
+<tr>
+<td>Scanned PDF (image-based)</td>
+<td>OCR (pytesseract)</td>
+<td>No other option</td>
+<td>Convert to image first, then OCR</td>
+</tr>
+</tbody>
+</table>
+<h2 id="text-extraction-priority">Text Extraction Priority</h2>
+<p><strong>Recommended priority (highest to lowest)</strong>:</p>
+<ol>
+<li><strong>pdftotext command-line tool</strong> (fastest, works for most PDFs)</li>
+<li>pdfplumber (when layout preservation or table extraction is needed)</li>
+<li>pypdf (lightweight, for simple extraction)</li>
+<li>OCR (only for scanned PDFs or when direct text extraction is not possible)</li>
+</ol>
+<h2 id="quick-start-using-pdftotext-recommended">Quick Start: Using pdftotext (Recommended)</h2>
+<blockquote>
+<p>⚠️ <strong>Important</strong>: Always save output to a file — do NOT print to stdout/terminal, as that consumes a large number of tokens!</p>
+</blockquote>
+<pre class="hljs"><code><div><span class="hljs-comment"># ✅ Correct: extract text to file (fastest and simplest)</span>
+pdftotext input.pdf output.txt
+
+<span class="hljs-comment"># ✅ Correct: preserve layout and save to file</span>
+pdftotext -layout input.pdf output.txt
+
+<span class="hljs-comment"># ✅ Correct: extract specific pages to file</span>
+pdftotext -f 1 -l 5 input.pdf output.txt  <span class="hljs-comment"># pages 1–5</span>
+
+<span class="hljs-comment"># ❌ Wrong: do NOT use stdout (consumes many tokens)</span>
+<span class="hljs-comment"># pdftotext input.pdf -</span>
+</div></code></pre>
+<p><strong>Workflow</strong>:</p>
+<ol>
+<li>Use pdftotext to extract text into a temporary file</li>
+<li>Use grep or the Read tool to search within the generated text file</li>
+<li>Read only the relevant context around matches, not the full text</li>
+</ol>
+<p>If you need to process in Python:</p>
+<pre class="hljs"><code><div><span class="hljs-keyword">from</span> pypdf <span class="hljs-keyword">import</span> PdfReader
+
+<span class="hljs-comment"># Open PDF</span>
+reader = PdfReader(<span class="hljs-string">"document.pdf"</span>)
+print(<span class="hljs-string">f"Pages: <span class="hljs-subst">{len(reader.pages)}</span>"</span>)
+
+<span class="hljs-comment"># Extract text</span>
+text = <span class="hljs-string">""</span>
+<span class="hljs-keyword">for</span> page <span class="hljs-keyword">in</span> reader.pages:
+    text += page.extract_text()
+</div></code></pre>
+<h2 id="python-libraries">Python Libraries</h2>
+<h3 id="pypdf--basic-text-extraction">pypdf — Basic Text Extraction</h3>
+<pre class="hljs"><code><div><span class="hljs-keyword">from</span> pypdf <span class="hljs-keyword">import</span> PdfReader
+
+reader = PdfReader(<span class="hljs-string">"document.pdf"</span>)
+
+<span class="hljs-comment"># Extract all text</span>
+<span class="hljs-keyword">for</span> page <span class="hljs-keyword">in</span> reader.pages:
+    text = page.extract_text()
+    print(text)
+
+<span class="hljs-comment"># Extract metadata</span>
+meta = reader.metadata
+print(<span class="hljs-string">f"Title: <span class="hljs-subst">{meta.title}</span>"</span>)
+print(<span class="hljs-string">f"Author: <span class="hljs-subst">{meta.author}</span>"</span>)
+print(<span class="hljs-string">f"Subject: <span class="hljs-subst">{meta.subject}</span>"</span>)
+print(<span class="hljs-string">f"Creator: <span class="hljs-subst">{meta.creator}</span>"</span>)
+</div></code></pre>
+<h3 id="pdfplumber--text-and-table-extraction-with-layout">pdfplumber — Text and Table Extraction with Layout</h3>
+<h4 id="extract-text-preserving-layout">Extract Text (preserving layout)</h4>
+<pre class="hljs"><code><div><span class="hljs-keyword">import</span> pdfplumber
+
+<span class="hljs-keyword">with</span> pdfplumber.open(<span class="hljs-string">"document.pdf"</span>) <span class="hljs-keyword">as</span> pdf:
+    <span class="hljs-keyword">for</span> page <span class="hljs-keyword">in</span> pdf.pages:
+        text = page.extract_text()
+        print(text)
+</div></code></pre>
+<h4 id="extract-tables">Extract Tables</h4>
+<pre class="hljs"><code><div><span class="hljs-keyword">with</span> pdfplumber.open(<span class="hljs-string">"document.pdf"</span>) <span class="hljs-keyword">as</span> pdf:
+    <span class="hljs-keyword">for</span> i, page <span class="hljs-keyword">in</span> enumerate(pdf.pages):
+        tables = page.extract_tables()
+        <span class="hljs-keyword">for</span> j, table <span class="hljs-keyword">in</span> enumerate(tables):
+            print(<span class="hljs-string">f"Table <span class="hljs-subst">{j+<span class="hljs-number">1</span>}</span> on page <span class="hljs-subst">{i+<span class="hljs-number">1</span>}</span>:"</span>)
+            <span class="hljs-keyword">for</span> row <span class="hljs-keyword">in</span> table:
+                print(row)
+</div></code></pre>
+<h4 id="advanced-table-extraction-convert-to-dataframe">Advanced Table Extraction (convert to DataFrame)</h4>
+<pre class="hljs"><code><div><span class="hljs-keyword">import</span> pandas <span class="hljs-keyword">as</span> pd
+
+<span class="hljs-keyword">with</span> pdfplumber.open(<span class="hljs-string">"document.pdf"</span>) <span class="hljs-keyword">as</span> pdf:
+    all_tables = []
+    <span class="hljs-keyword">for</span> page <span class="hljs-keyword">in</span> pdf.pages:
+        tables = page.extract_tables()
+        <span class="hljs-keyword">for</span> table <span class="hljs-keyword">in</span> tables:
+            <span class="hljs-keyword">if</span> table:  <span class="hljs-comment"># check table is not empty</span>
+                df = pd.DataFrame(table[<span class="hljs-number">1</span>:], columns=table[<span class="hljs-number">0</span>])
+                all_tables.append(df)
+
+<span class="hljs-comment"># Combine all tables</span>
+<span class="hljs-keyword">if</span> all_tables:
+    combined_df = pd.concat(all_tables, ignore_index=<span class="hljs-literal">True</span>)
+    combined_df.to_excel(<span class="hljs-string">"extracted_tables.xlsx"</span>, index=<span class="hljs-literal">False</span>)
+</div></code></pre>
+<h4 id="precise-text-extraction-with-coordinates">Precise Text Extraction with Coordinates</h4>
+<pre class="hljs"><code><div><span class="hljs-keyword">import</span> pdfplumber
+
+<span class="hljs-keyword">with</span> pdfplumber.open(<span class="hljs-string">"document.pdf"</span>) <span class="hljs-keyword">as</span> pdf:
+    page = pdf.pages[<span class="hljs-number">0</span>]
+
+    <span class="hljs-comment"># Extract all characters with their coordinates</span>
+    chars = page.chars
+    <span class="hljs-keyword">for</span> char <span class="hljs-keyword">in</span> chars[:<span class="hljs-number">10</span>]:  <span class="hljs-comment"># first 10 characters</span>
+        print(<span class="hljs-string">f"Char: '<span class="hljs-subst">{char[<span class="hljs-string">'text'</span>]}</span>' at x:<span class="hljs-subst">{char[<span class="hljs-string">'x0'</span>]:<span class="hljs-number">.1</span>f}</span> y:<span class="hljs-subst">{char[<span class="hljs-string">'y0'</span>]:<span class="hljs-number">.1</span>f}</span>"</span>)
+
+    <span class="hljs-comment"># Extract text within a bounding box (left, top, right, bottom)</span>
+    bbox_text = page.within_bbox((<span class="hljs-number">100</span>, <span class="hljs-number">100</span>, <span class="hljs-number">400</span>, <span class="hljs-number">200</span>)).extract_text()
+</div></code></pre>
+<h4 id="advanced-settings-for-complex-tables">Advanced Settings for Complex Tables</h4>
+<pre class="hljs"><code><div><span class="hljs-keyword">import</span> pdfplumber
+
+<span class="hljs-keyword">with</span> pdfplumber.open(<span class="hljs-string">"complex_table.pdf"</span>) <span class="hljs-keyword">as</span> pdf:
+    page = pdf.pages[<span class="hljs-number">0</span>]
+
+    <span class="hljs-comment"># Custom table extraction settings</span>
+    table_settings = {
+        <span class="hljs-string">"vertical_strategy"</span>: <span class="hljs-string">"lines"</span>,
+        <span class="hljs-string">"horizontal_strategy"</span>: <span class="hljs-string">"lines"</span>,
+        <span class="hljs-string">"snap_tolerance"</span>: <span class="hljs-number">3</span>,
+        <span class="hljs-string">"intersection_tolerance"</span>: <span class="hljs-number">15</span>
+    }
+    tables = page.extract_tables(table_settings)
+
+    <span class="hljs-comment"># Visual debugging</span>
+    img = page.to_image(resolution=<span class="hljs-number">150</span>)
+    img.save(<span class="hljs-string">"debug_layout.png"</span>)
+</div></code></pre>
+<h3 id="pypdfium2--fast-rendering-and-text-extraction">pypdfium2 — Fast Rendering and Text Extraction</h3>
+<pre class="hljs"><code><div><span class="hljs-keyword">import</span> pypdfium2 <span class="hljs-keyword">as</span> pdfium
+
+<span class="hljs-comment"># Load PDF</span>
+pdf = pdfium.PdfDocument(<span class="hljs-string">"document.pdf"</span>)
+
+<span class="hljs-comment"># Extract text</span>
+<span class="hljs-keyword">for</span> i, page <span class="hljs-keyword">in</span> enumerate(pdf):
+    text = page.get_text()
+    print(<span class="hljs-string">f"Page <span class="hljs-subst">{i+<span class="hljs-number">1</span>}</span> text length: <span class="hljs-subst">{len(text)}</span> chars"</span>)
+</div></code></pre>
+<h4 id="render-pdf-pages-as-images">Render PDF Pages as Images</h4>
+<pre class="hljs"><code><div><span class="hljs-keyword">import</span> pypdfium2 <span class="hljs-keyword">as</span> pdfium
+<span class="hljs-keyword">from</span> PIL <span class="hljs-keyword">import</span> Image
+
+pdf = pdfium.PdfDocument(<span class="hljs-string">"document.pdf"</span>)
+
+<span class="hljs-comment"># Render a single page</span>
+page = pdf[<span class="hljs-number">0</span>]  <span class="hljs-comment"># first page</span>
+bitmap = page.render(
+    scale=<span class="hljs-number">2.0</span>,   <span class="hljs-comment"># high resolution</span>
+    rotation=<span class="hljs-number">0</span>   <span class="hljs-comment"># no rotation</span>
+)
+
+<span class="hljs-comment"># Convert to PIL Image</span>
+img = bitmap.to_pil()
+img.save(<span class="hljs-string">"page_1.png"</span>, <span class="hljs-string">"PNG"</span>)
+
+<span class="hljs-comment"># Process multiple pages</span>
+<span class="hljs-keyword">for</span> i, page <span class="hljs-keyword">in</span> enumerate(pdf):
+    bitmap = page.render(scale=<span class="hljs-number">1.5</span>)
+    img = bitmap.to_pil()
+    img.save(<span class="hljs-string">f"page_<span class="hljs-subst">{i+<span class="hljs-number">1</span>}</span>.jpg"</span>, <span class="hljs-string">"JPEG"</span>, quality=<span class="hljs-number">90</span>)
+</div></code></pre>
+<h2 id="command-line-tools">Command-Line Tools</h2>
+<h3 id="pdftotext-poppler-utils">pdftotext (poppler-utils)</h3>
+<blockquote>
+<p>⚠️ <strong>Performance tip</strong>: Always output to a file to avoid consuming tokens.</p>
+</blockquote>
+<pre class="hljs"><code><div><span class="hljs-comment"># ✅ Extract text to file</span>
+pdftotext input.pdf output.txt
+
+<span class="hljs-comment"># ✅ Preserve layout and save to file</span>
+pdftotext -layout input.pdf output.txt
+
+<span class="hljs-comment"># ✅ Extract specific pages to file</span>
+pdftotext -f 1 -l 5 input.pdf output.txt  <span class="hljs-comment"># pages 1–5</span>
+
+<span class="hljs-comment"># ✅ Extract text with coordinates to XML file (for structured data)</span>
+pdftotext -bbox-layout document.pdf output.xml
+
+<span class="hljs-comment"># ❌ Avoid: do not omit the output filename (prints to stdout)</span>
+<span class="hljs-comment"># pdftotext input.pdf</span>
+</div></code></pre>
+<h3 id="advanced-image-conversion-pdftoppm">Advanced Image Conversion (pdftoppm)</h3>
+<pre class="hljs"><code><div><span class="hljs-comment"># Convert to PNG at specified resolution</span>
+pdftoppm -png -r 300 document.pdf output_prefix
+
+<span class="hljs-comment"># Convert specific page range at high resolution</span>
+pdftoppm -png -r 600 -f 1 -l 3 document.pdf high_res_pages
+
+<span class="hljs-comment"># Convert to JPEG at specified quality</span>
+pdftoppm -jpeg -jpegopt quality=85 -r 200 document.pdf jpeg_output
+</div></code></pre>
+<h3 id="extract-embedded-images-pdfimages">Extract Embedded Images (pdfimages)</h3>
+<pre class="hljs"><code><div><span class="hljs-comment"># Extract all images</span>
+pdfimages -j input.pdf output_prefix
+
+<span class="hljs-comment"># List image info without extracting</span>
+pdfimages -list document.pdf
+
+<span class="hljs-comment"># Extract in original format</span>
+pdfimages -all document.pdf images/img
+</div></code></pre>
+<h2 id="ocr-extraction-scanned-pdfs">OCR Extraction (Scanned PDFs)</h2>
+<pre class="hljs"><code><div><span class="hljs-comment"># Requires: pip install pytesseract pdf2image</span>
+<span class="hljs-keyword">import</span> pytesseract
+<span class="hljs-keyword">from</span> pdf2image <span class="hljs-keyword">import</span> convert_from_path
+
+<span class="hljs-comment"># Convert PDF to images</span>
+images = convert_from_path(<span class="hljs-string">'scanned.pdf'</span>)
+
+<span class="hljs-comment"># OCR each page</span>
+text = <span class="hljs-string">""</span>
+<span class="hljs-keyword">for</span> i, image <span class="hljs-keyword">in</span> enumerate(images):
+    text += <span class="hljs-string">f"Page <span class="hljs-subst">{i+<span class="hljs-number">1</span>}</span>:\n"</span>
+    text += pytesseract.image_to_string(image)
+    text += <span class="hljs-string">"\n\n"</span>
+
+print(text)
+</div></code></pre>
+<h2 id="handling-encrypted-pdfs">Handling Encrypted PDFs</h2>
+<pre class="hljs"><code><div><span class="hljs-keyword">from</span> pypdf <span class="hljs-keyword">import</span> PdfReader
+
+<span class="hljs-keyword">try</span>:
+    reader = PdfReader(<span class="hljs-string">"encrypted.pdf"</span>)
+    <span class="hljs-keyword">if</span> reader.is_encrypted:
+        reader.decrypt(<span class="hljs-string">"password"</span>)
+
+    <span class="hljs-comment"># Extract text normally after decryption</span>
+    <span class="hljs-keyword">for</span> page <span class="hljs-keyword">in</span> reader.pages:
+        text = page.extract_text()
+        print(text)
+<span class="hljs-keyword">except</span> Exception <span class="hljs-keyword">as</span> e:
+    print(<span class="hljs-string">f"Failed to decrypt: <span class="hljs-subst">{e}</span>"</span>)
+</div></code></pre>
+<pre class="hljs"><code><div><span class="hljs-comment"># Decrypt using qpdf (password required)</span>
+qpdf --password=mypassword --decrypt encrypted.pdf decrypted.pdf
+
+<span class="hljs-comment"># Check encryption status</span>
+qpdf --show-encryption encrypted.pdf
+</div></code></pre>
+<h2 id="batch-processing">Batch Processing</h2>
+<pre class="hljs"><code><div><span class="hljs-keyword">import</span> os
+<span class="hljs-keyword">import</span> glob
+<span class="hljs-keyword">from</span> pypdf <span class="hljs-keyword">import</span> PdfReader
+<span class="hljs-keyword">import</span> logging
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+<span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">batch_extract_text</span><span class="hljs-params">(input_dir)</span>:</span>
+    <span class="hljs-string">"""Batch extract text from all PDFs in a directory."""</span>
+    pdf_files = glob.glob(os.path.join(input_dir, <span class="hljs-string">"*.pdf"</span>))
+
+    <span class="hljs-keyword">for</span> pdf_file <span class="hljs-keyword">in</span> pdf_files:
+        <span class="hljs-keyword">try</span>:
+            reader = PdfReader(pdf_file)
+            text = <span class="hljs-string">""</span>
+            <span class="hljs-keyword">for</span> page <span class="hljs-keyword">in</span> reader.pages:
+                text += page.extract_text()
+
+            output_file = pdf_file.replace(<span class="hljs-string">'.pdf'</span>, <span class="hljs-string">'.txt'</span>)
+            <span class="hljs-keyword">with</span> open(output_file, <span class="hljs-string">'w'</span>, encoding=<span class="hljs-string">'utf-8'</span>) <span class="hljs-keyword">as</span> f:
+                f.write(text)
+            logger.info(<span class="hljs-string">f"Extracted text from: <span class="hljs-subst">{pdf_file}</span>"</span>)
+
+        <span class="hljs-keyword">except</span> Exception <span class="hljs-keyword">as</span> e:
+            logger.error(<span class="hljs-string">f"Failed to extract text from <span class="hljs-subst">{pdf_file}</span>: <span class="hljs-subst">{e}</span>"</span>)
+            <span class="hljs-keyword">continue</span>
+</div></code></pre>
+<h2 id="performance-tips">Performance Tips</h2>
+<ol>
+<li><strong>File output first</strong>: Always save pdftotext output to a file, then search with grep/Read — avoid printing to terminal to save tokens</li>
+<li><strong>Large PDFs</strong>: Process page by page in a streaming fashion; avoid loading the entire file at once</li>
+<li><strong>Text extraction</strong>: <code>pdftotext</code> is fastest; pdfplumber is better for structured data and tables</li>
+<li><strong>Image extraction</strong>: <code>pdfimages</code> is much faster than rendering pages</li>
+<li><strong>Memory management</strong>: Process large files page by page or in chunks</li>
+</ol>
+<h2 id="quick-reference">Quick Reference</h2>
+<table>
+<thead>
+<tr>
+<th>Task</th>
+<th>Best Tool</th>
+<th>Command / Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Extract text</td>
+<td>pdfplumber</td>
+<td><code>page.extract_text()</code></td>
+</tr>
+<tr>
+<td>Extract tables</td>
+<td>pdfplumber</td>
+<td><code>page.extract_tables()</code></td>
+</tr>
+<tr>
+<td>Command-line extraction</td>
+<td>pdftotext</td>
+<td><code>pdftotext -layout input.pdf</code></td>
+</tr>
+<tr>
+<td>OCR scanned PDF</td>
+<td>pytesseract</td>
+<td>Convert to image first, then OCR</td>
+</tr>
+<tr>
+<td>Extract metadata</td>
+<td>pypdf</td>
+<td><code>reader.metadata</code></td>
+</tr>
+<tr>
+<td>PDF to image</td>
+<td>pypdfium2</td>
+<td><code>page.render()</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="available-packages">Available Packages</h2>
+<ul>
+<li><strong>pypdf</strong> — basic operations (BSD license)</li>
+<li><strong>pdfplumber</strong> — text and table extraction (MIT license)</li>
+<li><strong>pypdfium2</strong> — fast rendering and extraction (Apache/BSD license)</li>
+<li><strong>pytesseract</strong> — OCR (Apache license)</li>
+<li><strong>pdf2image</strong> — PDF to image conversion</li>
+<li><strong>poppler-utils</strong> — command-line tools (GPL-2 license)</li>
+</ul>
+
+</body>
+</html>

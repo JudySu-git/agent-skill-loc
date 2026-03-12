@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+50d09cf850494398bc15966f,,14924,question,questionText,28604,form,Do your drivers only deliver to a warehouse or administrative offices at a Client Site?
+50d09cf850494398bc15966f,,14924,question,responseOptionNo,28604,form,No
+50d09cf850494398bc15966f,,14924,question,responseOptionYes,28604,form,Yes
+50d09d2250494371baf7e2ee,,14925,question,questionText,28604,form,Does your company transport over-sized/permit-required loads?
+50d09d2250494371baf7e2ee,,14925,question,responseOptionNo,28604,form,No
+50d09d2250494371baf7e2ee,,14925,question,responseOptionYes,28604,form,Yes
+50d09d52504943a23e338dcd,,14926,question,questionText,28604,form,"Do your Drivers load or offload material or operate equipment to load or offload at any Client site? (i.e., de-attaching straps or any mobile equipment such as cranes or forklifts.)"
+50d09d52504943a23e338dcd,,14926,question,responseOptionNo,28604,form,No
+50d09d52504943a23e338dcd,,14926,question,responseOptionYes,28604,form,Yes
+50d09d72504943eb0a2c8be5,,14927,question,description,28604,form,"<a href=""http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev05/English/ST-SG-AC10-30-Rev5e.pdf"" target=""_blank"" >Safety Data Sheet (SDS)</a>"
+50d09d72504943eb0a2c8be5,,14927,question,questionText,28604,form,Do your drivers transport and offload hazardous and potentially hazardous materials that would require an SDS (Safety Data Sheet)?
+50d09d72504943eb0a2c8be5,,14927,question,responseOptionNo,28604,form,No
+50d09d72504943eb0a2c8be5,,14927,question,responseOptionYes,28604,form,Yes
+5c17f5de3f0000466fb090fe,59f75f6a2d0000d20cca5824,28604,questionGroup,questionGroupText,28604,form,Avetta PQF - Transportation (Safety Evaluation)

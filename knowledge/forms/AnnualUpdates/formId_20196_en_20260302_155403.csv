@@ -1,0 +1,233 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+50f579a05049435641b25be0,50f579a05049435641b25be0,3324,questionGroup,questionGroupText,20196,form,Australia Specific Updates
+6952b6690100008b008a7730,50f57b995049438906860d23,3325,questionGroup,questionGroupText,20196,form,Australia OH&S
+52695d96504943a85727fa84,52695d96504943a85727fa84,4663,questionGroup,questionGroupText,20196,form,Australia Citations / Violations / Notices
+52695e705049439f66f5cb74,52695e705049439f66f5cb74,4665,questionGroup,description,20196,form,"Please select the locations where your company received citations, violations, or notices for the given year."
+52695e705049439f66f5cb74,52695e705049439f66f5cb74,4665,questionGroup,questionGroupText,20196,form,Citations/Violations/Notices Locations
+5269767e50494327a29c4312,5269767e50494327a29c4312,4670,questionGroup,description,20196,form,"Please provide additional information for the citations, violations, and/or notices received in Australian Capital Territory."
+5269767e50494327a29c4312,5269767e50494327a29c4312,4670,questionGroup,questionGroupText,20196,form,Australian Capital Territory
+52697c93504943a6666b38be,52697c93504943a6666b38be,4671,questionGroup,description,20196,form,"Please provide additional information for the citations, violations, and/or notices received in New South Wales."
+52697c93504943a6666b38be,52697c93504943a6666b38be,4671,questionGroup,questionGroupText,20196,form,New South Wales
+52697cc950494314e7f6da8b,52697cc950494314e7f6da8b,4672,questionGroup,description,20196,form,"Please provide additional information for the citations, violations, and/or notices received in Northern Territory."
+52697cc950494314e7f6da8b,52697cc950494314e7f6da8b,4672,questionGroup,questionGroupText,20196,form,Northern Territory
+52697ce4504943c38edd39a6,52697ce4504943c38edd39a6,4673,questionGroup,description,20196,form,"Please provide additional information for the citations, violations, and/or notices received in Queensland."
+52697ce4504943c38edd39a6,52697ce4504943c38edd39a6,4673,questionGroup,questionGroupText,20196,form,Queensland
+52697cfb50494317749d9880,52697cfb50494317749d9880,4674,questionGroup,description,20196,form,"Please provide additional information for the citations, violations, and/or notices received in South Australia."
+52697cfb50494317749d9880,52697cfb50494317749d9880,4674,questionGroup,questionGroupText,20196,form,South Australia
+52697d0f504943dd9d8b4aaa,52697d0f504943dd9d8b4aaa,4675,questionGroup,description,20196,form,"Please provide additional information for the citations, violations, and/or notices received in Tasmania."
+52697d0f504943dd9d8b4aaa,52697d0f504943dd9d8b4aaa,4675,questionGroup,questionGroupText,20196,form,Tasmania
+52697d2b504943ff9c7c2e2b,52697d2b504943ff9c7c2e2b,4676,questionGroup,description,20196,form,"Please provide additional information for the citations, violations, and/or notices received in Victoria."
+52697d2b504943ff9c7c2e2b,52697d2b504943ff9c7c2e2b,4676,questionGroup,questionGroupText,20196,form,Victoria
+52697d3e5049434e11f1cd44,52697d3e5049434e11f1cd44,4677,questionGroup,description,20196,form,"Please provide additional information for the citations, violations, and/or notices received in Western Australia."
+52697d3e5049434e11f1cd44,52697d3e5049434e11f1cd44,4677,questionGroup,questionGroupText,20196,form,Western Australia
+50f57f9f5049434a9aaa077c,,15213,question,description,20196,form,"IMPORTANT: Please make sure to include all <a href = ""https://conta.com/au/glossary/what-is-a-full-time-equivalent/"" target = ""_BLANK_"" >Full-Time, Part-Time and Contract workers</a> under your supervision, even if they were not under your direct employment.\n"
+50f57f9f5049434a9aaa077c,,15213,question,moreDescription,20196,form,\n
+50f57f9f5049434a9aaa077c,,15213,question,questionText,20196,form,Please enter the Average Number of Employees your company had during the given year.
+50f5805e50494382567d98fb,,15214,question,description,20196,form,"Notifiable incident means:\n(a) the death of a person; or\n(b) a serious injury or illness of a person; or\n(c) a dangerous incident.\nAll incidents that were notifiable as defined in Part 3, Section 25 of the <a href=""https://www.safeworkaustralia.gov.au/sites/default/files/2023-12/model-whs-bill-23_november_2023.pdf""target=""_blank"">Model Work Health and Safety Bill</a>\n\nRecordable incidents are all injuries that occur which you do not need to notify to the authorities eg medical treatment injuries.\n\nPlease only report each incident once based upon the most severe outcome."
+50f5805e50494382567d98fb,,15214,question,questionText,20196,form,Were there any notifiable/recordable incidents for the given year?
+50f5805e50494382567d98fb,,15214,question,responseOptionNo,20196,form,No
+50f5805e50494382567d98fb,,15214,question,responseOptionYes,20196,form,Yes
+50f5817c504943f186ff5a5a,,15216,question,description,20196,form,"Include hours worked by salaried, hourly, part-time and workers including temporary help services workers under your supervision, even if they were not under your direct employment.\nDo not include vacation, sick leave, holidays, or any other non-work time, even if employees were paid for it. If your establishment keeps records of only the hours paid or if you have employees who are not paid by the hour, please estimate the hours that the employees actually worked. If this number isn't available, an estimate is still needed."
+50f5817c504943f186ff5a5a,,15216,question,questionText,20196,form,Please enter the total number of hours worked by all employees during the given year. Please round your answer to the next highest whole number.
+50f58c6d5049433830dae2cf,,15217,question,description,20196,form,"<a href=""https://www.safeworkaustralia.gov.au/sites/default/files/2023-12/model-whs-bill-23_november_2023.pdf""target=""_blank"">Model Work Health and Safety (WHS) Act – November 2023 Consolidated Version\n</a>\n"
+50f58c6d5049433830dae2cf,,15217,question,questionText,20196,form,"Please enter the number of notifiable incidents, resulting in a fatality, for the given year:"
+50f58d5b504943bddc24a83e,,15218,question,description,20196,form,"Those occurrences that resulted in a <a href=""https://www.safeworkaustralia.gov.au/sites/default/files/2023-12/model-whs-bill-23_november_2023.pdf""target=""_blank"">permanent disability or time lost from work</a> of one day/shift or more. "
+50f58d5b504943bddc24a83e,,15218,question,questionText,20196,form,Please enter the number of notifiable incidents (excluding fatalities) that resulted in time lost from work for the given year.
+50f58de55049434db216835e,,15219,question,description,20196,form,Those incidents that resulted in a disability where the individual was unable to follow their ordinary occupation but instead performed alternate or light duty; and/or put on restricted work/hours.
+50f58de55049434db216835e,,15219,question,questionText,20196,form,Please enter the number of notifiable incidents for the given year that resulted in restricted work of an employee.
+50f58e575049436779c1d5dc,,15220,question,description,20196,form,"Any incidents that occurred at the workplace which, although not resulting in any injury or disease, had the potential to do so.\nDefined in <a href = ""https://www.safeworkaustralia.gov.au/sites/default/files/2023-12/model-whs-bill-23_november_2023.pdf"" target = ""_BLANK_"" >Part 3, Section 37</a>\n\n\n"
+50f58e575049436779c1d5dc,,15220,question,questionText,20196,form,Please enter the number of dangerous occurrences for the given year.
+50f58ee850494361033c4ed8,,15222,question,description,20196,form,The total number of complete working days or shifts where an individual performed alternate/light duty (or put on restricted work/hours) as a result of the restricted work injury/diseases. Time for part-time workers is calculated as for full-time workers irrespective of the number of hours usually worked each day or shift.
+50f58ee850494361033c4ed8,,15222,question,questionText,20196,form,Please enter the total number of days lost from work for all notifiable incident(s) (excluding fatalities) for the given year.
+6952b70a01000063008a7766,5ad146ad2200008000a5a98b,20196,questionGroup,questionGroupText,20196,form,Avetta Australia Annual Update
+5249be44504943ae9bdc81e7,,20944,question,description,20196,form,"Medical treatment injuries are work-related injuries or illnesses that required treatment by a registered medical practitioner beyond first aid, but did not result in:\n\n* Any lost work time (no full shift/day lost after the day of injury), and\n* Any restricted or modified duties.\n\nInclude:\nCases requiring stitches, prescription medication, x-rays, diagnostic procedures, or other medical interventions beyond first aid.\n\nDo NOT include:\n* First-aid-only cases (e.g., ice packs, bandages, cleaning minor wounds).\n\n* Injuries that resulted in restricted duties (report these separately).\n\n* Injuries that resulted in lost time (report as lost-time incidents).\n\n* Notifiable incidents under WHS laws.\n\nRecord all applicable cases, even if they were not reportable to a regulator."
+5249be44504943ae9bdc81e7,,20944,question,questionText,20196,form,Please enter the number of medical treatment injuries (beyond first aid) for the given year that did not result in restricted work or lost time of an employee
+5249be7550494352b6d80918,,20945,question,description,20196,form,"<a href=""https://www.safeworkaustralia.gov.au/sites/default/files/2023-12/model-whs-bill-23_november_2023.pdf""target=""_blank"">Model Work Health and Safety (WHS) Act – November 2023 Consolidated Version</a>"
+5249be7550494352b6d80918,,20945,question,questionText,20196,form,Please enter the number of first aid incidents for the given year:
+526951f75049435b323cc31a,,21409,question,questionText,20196,form,"Has your company received any enforceable undertakings, fines, violations, or notices from a regulatory agency during the given year?"
+526951f75049435b323cc31a,,21409,question,responseOptionNo,20196,form,No
+526951f75049435b323cc31a,,21409,question,responseOptionYes,20196,form,Yes
+526973b15049434578cf14db,,21420,question,questionText,20196,form,Australian Capital Territory
+526973b15049434578cf14db,,21420,question,responseOption1,20196,form,Click here if Applicable
+526973d05049435aff39bff7,,21421,question,questionText,20196,form,New South Wales
+526973d05049435aff39bff7,,21421,question,responseOption1,20196,form,Click here if Applicable
+526973e1504943efc03183a7,,21422,question,questionText,20196,form,Northern Territory
+526973e1504943efc03183a7,,21422,question,responseOption1,20196,form,Click here if Applicable
+526973f4504943e8502505c6,,21423,question,questionText,20196,form,Queensland
+526973f4504943e8502505c6,,21423,question,responseOption1,20196,form,Click here if Applicable
+52697405504943c02c71ccdc,,21424,question,questionText,20196,form,South Australia
+52697405504943c02c71ccdc,,21424,question,responseOption1,20196,form,Click here if Applicable
+52697417504943d87af50065,,21425,question,questionText,20196,form,Tasmania
+52697417504943d87af50065,,21425,question,responseOption1,20196,form,Click here if Applicable
+526974285049434f907ed3c5,,21426,question,questionText,20196,form,Victoria
+526974285049434f907ed3c5,,21426,question,responseOption1,20196,form,Click here if Applicable
+526974385049438b6f3cb41f,,21427,question,questionText,20196,form,Western Australia
+526974385049438b6f3cb41f,,21427,question,responseOption1,20196,form,Click here if Applicable
+52697a465049436d346bec6c,,21428,question,questionText,20196,form,"How many citations, violations, or notices did your company receive for the given year?"
+526999cd504943c3ffa036f5,,21429,question,questionText,20196,form,"How many citations, violations, or notices did your company receive for the given year?"
+526999dd504943c515f8c471,,21430,question,questionText,20196,form,"How many citations, violations, or notices did your company receive for the given year?"
+526999ec5049439c9714a5d0,,21431,question,questionText,20196,form,"How many citations, violations, or notices did your company receive for the given year?"
+526999fa5049436177a96685,,21432,question,questionText,20196,form,"How many citations, violations, or notices did your company receive for the given year?"
+52699a0b5049433a98f8c792,,21433,question,questionText,20196,form,"How many citations, violations, or notices did your company receive for the given year?"
+52699a1a5049435c1bb2352e,,21434,question,questionText,20196,form,"How many citations, violations, or notices did your company receive for the given year?"
+52699a6650494376b52aee56,,21435,question,questionText,20196,form,"How many citations, violations, or notices did your company receive for the given year?"
+526e75fb504943f77fab3dca,,21497,question,questionText,20196,form,"Please provide additional information and documentation for the <u>most recent</u> citation, violation, or notice received during the given calendar year. \nPlease select the regulatory agency that issued the citation, violation, or notice."
+526e75fb504943f77fab3dca,,21497,question,responseOptionAMSAACT,20196,form,Australian Maritime Safety Authority (AMSA)
+526e75fb504943f77fab3dca,,21497,question,responseOptionCASAACT,20196,form,Civil Aviation Safety Authority (CASA)
+526e75fb504943f77fab3dca,,21497,question,responseOptionComcareACT,20196,form,Comcare
+526e75fb504943f77fab3dca,,21497,question,responseOptionNICNASACT,20196,form,National Industrial Chemicals Notification and Assessment Scheme (NICNAS)
+526e75fb504943f77fab3dca,,21497,question,responseOptionNOPSEMAACT,20196,form,The National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA)
+526e75fb504943f77fab3dca,,21497,question,responseOptionOtherACT,20196,form,Other
+526e75fb504943f77fab3dca,,21497,question,responseOptionSeacareACT,20196,form,"Seafarers Safety, Rehabilitation and Compensation Authority (Seacare)"
+526e75fb504943f77fab3dca,,21497,question,responseOptionWorkSafeACT,20196,form,WorkSafe ACT
+526e79ff50494361b7c6dbef,,21498,question,questionText,20196,form,"Please provide additional information and documentation for the <u>most recent</u> citation, violation, or notice received during the given calendar year. \nPlease select the regulatory agency that issued the citation, violation, or notice."
+526e79ff50494361b7c6dbef,,21498,question,responseOptionAMSANSW,20196,form,Australian Maritime Safety Authority (AMSA)
+526e79ff50494361b7c6dbef,,21498,question,responseOptionCASANSW,20196,form,Civil Aviation Safety Authority (CASA)
+526e79ff50494361b7c6dbef,,21498,question,responseOptionComcareNSW,20196,form,Comcare
+526e79ff50494361b7c6dbef,,21498,question,responseOptionMineSafetyNSW,20196,form,NSW Department of Trade and Investment – Division of Resources and Energy – Mine Safety
+526e79ff50494361b7c6dbef,,21498,question,responseOptionNICNASNSW,20196,form,National Industrial Chemicals Notification and Assessment Scheme (NICNAS)
+526e79ff50494361b7c6dbef,,21498,question,responseOptionNOPSEMANSW,20196,form,The National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA)
+526e79ff50494361b7c6dbef,,21498,question,responseOptionOtherNSW,20196,form,Other
+526e79ff50494361b7c6dbef,,21498,question,responseOptionSeacareNSW,20196,form,"Seafarers Safety, Rehabilitation and Compensation Authority (Seacare)"
+526e79ff50494361b7c6dbef,,21498,question,responseOptionWorkCoverNSW,20196,form,WorkCover NSW
+526e7e5e504943cd25ad26aa,,21499,question,questionText,20196,form,"Please provide additional information and documentation for the <u>most recent</u> citation, violation, or notice received during the given calendar year. \nPlease select the regulatory agency that issued the citation, violation, or notice."
+526e7e5e504943cd25ad26aa,,21499,question,responseOptionAMSANT,20196,form,Australian Maritime Safety Authority (AMSA)
+526e7e5e504943cd25ad26aa,,21499,question,responseOptionCASANT,20196,form,Civil Aviation Safety Authority (CASA)
+526e7e5e504943cd25ad26aa,,21499,question,responseOptionComcareNT,20196,form,Comcare
+526e7e5e504943cd25ad26aa,,21499,question,responseOptionNICNASNT,20196,form,National Industrial Chemicals Notification and Assessment Scheme (NICNAS)
+526e7e5e504943cd25ad26aa,,21499,question,responseOptionNOPSEMANT,20196,form,The National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA)
+526e7e5e504943cd25ad26aa,,21499,question,responseOptionNTWorkSafe,20196,form,NT WorkSafe
+526e7e5e504943cd25ad26aa,,21499,question,responseOptionOtherNT,20196,form,Other
+526e7e5e504943cd25ad26aa,,21499,question,responseOptionSeacareNT,20196,form,"Seafarers Safety, Rehabilitation and Compensation Authority (Seacare)"
+526e7e9c504943ea519c233b,,21500,question,questionText,20196,form,"Please provide additional information and documentation for the <u>most recent</u> citation, violation, or notice received during the given calendar year. \nPlease select the regulatory agency that issued the citation, violation, or notice."
+526e7e9c504943ea519c233b,,21500,question,responseOptionAMSAQld,20196,form,Australian Maritime Safety Authority (AMSA)
+526e7e9c504943ea519c233b,,21500,question,responseOptionCASAQld,20196,form,Civil Aviation Safety Authority (CASA)
+526e7e9c504943ea519c233b,,21500,question,responseOptionComcareQld,20196,form,Comcare
+526e7e9c504943ea519c233b,,21500,question,responseOptionESO,20196,form,"Electrical Safety Office, Department of Justice and Attorney General (ESO)"
+526e7e9c504943ea519c233b,,21500,question,responseOptionMinesQld,20196,form,Queensland Government - Department of Natural Resources and Mines
+526e7e9c504943ea519c233b,,21500,question,responseOptionNICNASQld,20196,form,National Industrial Chemicals Notification and Assessment Scheme (NICNAS)
+526e7e9c504943ea519c233b,,21500,question,responseOptionNOPSEMAQld,20196,form,The National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA)
+526e7e9c504943ea519c233b,,21500,question,responseOptionOtherQld,20196,form,Other
+526e7e9c504943ea519c233b,,21500,question,responseOptionQCOMP,20196,form,Q-COMP
+526e7e9c504943ea519c233b,,21500,question,responseOptionSeacareQld,20196,form,"Seafarers Safety, Rehabilitation and Compensation Authority (Seacare)"
+526e7e9c504943ea519c233b,,21500,question,responseOptionWHSQ,20196,form,"Workplace Health and Safety Queensland, Department of Justice and Attorney General (WHSQ)"
+526e7e9c504943ea519c233b,,21500,question,responseOptionWorkCoverQld,20196,form,WorkCover Queensland
+526e7ee15049433dbb404170,,21501,question,questionText,20196,form,"Please provide additional information and documentation for the <u>most recent</u> citation, violation, or notice received during the given calendar year. \nPlease select the regulatory agency that issued the citation, violation, or notice."
+526e7ee15049433dbb404170,,21501,question,responseOptionAMSASA,20196,form,Australian Maritime Safety Authority (AMSA)
+526e7ee15049433dbb404170,,21501,question,responseOptionCASASA,20196,form,Civil Aviation Safety Authority (CASA)
+526e7ee15049433dbb404170,,21501,question,responseOptionComcareSA,20196,form,Comcare
+526e7ee15049433dbb404170,,21501,question,responseOptionNICNASSA,20196,form,National Industrial Chemicals Notification and Assessment Scheme (NICNAS)
+526e7ee15049433dbb404170,,21501,question,responseOptionNOPSEMASA,20196,form,The National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA)
+526e7ee15049433dbb404170,,21501,question,responseOptionOtherSA,20196,form,Other
+526e7ee15049433dbb404170,,21501,question,responseOptionSafeWorkSA,20196,form,SafeWork SA
+526e7ee15049433dbb404170,,21501,question,responseOptionSeacareSA,20196,form,"Seafarers Safety, Rehabilitation and Compensation Authority (Seacare)"
+526e7ee15049433dbb404170,,21501,question,responseOptionWorkCoverSA,20196,form,WorkCover SA
+526e7f275049437813979e4e,,21502,question,questionText,20196,form,"Please select the regulatory agency that issued the citation, violation, or notice."
+526e7f275049437813979e4e,,21502,question,responseOptionAMSATas,20196,form,Australian Maritime Safety Authority (AMSA)
+526e7f275049437813979e4e,,21502,question,responseOptionCASATas,20196,form,Civil Aviation Safety Authority (CASA)
+526e7f275049437813979e4e,,21502,question,responseOptionComcareTas,20196,form,Comcare
+526e7f275049437813979e4e,,21502,question,responseOptionNICNASTas,20196,form,National Industrial Chemicals Notification and Assessment Scheme (NICNAS)
+526e7f275049437813979e4e,,21502,question,responseOptionNOPSEMATas,20196,form,The National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA)
+526e7f275049437813979e4e,,21502,question,responseOptionOtherTas,20196,form,Other
+526e7f275049437813979e4e,,21502,question,responseOptionSeacareTas,20196,form,"Seafarers Safety, Rehabilitation and Compensation Authority (Seacare)"
+526e7f275049437813979e4e,,21502,question,responseOptionStandardsTas,20196,form,Workplace Standards Tasmania
+526e7f275049437813979e4e,,21502,question,responseOptionWorkCoverTas,20196,form,WorkCover Tasmania
+526e7f4c5049438ddcee72e8,,21503,question,questionText,20196,form,"Please provide additional information and documentation for the <u>most recent</u> citation, violation, or notice received during the given calendar year. \nPlease select the regulatory agency that issued the citation, violation, or notice."
+526e7f4c5049438ddcee72e8,,21503,question,responseOptionAMSAVic,20196,form,Australian Maritime Safety Authority (AMSA)
+526e7f4c5049438ddcee72e8,,21503,question,responseOptionCASAVic,20196,form,Civil Aviation Safety Authority (CASA)
+526e7f4c5049438ddcee72e8,,21503,question,responseOptionComcareVic,20196,form,Comcare
+526e7f4c5049438ddcee72e8,,21503,question,responseOptionESV,20196,form,Energy Safe Victoria (ESV)
+526e7f4c5049438ddcee72e8,,21503,question,responseOptionNICNASVic,20196,form,National Industrial Chemicals Notification and Assessment Scheme (NICNAS)
+526e7f4c5049438ddcee72e8,,21503,question,responseOptionNOPSEMAVic,20196,form,The National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA)
+526e7f4c5049438ddcee72e8,,21503,question,responseOptionOtherVic,20196,form,Other
+526e7f4c5049438ddcee72e8,,21503,question,responseOptionSeacareVic,20196,form,"Seafarers Safety, Rehabilitation and Compensation Authority (Seacare)"
+526e7f4c5049438ddcee72e8,,21503,question,responseOptionWorkSafeVic,20196,form,WorkSafe Victoria
+526e7f6f5049431ea98df678,,21504,question,questionText,20196,form,"Please provide additional information and documentation for the <u>most recent</u> citation, violation, or notice received during the given calendar year. \nPlease select the regulatory agency that issued the citation, violation, or notice."
+526e7f6f5049431ea98df678,,21504,question,responseOptionAMSAWA,20196,form,Australian Maritime Safety Authority (AMSA)
+526e7f6f5049431ea98df678,,21504,question,responseOptionCASAWA,20196,form,Civil Aviation Safety Authority (CASA)
+526e7f6f5049431ea98df678,,21504,question,responseOptionComcareWA,20196,form,Comcare
+526e7f6f5049431ea98df678,,21504,question,responseOptionMinesWA,20196,form,Department of Mines and Petroleum
+526e7f6f5049431ea98df678,,21504,question,responseOptionNICNASWA,20196,form,National Industrial Chemicals Notification and Assessment Scheme (NICNAS)
+526e7f6f5049431ea98df678,,21504,question,responseOptionNOPSEMAWA,20196,form,The National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA)
+526e7f6f5049431ea98df678,,21504,question,responseOptionOtherWA,20196,form,Other
+526e7f6f5049431ea98df678,,21504,question,responseOptionSeacareWA,20196,form,"Seafarers Safety, Rehabilitation and Compensation Authority (Seacare)"
+526e7f6f5049431ea98df678,,21504,question,responseOptionWorkCoverWA,20196,form,WorkCover WA
+526e7f6f5049431ea98df678,,21504,question,responseOptionWorkSafeWA,20196,form,WorkSafe WA
+526e832850494379d4a740cb,,21505,question,questionText,20196,form,"What type of citation, violation, or notice was issued by the regulatory agency?"
+526e832850494379d4a740cb,,21505,question,responseOptionAUEnforceableUndertaking,20196,form,Enforceable Undertaking
+526e832850494379d4a740cb,,21505,question,responseOptionAUImprovementNotice,20196,form,Improvement Notice
+526e832850494379d4a740cb,,21505,question,responseOptionAUNonDisturbanceNotice,20196,form,Non-Disturbance Notice
+526e832850494379d4a740cb,,21505,question,responseOptionAUOtherPenalty,20196,form,Other Penalty
+526e832850494379d4a740cb,,21505,question,responseOptionAUProhibitionNotice,20196,form,Prohibition Notice
+526e832850494379d4a740cb,,21505,question,responseOptionAUProsecution,20196,form,Prosecution
+526e836c504943d6c74c24ea,,21506,question,questionText,20196,form,"What type of citation, violation, or notice was issued by the regulatory agency?"
+526e836c504943d6c74c24ea,,21506,question,responseOptionAUEnforceableUndertaking,20196,form,Enforceable Undertaking
+526e836c504943d6c74c24ea,,21506,question,responseOptionAUImprovementNotice,20196,form,Improvement Notice
+526e836c504943d6c74c24ea,,21506,question,responseOptionAUNonDisturbanceNotice,20196,form,Non-Disturbance Notice
+526e836c504943d6c74c24ea,,21506,question,responseOptionAUOtherPenalty,20196,form,Other Penalty
+526e836c504943d6c74c24ea,,21506,question,responseOptionAUProhibitionNotice,20196,form,Prohibition Notice
+526e836c504943d6c74c24ea,,21506,question,responseOptionAUProsecution,20196,form,Prosecution
+526e838d504943c86025763b,,21507,question,questionText,20196,form,"What type of citation, violation, or notice was issued by the regulatory agency?"
+526e838d504943c86025763b,,21507,question,responseOptionAUEnforceableUndertaking,20196,form,Enforceable Undertaking
+526e838d504943c86025763b,,21507,question,responseOptionAUImprovementNotice,20196,form,Improvement Notice
+526e838d504943c86025763b,,21507,question,responseOptionAUNonDisturbanceNotice,20196,form,Non-Disturbance Notice
+526e838d504943c86025763b,,21507,question,responseOptionAUOtherPenalty,20196,form,Other Penalty
+526e838d504943c86025763b,,21507,question,responseOptionAUProhibitionNotice,20196,form,Prohibition Notice
+526e838d504943c86025763b,,21507,question,responseOptionAUProsecution,20196,form,Prosecution
+526e841a504943322c7a7a2e,,21508,question,questionText,20196,form,"What type of citation, violation, or notice was issued by the regulatory agency?"
+526e841a504943322c7a7a2e,,21508,question,responseOptionAUEnforceableUndertaking,20196,form,Enforceable Undertaking
+526e841a504943322c7a7a2e,,21508,question,responseOptionAUImprovementNotice,20196,form,Improvement Notice
+526e841a504943322c7a7a2e,,21508,question,responseOptionAUNonDisturbanceNotice,20196,form,Non-Disturbance Notice
+526e841a504943322c7a7a2e,,21508,question,responseOptionAUOtherPenalty,20196,form,Other Penalty
+526e841a504943322c7a7a2e,,21508,question,responseOptionAUProhibitionNotice,20196,form,Prohibition Notice
+526e841a504943322c7a7a2e,,21508,question,responseOptionAUProsecution,20196,form,Prosecution
+526e843b504943cddea5e95e,,21509,question,questionText,20196,form,"What type of citation, violation, or notice was issued by the regulatory agency?"
+526e843b504943cddea5e95e,,21509,question,responseOptionAUEnforceableUndertaking,20196,form,Enforceable Undertaking
+526e843b504943cddea5e95e,,21509,question,responseOptionAUImprovementNotice,20196,form,Improvement Notice
+526e843b504943cddea5e95e,,21509,question,responseOptionAUNonDisturbanceNotice,20196,form,Non-Disturbance Notice
+526e843b504943cddea5e95e,,21509,question,responseOptionAUOtherPenalty,20196,form,Other Penalty
+526e843b504943cddea5e95e,,21509,question,responseOptionAUProhibitionNotice,20196,form,Prohibition Notice
+526e843b504943cddea5e95e,,21509,question,responseOptionAUProsecution,20196,form,Prosecution
+526e845b504943c3f3e20666,,21510,question,questionText,20196,form,"What type of citation, violation, or notice was issued by the regulatory agency?"
+526e845b504943c3f3e20666,,21510,question,responseOptionAUEnforceableUndertaking,20196,form,Enforceable Undertaking
+526e845b504943c3f3e20666,,21510,question,responseOptionAUImprovementNotice,20196,form,Improvement Notice
+526e845b504943c3f3e20666,,21510,question,responseOptionAUNonDisturbanceNotice,20196,form,Non-Disturbance Notice
+526e845b504943c3f3e20666,,21510,question,responseOptionAUOtherPenalty,20196,form,Other Penalty
+526e845b504943c3f3e20666,,21510,question,responseOptionAUProhibitionNotice,20196,form,Prohibition Notice
+526e845b504943c3f3e20666,,21510,question,responseOptionAUProsecution,20196,form,Prosecution
+526e84765049432e4411454f,,21511,question,questionText,20196,form,"What type of citation, violation, or notice was issued by the regulatory agency?"
+526e84765049432e4411454f,,21511,question,responseOptionAUEnforceableUndertaking,20196,form,Enforceable Undertaking
+526e84765049432e4411454f,,21511,question,responseOptionAUImprovementNotice,20196,form,Improvement Notice
+526e84765049432e4411454f,,21511,question,responseOptionAUNonDisturbanceNotice,20196,form,Non-Disturbance Notice
+526e84765049432e4411454f,,21511,question,responseOptionAUOtherPenalty,20196,form,Other Penalty
+526e84765049432e4411454f,,21511,question,responseOptionAUProhibitionNotice,20196,form,Prohibition Notice
+526e84765049432e4411454f,,21511,question,responseOptionAUProsecution,20196,form,Prosecution
+526e84a4504943ab8b45eb56,,21512,question,questionText,20196,form,"What type of citation, violation, or notice was issued by the regulatory agency?"
+526e84a4504943ab8b45eb56,,21512,question,responseOptionAUEnforceableUndertaking,20196,form,Enforceable Undertaking
+526e84a4504943ab8b45eb56,,21512,question,responseOptionAUImprovementNotice,20196,form,Improvement Notice
+526e84a4504943ab8b45eb56,,21512,question,responseOptionAUNonDisturbanceNotice,20196,form,Non-Disturbance Notice
+526e84a4504943ab8b45eb56,,21512,question,responseOptionAUOtherPenalty,20196,form,Other Penalty
+526e84a4504943ab8b45eb56,,21512,question,responseOptionAUProhibitionNotice,20196,form,Prohibition Notice
+526e84a4504943ab8b45eb56,,21512,question,responseOptionAUProsecution,20196,form,Prosecution
+526e8e8e5049433af54507a2,,21513,question,description,20196,form,"Please provide the relevant documentation received from the issuing agency summarizing the citation, violation, or notice. If applicable, please include a corrective action plan and the outcome of the citation/violation/notice if the issues have already been resolved."
+526e8e8e5049433af54507a2,,21513,question,questionText,20196,form,Please upload any relevant documentation for the citation/violation/notice above.
+526e8e9450494398463a4b06,,21514,question,description,20196,form,"Please provide the relevant documentation received from the issuing agency summarizing the citation, violation, or notice. If applicable, please include a corrective action plan and the outcome of the citation/violation/notice if the issues have already been resolved."
+526e8e9450494398463a4b06,,21514,question,questionText,20196,form,Please upload any relevant documentation for the citation/violation/notice above.
+526e8e9a5049433aa2664ccd,,21515,question,description,20196,form,"Please provide the relevant documentation received from the issuing agency summarizing the citation, violation, or notice. If applicable, please include a corrective action plan and the outcome of the citation/violation/notice if the issues have already been resolved."
+526e8e9a5049433aa2664ccd,,21515,question,questionText,20196,form,Please upload any relevant documentation for the citation/violation/notice above.
+526e8ea15049434f974b1007,,21516,question,description,20196,form,"Please provide the relevant documentation received from the issuing agency summarizing the citation, violation, or notice. If applicable, please include a corrective action plan and the outcome of the citation/violation/notice if the issues have already been resolved."
+526e8ea15049434f974b1007,,21516,question,questionText,20196,form,Please upload any relevant documentation for the citation/violation/notice above.
+526e8ea65049437889797d56,,21517,question,description,20196,form,"Please provide the relevant documentation received from the issuing agency summarizing the citation, violation, or notice. If applicable, please include a corrective action plan and the outcome of the citation/violation/notice if the issues have already been resolved."
+526e8ea65049437889797d56,,21517,question,questionText,20196,form,Please upload any relevant documentation for the citation/violation/notice above.
+526e8eac504943e5d730bd29,,21518,question,description,20196,form,"Please provide the relevant documentation received from the issuing agency summarizing the citation, violation, or notice. If applicable, please include a corrective action plan and the outcome of the citation/violation/notice if the issues have already been resolved."
+526e8eac504943e5d730bd29,,21518,question,questionText,20196,form,Please upload any relevant documentation for the citation/violation/notice above.
+526e8eb1504943122ba8a214,,21519,question,description,20196,form,"Please provide the relevant documentation received from the issuing agency summarizing the citation, violation, or notice. If applicable, please include a corrective action plan and the outcome of the citation/violation/notice if the issues have already been resolved."
+526e8eb1504943122ba8a214,,21519,question,questionText,20196,form,Please upload any relevant documentation for the citation/violation/notice above.
+526e8eb650494334a7dd6115,,21520,question,description,20196,form,"Please provide the relevant documentation received from the issuing agency summarizing the citation, violation, or notice. If applicable, please include a corrective action plan and the outcome of the citation/violation/notice if the issues have already been resolved."
+526e8eb650494334a7dd6115,,21520,question,questionText,20196,form,Please upload any relevant documentation for the citation/violation/notice above.
+5df2a17b360000eb495e2df8,,89483,question,questionText,20196,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+5df2a1a1360000eb495e2df9,,89484,question,questionText,20196,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+69497ef30100005e00cc3f31,,193899,question,description,20196,form,"These recordable are work-related injuries that cause an employee to miss at least one full shift or day, but do not meet the criteria for notifiable incidents. Do not include any cases already reported as notifiable; only enter non-notifiable lost time incidents for the year."
+69497ef30100005e00cc3f31,,193899,question,questionText,20196,form,Please enter the number of recordable incidents for the given year that resulted in time lost from work for the given year.
+69497f09010000c800cc3f39,,193902,question,description,20196,form,"These recordable incidents are injuries that result in an employee being assigned restricted or modified duties, but are not notifiable to the authorities. Do not include any restricted work incidents that were reported as notifiable incidents. Only count non-notifiable restricted duty cases for the year."
+69497f09010000c800cc3f39,,193902,question,questionText,20196,form,Please enter the number of recordable incidents for the given year that resulted in restricted work of an employee. 

@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4e1df04750494311ecde00b8,,8077,question,questionText,37235,form,Firm Number:
+63a4db621800000103fc493a,632ca6f32f0000f07c8b01ad,37234,questionGroup,questionGroupText,37235,form,Manitoba (Workers Compensation Board of Manitoba)
+641112421700002610025e55,632ca6f32f0000f07c8b01ac,37235,questionGroup,questionGroupText,37235,form,Manitoba Clearance Certificate
+632ca6f32f0000f07c8b01af,,131435,question,questionText,37235,form,Please upload your Manitoba Clearance Certificate within 30 days* (date of upload)

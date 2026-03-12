@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+674df5c60100007000a411ae,63742839160000b607d7b00c,37708,questionGroup,description,37708,form,"You are getting this category because you selected ISO 22000:2018 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for the a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+674df5c60100007000a411ae,63742839160000b607d7b00c,37708,questionGroup,questionGroupText,37708,form,ISO 22000 - Food Safety Management Systems
+637429651600004c051d3c66,,133518,question,questionText,37708,form,Please upload your ISO 22000:2018 - Food Safety Management Systems — Requirements for any organization in the food chain certificate:
+637429a016000060051d3efb,,133519,question,questionText,37708,form,Please enter the certificate expiration date:

@@ -1,0 +1,58 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65454986180000216afba762,524b07c8504943ee585089e3,4529,questionGroup,questionGroupText,20180,form,Malaysia
+65456e05180000216afba819,5ac46dba2400003b011e3355,20180,questionGroup,questionGroupText,20180,form,Avetta PQF - Malaysia Company Information
+524b48c05049437e8be17860,,20966,question,description,20180,form,"The Malaysia Corporate Identity Number (<a href=""https://mycoid2016.ssm.com.my/"">MyCoID</a>) refers to the company incorporation number which is used as a single source of reference for registration and transaction purposes with other relevant government agencies. With the MyCoID, the public can utilize a single series of number derived from the incorporation number assigned by the <a href=""https://www.ssm.com.my/"">Companies Commission of Malaysia</a> (SSM) for the registration, reference and transaction purposes with the Inland Revenue Board (IRB), Employees Provident Fund (EPF) and Social Security Organization (SOCSO) among other government agencies."
+524b48c05049437e8be17860,,20966,question,questionText,20180,form,Does your company have a Malaysia Corporate Identity Number (MyCoID)?
+524b48c05049437e8be17860,,20966,question,responseOptionNo,20180,form,No
+524b48c05049437e8be17860,,20966,question,responseOptionYes,20180,form,Yes
+524b48eb504943fbb6562933,,20967,question,questionText,20180,form,What is your company's MyCoID?
+524b4b975049438ba9b7d366,,20968,question,description,20180,form,"The Inland Revenue Board (<a href=""https://www.hasil.gov.my/"" target=""_blank"">IRB</a>) of Malaysia is one of the main revenue collecting agencies of the Ministry of Finance. The agency is responsible for the overall administration of direct taxes in Malaysia."
+524b4b975049438ba9b7d366,,20968,question,questionText,20180,form,Is your company registered with the Inland Revenue Board (IRB) of Malaysia?
+524b4b975049438ba9b7d366,,20968,question,responseOptionNo,20180,form,No
+524b4b975049438ba9b7d366,,20968,question,responseOptionYes,20180,form,Yes
+524b4c7a50494375c63528bf,,20970,question,questionText,20180,form,Please provide your company's Tax Reference Number.
+524b4cac50494388771ad976,,20971,question,description,20180,form,"Social Security Organization (<a href=""https://www.perkeso.gov.my/"" target=""_blank"">SOCSO</a>)"
+524b4cac50494388771ad976,,20971,question,questionText,20180,form,Is your company registered with the Social Security Organization (SOCSO)?
+524b4cac50494388771ad976,,20971,question,responseOptionNo,20180,form,No
+524b4cac50494388771ad976,,20971,question,responseOptionYes,20180,form,Yes
+524b4d0050494337fb78cbcd,,20973,question,questionText,20180,form,Please provide your company's SOCSO registration number.
+524b4d46504943b40729c250,,20974,question,description,20180,form,"Employees Provident Fund (<a href=""https://www.kwsp.gov.my/portal/en/web/kwsp/home"" target=""_blank"">EPF</a>)"
+524b4d46504943b40729c250,,20974,question,questionText,20180,form,Is your company registered with the Employees Provident Fund (EPF)?
+524b4d46504943b40729c250,,20974,question,responseOptionNo,20180,form,No
+524b4d46504943b40729c250,,20974,question,responseOptionYes,20180,form,Yes
+524b4d8d504943252a2b0d7c,,20976,question,questionText,20180,form,Please provide your company's EPF registration number.
+5519c2d6504943c46be0e02d,,30100,question,linkhttps://msic.stats.gov.my/bi/index.php,20180,form,Click here to locate your company's MSIC code
+5519c2d6504943c46be0e02d,,30100,question,questionText,20180,form,What is your company's primary MSIC Code? \n
+5519c2da504943271fe0fbcf,,30101,question,linkhttps://msic.stats.gov.my/bi/index.php,20180,form,Click here to locate your company's additional MSIC code
+5519c2da504943271fe0fbcf,,30101,question,questionText,20180,form,What is your company's secondary MSIC Code? \n
+5550bb1c504943a96b403065,,30727,question,description,20180,form,"Goods and Services Tax (GST) is a multi-stage tax on domestic consumption. GST is charged on all taxable supplies of goods and services in Malaysia except those specifically exempted. GST is also chargeable on the importation of goods and services into Malaysia. Any person who makes a taxable supply for business purposes and the GST exclusive value of the taxable turnover of that supply for a period of 12 months or less exceeds the threshold of RM500,000 is required to be registered for GST. However, business with taxable turnover of RM500,000 and below, even though not required to be registered, may choose to apply for voluntary registration. In some countries, GST is known as the Value Added Tax (VAT). GST registration may or may not be compulsory depending on your business. If you do not know your organization’s GST Number or would like to check if a business is GST registered, please see: <a href=""https://gst.customs.gov.my/TAP/_/#1d"" target=""_blank"">Royal Malaysian Customs Department Taxpayer Access Point (TAP)</a>."
+5550bb1c504943a96b403065,,30727,question,questionText,20180,form,Does your company have a Goods & Services Tax (GST) Registration Number (GSTN)?
+5550bb1c504943a96b403065,,30727,question,responseOptionNo,20180,form,No
+5550bb1c504943a96b403065,,30727,question,responseOptionYes,20180,form,Yes
+5550bb5450494324b0d6e256,,30728,question,description,20180,form,The GSTN is typically 12 characters long.
+5550bb5450494324b0d6e256,,30728,question,questionText,20180,form,Please provide your company's GSTN.
+652ecdc9160000095de6a127,,145977,question,questionText,20180,form,Please indicate your company's business entity / form of business within this country.
+652ecdc9160000095de6a127,,145977,question,responseOption1,20180,form,Sole Proprietorship
+652ecdc9160000095de6a127,,145977,question,responseOption2,20180,form,Partnership
+652ecdc9160000095de6a127,,145977,question,responseOption3,20180,form,Limited Liability Partnership 
+652ecdc9160000095de6a127,,145977,question,responseOption4,20180,form,Private Limited Company
+652ecdc9160000095de6a127,,145977,question,responseOption5,20180,form,Public Limited Company
+652ecdc9160000095de6a127,,145977,question,responseOption6,20180,form,Unlimited Company 
+652ecdc9160000095de6a127,,145977,question,responseOption7,20180,form,Company Limited by Guarantee
+652ecdc9160000095de6a127,,145977,question,responseOption8,20180,form,Foreign Company with local presence
+652ecdc9160000095de6a127,,145977,question,responseOption9,20180,form,Foreign Company with no fiscal presence in Malaysia
+652f13a7160000405de6a818,,145983,question,questionText,20180,form,Please indicate where your company is established:
+652f13a7160000405de6a818,,145983,question,responseOption1,20180,form,Yes
+652f13a7160000405de6a818,,145983,question,responseOption2,20180,form,No
+652f14331700009e5ef70df9,,145984,question,questionText,20180,form,Please explain
+652f14331700009e5ef70df9,,145984,question,responseOption1,20180,form,Yes
+652f14331700009e5ef70df9,,145984,question,responseOption2,20180,form,No
+652f145a1700009e5ef70dfa,,145985,question,questionText,20180,form,Please explain
+652f145a1700009e5ef70dfa,,145985,question,responseOption1,20180,form,Yes
+652f145a1700009e5ef70dfa,,145985,question,responseOption2,20180,form,No
+65454984180000435f4bb89f,,146605,question,questionText,20180,form,Please explain
+65454984180000435f4bb89f,,146605,question,responseOption1,20180,form,Yes
+65454984180000435f4bb89f,,146605,question,responseOption2,20180,form,No
+65454999180000bd5e4bb8a0,,146606,question,questionText,20180,form,Please explain
+65454999180000bd5e4bb8a0,,146606,question,responseOption1,20180,form,Yes
+65454999180000bd5e4bb8a0,,146606,question,responseOption2,20180,form,No

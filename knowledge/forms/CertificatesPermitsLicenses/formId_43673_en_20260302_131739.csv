@@ -1,0 +1,30 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6733e3640100007d00e63d0b,671fc5c50100004d00a748e1,43673,questionGroup,questionGroupText,43673,form,Brazil Sanitary Authorizations & Permits
+671fc5f60100003300c270a5,671fc5f60100003300c270a4,43674,questionGroup,questionGroupText,43673,form,ANVISA Authorization
+671fc5fb0100003100c270a9,671fc5fb0100003100c270a8,43675,questionGroup,questionGroupText,43673,form,State or  Municipal Sanitary permit
+67216ed30100003100467948,67216ed30100003100467947,43756,questionGroup,questionGroupText,43673,form,Acknowledgement
+671fc6070100003300c270ac,,160500,question,description,43673,form,https://www.gov.br/anvisa/pt-br/english
+671fc6070100003300c270ac,,160500,question,questionText,43673,form,Is your company required to maintain an authorization with National Health Surveillance Agency (ANVISA) for any of your products or services?
+671fc6070100003300c270ac,,160500,question,responseOption1,43673,form,Yes
+671fc6070100003300c270ac,,160500,question,responseOption2,43673,form,No
+671fc62f0100004b00a748e7,,160501,question,questionText,43673,form,Please select an option
+671fc62f0100004b00a748e7,,160501,question,responseOption1,43673,form,Our products or services are not subject to ANVISA regulation
+671fc62f0100004b00a748e7,,160501,question,responseOption2,43673,form,We operate in a sector that is exempt from ANVISA certification
+671fc62f0100004b00a748e7,,160501,question,responseOption3,43673,form,We are in the process of obtaining ANVISA certification
+671fc62f0100004b00a748e7,,160501,question,responseOption4,43673,form,Other
+671fc65d0100002e00a748e9,,160502,question,questionText,43673,form,Please explain
+671fc65d0100002e00a748e9,,160502,question,responseOption1,43673,form,Yes
+671fc65d0100002e00a748e9,,160502,question,responseOption2,43673,form,No
+671fc67b0100004c00a748ec,,160503,question,questionText,43673,form,Is your company required to maintain a state or municipal Sanitary permit (Vigilância Sanitária) for any of your products or services?
+671fc67b0100004c00a748ec,,160503,question,responseOption1,43673,form,Yes
+671fc67b0100004c00a748ec,,160503,question,responseOption2,43673,form,No
+671fc6830100003300a748f0,,160504,question,questionText,43673,form,Please select an option
+671fc6830100003300a748f0,,160504,question,responseOption1,43673,form,Our business activities do not require a Sanitary Permit
+671fc6830100003300a748f0,,160504,question,responseOption2,43673,form,We are in the process of obtaining a Sanitary Permit
+671fc6830100003300a748f0,,160504,question,responseOption3,43673,form,Other
+671fc69a0100003000a748f3,,160505,question,questionText,43673,form,Please explain
+671fc69a0100003000a748f3,,160505,question,responseOption1,43673,form,Yes
+671fc69a0100003000a748f3,,160505,question,responseOption2,43673,form,No
+671fc6ab0100003300c27115,,160506,question,questionText,43673,form,Sign below to confirm the information and/or document provided is correct and updated
+671fc6ab0100003300c27115,,160506,question,responseOption1,43673,form,Yes
+671fc6ab0100003300c27115,,160506,question,responseOption2,43673,form,No

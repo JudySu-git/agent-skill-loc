@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68cc38aa01000013015a073c,68cc35c60100003b005ec134,47728,questionGroup,questionGroupText,47728,form,Crusoe Energy Variance Request Form
+68cc37990100008b055a070d,,181665,question,questionText,47728,form,"For this compliance criteria, please provide a detailed account of what caused the occurrence or the subsequent performance gap."
+68cc37c901000038015ec1ad,,181666,question,questionText,47728,form,"In detail, provide corrective actions being taken to address the current performance gap. Please list both Immediate and long-term corrective actions."
+68cc37ee0100003b005ec1b0,,181667,question,questionText,47728,form,Please upload any supporting documentation for this variance.

@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+606f6eff4300008efba58656,526aa31b5049437ae5e73377,4692,questionGroup,questionGroupText,20274,form,Policy Information
+526eaa61504943611af20f45,526eaa61504943611af20f45,4711,questionGroup,questionGroupText,20274,form,Policy Documentation
+606f6f554400004cc1368d4a,5af87802340000d100f8fdd7,20274,questionGroup,questionGroupText,20274,form,WorkSafe Victoria
+526ea4e45049437b324cad29,,21527,question,questionText,20274,form,Date of Commencement:
+526ea6845049435c7183cb06,,21533,question,questionText,20274,form,Expiration Date:
+526eac0a504943fa5768b936,,21543,question,questionText,20274,form,Please upload a Certificate of Currency or other supporting documentation for this policy.
+606f6efd4300008efba58655,,108556,question,description,20274,form,Used to provide instructions from Client
+606f6efd4300008efba58655,,108556,question,questionText,20274,form,Comments
+606f6f224300008efba5868c,,108557,question,description,20274,form,Date the instructions from Client expire
+606f6f224300008efba5868c,,108557,question,questionText,20274,form,VARIANCE Expiration Date

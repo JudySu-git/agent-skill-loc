@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67eeba380100004000ba795d,67ead5a901000001018c67d4,45105,questionGroup,questionGroupText,45105,form,Brazil AATPP - Interstate Hazardous Transport Authorization
+67ead626010000eb008c67da,,167128,question,description,45105,form,"<a href = ""https://www.gov.br/ibama/pt-br/acesso-a-informacao/perguntas-frequentes/phocadownload/produtosperigosos/2018-06-18-ibama-autorizacao-transporte-interestadual-produtos-perigosos.pdf""target=""BLANK"">Step by step instructions on how to obtain this document.</a>"
+67ead626010000eb008c67da,,167128,question,questionText,45105,form,Please upload your valid AATPP (Autorização Ambiental para Transporte Interestadual de Produtos Perigosos) issued by IBAMA.
+67ead626010000eb008c67da,,167128,question,responseOption1,45105,form,Yes
+67ead626010000eb008c67da,,167128,question,responseOption2,45105,form,No
+67ead64001000042002182de,,167129,question,questionText,45105,form,Please enter the expiration date of your AATPP:
+67ead64001000042002182de,,167129,question,responseOption1,45105,form,Yes
+67ead64001000042002182de,,167129,question,responseOption2,45105,form,No

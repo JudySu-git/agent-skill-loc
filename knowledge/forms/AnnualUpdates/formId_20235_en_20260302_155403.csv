@@ -1,0 +1,27 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63a20e5a1900005d02184db6,51797ff6504943b8b4f51104,3748,questionGroup,questionGroupText,20235,form,Spain Specific Updates
+51797d5650494399b36bfc37,,17096,question,description,20235,form,"The Average Number of Employees your company had during the given year must be obtained from the ""Informe sobre número anual medio de trabajadores en situación de alta"" published by the Social Security through the RED System\n\nhttps://www.seg-social.es/wps/portal/wss/internet/InformacionUtil/5300/1490?changeLanguage=es"
+51797d5650494399b36bfc37,,17096,question,questionText,20235,form,Please enter the Average Number of Employees your company had affiliated to the Social Security during the given year.
+51797d6e5049433ed2d62795,,17097,question,description,20235,form,Ministerio de Trabajo y Economía Social\nhttps://delta.mites.gob.es/Delta2Web/info/pdfs/Guia-cumplimentacion-PAT-Delta.pdf\nhttps://delta.mites.gob.es/Delta2Web/info/pdfs/Guia-cumplimentacion-RATSB-AF-URG-Delta.pdf\nhttps://administracion.gob.es/pag_Home/es/Tu-espacio-europeo/derechos-obligaciones/ciudadanos/trabajo-jubilacion/seguridad-salud/autoridades-accidentes.html
+51797d6e5049433ed2d62795,,17097,question,questionText,20235,form,"Did your company have any workplace accidents, or occupational diseases for the given year?"
+51797d6e5049433ed2d62795,,17097,question,responseOptionNo,20235,form,No
+51797d6e5049433ed2d62795,,17097,question,responseOptionYes,20235,form,Yes
+51798045504943924e491220,,17098,question,description,20235,form,"The total number of hours are those obtained from the ""daily records of working hours"" that the company has to elaborate for each employee according to - Real Decreto-ley 8/2019, de 8 de marzo, de medidas urgentes de protección social y de lucha contra la precariedad laboral en la jornada de trabajo"
+51798045504943924e491220,,17098,question,questionText,20235,form,Please enter the total number of hours worked by all employees during the given year. Please round your answer to the next highest whole number.
+51798065504943966e24f42b,,17099,question,questionText,20235,form,How many fatalities were there for the given year?
+51798082504943c5788c7c15,,17100,question,description,20235,form,"Examples of major injuries include broken bones, amputations, unconsciousness and death. They also include injuries that would result in not being able to attend work for more than 3 consecutive days."
+51798082504943c5788c7c15,,17100,question,questionText,20235,form,Number of _major_ injuries that are classified as _over-three-day_ injuries?
+517980995049435e0420a01a,,17101,question,questionText,20235,form,Number of _major_ injuries that are classified as _under-three-day_ injuries?
+517980b55049436914ab8539,,17102,question,description,20235,form,"Minor injuries are typically those injuries not classified as a major such as a paper cut, twisted ankle, bruising or knock."
+517980b55049436914ab8539,,17102,question,questionText,20235,form,Number of _minor_ injuries?
+517980ce5049432e5db54257,,17103,question,description,20235,form,"A list of specific disease and the manners in which they are contracted. Examples such as anthrax, hepatitis, legionellosis or leptospirosis."
+517980ce5049432e5db54257,,17103,question,questionText,20235,form,Number of reportable diseases (including gas incidents)?
+517980e35049431f344c3d82,,17104,question,description,20235,form,Dangerous occurrences are certain listed near-miss events. Not every near miss event must be reported.
+517980e35049431f344c3d82,,17104,question,questionText,20235,form,Number of reportable dangerous occurrences (or near misses)?
+63a2167d1b00006201a82ac2,5ae8d895240000840091f9a2,20235,questionGroup,questionGroupText,20235,form,Avetta Spain Annual Update
+5df3b4ef330000eb4995716e,,89542,question,questionText,20235,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+5df3b4ff350000fecba15067,,89543,question,questionText,20235,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+63a20e591b00003e01a7b994,,135494,question,questionText,20235,form,Please enter the total number of recordable incidents:
+63a20f231b00004901a7c11a,,135495,question,questionText,20235,form,Please enter the total number of incidents with days away from work:
+63a20f42190000830218590b,,135496,question,questionText,20235,form,Please enter the total number of lost working days as a result of workplace accidents and occupational diseases for the given year
+63a212441900007f02187583,,135497,question,questionText,20235,form,"<a href = ""https://www.appvizer.es/revista/recursos-humanos/sirh/indice-de-frecuencia"" target=""_BLANK_"">https://www.appvizer.es/revista/recursos-humanos/sirh/indice-de-frecuencia</a>"

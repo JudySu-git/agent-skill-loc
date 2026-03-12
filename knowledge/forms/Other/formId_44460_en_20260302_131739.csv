@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67a664700100005100fc777b,6797b32a01000034008535c0,44460,questionGroup,questionGroupText,44460,form,Entergy - Contract Partner
+6797b32a0100003c008535c1,6797b32a0100003c008535c1,44464,questionGroup,questionGroupText,44460,form,Contract Partner
+6797b32a0100003b008535cc,6797b32a0100003b008535cc,44465,questionGroup,questionGroupText,44460,form,What corrective and preventative measures has the Contractor/ Sub-Contractor implemented?
+6797b32a0100003b008535d2,,165113,question,description,44460,form,"Provide a summary of performance issues driving the rating (type of injuries, cause of fatality, subject of citation,\nspecific trends in performance, and other applicable information)"
+6797b32a0100003b008535d2,,165113,question,questionText,44460,form,What specifically is causing the Contractor/ Sub-Contractor red flag status in safety performance?
+6797b32a01000056008535d0,,165114,question,description,44460,form,"Optional Examples: Verification of changes, recent trainings, updates to policies, etc.)"
+6797b32a01000056008535d0,,165114,question,questionText,44460,form,Please provide applicable documentation for review by Entergy:
+6797b32a01000030008535d1,,165115,question,questionText,44460,form,"As the Sub-Contractor, please upload acknowledgement of the Prime Contractor for the Variance Request?"
+6797b32a01000035008535d4,,165116,question,questionText,44460,form,Identify company actions taken to improve safety performance (include dates).
+6797b32a01000030008535d5,,165117,question,description,44460,form,"Examples: prior safety training by supplier, oversight/observations, dedicated safety advocate, job specific toolbox\nreview, verification measures, audits, auditing data, policy changes"
+6797b32a01000030008535d5,,165117,question,questionText,44460,form,Describe the safeguards/precautions will be implemented to protect employees while working on Entergy site.
+679918c701000038008ce162,,165196,question,description,44460,form,The purpose of this page is to capture feedback from the Contract Partner for Entergy to review
+679918c701000038008ce162,,165196,question,questionText,44460,form,For Contract partner to Complete
+679918c701000038008ce162,,165196,question,responseOption1,44460,form,Yes
+679918c701000038008ce162,,165196,question,responseOption2,44460,form,No

@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61324ecf480000bdbda021bf,61322a5c480000bdbd9f3717,33792,questionGroup,questionGroupText,33792,form,Hazardous Material Transportation License
+61322aa6480000bdbd9f38e1,,114467,question,questionText,33792,form,Contractor License Classifications:
+61322ab7480000bdbd9f390c,,114468,question,questionText,33792,form,Expiration Date:
+61322ac2480000bdbd9f3969,,114469,question,description,33792,form,A URL will make verification quicker if provided.
+61322ac2480000bdbd9f3969,,114469,question,questionText,33792,form,"Upload a copy of your license, and or provide the URL of the license."
+61322ac2480000bdbd9f3969,,114469,question,responseOption1,33792,form,File Upload
+61322ac2480000bdbd9f3969,,114469,question,responseOption2,33792,form,URL
+61322ad6470000efa7f703a1,,114470,question,questionText,33792,form,Please upload a copy of your license:
+61322aea480000bdbd9f39f6,,114471,question,questionText,33792,form,Please enter the URL of the license:
+61322b07470000efa7f70455,,114472,question,questionText,33792,form,Contractor License Number:

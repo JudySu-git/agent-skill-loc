@@ -1,0 +1,24 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87752a36b6c4c635467fb,69a87752a36b6c4c635467fa,51184,questionGroup,questionGroupText,51184,form,屋顶作业,
+69a87751a36b6c4c635467f2,,200233,question,description,51184,form,"高度超过3米且坡度不超过20°的屋顶作业，必须首先采用集体防坠落措施（护栏、脚手架、防护墙）。如果集体措施不可行，则必须使用个人防护装备（PPE），例如坠落制动系统。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 87(2-3), 88</a>",
+69a87751a36b6c4c635467f2,,200233,question,questionText,51184,form,坠落防护（超过3米且坡度不超过20°）,
+69a87751a36b6c4c635467f3,,200234,question,description,51184,form,"如果涉及高处作业的建筑施工预计持续时间超过五个工作日，且坠落高度超过5米，则必须通知相关劳动监察机构。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 3(5)(5)</a>",
+69a87751a36b6c4c635467f3,,200234,question,questionText,51184,form,通知劳动监察机构（作业时间>5天且坠落高度>5 m）,
+69a87751a36b6c4c635467f4,,200235,question,description,51184,form,"对于存在特殊危险的屋顶作业（例如，坡度陡峭、湿滑或易碎的表面），现场至少须有两名工人，或须确保有人监督/协助。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 87(8)</a>",
+69a87751a36b6c4c635467f4,,200235,question,questionText,51184,form,高风险屋顶作业的最低在场人数要求,
+69a87751a36b6c4c635467f5,,200236,question,description,51184,form,"屋顶作业必须由经过指导、具有丰富经验且身体状况良好的员工执行。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 5(4), 87(8)</a>",
+69a87751a36b6c4c635467f5,,200236,question,questionText,51184,form,合格人员,
+69a87751a36b6c4c635467f6,,200237,question,description,51184,form,"坡度超过45度的屋顶上，必须设置专用工作区域和出入通道。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 89(1)</a>",
+69a87751a36b6c4c635467f6,,200237,question,questionText,51184,form,坡度>45度的陡坡屋顶的专用通道,
+69a87751a36b6c4c635467f7,,200238,question,description,51184,form,"在坡度大于20度的屋顶上，必须对走道进行固定以防止位移。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 90(3)</a>",
+69a87751a36b6c4c635467f7,,200238,question,questionText,51184,form,坡度>20度的屋顶上的安全走道,
+69a87751a36b6c4c635467f8,,200239,question,description,51184,form,"进入非抗冲击屋顶时，必须采取安全措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 90(1)</a>",
+69a87751a36b6c4c635467f8,,200239,question,questionText,51184,form,出入控制,
+69a87751a36b6c4c635467f9,,200240,question,questionText,51184,form,<div></div>,

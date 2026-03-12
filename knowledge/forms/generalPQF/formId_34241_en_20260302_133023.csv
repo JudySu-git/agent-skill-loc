@@ -1,0 +1,379 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61969de32e0000acc89bbf4f,6196898a2e0000acc89b5498,34241,questionGroup,questionGroupText,34241,form,Avetta PQF - Sustainability Stage 1 (Basic)
+619689e12e0000acc89b55c6,619689e12e0000acc89b55c5,34242,questionGroup,questionGroupText,34241,form,Modern Slavery and Forced Labour
+619689e72e0000acc89b55c9,619689e72e0000acc89b55c8,34243,questionGroup,questionGroupText,34241,form,Sustainability and Ethical Sourcing
+619689f22d00009d55cdf546,619689f22d00009d55cdf545,34244,questionGroup,questionGroupText,34241,form,Environmental Due Diligence
+619689ff2e0000acc89b5955,619689ff2e0000acc89b5954,34245,questionGroup,questionGroupText,34241,form,Remuneration
+61968a042e0000acc89b5957,61968a042e0000acc89b5956,34246,questionGroup,questionGroupText,34241,form,Carbon Management
+61968a0d2d00009d55cdf83d,61968a0d2d00009d55cdf83c,34247,questionGroup,questionGroupText,34241,form,Diversity and Inclusion
+61968a1e2d00009d55cdfa38,61968a1e2d00009d55cdfa37,34248,questionGroup,questionGroupText,34241,form,Prevention of Underage Labour
+61968a2a2d00009d55cdfa3d,61968a2a2d00009d55cdfa3c,34249,questionGroup,questionGroupText,34241,form,Societal and Community Engagement
+61968a342d00009d55cdfa41,61968a342d00009d55cdfa40,34250,questionGroup,questionGroupText,34241,form,Business Ethics
+61968a912e0000acc89b5c41,,116290,question,questionText,34241,form,"Does your company have a policy statement that addresses modern slavery, forced labour and human trafficking?"
+61968a912e0000acc89b5c41,,116290,question,responseOption1,34241,form,Yes
+61968a912e0000acc89b5c41,,116290,question,responseOption2,34241,form,No
+61968aa22d00009d55cdfa48,,116291,question,questionText,34241,form,Does the policy statement cover anti-slavery practice?
+61968aa22d00009d55cdfa48,,116291,question,responseOption1,34241,form,Yes
+61968aa22d00009d55cdfa48,,116291,question,responseOption2,34241,form,No
+61968aaf2d00009d55cdfa4b,,116292,question,questionText,34241,form,"Does the statement confirm that the use of convict/prison labour; indentured, forced, bonded and underage labour is prohibited within your business and your company supply chain?"
+61968aaf2d00009d55cdfa4b,,116292,question,responseOption1,34241,form,Yes
+61968aaf2d00009d55cdfa4b,,116292,question,responseOption2,34241,form,No
+61968abf2d00009d55cdfacc,,116293,question,questionText,34241,form,"Does the statement and all of the prohibited practices relating to forced labour extend to subcontractors, agents and other third-parties involved with the delivery of company services?  "
+61968abf2d00009d55cdfacc,,116293,question,responseOption1,34241,form,Yes
+61968abf2d00009d55cdfacc,,116293,question,responseOption2,34241,form,No
+61968acf2d00009d55cdfc46,,116294,question,questionText,34241,form,Please confirm why there is no policy/statement currently in place.
+61968acf2d00009d55cdfc46,,116294,question,responseOption1,34241,form,Company believes this policy is not required based on current scope of work.
+61968acf2d00009d55cdfc46,,116294,question,responseOption2,34241,form,Company does not believe they are big enough to justify this category of policy.
+61968acf2d00009d55cdfc46,,116294,question,responseOption3,34241,form,Current company management programmes currently under review.
+61968acf2d00009d55cdfc46,,116294,question,responseOption4,34241,form,Company currently developing modern slavery statement/policy and it will be implemented within the next 12 months.
+61968acf2d00009d55cdfc46,,116294,question,responseOption5,34241,form,Company currently developing modern slavery statement/policy and it will be implemented within the next 6 months.
+61968acf2d00009d55cdfc46,,116294,question,responseOption6,34241,form,Other
+61968b1f2d00009d55cdfc48,,116295,question,questionText,34241,form,Please upload a copy of the company policy on the prevention of modern slavery.
+61968c202e0000acc89b63bd,,116296,question,questionText,34241,form,"Please Specify ""Other"":"
+61968df22d00009d55ce0071,,116297,question,questionText,34241,form,Does your company have a Supplier Code of Conduct? 
+61968df22d00009d55ce0071,,116297,question,responseOption1,34241,form,Yes
+61968df22d00009d55ce0071,,116297,question,responseOption2,34241,form,No
+61968e012e0000acc89b6c87,,116298,question,questionText,34241,form,Please confirm how the supplier code of conduct is applied.
+61968e012e0000acc89b6c87,,116298,question,responseOption1,34241,form,Applies to all levels of your supply chain
+61968e012e0000acc89b6c87,,116298,question,responseOption2,34241,form,Content confirms the principles of doing business with your company
+61968e012e0000acc89b6c87,,116298,question,responseOption3,34241,form,Includes international suppliers
+61968e012e0000acc89b6c87,,116298,question,responseOption4,34241,form,Is publicly available
+61968e012e0000acc89b6c87,,116298,question,responseOption5,34241,form,Suppliers do not receive any business if they do not recognise and accept the requirements of the code
+61968e422e0000acc89b6fa4,,116299,question,questionText,34241,form,Please upload a copy of the supplier code of conduct.
+61968e522d00009d55ce1678,,116300,question,questionText,34241,form,Does your company purchase materials and equipment that are used to provide services /work activities for the client base? 
+61968e522d00009d55ce1678,,116300,question,responseOption1,34241,form,Yes
+61968e522d00009d55ce1678,,116300,question,responseOption2,34241,form,No
+61968e622d00009d55ce167a,,116301,question,questionText,34241,form,"Can the company confirm that any products, goods, or equipment used by the business have been validated as having been sourced from suppliers that trade ethically? "
+61968e622d00009d55ce167a,,116301,question,responseOption1,34241,form,Yes
+61968e622d00009d55ce167a,,116301,question,responseOption2,34241,form,No
+61968e702e0000acc89b6fa7,,116302,question,questionText,34241,form,"Programmes /processes used to source goods, products, materials, and work equipment to deliver the full range of client based services include:"
+61968e702e0000acc89b6fa7,,116302,question,responseOption1,34241,form,Ethical sourcing questionnaire-desk top only
+61968e702e0000acc89b6fa7,,116302,question,responseOption2,34241,form,Validation of ethical working via an in-house field based audit
+61968e702e0000acc89b6fa7,,116302,question,responseOption3,34241,form,Validation of ethical working via an independent 3rd party field based audit
+61968e702e0000acc89b6fa7,,116302,question,responseOption4,34241,form,Use of 3rd party agency/social media to assess potential negative reporting of human rights issues
+61968e702e0000acc89b6fa7,,116302,question,responseOption5,34241,form,Analysis of NGO/local government agency data sites
+61968e702e0000acc89b6fa7,,116302,question,responseOption6,34241,form,Other
+61968ea52d00009d55ce16b1,,116303,question,questionText,34241,form,"Please Specify ""Other"":"
+61968ebd2e0000acc89b7094,,116304,question,questionText,34241,form,Does your company outsource production of goods/parts that are integral to the services provided by the company? 
+61968ebd2e0000acc89b7094,,116304,question,responseOption1,34241,form,Yes
+61968ebd2e0000acc89b7094,,116304,question,responseOption2,34241,form,No
+61968ecb2d00009d55ce16b3,,116305,question,questionText,34241,form,"Please check the relevant countries where you can confirm products / materials are sourced from.  Firstly, check the appropriate region and the relevant countries will show. Check multiple options if applicable, confirming sourcing locations. Also include if you have companies within your supply chain that use the services of an agent to procure goods on your behalf, these countries should also be confirmed where possible:"
+61968ecb2d00009d55ce16b3,,116305,question,responseOption1,34241,form,Africa 
+61968ecb2d00009d55ce16b3,,116305,question,responseOption2,34241,form,Arab States
+61968ecb2d00009d55ce16b3,,116305,question,responseOption3,34241,form,Asia and the Pacific
+61968ecb2d00009d55ce16b3,,116305,question,responseOption4,34241,form,Americas
+61968ecb2d00009d55ce16b3,,116305,question,responseOption5,34241,form,Europe and Central Asia
+61968f072e0000acc89b71cf,,116306,question,questionText,34241,form,Africa:
+61968f072e0000acc89b71cf,,116306,question,responseOption1,34241,form,Eritrea
+61968f072e0000acc89b71cf,,116306,question,responseOption10,34241,form,Rwanda
+61968f072e0000acc89b71cf,,116306,question,responseOption11,34241,form,Swaziland
+61968f072e0000acc89b71cf,,116306,question,responseOption12,34241,form,Congo
+61968f072e0000acc89b71cf,,116306,question,responseOption13,34241,form,Guinea
+61968f072e0000acc89b71cf,,116306,question,responseOption14,34241,form,Libya
+61968f072e0000acc89b71cf,,116306,question,responseOption15,34241,form,Nigeria
+61968f072e0000acc89b71cf,,116306,question,responseOption16,34241,form,Uganda
+61968f072e0000acc89b71cf,,116306,question,responseOption17,34241,form,Madagascar
+61968f072e0000acc89b71cf,,116306,question,responseOption18,34241,form,Malawi
+61968f072e0000acc89b71cf,,116306,question,responseOption19,34241,form,Guinea-Bissau
+61968f072e0000acc89b71cf,,116306,question,responseOption2,34241,form,Burundi
+61968f072e0000acc89b71cf,,116306,question,responseOption20,34241,form,Liberia
+61968f072e0000acc89b71cf,,116306,question,responseOption21,34241,form,Angola
+61968f072e0000acc89b71cf,,116306,question,responseOption22,34241,form,Djibouti
+61968f072e0000acc89b71cf,,116306,question,responseOption23,34241,form,Kenya
+61968f072e0000acc89b71cf,,116306,question,responseOption24,34241,form,Cameroon
+61968f072e0000acc89b71cf,,116306,question,responseOption25,34241,form,Togo
+61968f072e0000acc89b71cf,,116306,question,responseOption26,34241,form,Niger
+61968f072e0000acc89b71cf,,116306,question,responseOption27,34241,form,Zimbabwe
+61968f072e0000acc89b71cf,,116306,question,responseOption28,34241,form,Equatorial Guinea
+61968f072e0000acc89b71cf,,116306,question,responseOption29,34241,form,Tanzania
+61968f072e0000acc89b71cf,,116306,question,responseOption3,34241,form,Central African Republic
+61968f072e0000acc89b71cf,,116306,question,responseOption30,34241,form,Ethiopia
+61968f072e0000acc89b71cf,,116306,question,responseOption31,34241,form,Côte d'Ivoire
+61968f072e0000acc89b71cf,,116306,question,responseOption32,34241,form,Gambia
+61968f072e0000acc89b71cf,,116306,question,responseOption33,34241,form,Zambia
+61968f072e0000acc89b71cf,,116306,question,responseOption34,34241,form,Egypt
+61968f072e0000acc89b71cf,,116306,question,responseOption35,34241,form,Benin
+61968f072e0000acc89b71cf,,116306,question,responseOption36,34241,form,Mozambique
+61968f072e0000acc89b71cf,,116306,question,responseOption37,34241,form,Sierra Leone
+61968f072e0000acc89b71cf,,116306,question,responseOption38,34241,form,Ghana
+61968f072e0000acc89b71cf,,116306,question,responseOption39,34241,form,Gabon
+61968f072e0000acc89b71cf,,116306,question,responseOption4,34241,form,Mauritania
+61968f072e0000acc89b71cf,,116306,question,responseOption40,34241,form,Burkina Faso
+61968f072e0000acc89b71cf,,116306,question,responseOption41,34241,form,Lesotho
+61968f072e0000acc89b71cf,,116306,question,responseOption42,34241,form,Cape Verde
+61968f072e0000acc89b71cf,,116306,question,responseOption43,34241,form,Mali
+61968f072e0000acc89b71cf,,116306,question,responseOption44,34241,form,Botswana
+61968f072e0000acc89b71cf,,116306,question,responseOption45,34241,form,Namibia
+61968f072e0000acc89b71cf,,116306,question,responseOption46,34241,form,Senegal
+61968f072e0000acc89b71cf,,116306,question,responseOption47,34241,form,South Africa
+61968f072e0000acc89b71cf,,116306,question,responseOption48,34241,form,Algeria
+61968f072e0000acc89b71cf,,116306,question,responseOption49,34241,form,Morocco
+61968f072e0000acc89b71cf,,116306,question,responseOption5,34241,form,South Sudan
+61968f072e0000acc89b71cf,,116306,question,responseOption50,34241,form,Tunisia
+61968f072e0000acc89b71cf,,116306,question,responseOption51,34241,form,Mauritius
+61968f072e0000acc89b71cf,,116306,question,responseOption6,34241,form,Somalia
+61968f072e0000acc89b71cf,,116306,question,responseOption7,34241,form,Democratic Republic of the Congo
+61968f072e0000acc89b71cf,,116306,question,responseOption8,34241,form,Sudan
+61968f072e0000acc89b71cf,,116306,question,responseOption9,34241,form,Chad
+619690072d00009d55ce1b53,,116307,question,questionText,34241,form,Arab States:
+619690072d00009d55ce1b53,,116307,question,responseOption1,34241,form,Syrian Arab Republic
+619690072d00009d55ce1b53,,116307,question,responseOption10,34241,form,Qatar
+619690072d00009d55ce1b53,,116307,question,responseOption11,34241,form,Kuwait
+619690072d00009d55ce1b53,,116307,question,responseOption2,34241,form,Iraq
+619690072d00009d55ce1b53,,116307,question,responseOption3,34241,form,Yemen
+619690072d00009d55ce1b53,,116307,question,responseOption4,34241,form,Oman
+619690072d00009d55ce1b53,,116307,question,responseOption5,34241,form,Saudi Arabia
+619690072d00009d55ce1b53,,116307,question,responseOption6,34241,form,Bahrain
+619690072d00009d55ce1b53,,116307,question,responseOption7,34241,form,Jordan
+619690072d00009d55ce1b53,,116307,question,responseOption8,34241,form,Lebanon
+619690072d00009d55ce1b53,,116307,question,responseOption9,34241,form,United Arab Emirates
+6196904f2e0000acc89b7735,,116308,question,questionText,34241,form,Asia and the Pacific:
+6196904f2e0000acc89b7735,,116308,question,responseOption1,34241,form,North Korea
+6196904f2e0000acc89b7735,,116308,question,responseOption10,34241,form,People's Democratic Republic Lao
+6196904f2e0000acc89b7735,,116308,question,responseOption11,34241,form,Thailand
+6196904f2e0000acc89b7735,,116308,question,responseOption12,34241,form,Philippines
+6196904f2e0000acc89b7735,,116308,question,responseOption13,34241,form,Timor-Leste
+6196904f2e0000acc89b7735,,116308,question,responseOption14,34241,form,Malaysia
+6196904f2e0000acc89b7735,,116308,question,responseOption15,34241,form,India
+6196904f2e0000acc89b7735,,116308,question,responseOption16,34241,form,Nepal
+6196904f2e0000acc89b7735,,116308,question,responseOption17,34241,form,Indonesia
+6196904f2e0000acc89b7735,,116308,question,responseOption18,34241,form,Viet Nam
+6196904f2e0000acc89b7735,,116308,question,responseOption19,34241,form,Bangladesh
+6196904f2e0000acc89b7735,,116308,question,responseOption2,34241,form,Afghanistan
+6196904f2e0000acc89b7735,,116308,question,responseOption20,34241,form,Singapore
+6196904f2e0000acc89b7735,,116308,question,responseOption21,34241,form,China
+6196904f2e0000acc89b7735,,116308,question,responseOption22,34241,form,Sri Lanka
+6196904f2e0000acc89b7735,,116308,question,responseOption23,34241,form,South Korea
+6196904f2e0000acc89b7735,,116308,question,responseOption24,34241,form,"Hong Kong, China"
+6196904f2e0000acc89b7735,,116308,question,responseOption25,34241,form,Australia
+6196904f2e0000acc89b7735,,116308,question,responseOption26,34241,form,New Zealand
+6196904f2e0000acc89b7735,,116308,question,responseOption27,34241,form,"Taiwan, China"
+6196904f2e0000acc89b7735,,116308,question,responseOption28,34241,form,Japan
+6196904f2e0000acc89b7735,,116308,question,responseOption3,34241,form,Pakistan
+6196904f2e0000acc89b7735,,116308,question,responseOption4,34241,form,Cambodia
+6196904f2e0000acc89b7735,,116308,question,responseOption5,34241,form,Iran
+6196904f2e0000acc89b7735,,116308,question,responseOption6,34241,form,Mongolia
+6196904f2e0000acc89b7735,,116308,question,responseOption7,34241,form,Myanmar
+6196904f2e0000acc89b7735,,116308,question,responseOption8,34241,form,Brunei Darussalam
+6196904f2e0000acc89b7735,,116308,question,responseOption9,34241,form,Papua New Guinea
+619690f02e0000acc89b7ad0,,116309,question,questionText,34241,form,Americas:
+619690f02e0000acc89b7ad0,,116309,question,responseOption1,34241,form,Venezuela (Bolivarian republic of)
+619690f02e0000acc89b7ad0,,116309,question,responseOption10,34241,form,Colombia
+619690f02e0000acc89b7ad0,,116309,question,responseOption11,34241,form,Mexico
+619690f02e0000acc89b7ad0,,116309,question,responseOption12,34241,form,Guyana
+619690f02e0000acc89b7ad0,,116309,question,responseOption13,34241,form,Jamaica
+619690f02e0000acc89b7ad0,,116309,question,responseOption14,34241,form,Peru
+619690f02e0000acc89b7ad0,,116309,question,responseOption15,34241,form,El Salvador
+619690f02e0000acc89b7ad0,,116309,question,responseOption16,34241,form,Ecuador
+619690f02e0000acc89b7ad0,,116309,question,responseOption17,34241,form,Suriname
+619690f02e0000acc89b7ad0,,116309,question,responseOption18,34241,form,Bolivia
+619690f02e0000acc89b7ad0,,116309,question,responseOption19,34241,form,Panama
+619690f02e0000acc89b7ad0,,116309,question,responseOption2,34241,form,Haiti
+619690f02e0000acc89b7ad0,,116309,question,responseOption20,34241,form,Brazil
+619690f02e0000acc89b7ad0,,116309,question,responseOption21,34241,form,Paraguay
+619690f02e0000acc89b7ad0,,116309,question,responseOption22,34241,form,Nicaragua
+619690f02e0000acc89b7ad0,,116309,question,responseOption23,34241,form,Barbados
+619690f02e0000acc89b7ad0,,116309,question,responseOption24,34241,form,Costa Rica
+619690f02e0000acc89b7ad0,,116309,question,responseOption25,34241,form,Uruguay
+619690f02e0000acc89b7ad0,,116309,question,responseOption26,34241,form,Chile
+619690f02e0000acc89b7ad0,,116309,question,responseOption27,34241,form,Canada
+619690f02e0000acc89b7ad0,,116309,question,responseOption28,34241,form,United States
+619690f02e0000acc89b7ad0,,116309,question,responseOption3,34241,form,Dominican Republic
+619690f02e0000acc89b7ad0,,116309,question,responseOption4,34241,form,Cuba
+619690f02e0000acc89b7ad0,,116309,question,responseOption5,34241,form,Honduras
+619690f02e0000acc89b7ad0,,116309,question,responseOption6,34241,form,Trinidad and Tobago
+619690f02e0000acc89b7ad0,,116309,question,responseOption7,34241,form,Guatemala
+619690f02e0000acc89b7ad0,,116309,question,responseOption8,34241,form,Nicaragua
+619690f02e0000acc89b7ad0,,116309,question,responseOption9,34241,form,Barbados
+6196919a2e0000acc89b7d7f,,116310,question,questionText,34241,form,Europe and Central Asia:
+6196919a2e0000acc89b7d7f,,116310,question,responseOption1,34241,form,Turkmenistan
+6196919a2e0000acc89b7d7f,,116310,question,responseOption10,34241,form,Lithuania
+6196919a2e0000acc89b7d7f,,116310,question,responseOption11,34241,form,Russian Federation
+6196919a2e0000acc89b7d7f,,116310,question,responseOption12,34241,form,Republic of Moldova
+6196919a2e0000acc89b7d7f,,116310,question,responseOption13,34241,form,Turkmenistan
+6196919a2e0000acc89b7d7f,,116310,question,responseOption14,34241,form,Armenia
+6196919a2e0000acc89b7d7f,,116310,question,responseOption15,34241,form,Uzbekistan
+6196919a2e0000acc89b7d7f,,116310,question,responseOption16,34241,form,Tajikistan
+6196919a2e0000acc89b7d7f,,116310,question,responseOption17,34241,form,Bulgaria
+6196919a2e0000acc89b7d7f,,116310,question,responseOption18,34241,form,Azerbaijan
+6196919a2e0000acc89b7d7f,,116310,question,responseOption19,34241,form,Georgia
+6196919a2e0000acc89b7d7f,,116310,question,responseOption2,34241,form,Belarus
+6196919a2e0000acc89b7d7f,,116310,question,responseOption20,34241,form,Romania
+6196919a2e0000acc89b7d7f,,116310,question,responseOption21,34241,form,Cyprus
+6196919a2e0000acc89b7d7f,,116310,question,responseOption22,34241,form,Kazakhstan
+6196919a2e0000acc89b7d7f,,116310,question,responseOption23,34241,form,Kyrgyzstan
+6196919a2e0000acc89b7d7f,,116310,question,responseOption24,34241,form,Kosovo
+6196919a2e0000acc89b7d7f,,116310,question,responseOption25,34241,form,Latvia
+6196919a2e0000acc89b7d7f,,116310,question,responseOption26,34241,form,Israel
+6196919a2e0000acc89b7d7f,,116310,question,responseOption27,34241,form,Hungary
+6196919a2e0000acc89b7d7f,,116310,question,responseOption28,34241,form,Estonia
+6196919a2e0000acc89b7d7f,,116310,question,responseOption29,34241,form,Bosnia and Herzegovina
+6196919a2e0000acc89b7d7f,,116310,question,responseOption3,34241,form,Macedonia
+6196919a2e0000acc89b7d7f,,116310,question,responseOption30,34241,form,Poland
+6196919a2e0000acc89b7d7f,,116310,question,responseOption31,34241,form,Serbia
+6196919a2e0000acc89b7d7f,,116310,question,responseOption32,34241,form,Slovakia
+6196919a2e0000acc89b7d7f,,116310,question,responseOption33,34241,form,Czech Republic
+6196919a2e0000acc89b7d7f,,116310,question,responseOption34,34241,form,Portugal
+6196919a2e0000acc89b7d7f,,116310,question,responseOption35,34241,form,Italy
+6196919a2e0000acc89b7d7f,,116310,question,responseOption36,34241,form,Spain
+6196919a2e0000acc89b7d7f,,116310,question,responseOption37,34241,form,Slovenia
+6196919a2e0000acc89b7d7f,,116310,question,responseOption38,34241,form,Iceland
+6196919a2e0000acc89b7d7f,,116310,question,responseOption39,34241,form,United Kingdom
+6196919a2e0000acc89b7d7f,,116310,question,responseOption4,34241,form,Greece
+6196919a2e0000acc89b7d7f,,116310,question,responseOption40,34241,form,Germany
+6196919a2e0000acc89b7d7f,,116310,question,responseOption41,34241,form,Belgium
+6196919a2e0000acc89b7d7f,,116310,question,responseOption42,34241,form,France
+6196919a2e0000acc89b7d7f,,116310,question,responseOption43,34241,form,Norway
+6196919a2e0000acc89b7d7f,,116310,question,responseOption44,34241,form,Netherlands
+6196919a2e0000acc89b7d7f,,116310,question,responseOption45,34241,form,Austria
+6196919a2e0000acc89b7d7f,,116310,question,responseOption46,34241,form,Switzerland
+6196919a2e0000acc89b7d7f,,116310,question,responseOption47,34241,form,Ireland
+6196919a2e0000acc89b7d7f,,116310,question,responseOption48,34241,form,Finland
+6196919a2e0000acc89b7d7f,,116310,question,responseOption49,34241,form,Denmark
+6196919a2e0000acc89b7d7f,,116310,question,responseOption5,34241,form,Albania
+6196919a2e0000acc89b7d7f,,116310,question,responseOption50,34241,form,Sweden
+6196919a2e0000acc89b7d7f,,116310,question,responseOption51,34241,form,Luxembourg
+6196919a2e0000acc89b7d7f,,116310,question,responseOption6,34241,form,Turkey
+6196919a2e0000acc89b7d7f,,116310,question,responseOption7,34241,form,Ukraine
+6196919a2e0000acc89b7d7f,,116310,question,responseOption8,34241,form,Croatia
+6196919a2e0000acc89b7d7f,,116310,question,responseOption9,34241,form,Montenegro
+619694b72d00009d55ce376e,,116311,question,questionText,34241,form,Can the company confirm that as part of its supplier due diligence (Checking / Verification) programme that it verifies if the supplier has an environmental management system in place? 
+619694b72d00009d55ce376e,,116311,question,responseOption1,34241,form,Yes
+619694b72d00009d55ce376e,,116311,question,responseOption2,34241,form,No
+6196956f2d00009d55ce3897,,116312,question,questionText,34241,form,"The company supplier due diligence process checks /validates that the environmental management system used by the supplier identifies, measures, and mitigates all environmental impacts created as a result of the work activity/services offered."
+6196956f2d00009d55ce3897,,116312,question,responseOption1,34241,form,Yes
+6196956f2d00009d55ce3897,,116312,question,responseOption2,34241,form,No
+6196957f2d00009d55ce38a9,,116313,question,questionText,34241,form,Please confirm why the  company does not include checking if the supplier has an environmental management programme:
+6196957f2d00009d55ce38a9,,116313,question,responseOption1,34241,form,The client takes responsibility for conducting this type of check.
+6196957f2d00009d55ce38a9,,116313,question,responseOption2,34241,form,Environmental compliance is not part of the verification process.
+6196957f2d00009d55ce38a9,,116313,question,responseOption3,34241,form,We don’t understand what impacts our suppliers have on the environment and do not ask the question.
+6196957f2d00009d55ce38a9,,116313,question,responseOption4,34241,form,Other 
+619695aa2e0000acc89b93e6,,116314,question,questionText,34241,form,"Please Specify ""Other"":"
+619696492e0000acc89b94bb,,116315,question,questionText,34241,form,Can your company demonstrate workers are paid the national minimum wage?
+619696492e0000acc89b94bb,,116315,question,responseOption1,34241,form,Yes
+619696492e0000acc89b94bb,,116315,question,responseOption2,34241,form,No
+619696492e0000acc89b94bb,,116315,question,responseOption3,34241,form,N/A
+6196966b2d00009d55ce3b94,,116316,question,questionText,34241,form,Confirm why your company does not pay the minimum wage as part of the remuneration of workers:
+6196966b2d00009d55ce3b94,,116316,question,responseOption1,34241,form,All company workers are paid in excess of the minimum wage.
+6196966b2d00009d55ce3b94,,116316,question,responseOption2,34241,form,No mandatory minimum wage required in country of operation.
+6196966b2d00009d55ce3b94,,116316,question,responseOption3,34241,form,"Wages calculated based upon production process and worker performance/individual output e.g., piecework."
+6196966b2d00009d55ce3b94,,116316,question,responseOption4,34241,form,Other
+619696922e0000acc89b94be,,116317,question,questionText,34241,form,"Please Specify ""Other"":"
+619697332d00009d55ce4157,,116318,question,questionText,34241,form,Does the company track/monitor and analyse greenhouse gas emissions (GHG) ? 
+619697332d00009d55ce4157,,116318,question,responseOption1,34241,form,Yes
+619697332d00009d55ce4157,,116318,question,responseOption2,34241,form,No
+619697412e0000acc89b9b21,,116319,question,questionText,34241,form,Please confirm monitoring period:
+619697412e0000acc89b9b21,,116319,question,responseOption1,34241,form,Greenhouse gases (GHG) monitored annually
+619697412e0000acc89b9b21,,116319,question,responseOption2,34241,form,Greenhouse gases (GHG) monitored monthly
+619697412e0000acc89b9b21,,116319,question,responseOption3,34241,form,Greenhouse gases (GHG) monitored both monthly and annually
+619697412e0000acc89b9b21,,116319,question,responseOption4,34241,form,Other
+619697692e0000acc89b9ba1,,116320,question,questionText,34241,form,"Please Specify ""Other"":"
+619697772d00009d55ce41ba,,116321,question,questionText,34241,form,Please confirm which category of emissions are tracked/monitored and subject to analysis:
+619697772d00009d55ce41ba,,116321,question,responseOption1,34241,form,Scope 1
+619697772d00009d55ce41ba,,116321,question,responseOption2,34241,form,Scope 2
+619697772d00009d55ce41ba,,116321,question,responseOption3,34241,form,Scope 3
+6196978d2d00009d55ce4332,,116322,question,questionText,34241,form,Please confirm why the company does not track/monitor and analyse greenhouse gas emissions.
+6196978d2d00009d55ce4332,,116322,question,responseOption1,34241,form,Do not believe there is any value in doing this process.
+6196978d2d00009d55ce4332,,116322,question,responseOption2,34241,form,Do not think the company is big enough to justify the requirement.
+6196978d2d00009d55ce4332,,116322,question,responseOption3,34241,form,Working on developing a system that will be introduced within 6-months.
+6196978d2d00009d55ce4332,,116322,question,responseOption4,34241,form,Working on developing a system that will be introduced within 1-year.
+6196978d2d00009d55ce4332,,116322,question,responseOption5,34241,form,Other
+619697c32d00009d55ce4425,,116323,question,questionText,34241,form,"Please Specify ""Other"":"
+619697db2e0000acc89b9cde,,116324,question,questionText,34241,form,Has the company made a commitment to net zero?
+619697db2e0000acc89b9cde,,116324,question,responseOption1,34241,form,Yes
+619697db2e0000acc89b9cde,,116324,question,responseOption2,34241,form,No
+619697eb2e0000acc89b9ce0,,116325,question,questionText,34241,form,Has the company confirmed this commitment publicly or via a third party?
+619697eb2e0000acc89b9ce0,,116325,question,responseOption1,34241,form,Yes
+619697eb2e0000acc89b9ce0,,116325,question,responseOption2,34241,form,No
+619697f92d00009d55ce4429,,116326,question,questionText,34241,form,Please confirm why the company is not committed to net zero:
+619697f92d00009d55ce4429,,116326,question,responseOption1,34241,form,Do not believe the company is big enough.
+619697f92d00009d55ce4429,,116326,question,responseOption2,34241,form,Do not believe that the company services/work scope impact upon climate change.
+619697f92d00009d55ce4429,,116326,question,responseOption3,34241,form,Company currently assessing environmental impacts and making an assessment specific to climate change with plans to implement policy and change  strategy within next 6 months.
+619697f92d00009d55ce4429,,116326,question,responseOption4,34241,form,Company currently assessing environmental impacts and making an assessment specific to climate change with plans to implement policy and change  strategy within 1-year.
+619697f92d00009d55ce4429,,116326,question,responseOption5,34241,form,Other
+619698452e0000acc89b9eba,,116327,question,questionText,34241,form,"Please Specify ""Other"":"
+619699a12e0000acc89ba190,,116328,question,questionText,34241,form,Does the company monitor inclusion and diversity throughout the business? 
+619699a12e0000acc89ba190,,116328,question,responseOption1,34241,form,Yes
+619699a12e0000acc89ba190,,116328,question,responseOption2,34241,form,No
+619699ad2d00009d55ce4b67,,116329,question,questionText,34241,form,Diversity and inclusion are monitored by the company within the following areas:
+619699ad2d00009d55ce4b67,,116329,question,responseOption1,34241,form,Throughout all areas of the company
+619699ad2d00009d55ce4b67,,116329,question,responseOption2,34241,form,Throughout strategic suppliers – only
+619699ad2d00009d55ce4b67,,116329,question,responseOption3,34241,form,Throughout all stages of the supply chain – domestically
+619699ad2d00009d55ce4b67,,116329,question,responseOption4,34241,form,Throughout all stages of the supply chain – internationally
+619699ad2d00009d55ce4b67,,116329,question,responseOption5,34241,form,Other
+619699d22d00009d55ce4b68,,116330,question,questionText,34241,form,"Please Specify ""Other"":"
+619699e02e0000acc89ba4b9,,116331,question,questionText,34241,form,The company monitors the following elements of inclusion and diversity:
+619699e02e0000acc89ba4b9,,116331,question,responseOption1,34241,form,Age group distribution
+619699e02e0000acc89ba4b9,,116331,question,responseOption10,34241,form,Languages Spoken
+619699e02e0000acc89ba4b9,,116331,question,responseOption11,34241,form,English Proficiency
+619699e02e0000acc89ba4b9,,116331,question,responseOption12,34241,form,Socio-economic background
+619699e02e0000acc89ba4b9,,116331,question,responseOption13,34241,form,Criminal background
+619699e02e0000acc89ba4b9,,116331,question,responseOption14,34241,form,Educational attainment/background
+619699e02e0000acc89ba4b9,,116331,question,responseOption15,34241,form,Disability and health status
+619699e02e0000acc89ba4b9,,116331,question,responseOption16,34241,form,Sexual orientation
+619699e02e0000acc89ba4b9,,116331,question,responseOption17,34241,form,Family status
+619699e02e0000acc89ba4b9,,116331,question,responseOption18,34241,form,Carer and parental status
+619699e02e0000acc89ba4b9,,116331,question,responseOption19,34241,form,"Employment status (full time, part-time, flexible working)"
+619699e02e0000acc89ba4b9,,116331,question,responseOption2,34241,form,Gender pay gap
+619699e02e0000acc89ba4b9,,116331,question,responseOption20,34241,form,Religion / Belief
+619699e02e0000acc89ba4b9,,116331,question,responseOption21,34241,form,Political Belief
+619699e02e0000acc89ba4b9,,116331,question,responseOption22,34241,form,Veteran status
+619699e02e0000acc89ba4b9,,116331,question,responseOption23,34241,form,Other
+619699e02e0000acc89ba4b9,,116331,question,responseOption3,34241,form,Gender Identity
+619699e02e0000acc89ba4b9,,116331,question,responseOption4,34241,form,Gender Ratio
+619699e02e0000acc89ba4b9,,116331,question,responseOption5,34241,form,Compensation and Pay Equity Analysis
+619699e02e0000acc89ba4b9,,116331,question,responseOption6,34241,form,Ethnicity
+619699e02e0000acc89ba4b9,,116331,question,responseOption7,34241,form,Racial Diversity
+619699e02e0000acc89ba4b9,,116331,question,responseOption8,34241,form,Immigration Status
+619699e02e0000acc89ba4b9,,116331,question,responseOption9,34241,form,Nationality
+61969a792d00009d55ce4b6b,,116332,question,questionText,34241,form,"Please Specify ""Other"""
+61969b0b2d00009d55ce4b6d,,116333,question,questionText,34241,form,Can the company confirm that they have management procedures to prevent the recruitment and use of underage labour (no less than 15 years of age) being used within the business? 
+61969b0b2d00009d55ce4b6d,,116333,question,responseOption1,34241,form,Yes
+61969b0b2d00009d55ce4b6d,,116333,question,responseOption2,34241,form,No
+61969b1c2d00009d55ce4b6f,,116334,question,questionText,34241,form,Can the company confirm that the management procedure is supported by a policy statement? 
+61969b1c2d00009d55ce4b6f,,116334,question,responseOption1,34241,form,Yes
+61969b1c2d00009d55ce4b6f,,116334,question,responseOption2,34241,form,No
+61969b2a2d00009d55ce4b71,,116335,question,questionText,34241,form,Can the company  confirm the policy and associated management procedures apply to all parts of the company supply chain? 
+61969b2a2d00009d55ce4b71,,116335,question,responseOption1,34241,form,Yes
+61969b2a2d00009d55ce4b71,,116335,question,responseOption2,34241,form,No
+61969b382e0000acc89ba4c1,,116336,question,questionText,34241,form,Please upload a copy of the company procedure or policy statement that covers the prevention of underage labour within the company supply chain.
+61969b942e0000acc89ba4c3,,116337,question,questionText,34241,form,Can the company confirm if they have contributed to community and societal development enhancement programmes within the last calendar year?
+61969b942e0000acc89ba4c3,,116337,question,responseOption1,34241,form,Yes
+61969b942e0000acc89ba4c3,,116337,question,responseOption2,34241,form,No
+61969ba22d00009d55ce544c,,116338,question,questionText,34241,form,Please confirm the areas where community and societal initiatives have been implemented:
+61969ba22d00009d55ce544c,,116338,question,responseOption1,34241,form,Agriculture and connected work
+61969ba22d00009d55ce544c,,116338,question,responseOption2,34241,form,Education
+61969ba22d00009d55ce544c,,116338,question,responseOption3,34241,form,Health services
+61969ba22d00009d55ce544c,,116338,question,responseOption4,34241,form,Training for workers
+61969ba22d00009d55ce544c,,116338,question,responseOption5,34241,form,Housing
+61969ba22d00009d55ce544c,,116338,question,responseOption6,34241,form,Social welfare
+61969ba22d00009d55ce544c,,116338,question,responseOption7,34241,form,Domestic locations
+61969ba22d00009d55ce544c,,116338,question,responseOption8,34241,form, International locations
+61969ba22d00009d55ce544c,,116338,question,responseOption9,34241,form,Other
+61969bd22e0000acc89ba4c8,,116339,question,questionText,34241,form,"Please Specify ""Other"":"
+61969c3c2d00009d55ce5877,,116340,question,questionText,34241,form,Does the company have a policy or ethical code of conduct that addresses anti-bribery and prevention of corrupt business practices?
+61969c3c2d00009d55ce5877,,116340,question,responseOption1,34241,form,Yes
+61969c3c2d00009d55ce5877,,116340,question,responseOption2,34241,form,No
+61969c492d00009d55ce587b,,116341,question,questionText,34241,form,The policy covers the following areas:
+61969c492d00009d55ce587b,,116341,question,responseOption1,34241,form,Tier 1 suppliers (Vendor / Contractor) – Indirect 
+61969c492d00009d55ce587b,,116341,question,responseOption10,34241,form,Lobbyists
+61969c492d00009d55ce587b,,116341,question,responseOption11,34241,form,Working with customs and border control agencies
+61969c492d00009d55ce587b,,116341,question,responseOption12,34241,form,Other
+61969c492d00009d55ce587b,,116341,question,responseOption2,34241,form,Tier 1 suppliers (Vendor / Contractor) – Direct 
+61969c492d00009d55ce587b,,116341,question,responseOption3,34241,form,Tier 2 suppliers and below (Vendors/ Contractors) – Indirect
+61969c492d00009d55ce587b,,116341,question,responseOption4,34241,form,Tier 2 suppliers and below (Vendors/ Contractors) - Direct
+61969c492d00009d55ce587b,,116341,question,responseOption5,34241,form,Distributors/Agents selling  of company products
+61969c492d00009d55ce587b,,116341,question,responseOption6,34241,form,All domestic and international business transactions
+61969c492d00009d55ce587b,,116341,question,responseOption7,34241,form,Members of any Joint venture programmes
+61969c492d00009d55ce587b,,116341,question,responseOption8,34241,form,Third-party Advisors and consultants
+61969c492d00009d55ce587b,,116341,question,responseOption9,34241,form,"General Service providers (logistics, storage, maintenance, etc.)"
+61969c882e0000acc89bb91e,,116342,question,questionText,34241,form,"Please Specify ""Other"":"
+61969c972d00009d55ce5994,,116343,question,questionText,34241,form,If the company operates within a country where it is culturally acceptable to give gifts as part of the business process/contract delivery (including business decision making) is this process managed to ensure compliance with the company policy on business transparency?
+61969c972d00009d55ce5994,,116343,question,responseOption1,34241,form,Yes
+61969c972d00009d55ce5994,,116343,question,responseOption2,34241,form,No
+61969c972d00009d55ce5994,,116343,question,responseOption3,34241,form,N/A
+61969cab2d00009d55ce5995,,116344,question,questionText,34241,form,Please upload a copy of the relevant policy or company procedure:
+61969cb82e0000acc89bb98a,,116345,question,questionText,34241,form,"If the company uses the services of an agent to undertake business in a different country, do you ensure that they sign or confirm agreement on the prevention of fraud or corruption during the business relationship?"
+61969cb82e0000acc89bb98a,,116345,question,responseOption1,34241,form,Yes
+61969cb82e0000acc89bb98a,,116345,question,responseOption2,34241,form,No
+61969cb82e0000acc89bb98a,,116345,question,responseOption3,34241,form,N/A

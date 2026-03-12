@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+636576661700003906cf8eb3,63657649180000ee04c0cb8f,37464,questionGroup,questionGroupText,37464,form,Scaffolding Contractor Licences – Australian Capital Territory (ACT)
+63657649180000ee04c0cb90,,132415,question,questionText,37464,form,Please upload current Scaffolding Licence
+63657649180000ee04c0cb91,,132416,question,questionText,37464,form,Licence Number
+6365764a180000ee04c0cb92,,132417,question,questionText,37464,form,Effective Date
+6365764a180000ee04c0cb93,,132418,question,questionText,37464,form,Expiration Date

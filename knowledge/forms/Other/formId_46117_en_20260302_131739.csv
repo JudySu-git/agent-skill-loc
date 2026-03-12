@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6862f334010000a5015de464,682ce9c60100007601035c48,46117,questionGroup,questionGroupText,46117,form,CP Chem Global Variance Form
+685c13670100004000948389,682ce9c60100004100035c49,46118,questionGroup,questionGroupText,46117,form,Supplier Variance Inputs
+682ce9c60100004100035c4a,,174392,question,description,46117,form,"Describe what circumstances, conditions, events that have been determined through investigation to be the cause of performance gap."
+682ce9c60100004100035c4a,,174392,question,questionText,46117,form,"For this compliance criteria,  please provide a detailed root cause of what caused the occurrence or the subsequent performance gap."
+682ce9c60100004100035c4b,,174393,question,description,46117,form,Examples of supporting documentation could include but not limited to:\n-Copy of Agreement (s)\n-Settlements\n-Citations or Violations\n-Notices\n-Accident Reports\n-Incident Investigation Report\n-Corrective Action Plan\n-Photo(s) of Implemented engineering controls (if applicable)
+682ce9c60100004100035c4b,,174393,question,questionText,46117,form,Please upload any supporting documentation for this variance.
+682ce9c60100004100035c4c,,174394,question,description,46117,form,Details could include plans to reduce risk of reoccurrence of the events leading to the performance gap. Plan should include information around:\n\n-Additional training\n-Staffing Considerations\n-Risk Assessment\n-Communication plans\n-Other activities to be implemented
+682ce9c60100004100035c4c,,174394,question,questionText,46117,form,"In detail, provide corrective actions being taken to address the current performance gap. Please list both Immediate and Long Term corrective actions."

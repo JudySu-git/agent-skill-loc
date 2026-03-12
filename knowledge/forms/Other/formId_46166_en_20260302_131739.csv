@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6942e3cc0100005f003c63a8,68362d1e0100008001df2255,46166,questionGroup,description,46166,form,This requirement is triggered because you indicated your organization maintains a valid KBIS Extract in the France KBIS Extract Applicability Assessment questionnaire.
+6942e3cc0100005f003c63a8,68362d1e0100008001df2255,46166,questionGroup,questionGroupText,46166,form,France KBIS Extract
+683632cd0100007701df2ccd,,174527,question,description,46166,form,"<a href = ""https://infonet.fr/kbis/""target=""_BLANK_"">Sample of KBIS Extract</a>"
+683632cd0100007701df2ccd,,174527,question,questionText,46166,form,Please upload your KBIS Extract.
+683633380100008001df2cd1,,174528,question,questionText,46166,form,Please enter the issue date of your KBIS Extract.
+683636410100004200df2fac,,174529,question,description,46166,form,Please enter the expiration date as exactly three months after the issue date.
+683636410100004200df2fac,,174529,question,questionText,46166,form,Please enter the expiration date of your KBIS Extract.

@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69409c310100006100a4b0ec,69409b150100004300a4b0db,49800,questionGroup,description,49800,form,This requirement is triggered because you indicated your organization maintains valid Guatemalan Occupational Health and Safety documentation in the Guatemala Occupational Health and Safety Plan Applicability Assessment questionnaire.
+69409c310100006100a4b0ec,69409b150100004300a4b0db,49800,questionGroup,questionGroupText,49800,form,Avetta PQF - Guatemala Occupational Health and Safety Plan Certificate
+69409b5a0100004c00a4b0ea,,193308,question,description,49800,form,
+69409b5a0100004c00a4b0ea,,193308,question,questionText,49800,form,Please upload your company’s valid Occupational Health and Safety Plan Certificate to confirm compliance with Guatemala’s Occupational Health and Safety Plan requirements.
+69409bb30100002d0140aeac,,193309,question,description,49800,form,The Occupational Health and Safety Plan Certificate is typically valid for three years from the issue date unless workplace conditions change significantly.
+69409bb30100002d0140aeac,,193309,question,questionText,49800,form,Please provide the expiration date of your Occupational Health and Safety Plan Certificate.

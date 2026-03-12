@@ -1,0 +1,22 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6733d49f0100007100e63c56,671c09150100003400e90f4a,43606,questionGroup,questionGroupText,43606,form,Brazil Tax Structure & Registration of Service Providers from Other Municipalities
+672a5fca01000037003f232b,671c0b2c0100004d00e90f82,43621,questionGroup,questionGroupText,43606,form,Brazil Tax Structure
+672a5fde0100007a003f2330,671c0b4f0100003300e90f88,43623,questionGroup,questionGroupText,43606,form,Brazil Tax Registration of Service Providers from Other Municipalities
+67216d210100002b00467936,67216d210100002b00467935,43754,questionGroup,questionGroupText,43606,form,Acknowledgement
+671c0c6f0100004c00e90fb9,,160276,question,questionText,43606,form,Which one of the following is your company’s taxation business structure or taxable income rates?
+671c0c6f0100004c00e90fb9,,160276,question,responseOption1,43606,form,Simples
+671c0c6f0100004c00e90fb9,,160276,question,responseOption2,43606,form,Presumed
+671c0c6f0100004c00e90fb9,,160276,question,responseOption3,43606,form,Real
+671c0cb5010000cf00e90fbc,,160277,question,description,43606,form,"Simples Nacional is a shared tax collection and inspection regime applicable to Micro and Small Enterprises, provided in Complementary Law No. 123, of December 14, 2006.\nhttp://www8.receita.fazenda.gov.br/simplesnacional/documentos/pagina.aspx?id=3"
+671c0cb5010000cf00e90fbc,,160277,question,questionText,43606,form,Simples Nacional Registration:\nPlease upload the Simples Nacional Registration of your company.
+671c0cb5010000cf00e90fbc,,160277,question,responseOption1,43606,form,Yes
+671c0cb5010000cf00e90fbc,,160277,question,responseOption2,43606,form,No
+671c0ce40100003000e90fbf,,160278,question,questionText,43606,form,Is your company required to register with any municipal service provider registration system (such as CPOM) for providing services outside of the municipality where it is registered?
+671c0ce40100003000e90fbf,,160278,question,responseOption1,43606,form,Yes
+671c0ce40100003000e90fbf,,160278,question,responseOption2,43606,form,No
+671c0cee0100002f004db395,,160279,question,questionText,43606,form,Please upload a copy of your Service Provider Registration Certificate or equivalent document for any municipality where your company is required to register.
+671c0cee0100002f004db395,,160279,question,responseOption1,43606,form,Yes
+671c0cee0100002f004db395,,160279,question,responseOption2,43606,form,No
+671c0d9501000029004db398,,160280,question,questionText,43606,form,Sign below to confirm the information and/or document provided is correct and updated
+671c0d9501000029004db398,,160280,question,responseOption1,43606,form,Yes
+671c0d9501000029004db398,,160280,question,responseOption2,43606,form,No

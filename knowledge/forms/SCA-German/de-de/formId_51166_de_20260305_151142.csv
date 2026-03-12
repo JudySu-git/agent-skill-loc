@@ -1,0 +1,21 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87745a36b6c4c63546763,69a87745a36b6c4c63546762,51166,questionGroup,questionGroupText,51166,form,Hitze- und Ultraviolett (UV)-Strahlung,
+69a87744a36b6c4c6354675b,,200118,question,description,51166,form,"Die Umsetzung von Hitze- und UV-Maßnahmen bei Geosphere-Hitzewarnlevel ≥2 muss erfolgen.
+<a target=""_BLANK"" href=""https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013073&FassungVom=2026-02-10"">Hitzeschutzverordnung (Hitze-V), § 3</a>",
+69a87744a36b6c4c6354675b,,200118,question,questionText,51166,form,Gefährdungsbeurteilung,
+69a87744a36b6c4c6354675c,,200119,question,description,51166,form,"Ein Maßnahmenprogramm mit technischen, organisatorischen und persönlichen Hitze- und UV-Schutzmaßnahmen muss auf Basis der Gefährdungsbeurteilung erstellt werden.
+<a target=""_BLANK"" href=""https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013073&FassungVom=2026-02-10"">Hitzeschutzverordnung (Hitze-V), § 4(1)(1), 5(1-3)</a>",
+69a87744a36b6c4c6354675c,,200119,question,questionText,51166,form,"Schutzmaßnahmen (Beseitigung, technische, organisatorische und/oder persönliche Schutzausrüstung)",
+69a87744a36b6c4c6354675d,,200120,question,description,51166,form,"Notfallmäßige Erste-Hilfe-Maßnahmen bei hitzebedingten Symptomen müssen festgelegt werden.
+<a target=""_BLANK"" href=""https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013073&FassungVom=2026-02-10"">Hitzeschutzverordnung (Hitze-V), § 4(1)(2)</a>",
+69a87744a36b6c4c6354675d,,200120,question,questionText,51166,form,Erste Hilfe,
+69a87744a36b6c4c6354675e,,200121,question,description,51166,form,"Die Umsetzung von Hitze- und UV-Maßnahmen bei Geosphere-Hitzewarnlevel ≥2 muss erfolgen.
+<a target=""_BLANK"" href=""https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013073&FassungVom=2026-02-10"">Hitzeschutzverordnung (Hitze-V), § 4(4)</a>",
+69a87744a36b6c4c6354675e,,200121,question,questionText,51166,form,Hitzewarnlevel ≥ 2,
+69a87744a36b6c4c6354675f,,200122,question,description,51166,form,"Informationen über Gefahren durch Hitze und natürliche UV-Strahlung, gesundheitliche Symptome, Schutzmaßnahmen sowie Hitzewarnungen und UV-Index müssen bereitgestellt werden.
+<a target=""_BLANK"" href=""https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013073&FassungVom=2026-02-10"">Hitzeschutzverordnung (Hitze-V), § 7(1-5)</a>",
+69a87744a36b6c4c6354675f,,200122,question,questionText,51166,form,Unterweisung,
+69a87744a36b6c4c63546760,,200123,question,description,51166,form,"Arbeitsmedizinische Untersuchungen zur Hitzebelastung müssen Tätigkeiten mit erheblicher Wärmebeanspruchung berücksichtigen. Die ärztliche Beurteilung muss die thermische Belastung einbeziehen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz (ASchG), § 49(2)</a>",
+69a87744a36b6c4c63546760,,200123,question,questionText,51166,form,Arbeitsmedizinische Untersuchung,
+69a87744a36b6c4c63546761,,200124,question,questionText,51166,form,<div></div>,

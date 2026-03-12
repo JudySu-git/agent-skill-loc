@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87736a36b6c4c635466af,69a87736a36b6c4c635466ae,51146,questionGroup,questionGroupText,51146,form,Construction - Lead,
+69a87736a36b6c4c635466a8,,199979,question,description,51146,form,"Spray application of coatings exceeding 2% lead by mass must not occur.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 125(1)</a>",
+69a87736a36b6c4c635466a8,,199979,question,questionText,51146,form,Prohibition of >2% Lead Paint,
+69a87736a36b6c4c635466a9,,199980,question,description,51146,form,"Work involving lead dust must be carried out in a manner that minimizes dust generation.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 125(1)</a>",
+69a87736a36b6c4c635466a9,,199980,question,questionText,51146,form,Dust Control,
+69a87736a36b6c4c635466aa,,199981,question,description,51146,form,"Respiratory protection for workers must be provided where lead dust exposure occurs.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 125(2)</a>",
+69a87736a36b6c4c635466aa,,199981,question,questionText,51146,form,Respiratory Protection,
+69a87736a36b6c4c635466ab,,199982,question,description,51146,form,"Warm running water and skin care products must be provided for workers performing lead-dust work.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 125(3)</a>",
+69a87736a36b6c4c635466ab,,199982,question,questionText,51146,form,Hygiene Provisions,
+69a87736a36b6c4c635466ac,,199983,question,description,51146,form,"The relevant labor inspectorate must be notified if construction work that involves lead dust release is carried out and is expected to last longer than five working days.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 3(5)(3)</a>",
+69a87736a36b6c4c635466ac,,199983,question,questionText,51146,form,Notification to Labor Inspectorate (If Work Expected to Last Longer Than 5 Days),
+69a87736a36b6c4c635466ad,,199984,question,questionText,51146,form,<div></div>,

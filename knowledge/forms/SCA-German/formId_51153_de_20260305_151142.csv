@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8773ba36b6c4c635466ec,69a8773ba36b6c4c635466eb,51153,questionGroup,questionGroupText,51153,form,Cranes,
+69a8773ba36b6c4c635466e6,,200027,question,description,51153,form,"Communication rules must define coordination between slinger, spotter, and operator.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Work Equipment Ordinance, Section 19(1)(3)</a>",
+69a8773ba36b6c4c635466e6,,200027,question,questionText,51153,form,Communication,
+69a8773ba36b6c4c635466e7,,200028,question,description,51153,form,"Measures must be in place to prevent unauthorized crane use.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Work Equipment Ordinance, Section 19(1)(10)</a>",
+69a8773ba36b6c4c635466e7,,200028,question,questionText,51153,form,Restricted Access Control,
+69a8773ba36b6c4c635466e8,,200029,question,description,51153,form,"Crane operation must be limited to permitted operators.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Work Equipment Ordinance, Section 19(3)</a>",
+69a8773ba36b6c4c635466e8,,200029,question,questionText,51153,form,Qualified Operators,
+69a8773ba36b6c4c635466e9,,200030,question,description,51153,form,"Daily checks must cover brakes, limit switches, and warnings.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Work Equipment Ordinance, Section 19(4)</a>",
+69a8773ba36b6c4c635466e9,,200030,question,questionText,51153,form,Daily Inspections,
+69a8773ba36b6c4c635466ea,,200031,question,questionText,51153,form,<div></div>,

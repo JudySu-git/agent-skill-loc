@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+674df5c50100002a00a411a0,637559f7170000f50599e569,37722,questionGroup,description,37722,form,"You are getting this category because you selected ISO 41001:2018 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for the a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+674df5c50100002a00a411a0,637559f7170000f50599e569,37722,questionGroup,questionGroupText,37722,form,ISO 41001 - Facility Management
+637559f7170000f50599e56a,,133551,question,questionText,37722,form,Please upload your ISO 41001:2018 - Facility Management — Management Systems — Requirements with Guidance for use certificate:
+637559f7170000f50599e56b,,133552,question,questionText,37722,form,Please enter the certificate expiration date:\n

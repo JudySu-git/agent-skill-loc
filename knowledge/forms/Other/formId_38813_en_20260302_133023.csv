@@ -1,0 +1,27 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67a664870100003400806d7f,63f011af160000aa0d03aba3,38813,questionGroup,questionGroupText,38813,form,Entergy - Personnel Only
+640f390917000093059ffabf,63f0159e170000b80ea178c9,38824,questionGroup,description,38813,form,Be specific about the type of potential at risk activities. What is the frequency and length of time the supplier will be on\nyour site?
+640f390917000093059ffabf,63f0159e170000b80ea178c9,38824,questionGroup,questionGroupText,38813,form,What services/work tasks will the Contractor/Sub-Contractor be performing while at the facility?
+67940e37010000530086d445,63f0165f170000be0ea18144,38825,questionGroup,questionGroupText,38813,form,"What safeguards will the ENTERGY responsible contract/project manager (CM/PM) implement to ensure the contractor is working in a safe manner, protecting their employees, ENTERGY employees, and ENTERGY assets?"
+67940e240100004a000e7a98,679401dd0100002f000e7a5c,44457,questionGroup,questionGroupText,38813,form,Entergy
+63f011f8160000aa0d03adeb,,138491,question,description,38813,form,Employee requesting variance
+63f011f8160000aa0d03adeb,,138491,question,questionText,38813,form,Entergy Employee Name:
+63f012191700004c0ea14aaa,,138493,question,questionText,38813,form,Position:
+63f012541600008f0d03b330,,138495,question,questionText,38813,form,Is this variance for:
+63f012541600008f0d03b330,,138495,question,responseOption1,38813,form,Prime Contractor Variance
+63f012541600008f0d03b330,,138495,question,responseOption2,38813,form,Sub-Contractor Variance
+63f012671700001d0ea14dc4,,138496,question,questionText,38813,form,Prime Contact Info - Phone No:
+63f012a6170000540ea150d7,,138499,question,description,38813,form,Name or N/A
+63f012a6170000540ea150d7,,138499,question,questionText,38813,form,List Prime Contractor for a Sub-Contractor request:
+63f012be1700001d0ea151a3,,138500,question,questionText,38813,form,Prime Contact Info - Name: 
+63f015b61600000c0e03e013,,138526,question,questionText,38813,form,Service/task:
+63f015f81600000b0e03e432,,138527,question,questionText,38813,form,Frequency/Length of time:
+63f01643170000c00ea180d5,,138529,question,description,38813,form,Were alternative contractors evaluated?
+63f01643170000c00ea180d5,,138529,question,questionText,38813,form,Provide the business case justification for this Contractor/Sub-Contractor to be approved through the variance process. 
+63f0167e1600000b0e03ec8e,,138530,question,questionText,38813,form,"Describe preventative/corrective measures. (consider dedicated safety advocate/specialist, special training, briefs,\nreverse briefings, increased level of oversight other)"
+63f016911700009c0ea1841e,,138531,question,description,38813,form,"<b><u>For Nuclear</u>  the following actions shall be performed, at a minimum. Additional actions may be added as identified:</b>\n1.OBSERVE contractor each day/shift and document observation in DevonWay.\n2.PERFORM a weekly roll-up of the observations, address any negative trends and share performance of contractors\nwith site senior leadership.\n3.PRESENT contractor performance at monthly NSF with fleet executives and CFAMs"
+63f016911700009c0ea1841e,,138531,question,questionText,38813,form,Identify how the performance of the contractor will be monitored and how management will engage with this\ncontractor. (documented observations and roll-ups)
+679918980100003100146560,,165195,question,description,38813,form,The purpose of this page is for Entergy to complete
+679918980100003100146560,,165195,question,questionText,38813,form,## Contract Partner please disregard this page and continue forward
+679918980100003100146560,,165195,question,responseOption1,38813,form,Yes
+679918980100003100146560,,165195,question,responseOption2,38813,form,No

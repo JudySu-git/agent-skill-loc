@@ -1,0 +1,54 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69618dac0100003f005e8994,694b3dd601000063008002ee,50089,questionGroup,description,50089,form,This requirement is triggered because you indicated your organization maintains a valid SCC* certificate in the Mainland Europe - Contractor Safety Certification questionnaire.
+69618dac0100003f005e8994,694b3dd601000063008002ee,50089,questionGroup,questionGroupText,50089,form,SCC* Certificate Upload
+694b3e08010000d7038002f0,,194546,question,description,50089,form,"Company Level Certification: Only certificates issued to the legal business entity are acceptable. Individual employee certifications do not meet the requirement for organizational compliance.\n\nIdentification of the Certified Entity:\nThe certificate must clearly display the registered company name and, where applicable, the registration number associated with the certified entity.\n\nOwner-Operators / Sole Proprietors:\nIn cases where a supplier operates under their own name as the legal business entity, the certificate may display the individual’s name, provided that the individual is the certified entity according to the issuing body."
+694b3e08010000d7038002f0,,194546,question,questionText,50089,form,Upload a copy of the certificate:
+694b3e1f0100003c018002f3,,194547,question,questionText,50089,form,Certificate Number/Identifier:
+694b3e2d01000063008002f6,,194548,question,description,50089,form,"The standard validity period is 3 years from the issue date.\n\n<a href=""https://www.vca.nl/home/diplomas-certificates/scc"">SCC Certificate</a>"
+694b3e2d01000063008002f6,,194548,question,questionText,50089,form,Please enter the certificate expiration date.
+694b3e700100003c018002fd,,194550,question,questionText,50089,form,Confirm the country where the certificate was issued:
+694b3e700100003c018002fd,,194550,question,responseOption1,50089,form,Albania
+694b3e700100003c018002fd,,194550,question,responseOption10,50089,form,Croatia
+694b3e700100003c018002fd,,194550,question,responseOption11,50089,form,Cyprus
+694b3e700100003c018002fd,,194550,question,responseOption12,50089,form,Czechia
+694b3e700100003c018002fd,,194550,question,responseOption13,50089,form,Denmark
+694b3e700100003c018002fd,,194550,question,responseOption14,50089,form,Estonia
+694b3e700100003c018002fd,,194550,question,responseOption15,50089,form,Finland
+694b3e700100003c018002fd,,194550,question,responseOption16,50089,form,France
+694b3e700100003c018002fd,,194550,question,responseOption17,50089,form,Georgia
+694b3e700100003c018002fd,,194550,question,responseOption18,50089,form,Germany
+694b3e700100003c018002fd,,194550,question,responseOption19,50089,form,Greece
+694b3e700100003c018002fd,,194550,question,responseOption2,50089,form,Andorra
+694b3e700100003c018002fd,,194550,question,responseOption20,50089,form,Hungary
+694b3e700100003c018002fd,,194550,question,responseOption21,50089,form,Kazakhstan
+694b3e700100003c018002fd,,194550,question,responseOption22,50089,form,Iceland
+694b3e700100003c018002fd,,194550,question,responseOption23,50089,form,Ireland
+694b3e700100003c018002fd,,194550,question,responseOption24,50089,form,Italy
+694b3e700100003c018002fd,,194550,question,responseOption25,50089,form,Latvia
+694b3e700100003c018002fd,,194550,question,responseOption26,50089,form,Lithuania
+694b3e700100003c018002fd,,194550,question,responseOption27,50089,form,Liechtenstein
+694b3e700100003c018002fd,,194550,question,responseOption28,50089,form,Luxembourg
+694b3e700100003c018002fd,,194550,question,responseOption29,50089,form,Malta
+694b3e700100003c018002fd,,194550,question,responseOption3,50089,form,Armenia
+694b3e700100003c018002fd,,194550,question,responseOption30,50089,form,Monaco
+694b3e700100003c018002fd,,194550,question,responseOption31,50089,form,Montenegro
+694b3e700100003c018002fd,,194550,question,responseOption32,50089,form,Netherlands
+694b3e700100003c018002fd,,194550,question,responseOption33,50089,form,North Macedonia
+694b3e700100003c018002fd,,194550,question,responseOption34,50089,form,Norway
+694b3e700100003c018002fd,,194550,question,responseOption35,50089,form,Poland
+694b3e700100003c018002fd,,194550,question,responseOption36,50089,form,Portugal
+694b3e700100003c018002fd,,194550,question,responseOption37,50089,form, Republic of Moldova
+694b3e700100003c018002fd,,194550,question,responseOption38,50089,form,Romania
+694b3e700100003c018002fd,,194550,question,responseOption39,50089,form, Russian Federation
+694b3e700100003c018002fd,,194550,question,responseOption4,50089,form,Austria
+694b3e700100003c018002fd,,194550,question,responseOption40,50089,form,San Marino
+694b3e700100003c018002fd,,194550,question,responseOption41,50089,form,Serbia
+694b3e700100003c018002fd,,194550,question,responseOption42,50089,form,Slovakia
+694b3e700100003c018002fd,,194550,question,responseOption43,50089,form,Sweden
+694b3e700100003c018002fd,,194550,question,responseOption44,50089,form,Switzerland
+694b3e700100003c018002fd,,194550,question,responseOption45,50089,form,Turkey
+694b3e700100003c018002fd,,194550,question,responseOption5,50089,form,Azerbaijan
+694b3e700100003c018002fd,,194550,question,responseOption6,50089,form,Belarus
+694b3e700100003c018002fd,,194550,question,responseOption7,50089,form,Belgium
+694b3e700100003c018002fd,,194550,question,responseOption8,50089,form,Bosnia and Herzegovina
+694b3e700100003c018002fd,,194550,question,responseOption9,50089,form,Bulgaria

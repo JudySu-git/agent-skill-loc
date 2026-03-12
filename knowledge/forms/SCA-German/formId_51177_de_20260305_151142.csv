@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774da36b6c4c635467c2,69a8774da36b6c4c635467c1,51177,questionGroup,questionGroupText,51177,form,Occupational Health and Safety Committee,
+69a8774da36b6c4c635467be,,200195,question,description,51177,form,"An occupational safety committee must be established in workplaces with at least 100 employees. Committee membership must include the employer, specialists, and representatives. External and construction workers must be included in workforce calculations.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 88(1)</a>",
+69a8774da36b6c4c635467be,,200195,question,questionText,51177,form,Committee Establishment (≥100 Workers),
+69a8774da36b6c4c635467bf,,200196,question,description,51177,form,"Committee meetings must occur at least once per calendar year. Minutes must be prepared for each committee meeting.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 88(5,7)</a>",
+69a8774da36b6c4c635467bf,,200196,question,questionText,51177,form,Annual Committee Meeting at Minimum,
+69a8774da36b6c4c635467c0,,200197,question,questionText,51177,form,<div></div>,

@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87735a36b6c4c635466a7,69a87735a36b6c4c635466a6,51145,questionGroup,questionGroupText,51145,form,Construction - Hoists,
+69a87735a36b6c4c635466a0,,199973,question,description,51145,form,"Secure installation and structural anchoring must be ensured, with anchorages capable of transferring forces in all required directions.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 139(2)</a>",
+69a87735a36b6c4c635466a0,,199973,question,questionText,51145,form,Secure Installation,
+69a87735a36b6c4c635466a1,,199974,question,description,51145,form,"Load areas must be visible or position-indicated, and signaling devices must be provided when height differences exceed 5.00 m.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 139(4)</a>",
+69a87735a36b6c4c635466a1,,199974,question,questionText,51145,form,Signaling,
+69a87735a36b6c4c635466a2,,199975,question,description,51145,form,"Posted information on permissible payload and passenger prohibition must be displayed on the load-bearing device.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 139(7)</a>",
+69a87735a36b6c4c635466a2,,199975,question,questionText,51145,form,Load Limits,
+69a87735a36b6c4c635466a3,,199976,question,description,51145,form,"Guarding or securing of hoist roadways must protect workers from hazards associated with moving parts.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 140(1)(1)</a>",
+69a87735a36b6c4c635466a3,,199976,question,questionText,51145,form,Guarding of Moving Parts,
+69a87735a36b6c4c635466a4,,199977,question,description,51145,form,"Non-removable, tamper-proof barriers set back at least 1.50 m and 1.00–1.20 m high must protect each loading point. A barrier set back at least 1.50 m and 1.00–1.20 m high must be installed at each roadway entrance.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 140(2)(1-2)</a>",
+69a87735a36b6c4c635466a4,,199977,question,questionText,51145,form,Restricted Access Control,
+69a87735a36b6c4c635466a5,,199978,question,questionText,51145,form,<div></div>,

@@ -1,0 +1,109 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a85eba0100006000b914b3,69a85e510100003f00b914aa,51136,questionGroup,questionGroupText,51136,form,Österreich – Sicherheitsdetails und Anweisungen für Unternehmen,
+69a85e510100005e00b914ae,,199915,question,description,51136,form,Bitte beachten: Ihre Auswahl(en) sollten alle von Ihrem Unternehmen erbrachten Dienstleistungen umfassen und nicht einen bestimmten Kunden oder Standort. Mit jeder Auswahl eines Arbeitstyps werden zusätzliche Audit-Anforderungen für Ihre Überprüfung und Compliance hinzugefügt.\n,Bitte beachten: Ihre Auswahl(en) sollten alle von Ihrem Unternehmen erbrachten Dienstleistungen umfassen und nicht einen bestimmten Kunden oder Standort. Mit jeder Auswahl eines Arbeitstyps werden zusätzliche Audit-Anforderungen für Ihre Überprüfung und Compliance hinzugefügt.\n
+69a85e510100005e00b914ae,,199915,question,questionText,51136,form,"### Bitte geben Sie die Arbeitstypen an, die am besten zu Ihrem Fachgebiet oder Leistungsumfang passen. <b>Durch die Auswahl geeigneter Arbeitstypen können wir ein individuelles Audit erstellen, das auf die Geschäftstätigkeit Ihres Unternehmens zugeschnitten ist. </b>","### Bitte geben Sie die Arbeitstypen an, die am besten zu Ihrem Fachgebiet oder Leistungsumfang passen. <b>Durch die Auswahl geeigneter Arbeitstypen können wir ein individuelles Audit erstellen, das auf die Geschäftstätigkeit Ihres Unternehmens zugeschnitten ist. </b>"
+69a85e510100005e00b914ae,,199915,question,responseOption1,51136,form,Asbestreduzierung,Asbestreduzierung
+69a85e510100005e00b914ae,,199915,question,responseOption10,51136,form,Schreinerei,Schreinerei
+69a85e510100005e00b914ae,,199915,question,responseOption11,51136,form,Beschichtungen,Beschichtungen
+69a85e510100005e00b914ae,,199915,question,responseOption12,51136,form,Gewerbliches Tauchen,Gewerbliches Tauchen
+69a85e510100005e00b914ae,,199915,question,responseOption13,51136,form,Betonarbeiten,Betonarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption15,51136,form,"Management-, Beratungs- und Schulungsdienstleistungen","Management-, Beratungs- und Schulungsdienstleistungen"
+69a85e510100005e00b914ae,,199915,question,responseOption16,51136,form,Installation/Reparatur von Förderbändern,Installation/Reparatur von Förderbändern
+69a85e510100005e00b914ae,,199915,question,responseOption17,51136,form,Kranvermietung und -wartung,Kranvermietung und -wartung
+69a85e510100005e00b914ae,,199915,question,responseOption18,51136,form,"Tiefe Fundamente (Senkkästen, Pfähle, Kofferdämme)","Tiefe Fundamente (Senkkästen, Pfähle, Kofferdämme)"
+69a85e510100005e00b914ae,,199915,question,responseOption19,51136,form,Abbrucharbeiten,Abbrucharbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption2,51136,form,Bleireduzierung,Bleireduzierung
+69a85e510100005e00b914ae,,199915,question,responseOption20,51136,form,Baggerarbeiten,Baggerarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption21,51136,form,Bohren,Bohren
+69a85e510100005e00b914ae,,199915,question,responseOption22,51136,form,Drohnen-Services,Drohnen-Services
+69a85e510100005e00b914ae,,199915,question,responseOption23,51136,form,Erdarbeiten/Standortarbeiten,Erdarbeiten/Standortarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption24,51136,form,Elektroarbeiten,Elektroarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption25,51136,form,Reparatur/Wartung von Aufzügen,Reparatur/Wartung von Aufzügen
+69a85e510100005e00b914ae,,199915,question,responseOption26,51136,form,Professionelle Engineering-Dienstleistungen,Professionelle Engineering-Dienstleistungen
+69a85e510100005e00b914ae,,199915,question,responseOption27,51136,form,Minderung von Umweltauswirkungen oder Umweltsanierung,Minderung von Umweltauswirkungen oder Umweltsanierung
+69a85e510100005e00b914ae,,199915,question,responseOption28,51136,form,Geräteprüfung,Geräteprüfung
+69a85e510100005e00b914ae,,199915,question,responseOption29,51136,form,Schätzung,Schätzung
+69a85e510100005e00b914ae,,199915,question,responseOption3,51136,form,Reduzierung Sonstiges,Reduzierung Sonstiges
+69a85e510100005e00b914ae,,199915,question,responseOption30,51136,form,Schädlingsbekämpfung/-vernichtung,Schädlingsbekämpfung/-vernichtung
+69a85e510100005e00b914ae,,199915,question,responseOption31,51136,form,Einzäunung,Einzäunung
+69a85e510100005e00b914ae,,199915,question,responseOption32,51136,form,Glasfaserinstallation,Glasfaserinstallation
+69a85e510100005e00b914ae,,199915,question,responseOption33,51136,form,Brandschutz,Brandschutz
+69a85e510100005e00b914ae,,199915,question,responseOption34,51136,form,Bodenverlegung,Bodenverlegung
+69a85e510100005e00b914ae,,199915,question,responseOption35,51136,form,Fundamente,Fundamente
+69a85e510100005e00b914ae,,199915,question,responseOption36,51136,form,GFK (Faserverstärkter Kunststoff),GFK (Faserverstärkter Kunststoff)
+69a85e510100005e00b914ae,,199915,question,responseOption37,51136,form,Allgemeine Instandhaltung von Immobilien,Allgemeine Instandhaltung von Immobilien
+69a85e510100005e00b914ae,,199915,question,responseOption38,51136,form,Geotechnische Prüfungen,Geotechnische Prüfungen
+69a85e510100005e00b914ae,,199915,question,responseOption39,51136,form,Glaserei – Glasarbeiten,Glaserei – Glasarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption4,51136,form,Luftfahrt-Services,Luftfahrt-Services
+69a85e510100005e00b914ae,,199915,question,responseOption40,51136,form,Handhabung von Gefahrgut,Handhabung von Gefahrgut
+69a85e510100005e00b914ae,,199915,question,responseOption41,51136,form,Wärmebehandlung,Wärmebehandlung
+69a85e510100005e00b914ae,,199915,question,responseOption42,51136,form,Anheben und Transport schwerer Lasten,Anheben und Transport schwerer Lasten
+69a85e510100005e00b914ae,,199915,question,responseOption43,51136,form,Hubschrauber-Services,Hubschrauber-Services
+69a85e510100005e00b914ae,,199915,question,responseOption44,51136,form,HLKR,HLKR
+69a85e510100005e00b914ae,,199915,question,responseOption45,51136,form,Hochdruckreinigung (Wasser),Hochdruckreinigung (Wasser)
+69a85e510100005e00b914ae,,199915,question,responseOption46,51136,form,Nass-Trocken-Saugen,Nass-Trocken-Saugen
+69a85e510100005e00b914ae,,199915,question,responseOption47,51136,form,Inspektor:in,Inspektor:in
+69a85e510100005e00b914ae,,199915,question,responseOption48,51136,form,Messtechnik,Messtechnik
+69a85e510100005e00b914ae,,199915,question,responseOption49,51136,form,Isolierung,Isolierung
+69a85e510100005e00b914ae,,199915,question,responseOption5,51136,form,Sprengmeister:in/Sprengstoff-Expert:in/Pyrotechniker:in,Sprengmeister:in/Sprengstoff-Expert:in/Pyrotechniker:in
+69a85e510100005e00b914ae,,199915,question,responseOption50,51136,form,Landschaftsgestaltung,Landschaftsgestaltung
+69a85e510100005e00b914ae,,199915,question,responseOption51,51136,form,Logistikservices – Verpackung und Versand,Logistikservices – Verpackung und Versand
+69a85e510100005e00b914ae,,199915,question,responseOption52,51136,form,Reparatur/Installation/Wartung von Maschinen,Reparatur/Installation/Wartung von Maschinen
+69a85e510100005e00b914ae,,199915,question,responseOption53,51136,form,Marine (Arbeiten auf dem/in der Nähe von Wasser),Marine (Arbeiten auf dem/in der Nähe von Wasser)
+69a85e510100005e00b914ae,,199915,question,responseOption54,51136,form,Mauerwerksbau,Mauerwerksbau
+69a85e510100005e00b914ae,,199915,question,responseOption55,51136,form,Materialtransport/Lager/Fertigung,Materialtransport/Lager/Fertigung
+69a85e510100005e00b914ae,,199915,question,responseOption56,51136,form,Mechanik,Mechanik
+69a85e510100005e00b914ae,,199915,question,responseOption57,51136,form,Metallarbeiten,Metallarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption58,51136,form,Schreinerarbeiten,Schreinerarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption59,51136,form,Bergbaudienstleistungen Übertage/Untertage,Bergbaudienstleistungen Übertage/Untertage
+69a85e510100005e00b914ae,,199915,question,responseOption6,51136,form,Kessel/Kanalarbeiten,Kessel/Kanalarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption60,51136,form,Zerstörungsfreie Prüfung (NDT) und Zerstörungsfreie Bewertung (NDE),Zerstörungsfreie Prüfung (NDT) und Zerstörungsfreie Bewertung (NDE)
+69a85e510100005e00b914ae,,199915,question,responseOption61,51136,form,Farbe,Farbe
+69a85e510100005e00b914ae,,199915,question,responseOption62,51136,form,Pflasterarbeiten,Pflasterarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption63,51136,form,Pipelines,Pipelines
+69a85e510100005e00b914ae,,199915,question,responseOption64,51136,form,Klempnerleistungen,Klempnerleistungen
+69a85e510100005e00b914ae,,199915,question,responseOption65,51136,form,Fertighäuser (Baustruktur)/Architektonische Feinarbeiten,Fertighäuser (Baustruktur)/Architektonische Feinarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption66,51136,form,Eisenbahn,Eisenbahn
+69a85e510100005e00b914ae,,199915,question,responseOption67,51136,form,Dacharbeiten,Dacharbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption68,51136,form,Sandstrahlen,Sandstrahlen
+69a85e510100005e00b914ae,,199915,question,responseOption69,51136,form,Sanitärtechnik/Reinigung/Abfall,Sanitärtechnik/Reinigung/Abfall
+69a85e510100005e00b914ae,,199915,question,responseOption7,51136,form,"Gebäudekonstruktion – Trockenwand, Rahmen, Wartung, Reparatur","Gebäudekonstruktion – Trockenwand, Rahmen, Wartung, Reparatur"
+69a85e510100005e00b914ae,,199915,question,responseOption70,51136,form,Gerüste,Gerüste
+69a85e510100005e00b914ae,,199915,question,responseOption71,51136,form,Sicherheitssysteme,Sicherheitssysteme
+69a85e510100005e00b914ae,,199915,question,responseOption72,51136,form,Abstützung,Abstützung
+69a85e510100005e00b914ae,,199915,question,responseOption73,51136,form,Winterdienst,Winterdienst
+69a85e510100005e00b914ae,,199915,question,responseOption74,51136,form,Bodensanierung,Bodensanierung
+69a85e510100005e00b914ae,,199915,question,responseOption75,51136,form,Schallbohrungen,Schallbohrungen
+69a85e510100005e00b914ae,,199915,question,responseOption76,51136,form,Stapelbau und -wartung,Stapelbau und -wartung
+69a85e510100005e00b914ae,,199915,question,responseOption77,51136,form,Personalvermittlungsagenturen,Personalvermittlungsagenturen
+69a85e510100005e00b914ae,,199915,question,responseOption78,51136,form,Baustahl,Baustahl
+69a85e510100005e00b914ae,,199915,question,responseOption79,51136,form,Vermessung,Vermessung
+69a85e510100005e00b914ae,,199915,question,responseOption8,51136,form,Kabelinstallation,Kabelinstallation
+69a85e510100005e00b914ae,,199915,question,responseOption80,51136,form,Tanks/Silos,Tanks/Silos
+69a85e510100005e00b914ae,,199915,question,responseOption81,51136,form,Telekommunikation – Bauwesen,Telekommunikation – Bauwesen
+69a85e510100005e00b914ae,,199915,question,responseOption82,51136,form,Telekommunikation – Installation,Telekommunikation – Installation
+69a85e510100005e00b914ae,,199915,question,responseOption83,51136,form,Transport (Flotten/Spediteure),Transport (Flotten/Spediteure)
+69a85e510100005e00b914ae,,199915,question,responseOption84,51136,form,Ausschachtungen und Grabung,Ausschachtungen und Grabung
+69a85e510100005e00b914ae,,199915,question,responseOption85,51136,form,Unterirdische Versorgungsunternehmen/Umzüge,Unterirdische Versorgungsunternehmen/Umzüge
+69a85e510100005e00b914ae,,199915,question,responseOption86,51136,form,Prüfung und Probenahme von Wasser,Prüfung und Probenahme von Wasser
+69a85e510100005e00b914ae,,199915,question,responseOption87,51136,form,Wasseraufbereitung,Wasseraufbereitung
+69a85e510100005e00b914ae,,199915,question,responseOption88,51136,form,Schweißen,Schweißen
+69a85e510100005e00b914ae,,199915,question,responseOption89,51136,form,Großhandelsvertrieb/Einzelhandelsverkauf,Großhandelsvertrieb/Einzelhandelsverkauf
+69a85e510100005e00b914ae,,199915,question,responseOption9,51136,form,Kalibrierungsservices,Kalibrierungsservices
+69a85e510100005e00b914ae,,199915,question,responseOption90,51136,form,Catering/Lebensmitteldienste,Catering/Lebensmitteldienste
+69a85e510100005e00b914ae,,199915,question,responseOption91,51136,form,Vermietung/Verkauf/Verleih von Industrieanlagen,Vermietung/Verkauf/Verleih von Industrieanlagen
+69a85e510100005e00b914ae,,199915,question,responseOption92,51136,form,Öl- und Gasindustrie Downstream,Öl- und Gasindustrie Downstream
+69a85e510100005e00b914ae,,199915,question,responseOption93,51136,form,Öl- und Gasindustrie Midstream,Öl- und Gasindustrie Midstream
+69a85e510100005e00b914ae,,199915,question,responseOption94,51136,form,Öl- und Gasindustrie Upstream/E&amp;P,Öl- und Gasindustrie Upstream/E&amp;P
+69a85e510100005e00b914ae,,199915,question,responseOption95,51136,form,Erneuerbare Energien/Solar/Windkraft/Wasserkraft,Erneuerbare Energien/Solar/Windkraft/Wasserkraft
+69a85e510100005e00b914ae,,199915,question,responseOption96,51136,form,Sicherheit/Ressourcenschutzservices,Sicherheit/Ressourcenschutzservices
+69a85e510100005e00b914ae,,199915,question,responseOption97,51136,form,Verkehrskontrolldienste,Verkehrskontrolldienste
+69a85e510100004300b914ac,,199916,question,questionText,51136,form,"## Sicherheitsbeauftragter für Gesundheit und Arbeitssicherheit
+
+Geben Sie den Namen des Sicherheitsbeauftragten für Gesundheit und Arbeitssicherheit oder der für die Einhaltung der Gesundheits- und Arbeitssicherheitsvorschriften verantwortlichen Person in Ihrer Organisation ein:
+
+Name:",
+69a85e510100004400b914ab,,199917,question,questionText,51136,form,E-Mail:,
+69a85e510100006000b914ad,,199918,question,questionText,51136,form,Titel:,
+69a85e510100004400b914b0,,199919,question,questionText,51136,form,### Richtlinien und Verfahren müssen zur Erfüllung der Prüfanforderungen auf Englisch hochgeladen werden.,
+69a85e510100004400b914af,,199920,question,questionText,51136,form,Telefon:,

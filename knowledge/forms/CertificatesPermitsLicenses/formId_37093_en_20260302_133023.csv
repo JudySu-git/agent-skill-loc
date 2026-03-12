@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+675c73a20100007b0044cbe9,6303e2fc300000a179008c7c,37093,questionGroup,questionGroupText,37093,form,France KBIS Extract
+6303e3bb300000c8a0008ee4,,130710,question,description,37093,form,"<a href=""https://infonet.fr/kbis/"" \n"
+6303e3bb300000c8a0008ee4,,130710,question,questionText,37093,form,Is your company registered with the French Company Register (RCS)?
+6303e3bb300000c8a0008ee4,,130710,question,responseOption1,37093,form,Yes
+6303e3bb300000c8a0008ee4,,130710,question,responseOption2,37093,form,No
+6303e3d52f0000f740f2711d,,130711,question,questionText,37093,form,Please upload certificate.
+6303f8202f00003a8df38c1c,,130713,question,questionText,37093,form,Please enter the expiration date of your certificate.
+675b38ab0100003b006353eb,,163311,question,questionText,37093,form,Please explain
+675b38ab0100003b006353eb,,163311,question,responseOption1,37093,form,Yes
+675b38ab0100003b006353eb,,163311,question,responseOption2,37093,form,No

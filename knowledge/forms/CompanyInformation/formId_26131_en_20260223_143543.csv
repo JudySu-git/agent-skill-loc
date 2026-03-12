@@ -1,0 +1,42 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6046beaa430000e34529fafd,5c3e52844600002f62b3b303,26131,questionGroup,questionGroupText,26131,form,SDZWA PQF - Company Information
+5c6c91563b0000cfecc90bf6,5c3e52f74600008d62b3b34b,26132,questionGroup,questionGroupText,26131,form,Company Information
+5c4218f43d000014456589bb,5c3e598c380000b26933c485,26133,questionGroup,questionGroupText,26131,form,General Information
+5c6c91563b0000cfecc90bf5,5c3e5a813300009f6a62261d,26134,questionGroup,questionGroupText,26131,form,Company Contacts
+5c3e5ac0420000866b3d2b6b,5c3e5ac0420000866b3d2b6a,26135,questionGroup,questionGroupText,26131,form,Contact Information
+5c6c91553b0000cfecc90bed,5c3f7a7c370000ca15496a0e,26141,questionGroup,questionGroupText,26131,form,"Environmental, Health and Safety Professional"
+5c3f7e243700004f22496fba,5c3f7e243700004f22496fb9,26144,questionGroup,questionGroupText,26131,form,Procurement Contact
+5c3f7ea73400007b43e334d7,5c3f7ea73400007b43e334d6,26145,questionGroup,questionGroupText,26131,form,NAICS
+5c3e568f330000e164622239,,81635,question,questionText,26131,form,"<span style=""color:rgb(129, 141, 161);font-size: 20px""> Contact info of the person who completed this questionnaire: </span> <br>\nName:"
+5c3e5901460000d16ab3b766,,81636,question,questionText,26131,form,Phone:
+5c3e590b4500002769e052f0,,81637,question,questionText,26131,form,Email:
+5c3e59b8420000046a3d2a4e,,81638,question,questionText,26131,form,In what year was your company established?
+5c3e59d63800001a6a33c4a1,,81639,question,questionText,26131,form,Legal Company Name:
+5c3e59f04600002a6cb3b81d,,81640,question,questionText,26131,form,What is the name of your parent company?
+5c3e5a01380000746a33c4b7,,81641,question,questionText,26131,form,Does your company have any subsidiaries?
+5c3e5a01380000746a33c4b7,,81641,question,responseOption1,26131,form,Yes
+5c3e5a01380000746a33c4b7,,81641,question,responseOption2,26131,form,No
+5c3e5a3b460000796cb3b883,,81642,question,questionText,26131,form,What is your subsidiary company's name(s)?
+5c3e5b02380000736c33c5fb,,81643,question,questionText,26131,form,Head of Organization:
+5c3e5b37330000916c622709,,81645,question,questionText,26131,form,"Does your company have an Environment, Health, and Safety professional?"
+5c3e5b37330000916c622709,,81645,question,responseOption1,26131,form,Yes
+5c3e5b37330000916c622709,,81645,question,responseOption2,26131,form,No
+5c3e5b824200007f6d3d2c21,,81647,question,questionText,26131,form,Does your company have a procurement contact?
+5c3e5b824200007f6d3d2c21,,81647,question,responseOption1,26131,form,Yes
+5c3e5b824200007f6d3d2c21,,81647,question,responseOption2,26131,form,No
+5c3e5bab460000846fb3b995,,81648,question,questionText,26131,form,"<span style=""color:rgb(129, 141, 161);font-size: 20px"">Primary Point of Contact for your Company: </span> <br> \nName:"
+5c3e5be4380000116e33c788,,81649,question,questionText,26131,form,Title:
+5c3e5bf73800001a6e33c794,,81650,question,questionText,26131,form,Phone:
+5c3e5c064500004d6ee0573c,,81651,question,questionText,26131,form,Address:
+5c3e5c124500005f6ee0573d,,81652,question,questionText,26131,form,Email:
+5c3f7af03700005639ad9e6c,,81669,question,description,26131,form,If different than primary point of Contact above:
+5c3f7af03700005639ad9e6c,,81669,question,questionText,26131,form,Name:
+5c3f7b353400009237e32c83,,81670,question,questionText,26131,form,Title:
+5c3f7b993400006f38e32f04,,81671,question,questionText,26131,form,Phone:
+5c3f7bbc370000183bad9f4a,,81672,question,questionText,26131,form,Address:
+5c3f7bc9370000173a014422,,81673,question,questionText,26131,form,Email:
+5c3f7e523f0000aa4434234e,,81686,question,questionText,26131,form,Name:
+5c3f7e6c370000cb22496fda,,81687,question,questionText,26131,form,Phone:
+5c3f7e783700002345ada6a9,,81688,question,questionText,26131,form,Email:
+5c3f7eb8340000b143e334e3,,81689,question,questionText,26131,form,What is your company's primary NAICS Code?\n \n
+5c3f7f643f00001447342473,,81690,question,questionText,26131,form,What is your company's secondary NAICS Code? \n

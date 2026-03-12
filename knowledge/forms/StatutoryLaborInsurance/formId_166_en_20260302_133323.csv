@@ -1,0 +1,19 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6983baec0100004a00423cbf,4cb5a21d504943954fbd8048,166,questionGroup,questionGroupText,166,form,Ontario Workplace Injury Summary Report (WISR)
+63c6e5c8130000fc04d44168,4e1e28265049437f906792f8,1816,questionGroup,questionGroupText,166,form,Ontario (Workplace Safety and Insurance Board)
+4e1e2869504943b8edbecf08,,8153,question,questionText,166,form,Ontario Workplace Injury Summary Report (WISR) \nUpload your most recent Workplace Injury Summary Report (WISR).
+4e1e28c3504943c198585ad1,,8155,question,questionText,166,form,Rate Group:
+4e3732f3504943295a58ad03,,8636,question,questionText,166,form,Account Number:
+4e67c8a45049433abee8323e,,8994,question,questionText,166,form,Rate Group's LTI Frequency (most recent):
+4e9c705b5049433744cd8d0e,,9652,question,questionText,166,form,Firm's LTI Frequency (most recent):
+4eeb6c6250494355a2aa3a18,,10064,question,questionText,166,form,Is your Firm's LTI Frequency less than or equal to the Rate Group's?
+4eeb6c6250494355a2aa3a18,,10064,question,responseOptionNo,166,form,No
+4eeb6c6250494355a2aa3a18,,10064,question,responseOptionYes,166,form,Yes
+58560521504943ca86c9ec89,,43480,question,description,166,form,"(i.e.; owner/operator, sole proprietor. If yes, please ensure that they are covered under provincial workers compensation, unless exempted)"
+58560521504943ca86c9ec89,,43480,question,questionText,166,form,Is the principle/owner of your company acting as an employee when performing work?
+58560521504943ca86c9ec89,,43480,question,responseOptionNo,166,form,No
+58560521504943ca86c9ec89,,43480,question,responseOptionYes,166,form,Yes
+60706de94500009d89bc16b7,,108635,question,description,166,form,Used to provide instructions from Client
+60706de94500009d89bc16b7,,108635,question,questionText,166,form,Comments
+60706dfc4500009d89bc1787,,108636,question,description,166,form,Date the instructions from Client expire
+60706dfc4500009d89bc1787,,108636,question,questionText,166,form,VARIANCE Expiration Date

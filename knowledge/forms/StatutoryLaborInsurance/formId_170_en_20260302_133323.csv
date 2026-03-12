@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5755c9af50494330e2e0468a,5755c9af50494330e2e0468a,170,questionGroup,questionGroupText,170,category,Initial Qualification of Competency
+49507e60504943a187184648,,2092,question,description,170,category,Please provide Job Description for the specified position
+49507e60504943a187184648,,2092,question,questionText,170,category,Job Description:\r\nDoes the contractor have an accurate and detailed description of the technical competencies required for this position?
+49507e60504943a187184648,,2092,question,responseOptionGreen,170,category,Green
+49507e60504943a187184648,,2092,question,responseOptionRed,170,category,Red
+49507e60504943a187184648,,2092,question,responseOptionYellow,170,category,Amber
+49507e6050494364c7af146a,,2093,question,description,170,category,"Please provide Job description for the specified position, Pre-employment evidence documenting employee's skills, New hire testing, Resumes, Records from union halls documenting prior work experience and skill level"
+49507e6050494364c7af146a,,2093,question,questionText,170,category,Selection and Hiring:\r\nDoes the contractor select and hire employees who have the prerequisite skill and knowledge to fulfill the requirements of the position?
+49507e6050494364c7af146a,,2093,question,responseOptionGreen,170,category,Green
+49507e6050494364c7af146a,,2093,question,responseOptionRed,170,category,Red
+49507e6050494364c7af146a,,2093,question,responseOptionYellow,170,category,Amber
+49507e605049434d0e540b53,,2094,question,description,170,category,"Please provide Job Descriptions, Training records for job position that include necessary information, Other training documentation that provides the training required for discrete positions."
+49507e605049434d0e540b53,,2094,question,questionText,170,category,"Training:\r\nWhat are the training requirements for the position? Are training requirements for each discrete craft or professional level (e.g. craftsman 1, -2, -3) provided? Does the contractor keep adequate training records that document the required training for the position including type of training, required frequency and test results (if applicable)?"
+49507e605049434d0e540b53,,2094,question,responseOptionGreen,170,category,Green
+49507e605049434d0e540b53,,2094,question,responseOptionRed,170,category,Red
+49507e605049434d0e540b53,,2094,question,responseOptionYellow,170,category,Amber

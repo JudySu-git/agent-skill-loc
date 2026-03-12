@@ -1,0 +1,24 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+692dfa360100004500319651,692df229010000630031963f,49258,questionGroup,description,49258,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+692dfa360100004500319651,692df229010000630031963f,49258,questionGroup,questionGroupText,49258,form,Avetta PQF - Canada COA Applicability Assessment
+692df2da0100004900d298d0,,189551,question,description,49258,form,"The Certificate of Authorization (COA), issued by the Technical Standards and Safety Authority (TSSA) in Ontario, Canada, is a regulatory license required for organizations performing activities under the province’s <a href=""https://www.ontario.ca/laws/statute/00t16"">Technical Standards and Safety Act, 2000</a> and <a href""https://www.ontario.ca/laws/regulation/010220#BK4"">O. Reg. 220/01: Boilers and Pressure Vessels</a>. Companies which design, manufacture, assemble, repair, or alter pressure equipment (e.g., boilers, pressure vessels, fittings) are required to maintain this certificate. "
+692df2da0100004900d298d0,,189551,question,questionText,49258,form,"Does your company design, manufacture, assemble, repair, or alter pressure equipment (e.g., boilers, pressure vessels, fittings) within Ontario, Canada and is required to maintain relevant TSSA Certificate(s) of Authorizations (COA)?"
+692df2da0100004900d298d0,,189551,question,responseOption1,49258,form,Yes
+692df2da0100004900d298d0,,189551,question,responseOption2,49258,form,No
+692df3c20100006200d298d3,,189552,question,description,49258,form,"<a href=""https://www.ontario.ca/laws/regulation/010220#BK4"">O. Reg. 220/01: BOILERS AND PRESSURE VESSELS</a>"
+692df3c20100006200d298d3,,189552,question,questionText,49258,form,Please select from the following reasons your company is exempt from needing TSSA Certificate(s) of Authorizations (COA).
+692df3c20100006200d298d3,,189552,question,responseOption1,49258,form, The company does not perform work in Ontario.
+692df3c20100006200d298d3,,189552,question,responseOption2,49258,form,Other
+692df3c20100006200d298d3,,189552,question,responseOption3,49258,form,The company does not use pressure equipment for commercial/industrial use.
+692df3c20100006200d298d3,,189552,question,responseOption4,49258,form,"The company does not design, manufacture, assemble, repair, or alter pressure equipment in Ontario."
+692df4280100006100319649,,189553,question,questionText,49258,form,Please explain why your company is exempt from needing TSSA Certificate(s) of Authorizations (COA).
+692df4750100003f0031964b,,189554,question,questionText,49258,form,Please select all applicable Certificates of Authorization (COA) in which your company maintains.
+692df4750100003f0031964b,,189554,question,responseOption1,49258,form,ASME A-2-Section 1 - Boiler Assembly (Shop & Field)
+692df4750100003f0031964b,,189554,question,responseOption2,49258,form,ASME U-1 Manufacture of Section VIII Div 1 Pressure Vessels (Shop only)
+692df4750100003f0031964b,,189554,question,responseOption3,49258,form,Refrigeration Piping Installation ASME B31.5 (Shop and Field)
+692df4750100003f0031964b,,189554,question,responseOption4,49258,form,Boiler & Pressure Vessel Repair / Alteration
+692df4750100003f0031964b,,189554,question,responseOption5,49258,form,ASME PP-2-Section 1 Boiler External Piping (Shop & Field)
+692df4750100003f0031964b,,189554,question,responseOption6,49258,form, Power Piping Installation ASME B31.1 (Shop & Field)
+692df4750100003f0031964b,,189554,question,responseOption7,49258,form,Process Piping Installation ASME B31.3 (Shop & Field)
+692df4750100003f0031964b,,189554,question,responseOption8,49258,form,Hot Tapping and Line Stopping
+692df4d00100004500d298d7,,189555,question,questionText,49258,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Canadian legislation."

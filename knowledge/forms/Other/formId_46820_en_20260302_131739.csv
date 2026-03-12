@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68891311010000ad00b46b68,6888e6620100003b00e4ba93,46820,questionGroup,questionGroupText,46820,form,Workers' Compensation - Professional Employer Organization (PEO)
+6888e78e0100003600e4bad2,6888e78e0100003600e4bad1,46821,questionGroup,questionGroupText,46820,form,Policy Information
+6888e79c0100003d00e4bad6,,177393,question,questionText,46820,form,"Please provide a complete copy of the *Professional Employer Organization (PEO) Workers’ Compensation policy* under which your employees are covered. If a full copy is not readily available, please provide the following documents related to your Workers’ Compensation coverage:\n\n- Declarations Page\n- Schedule of Forms and Endorsements\n- Alternate Employer Endorsement (or an equivalent form listing the contractor)\n- Pages showing the NCCI Class Codes"
+6888e8070100003e00b46800,,177394,question,questionText,46820,form,Workers' Compensation Policy: Date of Commencement
+6888e8240100005a00e4bb60,,177395,question,questionText,46820,form,Workers' Compensation Policy: Policy Expiration Date
+6888e84e0100005a00b4680d,,177396,question,questionText,46820,form,Workers' Compensation Policy Upload

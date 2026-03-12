@@ -1,0 +1,64 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+64f205c61900001f01020c2a,59f75eb72500007c0cbd9f91,30,questionGroup,questionGroupText,30,form,Avetta PQF - Subcontractor Pre-Qualification
+4365b2e0504943e3e17638af,,134,question,description,30,form,A subcontractor undertakes a task(s) of a contract from the principal/prime/general contractor or from another subcontractor
+4365b2e0504943e3e17638af,,134,question,questionText,30,form,Does your company use subcontractors?
+4365b2e0504943e3e17638af,,134,question,responseOptionNo,30,form,No
+4365b2e0504943e3e17638af,,134,question,responseOptionYes,30,form,Yes
+429d40d05049436cd934080d,,138,question,questionText,30,form,"Does your company verify that subcontractors meet or exceed your company's Health, Safety, and Environmental (HSE) training requirements?"
+429d40d05049436cd934080d,,138,question,responseOptionNo,30,form,No
+429d40d05049436cd934080d,,138,question,responseOptionYes,30,form,Yes
+429d40d05049439933356091,,142,question,questionText,30,form,"Does your company include or verify that your subcontractors participate in Health, Safety, Security, and Environmental Orientations/Inductions?"
+429d40d05049439933356091,,142,question,responseOptionNo,30,form,No
+429d40d05049439933356091,,142,question,responseOptionYes,30,form,Yes
+429d40d05049431f49dc4cf2,,143,question,questionText,30,form,"Does your company include or verify that your subcontractors participate in Health, Safety, Security, and Environmental meetings?"
+429d40d05049431f49dc4cf2,,143,question,responseOptionNo,30,form,No
+429d40d05049431f49dc4cf2,,143,question,responseOptionYes,30,form,Yes
+4365b2e0504943a33869f342,,235,question,description,30,form,A Safety Management System (SMS) is a systematic and explicit approach outlining all the activities undertaken by an organization in order to achieve acceptable or tolerable safety levels.
+4365b2e0504943a33869f342,,235,question,questionText,30,form,"Does your company verify that your subcontractors have a written Health, Safety, and Environment program?"
+4365b2e0504943a33869f342,,235,question,responseOptionNo,30,form,No
+4365b2e0504943a33869f342,,235,question,responseOptionYes,30,form,Yes
+429d40d050494318171a9a0d,,236,question,questionText,30,form,Does your company request your subcontractor(s) to provide insurance certificates when applicable?
+429d40d050494318171a9a0d,,236,question,responseOptionNo,30,form,No
+429d40d050494318171a9a0d,,236,question,responseOptionYes,30,form,Yes
+4365b2e05049438dfd21159f,,869,question,questionText,30,form,Does your company track and verify closure of any requirements or non-conformance found during any subcontractor audits?
+4365b2e05049438dfd21159f,,869,question,responseOptionNo,30,form,No
+4365b2e05049438dfd21159f,,869,question,responseOptionYes,30,form,Yes
+618419892d00003091355b98,4fa2a6ab5049438936f15a6c,2618,questionGroup,questionGroupText,30,form,Subcontractor Compliance
+4dd40110504943181cf0a28c,,7677,question,questionText,30,form,Does your company include or verify that  subcontractors participate in pre-job meetings and job safety analyses (JSA's)/Risk Assessment Method Statement (RAMS)?
+4dd40110504943181cf0a28c,,7677,question,responseOptionNo,30,form,No
+4dd40110504943181cf0a28c,,7677,question,responseOptionYes,30,form,Yes
+4fa2a80950494350f81b1749,,11607,question,questionText,30,form,"Does your company have a process to verify and review that your subcontractors have a written Health, Safety, and Environment program?"
+4fa2a80950494350f81b1749,,11607,question,responseOptionNo,30,form,No
+4fa2a80950494350f81b1749,,11607,question,responseOptionYes,30,form,Yes
+4fa2a857504943748bf57333,,11608,question,questionText,30,form,"Does your company's health and safety management program assure your subcontractors are working to appropriate Health, Safety, and Environmental (HSE) standards?"
+4fa2a857504943748bf57333,,11608,question,responseOptionNo,30,form,No
+4fa2a857504943748bf57333,,11608,question,responseOptionYes,30,form,Yes
+5482298e504943ffb361bf44,,27645,question,questionText,30,form,Does your company use any form of temporary labor including but not limited to staffing agencies?
+5482298e504943ffb361bf44,,27645,question,responseOptionNo,30,form,No
+5482298e504943ffb361bf44,,27645,question,responseOptionYes,30,form,Yes
+54822a8e504943b9a08ae451,,27646,question,questionText,30,form,Please select all sources of temporary and temp-to-permanent labor: \n
+54822a8e504943b9a08ae451,,27646,question,responseOption1,30,form,Temporary Staffing Agencies
+54822a8e504943b9a08ae451,,27646,question,responseOption2,30,form,Labor Leasing Agencies
+54822a8e504943b9a08ae451,,27646,question,responseOption3,30,form,Talent Recruitment Agencies
+54822a8e504943b9a08ae451,,27646,question,responseOption4,30,form,Executive Search and Acquisition Firms
+54822a8e504943b9a08ae451,,27646,question,responseOption5,30,form,Migrant and Seasonal Workers
+54822a8e504943b9a08ae451,,27646,question,responseOption6,30,form,Other
+54822acc50494393a7a3f3d3,,27652,question,questionText,30,form,"Please specify the ""Other"" sources of temporary and temp-to-permanent labor."
+54822dd650494376d033320d,,27660,question,questionText,30,form,"How does your company verify that subcontractors meet or exceed your company's Health, Safety, and Environmental (HSE) training requirements?"
+54822dd650494376d033320d,,27660,question,responseOption1,30,form,Both
+54822dd650494376d033320d,,27660,question,responseOptionInternalSystems,30,form,Internal Systems and Processes
+54822dd650494376d033320d,,27660,question,responseOptionOther,30,form,Other
+54822dd650494376d033320d,,27660,question,responseOptionThirdParty,30,form,External / Third Party Auditing
+54822dfd5049437b87d00faf,,27661,question,questionText,30,form,"Please specify the ""Other"" methods of verifying your subcontractors."
+56671ade504943e20c8311be,,35503,question,questionText,30,form,What percentage of your company's work is subcontracted on an annual basis?
+56671ade504943e20c8311be,,35503,question,responseOption1,30,form,1%-24%
+56671ade504943e20c8311be,,35503,question,responseOption2,30,form,25%-49%
+56671ade504943e20c8311be,,35503,question,responseOption3,30,form,50%-74%
+56671ade504943e20c8311be,,35503,question,responseOption4,30,form,75%-100%
+64ed01241900004355cfb3b2,,144698,question,description,30,form,Please select the appropriate range of the average number of subcontractors used on an annual basis.
+64ed01241900004355cfb3b2,,144698,question,questionText,30,form,How many subcontractors does your company manage?
+64ed01241900004355cfb3b2,,144698,question,responseOption1,30,form,1 to 19 Subcontractors
+64ed01241900004355cfb3b2,,144698,question,responseOption2,30,form,20 to 49 Subcontractors
+64ed01241900004355cfb3b2,,144698,question,responseOption3,30,form,50 to 99 Subcontractors
+64ed01241900004355cfb3b2,,144698,question,responseOption4,30,form,100 to 199 Subcontractors
+64ed01241900004355cfb3b2,,144698,question,responseOption5,30,form,200 or more Subcontractors

@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6386c85f1900003606321258,631761022e0000925cae0e71,37136,questionGroup,questionGroupText,37136,form,Colombia - Ministry of Labor
+6317628b2f0000129a700ebc,,130939,question,questionText,37136,form,Has your company authorized your employees to work overtime during previous year?
+6317628b2f0000129a700ebc,,130939,question,responseOption1,37136,form,Yes
+6317628b2f0000129a700ebc,,130939,question,responseOption2,37136,form,No
+631764852e0000d203ae2509,,130940,question,questionText,37136,form,"If yes, please upload the latest ministry of labor certificate of approval."
+631767282e0000185aae3425,,130947,question,questionText,37136,form,"As an authorized signatory, I certify that my company will obtain an authorization by the ministry of labor to work overtime upon request."

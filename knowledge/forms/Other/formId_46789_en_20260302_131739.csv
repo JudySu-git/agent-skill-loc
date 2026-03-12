@@ -1,0 +1,325 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68912e040100008c01113539,6882a0f70100003400ed1979,46789,questionGroup,description,46789,form,"You received this form because you answer yes to the question ""Did your company receive notice of any Health & Safety regulatory breaches or violations in any country?"" in the Global Health & Safety Regulatory Breaches Form."
+68912e040100008c01113539,6882a0f70100003400ed1979,46789,questionGroup,questionGroupText,46789,form,Caterpillar Client Specific - Health & Safety Regulatory Breaches
+6882a13e0100003f00ed197d,,177199,question,description,46789,form,Your response must cover all countries you provide services/operate in and not just the country you are located in.
+6882a13e0100003f00ed197d,,177199,question,questionText,46789,form,Your company received notice of Health and Safety regulatory breaches or violations based on your completion of the Health & Safety Regulatory Breaches Form. Select each country where your company received one or more notices.
+6882a13e0100003f00ed197d,,177199,question,responseOption1,46789,form,France
+6882a13e0100003f00ed197d,,177199,question,responseOption10,46789,form,China
+6882a13e0100003f00ed197d,,177199,question,responseOption11,46789,form,Australia
+6882a13e0100003f00ed197d,,177199,question,responseOption12,46789,form,United Arab Emirates
+6882a13e0100003f00ed197d,,177199,question,responseOption13,46789,form,South Africa
+6882a13e0100003f00ed197d,,177199,question,responseOption14,46789,form,Switzerland
+6882a13e0100003f00ed197d,,177199,question,responseOption15,46789,form,Slovakia
+6882a13e0100003f00ed197d,,177199,question,responseOption16,46789,form,Hungary
+6882a13e0100003f00ed197d,,177199,question,responseOption17,46789,form,Czech
+6882a13e0100003f00ed197d,,177199,question,responseOption18,46789,form,Poland
+6882a13e0100003f00ed197d,,177199,question,responseOption19,46789,form,Netherlands
+6882a13e0100003f00ed197d,,177199,question,responseOption2,46789,form,India
+6882a13e0100003f00ed197d,,177199,question,responseOption20,46789,form,Belgium
+6882a13e0100003f00ed197d,,177199,question,responseOption21,46789,form,Brazil
+6882a13e0100003f00ed197d,,177199,question,responseOption22,46789,form,Thailand
+6882a13e0100003f00ed197d,,177199,question,responseOption23,46789,form,Indonesia
+6882a13e0100003f00ed197d,,177199,question,responseOption24,46789,form,Singapore
+6882a13e0100003f00ed197d,,177199,question,responseOption25,46789,form,Vietnam
+6882a13e0100003f00ed197d,,177199,question,responseOption3,46789,form,Italy
+6882a13e0100003f00ed197d,,177199,question,responseOption4,46789,form,Germany
+6882a13e0100003f00ed197d,,177199,question,responseOption5,46789,form,United Kingdom
+6882a13e0100003f00ed197d,,177199,question,responseOption6,46789,form,Spain
+6882a13e0100003f00ed197d,,177199,question,responseOption7,46789,form,Mexico
+6882a13e0100003f00ed197d,,177199,question,responseOption8,46789,form,South Korea
+6882a13e0100003f00ed197d,,177199,question,responseOption9,46789,form,Japan
+6882a1860100003400ed197e,,177200,question,questionText,46789,form,"In France, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+6882a1860100003400ed197e,,177200,question,responseOption1,46789,form,Yes
+6882a1860100003400ed197e,,177200,question,responseOption2,46789,form,No
+6882a1ba0100000901889dce,,177201,question,questionText,46789,form,"In Germany, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+6882a1ba0100000901889dce,,177201,question,responseOption1,46789,form,Yes
+6882a1ba0100000901889dce,,177201,question,responseOption2,46789,form,No
+6882a1ce0100000302889dd1,,177202,question,questionText,46789,form,"In Italy, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+6882a1ce0100000302889dd1,,177202,question,responseOption1,46789,form,Yes
+6882a1ce0100000302889dd1,,177202,question,responseOption2,46789,form,No
+6882a1dc0100000901889dd4,,177203,question,questionText,46789,form,"In Spain, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+6882a1dc0100000901889dd4,,177203,question,responseOption1,46789,form,Yes
+6882a1dc0100000901889dd4,,177203,question,responseOption2,46789,form,No
+6882a1ef010000aa02889dd7,,177204,question,questionText,46789,form,"In United Kingdom, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+6882a1ef010000aa02889dd7,,177204,question,responseOption1,46789,form,Yes
+6882a1ef010000aa02889dd7,,177204,question,responseOption2,46789,form,No
+6882a2020100005302ed1980,,177205,question,questionText,46789,form,"In Belgium, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+6882a2020100005302ed1980,,177205,question,responseOption1,46789,form,Yes
+6882a2020100005302ed1980,,177205,question,responseOption2,46789,form,No
+6882a23c010000bd00889ddb,,177206,question,questionText,46789,form,"Upload documentation for all regulatory breaches in France that resulted in prohibition notices, prosecutions, citations or convictions."
+6882a23c010000bd00889ddb,,177206,question,responseOption1,46789,form,Yes
+6882a23c010000bd00889ddb,,177206,question,responseOption2,46789,form,No
+6882a2590100005302ed1983,,177207,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Germany that resulted in prohibition notices, prosecutions, citations or convictions."
+6882a2590100005302ed1983,,177207,question,responseOption1,46789,form,Yes
+6882a2590100005302ed1983,,177207,question,responseOption2,46789,form,No
+6882a2680100000901889dde,,177208,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Italy that resulted in prohibition notices, prosecutions, citations or convictions."
+6882a2680100000901889dde,,177208,question,responseOption1,46789,form,Yes
+6882a2680100000901889dde,,177208,question,responseOption2,46789,form,No
+6882a2790100003f00ed1987,,177209,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Spain that resulted in prohibition notices, prosecutions, citations or convictions."
+6882a2790100003f00ed1987,,177209,question,responseOption1,46789,form,Yes
+6882a2790100003f00ed1987,,177209,question,responseOption2,46789,form,No
+6882a28a0100000801889de1,,177210,question,questionText,46789,form,"Upload documentation for all regulatory breaches in United Kingdom that resulted in prohibition notices, prosecutions, citations or convictions."
+6882a28a0100000801889de1,,177210,question,responseOption1,46789,form,Yes
+6882a28a0100000801889de1,,177210,question,responseOption2,46789,form,No
+6882a297010000bd00889de3,,177211,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Belgium that resulted in prohibition notices, prosecutions, citations or convictions."
+6882a297010000bd00889de3,,177211,question,responseOption1,46789,form,Yes
+6882a297010000bd00889de3,,177211,question,responseOption2,46789,form,No
+6882a2ed0100003f00ed1990,,177213,question,questionText,46789,form,"In France, how many of these regulatory breaches or violations resulted in improvement notices?"
+6882a2ed0100003f00ed1990,,177213,question,responseOption1,46789,form,Yes
+6882a2ed0100003f00ed1990,,177213,question,responseOption2,46789,form,No
+6882a3050100001401ed1993,,177214,question,questionText,46789,form,"In Germany, how many of these regulatory breaches or violations resulted in improvement notices?"
+6882a3050100001401ed1993,,177214,question,responseOption1,46789,form,Yes
+6882a3050100001401ed1993,,177214,question,responseOption2,46789,form,No
+6882a3160100000801889dfa,,177215,question,questionText,46789,form,"In Italy, how many of these regulatory breaches or violations resulted in improvement notices?"
+6882a3160100000801889dfa,,177215,question,responseOption1,46789,form,Yes
+6882a3160100000801889dfa,,177215,question,responseOption2,46789,form,No
+6882a322010000aa02889dfc,,177216,question,questionText,46789,form,"In Spain, how many of these regulatory breaches or violations resulted in improvement notices?"
+6882a322010000aa02889dfc,,177216,question,responseOption1,46789,form,Yes
+6882a322010000aa02889dfc,,177216,question,responseOption2,46789,form,No
+6882a33b0100001701ed199b,,177217,question,questionText,46789,form,"In United Kingdom, how many of these regulatory breaches or violations resulted in improvement notices?"
+6882a33b0100001701ed199b,,177217,question,responseOption1,46789,form,Yes
+6882a33b0100001701ed199b,,177217,question,responseOption2,46789,form,No
+6882a34f0100005602ed199e,,177218,question,questionText,46789,form,"In Belgium, how many of these regulatory breaches or violations resulted in improvement notices?"
+6882a34f0100005602ed199e,,177218,question,responseOption1,46789,form,Yes
+6882a34f0100005602ed199e,,177218,question,responseOption2,46789,form,No
+6882a365010000ab02889e00,,177219,question,questionText,46789,form,Upload documentation for all regulatory breaches in France that resulted in improvement notices.
+6882a365010000ab02889e00,,177219,question,responseOption1,46789,form,Yes
+6882a365010000ab02889e00,,177219,question,responseOption2,46789,form,No
+6882a381010000ae02889e02,,177220,question,questionText,46789,form,Upload documentation for all regulatory breaches in Germany that resulted in improvement notices.
+6882a381010000ae02889e02,,177220,question,responseOption1,46789,form,Yes
+6882a381010000ae02889e02,,177220,question,responseOption2,46789,form,No
+6882a3940100000801889e05,,177221,question,questionText,46789,form,Upload documentation for all regulatory breaches in Italy that resulted in improvement notices.
+6882a3940100000801889e05,,177221,question,responseOption1,46789,form,Yes
+6882a3940100000801889e05,,177221,question,responseOption2,46789,form,No
+6882a3a50100005602ed19a2,,177222,question,questionText,46789,form,Upload documentation for all regulatory breaches in Spain that resulted in improvement notices.
+6882a3a50100005602ed19a2,,177222,question,responseOption1,46789,form,Yes
+6882a3a50100005602ed19a2,,177222,question,responseOption2,46789,form,No
+6882a3b40100003400ed19a4,,177223,question,questionText,46789,form,Upload documentation for all regulatory breaches in United Kingdom that resulted in improvement notices.
+6882a3b40100003400ed19a4,,177223,question,responseOption1,46789,form,Yes
+6882a3b40100003400ed19a4,,177223,question,responseOption2,46789,form,No
+6882a3c30100000901889e08,,177224,question,questionText,46789,form,Upload documentation for all regulatory breaches in Belgium that resulted in improvement notices.
+6882a3c30100000901889e08,,177224,question,responseOption1,46789,form,Yes
+6882a3c30100000901889e08,,177224,question,responseOption2,46789,form,No
+6882a3ee010000ad02889e0a,,177225,question,questionText,46789,form,I confirm that I am an authorised signatory of the company and that the information and documentation provided is valid.
+6882a3ee010000ad02889e0a,,177225,question,responseOption1,46789,form,Yes
+6882a3ee010000ad02889e0a,,177225,question,responseOption2,46789,form,No
+688d23a6010000bb0036be3c,,177922,question,questionText,46789,form,"In Netherlands, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d23e0010000d30050b53f,,177923,question,questionText,46789,form,"In Poland, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d23e0010000d30050b540,,177924,question,questionText,46789,form,"In Czech, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d23e0010000d30050b541,,177925,question,questionText,46789,form,"In Hungary, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d2452010000bf0036be44,,177927,question,questionText,46789,form,"In Slovakia, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d2452010000bf0036be44,,177927,question,responseOption1,46789,form,Yes
+688d2452010000bf0036be44,,177927,question,responseOption2,46789,form,No
+688d2464010000ba0036be47,,177928,question,questionText,46789,form,"In Switzerland, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d2464010000ba0036be47,,177928,question,responseOption1,46789,form,Yes
+688d2464010000ba0036be47,,177928,question,responseOption2,46789,form,No
+688d2476010000c20036be4a,,177929,question,questionText,46789,form,"In South Africa, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d2476010000c20036be4a,,177929,question,responseOption1,46789,form,Yes
+688d2476010000c20036be4a,,177929,question,responseOption2,46789,form,No
+688d2489010000bb0036be4d,,177930,question,questionText,46789,form,"In United Arab Emirates, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d2489010000bb0036be4d,,177930,question,responseOption1,46789,form,Yes
+688d2489010000bb0036be4d,,177930,question,responseOption2,46789,form,No
+688d24a8010000d30050b547,,177931,question,questionText,46789,form,"In Australia, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d24a8010000d30050b547,,177931,question,responseOption1,46789,form,Yes
+688d24a8010000d30050b547,,177931,question,responseOption2,46789,form,No
+688d24bc0100003d0036be50,,177932,question,questionText,46789,form,"In China, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d24bc0100003d0036be50,,177932,question,responseOption1,46789,form,Yes
+688d24bc0100003d0036be50,,177932,question,responseOption2,46789,form,No
+688d24d1010000d20050b54a,,177933,question,questionText,46789,form,"In India, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d24d1010000d20050b54a,,177933,question,responseOption1,46789,form,Yes
+688d24d1010000d20050b54a,,177933,question,responseOption2,46789,form,No
+688d24dd010000b90036be59,,177934,question,questionText,46789,form,"In Japan, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d24dd010000b90036be59,,177934,question,responseOption1,46789,form,Yes
+688d24dd010000b90036be59,,177934,question,responseOption2,46789,form,No
+688d24ec010000d30050b582,,177935,question,questionText,46789,form,"In South Korea, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d24ec010000d30050b582,,177935,question,responseOption1,46789,form,Yes
+688d24ec010000d30050b582,,177935,question,responseOption2,46789,form,No
+688d24f8010000ce0050b586,,177936,question,questionText,46789,form,"In Singapore, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d24f8010000ce0050b586,,177936,question,responseOption1,46789,form,Yes
+688d24f8010000ce0050b586,,177936,question,responseOption2,46789,form,No
+688d2509010000d20050b649,,177937,question,questionText,46789,form,"In Indonesia, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d2509010000d20050b649,,177937,question,responseOption1,46789,form,Yes
+688d2509010000d20050b649,,177937,question,responseOption2,46789,form,No
+688d253e010000400036bfb6,,177938,question,questionText,46789,form,"In Thailand, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d253e010000400036bfb6,,177938,question,responseOption1,46789,form,Yes
+688d253e010000400036bfb6,,177938,question,responseOption2,46789,form,No
+688d254f0100003f0036bfd9,,177939,question,questionText,46789,form,"In Brazil, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d254f0100003f0036bfd9,,177939,question,responseOption1,46789,form,Yes
+688d254f0100003f0036bfd9,,177939,question,responseOption2,46789,form,No
+688d25610100005d0136c010,,177940,question,questionText,46789,form,"In Mexico, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d25610100005d0136c010,,177940,question,responseOption1,46789,form,Yes
+688d25610100005d0136c010,,177940,question,responseOption2,46789,form,No
+688d256d010000d30050b86c,,177941,question,questionText,46789,form,"In Vietnam, how many of these regulatory breaches or violations resulted in prohibition notices, prosecutions, citations or convictions?"
+688d256d010000d30050b86c,,177941,question,responseOption1,46789,form,Yes
+688d256d010000d30050b86c,,177941,question,responseOption2,46789,form,No
+6890e94b0100004000112a02,,177944,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Netherlands that resulted in prohibition notices, prosecutions, citations or convictions."
+6890e94b0100004000112a02,,177944,question,responseOption1,46789,form,Yes
+6890e94b0100004000112a02,,177944,question,responseOption2,46789,form,No
+6890e98d0100004700112a10,,177945,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Poland that resulted in prohibition notices, prosecutions, citations or convictions."
+6890e98d0100004700112a10,,177945,question,responseOption1,46789,form,Yes
+6890e98d0100004700112a10,,177945,question,responseOption2,46789,form,No
+6890e9a30100004600112a14,,177946,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Czech that resulted in prohibition notices, prosecutions, citations or convictions."
+6890e9a30100004600112a14,,177946,question,responseOption1,46789,form,Yes
+6890e9a30100004600112a14,,177946,question,responseOption2,46789,form,No
+6890e9c30100004400112a17,,177947,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Hungary that resulted in prohibition notices, prosecutions, citations or convictions."
+6890e9c30100004400112a17,,177947,question,responseOption1,46789,form,Yes
+6890e9c30100004400112a17,,177947,question,responseOption2,46789,form,No
+6890e9d70100003c008ceed6,,177948,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Slovakia that resulted in prohibition notices, prosecutions, citations or convictions."
+6890e9d70100003c008ceed6,,177948,question,responseOption1,46789,form,Yes
+6890e9d70100003c008ceed6,,177948,question,responseOption2,46789,form,No
+6890e9ea0100003f008ceed9,,177949,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Switzerland that resulted in prohibition notices, prosecutions, citations or convictions."
+6890e9ea0100003f008ceed9,,177949,question,responseOption1,46789,form,Yes
+6890e9ea0100003f008ceed9,,177949,question,responseOption2,46789,form,No
+6890ea0c0100003f008ceeda,,177950,question,questionText,46789,form,"Upload documentation for all regulatory breaches in South Africa that resulted in prohibition notices, prosecutions, citations or convictions."
+6890ea0c0100003f008ceeda,,177950,question,responseOption1,46789,form,Yes
+6890ea0c0100003f008ceeda,,177950,question,responseOption2,46789,form,No
+6890ea240100004400112a1c,,177951,question,questionText,46789,form,"Upload documentation for all regulatory breaches in United Arab Emirates that resulted in prohibition notices, prosecutions, citations or convictions."
+6890ea240100004400112a1c,,177951,question,responseOption1,46789,form,Yes
+6890ea240100004400112a1c,,177951,question,responseOption2,46789,form,No
+6890ea3a0100003e008ceedd,,177952,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Australia that resulted in prohibition notices, prosecutions, citations or convictions."
+6890ea3a0100003e008ceedd,,177952,question,responseOption1,46789,form,Yes
+6890ea3a0100003e008ceedd,,177952,question,responseOption2,46789,form,No
+6890ea49010000e6008ceeea,,177953,question,questionText,46789,form,"Upload documentation for all regulatory breaches in China that resulted in prohibition notices, prosecutions, citations or convictions."
+6890ea49010000e6008ceeea,,177953,question,responseOption1,46789,form,Yes
+6890ea49010000e6008ceeea,,177953,question,responseOption2,46789,form,No
+6890ea540100003c00112a21,,177954,question,questionText,46789,form,"Upload documentation for all regulatory breaches in India that resulted in prohibition notices, prosecutions, citations or convictions."
+6890ea540100003c00112a21,,177954,question,responseOption1,46789,form,Yes
+6890ea540100003c00112a21,,177954,question,responseOption2,46789,form,No
+6890ea60010000cd00112a24,,177955,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Japan that resulted in prohibition notices, prosecutions, citations or convictions."
+6890ea60010000cd00112a24,,177955,question,responseOption1,46789,form,Yes
+6890ea60010000cd00112a24,,177955,question,responseOption2,46789,form,No
+6890ea6e010000ce00112a28,,177956,question,questionText,46789,form,"Upload documentation for all regulatory breaches in South Korea that resulted in prohibition notices, prosecutions, citations or convictions."
+6890ea6e010000ce00112a28,,177956,question,responseOption1,46789,form,Yes
+6890ea6e010000ce00112a28,,177956,question,responseOption2,46789,form,No
+6890ea7c0100003f008ceef5,,177957,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Singapore that resulted in prohibition notices, prosecutions, citations or convictions."
+6890ea7c0100003f008ceef5,,177957,question,responseOption1,46789,form,Yes
+6890ea7c0100003f008ceef5,,177957,question,responseOption2,46789,form,No
+6890ea8a0100003c00112a2a,,177958,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Indonesia that resulted in prohibition notices, prosecutions, citations or convictions."
+6890ea8a0100003c00112a2a,,177958,question,responseOption1,46789,form,Yes
+6890ea8a0100003c00112a2a,,177958,question,responseOption2,46789,form,No
+6890ea9a0100004400112a2d,,177959,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Thailand that resulted in prohibition notices, prosecutions, citations or convictions."
+6890ea9a0100004400112a2d,,177959,question,responseOption1,46789,form,Yes
+6890ea9a0100004400112a2d,,177959,question,responseOption2,46789,form,No
+6890eaaf0100003c008ceef8,,177960,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Brazil that resulted in prohibition notices, prosecutions, citations or convictions."
+6890eaaf0100003c008ceef8,,177960,question,responseOption1,46789,form,Yes
+6890eaaf0100003c008ceef8,,177960,question,responseOption2,46789,form,No
+6890eabd0100004400112a32,,177961,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Mexico that resulted in prohibition notices, prosecutions, citations or convictions."
+6890eabd0100004400112a32,,177961,question,responseOption1,46789,form,Yes
+6890eabd0100004400112a32,,177961,question,responseOption2,46789,form,No
+6890eacd0100004000112a35,,177962,question,questionText,46789,form,"Upload documentation for all regulatory breaches in Vietnam that resulted in prohibition notices, prosecutions, citations or convictions."
+6890eacd0100004000112a35,,177962,question,responseOption1,46789,form,Yes
+6890eacd0100004000112a35,,177962,question,responseOption2,46789,form,No
+6890eb32010000ce00112a3c,,177963,question,questionText,46789,form,"In Netherlands, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890eb32010000ce00112a3c,,177963,question,responseOption1,46789,form,Yes
+6890eb32010000ce00112a3c,,177963,question,responseOption2,46789,form,No
+6890eb4c01000058008cf03d,,177964,question,questionText,46789,form,"In Poland, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890eb4c01000058008cf03d,,177964,question,responseOption1,46789,form,Yes
+6890eb4c01000058008cf03d,,177964,question,responseOption2,46789,form,No
+6890eb5d0100003c00112a4f,,177965,question,questionText,46789,form,"In Czech, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890eb5d0100003c00112a4f,,177965,question,responseOption1,46789,form,Yes
+6890eb5d0100003c00112a4f,,177965,question,responseOption2,46789,form,No
+6890eb6c0100004600112a52,,177966,question,questionText,46789,form,"In Hungary, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890eb6c0100004600112a52,,177966,question,responseOption1,46789,form,Yes
+6890eb6c0100004600112a52,,177966,question,responseOption2,46789,form,No
+6890eb7c0100003f008cf03f,,177967,question,questionText,46789,form,"In Slovakia, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890eb7c0100003f008cf03f,,177967,question,responseOption1,46789,form,Yes
+6890eb7c0100003f008cf03f,,177967,question,responseOption2,46789,form,No
+6890eb8a0100003e008cf041,,177968,question,questionText,46789,form,"In Switzerland, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890eb8a0100003e008cf041,,177968,question,responseOption1,46789,form,Yes
+6890eb8a0100003e008cf041,,177968,question,responseOption2,46789,form,No
+6890eb9a0100004400112a63,,177969,question,questionText,46789,form,"In South Korea, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890eb9a0100004400112a63,,177969,question,responseOption1,46789,form,Yes
+6890eb9a0100004400112a63,,177969,question,responseOption2,46789,form,No
+6890ee800100004400112a6f,,177971,question,questionText,46789,form,"In Singapore, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890ee800100004400112a6f,,177971,question,responseOption1,46789,form,Yes
+6890ee800100004400112a6f,,177971,question,responseOption2,46789,form,No
+6890ee9001000058008cf056,,177972,question,questionText,46789,form,"In Indonesia, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890ee9001000058008cf056,,177972,question,responseOption1,46789,form,Yes
+6890ee9001000058008cf056,,177972,question,responseOption2,46789,form,No
+6890eea30100004700112a73,,177973,question,questionText,46789,form,"In Thailand, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890eea30100004700112a73,,177973,question,responseOption1,46789,form,Yes
+6890eea30100004700112a73,,177973,question,responseOption2,46789,form,No
+6890eeb50100003b008cf058,,177974,question,questionText,46789,form,"In Brazil, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890eeb50100003b008cf058,,177974,question,responseOption1,46789,form,Yes
+6890eeb50100003b008cf058,,177974,question,responseOption2,46789,form,No
+6890eec40100004400112a76,,177975,question,questionText,46789,form,"In Mexico, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890eec40100004400112a76,,177975,question,responseOption1,46789,form,Yes
+6890eec40100004400112a76,,177975,question,responseOption2,46789,form,No
+6890eed6010000cd00112a79,,177976,question,questionText,46789,form,"In Vietnam, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890eed6010000cd00112a79,,177976,question,responseOption1,46789,form,Yes
+6890eed6010000cd00112a79,,177976,question,responseOption2,46789,form,No
+6890ef0f0100003e008cf05d,,177977,question,questionText,46789,form,Upload documentation for all regulatory breaches in Netherlands that resulted in improvement notices.
+6890ef0f0100003e008cf05d,,177977,question,responseOption1,46789,form,Yes
+6890ef0f0100003e008cf05d,,177977,question,responseOption2,46789,form,No
+6890ef2801000057008cf05f,,177978,question,questionText,46789,form,Upload documentation for all regulatory breaches in Poland that resulted in improvement notices.
+6890ef2801000057008cf05f,,177978,question,responseOption1,46789,form,Yes
+6890ef2801000057008cf05f,,177978,question,responseOption2,46789,form,No
+6890ef3601000056008cf061,,177979,question,questionText,46789,form,Upload documentation for all regulatory breaches in Czech that resulted in improvement notices.
+6890ef3601000056008cf061,,177979,question,responseOption1,46789,form,Yes
+6890ef3601000056008cf061,,177979,question,responseOption2,46789,form,No
+6890ef460100003c00112a7e,,177980,question,questionText,46789,form,Upload documentation for all regulatory breaches in Hungary that resulted in improvement notices.
+6890ef460100003c00112a7e,,177980,question,responseOption1,46789,form,Yes
+6890ef460100003c00112a7e,,177980,question,responseOption2,46789,form,No
+6890f392010000e6008cf184,,177981,question,questionText,46789,form,Upload documentation for all regulatory breaches in Slovakia that resulted in improvement notices.
+6890f392010000e6008cf184,,177981,question,responseOption1,46789,form,Yes
+6890f392010000e6008cf184,,177981,question,responseOption2,46789,form,No
+6890f3a60100004000112ab9,,177982,question,questionText,46789,form,Upload documentation for all regulatory breaches in Switzerland that resulted in improvement notices.
+6890f3a60100004000112ab9,,177982,question,responseOption1,46789,form,Yes
+6890f3a60100004000112ab9,,177982,question,responseOption2,46789,form,No
+6890f3b50100003b008cf187,,177983,question,questionText,46789,form,Upload documentation for all regulatory breaches in South Africa that resulted in improvement notices.
+6890f3b50100003b008cf187,,177983,question,responseOption1,46789,form,Yes
+6890f3b50100003b008cf187,,177983,question,responseOption2,46789,form,No
+6890f3cb0100004800112ac6,,177984,question,questionText,46789,form,Upload documentation for all regulatory breaches in United Arab Emirates that resulted in improvement notices.
+6890f3cb0100004800112ac6,,177984,question,responseOption1,46789,form,Yes
+6890f3cb0100004800112ac6,,177984,question,responseOption2,46789,form,No
+6890f3dc0100003b008cf18b,,177985,question,questionText,46789,form,Upload documentation for all regulatory breaches in Australia that resulted in improvement notices.
+6890f3dc0100003b008cf18b,,177985,question,responseOption1,46789,form,Yes
+6890f3dc0100003b008cf18b,,177985,question,responseOption2,46789,form,No
+6890f3eb0100003e008cf18f,,177986,question,questionText,46789,form,Upload documentation for all regulatory breaches in China that resulted in improvement notices.
+6890f3eb0100003e008cf18f,,177986,question,responseOption1,46789,form,Yes
+6890f3eb0100003e008cf18f,,177986,question,responseOption2,46789,form,No
+6890f3f80100004800112acc,,177987,question,questionText,46789,form,Upload documentation for all regulatory breaches in India that resulted in improvement notices.
+6890f3f80100004800112acc,,177987,question,responseOption1,46789,form,Yes
+6890f3f80100004800112acc,,177987,question,responseOption2,46789,form,No
+6890f40401000037008cf194,,177989,question,questionText,46789,form,Upload documentation for all regulatory breaches in Japan that resulted in improvement notices.
+6890f40401000037008cf194,,177989,question,responseOption1,46789,form,Yes
+6890f40401000037008cf194,,177989,question,responseOption2,46789,form,No
+6890f4110100003b008cf197,,177990,question,questionText,46789,form,Upload documentation for all regulatory breaches in South Korea that resulted in improvement notices.
+6890f4110100003b008cf197,,177990,question,responseOption1,46789,form,Yes
+6890f4110100003b008cf197,,177990,question,responseOption2,46789,form,No
+6890f42001000056008cf19a,,177991,question,questionText,46789,form,Upload documentation for all regulatory breaches in Singapore that resulted in improvement notices.
+6890f42001000056008cf19a,,177991,question,responseOption1,46789,form,Yes
+6890f42001000056008cf19a,,177991,question,responseOption2,46789,form,No
+6890f4420100003e008cf19d,,177992,question,questionText,46789,form,Upload documentation for all regulatory breaches in Indonesia that resulted in improvement notices.
+6890f4420100003e008cf19d,,177992,question,responseOption1,46789,form,Yes
+6890f4420100003e008cf19d,,177992,question,responseOption2,46789,form,No
+6890f4520100004300112ad9,,177993,question,questionText,46789,form,Upload documentation for all regulatory breaches in Thailand that resulted in improvement notices.
+6890f4520100004300112ad9,,177993,question,responseOption1,46789,form,Yes
+6890f4520100004300112ad9,,177993,question,responseOption2,46789,form,No
+6890f45f0100004800112adc,,177994,question,questionText,46789,form,Upload documentation for all regulatory breaches in Brazil that resulted in improvement notices.
+6890f45f0100004800112adc,,177994,question,responseOption1,46789,form,Yes
+6890f45f0100004800112adc,,177994,question,responseOption2,46789,form,No
+6890f46c01000056008cf1a4,,177995,question,questionText,46789,form,Upload documentation for all regulatory breaches in Mexico that resulted in improvement notices.
+6890f46c01000056008cf1a4,,177995,question,responseOption1,46789,form,Yes
+6890f46c01000056008cf1a4,,177995,question,responseOption2,46789,form,No
+6890f479010000ce00112adf,,177996,question,questionText,46789,form,Upload documentation for all regulatory breaches in Vietnam that resulted in improvement notices.
+6890f479010000ce00112adf,,177996,question,responseOption1,46789,form,Yes
+6890f479010000ce00112adf,,177996,question,responseOption2,46789,form,No
+6890f56d01000056008cf1d6,,177997,question,questionText,46789,form,"In South Africa, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890f56d01000056008cf1d6,,177997,question,responseOption1,46789,form,Yes
+6890f56d01000056008cf1d6,,177997,question,responseOption2,46789,form,No
+6890f5890100003b008cf1da,,177998,question,questionText,46789,form,"In United Arab Emirates, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890f5890100003b008cf1da,,177998,question,responseOption1,46789,form,Yes
+6890f5890100003b008cf1da,,177998,question,responseOption2,46789,form,No
+6890f5a00100004700112b1e,,177999,question,questionText,46789,form,"In Australia, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890f5a00100004700112b1e,,177999,question,responseOption1,46789,form,Yes
+6890f5a00100004700112b1e,,177999,question,responseOption2,46789,form,No
+6890f5b301000037008cf1dd,,178000,question,questionText,46789,form,"In China, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890f5b301000037008cf1dd,,178000,question,responseOption1,46789,form,Yes
+6890f5b301000037008cf1dd,,178000,question,responseOption2,46789,form,No
+6890f5c4010000e6008cf1e0,,178001,question,questionText,46789,form,"In India, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890f5c4010000e6008cf1e0,,178001,question,responseOption1,46789,form,Yes
+6890f5c4010000e6008cf1e0,,178001,question,responseOption2,46789,form,No
+6890f5dd01000056008cf1e2,,178002,question,questionText,46789,form,"In Japan, how many of these regulatory breaches or violations resulted in improvement notices?"
+6890f5dd01000056008cf1e2,,178002,question,responseOption1,46789,form,Yes
+6890f5dd01000056008cf1e2,,178002,question,responseOption2,46789,form,No

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4d2d010000500021f9c1,66302d5e1b00006000b6e873,42066,questionGroup,description,42066,form,You are getting this category because you selected a license in the Avetta PQF - Western Australia License.
+66ce4d2d010000500021f9c1,66302d5e1b00006000b6e873,42066,questionGroup,questionGroupText,42066,form,Western Australia Contractor License - Class A: Asbestos Removal
+66302d5e1b00003200b6e874,,153499,question,questionText,42066,form,Please upload your license:\n
+66302d5e1b00003200b6e874,,153499,question,responseOption1,42066,form,Yes
+66302d5e1b00003200b6e874,,153499,question,responseOption2,42066,form,No
+66302d5e1b00003200b6e875,,153500,question,questionText,42066,form,Expiration Date:
+66302d5e1b00003200b6e875,,153500,question,responseOption1,42066,form,Yes
+66302d5e1b00003200b6e875,,153500,question,responseOption2,42066,form,No
+66302d5e1b00003200b6e876,,153501,question,questionText,42066,form,License Number:
+66302d5e1b00003200b6e876,,153501,question,responseOption1,42066,form,Yes
+66302d5e1b00003200b6e876,,153501,question,responseOption2,42066,form,No

@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5c990a9538000000f32914e3,4f075fea504943fe4890470a,2290,questionGroup,questionGroupText,20138,form,Policy Information
+5c990aaa360000f4b00749a7,4f076017504943b689dfdaba,2291,questionGroup,questionGroupText,20138,form,Policy Limits
+4f07604b504943a2525571a1,,10226,question,questionText,20138,form,Policy Effective Date
+4f07607f504943a43f44e9a7,,10228,question,questionText,20138,form,Policy Expiration Date
+4f0760b75049434bd19c58ca,,10229,question,questionText,20138,form,Insurance Carrier
+4f0761875049433a482e6021,,10230,question,questionText,20138,form,Monetary Limit
+6070611b4500009d89bbb511,5ab880812800007000beb8ed,20138,questionGroup,questionGroupText,20138,form,Public and Product Liability
+5ab880102800007300beb8ea,,70072,question,description,20138,form,Public and Product Liability Certificate
+5ab880102800007300beb8ea,,70072,question,questionText,20138,form,Please upload Public and Product Liability Certificate
+607060c54500009d89bbb05d,,108611,question,description,20138,form,Used to provide instructions from Client
+607060c54500009d89bbb05d,,108611,question,questionText,20138,form,Comments
+607060dc4500009d89bbb249,,108612,question,description,20138,form,Date the instructions from Client expire
+607060dc4500009d89bbb249,,108612,question,questionText,20138,form,VARIANCE Expiration Date
+62f53f2682eb52eab3c18f99,,130510,question,questionText,20138,form,Currency used in Certificate of Insurance (COI)

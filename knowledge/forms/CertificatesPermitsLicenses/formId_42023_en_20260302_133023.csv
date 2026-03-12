@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce497c0100003700ebe514,662fecb41b00002e00b6e5de,42023,questionGroup,description,42023,form,You are getting this category because you selected a license in the Avetta PQF - Queensland License.
+66ce497c0100003700ebe514,662fecb41b00002e00b6e5de,42023,questionGroup,questionGroupText,42023,form,Queensland Contractor License - Gas Fitting
+662fecb41b00002900b6e5e1,,153373,question,questionText,42023,form,Please upload your license:\n
+662fecb41b00002900b6e5e1,,153373,question,responseOption1,42023,form,Yes
+662fecb41b00002900b6e5e1,,153373,question,responseOption2,42023,form,No
+662fecb41b00002f00b6e5df,,153374,question,questionText,42023,form,License Number:
+662fecb41b00002f00b6e5df,,153374,question,responseOption1,42023,form,Yes
+662fecb41b00002f00b6e5df,,153374,question,responseOption2,42023,form,No
+662fecb41b00002d00b6e5e0,,153375,question,questionText,42023,form,Expiration Date:
+662fecb41b00002d00b6e5e0,,153375,question,responseOption1,42023,form,Yes
+662fecb41b00002d00b6e5e0,,153375,question,responseOption2,42023,form,No

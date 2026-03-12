@@ -1,0 +1,68 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+654d02521700009832593621,51e45b1b5049437e9276e47c,4114,questionGroup,questionGroupText,20175,form,New Zealand
+51e557d5504943732e7895ec,,19081,question,description,20175,form,"The <a href=""https://companies-register.companiesoffice.govt.nz/"" target=""_blank"">New Zealand Companies Office</a> website has a publicly available, online database that contains some of the information that is provided by businesses when they register for incorporation."
+51e557d5504943732e7895ec,,19081,question,questionText,20175,form,Is your company registered with the New Zealand Companies Office?
+51e557d5504943732e7895ec,,19081,question,responseOptionNo,20175,form,No
+51e557d5504943732e7895ec,,19081,question,responseOptionYes,20175,form,Yes
+51e55852504943f1636d2f1c,,19082,question,questionText,20175,form,What is your Company Number registered with the New Zealand Companies Office?
+51e558c05049432dc17d39d0,,19083,question,description,20175,form,"Most businesses legally registered and operating in New Zealand are required to register with the <a href=""https://www.ird.govt.nz/"" target=""_blank"">Inland Revenue Department</a> to pay applicable taxes."
+51e558c05049432dc17d39d0,,19083,question,questionText,20175,form,Is your company registered with the New Zealand Inland Revenue Department (IRD)?
+51e558c05049432dc17d39d0,,19083,question,responseOptionNo,20175,form,No
+51e558c05049432dc17d39d0,,19083,question,responseOptionYes,20175,form,Yes
+51e5598f504943e8dc34a27a,,19084,question,description,20175,form,"The <a href=""https://www.ird.govt.nz/contact-us/online/ird-number-index.html"" target=""_blank"">IRD number</a> is a unique number issued by the Inland Revenue Department to business for tax purposes."
+51e5598f504943e8dc34a27a,,19084,question,questionText,20175,form,Does your company have an IRD number?
+51e5598f504943e8dc34a27a,,19084,question,responseOptionNo,20175,form,No
+51e5598f504943e8dc34a27a,,19084,question,responseOptionYes,20175,form,Yes
+51e559fc504943f2d310c189,,19087,question,description,20175,form,The IRD number typically contains 8 to 9-digits.
+51e559fc504943f2d310c189,,19087,question,questionText,20175,form,What is your company’s IRD number?
+51e55a6d504943e8b0baec59,,19090,question,description,20175,form,
+51e55a6d504943e8b0baec59,,19090,question,questionText,20175,form,Does your company have a Goods and Services Tax (GST) number that is different from your company’s IRD number?
+51e55a6d504943e8b0baec59,,19090,question,responseOptionNo,20175,form,No
+51e55a6d504943e8b0baec59,,19090,question,responseOptionYes,20175,form,Yes
+51e55abc504943dc8d2dfcd5,,19091,question,questionText,20175,form,What is your company’s GST number?
+51e55bc15049432048f774b8,,19092,question,description,20175,form,"The BIC number is used by some New Zealand government agencies such as the <a href="" https://www.acc.co.nz/"" target=""_blank"">Accident Compensation Corporation (ACC)</a> for business activity classification purposes."
+51e55bc15049432048f774b8,,19092,question,linkhttps://www.businessdescription.co.nz/,20175,form,Click here to locate your company's BIC number
+51e55bc15049432048f774b8,,19092,question,questionText,20175,form,What is your company’s primary Business Industry Code (BIC)? \n
+51e55c17504943a46d3fc631,,19093,question,linkhttps://www.businessdescription.co.nz/,20175,form,Click here to locate your company's additional BIC number
+51e55c17504943a46d3fc631,,19093,question,questionText,20175,form,What is your company’s secondary Business Industry Code (BIC)? \n
+654d16c11700001a315936d2,5ac4638024000036011e332e,20175,questionGroup,questionGroupText,20175,form,Avetta PQF - New Zealand Company Information
+533b2a0c504943f6f5a39fb2,,23028,question,description,20175,form,
+533b2a0c504943f6f5a39fb2,,23028,question,questionText,20175,form,Has your company been assigned a New Zealand Business Number (NZBN)?
+533b2a0c504943f6f5a39fb2,,23028,question,responseOptionNo,20175,form,No
+533b2a0c504943f6f5a39fb2,,23028,question,responseOptionYes,20175,form,Yes
+533b2ad85049433d3e275b18,,23029,question,description,20175,form,The NZBN is a 13-digit number which uniquely identifies your company.
+533b2ad85049433d3e275b18,,23029,question,questionText,20175,form,What is your company's NZBN?
+63f569a51500007b00eb0a46,,138544,question,description,20175,form,https://www.nzbn.govt.nz/
+63f569a51500007b00eb0a46,,138544,question,questionText,20175,form,Does the company's name in Connect match the name on the NZBN website?
+63f569a51500007b00eb0a46,,138544,question,responseOption1,20175,form,Yes
+63f569a51500007b00eb0a46,,138544,question,responseOption2,20175,form,No
+63f569e41500007500eb0a49,,138545,question,questionText,20175,form,What is the company's NZBN status?
+63f569e41500007500eb0a49,,138545,question,responseOption1,20175,form,Active
+63f569e41500007500eb0a49,,138545,question,responseOption2,20175,form,Cancelled
+654d031d170000fb3e59362a,,146835,question,questionText,20175,form,Please indicate where your company is established:
+654d031d170000fb3e59362a,,146835,question,responseOption1,20175,form,Yes
+654d031d170000fb3e59362a,,146835,question,responseOption2,20175,form,No
+654d034a1800007d071ede1e,,146836,question,questionText,20175,form,"If Other, please explain:"
+654d034a1800007d071ede1e,,146836,question,responseOption1,20175,form,Yes
+654d034a1800007d071ede1e,,146836,question,responseOption2,20175,form,No
+654d03a3180000da071ede21,,146837,question,questionText,20175,form,Please explain why:
+654d03a3180000da071ede21,,146837,question,responseOption1,20175,form,Yes
+654d03a3180000da071ede21,,146837,question,responseOption2,20175,form,No
+654d040818000066071ede24,,146838,question,questionText,20175,form,Please explain why:
+654d040818000066071ede24,,146838,question,responseOption1,20175,form,Yes
+654d040818000066071ede24,,146838,question,responseOption2,20175,form,No
+654d042c180000d6071ede26,,146839,question,questionText,20175,form,Please explain why:
+654d042c180000d6071ede26,,146839,question,responseOption1,20175,form,Yes
+654d042c180000d6071ede26,,146839,question,responseOption2,20175,form,No
+654d0446170000023f593632,,146840,question,questionText,20175,form,Please explain why:
+654d0446170000023f593632,,146840,question,responseOption1,20175,form,Yes
+654d0446170000023f593632,,146840,question,responseOption2,20175,form,No
+654d0af3170000fb3e59367e,,146841,question,questionText,20175,form,Please indicate your company's business entity / form of business within this country.
+654d0af3170000fb3e59367e,,146841,question,responseOption1,20175,form,Sole Proprietorship
+654d0af3170000fb3e59367e,,146841,question,responseOption2,20175,form,Partnership
+654d0af3170000fb3e59367e,,146841,question,responseOption3,20175,form,Limited liability partnership (LLP)
+654d0af3170000fb3e59367e,,146841,question,responseOption4,20175,form,Company Limited by Shares (LTD)
+654d0af3170000fb3e59367e,,146841,question,responseOption5,20175,form,Cooperative
+654d0af3170000fb3e59367e,,146841,question,responseOption6,20175,form,Branch Office
+654d0af3170000fb3e59367e,,146841,question,responseOption7,20175,form,Foreign entity with no local fiscal presence
+654d0af3170000fb3e59367e,,146841,question,responseOption8,20175,form,Other

@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+658c69561900005436190caa,657b449f180000a73bb1200d,40918,questionGroup,questionGroupText,40918,form,Avetta PQF - Mexico REPSE
+657b44ac180000b03bb1200e,,148319,question,questionText,40918,form,"Is your company registered with <a href\t= ""https://repse.stps.gob.mx""target=""_BLANK_"">REPSE</a>? "
+657b44ac180000b03bb1200e,,148319,question,responseOption1,40918,form,Yes
+657b44ac180000b03bb1200e,,148319,question,responseOption2,40918,form,No
+657b44d91b00009c4c80c8e0,,148320,question,questionText,40918,form,Please explain below:
+657b44d91b00009c4c80c8e0,,148320,question,responseOption1,40918,form,Not conducting specialized work
+657b44d91b00009c4c80c8e0,,148320,question,responseOption2,40918,form,Foreign company
+657b44d91b00009c4c80c8e0,,148320,question,responseOption3,40918,form,Other
+657b44fb1b0000944c80c8e3,,148321,question,questionText,40918,form,Please explain: 
+657b44fb1b0000944c80c8e3,,148321,question,responseOption1,40918,form,Yes
+657b44fb1b0000944c80c8e3,,148321,question,responseOption2,40918,form,No
+657b45071b0000974c80c8e4,,148322,question,questionText,40918,form,"Please upload a copy of your REPSE document <a href\t= ""/file-preview.html?fileId=2023-12-14T18%3A13%3A19.842Z~~*UkVQU0UgU2FtcGxlLmpwZw%3D%3D""target=""_BLANK_""> (sample attached):\n</a>\n\n"
+657b45071b0000974c80c8e4,,148322,question,responseOption1,40918,form,Yes
+657b45071b0000974c80c8e4,,148322,question,responseOption2,40918,form,No

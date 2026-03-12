@@ -1,0 +1,53 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5e38a80d36000064e4d39d0b,5cdefc9b3300006047dbca7e,26651,questionGroup,questionGroupText,26651,form,FRA Part 219 Specific Section
+5cdefd8138000011582ce41f,5cdefd8138000011582ce41e,26652,questionGroup,questionGroupText,26651,form,FRA Part 219
+5cdf053a360000372389f678,5cdf053a360000372389f677,26654,questionGroup,questionGroupText,26651,form,General Information
+5cdf0b00360000372389f6b2,5cdf0b00360000372389f6b1,26656,questionGroup,questionGroupText,26651,form,Grandfathered Employees
+5e38a71e3500008393b765d3,5cdf0d4c3300006047dbcaad,26657,questionGroup,questionGroupText,26651,form,Random Drug and Alcohol Testing Plan
+5cdf0f883300006047dbcab6,5cdf0f883300006047dbcab5,26658,questionGroup,questionGroupText,26651,form,Testing Programs
+5dd56df53100002198dd1200,5dd56df53100002198dd11ff,27880,questionGroup,questionGroupText,26651,form,Confirmation
+5cdefdbe38000011582ce421,,83636,question,description,26651,form,[FRA.dot.gov](https://www.fra.dot.gov/eLib/details/L17465)
+5cdefdbe38000011582ce421,,83636,question,questionText,26651,form,### Regulated Employees\nTotal number of regulated “Hours of Service” employees at the time of this submission:
+5cdefdbf360000372389f670,,83637,question,description,26651,form,[FRA.dot.gov](https://www.fra.dot.gov/eLib/details/L17465)
+5cdefdbf360000372389f670,,83637,question,questionText,26651,form,Total number of regulated “Roadway Worker” employees at the time of this submission:
+5cdefdbf34000041a1514dbc,,83638,question,description,26651,form,The following links can help you identify a consortium:\n[SAPAA.com](http://www.sapaa.com/)\n[DATIA.org](http://www.datia.org/)
+5cdefdbf34000041a1514dbc,,83638,question,questionText,26651,form,"If 200 or more Roadway Workers, are you using a Third Party Administrator (TPA), or is your Drug and Alcohol Testing performed in house?"
+5cdefdbf34000041a1514dbc,,83638,question,responseOption1,26651,form,TPA
+5cdefdbf34000041a1514dbc,,83638,question,responseOption2,26651,form,In House
+5cdefdc03300006047dbca82,,83639,question,description,26651,form,The following links can help you identify a consortium:\n[SAPAA.com](http://www.sapaa.com/)\n[DATIA.org](http://www.datia.org/)
+5cdefdc03300006047dbca82,,83639,question,questionText,26651,form,"If 199 or fewer Roadway Workers, are you using a TPA that has at least 200 Roadway Workers in its consortium? "
+5cdefdc03300006047dbca82,,83639,question,responseOption1,26651,form,Yes
+5cdefdc03300006047dbca82,,83639,question,responseOption2,26651,form,No
+5cdefdc138000011582ce422,,83640,question,questionText,26651,form,### Consortium Information:\nName:\nPhone Number:\nEmail Address:
+5cdf007434000041a1514dbd,,83641,question,questionText,26651,form,"I confirm that all data and documentation provided in this section is current, accurate and fully complete."
+5cdf05d534000041a1514dc4,,83642,question,description,26651,form,DER changes result in modification of your random plan and will require you to resubmit your Random Drug & Alcohol Plan for acceptance. Please note that the contact information such as phone number must be the number where the DER can be reached 24/7.
+5cdf05d534000041a1514dc4,,83642,question,questionText,26651,form,### Enter your company’s Designated Employer Representative (DER) for Part 219 compliance:\nName:\nPhone Number:\nEmail Address:\nDate DER was assigned to position:
+5cdf05d8360000372389f679,,83643,question,questionText,26651,form,"### If using a Third Party Administrator (TPA), list the TPA’s information below:\nName:\nAddress:\nPhone Number:\nEmail Address:"
+5cdf05dc38000011582ce427,,83644,question,description,26651,form,Changes to your company’s MRO will result in modification to your random plan and will require you to resubmit your Random Drug & Alcohol Plan for acceptance. Please note that the contact information such as phone number must be the number where the MRO can be reached 24/7.
+5cdf05dc38000011582ce427,,83644,question,questionText,26651,form,### Enter your Medical Review Officer (MRO) information below: \nName:\nPhone Number:\nEmail Address:\nDate MRO was assigned to position:
+5cdf05e03300006047dbca8a,,83645,question,questionText,26651,form,### Enter details about the Testing Laboratory used:\nCompany Name:\nAddress:\nPhone Number:
+5cdf05e334000041a1514dc5,,83646,question,questionText,26651,form,"I confirm that all data and documentation provided in this section is current, accurate and fully complete."
+5cdf0a9e38000011582ce45b,,83647,question,questionText,26651,form,"Provide a list of all individuals employed as Roadway Workers as of June 11, 2017. The list should include first & last name and the last 4 digits of the Roadway Worker’s SSN or employee number."
+5cdf0a9f360000372389f6ab,,83648,question,questionText,26651,form,"Does your company confirm that you have a copy of a Release of Information form, in accordance with 49 CFR Part 40 Section 40.25 for each employee listed on your grandfathered employee list?"
+5cdf0a9f360000372389f6ab,,83648,question,responseOption1,26651,form,Yes
+5cdf0a9f360000372389f6ab,,83648,question,responseOption2,26651,form,No
+5cdf0c4334000041a1514dcf,,83649,question,description,26651,form,[Model Part 219 Railroad Contractor Drug and Alcohol Compliance Plan](https://www.fra.dot.gov/eLib/details/L02815)
+5cdf0c4334000041a1514dcf,,83649,question,questionText,26651,form,Has your company’s Random Drug and Alcohol Testing Plan been submitted to the FRA?
+5cdf0c4334000041a1514dcf,,83649,question,responseOption1,26651,form,Yes
+5cdf0c4334000041a1514dcf,,83649,question,responseOption2,26651,form,No
+5cdf0c6734000041a1514dd0,,83650,question,questionText,26651,form,Enter the date the plan was submitted:
+5cdf0c6b3300006047dbcaa9,,83651,question,questionText,26651,form,Attach a copy of the plan submitted:
+5cdf0ca93300006047dbcaaa,,83652,question,questionText,26651,form,Upload a copy of the email from the FRA acknowledging receipt of submitted plan:
+5cdf0d24360000372389f6b4,,83654,question,questionText,26651,form,"I confirm that our company complies with the requirements of Part 219 for regulated employee workers that perform duties that include inspection, construction, maintenance or repair (1) of railroad track, bridges, roadways, signal and communications systems, electric traction systems, roadway facilities or roadway maintenance machinery (2) on or near track or with the potential of fouling a track, and flagmen and watchmen/lookouts as defined in 49 CFR 214."
+5cdf0e9c3300006047dbcab2,,83655,question,questionText,26651,form,"### Pre-Employment Testing\nDoes your company maintain a copy of a Release of Information form, in accordance with 49 CFR Part 40 Section 40.25 for each employee performing regulated service hired after June 12th, 2017?"
+5cdf0e9c3300006047dbcab2,,83655,question,responseOption1,26651,form,Yes
+5cdf0e9c3300006047dbcab2,,83655,question,responseOption2,26651,form,No
+5cdf0e9d38000011582ce483,,83656,question,questionText,26651,form,"Does your company maintain documentation of a negative DOT FRA pre-employment drug test for each employee performing FRA regulated service (except those grandfathered in regulated service on June 12th, 2017)?"
+5cdf0e9d38000011582ce483,,83656,question,responseOption1,26651,form,Yes
+5cdf0e9d38000011582ce483,,83656,question,responseOption2,26651,form,No
+5cdf0e9d360000372389f6ba,,83657,question,questionText,26651,form,### Reasonable Cause Testing\nDoes your company perform Reasonable Cause Testing?
+5cdf0e9d360000372389f6ba,,83657,question,responseOption1,26651,form,Yes
+5cdf0e9d360000372389f6ba,,83657,question,responseOption2,26651,form,No
+5cdf0e9e3300006047dbcab3,,83658,question,questionText,26651,form,What authority does your company use for conducting reasonable cause testing?
+5cdf0e9e3300006047dbcab3,,83658,question,responseOption1,26651,form,Federal
+5cdf0e9e3300006047dbcab3,,83658,question,responseOption2,26651,form,Company

@@ -1,0 +1,102 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+429bef505049437d5585c0c4,,80,question,description,20048,form,"<a href=""http://www.dnb.co.uk"" target=""_BLANK"">D&B</a>"
+429bef505049437d5585c0c4,,80,question,questionText,20048,form,D&B Financial Rating (indicate N/A if your company does not have one):
+429d40d0504943b97fd062d8,,97,question,description,20048,form,"<a href=""http://www.dnb.co.uk"" target=""_BLANK"">D&B</a>"
+429d40d0504943b97fd062d8,,97,question,questionText,20048,form,DUNS #:
+5480a260504943f38d6c2ce4,5480a260504943f38d6c2ce4,6202,questionGroup,questionGroupText,20048,form,Credit
+5480a4205049432238469612,5480a4205049432238469612,6203,questionGroup,questionGroupText,20048,form,Publicly Traded Company
+5480a45a504943ea43df8f5b,5480a45a504943ea43df8f5b,6204,questionGroup,questionGroupText,20048,form,Americas
+5480a4705049439f026c5d24,5480a4705049439f026c5d24,6205,questionGroup,questionGroupText,20048,form,"Europe, Middle East & Africa"
+5480a48e50494330ca8edf8a,5480a48e50494330ca8edf8a,6206,questionGroup,questionGroupText,20048,form,Asia Pacific
+4de7c5355049438186c8a82c,,7822,question,description,20048,form,"<a href=""http://www.equifax.co.uk"" target=""_BLANK"">Equifax</a>"
+4de7c5355049438186c8a82c,,7822,question,questionText,20048,form,Equifax #:
+4de7c55750494376b3d78b1b,,7823,question,description,20048,form,
+4de7c55750494376b3d78b1b,,7823,question,questionText,20048,form,Moody's #:
+4de7c578504943e19be16977,,7824,question,description,20048,form,"<a href=""http://www.fitchratings.com"" target=""_BLANK"">Fitch</a>"
+4de7c578504943e19be16977,,7824,question,questionText,20048,form,Fitch #:
+4de7c599504943c23c26eff8,,7825,question,description,20048,form,
+4de7c599504943c23c26eff8,,7825,question,questionText,20048,form,Standard & Poor's #:
+5d389069370000d98192ef8d,5aadba9e2400006c00183e37,20048,questionGroup,questionGroupText,20048,form,Avetta PQF - Financial Work History
+547f82025049437f4c5e3811,,27551,question,questionText,20048,form,Is your company publicly traded?
+547f82025049437f4c5e3811,,27551,question,responseOptionNo,20048,form,No
+547f82025049437f4c5e3811,,27551,question,responseOptionYes,20048,form,Yes
+547f828450494349324353fe,,27552,question,questionText,20048,form,New York Stock Exchange (NYSE) - USA
+547f828450494349324353fe,,27552,question,responseOption1,20048,form,Click here if Applicable
+547f82a3504943650c2f434d,,27553,question,questionText,20048,form,S&P 500 Index - USA
+547f82a3504943650c2f434d,,27553,question,responseOption1,20048,form,Click here if Applicable
+547f82af5049439d2a940ad3,,27554,question,questionText,20048,form,NASDAQ - USA
+547f82af5049439d2a940ad3,,27554,question,responseOption1,20048,form,Click here if Applicable
+547f837f504943fcb6537004,,27555,question,questionText,20048,form,Hong Kong Stock Exchange (HKEx) - Hong Kong
+547f837f504943fcb6537004,,27555,question,responseOption1,20048,form,Click here if Applicable
+547f83a35049437b0c6ceee1,,27556,question,questionText,20048,form,Shanghai Stock Exchange (SSE) - China
+547f83a35049437b0c6ceee1,,27556,question,responseOption1,20048,form,Click here if Applicable
+547f83cc5049439f84d6caa3,,27557,question,questionText,20048,form,Shenzhen Stock Exchange (SZSE) - China
+547f83cc5049439f84d6caa3,,27557,question,responseOption1,20048,form,Click here if Applicable
+547f84e250494363674ca43a,,27558,question,questionText,20048,form,Bombay Stock Exchange (BSE) - India
+547f84e250494363674ca43a,,27558,question,responseOption1,20048,form,Click here if Applicable
+547f850850494344ff63109d,,27559,question,questionText,20048,form,National Stock Exchange of India Ltd. (NSE) - India
+547f850850494344ff63109d,,27559,question,responseOption1,20048,form,Click here if Applicable
+547f8535504943205458759f,,27560,question,questionText,20048,form,Australian Securities Exchange (ASX) - Australia
+547f8535504943205458759f,,27560,question,responseOption1,20048,form,Click here if Applicable
+547f8551504943594ea52556,,27561,question,questionText,20048,form,Korea Exchange (KRX) - Korea
+547f8551504943594ea52556,,27561,question,responseOption1,20048,form,Click here if Applicable
+547f85825049433dd025a2ca,,27562,question,questionText,20048,form,Tokyo Stock Exchange (TSE) - Japan
+547f85825049433dd025a2ca,,27562,question,responseOption1,20048,form,Click here if Applicable
+547f85c8504943e2bc2cc50c,,27563,question,questionText,20048,form,Taiwan Stock Exchange Corporation (TWSE) - Taiwan
+547f85c8504943e2bc2cc50c,,27563,question,responseOption1,20048,form,Click here if Applicable
+547f8678504943f7a47fe6d2,,27564,question,questionText,20048,form,London Stock Exchange - UK & Italy
+547f8678504943f7a47fe6d2,,27564,question,responseOption1,20048,form,Click here if Applicable
+547f86d65049437894cb342e,,27565,question,questionText,20048,form,SIX Swiss Exchange - Switzerland
+547f86d65049437894cb342e,,27565,question,responseOption1,20048,form,Click here if Applicable
+547f876b5049439e46a5c21b,,27566,question,questionText,20048,form,BM&F Bovespa - Brazil
+547f876b5049439e46a5c21b,,27566,question,responseOption1,20048,form,Click here if Applicable
+547f87a250494361f8d8926b,,27567,question,questionText,20048,form,Toronto Stock Exchange (TSX) - Canada
+547f87a250494361f8d8926b,,27567,question,responseOption1,20048,form,Click here if Applicable
+547f87c350494334f34f0b0a,,27568,question,questionText,20048,form,TSX Venture Exchange - Canada
+547f87c350494334f34f0b0a,,27568,question,responseOption1,20048,form,Click here if Applicable
+547f8808504943dc5c80abff,,27569,question,questionText,20048,form,Please select the regions in which your company is publicly traded: \nAmericas
+547f8808504943dc5c80abff,,27569,question,responseOption1,20048,form,Click here if Applicable
+547f8829504943ce4795609e,,27570,question,questionText,20048,form,"Europe, Middle East & Africa"
+547f8829504943ce4795609e,,27570,question,responseOption1,20048,form,Click here if Applicable
+547f883e504943700d601fc9,,27571,question,questionText,20048,form,Asia Pacific
+547f883e504943700d601fc9,,27571,question,responseOption1,20048,form,Click here if Applicable
+547f88d8504943807761f668,,27572,question,questionText,20048,form,JSE Limited - South Africa
+547f88d8504943807761f668,,27572,question,responseOption1,20048,form,Click here if Applicable
+547f89145049435869842ba7,,27573,question,questionText,20048,form,BME Spanish Exchanges (BME) - Spain
+547f89145049435869842ba7,,27573,question,responseOption1,20048,form,Click here if Applicable
+547f895e5049438b9e2d93d0,,27574,question,questionText,20048,form,Deutsche Börse AG - Germany
+547f895e5049438b9e2d93d0,,27574,question,responseOption1,20048,form,Click here if Applicable
+547f8a165049432108fc6f92,,27575,question,questionText,20048,form,Euronext - EU
+547f8a165049432108fc6f92,,27575,question,responseOption1,20048,form,Click here if Applicable
+547f8b30504943bb14a2158f,,27576,question,questionText,20048,form,Other
+547f8b30504943bb14a2158f,,27576,question,responseOption1,20048,form,Click here if Applicable
+547f8b46504943e92fb7ad8d,,27577,question,questionText,20048,form,Please list any other indices and the stock symbol for each one:
+547f8bbb504943cad4cf1f75,,27578,question,questionText,20048,form,Other
+547f8bbb504943cad4cf1f75,,27578,question,responseOption1,20048,form,Click here if Applicable
+547f8bd7504943ab1eda3bc8,,27579,question,questionText,20048,form,Please list any other indices and the stock symbol for each one:
+547f9f5f5049436e3c783068,,27581,question,questionText,20048,form,Other
+547f9f5f5049436e3c783068,,27581,question,responseOption1,20048,form,Click here if Applicable
+547f9f8b504943fe3cae9cef,,27582,question,questionText,20048,form,Please list any other indices and the stock symbol for each one:
+5480af6c5049435e5babf227,,27583,question,questionText,20048,form,Please provide your stock symbol:
+5480af9250494350a86f747c,,27584,question,questionText,20048,form,Please provide your stock symbol:
+5480afad5049433b4cba21e1,,27585,question,questionText,20048,form,Please provide your stock symbol:
+5480afd750494310c3e56b67,,27586,question,questionText,20048,form,Please provide your stock symbol:
+5480aff150494378ce8bc7c1,,27587,question,questionText,20048,form,Please provide your stock symbol:
+5480b013504943507acf0cb4,,27588,question,questionText,20048,form,Please provide your stock symbol:
+5480b04f50494339d083eba2,,27589,question,questionText,20048,form,Please provide your stock symbol:
+5480b071504943e629130ab5,,27590,question,questionText,20048,form,Please provide your stock symbol:
+5480b0905049436cbae682c9,,27591,question,questionText,20048,form,Please provide your stock symbol:
+5480b1375049435a5fe0549e,,27592,question,questionText,20048,form,Please provide your stock symbol:
+5480b28e50494372887baead,,27593,question,questionText,20048,form,Please provide your stock symbol:
+5480b2a450494312cebafd53,,27594,question,questionText,20048,form,Please provide your stock symbol:
+5480b2c15049438e8687a922,,27595,question,questionText,20048,form,Please provide your stock symbol:
+5480b2d7504943eab91ea5a9,,27596,question,questionText,20048,form,Please provide your stock symbol:
+5480b313504943990eb15967,,27597,question,questionText,20048,form,Please provide your stock symbol:
+5480b32e504943ab9245cfb9,,27598,question,questionText,20048,form,Please provide your stock symbol:
+5480b34d5049433a5742462d,,27599,question,questionText,20048,form,Please provide your stock symbol:
+5480b3665049438c58f6e7d3,,27600,question,questionText,20048,form,Please provide your stock symbol:
+5480b3805049434d7d6ebd24,,27601,question,questionText,20048,form,Please provide your stock symbol:
+5480b3a35049434138d9e34e,,27602,question,questionText,20048,form,Please provide your stock symbol:
+5480b3bc5049439dc6773890,,27603,question,questionText,20048,form,Please provide your stock symbol:
+585047aa504943267da1c063,,43137,question,description,20048,form,"<a href=""https://www.bkr.nl/"" target=""_BLANK"">BKR</a>"
+585047aa504943267da1c063,,43137,question,questionText,20048,form,BKR #:

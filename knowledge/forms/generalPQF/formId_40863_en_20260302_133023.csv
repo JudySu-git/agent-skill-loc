@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+657742471900000d01815be9,657742471900000d01815be9,40862,questionGroup,description,40863,form,You are receiving this category because you selected Veteran Disability-Owned Business Enterprise in the United States Supplier Diversity Certification Questionnaire.
+657742471900000d01815be9,657742471900000d01815be9,40862,questionGroup,questionGroupText,40863,form,Veteran Disability-Owned Business Enterprise
+667b462c010000080124708a,657742471900000d01815be8,40863,questionGroup,questionGroupText,40863,form,Avetta PQF - US Supplier Diversity: Veteran Disability-Owned Business Enterprise
+657742471900000d01815bea,,148062,question,questionText,40863,form,Please enter the issue date of your company’s Veteran Disability-Owned Business Enterprise certificate:
+657742471900000d01815bea,,148062,question,responseOption1,40863,form,Yes
+657742471900000d01815bea,,148062,question,responseOption2,40863,form,No
+657742471900000d01815beb,,148063,question,questionText,40863,form,Expiration Date:
+657742471900000d01815beb,,148063,question,responseOption1,40863,form,Yes
+657742471900000d01815beb,,148063,question,responseOption2,40863,form,No
+657742471900000d01815bec,,148064,question,questionText,40863,form,Certificate Number:
+657742471900000d01815bec,,148064,question,responseOption1,40863,form,Yes
+657742471900000d01815bec,,148064,question,responseOption2,40863,form,No
+657742471900000d01815bed,,148065,question,questionText,40863,form,Please upload a copy of your certification certificate:
+657742471900000d01815bed,,148065,question,responseOption1,40863,form,Yes
+657742471900000d01815bed,,148065,question,responseOption2,40863,form,No

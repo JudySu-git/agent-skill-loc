@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+607062ca43000090e862fd88,5a2f713f504943e925323714,12405,questionGroup,questionGroupText,20154,form,Policy Information
+5a2f7276504943c3937af5a6,5a2f7276504943c3937af5a6,12406,questionGroup,questionGroupText,20154,form,Policy Limits
+607063124500009d89bbc53b,5abe7559210000d601f29df3,20154,questionGroup,questionGroupText,20154,form,Property All Risk Policy
+5a2f719b5049434bda6b5914,,51390,question,questionText,20154,form,Date of Commencement:
+5a2f71ca504943b7c79f4bf5,,51391,question,questionText,20154,form,Expiration Date:
+5a2f72925049432cd71f7caf,,51393,question,questionText,20154,form,Limit of Liability
+5abe73c22100005801f29deb,,70082,question,description,20154,form,Property All Risks Certificate
+5abe73c22100005801f29deb,,70082,question,questionText,20154,form,Please upload your Property All Risks Certificate
+5d713c9c3600008ac65beb31,,86273,question,questionText,20154,form,Insurance Carrier:
+607062c84500009d89bbc277,,108617,question,description,20154,form,Used to provide instructions from Client
+607062c84500009d89bbc277,,108617,question,questionText,20154,form,Comments
+607062d84500009d89bbc2d8,,108618,question,description,20154,form,Date the instructions from Client expire
+607062d84500009d89bbc2d8,,108618,question,questionText,20154,form,VARIANCE Expiration Date
+62f53f3f82eb52eab3c18fc5,,130554,question,questionText,20154,form,Currency used in Certificate of Insurance (COI)

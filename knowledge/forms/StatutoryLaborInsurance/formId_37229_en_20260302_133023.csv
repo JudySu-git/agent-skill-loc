@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4e1de93a50494354f57f5b7a,,8063,question,questionText,37229,form,Account Number:
+63a4dad0180000e602fc43f8,632ca52a2e0000ca963324fc,37228,questionGroup,questionGroupText,37229,form,Alberta (Workers' Compensation Board of Alberta)
+6459896d1b0000b947408a59,632ca52a2e0000ca963324fb,37229,questionGroup,questionGroupText,37229,form,Alberta Clearance Letter
+632ca52a2e0000ca963324fe,,131429,question,questionText,37229,form,Please upload your Alberta Clearance Letter within 30 days* (date of upload)

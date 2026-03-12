@@ -1,0 +1,10 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67fe8f170100003c00c1010e,67fd6e5a0100005700b9379c,45322,questionGroup,questionGroupText,45322,form,MECO Corrective Action Plan (Advance Variance)
+67fd6e5a0100003a00b9379d,,167670,question,questionText,45322,form,Date Corrective Action Plan Completed
+67fd6e5a0100003b00b9379f,,167671,question,questionText,45322,form,Contractor Type of Work
+67fd6e5a0100003500b9379e,,167672,question,questionText,45322,form,Contractor Safety Manager Name
+67fd6e5a0100003b00b937a0,,167673,question,questionText,45322,form,Safety Manager Contact Information
+67fd6e5a0100003600b937a4,,167674,question,questionText,45322,form,Describe current deficiencies / incidents that necessitated development of corrective action / recovery plan
+67fd6e5a0100003a00b937a5,,167675,question,questionText,45322,form,Safety Corrective Action / Recovery Plan to prevent reoccurence
+67fd6e5a0100003b00b937a1,,167676,question,questionText,45322,form,Please attach any supplemental documentation
+67fd6e5a0100003600b937a6,,167677,question,questionText,45322,form,"By signing below, you confirm that the above is true and correct:"

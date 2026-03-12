@@ -1,0 +1,24 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67bce2710100003d00fd0701,6723bf18010000530091b13c,43821,questionGroup,questionGroupText,43821,form,Indonesia Workers' Social Security and Health Insurance
+6723c0b5010000380091b140,,161336,question,description,43821,form,https://www.bpjsketenagakerjaan.go.id\nhttps://www.bpjs-kesehatan.go.id
+6723c0b5010000380091b140,,161336,question,questionText,43821,form,Is your company required to register its employees with BPJS Ketenagakerjaan (Workers' Social Security) and BPJS Kesehatan (Health Insurance) as mandated by Indonesian law?
+6723c0b5010000380091b140,,161336,question,responseOption1,43821,form,Yes
+6723c0b5010000380091b140,,161336,question,responseOption2,43821,form,No
+6723c0ca0100003400aa6d44,,161337,question,description,43821,form,"You will be required to confirm that your company has adequate coverage for occupational health and safety risks, including any private insurance policies for foreign workers or employees who may not be covered under BPJS, in compliance with Indonesian labor laws."
+6723c0ca0100003400aa6d44,,161337,question,questionText,43821,form,Please select an option:
+6723c0ca0100003400aa6d44,,161337,question,responseOption1,43821,form,All employees in the company earn more than the BPJS contribution threshold of IDR 12 million per month.
+6723c0ca0100003400aa6d44,,161337,question,responseOption2,43821,form,The company employs only foreign workers who are not covered by BPJS but are insured under private insurance policies in compliance with Indonesian labor laws.
+6723c0ca0100003400aa6d44,,161337,question,responseOption3,43821,form,Other
+6723c0e70100004e00aa6d47,,161338,question,questionText,43821,form,Please explain
+6723c0e70100004e00aa6d47,,161338,question,responseOption1,43821,form,Yes
+6723c0e70100004e00aa6d47,,161338,question,responseOption2,43821,form,No
+6723c0f10100003300aa6d4a,,161339,question,questionText,43821,form,Has your company made all required contributions for the previous fiscal year?
+6723c0f10100003300aa6d4a,,161339,question,responseOption1,43821,form,Yes
+6723c0f10100003300aa6d4a,,161339,question,responseOption2,43821,form,No
+6723c0f8010000320091b144,,161340,question,description,43821,form,Please scan both receipts into one single doc. \nThe receipts must be issued within 3 months prior to the submission date.
+6723c0f8010000320091b144,,161340,question,questionText,43821,form,Please upload a copy of your latest receipts for both BPJS Ketenagakerjaan and BPJS Kesehatan
+6723c0f8010000320091b144,,161340,question,responseOption1,43821,form,Yes
+6723c0f8010000320091b144,,161340,question,responseOption2,43821,form,No
+6723c1090100003000aa6d4c,,161341,question,questionText,43821,form,Sign below to confirm the information and/or document provided is correct and updated
+6723c1090100003000aa6d4c,,161341,question,responseOption1,43821,form,Yes
+6723c1090100003000aa6d4c,,161341,question,responseOption2,43821,form,No

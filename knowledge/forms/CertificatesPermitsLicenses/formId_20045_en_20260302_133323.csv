@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4340bad05049432e64e5129a,,129,question,questionText,20045,form,What is your company's required general liability insurance limit?
+429d40d05049431e2ea7b05a,,131,question,questionText,20045,form,Is your company self-insured?
+429d40d05049433279af0f46,,133,question,questionText,20045,form,Does your company have a modified duty/return-to-work program?
+429d40d05049433279af0f46,,133,question,responseOptionNo,20045,form,No
+429d40d05049433279af0f46,,133,question,responseOptionYes,20045,form,Yes
+42d89450504943f873490bae,,301,question,questionText,20045,form,Within the last five years has there ever been a period when your firm had employees but was without workers' compensation insurance or self-insurance?
+42d89450504943f873490bae,,301,question,responseOptionNo,20045,form,No
+42d89450504943f873490bae,,301,question,responseOptionYes,20045,form,Yes
+429fe3d050494353e0b840ed,,302,question,questionText,20045,form,"If yes, please explain the reason for the absence of workers' compensation insurance."
+4cd0bf5e5049435d554c37b0,4cd0bf5e5049435d554c37b0,1194,questionGroup,questionGroupText,20045,form,US General Insurance Information
+5c182d6a37000085e6bfa031,5aadb4002400006c00183e1b,20045,questionGroup,questionGroupText,20045,form,Avetta PQF - United States Insurance Information

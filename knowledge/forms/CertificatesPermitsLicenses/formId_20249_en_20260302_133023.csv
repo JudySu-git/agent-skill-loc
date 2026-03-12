@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+60707d954500009d89bd4285,5755c9af504943fc3a602fed,588,questionGroup,questionGroupText,20249,form,Policy Information
+5755c9af504943bc419cb6c9,5755c9af504943bc419cb6c9,589,questionGroup,questionGroupText,20249,form,Policy Limits
+49820e615049435f9da1e336,,2278,question,questionText,20249,form,Policy Effective Date
+49820fda5049431a986f4e62,,2279,question,questionText,20249,form,Expiration Date:
+498210a5504943c4594ab7ca,,2282,question,questionText,20249,form,Policy Number
+49821203504943ab23e80ac9,,2284,question,questionText,20249,form,Each Occurrence
+4982128250494396ca29d34d,,2285,question,questionText,20249,form,Aggregate
+60707de943000090e864f991,5af4c4c52b0000c1036fbce5,20249,questionGroup,questionGroupText,20249,form,Marine Liability
+5af4c54c2b00009f006fbdf5,,70097,question,questionText,20249,form,Please upload Marine Liability file
+5d713bda35000005b1063105,,86269,question,questionText,20249,form,Insurance Carrier:
+60707d9343000090e864f2e8,,108728,question,description,20249,form,Used to provide instructions from Client
+60707d9343000090e864f2e8,,108728,question,questionText,20249,form,Comments
+60707da943000090e864f317,,108729,question,description,20249,form,Date the instructions from Client expire
+60707da943000090e864f317,,108729,question,questionText,20249,form,VARIANCE Expiration Date
+62f53f2282eb52eab3c18f93,,130504,question,questionText,20249,form,Currency used in Certificate of Insurance (COI)

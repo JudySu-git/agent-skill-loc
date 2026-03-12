@@ -1,0 +1,18 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61c4c00e2f00001908ad9088,5e8b7e53370000e1c83e9406,29014,questionGroup,questionGroupText,29014,form,Avetta PQF - Legal (Australia)
+5e8b7e6b340000c1412bc81d,,92764,question,questionText,29014,form,"Has your organisation or a related Company (being your organisation’s holding company or subsidiary or another subsidiary of your holding company) been the subject of a regulatory or law enforcement agency investigation in the past 3 years by any of: the ATO, ASIC, the ACCC, an Ombudsman, Police or a State or Federal Agency where the Agency’s enquiry related to safety or employee entitlements?\n"
+5e8b7e6b340000c1412bc81d,,92764,question,responseOption1,29014,form,Yes
+5e8b7e6b340000c1412bc81d,,92764,question,responseOption2,29014,form,No
+5e8b7e77350000dfb5d14403,,92765,question,questionText,29014,form,"If yes, please provide details\n"
+5e8b7e7f350000dfb5d144b2,,92766,question,questionText,29014,form,"Has your organisation, or a related Company of your organisation (being your organisation’s holding company or subsidiary or another subsidiary of your holding company), had any legal proceedings brought against it in the past 3 years or been made aware of any threatened or pending litigation which may have a material adverse impact on your organisation’s capacity to continue to operate at its current performance level and profitability.\n"
+5e8b7e7f350000dfb5d144b2,,92766,question,responseOption1,29014,form,Yes
+5e8b7e7f350000dfb5d144b2,,92766,question,responseOption2,29014,form,No
+5e8b7e8b370000e1c83e95f4,,92767,question,questionText,29014,form,"If yes, please provide details\n"
+5e8b7e93360000e1c85e66c4,,92770,question,questionText,29014,form,"Has your organisation or a related Company of your organisation (being your organisation’s holding company or another subsidiary of your holding company) in the last 12 months had a receiver, liquidator, manager administrator, controller or similar officer appointed in respect of it or any of its assets or been the subject of any application made, order made, meeting convened or resolution passed for the purpose of appointing such a person, winding up or deregistering your (or your related Company’s) organisation or proposing to implement a scheme or arrangement?\n"
+5e8b7e93360000e1c85e66c4,,92770,question,responseOption1,29014,form,Yes
+5e8b7e93360000e1c85e66c4,,92770,question,responseOption2,29014,form,No
+5e8b7e9e370000e1c83e9684,,92772,question,questionText,29014,form,"If yes, please provide details\n"
+5e8b7ea6370000e1c83e96ac,,92774,question,questionText,29014,form,Has your organisation had any contracts terminated in the last [12] months due to your default?\n
+5e8b7ea6370000e1c83e96ac,,92774,question,responseOption1,29014,form,Yes
+5e8b7ea6370000e1c83e96ac,,92774,question,responseOption2,29014,form,No
+5e8b7eb2340000c1412bc9f3,,92776,question,questionText,29014,form,"If yes, please provide details\n"

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6581c348180000883b6e8b2b,5dfd1eea320000fe2d7bf164,28374,questionGroup,questionGroupText,28374,form,Avetta PQF - US Supplier Diversity: LGBTQ+ Owned Business
+6580ea1a180000c53a6e75d9,5dfd1f423400009d4b127cdb,28375,questionGroup,description,28374,form,You are receiving this category because you selected LGBTQ+ Owned Business in the United States Supplier Diversity Certification Questionnaire.
+6580ea1a180000c53a6e75d9,5dfd1f423400009d4b127cdb,28375,questionGroup,questionGroupText,28374,form,LGBTQ+ Owned Business
+572d204c504943ad041f934f,,37545,question,questionText,28374,form,Please indicate the certifying body / certificate issuer for your company’s LGBTQ+ Owned Business certification.
+572d204c504943ad041f934f,,37545,question,responseOptionNGLCC,28374,form,National LGBT Chamber of Commerce (NGLCC)
+572d204c504943ad041f934f,,37545,question,responseOptionOther,28374,form,Other / Not Listed
+572d20835049437e6f1c5e7f,,37548,question,questionText,28374,form,Not Listed was selected; please specify:
+5dfd21413700001c1f320532,,90293,question,questionText,28374,form,Issue Date:
+5dfd216b3700009d4b7942a2,,90294,question,questionText,28374,form,Expiration Date:
+5dfd217b3400009d4b12dd8a,,90295,question,questionText,28374,form,Certificate Number:
+5dfd2187320000fe2d7c41a7,,90296,question,questionText,28374,form,Please Upload a copy of your certification certificate:

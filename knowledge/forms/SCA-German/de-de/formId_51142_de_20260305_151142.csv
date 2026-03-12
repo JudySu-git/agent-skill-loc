@@ -1,0 +1,24 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87733a36b6c4c63546691,69a87733a36b6c4c63546690,51142,questionGroup,questionGroupText,51142,form,Bau - Abbruch,
+69a87732a36b6c4c63546688,,199955,question,description,51142,form,"Der bauliche Zustand des Gebäudes und der angrenzenden Bauwerke muss vor Beginn des Abbruchs von einem qualifizierten Sachverständigen beurteilt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 110(1), 111(1), 118(6)</a>",
+69a87732a36b6c4c63546688,,199955,question,questionText,51142,form,Bauliche Beurteilung (Vor Arbeitsbeginn),
+69a87732a36b6c4c63546689,,199956,question,description,51142,form,"Gefährliche, brennbare oder explosive Stoffe müssen vor Beginn des Abbruchs entfernt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 110(2, 5, 7)</a>",
+69a87732a36b6c4c63546689,,199956,question,questionText,51142,form,Entfernung gefährlicher Stoffe,
+69a87732a36b6c4c6354668a,,199957,question,description,51142,form,"Die Lage von Versorgungsleitungen und die damit verbundenen Sicherheitsmaßnahmen müssen vor Beginn des Abbruchs ermittelt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 110(5)(5), 111(2), 112(5)</a>",
+69a87732a36b6c4c6354668a,,199957,question,questionText,51142,form,Sicherheitsmaßnahmen für Versorgungsleitungen,
+69a87732a36b6c4c6354668b,,199958,question,description,51142,form,"Die Ansammlung von Abbruchmaterial muss kontrolliert werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 111(5), 112(4), 114(2)(2)</a>",
+69a87732a36b6c4c6354668b,,199958,question,questionText,51142,form,Kontrolle von Abbruchmaterial,
+69a87732a36b6c4c6354668c,,199959,question,description,51142,form,"Während der Abbrucharbeiten muss das Verhalten des abzubrechenden Bauwerks überwacht werden. Vor dem Demontieren von Holz- oder Metallkonstruktionen müssen deren Verbindungen vom Vorgesetzten geprüft werden, und die Bauteile müssen beim Demontieren bei Bedarf abgestützt werden. Die Standsicherheit muss nach Witterungseinflüssen, Erschütterungen oder Unterbrechungen erneut geprüft werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 111(1, 7), 114(3), 115(3)</a>",
+69a87732a36b6c4c6354668c,,199959,question,questionText,51142,form,Überprüfung,
+69a87732a36b6c4c6354668d,,199960,question,description,51142,form,"Im Gefahrenbereich dürfen nur die unbedingt erforderlichen Maschinenbediener verbleiben, alle anderen Personen müssen außerhalb des Gefahrenbereichs bleiben. Während Greifoperationen müssen sich Personen außerhalb des Gefahrenbereichs aufhalten.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 115(4), 117(6), 118(7)</a>",
+69a87732a36b6c4c6354668d,,199960,question,questionText,51142,form,Zugangsbeschränkung,
+69a87732a36b6c4c6354668e,,199961,question,description,51142,form,"Geeignete und qualifizierte Abbruchmaschinenführer müssen ihre körperliche, geistige und fachliche Eignung für die jeweiligen Aufgaben nachweisen. Die Eignung muss auf einen sicheren Gerätebetrieb ausgerichtet sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 5(4)</a>",
+69a87732a36b6c4c6354668e,,199961,question,questionText,51142,form,Qualifiziertes Personal,
+69a87732a36b6c4c6354668f,,199962,question,questionText,51142,form,<div></div>,

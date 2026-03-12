@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4caa1f87504943522bd46c1e,4caa1f87504943522bd46c1e,1044,questionGroup,questionGroupText,1044,category,PSC Subcontractor Vendor-Services on Client Site
+4caa21f1504943b3cf411aa5,,4967,question,questionText,1044,category,This insurance policy complies with all additional PSC Subcontractor Vendor-Services on Client Site requirements.
+4caa21f1504943b3cf411aa5,,4967,question,responseOptionNo,1044,category,No
+4caa21f1504943b3cf411aa5,,4967,question,responseOptionYes,1044,category,Yes
+4caa2094504943a04734f1ae,,5671,question,questionText,1044,category,Upload a Certificate of Insurance or other supporting documentation for this policy.

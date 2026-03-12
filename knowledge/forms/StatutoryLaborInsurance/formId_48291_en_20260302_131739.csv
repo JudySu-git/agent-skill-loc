@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68eff1980100004200c8af5c,68efeed70100003b00983fd6,48291,questionGroup,description,48291,form,"If your company is required to comply with Taiwan's Labor Insurance requirements, you will be asked to provide relevant documents in a subsequent form(s)."
+68eff1980100004200c8af5c,68efeed70100003b00983fd6,48291,questionGroup,questionGroupText,48291,form,Taiwan Labor Insurance Applicability Assessment
+68efef0c0100004300983fe2,,184414,question,description,48291,form,"All employers in Taiwan must enroll eligible employees in Labor Insurance under the supervision of the Bureau of Labor Insurance (BLI), Ministry of Labor, as mandated by <a href = ""https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0050001"" target = ""_BLANK_"" >the Labor Insurance Act and related regulations</a>. \n\n\n"
+68efef0c0100004300983fe2,,184414,question,questionText,48291,form,Is your company required to comply with Taiwan's Labor Insurance requirements as regulated by the Bureau of Labor Insurance and maintain applicable documentation to show compliance?
+68efef0c0100004300983fe2,,184414,question,responseOption1,48291,form,Yes
+68efef0c0100004300983fe2,,184414,question,responseOption2,48291,form,No
+68efef5b0100004100983fe4,,184415,question,description,48291,form,"Descriptions of an insured and an ineligible individual can be found in <a href = ""https://laws.mol.gov.tw/Eng/FLAWDAT0201.aspx?id=FL014981"" target = ""_BLANK_"" >Section 3 of the Labor Insurance Act</a>.\n\n\n"
+68efef5b0100004100983fe4,,184415,question,questionText,48291,form,Please select from the following reason(s) your company is exempt from complying with Taiwan's Labor Insurance requirements.
+68efef5b0100004100983fe4,,184415,question,responseOption1,48291,form,The company is a sole proprietorship with no other employees. 
+68efef5b0100004100983fe4,,184415,question,responseOption2,48291,form,The company does not have any employees in Taiwan.
+68efef5b0100004100983fe4,,184415,question,responseOption3,48291,form,"The company is a civil service, a state-run school solely employing teachers, or a military branch, covered by another insurance scheme."
+68efef5b0100004100983fe4,,184415,question,responseOption4,48291,form,Other
+68efef8c0100004200c8af3f,,184416,question,questionText,48291,form,"If ""other"", please explain."

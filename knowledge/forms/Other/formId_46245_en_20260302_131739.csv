@@ -1,0 +1,237 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6849cd880100001302974bf7,68485cf8010000ed00924cd2,46245,questionGroup,questionGroupText,46245,form,Foreign Chamber of Commerce Registration
+68485e84010000ed00924cdc,,174817,question,description,46245,form,Select the country where your company is officially incorporated and maintains its legal registration. This should be the same country listed in your company's official registration documents.
+68485e84010000ed00924cdc,,174817,question,questionText,46245,form,Please select the country in which your company is legally domiciled and registered.
+68485e84010000ed00924cdc,,174817,question,responseOption1,46245,form,Afghanistan
+68485e84010000ed00924cdc,,174817,question,responseOption10,46245,form,Argentina
+68485e84010000ed00924cdc,,174817,question,responseOption100,46245,form,Isle of Man
+68485e84010000ed00924cdc,,174817,question,responseOption101,46245,form,Israel
+68485e84010000ed00924cdc,,174817,question,responseOption102,46245,form,Italy
+68485e84010000ed00924cdc,,174817,question,responseOption103,46245,form,Jamaica
+68485e84010000ed00924cdc,,174817,question,responseOption104,46245,form,Japan
+68485e84010000ed00924cdc,,174817,question,responseOption105,46245,form,Jersey
+68485e84010000ed00924cdc,,174817,question,responseOption106,46245,form,Jordan
+68485e84010000ed00924cdc,,174817,question,responseOption107,46245,form,Kazakhstan
+68485e84010000ed00924cdc,,174817,question,responseOption108,46245,form,Kenya
+68485e84010000ed00924cdc,,174817,question,responseOption109,46245,form,Kiribati
+68485e84010000ed00924cdc,,174817,question,responseOption11,46245,form,Armenia
+68485e84010000ed00924cdc,,174817,question,responseOption110,46245,form,Korea (Democratic People's Republic of)
+68485e84010000ed00924cdc,,174817,question,responseOption111,46245,form,"Korea, Republic of"
+68485e84010000ed00924cdc,,174817,question,responseOption112,46245,form,Kosovo
+68485e84010000ed00924cdc,,174817,question,responseOption113,46245,form,Kuwait
+68485e84010000ed00924cdc,,174817,question,responseOption114,46245,form,Kyrgyzstan
+68485e84010000ed00924cdc,,174817,question,responseOption115,46245,form,Lao People's Democratic Republic
+68485e84010000ed00924cdc,,174817,question,responseOption116,46245,form,Latvia
+68485e84010000ed00924cdc,,174817,question,responseOption117,46245,form,Lebanon
+68485e84010000ed00924cdc,,174817,question,responseOption118,46245,form,Lesotho
+68485e84010000ed00924cdc,,174817,question,responseOption119,46245,form,Liberia
+68485e84010000ed00924cdc,,174817,question,responseOption12,46245,form,Aruba
+68485e84010000ed00924cdc,,174817,question,responseOption120,46245,form,Libya
+68485e84010000ed00924cdc,,174817,question,responseOption121,46245,form,Liechtenstein
+68485e84010000ed00924cdc,,174817,question,responseOption122,46245,form,Lithuania
+68485e84010000ed00924cdc,,174817,question,responseOption123,46245,form,Luxembourg
+68485e84010000ed00924cdc,,174817,question,responseOption124,46245,form,Macau
+68485e84010000ed00924cdc,,174817,question,responseOption125,46245,form,Madagascar
+68485e84010000ed00924cdc,,174817,question,responseOption126,46245,form,Malawi
+68485e84010000ed00924cdc,,174817,question,responseOption127,46245,form,Malaysia
+68485e84010000ed00924cdc,,174817,question,responseOption128,46245,form,Maldives
+68485e84010000ed00924cdc,,174817,question,responseOption129,46245,form,Mali
+68485e84010000ed00924cdc,,174817,question,responseOption13,46245,form,Australia
+68485e84010000ed00924cdc,,174817,question,responseOption130,46245,form,Malta
+68485e84010000ed00924cdc,,174817,question,responseOption131,46245,form,Marshall Islands
+68485e84010000ed00924cdc,,174817,question,responseOption132,46245,form,Mauritania
+68485e84010000ed00924cdc,,174817,question,responseOption133,46245,form,Mauritius
+68485e84010000ed00924cdc,,174817,question,responseOption134,46245,form,Mexico
+68485e84010000ed00924cdc,,174817,question,responseOption135,46245,form,Micronesia (Federated States of)
+68485e84010000ed00924cdc,,174817,question,responseOption136,46245,form,"Moldova, Republic of"
+68485e84010000ed00924cdc,,174817,question,responseOption137,46245,form,Monaco
+68485e84010000ed00924cdc,,174817,question,responseOption138,46245,form,Mongolia
+68485e84010000ed00924cdc,,174817,question,responseOption139,46245,form,Montenegro
+68485e84010000ed00924cdc,,174817,question,responseOption14,46245,form,Austria
+68485e84010000ed00924cdc,,174817,question,responseOption140,46245,form,Montserrat
+68485e84010000ed00924cdc,,174817,question,responseOption141,46245,form,Morocco
+68485e84010000ed00924cdc,,174817,question,responseOption142,46245,form,Mozambique
+68485e84010000ed00924cdc,,174817,question,responseOption143,46245,form,Myanmar
+68485e84010000ed00924cdc,,174817,question,responseOption144,46245,form,Namibia
+68485e84010000ed00924cdc,,174817,question,responseOption145,46245,form,Nauru
+68485e84010000ed00924cdc,,174817,question,responseOption146,46245,form,Nepal
+68485e84010000ed00924cdc,,174817,question,responseOption147,46245,form,Netherlands
+68485e84010000ed00924cdc,,174817,question,responseOption148,46245,form,Netherlands Antilles
+68485e84010000ed00924cdc,,174817,question,responseOption149,46245,form,New Caledonia
+68485e84010000ed00924cdc,,174817,question,responseOption15,46245,form,Azerbaijan
+68485e84010000ed00924cdc,,174817,question,responseOption150,46245,form,New Zealand
+68485e84010000ed00924cdc,,174817,question,responseOption151,46245,form,Nicaragua
+68485e84010000ed00924cdc,,174817,question,responseOption152,46245,form,Niger
+68485e84010000ed00924cdc,,174817,question,responseOption153,46245,form,Nigeria
+68485e84010000ed00924cdc,,174817,question,responseOption154,46245,form,Niue
+68485e84010000ed00924cdc,,174817,question,responseOption155,46245,form,North Macedonia
+68485e84010000ed00924cdc,,174817,question,responseOption156,46245,form,Northern Mariana Islands
+68485e84010000ed00924cdc,,174817,question,responseOption157,46245,form,Norway
+68485e84010000ed00924cdc,,174817,question,responseOption158,46245,form,Oman
+68485e84010000ed00924cdc,,174817,question,responseOption159,46245,form,Pakistan
+68485e84010000ed00924cdc,,174817,question,responseOption16,46245,form,Bahamas
+68485e84010000ed00924cdc,,174817,question,responseOption160,46245,form,Palau
+68485e84010000ed00924cdc,,174817,question,responseOption161,46245,form,Palestine
+68485e84010000ed00924cdc,,174817,question,responseOption162,46245,form,Panama
+68485e84010000ed00924cdc,,174817,question,responseOption163,46245,form,Papua New Guinea
+68485e84010000ed00924cdc,,174817,question,responseOption164,46245,form,Paraguay
+68485e84010000ed00924cdc,,174817,question,responseOption165,46245,form,Peru
+68485e84010000ed00924cdc,,174817,question,responseOption166,46245,form,Philippines
+68485e84010000ed00924cdc,,174817,question,responseOption167,46245,form,Poland
+68485e84010000ed00924cdc,,174817,question,responseOption168,46245,form,Portugal
+68485e84010000ed00924cdc,,174817,question,responseOption169,46245,form,Puerto Rico
+68485e84010000ed00924cdc,,174817,question,responseOption17,46245,form,Bahrain
+68485e84010000ed00924cdc,,174817,question,responseOption170,46245,form,Qatar
+68485e84010000ed00924cdc,,174817,question,responseOption171,46245,form,Romania
+68485e84010000ed00924cdc,,174817,question,responseOption172,46245,form,Russian Federation
+68485e84010000ed00924cdc,,174817,question,responseOption173,46245,form,Rwanda
+68485e84010000ed00924cdc,,174817,question,responseOption174,46245,form,Saint Helena
+68485e84010000ed00924cdc,,174817,question,responseOption175,46245,form,Saint Kitts and Nevis
+68485e84010000ed00924cdc,,174817,question,responseOption176,46245,form,Saint Lucia
+68485e84010000ed00924cdc,,174817,question,responseOption177,46245,form,Saint Pierre and Miquelon
+68485e84010000ed00924cdc,,174817,question,responseOption178,46245,form,Saint Vincent and the Grenadines
+68485e84010000ed00924cdc,,174817,question,responseOption179,46245,form,Samoa
+68485e84010000ed00924cdc,,174817,question,responseOption18,46245,form,Bangladesh
+68485e84010000ed00924cdc,,174817,question,responseOption180,46245,form,San Marino
+68485e84010000ed00924cdc,,174817,question,responseOption181,46245,form,Sao Tome and Principe
+68485e84010000ed00924cdc,,174817,question,responseOption182,46245,form,Saudi Arabia
+68485e84010000ed00924cdc,,174817,question,responseOption183,46245,form,Senegal
+68485e84010000ed00924cdc,,174817,question,responseOption184,46245,form,Serbia
+68485e84010000ed00924cdc,,174817,question,responseOption185,46245,form,Seychelles
+68485e84010000ed00924cdc,,174817,question,responseOption186,46245,form,Sierra Leone
+68485e84010000ed00924cdc,,174817,question,responseOption187,46245,form,Singapore
+68485e84010000ed00924cdc,,174817,question,responseOption188,46245,form,Sint Maarten
+68485e84010000ed00924cdc,,174817,question,responseOption189,46245,form,Slovakia
+68485e84010000ed00924cdc,,174817,question,responseOption19,46245,form,Barbados
+68485e84010000ed00924cdc,,174817,question,responseOption190,46245,form,Slovenia
+68485e84010000ed00924cdc,,174817,question,responseOption191,46245,form,Solomon Islands
+68485e84010000ed00924cdc,,174817,question,responseOption192,46245,form,Somalia
+68485e84010000ed00924cdc,,174817,question,responseOption193,46245,form,South Africa
+68485e84010000ed00924cdc,,174817,question,responseOption194,46245,form,South Sudan
+68485e84010000ed00924cdc,,174817,question,responseOption195,46245,form,Spain
+68485e84010000ed00924cdc,,174817,question,responseOption196,46245,form,Sri Lanka
+68485e84010000ed00924cdc,,174817,question,responseOption197,46245,form,Sudan
+68485e84010000ed00924cdc,,174817,question,responseOption198,46245,form,Suriname
+68485e84010000ed00924cdc,,174817,question,responseOption199,46245,form,Sweden
+68485e84010000ed00924cdc,,174817,question,responseOption2,46245,form,Albania
+68485e84010000ed00924cdc,,174817,question,responseOption20,46245,form,Belarus
+68485e84010000ed00924cdc,,174817,question,responseOption200,46245,form,Switzerland
+68485e84010000ed00924cdc,,174817,question,responseOption201,46245,form,Syrian Arab Republic
+68485e84010000ed00924cdc,,174817,question,responseOption202,46245,form,Taiwan
+68485e84010000ed00924cdc,,174817,question,responseOption203,46245,form,Tajikistan
+68485e84010000ed00924cdc,,174817,question,responseOption204,46245,form,"Tanzania, United Republic of"
+68485e84010000ed00924cdc,,174817,question,responseOption205,46245,form,Thailand
+68485e84010000ed00924cdc,,174817,question,responseOption206,46245,form,Timor-Leste
+68485e84010000ed00924cdc,,174817,question,responseOption207,46245,form,Togo
+68485e84010000ed00924cdc,,174817,question,responseOption208,46245,form,Tokelau
+68485e84010000ed00924cdc,,174817,question,responseOption209,46245,form,Tonga
+68485e84010000ed00924cdc,,174817,question,responseOption21,46245,form,Belgium
+68485e84010000ed00924cdc,,174817,question,responseOption210,46245,form,Trinidad and Tobago
+68485e84010000ed00924cdc,,174817,question,responseOption211,46245,form,Tunisia
+68485e84010000ed00924cdc,,174817,question,responseOption212,46245,form,Türkiye
+68485e84010000ed00924cdc,,174817,question,responseOption213,46245,form,Turkmenistan
+68485e84010000ed00924cdc,,174817,question,responseOption214,46245,form,Turks and Caicos Islands
+68485e84010000ed00924cdc,,174817,question,responseOption215,46245,form,Tuvalu
+68485e84010000ed00924cdc,,174817,question,responseOption216,46245,form,U.S. Virgin Islands
+68485e84010000ed00924cdc,,174817,question,responseOption217,46245,form,Uganda
+68485e84010000ed00924cdc,,174817,question,responseOption218,46245,form,Ukraine
+68485e84010000ed00924cdc,,174817,question,responseOption219,46245,form,United Arab Emirates
+68485e84010000ed00924cdc,,174817,question,responseOption22,46245,form,Belize
+68485e84010000ed00924cdc,,174817,question,responseOption220,46245,form,United Kingdom of Great Britain and Northern Ireland
+68485e84010000ed00924cdc,,174817,question,responseOption221,46245,form,United States of America
+68485e84010000ed00924cdc,,174817,question,responseOption222,46245,form,Uruguay
+68485e84010000ed00924cdc,,174817,question,responseOption223,46245,form,Uzbekistan
+68485e84010000ed00924cdc,,174817,question,responseOption224,46245,form,Vanuatu
+68485e84010000ed00924cdc,,174817,question,responseOption225,46245,form,Vatican
+68485e84010000ed00924cdc,,174817,question,responseOption226,46245,form,Vatican Venezuela (Bolivarian Republic of)
+68485e84010000ed00924cdc,,174817,question,responseOption227,46245,form,Vietnam
+68485e84010000ed00924cdc,,174817,question,responseOption228,46245,form,Wallis and Futuna
+68485e84010000ed00924cdc,,174817,question,responseOption229,46245,form,Yemen
+68485e84010000ed00924cdc,,174817,question,responseOption23,46245,form,Benin
+68485e84010000ed00924cdc,,174817,question,responseOption230,46245,form,Zambia
+68485e84010000ed00924cdc,,174817,question,responseOption231,46245,form,Zimbabwe
+68485e84010000ed00924cdc,,174817,question,responseOption24,46245,form,Bermuda
+68485e84010000ed00924cdc,,174817,question,responseOption25,46245,form,Bhutan
+68485e84010000ed00924cdc,,174817,question,responseOption26,46245,form,Bolivia (Plurinational State of)
+68485e84010000ed00924cdc,,174817,question,responseOption27,46245,form,Bosnia and Herzevina
+68485e84010000ed00924cdc,,174817,question,responseOption28,46245,form,Botswana
+68485e84010000ed00924cdc,,174817,question,responseOption29,46245,form,Brazil
+68485e84010000ed00924cdc,,174817,question,responseOption3,46245,form,Algeria
+68485e84010000ed00924cdc,,174817,question,responseOption30,46245,form,British Indian Ocean Territory
+68485e84010000ed00924cdc,,174817,question,responseOption31,46245,form,British Virgin Islands
+68485e84010000ed00924cdc,,174817,question,responseOption32,46245,form,Brunei Darussalam
+68485e84010000ed00924cdc,,174817,question,responseOption33,46245,form,Bulgaria
+68485e84010000ed00924cdc,,174817,question,responseOption34,46245,form,Burkina Faso
+68485e84010000ed00924cdc,,174817,question,responseOption35,46245,form,Burundi
+68485e84010000ed00924cdc,,174817,question,responseOption36,46245,form,Cabo Verde
+68485e84010000ed00924cdc,,174817,question,responseOption37,46245,form,Cambodia
+68485e84010000ed00924cdc,,174817,question,responseOption38,46245,form,Cameroon
+68485e84010000ed00924cdc,,174817,question,responseOption39,46245,form,Canada
+68485e84010000ed00924cdc,,174817,question,responseOption4,46245,form,American Samoa
+68485e84010000ed00924cdc,,174817,question,responseOption40,46245,form,Cayman Islands
+68485e84010000ed00924cdc,,174817,question,responseOption41,46245,form,Central African Republic
+68485e84010000ed00924cdc,,174817,question,responseOption42,46245,form,Chad
+68485e84010000ed00924cdc,,174817,question,responseOption43,46245,form,Chile
+68485e84010000ed00924cdc,,174817,question,responseOption44,46245,form,China
+68485e84010000ed00924cdc,,174817,question,responseOption45,46245,form,Colombia
+68485e84010000ed00924cdc,,174817,question,responseOption46,46245,form,Comoros
+68485e84010000ed00924cdc,,174817,question,responseOption47,46245,form,"Congo, Republic of the"
+68485e84010000ed00924cdc,,174817,question,responseOption48,46245,form,"Congo, Democratic Republic of the"
+68485e84010000ed00924cdc,,174817,question,responseOption49,46245,form,Cook Islands
+68485e84010000ed00924cdc,,174817,question,responseOption5,46245,form,Andorra
+68485e84010000ed00924cdc,,174817,question,responseOption50,46245,form,Costa Rica
+68485e84010000ed00924cdc,,174817,question,responseOption51,46245,form,Côte d'Ivoire
+68485e84010000ed00924cdc,,174817,question,responseOption52,46245,form,Croatia
+68485e84010000ed00924cdc,,174817,question,responseOption53,46245,form,Cuba
+68485e84010000ed00924cdc,,174817,question,responseOption54,46245,form,Curacao
+68485e84010000ed00924cdc,,174817,question,responseOption55,46245,form,Cyprus
+68485e84010000ed00924cdc,,174817,question,responseOption56,46245,form,Czechia
+68485e84010000ed00924cdc,,174817,question,responseOption57,46245,form,Denmark
+68485e84010000ed00924cdc,,174817,question,responseOption58,46245,form,Djibouti
+68485e84010000ed00924cdc,,174817,question,responseOption59,46245,form,Dominica
+68485e84010000ed00924cdc,,174817,question,responseOption6,46245,form,Angola
+68485e84010000ed00924cdc,,174817,question,responseOption60,46245,form,Dominican Republic
+68485e84010000ed00924cdc,,174817,question,responseOption61,46245,form,Ecuador
+68485e84010000ed00924cdc,,174817,question,responseOption62,46245,form,Egypt
+68485e84010000ed00924cdc,,174817,question,responseOption63,46245,form,El Salvador
+68485e84010000ed00924cdc,,174817,question,responseOption64,46245,form,Equatorial Guinea
+68485e84010000ed00924cdc,,174817,question,responseOption65,46245,form,Eritrea
+68485e84010000ed00924cdc,,174817,question,responseOption66,46245,form,Estonia
+68485e84010000ed00924cdc,,174817,question,responseOption67,46245,form,Eswatini
+68485e84010000ed00924cdc,,174817,question,responseOption68,46245,form,Ethiopia
+68485e84010000ed00924cdc,,174817,question,responseOption69,46245,form,Falkland Islands
+68485e84010000ed00924cdc,,174817,question,responseOption7,46245,form,Anguilla
+68485e84010000ed00924cdc,,174817,question,responseOption70,46245,form,Faroe Islands
+68485e84010000ed00924cdc,,174817,question,responseOption71,46245,form,Fiji
+68485e84010000ed00924cdc,,174817,question,responseOption72,46245,form,Finland
+68485e84010000ed00924cdc,,174817,question,responseOption73,46245,form,France
+68485e84010000ed00924cdc,,174817,question,responseOption74,46245,form,French Polynesia
+68485e84010000ed00924cdc,,174817,question,responseOption75,46245,form,Gabon
+68485e84010000ed00924cdc,,174817,question,responseOption76,46245,form,Gambia
+68485e84010000ed00924cdc,,174817,question,responseOption77,46245,form,Georgia
+68485e84010000ed00924cdc,,174817,question,responseOption78,46245,form,Germany
+68485e84010000ed00924cdc,,174817,question,responseOption79,46245,form,Ghana
+68485e84010000ed00924cdc,,174817,question,responseOption8,46245,form,Antarctica
+68485e84010000ed00924cdc,,174817,question,responseOption80,46245,form,Gibraltar
+68485e84010000ed00924cdc,,174817,question,responseOption81,46245,form,Greece
+68485e84010000ed00924cdc,,174817,question,responseOption82,46245,form,Greenland
+68485e84010000ed00924cdc,,174817,question,responseOption83,46245,form,Grenada
+68485e84010000ed00924cdc,,174817,question,responseOption84,46245,form,Guam
+68485e84010000ed00924cdc,,174817,question,responseOption85,46245,form,Guatemala
+68485e84010000ed00924cdc,,174817,question,responseOption86,46245,form,Guernsey
+68485e84010000ed00924cdc,,174817,question,responseOption87,46245,form,Guinea
+68485e84010000ed00924cdc,,174817,question,responseOption88,46245,form,Guinea-Bissau
+68485e84010000ed00924cdc,,174817,question,responseOption89,46245,form,Guyana
+68485e84010000ed00924cdc,,174817,question,responseOption9,46245,form,Antigua and Barbuda
+68485e84010000ed00924cdc,,174817,question,responseOption90,46245,form,Haiti
+68485e84010000ed00924cdc,,174817,question,responseOption91,46245,form,Honduras
+68485e84010000ed00924cdc,,174817,question,responseOption92,46245,form,Hong Kong
+68485e84010000ed00924cdc,,174817,question,responseOption93,46245,form,Hungary
+68485e84010000ed00924cdc,,174817,question,responseOption94,46245,form,Iceland
+68485e84010000ed00924cdc,,174817,question,responseOption95,46245,form,India
+68485e84010000ed00924cdc,,174817,question,responseOption96,46245,form,Indonesia
+68485e84010000ed00924cdc,,174817,question,responseOption97,46245,form,Iran (Islamic Republic of)
+68485e84010000ed00924cdc,,174817,question,responseOption98,46245,form,Iraq
+68485e84010000ed00924cdc,,174817,question,responseOption99,46245,form,Ireland
+68485f5a0100003f009541c7,,174820,question,description,46245,form,"Upload a current and valid document issued by your national authority responsible for company registrations. This may be a certificate of incorporation, a commercial register extract, or any official document proving your business is duly registered. The document must clearly show your company name, registration number, and issuing authority."
+68485f5a0100003f009541c7,,174820,question,questionText,46245,form,Please upload your company’s official proof of registration with the Chamber of Commerce or equivalent authority in the selected country.

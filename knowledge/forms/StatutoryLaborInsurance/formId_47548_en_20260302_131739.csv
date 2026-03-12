@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68e55868010000f80430f520,68b9d5a201000031053f1d1c,47548,questionGroup,description,47548,form,"If your company is required to comply with Argentina Statutory Labor Insurance, you will be asked to provide relevant documents in a subsequent form(s)."
+68e55868010000f80430f520,68b9d5a201000031053f1d1c,47548,questionGroup,questionGroupText,47548,form,Argentina Statutory Labor Insurance Applicability Assessment
+68b9d5dc010000a9003f1d20,,180276,question,description,47548,form,
+68b9d5dc010000a9003f1d20,,180276,question,questionText,47548,form,Is your company required to comply with Argentina Workers’ Compensation Insurance requirements as regulated by SRT (Superintendency of Occupational Risk Authority) and maintain applicable documentation to show compliance?
+68b9d5dc010000a9003f1d20,,180276,question,responseOption1,47548,form,Yes
+68b9d5dc010000a9003f1d20,,180276,question,responseOption2,47548,form,No
+68b9d68e010000a8003f1d28,,180277,question,questionText,47548,form,Please select from the following reason(s) your company is exempt from complying with Argentina Workers’ Compensation Insurance requirement.
+68b9d68e010000a8003f1d28,,180277,question,responseOption1,47548,form,The company is a sole proprietorship with no other employees. 
+68b9d68e010000a8003f1d28,,180277,question,responseOption2,47548,form,Other
+68b9d68e010000a8003f1d28,,180277,question,responseOption3,47548,form,The company is foreign and on a temporary project (up to 2 years) with labor insurance coverage in its home country and willing to provide proof of coverage upon request.
+68b9d6bf0100005b00c9f733,,180278,question,questionText,47548,form,"If ""other"", please explain."

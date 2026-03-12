@@ -1,0 +1,36 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87746a36b6c4c63546778,69a87746a36b6c4c63546777,51168,questionGroup,questionGroupText,51168,form,高压作业,
+69a87746a36b6c4c6354676b,,200130,question,description,51168,form,"须有合格监督人员，加压空气作业必须在可靠、具备专业技术能力且符合健康条件的监督员或副监督员的监督下进行。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第5条</a>",
+69a87746a36b6c4c6354676b,,200130,question,questionText,51168,form,合格监督人员,
+69a87746a36b6c4c6354676c,,200131,question,description,51168,form,"须提前通知，劳动监察机构的通知必须在作业开始前至少14天提交。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第7(1)条、第47(1)1条</a>",
+69a87746a36b6c4c6354676c,,200131,question,questionText,51168,form,向劳动监察机构通报（作业前）,
+69a87746a36b6c4c6354676d,,200132,question,description,51168,form,"员工须年满21周岁且经医学检查适合从事加压空气作业。年龄超过40岁且无压缩空气作业经验者不得新分配从事此类作业，年龄超过50岁者不得从事高压作业。须出具适岗证明，且医生确认函须在上岗前收到。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第8(1)条、第8(4)条</a>",
+69a87746a36b6c4c6354676d,,200132,question,questionText,51168,form,健康适岗检查（作业前及作业后）,
+69a87746a36b6c4c6354676e,,200133,question,description,51168,form,"须在作业前进行危害告知，员工在开始作业前必须接受高压危害告知教育。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第8(3)条、第24(2)条、第47(1)1条</a>",
+69a87746a36b6c4c6354676e,,200133,question,questionText,51168,form,培训（作业前及每6个月一次）,
+69a87746a36b6c4c6354676f,,200134,question,description,51168,form,"须配备自给式呼吸器，在压力超过1.1 kp/cm²时须为每名工人提供一台。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第11(6)条</a>",
+69a87746a36b6c4c6354676f,,200134,question,questionText,51168,form,超过压力阈值时须配备自给式呼吸器（SCBA）（>1.1 kp/cm²）,
+69a87746a36b6c4c63546770,,200135,question,description,51168,form,"在压力超过1.1 kp/cm²时须配备再加压舱。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第14(1)条</a>",
+69a87746a36b6c4c63546770,,200135,question,questionText,51168,form,再加压舱（>1.1 kp/cm²）,
+69a87746a36b6c4c63546771,,200136,question,description,51168,form,"须遵守最长暴露时间限制，压缩空气作业时间必须遵循基于压力的小时限额。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第26(1)条</a>",
+69a87746a36b6c4c63546771,,200136,question,questionText,51168,form,每日最长暴露时间,
+69a87746a36b6c4c63546772,,200137,question,description,51168,form,"须指定专职闸门看守员，每个人员闸或组合闸必须由闸门看守员操作。闸门看守员只可允许能证明其具备相应适岗资质的加压空气作业人员进入。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第24(1)条、第24(3)条</a>",
+69a87746a36b6c4c63546772,,200137,question,questionText,51168,form,进出管控,
+69a87746a36b6c4c63546773,,200138,question,description,51168,form,"适用的容器及压力系统须在首次使用前进行初始检验和水压（液压）测试。重大修理或改造后须进行内部检验和水压测试，当前次检验超过三年或迁移至新场地时须重新检验，且在作业开始前须对完整系统进行压力泄漏测试。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第21条</a>",
+69a87746a36b6c4c63546773,,200138,question,questionText,51168,form,合格检验与测试（初始、作业前、修理后、每3年一次）,
+69a87746a36b6c4c63546774,,200139,question,description,51168,form,"须保存检验记录，结果必须记录于指定的登记册中。监管记录须妥善保存，并可供监察机构及事故主管部门查阅。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第21(6)条、第47(1)5条、第47(2)条、第50(1)条</a>",
+69a87746a36b6c4c63546774,,200139,question,questionText,51168,form,记录,
+69a87746a36b6c4c63546775,,200140,question,description,51168,form,"须确保急救服务可用，经过培训的急救人员须在作业期间随时可联系到。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第24(5-6)条</a>",
+69a87746a36b6c4c63546775,,200140,question,questionText,51168,form,配备经培训的急救人员,
+69a87746a36b6c4c63546776,,200141,question,questionText,51168,form,<div></div>,

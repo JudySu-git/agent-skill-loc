@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4a2c0100003000ebe528,663007c21a00002c0045d431,42034,questionGroup,description,42034,form,You are getting this category because you selected a license in the Avetta PQF - South Australia License.
+66ce4a2c0100003000ebe528,663007c21a00002c0045d431,42034,questionGroup,questionGroupText,42034,form,South Australia Contractor License - Gas Fitting
+663007c21a00002d0045d432,,153407,question,questionText,42034,form,License Number:
+663007c21a00002d0045d432,,153407,question,responseOption1,42034,form,Yes
+663007c21a00002d0045d432,,153407,question,responseOption2,42034,form,No
+663007c21a00005b0045d433,,153408,question,questionText,42034,form,Expiration Date:
+663007c21a00005b0045d433,,153408,question,responseOption1,42034,form,Yes
+663007c21a00005b0045d433,,153408,question,responseOption2,42034,form,No
+663007c21a00005e0045d434,,153409,question,questionText,42034,form,Please upload your license:\n
+663007c21a00005e0045d434,,153409,question,responseOption1,42034,form,Yes
+663007c21a00005e0045d434,,153409,question,responseOption2,42034,form,No

@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec620100002d00a473be,5c6dca3c3500005e46871990,26271,questionGroup,questionGroupText,26271,form,California Contractor License
+65739a981a00001f3ab9af76,5c6dce774200003c55f391a4,26272,questionGroup,questionGroupText,26271,form,California Contractor License
+5c6dd19c4600003a5622ef2b,,82209,question,description,26271,form,"<a href = ""https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/CheckLicense.aspx""target=""_BLANK_"">California Contractors State License Board</a>\n"
+5c6dd19c4600003a5622ef2b,,82209,question,questionText,26271,form,California Contractor License Number:
+5c6dd19c350000ea5b872c3d,,82210,question,description,26271,form,"<a href = ""https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/CheckLicense.aspx""target=""_BLANK_"">California Contractors State License Board</a>\n"
+5c6dd19c350000ea5b872c3d,,82210,question,questionText,26271,form,California Contractor License Classifications:
+5c6dd19d460000435622ef44,,82211,question,questionText,26271,form,California License Expiration Date:
+5c6dd19e3800008d5d567cfb,,82212,question,questionText,26271,form,Please upload a copy of your California license:
+5c6dd19e350000025c872c4c,,82213,question,questionText,26271,form,Please enter the URL of the license:
+5d2e03d0370000be9421224e,,84307,question,description,26271,form,A URL will make verification quicker if provided\n
+5d2e03d0370000be9421224e,,84307,question,questionText,26271,form,"Upload a copy of your license, and or provide the URL of the license."
+5d2e03d0370000be9421224e,,84307,question,responseOption1,26271,form,File Upload
+5d2e03d0370000be9421224e,,84307,question,responseOption2,26271,form,URL

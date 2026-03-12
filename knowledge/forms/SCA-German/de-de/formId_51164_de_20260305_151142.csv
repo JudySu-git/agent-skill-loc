@@ -1,0 +1,12 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87743a36b6c4c63546753,69a87743a36b6c4c63546752,51164,questionGroup,questionGroupText,51164,form,"Gefährliche Stoffe – Karzinogene, Mutagene, reproduktionstoxische Stoffe",
+69a87743a36b6c4c6354674e,,200109,question,description,51164,form,"Vor dem Einsatz von krebserzeugenden, erbgutverändernden oder reproduktionstoxischen (CMR) Stoffen ist eine schriftliche Meldung an das Arbeitsinspektorat zu erstatten.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 42 Abs. 5</a>",
+69a87743a36b6c4c6354674e,,200109,question,questionText,51164,form,Meldung an das Arbeitsinspektorat (vor Verwendung),
+69a87743a36b6c4c6354674f,,200110,question,description,51164,form,"Der Zugang zu Bereichen, in denen krebserzeugende, erbgutverändernde oder reproduktionstoxische (CMR) Stoffe oder biologische Arbeitsstoffe der Gruppe 2–4 vorhanden sind, ist auf autorisiertes Personal zu beschränken.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 44 Abs. 4</a>",
+69a87743a36b6c4c6354674f,,200110,question,questionText,51164,form,Zugangsbeschränkung,
+69a87743a36b6c4c63546750,,200111,question,description,51164,form,"Für Personen, die gegenüber krebserzeugenden, erbgutverändernden oder reproduktionstoxischen (CMR) Stoffen oder biologischen Arbeitsstoffen der Gruppe 3–4 exponiert sind, ist ein Expositionsverzeichnis zu führen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 47 Abs. 1–3</a>",
+69a87743a36b6c4c63546750,,200111,question,questionText,51164,form,Expositionsverzeichnis,
+69a87743a36b6c4c63546751,,200112,question,questionText,51164,form,<div></div>,

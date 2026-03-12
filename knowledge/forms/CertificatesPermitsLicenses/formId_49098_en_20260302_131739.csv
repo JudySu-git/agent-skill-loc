@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+691ccc4301000035009bd86a,691bb1bd0100003302199542,49098,questionGroup,description,49098,form,This requirement is triggered because you indicated your organization maintains a valid High-Pressure Gas License in the Japan High-Pressure Gas License Applicability Assessment questionnaire.\t
+691ccc4301000035009bd86a,691bb1bd0100003302199542,49098,questionGroup,questionGroupText,49098,form,Japan High-Pressure Gas License
+691bb1bd0100003c00199543,,188850,question,description,49098,form,</p>\n
+691bb1bd0100003c00199543,,188850,question,questionText,49098,form,Please upload your High-Pressure Gas License.
+691bb1bd0100003c00199544,,188851,question,questionText,49098,form,Please enter the registration date of your High-Pressure Gas License.
+691bb29001000042007e2216,,188856,question,description,49098,form,The expiration date will be clearly displayed on the High-pressure Gas License. The license is typically valid depending on the company's classification.
+691bb29001000042007e2216,,188856,question,questionText,49098,form,Please enter the expiration date of your High-Pressure Gas License.

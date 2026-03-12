@@ -1,0 +1,22 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87740a36b6c4c63546731,69a87740a36b6c4c63546730,51160,questionGroup,questionGroupText,51160,form,Absturzsicherung,
+69a87740a36b6c4c63546729,,200080,question,description,51160,form,"Absturzsicherungsmaßnahmen sind vorzusehen, wenn Absturzhöhen an Wänden, Treppen und Maschinenbühnen mehr als einen Meter und an Arbeitsplätzen und Verkehrswegen mehr als zwei Meter betragen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 7(1), 7(2)3, 7(2)4</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Arbeitsstättenverordnung, § 11(3-4)</a>",
+69a87740a36b6c4c63546729,,200080,question,questionText,51160,form,Absturzsicherung (> 2 Meter),
+69a87740a36b6c4c6354672a,,200081,question,description,51160,form,"Kollektive Schutzmaßnahmen wie Schutzgeländer oder Abdeckungen sind zu treffen, soweit dies erforderlich ist. Persönliche Schutzausrüstung gegen Absturz darf nur eingesetzt werden, wenn kollektive Schutzmaßnahmen nicht möglich oder nicht ausreichend sind.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 6(8)2, 7(4)</a>",
+69a87740a36b6c4c6354672a,,200081,question,questionText,51160,form,Vorrang kollektiver Schutzmaßnahmen,
+69a87740a36b6c4c6354672b,,200082,question,description,51160,form,"Öffnungen in Böden oder ähnlichen Flächen sind durch tragfähige Abdeckungen, Schutzgeländer oder gleichwertige Schutzmaßnahmen zu sichern. Wenn Abdeckungen nicht möglich sind, ist eine gleichwertige Absicherung oder eine deutliche Gefahrenkennzeichnung vorzusehen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Arbeitsstättenverordnung, § 11(2)</a>",
+69a87740a36b6c4c6354672b,,200082,question,questionText,51160,form,Sicherung von Öffnungen,
+69a87740a36b6c4c6354672c,,200083,question,description,51160,form,"Arbeitsplätze und Verkehrswege sind zu sichern, wenn Personen durch herabfallende Gegenstände gefährdet werden können. Geeignete Schutzmaßnahmen wie Abdeckungen, Schutzdächer, Absperrungen oder Sperrzonen sind zu treffen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 6(1)</a>",
+69a87740a36b6c4c6354672c,,200083,question,questionText,51160,form,Schutz vor herabfallenden Gegenständen,
+69a87740a36b6c4c6354672d,,200084,question,description,51160,form,"Bei Arbeiten in der Nähe von ungesicherten Kanten sind geeignete Sicherheitsabstände, Absperrungen oder deutlich gekennzeichnete und gesicherte Sperrzonen einzurichten, um Abstürze zu verhindern.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 9(3)2</a>",
+69a87740a36b6c4c6354672d,,200084,question,questionText,51160,form,Sicherung von Arbeiten an Kanten,
+69a87740a36b6c4c6354672e,,200085,question,description,51160,form,"Der Zutritt zu Sperrzonen ist auf betriebliche Notwendigkeit zu beschränken.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 9(4)</a>",
+69a87740a36b6c4c6354672e,,200085,question,questionText,51160,form,Beschränkter Zugang zu Randsicherungszonen,
+69a87740a36b6c4c6354672f,,200086,question,questionText,51160,form,<div></div>,

@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6621a2701c00005e00fa1ee1,6619c4d11c0000310079d43f,41846,questionGroup,description,41846,form,You are receiving this category because you selected Women-Owned Business in the UK Supplier Diversity Questionnaire.
+6621a2701c00005e00fa1ee1,6619c4d11c0000310079d43f,41846,questionGroup,questionGroupText,41846,form,Avetta PQF - UK Supplier Diversity Women-Owned Business
+6619c4d11c00002f0079d440,,152703,question,questionText,41846,form,Does your company have any documentation to provide to support your Women-Owned Business status?
+6619c4d11c00002f0079d440,,152703,question,responseOption1,41846,form,Yes
+6619c4d11c00002f0079d440,,152703,question,responseOption2,41846,form,No
+6619c4d11c0000320079d442,,152704,question,questionText,41846,form,Please provide the expiration date:
+6619c4d11c0000320079d442,,152704,question,responseOption1,41846,form,Yes
+6619c4d11c0000320079d442,,152704,question,responseOption2,41846,form,No
+6619c4d11c00002f0079d441,,152705,question,questionText,41846,form,Does this documentation have an expiration date?
+6619c4d11c00002f0079d441,,152705,question,responseOption1,41846,form,Yes
+6619c4d11c00002f0079d441,,152705,question,responseOption2,41846,form,No
+6619c4d11c0000300079d443,,152706,question,questionText,41846,form,Please upload any supporting documentation:
+6619c4d11c0000300079d443,,152706,question,responseOption1,41846,form,Yes
+6619c4d11c0000300079d443,,152706,question,responseOption2,41846,form,No

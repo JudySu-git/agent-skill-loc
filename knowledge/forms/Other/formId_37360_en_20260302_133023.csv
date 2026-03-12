@@ -1,0 +1,51 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+649df6c4170000630021cd03,6351dd6f1900009806e01f02,37360,questionGroup,questionGroupText,37360,form,Environmental Management Systems
+6375634f160000b708b73db1,6375634f160000b708b73db0,37725,questionGroup,questionGroupText,37360,form,Permits & Licenses
+6375642f17000071079aa479,6375642f17000071079aa478,37727,questionGroup,questionGroupText,37360,form,Impact Assessment
+6351dd92160000d3051d6191,,131929,question,questionText,37360,form,Does your organization have a formal Environmental Management System?
+6351dd92160000d3051d6191,,131929,question,responseOption1,37360,form,Yes
+6351dd92160000d3051d6191,,131929,question,responseOption2,37360,form,No
+6351ddb31900009806e02265,,131930,question,questionText,37360,form,Do your organization have an Environmental Policy?
+6351ddb31900009806e02265,,131930,question,responseOption1,37360,form,Yes
+6351ddb31900009806e02265,,131930,question,responseOption2,37360,form,No
+6351ddb31900009806e02265,,131930,question,responseOption3,37360,form,N/A
+6351ddd7160000d3051d63af,,131931,question,questionText,37360,form,Has your company stated your Management commitment & expectations to environmental protection and management?
+6351ddd7160000d3051d63af,,131931,question,responseOption1,37360,form,Yes
+6351ddd7160000d3051d63af,,131931,question,responseOption2,37360,form,No
+6351ddef1900006407e024fb,,131932,question,questionText,37360,form,Does your company ensure your company has competent advice with regard to environmental management?
+6351ddef1900006407e024fb,,131932,question,responseOption1,37360,form,Yes
+6351ddef1900006407e024fb,,131932,question,responseOption2,37360,form,No
+6351ddff1600007b031d6558,,131933,question,questionText,37360,form,"Has your company defined environmental responsibilities for managers, supervisors & workers?"
+6351ddff1600007b031d6558,,131933,question,responseOption1,37360,form,Yes
+6351ddff1600007b031d6558,,131933,question,responseOption2,37360,form,No
+6351de21160000c2051d65f5,,131934,question,questionText,37360,form,Does your company regularly evaluate and revise your policies and procedures?
+6351de21160000c2051d65f5,,131934,question,responseOption1,37360,form,Yes
+6351de21160000c2051d65f5,,131934,question,responseOption2,37360,form,No
+6351de3b190000a505e02c0b,,131935,question,questionText,37360,form,Does your company have a procedure for reporting environmental accident and incidents and investigating the immediate and root cause of these?
+6351de3b190000a505e02c0b,,131935,question,responseOption1,37360,form,Yes
+6351de3b190000a505e02c0b,,131935,question,responseOption2,37360,form,No
+6351de571900009806e02cdd,,131936,question,questionText,37360,form,"<span style=""color:rgb(129, 141, 161);font-size: 20px"">Do you have mechanisms in place for communicating environmental issues with your workforce and supply chain? Check all that apply </span> <br>\nEnvironmental Briefings"
+6351de571900009806e02cdd,,131936,question,responseOption1,37360,form,Click Here if Applicable
+6351de72160000c2051d67b1,,131937,question,questionText,37360,form,Environmental Meetings
+6351de72160000c2051d67b1,,131937,question,responseOption1,37360,form,Click Here if Applicable
+6351de8f160000c2051d6871,,131938,question,questionText,37360,form,Tool Box Talks
+6351de8f160000c2051d6871,,131938,question,responseOption1,37360,form,Click Here if Applicable
+6351dead160000d1051d6927,,131939,question,questionText,37360,form,Daily Activity Briefings
+6351dead160000d1051d6927,,131939,question,responseOption1,37360,form,Click Here if Applicable
+6351dec4190000b605e031e3,,131940,question,questionText,37360,form,Newsletters
+6351dec4190000b605e031e3,,131940,question,responseOption1,37360,form,Click Here if Applicable
+6375637217000058079aa09b,,133555,question,questionText,37360,form,Does the service your company provides require a permit with the local authority or Environment Agency?
+6375637217000058079aa09b,,133555,question,responseOption1,37360,form,Yes
+6375637217000058079aa09b,,133555,question,responseOption2,37360,form,No
+637563a0160000bf08b74703,,133556,question,questionText,37360,form,"If yes, please provide a copy of the Permit:"
+637563dc160000b508b74708,,133557,question,questionText,37360,form,Does the Permit cover all activities/services performed by your organization?
+637563dc160000b508b74708,,133557,question,responseOption1,37360,form,Yes
+637563dc160000b508b74708,,133557,question,responseOption2,37360,form,No
+637563f0160000b508b74729,,133558,question,questionText,37360,form,"If yes, please provide details of the Permit Deployment process/form to be completed prior to starting work onsite:"
+637564071600008f08b7472b,,133559,question,questionText,37360,form,"If no, which activities/services are covered by your certification?"
+637564401700006e079aa47b,,133560,question,questionText,37360,form,Does your company have a system in place for identifying significant environmental aspects and impacts of your operations?
+637564401700006e079aa47b,,133560,question,responseOption1,37360,form,Yes
+637564401700006e079aa47b,,133560,question,responseOption2,37360,form,No
+6375645417000071079aa47d,,133561,question,questionText,37360,form,Are environmental controls integrated into Safe Systems of Work/ Method Statements/Standard Operating Procedures?
+6375645417000071079aa47d,,133561,question,responseOption1,37360,form,Yes
+6375645417000071079aa47d,,133561,question,responseOption2,37360,form,No

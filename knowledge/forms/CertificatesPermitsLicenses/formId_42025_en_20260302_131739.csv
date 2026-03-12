@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce498f010000330021f979,662fed061b00003000b6e5ea,42025,questionGroup,description,42025,form,You are getting this category because you selected a license in the Avetta PQF - Queensland License.
+66ce498f010000330021f979,662fed061b00003000b6e5ea,42025,questionGroup,questionGroupText,42025,form,Queensland Contractor License - Pest Management
+662fed061b00002900b6e5eb,,153379,question,questionText,42025,form,Please upload your license:\n
+662fed061b00002900b6e5eb,,153379,question,responseOption1,42025,form,Yes
+662fed061b00002900b6e5eb,,153379,question,responseOption2,42025,form,No
+662fed061b00005d00b6e5ed,,153380,question,questionText,42025,form,Expiration Date:
+662fed061b00005d00b6e5ed,,153380,question,responseOption1,42025,form,Yes
+662fed061b00005d00b6e5ed,,153380,question,responseOption2,42025,form,No
+662fed061b00002900b6e5ec,,153381,question,questionText,42025,form,License Number:
+662fed061b00002900b6e5ec,,153381,question,responseOption1,42025,form,Yes
+662fed061b00002900b6e5ec,,153381,question,responseOption2,42025,form,No

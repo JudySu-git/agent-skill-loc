@@ -1,0 +1,21 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8773fa36b6c4c63546728,69a8773fa36b6c4c63546727,51159,questionGroup,questionGroupText,51159,form,爆炸物,
+69a8773fa36b6c4c63546720,,200073,question,description,51159,form,"根据《雇员保护法》，适用于外部工作场所、建筑工地及场外作业的相关规定，必须在书面安全文件中加以说明。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006570&utm_"">《爆炸物法》第22条</a>",
+69a8773fa36b6c4c63546720,,200073,question,questionText,51159,form,持有许可证,
+69a8773fa36b6c4c63546721,,200074,question,description,51159,form,"申请爆炸物许可证须具备有据可查的爆破资质证明。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006570&utm_"">《爆炸物法》第24(2)条</a>",
+69a8773fa36b6c4c63546721,,200074,question,questionText,51159,form,持证爆破员,
+69a8773fa36b6c4c63546722,,200075,question,description,51159,form,"必须具备安全储存措施，以支持对爆炸物的安全合规持有。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006570&utm_"">《爆炸物法》第24(1)条</a>",
+69a8773fa36b6c4c63546722,,200075,question,questionText,51159,form,安全储存安排,
+69a8773fa36b6c4c63546723,,200076,question,description,51159,form,"在获取、持有、进口、转让或储存爆炸物时，必须指定一名爆炸物负责人。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006570&utm_"">《爆炸物法》第26(1)条</a>",
+69a8773fa36b6c4c63546723,,200076,question,questionText,51159,form,爆炸物负责人任命,
+69a8773fa36b6c4c63546724,,200077,question,description,51159,form,"无法使用或有缺陷的爆炸物必须按照许可方式以及制造商或经销商的说明进行处置或销毁。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006570&utm_"">《爆炸物法》第9(1-3)条</a>",
+69a8773fa36b6c4c63546724,,200077,question,questionText,51159,form,许可处置方式,
+69a8773fa36b6c4c63546725,,200078,question,description,51159,form,"爆炸物登记册必须按储存地点记录爆炸物的获取、转让、使用及销毁情况，并保存10年。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006570&utm_"">《爆炸物法》第33(1),(4)条</a>",
+69a8773fa36b6c4c63546725,,200078,question,questionText,51159,form,记录（保存10年）,
+69a8773fa36b6c4c63546726,,200079,question,questionText,51159,form,<div></div>,

@@ -1,0 +1,33 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63a4abf41800001001485183,4b10b67d5049439785f2cdce,25,questionGroup,questionGroupText,20113,form,Training
+42a3d85050494396e84f5e09,,353,question,questionText,20113,form,"Are employees certified/licensed where required by company, regulatory or industry standards?"
+42a3d85050494396e84f5e09,,353,question,responseOptionNA,20113,form,N/A
+42a3d85050494396e84f5e09,,353,question,responseOptionNo,20113,form,No
+42a3d85050494396e84f5e09,,353,question,responseOptionYes,20113,form,Yes
+429fe3d0504943a81d6a798e,,354,question,description,20113,form,A documented program that may be requested and audited.
+429fe3d0504943a81d6a798e,,354,question,questionText,20113,form,"Does your company have a Health, Safety & Environmental induction/orientation program for employees before starting work?"
+429fe3d0504943a81d6a798e,,354,question,responseOptionNA,20113,form,N/A
+429fe3d0504943a81d6a798e,,354,question,responseOptionNo,20113,form,No
+429fe3d0504943a81d6a798e,,354,question,responseOptionYes,20113,form,Yes
+429fe3d05049435733d039d2,,365,question,questionText,20113,form,Does your company maintain training records for employees?
+429fe3d05049435733d039d2,,365,question,responseOptionNA,20113,form,N/A
+429fe3d05049435733d039d2,,365,question,responseOptionNo,20113,form,No
+429fe3d05049435733d039d2,,365,question,responseOptionYes,20113,form,Yes
+429fe3d0504943ac0c32748c,,369,question,questionText,20113,form,Does your company have job specific training requirements for new employees or existing experienced employees new to their position?
+429fe3d0504943ac0c32748c,,369,question,responseOptionNA,20113,form,N/A
+429fe3d0504943ac0c32748c,,369,question,responseOptionNo,20113,form,No
+429fe3d0504943ac0c32748c,,369,question,responseOptionYes,20113,form,Yes
+4d77ccd15049439072380c43,,7151,question,description,20113,form,A documented program that may be requested and audited.
+4d77ccd15049439072380c43,,7151,question,questionText,20113,form,Does your company have a competency assurance program for its workers?
+4d77ccd15049439072380c43,,7151,question,responseOptionNA,20113,form,N/A
+4d77ccd15049439072380c43,,7151,question,responseOptionNo,20113,form,No
+4d77ccd15049439072380c43,,7151,question,responseOptionYes,20113,form,Yes
+4d77d0775049431588b7ab9a,,7160,question,questionText,20113,form,Are workers aware of their right to refuse work due to unsafe conditions?
+4d77d0775049431588b7ab9a,,7160,question,responseOptionNA,20113,form,N/A
+4d77d0775049431588b7ab9a,,7160,question,responseOptionNo,20113,form,No
+4d77d0775049431588b7ab9a,,7160,question,responseOptionYes,20113,form,Yes
+4d77d0a450494375c015c15a,,7161,question,questionText,20113,form,"Does your company provide Health, Safety & Environmental training for  supervisors?"
+4d77d0a450494375c015c15a,,7161,question,responseOptionNA,20113,form,N/A
+4d77d0a450494375c015c15a,,7161,question,responseOptionNo,20113,form,No
+4d77d0a450494375c015c15a,,7161,question,responseOptionYes,20113,form,Yes
+63a4b143180000410148980a,5ab54cb92600005c00cbd6c2,20113,questionGroup,questionGroupText,20113,form,Avetta PQF - Training

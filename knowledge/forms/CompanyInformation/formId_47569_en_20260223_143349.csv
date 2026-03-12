@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68bf418d010000b6009bb315,68bf41490100004100014993,47569,questionGroup,questionGroupText,47569,form,Subcontractor Utilization for Vantage Data Centers
+68bf41490100009002014994,,180345,question,questionText,47569,form,Does your company use subcontractors for Vantage Data Centers?
+68bf41490100009002014994,,180345,question,responseOption1,47569,form,Yes
+68bf41490100009002014994,,180345,question,responseOption2,47569,form,No
+68bf4149010000ea00014996,,180346,question,questionText,47569,form,How many subcontractors does your company utilize for Vantage Data Centers?
+68bf41490100009002014995,,180347,question,description,47569,form,"<b> <a href=""https://avettahelp.force.com/Supplier/s/article/Subcontractor-Management-Connect-Prime-Suppliers"" target=""_blank"">Understanding Subcontractor Management</a> <b>"
+68bf41490100009002014995,,180347,question,questionText,47569,form,Please review the following documentation which will provide you guidance on how to add or invite your subcontractors into the Avetta network.
+68bf41490100009002014995,,180347,question,responseOption1,47569,form,Please check this box to acknowledge that you have reviewed the following collateral to onboard your subcontractors. 

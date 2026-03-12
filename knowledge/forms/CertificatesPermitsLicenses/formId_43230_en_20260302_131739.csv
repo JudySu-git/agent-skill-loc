@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66c36bf90100004d008970f2,66c36bd20100002f003093ef,43230,questionGroup,questionGroupText,43230,form,Workers’ Compensation / Employer’s Liability - Declaration Forms
+66c36bd201000030003093f1,,158755,question,questionText,43230,form,Please upload the Workers’ Compensation / Employer’s Liability Declaration Forms.
+66c36bd201000030003093f1,,158755,question,responseOption1,43230,form,Yes
+66c36bd201000030003093f1,,158755,question,responseOption2,43230,form,No
+66c36bd201000032003093f0,,158756,question,questionText,43230,form,Workers’ Compensation / Employer’s Liability Policy: Policy Expiration Date
+66c36bd201000032003093f0,,158756,question,responseOption1,43230,form,Yes
+66c36bd201000032003093f0,,158756,question,responseOption2,43230,form,No
+66c36bd20100002b003093f3,,158757,question,questionText,43230,form,Workers’ Compensation / Employer’s Liability Declaration Forms:
+66c36bd20100002b003093f3,,158757,question,responseOption1,43230,form,Yes
+66c36bd20100002b003093f3,,158757,question,responseOption2,43230,form,No
+66c36bd201000030003093f2,,158758,question,questionText,43230,form,Workers’ Compensation / Employer’s Liability Policy: Date of Commencement
+66c36bd201000030003093f2,,158758,question,responseOption1,43230,form,Yes
+66c36bd201000030003093f2,,158758,question,responseOption2,43230,form,No

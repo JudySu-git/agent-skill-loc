@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+689b7c590100005700205111,6894e4e20100005a00f3bf33,46971,questionGroup,description,46971,form,This requirement is triggered because you indicated your organization maintains a valid form in the Netherlands Workers Compensation Insurance Applicability Assessment questionnaire.
+689b7c590100005700205111,6894e4e20100005a00f3bf33,46971,questionGroup,questionGroupText,46971,form,Netherlands Workers Compensation Insurance
+6894e5090100005e0019f29a,,178202,question,description,46971,form,
+6894e5090100005e0019f29a,,178202,question,questionText,46971,form,"Please upload a copy of your company's registration with Belastingdienst, confirming your company’s compliance with employee insurance schemes."
+6894e53b0100003e00f3bf3c,,178203,question,description,46971,form,
+6894e53b0100003e00f3bf3c,,178203,question,questionText,46971,form,"Please upload a copy of your company's employee insurance registration with UWV, confirming your company’s compliance with employee insurance schemes."
+6894e560010000ac00f3bf3e,,178204,question,description,46971,form,"As insurance policies are typically renewed annually, an updated certificate should be provided every year to confirm continuous coverage for potential work-related injuries or illnesses. These documents show that the employer is covered for potential work-related injuries or illnesses."
+6894e560010000ac00f3bf3e,,178204,question,questionText,46971,form,"Please upload your Annual Employer Liability Insurance Certificate issued by your insurance provider, confirming your company’s compliance with employee insurance schemes."

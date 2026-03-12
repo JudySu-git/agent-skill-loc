@@ -1,0 +1,4 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6835f51c0100003d00d1812a,6835e43a0100003600d17cc4,46164,questionGroup,questionGroupText,46164,form,Newmont Mining Global Variance Form
+6835e43a0100004300d17cc6,,174516,question,questionText,46164,form,"Please provide the name, title and contact information of your Newmont Mining Site Contact"
+6835e43a0100004300d17cc5,,174517,question,questionText,46164,form,Upload a copy of your executed MSA

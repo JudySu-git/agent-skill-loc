@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+624722ac300000de48b213e3,6241ec2f2f00007010bb358d,35671,questionGroup,questionGroupText,35672,form,"Newfoundland (Workplace Health, Safety and Compensation Commission)"
+660c89f01a0000700078eca5,6241ec2f2f00007010bb358c,35672,questionGroup,questionGroupText,35672,form,Newfoundland and Labrador WHSCC Clearance Letter
+6241ec2f2f00007010bb358f,,122427,question,questionText,35672,form,When is your Clearance Letter valid until?
+624722aa300000de48b213e2,,122542,question,questionText,35672,form,Please upload your Newfoundland and Labrador WHSCC Clearance Letter within 30 days* (date of upload)

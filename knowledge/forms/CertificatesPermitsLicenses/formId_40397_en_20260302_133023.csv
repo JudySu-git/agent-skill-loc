@@ -1,0 +1,21 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6528677a170000775c17b5cf,6528407a170000bc5c17b27f,40397,questionGroup,questionGroupText,40397,form,Chile Certificate of Adhesion to a Mutual Society (ISL)
+65284122170000cb5c17b2a7,65284122170000cb5c17b2a6,40398,questionGroup,questionGroupText,40397,form,Chile Certificate of Adhesion to a Mutual Society (ISL)
+6528413b170000bc5c17b2a9,,145805,question,description,40397,form,"Establishes the occupational accident and occupational disease insurance, which is compulsory insurance paid by the employer, which covers contingencies arising from accidents suffered by a person due to or due to work. It also covers illnesses caused directly by the exercise of the profession or work, and that produce disability or death of the insured; In addition, it extends to commuting accidents and those that affect union leaders in the performance of their union duties. Law 16.744 Art. 4\nPlease reference sample <a href = ""/file-preview.html?fileId=2023-10-18T16%3A05%3A04.653Z~~*Q2hpbGUgQ2VydGlmaWNhZG8gZGUgQWRoZXNpb24ucGRm""target=""_BLANK_"">here</a>."
+6528413b170000bc5c17b2a9,,145805,question,questionText,40397,form,Does your company have a Certificate of Adhesion to Mutual?
+6528413b170000bc5c17b2a9,,145805,question,responseOption1,40397,form,Yes
+6528413b170000bc5c17b2a9,,145805,question,responseOption2,40397,form,No
+652841711b00002c4c137724,,145806,question,questionText,40397,form,Please upload a Certificate of Adhesion to a Mutual Society or ISL.
+652841711b00002c4c137724,,145806,question,responseOption1,40397,form,Yes
+652841711b00002c4c137724,,145806,question,responseOption2,40397,form,No
+6528418f1b00002d4c13772c,,145807,question,questionText,40397,form,Please select what best describes your scenario:\n
+6528418f1b00002d4c13772c,,145807,question,responseOption1,40397,form,My employees are covered by a private insurance provider
+6528418f1b00002d4c13772c,,145807,question,responseOption2,40397,form,My company is not required to join a mutual
+652842251b0000fc00137732,,145809,question,questionText,40397,form,Please upload a current copy of your private insurance certificate.\n
+652842251b0000fc00137732,,145809,question,responseOption2,40397,form,Other
+6528429e1b00002c04137736,,145811,question,questionText,40397,form,Please explain
+6528429e1b00002c04137736,,145811,question,responseOption1,40397,form,Yes
+6528429e1b00002c04137736,,145811,question,responseOption2,40397,form,No
+65285b5c1b00002a4c13794c,,145820,question,questionText,40397,form,Is your company below the minimum number of employees to make you exempt?
+65285b5c1b00002a4c13794c,,145820,question,responseOption1,40397,form,"Yes, we have less than 25 employees and therefore we are not required"
+65285b5c1b00002a4c13794c,,145820,question,responseOption2,40397,form,Other

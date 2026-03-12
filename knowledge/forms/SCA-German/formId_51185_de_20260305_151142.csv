@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a9cebe0100004700fde31b,69a87752a36b6c4c63546800,51185,questionGroup,questionGroupText,51185,form,Traffic Safety,
+69a87751a36b6c4c635467ed,,200230,question,description,51185,form,"Traffic safety measures must follow traffic regulations and include signs and barriers to protect workers.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 109(1)</a>",
+69a87751a36b6c4c635467ed,,200230,question,questionText,51185,form,Traffic Safety Measures,
+69a87751a36b6c4c635467ee,,200231,question,description,51185,form,"High-visibility protective clothing must be provided for roadwork personnel exposed to traffic.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 109(2)</a>",
+69a87751a36b6c4c635467ee,,200231,question,questionText,51185,form,High Visibility Clothing,
+69a87752a36b6c4c635467fc,,200241,question,description,51185,form,"Outdoor traffic routes and areas safe for walking or driving and not endangering nearby employees must be ensured.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 24(3)</a>\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 2(3), 3(2)(1)</a>",
+69a87752a36b6c4c635467fc,,200241,question,questionText,51185,form,Designated Traffic Routes,
+69a87752a36b6c4c635467fd,,200242,question,description,51185,form,"Traffic routes must be designed and maintained in such a way that they can be safely walked or driven on according to their intended purpose.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 24(3)</a>",
+69a87752a36b6c4c635467fd,,200242,question,questionText,51185,form,Maintenance of Traffic Routes,
+69a87752a36b6c4c635467fe,,200243,question,description,51185,form,"A clear height of at least 2.0 meters must be maintained for traffic routes.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 2(4), 3(3)</a>",
+69a87752a36b6c4c635467fe,,200243,question,questionText,51185,form,Minimum Clearance (>2 Meters),
+69a87752a36b6c4c635467ff,,200244,question,questionText,51185,form,<div></div>,

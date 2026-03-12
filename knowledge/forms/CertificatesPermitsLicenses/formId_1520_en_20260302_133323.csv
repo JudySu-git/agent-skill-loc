@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4d5565ee50494356cfca0d18,4d5565ee50494356cfca0d18,1520,questionGroup,questionGroupText,1520,category,Performance Pipe Corporate
+4d5565ee50494398ea3cccf0,,6801,question,questionText,1520,category,Upload a Certificate of Insurance or other supporting documentation for this policy.
+4d5565ee504943454193dfdb,,6802,question,linkResources!download.action?id=1321,1520,category,Performance Pipe Certificate of Insurance
+4d5565ee504943454193dfdb,,6802,question,linkresources!download.action?id=1321,1520,category,Performance Pipe Certificate of Insurance
+4d5565ee504943454193dfdb,,6802,question,questionText,1520,category,"The certificate holder is included as an additional insured under the referenced General Liability, Umbrella/Excess Liability and Automobile Liability policies as required by written contract or agreement. All of the referenced insurance waive subrogation in favor of certificate holder as required by written contract or agreement.\r\n \n\r\n<a href=""/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_1321.pdf"" target=""_blank"">Performance Pipe Certificate of Insurance</a>\r\n \n\r\n\r\n\r\nPerformance Pipe, a Division of Chevron Phillips Chemical Company LP\r\nC/O Avetta, Inc.\r\nP.O. Box 51387\r\nIrvine, CA 92619-1387"
+4d5565ee504943454193dfdb,,6802,question,responseOptionNo,1520,category,No
+4d5565ee504943454193dfdb,,6802,question,responseOptionYes,1520,category,Yes

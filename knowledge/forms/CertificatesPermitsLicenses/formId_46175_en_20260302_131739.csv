@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6838c9990100004300ae7300,68388bc30100003a001c1fdf,46175,questionGroup,questionGroupText,46175,form,Dycom Insurance Specific
+68388e740100003e00ae7003,68388e740100003e00ae7002,46176,questionGroup,questionGroupText,46175,form,Alternate Employer Endorsement
+68388e7a0100004100ae7007,68388e7a0100004100ae7006,46177,questionGroup,questionGroupText,46175,form,Workers’ Compensation Coverage
+68388e8401000057001c1fe7,,174550,question,questionText,46175,form,"When working for Dycom Industries, does your company lease employees through a Professional Employer Organization (PEO)?"
+68388e8401000057001c1fe7,,174550,question,responseOption1,46175,form,Yes
+68388e8401000057001c1fe7,,174550,question,responseOption2,46175,form,No
+68388e9201000056001c1fe9,,174551,question,questionText,46175,form,Please specify the state(s) in which your Workers’ Compensation insurance provides coverage:

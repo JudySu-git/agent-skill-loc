@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+64a83b5e180000de53514d95,64a6f1f2170000bd5d0a07b1,39623,questionGroup,questionGroupText,39623,form,SFP JV Variance Form
+64a6f2aa170000a15d0a07b3,,142357,question,description,39623,form,"Please include as many of the below details as possible:\n\nDate of event\n\nLocation (State, Country)\n\nDivision (where applicable)\n\nIncident Classification (RWI, MTI, LTI, Fatality)\n\nFor LTI events, how many days were lost\n\nDetails of the actual incident including injury type\n\nLearnings/Actions implemented"
+64a6f2aa170000a15d0a07b3,,142357,question,questionText,39623,form,"Your safety statistics have returned a TRIFR above SFPJV’s recommended threshold. As such, can you please provide details in accordance with the following points for each RWI, MTI, LTI and/or fatality that you entered? In most instances, this will be a simple data extraction from your incident management system. "
+64a6f2fc170000a75cab1eef,,142358,question,questionText,39623,form,Please upload any documents if applicable.

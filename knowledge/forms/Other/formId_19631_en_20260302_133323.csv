@@ -1,0 +1,36 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5c1956a3430000e32ad0b676,59fa072c330000770169dba6,19630,questionGroup,questionGroupText,19631,form,Review - General Information
+5ee7ea253600000824ac4aa9,59fa0757330000990169dbaa,19631,questionGroup,questionGroupText,19631,form,Performance Review
+5ebebb45310000b58aa03569,59fa346121000059022f5d01,19640,questionGroup,questionGroupText,19631,form,Review - General Comments
+5ebd92b03600002ed472e9ff,5ebd92b03600002ed472e9fe,29965,questionGroup,questionGroupText,19631,form,Review - Safety
+5ebd92d93300002ed4442557,5ebd92d93300002ed4442556,29966,questionGroup,questionGroupText,19631,form,Review - Quality
+5ebd92eb350000f1aa358dca,5ebd92eb350000f1aa358dc9,29967,questionGroup,questionGroupText,19631,form,Review - Schedule/Time
+5ebd92f93300002ed444255d,5ebd92f93300002ed444255c,29968,questionGroup,questionGroupText,19631,form,Review - Cost/Financial/Budget
+5ebd931334000084631d67a0,5ebd931334000084631d679f,29969,questionGroup,questionGroupText,19631,form,Review - Environmental and Sustainability
+59fa06d33300007d0169dba0,,73346,question,questionText,19631,form,Project Name
+59fa06f6330000770169dba3,,73347,question,questionText,19631,form,Project Completion Date
+59fa344621000048022f5cff,,73366,question,questionText,19631,form,Please provide any additional comments or constructive feedback for this contractor:
+5ebd933834000084631d67a6,,96791,question,questionText,19631,form,How well did the contractor/supplier follow all applicable health and safety guidelines throughout the duration of the project?
+5ebd937e34000084631d67bb,,96796,question,questionText,19631,form,Comment - Health and Safety Guidelines
+5ebd9392350000f1aa358eec,,96797,question,questionText,19631,form,"If there was an incident, how well did the contractor/supplier resolve the issue in accordance with all applicable guidelines and regulation?"
+5ebd93a734000084631d68a2,,96799,question,questionText,19631,form,Comment - Incident Resolution
+5ebd93b53300002ed4442671,,96801,question,questionText,19631,form,How well did the contractor/supplier properly use personal protection equipment if required?
+5ebd93c234000084631d68b1,,96802,question,questionText,19631,form,Comment - Use of Personal Protection Equipment
+5ebd93e53600002ed472eb2e,,96804,question,questionText,19631,form,How well did the contractor/supplier complete the project with regards to quality of materials and workmanship?
+5ebd93fa350000f1aa358f87,,96805,question,questionText,19631,form,Comment - Quality of Materials and Workmanship
+5ebd942c34000084631d68c7,,96806,question,questionText,19631,form,How well did the contractor/supplier complete the project within the agreed-upon time frames and schedules?
+5ebd944c3600002ed472eb4c,,96807,question,questionText,19631,form,Comment- Project Completion
+5ebd94803600002ed472ebc9,,96809,question,questionText,19631,form,"If changes in schedule took place, how well did the contractor/supplier effectively communicate the changes?"
+5ebd94953600002ed472ebd0,,96811,question,questionText,19631,form,Comment - Changes in Schedule
+5ebd94b434000084631d68dc,,96812,question,questionText,19631,form,How well did the contractor/supplier adhere to agreed-upon budget and costs?
+5ebd94c83300002ed4442736,,96813,question,questionText,19631,form,Comment - Budget and Costs
+5ebd94db3300002ed4442741,,96817,question,questionText,19631,form,"If cost changes were made, how well did the contractor communicate those changes?"
+5ebd94f73600002ed472ec14,,96820,question,questionText,19631,form,Comment - Cost Changes
+5ebd950b350000f1aa359075,,96823,question,questionText,19631,form,How well did the contractor/supplier adhere to all applicable environmental regulations and sustainability practices?
+5ebd952a34000084631d6933,,96827,question,questionText,19631,form,Comment - Environment and Sustainability
+5ed6aa27330000444c7cd418,,97356,question,questionText,19631,form,Comments:
+5ed6aa9f3500007c6098e530,,97357,question,questionText,19631,form,Attachments (Optional):
+5ed6ab243500007c6098e583,,97358,question,questionText,19631,form,Comments:
+5ed6ab373b0000deb5936fba,,97359,question,questionText,19631,form,Comments:
+5ed6ab483500007c6098e58f,,97360,question,questionText,19631,form,Comments:
+5ed6ab5a3b0000deb59370c4,,97361,question,questionText,19631,form,Comments:

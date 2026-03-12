@@ -1,0 +1,21 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5e5ef3393500008b01199127,5e5e95083500008b0118ae97,28636,questionGroup,questionGroupText,28636,form,Regional Annual Update
+5e5ed6fd350000c7ea62a80f,5e5e95ab3500008b0118aee2,28637,questionGroup,questionGroupText,28636,form,Regional Annual Update
+5e5ed750360000c7ea73c92a,,91268,question,questionText,28636,form,What is the total number of employees for the given year? Approximate if necessary.
+5e5ed82a3500000d5c858391,,91271,question,description,28636,form,Corporate hours are defined as all hours your employees have worked within the country this Annual Update applies to.
+5e5ed82a3500000d5c858391,,91271,question,questionText,28636,form,What is your total number of corporate hours?
+5e5ed9033500008b011964cf,,91272,question,questionText,28636,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+5e5edae03500000d5c858554,,91273,question,questionText,28636,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+5e5edd503500008b011966c9,,91274,question,questionText,28636,form,"Did your company record/report any workplace accidents, occupational diseases, or specified dangerous occurrences (near misses)?"
+5e5edd503500008b011966c9,,91274,question,responseOption1,28636,form,Yes
+5e5edd503500008b011966c9,,91274,question,responseOption2,28636,form,No
+5e5eddc0360000c7ea73cf7e,,91275,question,questionText,28636,form,How many fatalities were there for the given year?
+5e5ede9c360000c7ea73cff8,,91276,question,description,28636,form,"Examples of major injuries include broken bones, amputations, unconsciousness and death. They also include injuries that would result in not being able to attend work for more than 3 consecutive days."
+5e5ede9c360000c7ea73cff8,,91276,question,questionText,28636,form,Number of _major_ injuries that are classified as _over-three-day_ injuries?
+5e5ee007350000c7ea62b0de,,91277,question,questionText,28636,form,Number of _major_ injuries that are classified as _under-three-day_ injuries?
+5e5ee0f63500008b01196e49,,91278,question,description,28636,form,"Minor injuries are typically those injuries not classified as a major such as a paper cut, twisted ankle, bruising or knock."
+5e5ee0f63500008b01196e49,,91278,question,questionText,28636,form,Number of _minor_ injuries?
+5e5ee1403500000d5c8590f8,,91279,question,description,28636,form,"A list of specific disease and the manners in which they are contracted. Examples such as anthrax, hepatitis, legionellosis or leptospirosis."
+5e5ee1403500000d5c8590f8,,91279,question,questionText,28636,form,Number of reportable diseases (including gas incidents)?
+5e5ee18f350000c7ea62b1bd,,91280,question,description,28636,form,Dangerous occurrences are certain listed near-miss events. Not every near miss event must be reported.
+5e5ee18f350000c7ea62b1bd,,91280,question,questionText,28636,form,Number of reportable dangerous occurrences (or near misses)?

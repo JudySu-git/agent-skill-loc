@@ -1,0 +1,124 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61c4df332f00004ffd6e7797,5e27715d3400008393dfc7cb,28499,questionGroup,questionGroupText,28499,form,Avetta PQF – Modern Slavery Statement Procedural Risk Factors (Australia)
+61c4dc702f00004ffd6e5f92,5e2b4ee2340000839399eb6d,28556,questionGroup,questionGroupText,28499,form,Operations and Using Third Parties
+5e2b4ef135000064e422ba81,5e2b4ef135000064e422ba80,28557,questionGroup,questionGroupText,28499,form,Pre contract
+61c4dc702f00004ffd6e5f91,5e2b4ef3340000839399eb90,28558,questionGroup,questionGroupText,28499,form,Operations & Contract Management
+5df16cb1360000fe2d53be73,,89423,question,questionText,28499,form,"If your company uses the services of subcontractors, labour only companies or labour from employment businesses/agencies on any of your worksites / premises, can you confirm that checks are in place to confirm they have controls in place and the systems have been assessed and validated to ensure they are not using workers illegally, and the workers being used are not forced to work or are subject to bonded labour?"
+5df16cb1360000fe2d53be73,,89423,question,responseOption1,28499,form,Yes
+5df16cb1360000fe2d53be73,,89423,question,responseOption2,28499,form,No
+5df16cb1360000fe2d53be73,,89423,question,responseOption3,28499,form,NA
+5df16cd9360000fe2d53c2b9,,89424,question,questionText,28499,form,Upload supporting evidence to confirm how this process is assured before using these workers 
+5df16ceb370000c041c58a18,,89425,question,questionText,28499,form,"As part of the due diligence process when using this category of worker, does your company ensure that the third party being used undertake eligibility checks on their workforce to confirm they can work legally in Australia?"
+5df16ceb370000c041c58a18,,89425,question,responseOption1,28499,form,Yes
+5df16ceb370000c041c58a18,,89425,question,responseOption2,28499,form,No
+5df16d053700009d4b345e38,,89426,question,questionText,28499,form,Upload supporting evidence to confirm how this process is assured before using these workers
+5df16d4e3700009d4b34723d,,89429,question,questionText,28499,form,"As part of the company procurement process for sourcing of suppliers/third parties, does the company utilise any form of risk assessment within their operations or when engaging with a new supplier / third party that considers the potential risks of slavery, human trafficking, forced labour and underage labour?\n\n"
+5df16d4e3700009d4b34723d,,89429,question,responseOption1,28499,form,Yes
+5df16d4e3700009d4b34723d,,89429,question,responseOption2,28499,form,No
+5df16d4e3700009d4b34723d,,89429,question,responseOption3,28499,form,Company currently developing process to be implemented within twelve months 
+5df16ec9360000fe2d541a35,,89431,question,questionText,28499,form,Does the risk assessment process include control measures to confirm foreseeable risks have been reduced to their lowest level?
+5df16ec9360000fe2d541a35,,89431,question,responseOption1,28499,form,Yes
+5df16ec9360000fe2d541a35,,89431,question,responseOption2,28499,form,No
+5df16ee5360000fe2d541c20,,89432,question,questionText,28499,form,Upload supporting documentation 
+5df16f07360000fe2d541c32,,89433,question,questionText,28499,form,"Can the company demonstrate that there are management systems and company processes in place that will monitor your operations and evaluate all categories of suppliers post contract award to ensure it mitigates the potential of the introduction of slavery into your supply chain? (All activities from supply of materials, provider of a specific service etc.)\n"
+5df16f07360000fe2d541c32,,89433,question,responseOption1,28499,form,Yes
+5df16f07360000fe2d541c32,,89433,question,responseOption2,28499,form,No
+5df268e53700009d4be767aa,,89441,question,questionText,28499,form,"If the company has implemented management controls as confirmed in part (a), are the controls applied to all levels / tiers within your supply chain?"
+5df268e53700009d4be767aa,,89441,question,responseOption1,28499,form,Yes
+5df268e53700009d4be767aa,,89441,question,responseOption2,28499,form,No
+5df2690e3700009d4be767ab,,89442,question,questionText,28499,form,"If you answer no, please advise what the restrictions are e.g. ‘We only assess all tier 1 suppliers.'"
+5df269393100003655bf9b5b,,89443,question,questionText,28499,form,"Please confirm what processes, associated with the question above, are used: "
+5df269393100003655bf9b5b,,89443,question,responseOption1,28499,form,Audit / Inspection programme: Pre contract evaluation
+5df269393100003655bf9b5b,,89443,question,responseOption2,28499,form,Audit / Inspection programme: During contract delivery
+5df269393100003655bf9b5b,,89443,question,responseOption3,28499,form,Formal reporting in event an ethical / human rights issue is identified
+5df269393100003655bf9b5b,,89443,question,responseOption4,28499,form,Investigation procedure in the event an ethical / human rights issue is identified
+5df269393100003655bf9b5b,,89443,question,responseOption5,28499,form,Formal prequalification evaluation by 3rd party
+5df269393100003655bf9b5b,,89443,question,responseOption6,28499,form,Independent whistle blower programme
+5df269393100003655bf9b5b,,89443,question,responseOption7,28499,form,Company currently developing processes for implementation within next twelve months
+5df269393100003655bf9b5b,,89443,question,responseOption8,28499,form,None of the above
+5df269c8340000fe2dfd9ec9,,89444,question,questionText,28499,form,"If none of the above, please specify in the free text box what actions are taken:"
+5df269de3100003655bf9baa,,89445,question,questionText,28499,form,Upload supporting evidence based on checked options 
+5df269f7340000fe2dfd9efc,,89446,question,questionText,28499,form,"Does the company participate within any 3rd party / independent ethical sourcing programme that is relevant to human rights, corporate social responsibility e.g. United Nations Global Compact, SA8000, SEDEX, BSCI?"
+5df269f7340000fe2dfd9efc,,89446,question,responseOption1,28499,form,Yes
+5df269f7340000fe2dfd9efc,,89446,question,responseOption2,28499,form,No
+5df269f7340000fe2dfd9efc,,89446,question,responseOption3,28499,form,Currently evaluating if this type of programme will assist the business in reducing the risk of modern slavery
+5df26aa0340000fe2dfd9efe,,89448,question,questionText,28499,form,Upload supporting evidence 
+5df26ade3700009d4be767b0,,89449,question,questionText,28499,form,"Can the company confirm there are processes in place to ‘map’ your supply chain, increasing its transparency / visibility and confirming who provides / delivers specific services to your business?"
+5df26ade3700009d4be767b0,,89449,question,responseOption1,28499,form,Yes
+5df26ade3700009d4be767b0,,89449,question,responseOption2,28499,form,No
+5df26ade3700009d4be767b0,,89449,question,responseOption3,28499,form,Processes being developed for implementation within twelve months (Ongoing development work)  
+5df26ade3700009d4be767b0,,89449,question,responseOption4,28499,form,Company has undertaken partial mapping of the supply chain only
+5df26b7c3700009d4be767b3,,89452,question,questionText,28499,form,Upload supporting evidence 
+5df26c213100003655bf9bb2,,89453,question,questionText,28499,form,Does your company undertake or use any form of evaluation audit / programme that analyses potential human rights issues within your operations or when engaging with suppliers?\n
+5df26c213100003655bf9bb2,,89453,question,responseOption1,28499,form,Yes
+5df26c213100003655bf9bb2,,89453,question,responseOption2,28499,form,No
+5df26cce340000fe2dfd9f04,,89455,question,questionText,28499,form,Does your company utilise a 3rd party programme / independent audit?
+5df26cce340000fe2dfd9f04,,89455,question,responseOption1,28499,form,Yes
+5df26cce340000fe2dfd9f04,,89455,question,responseOption2,28499,form,No
+5df26cea340000fe2dfd9f05,,89456,question,questionText,28499,form,Where does this occur?
+5df26cea340000fe2dfd9f05,,89456,question,responseOption1,28499,form,In your operations      
+5df26cea340000fe2dfd9f05,,89456,question,responseOption2,28499,form,In your international supply chain 
+5df26cea340000fe2dfd9f05,,89456,question,responseOption3,28499,form,In your domestic supply chain
+5df26cea340000fe2dfd9f05,,89456,question,responseOption4,28499,form,Other
+5df26d243700009d4be767b6,,89457,question,questionText,28499,form,Indicate below the audit timelines utilized: 
+5df26d243700009d4be767b6,,89457,question,responseOption1,28499,form,Evaluated during prequalification (pre-contract)
+5df26d243700009d4be767b6,,89457,question,responseOption2,28499,form,Evaluated during bid exercise (post prequalification)
+5df26d243700009d4be767b6,,89457,question,responseOption3,28499,form,"Specific performance criteria in place to monitor effectiveness of audit systems, processes or procedures  "
+5df26d243700009d4be767b6,,89457,question,responseOption4,28499,form,Part way through order delivery
+5df26d243700009d4be767b6,,89457,question,responseOption5,28499,form,Post contract delivery / Post work evaluation
+5df26d243700009d4be767b6,,89457,question,responseOption6,28499,form,Other
+5df26d243700009d4be767b6,,89457,question,responseOption7,28499,form,Post contract delivery / Post work evaluation
+5df26d243700009d4be767b6,,89457,question,responseOption8,28499,form,"Specific performance criteria in place to monitor effectiveness of audit systems, processes or procedures"
+5df26e993100003655bf9bb6,,89458,question,questionText,28499,form,"As part of the supplier engagement process, do formal contracts / arrangements placed with suppliers contain obligations placed upon them, that formally advise pre work / delivery they MUST advise if they will utilise specific subcontract services to deliver their operation on client infrastructure? "
+5df26e993100003655bf9bb6,,89458,question,responseOption1,28499,form,Yes
+5df26e993100003655bf9bb6,,89458,question,responseOption2,28499,form,No
+5df26e993100003655bf9bb6,,89458,question,responseOption3,28499,form,NA
+5df26eb83100003655bf9bb7,,89459,question,questionText,28499,form,"As part of the supplier engagement process, do formal contracts / arrangements placed with suppliers contain obligations placed upon them, that prevents the supplier from outsourcing manufacturing to other 3rd parties who have not been subject to any form of client evaluation?"
+5df26eb83100003655bf9bb7,,89459,question,responseOption1,28499,form,Yes
+5df26eb83100003655bf9bb7,,89459,question,responseOption2,28499,form,No
+5df26eb83100003655bf9bb7,,89459,question,responseOption3,28499,form,NA
+5df26ed83100003655bf9bb8,,89460,question,questionText,28499,form,Does your company currently provide training / briefing guides on how to recognise issues that may indicate the presence of: Slavery; Human trafficking; Forced labour and Underage labour?”
+5df26ed83100003655bf9bb8,,89460,question,responseOption1,28499,form,Yes
+5df26ed83100003655bf9bb8,,89460,question,responseOption2,28499,form,No
+5df26f143100003655bf9bba,,89462,question,questionText,28499,form,Please confirm who the training is provided to: 
+5df26f143100003655bf9bba,,89462,question,responseOption1,28499,form,General workforce (e.g. Company induction)
+5df26f143100003655bf9bba,,89462,question,responseOption2,28499,form,Procurement personnel (Specific to engagement with suppliers & work activity / service)
+5df26f143100003655bf9bba,,89462,question,responseOption3,28499,form,Forms part of contract with supply chain (issued as guidance or contract mandate)
+5df26f143100003655bf9bba,,89462,question,responseOption4,28499,form,Site based personnel (inhouse)
+5df26f143100003655bf9bba,,89462,question,responseOption5,28499,form,Other
+5df26f6f3700009d4be767bc,,89463,question,questionText,28499,form,"If Other, please specify:"
+5df26f9a3700009d4be767bd,,89464,question,questionText,28499,form,Upload supporting evidence 
+5df26fb13700009d4be767be,,89465,question,questionText,28499,form,"If an issue relating to slavery / human trafficking / forced labour and underage labour is suspected or identified within your operations or supply chain, has a mitigation / remediation plan been prepared and implemented to address the potential issues?"
+5df26fb13700009d4be767be,,89465,question,responseOption1,28499,form,Yes
+5df26fb13700009d4be767be,,89465,question,responseOption2,28499,form,No
+5df26fd53700009d4be767bf,,89466,question,questionText,28499,form,Is the remediation process different if the issue identified is with an international supplier?   
+5df26fd53700009d4be767bf,,89466,question,responseOption1,28499,form,Yes
+5df26fd53700009d4be767bf,,89466,question,responseOption2,28499,form,No
+5df270143100003655bf9bc0,,89468,question,questionText,28499,form,Is the company currently developing a process to be implemented within twelve months? 
+5df270143100003655bf9bc0,,89468,question,responseOption1,28499,form,Yes
+5df270143100003655bf9bc0,,89468,question,responseOption2,28499,form,No
+5df2703c3700009d4be767c3,,89469,question,questionText,28499,form,Upload supporting documentation
+5e2768df320000ad619bcdb8,,90810,question,questionText,28499,form,Is your Company currently developing process to be implemented within twelve months  
+5e2768df320000ad619bcdb8,,90810,question,responseOption1,28499,form,Yes
+5e2768df320000ad619bcdb8,,90810,question,responseOption2,28499,form,No
+5e2769643300008393c63524,,90811,question,questionText,28499,form,Is the company currently evaluating if this type of programme will assist the business? 
+5e2769643300008393c63524,,90811,question,responseOption1,28499,form,Yes
+5e2769643300008393c63524,,90811,question,responseOption2,28499,form,No
+5e2769d13500004a01d9c780,,90812,question,questionText,28499,form,Are processes being developed for implementation within twelve months? (Ongoing development work)  
+5e2769d13500004a01d9c780,,90812,question,responseOption1,28499,form,Yes
+5e2769d13500004a01d9c780,,90812,question,responseOption2,28499,form,No
+5e2769ec3300008393c63733,,90813,question,questionText,28499,form,Has the company undertaken partial mapping of the supply chain only? 
+5e2769ec3300008393c63733,,90813,question,responseOption1,28499,form,Yes
+5e2769ec3300008393c63733,,90813,question,responseOption2,28499,form,No
+5e276a743300008393c63b2c,,90814,question,questionText,28499,form,Has the mapping of your supply chain occurred in your domestic supply chain? 
+5e276a743300008393c63b2c,,90814,question,responseOption1,28499,form,Yes
+5e276a743300008393c63b2c,,90814,question,responseOption2,28499,form,No
+5e276a97320000ad619bd817,,90815,question,questionText,28499,form,Has the mapping of your supply chain occurred in your international supply chain? \n
+5e276a97320000ad619bd817,,90815,question,responseOption1,28499,form,Yes
+5e276a97320000ad619bd817,,90815,question,responseOption2,28499,form,No
+5e276e6c3400008393dfb34d,,90816,question,questionText,28499,form,Is the Company currently developing process to be implemented within twelve months?  
+5e276e6c3400008393dfb34d,,90816,question,responseOption1,28499,form,Yes
+5e276e6c3400008393dfb34d,,90816,question,responseOption2,28499,form,No
+5e286cea35000083933df625,,90941,question,questionText,28499,form,Upload supporting evidence
+5e286d1b3400007669eab66a,,90942,question,questionText,28499,form,Upload supporting evidence
+61c4dc6f2f00004ffd6e5f90,,118649,question,questionText,28499,form,Upload supporting evidence based on checked options 

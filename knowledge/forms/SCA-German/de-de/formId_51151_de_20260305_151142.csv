@@ -1,0 +1,9 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87739a36b6c4c635466d2,69a87739a36b6c4c635466d1,51151,questionGroup,questionGroupText,51151,form,Bau - Schulung,
+69a87739a36b6c4c635466ce,,200007,question,description,51151,form,"Vor Beginn der ersten Arbeiten auf der Baustelle ist eine Erstunterweisung über die sichere Arbeitsausführung und den Gesundheitsschutz durchzuführen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 154 Abs. 1</a>",
+69a87739a36b6c4c635466ce,,200007,question,questionText,51151,form,Baustelleneinweisung (vor Arbeitsbeginn),
+69a87739a36b6c4c635466cf,,200008,question,description,51151,form,"Eine Wiederholungsunterweisung muss jährlich sowie bei Änderungen, Unfällen oder Beinaheunfällen, die Gefährdungen begründen, durchgeführt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 154 Abs. 7</a>",
+69a87739a36b6c4c635466cf,,200008,question,questionText,51151,form,Wiederholungsunterweisung (jährlich und nach Ereignissen),
+69a87739a36b6c4c635466d0,,200009,question,questionText,51151,form,<div></div>,

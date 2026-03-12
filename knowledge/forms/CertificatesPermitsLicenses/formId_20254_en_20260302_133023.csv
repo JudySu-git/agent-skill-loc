@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+607062a843000090e862fc28,5af51787340000c203f8fccd,20254,questionGroup,questionGroupText,20254,form,Property Insurance
+6070620a4500009d89bbbc60,5af519172b0000ce036fc14e,20255,questionGroup,questionGroupText,20254,form,Policy Information
+54db8c4c5049438d4ac5a02d,,28855,question,questionText,20254,form,Date of Commencement:
+54db8c6b5049434442d46b68,,28856,question,questionText,20254,form,Expiration Date:
+5af519f13400005900f8fcdb,,70099,question,description,20254,form,Property Insurance Certificate
+5af519f13400005900f8fcdb,,70099,question,questionText,20254,form,Please upload Property Insurance Certificate.
+5d713cc935000005b1063112,,86274,question,questionText,20254,form,Insurance Carrier:
+6070620843000090e862f3ce,,108615,question,description,20254,form,Used to provide instructions from Client
+6070620843000090e862f3ce,,108615,question,questionText,20254,form,Comments
+6070627443000090e862fa32,,108616,question,description,20254,form,Date the instructions from Client expire
+6070627443000090e862fa32,,108616,question,questionText,20254,form,VARIANCE Expiration Date

@@ -1,0 +1,39 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+657b7bae180000ca3bb1275e,5dc06b7f3500008bc5e7c6ec,27675,questionGroup,questionGroupText,27675,form,Avetta PQF - Austria Company Information 
+657b7b93180000ce3bb1275c,5dc06bb0360000e61a776d58,27676,questionGroup,questionGroupText,27675,form,Austria
+5dc06bbd340000cf19344207,,87534,question,description,27675,form,"Most companies in Austria are required to register with the <a href=""https://www.justiz.gv.at/home/service/datenbanken/firmenbuch.36f.de.html"" target=""_blank"">Austrian Business Register</a> (Firmenbuch)."
+5dc06bbd340000cf19344207,,87534,question,questionText,27675,form,Is your company registered on the Business Register (Firmenbuch)?
+5dc06bbd340000cf19344207,,87534,question,responseOption1,27675,form,Yes
+5dc06bbd340000cf19344207,,87534,question,responseOption2,27675,form,No
+5dc06e9e360000e61a77c649,,87536,question,questionText,27675,form,Please provide your company's registration number (Firmenbuchnummer).
+5dc06ec13500008bc5e84132,,87537,question,description,27675,form,The UID (<i>Umsatzsteuer-Identifikationsnummer</i>) number is the local name of the Value-Added Tax (VAT) number.
+5dc06ec13500008bc5e84132,,87537,question,questionText,27675,form,Does your company have a UID number?
+5dc06ec13500008bc5e84132,,87537,question,responseOption1,27675,form,Yes
+5dc06ec13500008bc5e84132,,87537,question,responseOption2,27675,form,No
+5dc06eef340000cf1934b394,,87538,question,questionText,27675,form,Please provide your company's UID number.
+655bc6761800009b836f8b4b,,147172,question,questionText,27675,form,Please indicate your company's business entity / form of business within this country.
+655bc6761800009b836f8b4b,,147172,question,responseOption1,27675,form,Sole Proprietorship
+655bc6761800009b836f8b4b,,147172,question,responseOption2,27675,form,Corporation
+655bc6761800009b836f8b4b,,147172,question,responseOption3,27675,form,Limited Liability Company
+655bc6761800009b836f8b4b,,147172,question,responseOption4,27675,form,General Partnership
+655bc6761800009b836f8b4b,,147172,question,responseOption5,27675,form,Limited Partnership
+655bc6761800009b836f8b4b,,147172,question,responseOption6,27675,form,Foreign entity with no local fiscal presence
+655bc6761800009b836f8b4b,,147172,question,responseOption7,27675,form,Other
+655bc73b1800008b836f8caf,,147173,question,questionText,27675,form,Please indicate where your company is established:
+655bc73b1800008b836f8caf,,147173,question,responseOption1,27675,form,Yes
+655bc73b1800008b836f8caf,,147173,question,responseOption2,27675,form,No
+655bc748180000b6836f8cb2,,147174,question,questionText,27675,form,"If Other, please explain:"
+655bc748180000b6836f8cb2,,147174,question,responseOption1,27675,form,Yes
+655bc748180000b6836f8cb2,,147174,question,responseOption2,27675,form,No
+655bc7f0180000c1836f8cb5,,147175,question,questionText,27675,form,Please explain why:
+655bc7f0180000c1836f8cb5,,147175,question,responseOption1,27675,form,Yes
+655bc7f0180000c1836f8cb5,,147175,question,responseOption2,27675,form,No
+655bc80d18000098836f8cb8,,147176,question,questionText,27675,form,Please explain why:
+655bc80d18000098836f8cb8,,147176,question,responseOption1,27675,form,Yes
+655bc80d18000098836f8cb8,,147176,question,responseOption2,27675,form,No
+655bc873180000c1836f8cbc,,147177,question,questionText,27675,form,"What is your company’s primary Industry Classification Code (<a href\t= ""https://www.statistik.at/en/about-us/surveys/enterprises/oenace-2008""target=""_BLANK_"">ÖNACE</a>)?"
+655bc873180000c1836f8cbc,,147177,question,responseOption1,27675,form,Yes
+655bc873180000c1836f8cbc,,147177,question,responseOption2,27675,form,No
+655bc910180000b7836f8cbf,,147178,question,questionText,27675,form,"What is your company’s secondary Industry Classification Code  (<a href\t= ""https://www.statistik.at/en/about-us/surveys/enterprises/oenace-2008""target=""_BLANK_"">ÖNACE</a>)?"
+655bc910180000b7836f8cbf,,147178,question,responseOption1,27675,form,Yes
+655bc910180000b7836f8cbf,,147178,question,responseOption2,27675,form,No

@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6895079e0100000a01f3bf7e,6894e1730100005f0019dc1f,46970,questionGroup,description,46970,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+6895079e0100000a01f3bf7e,6894e1730100005f0019dc1f,46970,questionGroup,questionGroupText,46970,form,Netherlands Workers Compensation Insurance Applicability Assessment
+6894e1c5010000410019dc6a,,178199,question,description,46970,form,"All employers based in the Netherlands, as well as foreign employers with employees who live or work in the Netherlands, must comply with the requirements for occupational health and safety and employee insurance schemes. The UWV Employee Insurance Agency  provides more information on <a href = ""https://www.uwv.nl/nl/ziek/ziektewet-uitkering"" target = ""_BLANK_"" >Sickness Benefits Act</a>, <a href = ""https://www.uwv.nl/nl/premies-bedragen/tegemoetkoming-arbeidsongeschikten"" target = ""_BLANK_"" >Work and Income (Capacity for Work) Act</a>, and the <a href = ""https://www.uwv.nl/particulieren/werkloos"" target = ""_BLANK_"" >Unemployment Insurance Act</a>.\n<br/>\n\n\n\n\n\n\n\n"
+6894e1c5010000410019dc6a,,178199,question,questionText,46970,form,Is your company required to adhere to the following employee insurance schemes? \n\n* Sickness Benefits Act\n\n* Work and Income (Capacity for Work) Act\n\n* Unemployment Insurance Act
+6894e1c5010000410019dc6a,,178199,question,responseOption1,46970,form,Yes
+6894e1c5010000410019dc6a,,178199,question,responseOption2,46970,form,No
+6894e26d010000450019dc6f,,178200,question,questionText,46970,form,Please select from the following reasons your company is exempt from adhering to any of these employee insurance schemes.
+6894e26d010000450019dc6f,,178200,question,responseOption1,46970,form,The company is not based in the Netherlands and has no employees working in the Netherlands.
+6894e26d010000450019dc6f,,178200,question,responseOption2,46970,form,The company is a sole proprietorship with no employees in the Netherlands.
+6894e26d010000450019dc6f,,178200,question,responseOption3,46970,form,The company has foreign employee(s) working temporarily (less than 24 months) in the Netherlands that are covered by the home country's scheme and are prepared to provide a copy of the A1 certificate(s) upon request.
+6894e26d010000450019dc6f,,178200,question,responseOption4,46970,form,You are a self-employed individual on assignment in the Netherlands that is covered by your home country's scheme and are prepared to provide a copy of your A1 certificate upon request.
+6894e26d010000450019dc6f,,178200,question,responseOption5,46970,form,Other
+6894e2ab010000460019dc72,,178201,question,questionText,46970,form,Please explain why your company is not required to adhere to these employee insurance schemes. 

@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+691607220100003d00926b7b,683dc4610100003c0092cb14,46206,questionGroup,description,46206,form,"If your company is required to register with the Trade and Businesses Register (RCS), you will be asked to provide the relevant extract in a subsequent form.\n\n"
+691607220100003d00926b7b,683dc4610100003c0092cb14,46206,questionGroup,questionGroupText,46206,form,France KBIS Extract Applicability Assessment
+683dc50b010000570092cb1b,,174599,question,description,46206,form,"Extract K or KBIS can be used to prove that a company is registered in the Trade and Businesses Register (RCS). <a href = ""https://entreprendre.service-public.fr/vosdroits/F21000"" target = ""_BLANK_"" >Follow this link </a> for more information about the KBIS Extract."
+683dc50b010000570092cb1b,,174599,question,questionText,46206,form,Is your company required to have a KBIS Extract?
+683dc50b010000570092cb1b,,174599,question,responseOption1,46206,form,Yes
+683dc50b010000570092cb1b,,174599,question,responseOption2,46206,form,No
+683dc548010000350092cb1c,,174600,question,description,46206,form,"<a href = ""https://entreprendre.service-public.fr/vosdroits/F21000?"" target = ""_BLANK_"" >French Service Public – Entreprendre KBIS  Extract Information</a>\n"
+683dc548010000350092cb1c,,174600,question,questionText,46206,form,Please select from the following reasons your company is exempt from needing a KBIS Extract.
+683dc548010000350092cb1c,,174600,question,responseOption1,46206,form,"The company is a handcrafted or liberal activity company and is registered in the National Register of Companies (RNE) instead of the RCS. The company obtains a proof of registration with the RNE (RNE extract), the functional equivalent to the KBIS."
+683dc548010000350092cb1c,,174600,question,responseOption2,46206,form,"The company is an individual enterprise or sole proprietorship and receives a K extract instead of a KBIS, which applies only to legal entities."
+683dc548010000350092cb1c,,174600,question,responseOption3,46206,form,"The company is a non-commercial entity not engaged in commercial activities (e.g., certain agricultural or non-profit entities)."
+683dc548010000350092cb1c,,174600,question,responseOption4,46206,form,The company does not perform work in France.
+683dc548010000350092cb1c,,174600,question,responseOption5,46206,form,The company is registered in a country outside of France. 
+683dc548010000350092cb1c,,174600,question,responseOption6,46206,form,Other
+683dc5e1010000560092cb1e,,174601,question,questionText,46206,form,Please explain why your company is exempt from needing a KBIS Extract.

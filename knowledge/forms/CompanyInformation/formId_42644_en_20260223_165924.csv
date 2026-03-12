@@ -1,0 +1,67 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66672066010000a1006650f3,66637ef60100003600c81dc5,42644,questionGroup,questionGroupText,42644,form,Avetta PQF - Macao Company Information
+66637ef60100003800c81dc6,66637ef60100003800c81dc6,42645,questionGroup,questionGroupText,42644,form,Macao
+66637ef60100003b00c81dc7,,156062,question,description,42644,form,"<a href=""https://www.dsf.gov.mo/"" target=""blank"">Macao Finance Bureau (DSF)</a>"
+66637ef60100003b00c81dc7,,156062,question,questionText,42644,form,Is your company registered with the Macao Finance Bureau (DSF)?
+66637ef60100003b00c81dc7,,156062,question,responseOption1,42644,form,Yes
+66637ef60100003b00c81dc7,,156062,question,responseOption2,42644,form,No
+66637ef60100002900c81dd6,,156063,question,questionText,42644,form,Please explain:
+66637ef60100002900c81dd6,,156063,question,responseOption1,42644,form,Yes
+66637ef60100002900c81dd6,,156063,question,responseOption2,42644,form,No
+66637ef60100003500c81dc9,,156064,question,questionText,42644,form,Please provide your company's Tax Identification Number (TIN).
+66637ef60100003500c81dc9,,156064,question,responseOption1,42644,form,Yes
+66637ef60100003500c81dc9,,156064,question,responseOption2,42644,form,No
+66637ef60100002900c81dca,,156065,question,questionText,42644,form,Please indicate where your company is established:
+66637ef60100002900c81dca,,156065,question,responseOption1,42644,form,Yes
+66637ef60100002900c81dca,,156065,question,responseOption2,42644,form,No
+66637ef60100003800c81dcb,,156066,question,description,42644,form,"<a href=""https://www.dsedt.gov.mo/zh_MO/pg_home;jsessionid=0602C631D33EC78F46782B919B6E3308"" target=""blank"">Economic and Technological Development Bureau - DSEDT</a>"
+66637ef60100003800c81dcb,,156066,question,questionText,42644,form,Do you know your company's Industry Classification code in Macao?
+66637ef60100003800c81dcb,,156066,question,responseOption1,42644,form,Yes
+66637ef60100003800c81dcb,,156066,question,responseOption2,42644,form,No
+66637ef60100003800c81dd3,,156067,question,questionText,42644,form,Does your company have a VAT registration number?
+66637ef60100003800c81dd3,,156067,question,responseOption1,42644,form,Yes
+66637ef60100003800c81dd3,,156067,question,responseOption2,42644,form,No
+66637ef60100003500c81dcd,,156068,question,questionText,42644,form,Please explain:
+66637ef60100003500c81dcd,,156068,question,responseOption1,42644,form,Yes
+66637ef60100003500c81dcd,,156068,question,responseOption2,42644,form,No
+66637ef60100003b00c81dc8,,156069,question,questionText,42644,form,
+66637ef60100003b00c81dc8,,156069,question,responseOption1,42644,form,Yes
+66637ef60100003b00c81dc8,,156069,question,responseOption2,42644,form,No
+66637ef60100003800c81dcc,,156070,question,questionText,42644,form,Please explain:
+66637ef60100003800c81dcc,,156070,question,responseOption1,42644,form,Yes
+66637ef60100003800c81dcc,,156070,question,responseOption2,42644,form,No
+66637ef60100002900c81dd4,,156071,question,questionText,42644,form,Please explain:
+66637ef60100002900c81dd4,,156071,question,responseOption1,42644,form,Yes
+66637ef60100002900c81dd4,,156071,question,responseOption2,42644,form,No
+66637ef60100002900c81dd7,,156072,question,questionText,42644,form,Does your company have a Tax Identification Number (TIN) with the Macao Finance Bureau (DSF)?
+66637ef60100002900c81dd7,,156072,question,responseOption1,42644,form,Yes
+66637ef60100002900c81dd7,,156072,question,responseOption2,42644,form,No
+66637ef60100003500c81dd1,,156073,question,description,42644,form,"<a href=""https://www.dsaj.gov.mo/"" target=""blank"">Macao Commercial and Movable Property Registry</a>"
+66637ef60100003500c81dd1,,156073,question,questionText,42644,form,Is your company registered with the Macao Commercial and Movable Property Registry?
+66637ef60100003500c81dd1,,156073,question,responseOption1,42644,form,Yes
+66637ef60100003500c81dd1,,156073,question,responseOption2,42644,form,No
+66637ef60100002900c81dd2,,156074,question,description,42644,form,"<a href=""https://www.ipim.gov.mo/en/"" target=""blank"">Macao Trade and Investment Promotion Institute</a>"
+66637ef60100002900c81dd2,,156074,question,questionText,42644,form,Please indicate your company's business entity / form of business within Macao.
+66637ef60100002900c81dd2,,156074,question,responseOption1,42644,form,Personal Commercial Enterprise (Empresa Individual de Responsabilidade Limitada): A simple structure for sole proprietors. Owner has unlimited liability for debts.
+66637ef60100002900c81dd2,,156074,question,responseOption2,42644,form,Corporate Commercial Enterprise (Sociedade Comercial por Quotas): Most common limited liability company. Offers limited liability protection for shareholders.
+66637ef60100002900c81dd2,,156074,question,responseOption3,42644,form,One-Person Limited Liability Company (Sociedade Unipessoal Limitada): Similar to a Corporate Commercial Enterprise with just one shareholder (and director). Offers limited liability protection.
+66637ef60100002900c81dd2,,156074,question,responseOption4,42644,form,Public Limited Company (Sociedade Anonima): Complex structure for larger businesses seeking public offerings. Offers limited liability for shareholders.
+66637ef60100002900c81dd2,,156074,question,responseOption5,42644,form,"Partnership (Sociedade Irregular): A business agreement between two or more parties who share ownership, profits, and losses."
+66637ef60100002900c81dd2,,156074,question,responseOption6,42644,form,Foreign entity with no local fiscal presence
+66637ef60100002900c81dd2,,156074,question,responseOption7,42644,form,Other
+66637ef60100002900c81dd2,,156074,question,responseOption8,42644,form,Other
+66637ef60100003500c81dce,,156075,question,questionText,42644,form,Please provide the VAT registration number.
+66637ef60100003500c81dce,,156075,question,responseOption1,42644,form,Yes
+66637ef60100003500c81dce,,156075,question,responseOption2,42644,form,No
+66637ef60100003500c81dcf,,156076,question,questionText,42644,form,Please explain:
+66637ef60100003500c81dcf,,156076,question,responseOption1,42644,form,Yes
+66637ef60100003500c81dcf,,156076,question,responseOption2,42644,form,No
+66637ef60100002900c81dd5,,156077,question,questionText,42644,form,Please explain:
+66637ef60100002900c81dd5,,156077,question,responseOption1,42644,form,Yes
+66637ef60100002900c81dd5,,156077,question,responseOption2,42644,form,No
+66637ef60100003800c81dd8,,156078,question,questionText,42644,form,"Does your company have a ""Company Registration Number"" or ""CR Number"" in the Macao Commercial and Movable Property Registry?"
+66637ef60100003800c81dd8,,156078,question,responseOption1,42644,form,Yes
+66637ef60100003800c81dd8,,156078,question,responseOption2,42644,form,No
+66637ef60100002900c81dd0,,156079,question,questionText,42644,form,Please provide your company's Industry Classification code in Macao.\n
+66637ef60100002900c81dd0,,156079,question,responseOption1,42644,form,Yes
+66637ef60100002900c81dd0,,156079,question,responseOption2,42644,form,No

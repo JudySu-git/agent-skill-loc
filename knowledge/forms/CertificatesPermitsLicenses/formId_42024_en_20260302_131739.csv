@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce49c50100003700ebe51b,662fecc71b00002900b6e5e3,42024,questionGroup,description,42024,form,You are getting this category because you selected a license in the Avetta PQF - Queensland License.
+66ce49c50100003700ebe51b,662fecc71b00002900b6e5e3,42024,questionGroup,questionGroupText,42024,form,Queensland Contractor License - Transport Explosives and / or Security Sensitive Dangerous Substance
+662fecc71b00003300b6e5e6,,153376,question,questionText,42024,form,License Number:
+662fecc71b00003300b6e5e6,,153376,question,responseOption1,42024,form,Yes
+662fecc71b00003300b6e5e6,,153376,question,responseOption2,42024,form,No
+662fecc71b00002d00b6e5e4,,153377,question,questionText,42024,form,Expiration Date:
+662fecc71b00002d00b6e5e4,,153377,question,responseOption1,42024,form,Yes
+662fecc71b00002d00b6e5e4,,153377,question,responseOption2,42024,form,No
+662fecc71b00003000b6e5e5,,153378,question,questionText,42024,form,Please upload your license:\n
+662fecc71b00003000b6e5e5,,153378,question,responseOption1,42024,form,Yes
+662fecc71b00003000b6e5e5,,153378,question,responseOption2,42024,form,No

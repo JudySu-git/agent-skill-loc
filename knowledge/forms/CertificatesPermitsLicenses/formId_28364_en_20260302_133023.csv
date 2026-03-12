@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+667b462c010000080124708e,5dfd177f3700001c1f3103d9,28364,questionGroup,questionGroupText,28364,form,Avetta PQF - US Supplier Diversity: Veteran-Owned Business
+6580e858180000c63a6e75bd,5dfd17a03700001c1f310887,28365,questionGroup,description,28364,form,You are receiving this category because you selected Veteran-Owned Business in the United States Supplier Diversity Certification Questionnaire.
+6580e858180000c63a6e75bd,5dfd17a03700001c1f310887,28365,questionGroup,questionGroupText,28364,form,Veteran-Owned Business
+572a4f5a5049439fc1456d07,,37533,question,questionText,28364,form,Please select the certifying body / certificate issuer for your company’s Veteran-Owned Business certification.
+572a4f5a5049439fc1456d07,,37533,question,responseOptionNaVOBA,28364,form,National Veteran-Owned Business Association (NaVOBA)
+572a4f5a5049439fc1456d07,,37533,question,responseOptionOther,28364,form,Other / Not Listed
+572a4f5a5049439fc1456d07,,37533,question,responseOptionVA,28364,form,Department of Veterans Affairs (VA)
+572a4fa25049435bdbeb040f,,37534,question,questionText,28364,form,Other was selected; please specify:
+5dfd19313700001c1f31314c,,90272,question,questionText,28364,form,Issue Date:
+5dfd193b3700001c1f31335c,,90274,question,questionText,28364,form,Expiration Date:
+5dfd194e320000fe2d7b1ef0,,90276,question,questionText,28364,form,Certificate Number:
+5dfd19893700001c1f31368f,,90278,question,questionText,28364,form,Please Upload a copy of your certification certificate:

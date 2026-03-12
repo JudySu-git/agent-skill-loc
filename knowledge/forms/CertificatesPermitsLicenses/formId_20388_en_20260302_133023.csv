@@ -1,0 +1,23 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5a8dbd3f5049434da2eded73,5a8dbd3f5049434da2eded73,12753,questionGroup,questionGroupText,20388,form,Australia
+5a8dbf0e5049434bc6bc066d,5a8dbf0e5049434bc6bc066d,12754,questionGroup,questionGroupText,20388,form,ANZSIC Code
+611bd15c3e00006b4a7b291b,5b3285973500001a014788f8,20388,questionGroup,questionGroupText,20388,form,QuickVett - Australia
+5a8dbd9650494384245d53ee,,52439,question,questionText,20388,form,Does your company have an Australian Business Number (ABN) and therefore registered with the Australian Business Register (ABR)?
+5a8dbd9650494384245d53ee,,52439,question,responseOptionNo,20388,form,No
+5a8dbd9650494384245d53ee,,52439,question,responseOptionYes,20388,form,Yes
+5a8dbdcb504943ed333cad9b,,52440,question,description,20388,form,"**The below field requires 11 digits to be entered. If you receive a red error message below the field, please review your ABN entered to ensure the correct amount of digits have been entered.**\n\n"
+5a8dbdcb504943ed333cad9b,,52440,question,questionText,20388,form,What is your company's Australian Business Number (ABN)?
+5a8dbdea504943c4aad289c1,,52441,question,questionText,20388,form,Does your company have an Australian Company Number (ACN)?
+5a8dbdea504943c4aad289c1,,52441,question,responseOptionNo,20388,form,No
+5a8dbdea504943c4aad289c1,,52441,question,responseOptionYes,20388,form,Yes
+5a8dbe3f504943ceb291ded5,,52442,question,description,20388,form,"The below field requires 9 digits to be entered. If your ACN starts with leading zeroes please ensure these are entered. Prior to submission, please review your ACN entered to ensure the correct amount of digits have been entered."
+5a8dbe3f504943ceb291ded5,,52442,question,questionText,20388,form,What is your company's Australian Company Number (ACN)?
+5a8dbe555049437ad1a4f43a,,52443,question,questionText,20388,form,Please indicate your company's business entity / form of business within this country.
+5a8dbf6b50494381e39cd25a,,52446,question,linkhttp://www.abs.gov.au/ausstats/abs@.nsf/Latestproducts/1292.0Search12006%20%28Revision%202.0%29?opendocument&tabname=Summary&prodno=1292.0&issue=2006%20%28Revision%202.0%29&num=&view=,20388,form,Click here to locate your company's ANZSIC code through the Australian Bureau of Statistics
+5a8dbf6b50494381e39cd25a,,52446,question,linkhttp://www.abs.gov.au/ausstats/abs@.nsf/latestproducts/1292.0search12006%20%28revision%202.0%29?opendocument&tabname=summary&prodno=1292.0&issue=2006%20%28revision%202.0%29&num=&view=,20388,form,Click here to locate your company's ANZSIC code through the Australian Bureau of Statistics
+5a8dbf6b50494381e39cd25a,,52446,question,linkhttps://businessdescription.co.nz/#/home,20388,form,Click here to locate your company's ANZSIC code through Statistics New Zealand
+5a8dbf6b50494381e39cd25a,,52446,question,questionText,20388,form,What is your company's primary ANZSIC Code? \n
+5a8dbf82504943564bf8e545,,52449,question,linkhttp://www.abs.gov.au/ausstats/abs@.nsf/Latestproducts/1292.0Search12006%20%28Revision%202.0%29?opendocument&tabname=Summary&prodno=1292.0&issue=2006%20%28Revision%202.0%29&num=&view=,20388,form,Click here to locate your company's additional ANZSIC code through the Australian Bureau of Statistics
+5a8dbf82504943564bf8e545,,52449,question,linkhttp://www.abs.gov.au/ausstats/abs@.nsf/latestproducts/1292.0search12006%20%28revision%202.0%29?opendocument&tabname=summary&prodno=1292.0&issue=2006%20%28revision%202.0%29&num=&view=,20388,form,Click here to locate your company's additional ANZSIC code through the Australian Bureau of Statistics
+5a8dbf82504943564bf8e545,,52449,question,linkhttps://businessdescription.co.nz/#/home,20388,form,Click here to locate your company's additional ANZSIC code through Statistics New Zealand
+5a8dbf82504943564bf8e545,,52449,question,questionText,20388,form,What is your company's secondary ANZSIC Code? \n

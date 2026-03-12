@@ -1,0 +1,27 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+602c2aa4450000d9ba1c1345,60270b6d44000005158c092b,32425,questionGroup,questionGroupText,32425,form,Avetta PQF - Migratory Birds
+60270b7e420000fc2de1cbee,,107006,question,questionText,32425,form,Does your company have a policy that addresses the Migratory Bird Protection Act/Bald & Golden Eagle Protection Act?
+60270b7e420000fc2de1cbee,,107006,question,responseOption1,32425,form,Yes
+60270b7e420000fc2de1cbee,,107006,question,responseOption2,32425,form,No
+60270be7420000fc2de1cf7d,,107007,question,questionText,32425,form,Please upload a copy of your company's policy:
+60270c28420000fc2de1d1c9,,107008,question,questionText,32425,form,Does your company's Migratory Bird Protection Act/Bald & Golden Eagle Protection  Act policy address the following:\n\nStop Work Process?
+60270c28420000fc2de1d1c9,,107008,question,responseOption1,32425,form,Yes
+60270c28420000fc2de1d1c9,,107008,question,responseOption2,32425,form,No
+60270c5744000005158c19ef,,107009,question,questionText,32425,form,Process for notifying the tower owner?
+60270c5744000005158c19ef,,107009,question,responseOption1,32425,form,Yes
+60270c5744000005158c19ef,,107009,question,responseOption2,32425,form,No
+60270c76420000fc2de1d7b7,,107010,question,questionText,32425,form,Species identification?
+60270c76420000fc2de1d7b7,,107010,question,responseOption1,32425,form,Yes
+60270c76420000fc2de1d7b7,,107010,question,responseOption2,32425,form,No
+60270caf420000fc2de1d7be,,107011,question,questionText,32425,form,Policy for when birds/nests are present?
+60270caf420000fc2de1d7be,,107011,question,responseOption1,32425,form,Yes
+60270caf420000fc2de1d7be,,107011,question,responseOption2,32425,form,No
+60270ce544000005158c2145,,107012,question,questionText,32425,form,Policy for all bird types protected under the Migratory Bird Act?
+60270ce544000005158c2145,,107012,question,responseOption1,32425,form,Yes
+60270ce544000005158c2145,,107012,question,responseOption2,32425,form,No
+60270cf944000005158c242d,,107013,question,questionText,32425,form,"Stop Work Process if Eagles, Eaglets or nests are observed?"
+60270cf944000005158c242d,,107013,question,responseOption1,32425,form,Yes
+60270cf944000005158c242d,,107013,question,responseOption2,32425,form,No
+60270d0944000005158c2559,,107014,question,questionText,32425,form,"Safe work process for working around migratory Birds, nest, etc. when work has been approved?"
+60270d0944000005158c2559,,107014,question,responseOption1,32425,form,Yes
+60270d0944000005158c2559,,107014,question,responseOption2,32425,form,No

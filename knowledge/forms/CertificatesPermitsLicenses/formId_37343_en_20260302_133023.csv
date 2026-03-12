@@ -1,0 +1,25 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6761cc930100009000bc6d81,635071cc1900000f066a0587,37343,questionGroup,description,37343,form,"ISO Certificates issued for a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+6761cc930100009000bc6d81,635071cc1900000f066a0587,37343,questionGroup,questionGroupText,37343,form,Avetta PQF - ISO Certifications Questionnaire
+635072a719000011076a0e76,,131865,question,description,37343,form,"<a href=""https://www.iso.org/home.html"" target=""_BLANK"">ISO - International Organization of Standardization</a>\n\n<ul>\n•\tISO 9001:2015 - Quality Management Systems\n•\tISO 14001:2015 - Environmental Management Systems\n•\tISO/IEC 20000-1:2018 - Information Technology\n•\tISO 22000:2018 - Food Safety Management Systems\n•\tISO/IEC 27001:2022 - Information Technology - Security Techniques\n•\tISO 29001:2020 - Petroleum, Petrochemical and Natural Gas Industries\n•\tISO 22301:2019 - Security and Resilience\n•\tISO 44001:2017 - Collaborative Business Relationship Management Systems\n•\tISO 28000:2022 - Specification for Security Management Systems for the Supply Chain\n•\tISO 28001:2007 - Security Management Systems for the Supply Chain\n•\tISO 28002:2011 - Security Management Systems for the Supply Chain\n•\tISO 37001:2018 - Anti-bribery Management Systems\n•\tISO 39001:2012 - Road Traffic Safety (RTS) Management Systems                                                    \n•\tISO 50001:2018 - Energy Management Systems\n•\tISO 41001:2018 - Facility Management\n•\tISO 45001:2023 - Occupational Health and Safety Management Systems\n• ISO/IEC 17025 - Testing and Calibration Laboratories\n</ul>"
+635072a719000011076a0e76,,131865,question,questionText,37343,form,Does your company hold any current ISO Certificates listed below?
+635072a719000011076a0e76,,131865,question,responseOption1,37343,form,Yes
+635072a719000011076a0e76,,131865,question,responseOption2,37343,form,No
+635072de1600000505809424,,131866,question,questionText,37343,form,Please select the ISO Certificate(s) your company currently holds. Please select all that apply.
+635072de1600000505809424,,131866,question,responseOption1,37343,form,ISO 9001:2015 - Quality Management Systems
+635072de1600000505809424,,131866,question,responseOption10,37343,form,ISO 44001:2017 - Collaborative Business Relationship Management Systems
+635072de1600000505809424,,131866,question,responseOption11,37343,form,ISO 28000:2022 - Specification for Security Management Systems for the Supply Chain
+635072de1600000505809424,,131866,question,responseOption12,37343,form,ISO 28001:2007 - Security Management Systems for the Supply Chain
+635072de1600000505809424,,131866,question,responseOption13,37343,form,ISO 28002:2011 - Security Management Systems for the Supply Chain
+635072de1600000505809424,,131866,question,responseOption14,37343,form,ISO 37001:2018 - Anti-bribery Management Systems
+635072de1600000505809424,,131866,question,responseOption15,37343,form,ISO 50001:2018 - Energy Management Systems
+635072de1600000505809424,,131866,question,responseOption16,37343,form,ISO 41001:2018 - Facility Management
+635072de1600000505809424,,131866,question,responseOption17,37343,form,ISO 45001:2023 - Occupational Health and Safety Management Systems
+635072de1600000505809424,,131866,question,responseOption18,37343,form,ISO 39001:2012 - Road Traffic Safety (RTS) Management Systems
+635072de1600000505809424,,131866,question,responseOption19,37343,form,ISO/IEC 17025 - Testing and Calibration Laboratories
+635072de1600000505809424,,131866,question,responseOption2,37343,form,ISO 14001:2015 - Environmental Management Systems
+635072de1600000505809424,,131866,question,responseOption3,37343,form,ISO/IEC 20000-1:2018 - Information Technology
+635072de1600000505809424,,131866,question,responseOption4,37343,form,ISO 22000:2018 - Food Safety Management Systems
+635072de1600000505809424,,131866,question,responseOption5,37343,form,ISO/IEC 27001:2022 - Information Technology - Security Techniques
+635072de1600000505809424,,131866,question,responseOption8,37343,form,"ISO 29001:2020 - Petroleum, Petrochemical and Natural Gas Industries"
+635072de1600000505809424,,131866,question,responseOption9,37343,form,ISO 22301:2019 - Security and Resilience

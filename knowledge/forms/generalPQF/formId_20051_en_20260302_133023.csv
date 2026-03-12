@@ -1,0 +1,83 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6580c5e1180000663a6e6c77,5aaddf4f2400006e00183e5b,20051,questionGroup,questionGroupText,20051,form,Avetta PQF - Canada Supplier Diversity
+546a732e504943f97293e497,,27017,question,questionText,20051,form,Does your company have Indigenous personnel?
+546a732e504943f97293e497,,27017,question,responseOptionNo,20051,form,No
+546a732e504943f97293e497,,27017,question,responseOptionYes,20051,form,Yes
+546a73a9504943d71e87ec9e,,27018,question,description,20051,form,Provide your answer in decimal format. For example 85% would be entered as .85
+546a73a9504943d71e87ec9e,,27018,question,questionText,20051,form,Provide the percentage of permanent Indigenous employees.
+546a73ab5049431242938675,,27019,question,description,20051,form,Provide your answer in decimal format. For example 85% would be entered as .85
+546a73ab5049431242938675,,27019,question,questionText,20051,form,Provide the percentage of temporary Indigenous employees.
+546a757550494379c27dd35f,,27021,question,questionText,20051,form,Upload proof of Indigenous-Owned Business certification:
+6580c2c01800008e3a6e6b1a,61c4f25e2f00004ffd6f4a8e,34661,questionGroup,questionGroupText,20051,form,Supplier Diversity Certifications
+6580c300180000873a6e6b1e,61c4f4ae2f00001908b0c0cf,34662,questionGroup,questionGroupText,20051,form,Indigenous Content 
+61c4f8d42f00001908b0db38,61c4f8d42f00001908b0db37,34663,questionGroup,questionGroupText,20051,form,Women-Owned Business
+61c4fad02f00001908b0db5d,61c4fad02f00001908b0db5c,34664,questionGroup,questionGroupText,20051,form,Minority-Owned Business 
+6580c36a1800008b3a6e6b7f,61c4fbd52f00001908b10604,34665,questionGroup,questionGroupText,20051,form,2SLGBTQI+ Owned Business 
+6580c59e1a0000073949a8dc,61c4fbde2f00004ffd6f84d5,34666,questionGroup,questionGroupText,20051,form,Veteran-Owned Certified Business 
+6580c403180000873a6e6b86,6580c403180000873a6e6b85,40936,questionGroup,questionGroupText,20051,form,Disabled-Owned Business
+61c4f2f62f00001908b0ac68,,118650,question,description,20051,form,"In Canada, a business is classified as a diverse supplier if they are 51% owned & operated with certification, and controlled by one or more of the following: Woman, Minority, Indigenous, 2SLGBTQI+, Veteran, or Disabled"
+61c4f2f62f00001908b0ac68,,118650,question,questionText,20051,form,Does your company hold any Supplier Diversity Certifications?
+61c4f2f62f00001908b0ac68,,118650,question,responseOption1,20051,form,Yes
+61c4f2f62f00001908b0ac68,,118650,question,responseOption2,20051,form,No
+61c4f3352f00001908b0ae5b,,118651,question,questionText,20051,form,Minority-Owned Certified Business 
+61c4f3352f00001908b0ae5b,,118651,question,responseOption1,20051,form,Yes
+61c4f3352f00001908b0ae5b,,118651,question,responseOption2,20051,form,No
+61c4f3572f00001908b0af82,,118652,question,questionText,20051,form,Indigenous-Owned Certified Business
+61c4f3572f00001908b0af82,,118652,question,responseOption1,20051,form,Yes
+61c4f3572f00001908b0af82,,118652,question,responseOption2,20051,form,No
+61c4f3682f00004ffd6f532f,,118653,question,questionText,20051,form,Women-Owned Certified Business
+61c4f3682f00004ffd6f532f,,118653,question,responseOption1,20051,form,Yes
+61c4f3682f00004ffd6f532f,,118653,question,responseOption2,20051,form,No
+61c4f3832f00001908b0b0ec,,118654,question,questionText,20051,form,2SLGBTQI+ Owned Certified Business
+61c4f3832f00001908b0b0ec,,118654,question,responseOption1,20051,form,Yes
+61c4f3832f00001908b0b0ec,,118654,question,responseOption2,20051,form,No
+61c4f42f2f00001908b0bc78,,118655,question,questionText,20051,form,Veteran-Owned Certified Business 
+61c4f42f2f00001908b0bc78,,118655,question,responseOption1,20051,form,Yes
+61c4f42f2f00001908b0bc78,,118655,question,responseOption2,20051,form,No
+61c4f5f42f00001908b0ca5d,,118656,question,questionText,20051,form,Please indicate the certifying body/certificate issuer for your company’s Indigenous-Owned Certified Business
+61c4f5f42f00001908b0ca5d,,118656,question,responseOption1,20051,form,Canadian Aboriginal and Minority Supplier Council (CAMSC)
+61c4f5f42f00001908b0ca5d,,118656,question,responseOption2,20051,form,Canadian Council for Aboriginal Business (CCAB)
+61c4f5f42f00001908b0ca5d,,118656,question,responseOption3,20051,form,Northeastern Alberta Aboriginal Business Association (NAABA)
+61c4f5f42f00001908b0ca5d,,118656,question,responseOption4,20051,form,British Columbia Aboriginal Business Association (BCABA)
+61c4f5f42f00001908b0ca5d,,118656,question,responseOption5,20051,form,Other Option 
+61c4f6272f00001908b0cc92,,118657,question,questionText,20051,form,Other Option
+61c4f6622f00001908b0cdff,,118658,question,description,20051,form,Provide your answer in decimal format. For example 85% would be entered as .85
+61c4f6622f00001908b0cdff,,118658,question,questionText,20051,form,What Percentage of your company is Indigenous Owned?\n
+61c4f6862f00004ffd6f6373,,118659,question,questionText,20051,form,Expiry Date
+61c4f8e02f00001908b0db3a,,118660,question,questionText,20051,form,Please indicate the certifying body/certificate issuer for your company’s Women Owned Business
+61c4f8e02f00001908b0db3a,,118660,question,responseOption1,20051,form,WBE Canada
+61c4f8e02f00001908b0db3a,,118660,question,responseOption2,20051,form,WEConnect International 
+61c4f8e02f00001908b0db3a,,118660,question,responseOption3,20051,form,Other Option
+61c4f8fe2f00001908b0db3c,,118661,question,questionText,20051,form,Other Option
+61c4fa1c2f00001908b0db55,,118662,question,questionText,20051,form,Upload your company’s Women-Owned Business certification
+61c4fa2f2f00004ffd6f7fd7,,118663,question,questionText,20051,form,Expiry Date
+61c4fae92f00004ffd6f817f,,118664,question,questionText,20051,form,Please indicate the certifying body/certificate issuer for your company’s Minority-Owned Business
+61c4fae92f00004ffd6f817f,,118664,question,responseOption1,20051,form,CAMSC (Canadian Aboriginal and Minority Supplier Council)
+61c4fae92f00004ffd6f817f,,118664,question,responseOption2,20051,form,Other Option
+61c4faf32f00001908b0db60,,118665,question,questionText,20051,form,Other Option
+61c4fb1e2f00001908b0db8c,,118666,question,questionText,20051,form,Upload your company’s Minority-Owned Business certification
+61c4fb302f00001908b0db8f,,118667,question,questionText,20051,form,Expiry Date
+61c4fc0b2f00004ffd6f84d7,,118668,question,questionText,20051,form,Please indicate the certifying body/certificate issuer for your company’s 2SLGBTQI+ Owned Business
+61c4fc0b2f00004ffd6f84d7,,118668,question,responseOption1,20051,form,CGLCC’s 2SLGBTQI+
+61c4fc0b2f00004ffd6f84d7,,118668,question,responseOption2,20051,form,Other Option
+61c4fc1c2f00004ffd6f84d9,,118669,question,questionText,20051,form,Other Option
+61c4fc272f00004ffd6f84db,,118670,question,questionText,20051,form,Upload your company’s 2SLGBTQI+ Business certification
+61c4fc302f00004ffd6f84dd,,118671,question,questionText,20051,form,Expiry Date
+61c4fce12f00001908b10bfa,,118672,question,questionText,20051,form,Please indicate the certifying body/certificate issuer for your company’s  Veteran Owned Business
+61c4ff892f00001908b123af,,118673,question,questionText,20051,form,Upload your company’s Veteran Business certification
+61c4ff972f00004ffd6fa94c,,118674,question,questionText,20051,form,Expiry Date
+6580c2be1800008e3a6e6b19,,148495,question,questionText,20051,form,Disabled-Owned Certified Business
+6580c2be1800008e3a6e6b19,,148495,question,responseOption1,20051,form,Yes
+6580c2be1800008e3a6e6b19,,148495,question,responseOption2,20051,form,No
+6580c41e1800008f3a6e6b88,,148497,question,questionText,20051,form,Please indicate the certifying body/certificate issuer for your company’s Disabled-Owned Business
+6580c41e1800008f3a6e6b88,,148497,question,responseOption1,20051,form,The Inclusive Workplace and Supply Council of Canada (IWSCC)
+6580c41e1800008f3a6e6b88,,148497,question,responseOption2,20051,form,Other Option
+6580c44f1a0000093949a8d1,,148498,question,questionText,20051,form,Other Option
+6580c44f1a0000093949a8d1,,148498,question,responseOption1,20051,form,Yes
+6580c44f1a0000093949a8d1,,148498,question,responseOption2,20051,form,No
+6580c4641800008b3a6e6b8d,,148499,question,questionText,20051,form,Upload your company's Disabled-Owned Business certification
+6580c4641800008b3a6e6b8d,,148499,question,responseOption1,20051,form,Yes
+6580c4641800008b3a6e6b8d,,148499,question,responseOption2,20051,form,No
+6580c4841800008b3a6e6b8f,,148500,question,questionText,20051,form,Expiry Date
+6580c4841800008b3a6e6b8f,,148500,question,responseOption1,20051,form,Yes
+6580c4841800008b3a6e6b8f,,148500,question,responseOption2,20051,form,No

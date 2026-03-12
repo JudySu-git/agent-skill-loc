@@ -1,0 +1,19 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+607072674500009d89bc5c61,5f3aca372c00007e7868ef13,31536,questionGroup,questionGroupText,31536,form,Contingent Cargo Liability
+6070722643000090e863c194,5f3aca852b0000fd99be83f0,31537,questionGroup,questionGroupText,31536,form,Policy Information
+5f3aca872e00000b383c9264,5f3aca872e00000b383c9263,31538,questionGroup,questionGroupText,31536,form,Policy Limits
+5f3acaad2c0000e5a6a134fb,,102008,question,questionText,31536,form,Policy Effective Date
+5f3acab92c0000e5a6a134fc,,102009,question,questionText,31536,form,Policy Expiration Date
+5f3acac62e00000b383c9289,,102010,question,questionText,31536,form,Insurance Carrier:
+5f3acaf22e00000b383c9299,,102011,question,description,31536,form,Contingent Cargo Insurance Certificate
+5f3acaf22e00000b383c9299,,102011,question,questionText,31536,form,Please upload Contingent Cargo Insurance Certificate
+5f3acb2d2e00000b383c92c8,,102012,question,questionText,31536,form,Per occurrence
+5f3acb402c0000e5a6a13565,,102013,question,questionText,31536,form,Bodily Injury (Per person)
+5f3acb532c0000e5a6a1357b,,102014,question,questionText,31536,form,Bodily Injury (Per accident)
+5f3acb692e00000b383c92f9,,102015,question,questionText,31536,form,Property Damage (Per accident)
+5f3acb832e00000b383c933e,,102016,question,questionText,31536,form,Cargo Aggregate
+6070722443000090e863c18a,,108659,question,description,31536,form,Used to provide instructions from Client
+6070722443000090e863c18a,,108659,question,questionText,31536,form,Comments
+6070723743000090e863c2c2,,108660,question,description,31536,form,Date the instructions from Client expire
+6070723743000090e863c2c2,,108660,question,questionText,31536,form,VARIANCE Expiration Date
+62f53f4582eb52eab3c18fcf,,130564,question,questionText,31536,form,Currency used in Certificate of Insurance (COI)

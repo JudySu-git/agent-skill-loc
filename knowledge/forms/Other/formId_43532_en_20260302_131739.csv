@@ -1,0 +1,34 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67096a1a0100002c005e6650,670842cd010000be00f0fb0d,43532,questionGroup,questionGroupText,43532,form,Crown Castle Fatality Variance Request
+670842cd0100003200f0fb0e,,160032,question,description,43532,form,Include full name
+670842cd0100003200f0fb0e,,160032,question,questionText,43532,form,Your company has been flagged due to a reported fatality(ies). Please provide the requested information to be reviewed by the Crown Castle Safety Team. Submission of this information does not guarantee a variance will be approved.\n\nContractor Company Contact Name:
+670842cd0100003200f0fb0e,,160032,question,responseOption1,43532,form,Yes
+670842cd0100003200f0fb0e,,160032,question,responseOption2,43532,form,No
+670842cd0100003300f0fb10,,160033,question,questionText,43532,form,Contractor Contact e-mail:
+670842cd0100003300f0fb10,,160033,question,responseOption1,43532,form,Yes
+670842cd0100003300f0fb10,,160033,question,responseOption2,43532,form,No
+670842cd0100003200f0fb0f,,160034,question,questionText,43532,form,Contractor Contact phone:
+670842cd0100003200f0fb0f,,160034,question,responseOption1,43532,form,Construction
+670842cd0100003200f0fb0f,,160034,question,responseOption2,43532,form,Facilities
+670842cd0100003200f0fb0f,,160034,question,responseOption3,43532,form,Service Providers
+670842cd0100003300f0fb11,,160035,question,questionText,43532,form,Crown Castle Contact Name:
+670842cd0100003300f0fb11,,160035,question,responseOption1,43532,form,Yes
+670842cd0100003300f0fb11,,160035,question,responseOption2,43532,form,No
+67084324010000750009d496,,160036,question,questionText,43532,form,Crown Castle Contact e-mail:
+67084324010000750009d496,,160036,question,responseOption1,43532,form,Yes
+67084324010000750009d496,,160036,question,responseOption2,43532,form,No
+670843380100005100f0fb15,,160037,question,questionText,43532,form,Please upload an Incident Report
+670843380100005100f0fb15,,160037,question,responseOption1,43532,form,Yes
+670843380100005100f0fb15,,160037,question,responseOption2,43532,form,No
+6708434c0100002b0009d49a,,160038,question,questionText,43532,form,Please upload a Root Cause Analysis
+6708434c0100002b0009d49a,,160038,question,responseOption1,43532,form,Yes
+6708434c0100002b0009d49a,,160038,question,responseOption2,43532,form,No
+6708435c0100003a0009d49d,,160039,question,questionText,43532,form,Please upload a Corrective Action Plan
+6708435c0100003a0009d49d,,160039,question,responseOption1,43532,form,Yes
+6708435c0100003a0009d49d,,160039,question,responseOption2,43532,form,No
+6708436c010000bc00f0fb17,,160040,question,questionText,43532,form,Please upload any OSHA Documentation related to the incident
+6708436c010000bc00f0fb17,,160040,question,responseOption1,43532,form,Yes
+6708436c010000bc00f0fb17,,160040,question,responseOption2,43532,form,No
+6708437b010000750009d4a1,,160041,question,questionText,43532,form,Comments/Notes (Please provide a description outlining why a variance is warranted)
+6708437b010000750009d4a1,,160041,question,responseOption1,43532,form,Yes
+6708437b010000750009d4a1,,160041,question,responseOption2,43532,form,No

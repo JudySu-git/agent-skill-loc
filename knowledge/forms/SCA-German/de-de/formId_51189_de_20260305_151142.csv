@@ -1,0 +1,18 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87755a36b6c4c63546821,69a87755a36b6c4c63546820,51189,questionGroup,questionGroupText,51189,form,"Arbeiten auf, über oder in der Nähe von Gewässern",
+69a87755a36b6c4c6354681a,,200263,question,description,51189,form,"Arbeitsregelungen mit Ertrinkungsgefahr müssen die Verfügbarkeit von lebensrettender PSA und Rettungsausrüstung umfassen. Wasserfahrzeuge müssen je Person ein lebensrettendes Mittel bereitstellen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 106 Abs. 1, § 107 Abs. 1</a>",
+69a87755a36b6c4c6354681a,,200263,question,questionText,51189,form,Persönliche Schutzausrüstung,
+69a87755a36b6c4c6354681b,,200264,question,description,51189,form,"Die Personalbesetzung auf der Baustelle muss ausgebildete Nutzer von Rettungsausrüstung umfassen. Mindestens eine Person mit Kenntnissen in der Wiederbelebung muss vor Ort anwesend sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 106 Abs. 1–2</a>",
+69a87755a36b6c4c6354681b,,200264,question,questionText,51189,form,Rettungspersonal,
+69a87755a36b6c4c6354681c,,200265,question,description,51189,form,"Vor Arbeitsbeginn sind die Mitarbeiter in den Umgang mit Schutz- und Rettungsausrüstung sowie in die richtigen Verhaltensweisen bei Unfällen zu unterweisen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 106 Abs. 2</a>",
+69a87755a36b6c4c6354681c,,200265,question,questionText,51189,form,Unterweisung,
+69a87755a36b6c4c6354681d,,200266,question,description,51189,form,"Für alle beteiligten Mitarbeiter sind jährliche Wasserrettungsübungen durchzuführen, die realistische Notfallszenarien simulieren und dokumentiert werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 106 Abs. 2</a>",
+69a87755a36b6c4c6354681d,,200266,question,questionText,51189,form,Jährliche Wasserrettungsübungen,
+69a87755a36b6c4c6354681e,,200267,question,description,51189,form,"Arbeitsregelungen bei erhöhtem Risiko auf dem Wasser müssen besetzte Motorboote umfassen, die für Rettungseinsätze ausgerüstet und bemannt sind.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 106 Abs. 3</a>",
+69a87755a36b6c4c6354681e,,200267,question,questionText,51189,form,Verfügbarkeit bemannter Motorboote,
+69a87755a36b6c4c6354681f,,200268,question,questionText,51189,form,<div></div>,

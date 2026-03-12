@@ -1,0 +1,31 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87741a36b6c4c6354673c,69a87741a36b6c4c6354673b,51161,questionGroup,questionGroupText,51161,form,消防安全,
+69a87741a36b6c4c63546732,,200087,question,description,51161,form,"必须告知员工消防设备的位置及正确使用方法。在设有法定或指定消防安全员或消防队的工作场所，在风险区域工作的员工必须接受灭火器使用培训。在有要求的情况下，必须指定消防安全监督员，且其须完成至少六小时的相关培训。在建筑工地，必须确保足够数量的员工熟悉灭火器的使用。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 14(4), 43(2,6), 45(6)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 45(7)</a>",
+69a87741a36b6c4c63546732,,200087,question,questionText,51161,form,培训,
+69a87741a36b6c4c63546733,,200088,question,description,51161,form,"在主管部门要求时，必须任命消防安全员。其职责须包括：向员工传达火灾行为信息、开展火灾自查监控、应对初期火灾、组织工作场所疏散，以及为消防队行动做好准备。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 43(1,3)</a>",
+69a87741a36b6c4c63546733,,200088,question,questionText,51161,form,消防安全员（有要求时）,
+69a87741a36b6c4c63546734,,200089,question,description,51161,form,"必须制定消防预防措施，以保护员工的生命与健康，包括采取适当措施预防、控制和应对工作场所的火灾危险。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 25(1)</a>",
+69a87741a36b6c4c63546734,,200089,question,questionText,51161,form,消防预防措施,
+69a87741a36b6c4c63546735,,200090,question,description,51161,form,"在设有法定或指定消防安全员或消防队的工作场所，必须每年开展一次火灾警报及疏散演练，并在发现缺陷后重复进行。在建筑工地，凡需设置火灾报警系统的，必须每年开展消防演练并保存记录。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 45(5)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 46(3)</a>",
+69a87741a36b6c4c63546735,,200090,question,questionText,51161,form,消防及疏散演练,
+69a87741a36b6c4c63546736,,200091,question,description,51161,form,"必须指定熟悉灭火器使用及疏散程序的负责人员。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 44a(1)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 25(4)</a>",
+69a87741a36b6c4c63546736,,200091,question,questionText,51161,form,指定消防应急负责人,
+69a87741a36b6c4c63546737,,200092,question,description,51161,form,"必须根据火灾类别、火灾荷载、用途及规模，配备适当且足够的灭火辅助设施，例如水、灭火毯、灭火沙、墙式消火栓、手提式灭火器或推车式灭火器。必须通过清晰标识确保灭火设备的可见性和可及性。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 42(1,4)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=BundesnormenandGesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 20(7), 45(1-2), 45(6)</a>",
+69a87741a36b6c4c63546737,,200092,question,questionText,51161,form,灭火设备,
+69a87741a36b6c4c63546738,,200093,question,description,51161,form,"灭火器及固定灭火系统必须至少每两年检查一次。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 13(2)</a>",
+69a87741a36b6c4c63546738,,200093,question,questionText,51161,form,灭火器检查（每两年一次）,
+69a87741a36b6c4c63546739,,200094,question,description,51161,form,"检查记录必须至少保存三年。在设有法定或指定消防安全员或消防队的工作场所，必须建立消防安全日志，记录检查情况、缺陷、演练及火灾事件。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 13(5), 45(3)</a>",
+69a87741a36b6c4c63546739,,200094,question,questionText,51161,form,记录,
+69a87741a36b6c4c6354673a,,200095,question,questionText,51161,form,<div></div>,

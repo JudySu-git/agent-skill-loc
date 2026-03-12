@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+692f2a2f0100006300b5835f,6925e0f10100004600ff2c05,49199,questionGroup,questionGroupText,49199,form,Charterer’s Legal Liability
+692dbeb90100006300d290f0,6925e0f10100006400ff2c06,49200,questionGroup,questionGroupText,49199,form,Policy Information
+692f2a2a0100003d00ed1e5f,6925e0f10100006400ff2c07,49201,questionGroup,questionGroupText,49199,form,Policy Limits
+6925e0f10100004900ff2c08,,189212,question,description,49199,form,Used to provide instructions from Client
+6925e0f10100004900ff2c08,,189212,question,questionText,49199,form,Comments
+6925e0f10100004700ff2c0e,,189213,question,description,49199,form,Date the instructions from Client expire
+6925e0f10100004700ff2c0e,,189213,question,questionText,49199,form,VARIANCE Expiration Date
+6925e0f10100004700ff2c09,,189214,question,questionText,49199,form,Insurance Carrier:
+6925e0f10100004100ff2c0d,,189215,question,questionText,49199,form,Please upload a certificate showing coverage for Charterer’s Legal Liability
+6925e0f10100004900ff2c0c,,189216,question,questionText,49199,form,Currency used in Certificate of Insurance (COI)
+6925e0f10100004900ff2c0b,,189218,question,questionText,49199,form,Date of Commencement:
+6925e0f10100004700ff2c0f,,189219,question,questionText,49199,form,Expiration Date:
+6925e0f80100006500be90ae,,189220,question,questionText,49199,form,Each Occurrence:

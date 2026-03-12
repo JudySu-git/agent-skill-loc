@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+636576fd1700003406cf9195,636576f51700003406cf9190,37469,questionGroup,questionGroupText,37469,form,Scaffolding Contractor Licences – Tasmania
+636576f51700003406cf9191,,132436,question,questionText,37469,form,Please upload current Scaffolding Licence
+636576f51700003406cf9192,,132437,question,questionText,37469,form,Licence Number
+636576f51700003406cf9193,,132438,question,questionText,37469,form,Effective Date
+636576f51700003406cf9194,,132439,question,questionText,37469,form,Expiration Date

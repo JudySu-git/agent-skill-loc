@@ -1,0 +1,105 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a85eba0100006000b914b3,69a85e510100003f00b914aa,51136,questionGroup,questionGroupText,51136,form,Austria - Company Safety Details and Instructions,
+69a85e510100005e00b914ae,,199915,question,description,51136,form,"Please Note: Your selection(s) should include all services performed by your Company, rather than a specific Client or site.\n\nEach Work Type selection will add additional audit requirements for your review and compliance.\n",Bitte beachten: Ihre Auswahl(en) sollten alle von Ihrem Unternehmen erbrachten Dienstleistungen umfassen und nicht einen bestimmten Kunden oder Standort. Mit jeder Auswahl eines Arbeitstyps werden zusätzliche Audit-Anforderungen für Ihre Überprüfung und Compliance hinzugefügt.\n
+69a85e510100005e00b914ae,,199915,question,questionText,51136,form,###  Please Identify the Work Type(s) that align most closely with your specialty or scope of services.\n\n<b>Selecting appropriate Work Types allows us to build a custom audit tailored to your Company's operations. </b>,"### Bitte geben Sie die Arbeitstypen an, die am besten zu Ihrem Fachgebiet oder Leistungsumfang passen. <b>Durch die Auswahl geeigneter Arbeitstypen können wir ein individuelles Audit erstellen, das auf die Geschäftstätigkeit Ihres Unternehmens zugeschnitten ist. </b>"
+69a85e510100005e00b914ae,,199915,question,responseOption1,51136,form,Abatement Asbestos,Asbestreduzierung
+69a85e510100005e00b914ae,,199915,question,responseOption10,51136,form,Carpentry,Schreinerei
+69a85e510100005e00b914ae,,199915,question,responseOption11,51136,form,Coatings,Beschichtungen
+69a85e510100005e00b914ae,,199915,question,responseOption12,51136,form,Commercial Diving,Gewerbliches Tauchen
+69a85e510100005e00b914ae,,199915,question,responseOption13,51136,form,Concrete Work,Betonarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption15,51136,form,"Management, Consulting, and Training Services","Management-, Beratungs- und Schulungsdienstleistungen"
+69a85e510100005e00b914ae,,199915,question,responseOption16,51136,form,Conveyor Belt Installation / Repair,Installation/Reparatur von Förderbändern
+69a85e510100005e00b914ae,,199915,question,responseOption17,51136,form,Crane Rental Services & Maintenance,Kranvermietung und -wartung
+69a85e510100005e00b914ae,,199915,question,responseOption18,51136,form,"Deep Foundations (Caissons, Piles, Cofferdams)","Tiefe Fundamente (Senkkästen, Pfähle, Kofferdämme)"
+69a85e510100005e00b914ae,,199915,question,responseOption19,51136,form,Demolition,Abbrucharbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption2,51136,form,Abatement Lead,Bleireduzierung
+69a85e510100005e00b914ae,,199915,question,responseOption20,51136,form,Dredging,Baggerarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption21,51136,form,Drilling,Bohren
+69a85e510100005e00b914ae,,199915,question,responseOption22,51136,form,Drone Services,Drohnen-Services
+69a85e510100005e00b914ae,,199915,question,responseOption23,51136,form,Earthwork / Sitework,Erdarbeiten/Standortarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption24,51136,form,Electrical Work,Elektroarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption25,51136,form,Elevator Repair / Maintenance,Reparatur/Wartung von Aufzügen
+69a85e510100005e00b914ae,,199915,question,responseOption26,51136,form,Engineering Professional Services,Professionelle Engineering-Dienstleistungen
+69a85e510100005e00b914ae,,199915,question,responseOption27,51136,form,Environmental Abatement or Remediation,Minderung von Umweltauswirkungen oder Umweltsanierung
+69a85e510100005e00b914ae,,199915,question,responseOption28,51136,form,Equipment Testing,Geräteprüfung
+69a85e510100005e00b914ae,,199915,question,responseOption29,51136,form,Estimating,Schätzung
+69a85e510100005e00b914ae,,199915,question,responseOption3,51136,form,Abatement Other,Reduzierung Sonstiges
+69a85e510100005e00b914ae,,199915,question,responseOption30,51136,form,Extermination / Pest Control,Schädlingsbekämpfung/-vernichtung
+69a85e510100005e00b914ae,,199915,question,responseOption31,51136,form,Fencing,Einzäunung
+69a85e510100005e00b914ae,,199915,question,responseOption32,51136,form,Fiber Optics Installation,Glasfaserinstallation
+69a85e510100005e00b914ae,,199915,question,responseOption33,51136,form,Fire Protection,Brandschutz
+69a85e510100005e00b914ae,,199915,question,responseOption34,51136,form,Flooring Installation,Bodenverlegung
+69a85e510100005e00b914ae,,199915,question,responseOption35,51136,form,Foundations,Fundamente
+69a85e510100005e00b914ae,,199915,question,responseOption36,51136,form,FRP (Fiber-Reinforced Plastic),GFK (Faserverstärkter Kunststoff)
+69a85e510100005e00b914ae,,199915,question,responseOption37,51136,form,General Property Maintenance,Allgemeine Instandhaltung von Immobilien
+69a85e510100005e00b914ae,,199915,question,responseOption38,51136,form,Geotechnical Testing,Geotechnische Prüfungen
+69a85e510100005e00b914ae,,199915,question,responseOption39,51136,form,Glazier - Glass Work,Glaserei – Glasarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption4,51136,form,Aviation Services,Luftfahrt-Services
+69a85e510100005e00b914ae,,199915,question,responseOption40,51136,form,Hazardous Waste Operations,Handhabung von Gefahrgut
+69a85e510100005e00b914ae,,199915,question,responseOption41,51136,form,Heat Treating,Wärmebehandlung
+69a85e510100005e00b914ae,,199915,question,responseOption42,51136,form,Heavy Haul & Lift,Anheben und Transport schwerer Lasten
+69a85e510100005e00b914ae,,199915,question,responseOption43,51136,form,Helicopter Services,Hubschrauber-Services
+69a85e510100005e00b914ae,,199915,question,responseOption44,51136,form,HVACR,HLKR
+69a85e510100005e00b914ae,,199915,question,responseOption45,51136,form,Hydroblasting,Hochdruckreinigung (Wasser)
+69a85e510100005e00b914ae,,199915,question,responseOption46,51136,form,Hydro-Vac,Nass-Trocken-Saugen
+69a85e510100005e00b914ae,,199915,question,responseOption47,51136,form,Inspector,Inspektor:in
+69a85e510100005e00b914ae,,199915,question,responseOption48,51136,form,Instrumentation,Messtechnik
+69a85e510100005e00b914ae,,199915,question,responseOption49,51136,form,Insulation,Isolierung
+69a85e510100005e00b914ae,,199915,question,responseOption5,51136,form,Blaster / Explosives Expert / Pyrotechnic,Sprengmeister:in/Sprengstoff-Expert:in/Pyrotechniker:in
+69a85e510100005e00b914ae,,199915,question,responseOption50,51136,form,Landscaping,Landschaftsgestaltung
+69a85e510100005e00b914ae,,199915,question,responseOption51,51136,form,Logistics Services - Packing and Shipping,Logistikservices – Verpackung und Versand
+69a85e510100005e00b914ae,,199915,question,responseOption52,51136,form,Machine Repair / Installation / Maintenance,Reparatur/Installation/Wartung von Maschinen
+69a85e510100005e00b914ae,,199915,question,responseOption53,51136,form,Marine (Working Over / Near Water),Marine (Arbeiten auf dem/in der Nähe von Wasser)
+69a85e510100005e00b914ae,,199915,question,responseOption54,51136,form,Masonry Construction,Mauerwerksbau
+69a85e510100005e00b914ae,,199915,question,responseOption55,51136,form,Material Handling / Warehouse / Manufacturing,Materialtransport/Lager/Fertigung
+69a85e510100005e00b914ae,,199915,question,responseOption56,51136,form,Mechanical,Mechanik
+69a85e510100005e00b914ae,,199915,question,responseOption57,51136,form,Metal Works,Metallarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption58,51136,form,Millwork,Schreinerarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption59,51136,form,Mining Services Above / Below,Bergbaudienstleistungen Übertage/Untertage
+69a85e510100005e00b914ae,,199915,question,responseOption6,51136,form,Boiler / Duct Work,Kessel/Kanalarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption60,51136,form,Nondestructive Testing (NDT) & Nondestructive Evaluation (NDE),Zerstörungsfreie Prüfung (NDT) und Zerstörungsfreie Bewertung (NDE)
+69a85e510100005e00b914ae,,199915,question,responseOption61,51136,form,Paint,Farbe
+69a85e510100005e00b914ae,,199915,question,responseOption62,51136,form,Paving,Pflasterarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption63,51136,form,Pipeline,Pipelines
+69a85e510100005e00b914ae,,199915,question,responseOption64,51136,form,Plumbing,Klempnerleistungen
+69a85e510100005e00b914ae,,199915,question,responseOption65,51136,form,Pre-Engineered Buildings (Structure) / Architectural finishes,Fertighäuser (Baustruktur)/Architektonische Feinarbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption66,51136,form,Railroad,Eisenbahn
+69a85e510100005e00b914ae,,199915,question,responseOption67,51136,form,Roofing,Dacharbeiten
+69a85e510100005e00b914ae,,199915,question,responseOption68,51136,form,Sandblasting,Sandstrahlen
+69a85e510100005e00b914ae,,199915,question,responseOption69,51136,form,Sanitation Engineer / Cleaning / Waste,Sanitärtechnik/Reinigung/Abfall
+69a85e510100005e00b914ae,,199915,question,responseOption7,51136,form,"Building Construction - Drywall, Framing, Maintenance, Repair","Gebäudekonstruktion – Trockenwand, Rahmen, Wartung, Reparatur"
+69a85e510100005e00b914ae,,199915,question,responseOption70,51136,form,Scaffolding,Gerüste
+69a85e510100005e00b914ae,,199915,question,responseOption71,51136,form,Security Systems,Sicherheitssysteme
+69a85e510100005e00b914ae,,199915,question,responseOption72,51136,form,Shoring,Abstützung
+69a85e510100005e00b914ae,,199915,question,responseOption73,51136,form,Snow Removal,Winterdienst
+69a85e510100005e00b914ae,,199915,question,responseOption74,51136,form,Soil Remediation,Bodensanierung
+69a85e510100005e00b914ae,,199915,question,responseOption75,51136,form,Sonic Drilling,Schallbohrungen
+69a85e510100005e00b914ae,,199915,question,responseOption76,51136,form,Stack Erection & Maintenance,Stapelbau und -wartung
+69a85e510100005e00b914ae,,199915,question,responseOption77,51136,form,Staffing Agencies,Personalvermittlungsagenturen
+69a85e510100005e00b914ae,,199915,question,responseOption78,51136,form,Structural Steel,Baustahl
+69a85e510100005e00b914ae,,199915,question,responseOption79,51136,form,Surveying,Vermessung
+69a85e510100005e00b914ae,,199915,question,responseOption8,51136,form,Cable Installation,Kabelinstallation
+69a85e510100005e00b914ae,,199915,question,responseOption80,51136,form,Tanks / Silos,Tanks/Silos
+69a85e510100005e00b914ae,,199915,question,responseOption81,51136,form,Telecom - Construction,Telekommunikation – Bauwesen
+69a85e510100005e00b914ae,,199915,question,responseOption82,51136,form,Telecom - Installation,Telekommunikation – Installation
+69a85e510100005e00b914ae,,199915,question,responseOption83,51136,form,Transportation (Fleet / Haulers),Transport (Flotten/Spediteure)
+69a85e510100005e00b914ae,,199915,question,responseOption84,51136,form,Trenching & Excavation,Ausschachtungen und Grabung
+69a85e510100005e00b914ae,,199915,question,responseOption85,51136,form,Underground Utilities / Relocations,Unterirdische Versorgungsunternehmen/Umzüge
+69a85e510100005e00b914ae,,199915,question,responseOption86,51136,form,Water Testing & Sampling,Prüfung und Probenahme von Wasser
+69a85e510100005e00b914ae,,199915,question,responseOption87,51136,form,Water Treatment,Wasseraufbereitung
+69a85e510100005e00b914ae,,199915,question,responseOption88,51136,form,Welding,Schweißen
+69a85e510100005e00b914ae,,199915,question,responseOption89,51136,form,Wholesale Distribution / Retail Sales,Großhandelsvertrieb/Einzelhandelsverkauf
+69a85e510100005e00b914ae,,199915,question,responseOption9,51136,form,Calibration Services,Kalibrierungsservices
+69a85e510100005e00b914ae,,199915,question,responseOption90,51136,form,Catering / Food Services,Catering/Lebensmitteldienste
+69a85e510100005e00b914ae,,199915,question,responseOption91,51136,form,Industrial Equipment Rental / Sales / Hire,Vermietung/Verkauf/Verleih von Industrieanlagen
+69a85e510100005e00b914ae,,199915,question,responseOption92,51136,form,Petroleum Downstream,Öl- und Gasindustrie Downstream
+69a85e510100005e00b914ae,,199915,question,responseOption93,51136,form,Petroleum Midstream,Öl- und Gasindustrie Midstream
+69a85e510100005e00b914ae,,199915,question,responseOption94,51136,form,Petroleum Upstream / E&P,Öl- und Gasindustrie Upstream/E&amp;P
+69a85e510100005e00b914ae,,199915,question,responseOption95,51136,form,Renewable Energy / Solar / Wind / Hydro-Electric,Erneuerbare Energien/Solar/Windkraft/Wasserkraft
+69a85e510100005e00b914ae,,199915,question,responseOption96,51136,form,Security / Asset Protection Services,Sicherheit/Ressourcenschutzservices
+69a85e510100005e00b914ae,,199915,question,responseOption97,51136,form,Traffic Control Services,Verkehrskontrolldienste
+69a85e510100004300b914ac,,199916,question,questionText,51136,form,"## Health & Safety Representative\n\nEnter the Name of the Health & Safety Representative, or person responsible for the Health & Safety compliance for your organization:\n\nName:",
+69a85e510100004400b914ab,,199917,question,questionText,51136,form,Email:,
+69a85e510100006000b914ad,,199918,question,questionText,51136,form,Title:,
+69a85e510100004400b914b0,,199919,question,questionText,51136,form,### Policies and procedures must be uploaded in English to satisfy audit requirements.,
+69a85e510100004400b914af,,199920,question,questionText,51136,form,Phone:,

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce3fce0100002f0021f3d2,662bd9da1b00003300b79313,41971,questionGroup,description,41971,form,You are getting this category because you selected a license in the Avetta PQF - Australia Capital Territory Contractor License.
+66ce3fce0100002f0021f3d2,662bd9da1b00003300b79313,41971,questionGroup,questionGroupText,41971,form,Australian Capital Territory Contractor License - Pest Management
+662bd9da1b00003000b79314,,153227,question,questionText,41971,form,Please upload your license:\n
+662bd9da1b00003000b79314,,153227,question,responseOption1,41971,form,Yes
+662bd9da1b00003000b79314,,153227,question,responseOption2,41971,form,No
+662bd9da1b00003000b79316,,153228,question,questionText,41971,form,License Number:
+662bd9da1b00003000b79316,,153228,question,responseOption1,41971,form,Yes
+662bd9da1b00003000b79316,,153228,question,responseOption2,41971,form,No
+662bd9da1b00003000b79315,,153229,question,questionText,41971,form,Expiration Date:
+662bd9da1b00003000b79315,,153229,question,responseOption1,41971,form,Yes
+662bd9da1b00003000b79315,,153229,question,responseOption2,41971,form,No

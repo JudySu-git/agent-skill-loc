@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4cfd390850494393a58310b1,4cfd390850494393a58310b1,1290,questionGroup,questionGroupText,1290,category,Commissioning
+4cfd392b504943d2c2f2403f,,5960,question,description,1290,category,"Procedures must address the ability to test vital equipment, process control and safeguarding instrumentation.  Ensures that Process Control and Safeguarding loop-test have been carried out. Lines-up equipment and systems and verifies unit conforms to Procedures and Drawings for Process conditions. Ensures that all necessary commissioning documents for each step have been filled in."
+4cfd392b504943d2c2f2403f,,5960,question,questionText,1290,category,Does the contractor program provide a procedure for handing over operations after maintenance or new construction?
+4cfd392b504943d2c2f2403f,,5960,question,responseOptionNA,1290,category,N/A
+4cfd392b504943d2c2f2403f,,5960,question,responseOptionNo,1290,category,No
+4cfd392b504943d2c2f2403f,,5960,question,responseOptionYes,1290,category,Yes

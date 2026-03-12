@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67ec5bb80100009e0147a610,67eafabb01000004018c6a24,45113,questionGroup,questionGroupText,45113,form,Brazil INMETRO Applicability Assessment
+67eafabb01000042008c6a25,,167143,question,questionText,45113,form,"Is your company required to comply with <a href = ""https://www.gov.br/inmetro/pt-br""target=""BLANK"">INMETRO certification or accreditation</a> in Brazil for its products, services, or operations?"
+67eafabb01000042008c6a25,,167143,question,responseOption1,45113,form,Yes
+67eafabb01000042008c6a25,,167143,question,responseOption2,45113,form,No

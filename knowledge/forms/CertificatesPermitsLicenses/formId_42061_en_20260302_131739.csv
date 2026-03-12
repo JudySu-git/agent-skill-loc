@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4d0c010000bb0021f9bb,663014ad1b00006100b6e746,42061,questionGroup,description,42061,form,You are getting this category because you selected a license in the Avetta PQF - Victoria License.
+66ce4d0c010000bb0021f9bb,663014ad1b00006100b6e746,42061,questionGroup,questionGroupText,42061,form,Victoria Contractor License - Waste
+663014ad1b00002900b6e747,,153484,question,questionText,42061,form,Please upload your license:\n
+663014ad1b00002900b6e747,,153484,question,responseOption1,42061,form,Yes
+663014ad1b00002900b6e747,,153484,question,responseOption2,42061,form,No
+663014ad1b00003100b6e748,,153485,question,questionText,42061,form,Expiration Date:
+663014ad1b00003100b6e748,,153485,question,responseOption1,42061,form,Yes
+663014ad1b00003100b6e748,,153485,question,responseOption2,42061,form,No
+663014ad1b00003100b6e749,,153486,question,questionText,42061,form,License Number:
+663014ad1b00003100b6e749,,153486,question,responseOption1,42061,form,Yes
+663014ad1b00003100b6e749,,153486,question,responseOption2,42061,form,No

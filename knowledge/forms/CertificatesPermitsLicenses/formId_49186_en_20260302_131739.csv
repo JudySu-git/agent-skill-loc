@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+692dc138010000430031928c,6924ae250100004700d74001,49186,questionGroup,questionGroupText,49186,form,Material Loss or Damage Insurance
+692dc0470100004000d29108,6924f2a30100004000757ff5,49192,questionGroup,questionGroupText,49186,form,Policy Information
+692dc0a10100004700d29110,6924f2ad0100006300d74bba,49193,questionGroup,questionGroupText,49186,form,Policy Limits
+6924f3530100009b01d74bbc,,189178,question,description,49186,form,Used to provide instructions from Client
+6924f3530100009b01d74bbc,,189178,question,questionText,49186,form,Comments
+6924f3680100006300d74bbf,,189179,question,description,49186,form,Date the instructions from Client expire
+6924f3680100006300d74bbf,,189179,question,questionText,49186,form,VARIANCE Expiration Date
+6924f3820100006500757ffc,,189180,question,questionText,49186,form,Date of Commencement:
+6924f3910100004000757ffe,,189181,question,questionText,49186,form,Expiration Date:
+6924f39e0100009901d74bc3,,189182,question,questionText,49186,form,Insurance Carrier:
+6924f3b20100004400758001,,189183,question,questionText,49186,form,Please upload a certificate showing coverage for Material Loss or Damage Insurance
+6924f3d00100004600d74bc5,,189184,question,questionText,49186,form,Currency used in Certificate of Insurance (COI)
+6924f41d0100008f01758005,,189185,question,questionText,49186,form,Monetary Limit:

@@ -1,0 +1,27 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8773ea36b6c4c6354671f,69a8773ea36b6c4c6354671e,51158,questionGroup,questionGroupText,51158,form,Explosionsgefährdete Bereiche,
+69a8773ea36b6c4c63546715,,200064,question,description,51158,form,"Die Gefährdungsbeurteilung für den Explosionsschutz muss die Wahrscheinlichkeit und Dauer des Auftretens explosionsfähiger Atmosphären sowie die Eigenschaften der Stoffe, die explosionsfähige Atmosphären bilden können, berücksichtigen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Verordnung explosionsfähige Atmosphären, § 4 Abs. 1</a>",
+69a8773ea36b6c4c63546715,,200064,question,questionText,51158,form,Gefährdungsbeurteilung,
+69a8773ea36b6c4c63546716,,200065,question,description,51158,form,"Das Explosionsschutzdokument muss auf Grundlage der Gefährdungsbeurteilung erstellt und auf dem aktuellen Stand gehalten werden. Das Explosionsschutzdokument muss vor Arbeitsbeginn fertiggestellt sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Verordnung explosionsfähige Atmosphären, § 5 Abs. 1, 3</a>",
+69a8773ea36b6c4c63546716,,200065,question,questionText,51158,form,Schutzdokument (vor Arbeitsbeginn),
+69a8773ea36b6c4c63546717,,200066,question,description,51158,form,"Maßnahmen zur Explosionsverhütung und -schutz müssen für identifizierte Gefährdungen festgelegt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Verordnung explosionsfähige Atmosphären, § 5 Abs. 2 Z 2, § 10</a>",
+69a8773ea36b6c4c63546717,,200066,question,questionText,51158,form,"Schutzmaßnahmen (Beseitigung, technische, organisatorische und/oder persönliche Schutzausrüstung)",
+69a8773ea36b6c4c63546718,,200067,question,description,51158,form,"Explosionsgefährdete Bereiche müssen in Zonen eingeteilt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Verordnung explosionsfähige Atmosphären, § 5 Abs. 2 Z 3, § 12 Abs. 1–2</a>",
+69a8773ea36b6c4c63546718,,200067,question,questionText,51158,form,Zutrittsbeschränkung,
+69a8773ea36b6c4c63546719,,200068,question,description,51158,form,"Arbeitsfreigabesysteme mit Schutz- und Rettungsmaßnahmen müssen eingerichtet und von einer befähigten Person überwacht werden. Arbeiten in explosionsgefährdeten Anlagen dürfen erst nach Überprüfung und Freigabe durch eine benannte befähigte Person durchgeführt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Verordnung explosionsfähige Atmosphären, § 6 Abs. 4–5</a>",
+69a8773ea36b6c4c63546719,,200068,question,questionText,51158,form,Arbeitsfreigabe,
+69a8773ea36b6c4c6354671a,,200069,question,description,51158,form,"Konzentrationsmessungen müssen die Wirksamkeit des primären Explosionsschutzes bestätigen, wenn explosionsfähige Atmosphären nicht ausgeschlossen werden können. Jährliche Kontrollmessungen müssen durchgeführt werden, wenn die Konzentrationen 25 % der UEG überschreiten.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Verordnung explosionsfähige Atmosphären, § 8 Abs. 1, 3</a>",
+69a8773ea36b6c4c6354671a,,200069,question,questionText,51158,form,Atmosphärische Überwachung,
+69a8773ea36b6c4c6354671b,,200070,question,description,51158,form,"Explosionsschutzprüfungen für Anlagen, Lüftung, Zoneneinteilung und Schutzmaßnahmen müssen vor der Inbetriebnahme abgeschlossen sein. Wiederkehrende Prüfungen elektrischer Anlagen in explosionsgefährdeten Bereichen müssen mindestens alle drei Jahre erfolgen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Verordnung explosionsfähige Atmosphären, § 7 Abs. 1–3</a>",
+69a8773ea36b6c4c6354671b,,200070,question,questionText,51158,form,Prüfungen,
+69a8773ea36b6c4c6354671c,,200071,question,description,51158,form,"Arbeitnehmer, die in potenziell explosionsgefährdeten Bereichen tätig sind, müssen über Explosionsrisiken und das Verhalten bei Alarm informiert werden. Gefährdeten Arbeitnehmern muss jährlich eine Unterweisung zu Explosionsgefahren, dem sicheren Umgang mit Arbeitsmitteln, sicheren Arbeitsverfahren sowie erforderlicher Kleidung und PSA erteilt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/geltendefassung.wxe?abfrage=bundesnormen&gesetzesnummer=20003475&utm_"">Verordnung explosionsfähige Atmosphären, § 6 Abs. 1–2</a>",
+69a8773ea36b6c4c6354671c,,200071,question,questionText,51158,form,Unterweisung (jährlich),
+69a8773ea36b6c4c6354671d,,200072,question,questionText,51158,form,<div></div>,

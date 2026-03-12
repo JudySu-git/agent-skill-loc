@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69544ea40100004300a9c4c3,6954263c0100003f002c73af,50121,questionGroup,description,50121,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+69544ea40100004300a9c4c3,6954263c0100003f002c73af,50121,questionGroup,questionGroupText,50121,form,Italy DURF Applicability Assessment
+695429a50100004300a9c251,,194846,question,description,50121,form,"The Italy Single Certificate of Tax Compliance (DURF) is a certificate issued by the Italian Revenue Agency that verifies a company’s compliance with specific tax obligations, including the regular payment of withholding taxes on income from dependent and similar work.\n\n<a href = ""https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241!vig""target=""BLANK"">Legislative Decree n. 241, Art. 17-bis on Normattiva</a>"
+695429a50100004300a9c251,,194846,question,questionText,50121,form,"Does your company perform activities in Italy that require the Italy Single Certificate of Tax Compliance (DURF), and are you required to maintain a valid DURF certificate?"
+695429a50100004300a9c251,,194846,question,responseOption1,50121,form,Yes
+695429a50100004300a9c251,,194846,question,responseOption2,50121,form,No
+69542c690100006000a9c2a6,,194847,question,questionText,50121,form,Please select from the following reasons why your company is exempt from needing an Italy Single Certificate of Tax Compliance (DURF).
+69542c690100006000a9c2a6,,194847,question,responseOption1,50121,form,The company is exclusively based and operates in a foreign country with no economic activities in Italy.
+69542c690100006000a9c2a6,,194847,question,responseOption2,50121,form,The company’s operations are covered by tax treaty exemptions between Italy and the country where it is resident.
+69542c690100006000a9c2a6,,194847,question,responseOption3,50121,form,Other
+69542d080100005e00a9c2ab,,194848,question,questionText,50121,form,Please explain why your company is exempt from needing an Italy Single Certificate of Tax Compliance (DURF).

@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4d09279b5049439f10663216,4d09279b5049439f10663216,1333,questionGroup,questionGroupText,1333,category,Navistar
+4d09279b504943fe89b28802,,6307,question,linkResources!download.action?id=1187,1333,category,Navistar Insurance Requirements
+4d09279b504943fe89b28802,,6307,question,linkresources!download.action?id=1187,1333,category,Navistar Insurance Requirements
+4d09279b504943fe89b28802,,6307,question,questionText,1333,category,"Upload a Certificate of Insurance or other supporting documentation for this policy.\r\n\r\n\r\n \n\r\n<a href=""/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_1187.pdf"" target=""_BLANK"">Navistar Insurance Requirements</a>"
+4d09279b504943710afd9e78,,6308,question,questionText,1333,category,"This insurance policy complies with all additional Navistar - Indianapolis (Pure Power Technologies) requirements.\r\n \n\r\n \n \n\r\nCertificate holder address should be: \n\r\nNavistar \n\r\nc/o Avetta \n\r\nP.O. Box 51387 \n\r\nIrvine, CA 92619-1387"
+4d09279b504943710afd9e78,,6308,question,responseOptionNo,1333,category,No
+4d09279b504943710afd9e78,,6308,question,responseOptionYes,1333,category,Yes

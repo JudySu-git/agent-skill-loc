@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+694ad5f601000063007ff974,68471dd80100003d00b08029,46229,questionGroup,questionGroupText,46229,form,Shearer's Foods Corrective Action Plan
+68471efa0100003f00b08036,68471efa0100003f00b08035,46230,questionGroup,questionGroupText,46229,form,General
+68471f050100004100cda4ad,,174699,question,questionText,46229,form,Date Corrective Action Plan completed:
+68471f160100003800b0803b,,174700,question,questionText,46229,form,Contractor Type of Work:
+68471f220100003f00b0803e,,174701,question,questionText,46229,form,Contractor Safety Manager name:
+68471f30010000c800b08041,,174702,question,questionText,46229,form,Safety Manager Contact information:
+68471f420100004000cda4b0,,174703,question,questionText,46229,form,Describe current deficiencies/Incidents that necessitated development of Corrective Action/Recovery Plan:
+68471f4b0100003700b08042,,174704,question,questionText,46229,form,Safety Corrective Action/Recovery Plan to prevent recurrence:
+68471f56010000f300b08046,,174705,question,questionText,46229,form,Please attach any supplemental documentation:
+68471f670100003700b08049,,174706,question,questionText,46229,form,"By signing below, you confirm that the above is true and correct:"

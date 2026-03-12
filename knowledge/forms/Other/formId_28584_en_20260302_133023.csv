@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61d5d5c32f0000b1e560422e,5e38b87a36000064e4d3d8ed,28584,questionGroup,questionGroupText,28584,form,FRA Part 243 Program Approval Document
+5d9e2e90330000d2ace5d9bd,,86844,question,questionText,28584,form,"*Periodic Oversight Under § 243.205*\n---\n Periodic oversight responsibilities are determined by the controlling contract and federal regulation. As an agent for the contracting company you are responsible for periodic oversight testing and inspection of your safety-related employees, including safety-related employees of any sub-contractors you employ, as required by § 243.205..  \n\nRailroads will notify contractors of non-compliance as required by § 243.205(f). The contractor   is responsible for preventing noncompliant employees from performing safety-related tasks until they are brought into compliance.\n"
+5d9e2e90330000d2ace5d9bd,,86844,question,responseOption1,28584,form,I Agree
+5d9e2ec0330000d2ace5d9be,,86845,question,questionText,28584,form,Indicate the status of the FRA program approval.
+5d9e2ec0330000d2ace5d9be,,86845,question,responseOption1,28584,form,Final
+5d9e2ec0330000d2ace5d9be,,86845,question,responseOption2,28584,form,Conditional
+61d5d5322f0000b1e5602cc2,,120256,question,questionText,28584,form,Attach a copy of the 243 program approval document.

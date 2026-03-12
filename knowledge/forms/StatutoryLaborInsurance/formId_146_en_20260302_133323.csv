@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4cfe63a95049435456b23d20,4cfe63a95049435456b23d20,146,questionGroup,questionGroupText,146,category,Additional Information
+48acf650504943bfab6ea66d,,2007,question,description,146,category,"Training records must have the following: (identity of each employee, the date of his/her training, and the means used to verify the employee understood the training)"
+48acf650504943bfab6ea66d,,2007,question,questionText,146,category,"Verify that the training records contained the following information: (identity of each employee, the date of his/her training, and the means used to verify the employee understood the training) for each contract employee."
+48acf650504943bfab6ea66d,,2007,question,responseOptionNA,146,category,N/A
+48acf650504943bfab6ea66d,,2007,question,responseOptionNo,146,category,No
+48acf650504943bfab6ea66d,,2007,question,responseOptionYes,146,category,Yes
+48acf650504943ca3db74278,,2008,question,questionText,146,category,Verify how many contract employee training records were reviewed.
+48acf6505049433592b61512,,2009,question,questionText,146,category,"Verify how many contract employees were interviewed in the field concerning: (permits, evacuation routes, emergency action plan, and emergency contacts)."
+48acf650504943fdb1e23a31,,2010,question,questionText,146,category,Does the contractor understand the coloring system for ACM and non- ACM insulation?
+48acf650504943fdb1e23a31,,2010,question,responseOptionNA,146,category,N/A
+48acf650504943fdb1e23a31,,2010,question,responseOptionNo,146,category,No
+48acf650504943fdb1e23a31,,2010,question,responseOptionYes,146,category,Yes
+4cfe641c50494379b07711a2,,5980,question,questionText,146,category,Verify that the training records contained evidence of refresher training for appropriate subjects?
+4cfe6461504943d645da285e,,5981,question,questionText,146,category,"Verify that the training records contained evidence that specific tasks have required training and the employee is ""checked off"" to perform a given task."

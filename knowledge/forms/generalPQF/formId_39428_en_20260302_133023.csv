@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+691e521f0100003c008b6289,6453db3718000089320f235c,39428,questionGroup,questionGroupText,39428,form,Avetta PQF - Spain Fiscal Compliance (AEAT)
+6453dbae180000c0440f2361,,141431,question,description,39428,form,Document must be issued within 30 days of submission.
+6453dbae180000c0440f2361,,141431,question,questionText,39428,form,"Please upload the AEAT Tax Compliance Certificate (Certificado de estar al corriente de las obligaciones tributarias), issued by the Agencia Estatal de Administración Tributaria (AEAT)."
+6453dbc91b0000684965fc0b,,141432,question,questionText,39428,form,"As an authorized signatory, I confirm that Tax Contributions are up-to-date and records are available upon request."
+649db6501900001b017df47b,,142353,question,description,39428,form,The Issue date must be within the last 30 days
+649db6501900001b017df47b,,142353,question,questionText,39428,form,Issue date
+6580d0111800008d3a6e6fe5,,148505,question,questionText,39428,form,Does your company pay taxes to the Tax Agency in Spain (Agencia Estatal de Administración Tributaria)?
+6580d0111800008d3a6e6fe5,,148505,question,responseOption1,39428,form,Yes
+6580d0111800008d3a6e6fe5,,148505,question,responseOption2,39428,form,No
+6580d0391a00000b3949abf1,,148507,question,questionText,39428,form,Please explain why:
+6580d0391a00000b3949abf1,,148507,question,responseOption1,39428,form,Yes
+6580d0391a00000b3949abf1,,148507,question,responseOption2,39428,form,No

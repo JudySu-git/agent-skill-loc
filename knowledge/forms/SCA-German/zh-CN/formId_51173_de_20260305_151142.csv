@@ -1,0 +1,12 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774aa36b6c4c635467a1,69a8774aa36b6c4c635467a0,51173,questionGroup,questionGroupText,51173,form,起重设备,
+69a8774aa36b6c4c6354679c,,200169,question,description,51173,form,"安装和拆卸必须在具备资质的人员监督下进行。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Work Equipment Ordinance, Section 18(2)(2)</a>",
+69a8774aa36b6c4c6354679c,,200169,question,questionText,51173,form,监督下的安装与拆卸,
+69a8774aa36b6c4c6354679d,,200170,question,description,51173,form,"允许载荷必须在起重设备和吊索上清晰标注。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Work Equipment Ordinance, Section 18(7)</a>",
+69a8774aa36b6c4c6354679d,,200170,question,questionText,51173,form,载荷限制,
+69a8774aa36b6c4c6354679e,,200171,question,description,51173,form,"必须通过规定的安全措施确保起重作业过程中设备的稳定性。起重设备必须确保在稳固地面上安全架设。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Work Equipment Ordinance, Section 18(2)</a>",
+69a8774aa36b6c4c6354679e,,200171,question,questionText,51173,form,设备稳定性措施,
+69a8774aa36b6c4c6354679f,,200172,question,questionText,51173,form,<div></div>,

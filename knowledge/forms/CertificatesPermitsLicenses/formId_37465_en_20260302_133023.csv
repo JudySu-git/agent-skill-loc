@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63657683180000ee04c0cb97,636576771700001306cf8f2a,37465,questionGroup,questionGroupText,37465,form,Scaffolding Contractor Licences – New South Wales
+636576771700001306cf8f2b,,132419,question,questionText,37465,form,Please upload current Scaffolding Licence
+636576771700001306cf8f2c,,132420,question,questionText,37465,form,Licence Number
+636576771700001306cf8f2d,,132421,question,questionText,37465,form,Effective Date
+636576771700001306cf8f2e,,132422,question,questionText,37465,form,Expiration Date

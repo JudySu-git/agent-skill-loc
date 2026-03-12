@@ -1,0 +1,9 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774da36b6c4c635467c2,69a8774da36b6c4c635467c1,51177,questionGroup,questionGroupText,51177,form,Arbeitsschutzausschuss,
+69a8774da36b6c4c635467be,,200195,question,description,51177,form,"In Arbeitsstätten mit mindestens 100 Beschäftigten muss ein Arbeitsschutzausschuss eingerichtet werden. Die Ausschussmitgliedschaft muss den Arbeitgeber, Fachkräfte und Vertreter umfassen. Externe Arbeitnehmer und Baustellenarbeiter müssen in die Belegschaftsberechnung einbezogen werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 88 Abs. 1</a>",
+69a8774da36b6c4c635467be,,200195,question,questionText,51177,form,Ausschusseinrichtung (≥100 Beschäftigte),
+69a8774da36b6c4c635467bf,,200196,question,description,51177,form,"Ausschusssitzungen müssen mindestens einmal pro Kalenderjahr stattfinden. Für jede Ausschusssitzung ist ein Protokoll zu erstellen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 88 Abs. 5, 7</a>",
+69a8774da36b6c4c635467bf,,200196,question,questionText,51177,form,Mindestens eine jährliche Ausschusssitzung,
+69a8774da36b6c4c635467c0,,200197,question,questionText,51177,form,<div></div>,

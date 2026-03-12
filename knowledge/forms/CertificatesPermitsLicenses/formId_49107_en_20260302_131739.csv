@@ -1,0 +1,54 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6965550901000044003a74a4,691c1978010000b50019aac8,49107,questionGroup,description,49107,form,This requirement is triggered because you indicated your organization maintains a valid SCP certificate in the Mainland Europe - Contractor Safety Certification questionnaire.
+6965550901000044003a74a4,691c1978010000b50019aac8,49107,questionGroup,questionGroupText,49107,form,SCP Certificate Upload
+691c1978010000330219aaca,,188911,question,description,49107,form,"Company-Level Certification:\nOnly certificates issued to the legal business entity are acceptable for SCP compliance. Individual employee certifications or personal safety passes do not satisfy the requirement for organizational certification under the SCP standard.\n\nIdentification of the Certified Entity:\nThe SCP certificate must clearly show the registered company name of the personnel service provider. Where applicable, it should also display any relevant company registration number associated with the certified business entity.\n\nSole Proprietors / Owner-Operators:\nIf a personnel service provider operates as a sole proprietor under their own legal name, the SCP certificate may display the individual’s name—but only if that individual is recognized as the legal business entity by the issuing certification body."
+691c1978010000330219aaca,,188911,question,questionText,49107,form,Upload a copy of the certificate: 
+691c1978010000330219aacb,,188912,question,questionText,49107,form,Confirm the country where the certificate was issued:
+691c1978010000330219aacb,,188912,question,responseOption1,49107,form,Albania
+691c1978010000330219aacb,,188912,question,responseOption10,49107,form,Croatia
+691c1978010000330219aacb,,188912,question,responseOption11,49107,form,Cyprus
+691c1978010000330219aacb,,188912,question,responseOption12,49107,form,Czechia
+691c1978010000330219aacb,,188912,question,responseOption13,49107,form,Denmark
+691c1978010000330219aacb,,188912,question,responseOption14,49107,form,Estonia
+691c1978010000330219aacb,,188912,question,responseOption15,49107,form,Finland
+691c1978010000330219aacb,,188912,question,responseOption16,49107,form,France
+691c1978010000330219aacb,,188912,question,responseOption17,49107,form,Georgia
+691c1978010000330219aacb,,188912,question,responseOption18,49107,form,Germany
+691c1978010000330219aacb,,188912,question,responseOption19,49107,form,Greece
+691c1978010000330219aacb,,188912,question,responseOption2,49107,form,Andorra
+691c1978010000330219aacb,,188912,question,responseOption20,49107,form,Hungary
+691c1978010000330219aacb,,188912,question,responseOption21,49107,form,Kazakhstan
+691c1978010000330219aacb,,188912,question,responseOption22,49107,form,Iceland
+691c1978010000330219aacb,,188912,question,responseOption23,49107,form,Ireland
+691c1978010000330219aacb,,188912,question,responseOption24,49107,form,Italy
+691c1978010000330219aacb,,188912,question,responseOption25,49107,form,Latvia
+691c1978010000330219aacb,,188912,question,responseOption26,49107,form,Lithuania
+691c1978010000330219aacb,,188912,question,responseOption27,49107,form,Liechtenstein
+691c1978010000330219aacb,,188912,question,responseOption28,49107,form,Luxembourg
+691c1978010000330219aacb,,188912,question,responseOption29,49107,form,Malta
+691c1978010000330219aacb,,188912,question,responseOption3,49107,form,Armenia
+691c1978010000330219aacb,,188912,question,responseOption30,49107,form,Monaco
+691c1978010000330219aacb,,188912,question,responseOption31,49107,form,Montenegro
+691c1978010000330219aacb,,188912,question,responseOption32,49107,form,Netherlands
+691c1978010000330219aacb,,188912,question,responseOption33,49107,form,North Macedonia
+691c1978010000330219aacb,,188912,question,responseOption34,49107,form,Norway
+691c1978010000330219aacb,,188912,question,responseOption35,49107,form,Poland
+691c1978010000330219aacb,,188912,question,responseOption36,49107,form,Portugal
+691c1978010000330219aacb,,188912,question,responseOption37,49107,form, Republic of Moldova
+691c1978010000330219aacb,,188912,question,responseOption38,49107,form,Romania
+691c1978010000330219aacb,,188912,question,responseOption39,49107,form, Russian Federation
+691c1978010000330219aacb,,188912,question,responseOption4,49107,form,Austria
+691c1978010000330219aacb,,188912,question,responseOption40,49107,form,San Marino
+691c1978010000330219aacb,,188912,question,responseOption41,49107,form,Serbia
+691c1978010000330219aacb,,188912,question,responseOption42,49107,form,Slovakia
+691c1978010000330219aacb,,188912,question,responseOption43,49107,form,Sweden
+691c1978010000330219aacb,,188912,question,responseOption44,49107,form,Switzerland
+691c1978010000330219aacb,,188912,question,responseOption45,49107,form,Turkey
+691c1978010000330219aacb,,188912,question,responseOption5,49107,form,Azerbaijan
+691c1978010000330219aacb,,188912,question,responseOption6,49107,form,Belarus
+691c1978010000330219aacb,,188912,question,responseOption7,49107,form,Belgium
+691c1978010000330219aacb,,188912,question,responseOption8,49107,form,Bosnia and Herzegovina
+691c1978010000330219aacb,,188912,question,responseOption9,49107,form,Bulgaria
+691c1978010000330219aacd,,188913,question,description,49107,form,"The standard validity period is 3 years.\n\n<a href=""https://www.vca.nl/home/diplomas-certificates/scp?"" target=""blank"">SCC Certificate</a>"
+691c1978010000330219aacd,,188913,question,questionText,49107,form,Please enter the certificate expiration date.
+691c1978010000330219aacc,,188914,question,questionText,49107,form,Certificate Number/Identifier:

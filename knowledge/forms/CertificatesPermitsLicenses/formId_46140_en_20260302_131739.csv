@@ -1,0 +1,4 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6830c3550100003c00cc53c6,6830c3250100003f00cc53c3,46140,questionGroup,questionGroupText,46140,form,Spain Certification for Heating and Air Conditioning
+6830c3250100003d00cc53c4,,174457,question,description,46140,form,"You are receiving this form because you answered ""Yes"" to maintaining a Certificate of Authorization for Heating and Air Conditioning Installation in the Spanish Trade Licenses Applicability Assessment questionnaire."
+6830c3250100003d00cc53c4,,174457,question,questionText,46140,form,Please upload a copy of your company's Certificate of Authorization for Heating and Air Conditioning Installation.

@@ -1,0 +1,29 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66e8bc190100006e0005c542,61b291042f0000f379fb5fc5,34441,questionGroup,description,34445,form,"The term ‘local content’ covers all suppliers producing goods and services, or value adding to imported items, within Australia or New Zealand (ANZ)."
+66e8bc190100006e0005c542,61b291042f0000f379fb5fc5,34441,questionGroup,questionGroupText,34445,form,Local Content
+61b291052f0000f379fb5fcd,61b291052f0000f379fb5fcd,34442,questionGroup,questionGroupText,34445,form,Workforce
+61b291052f0000f379fb5fd6,61b291052f0000f379fb5fd6,34443,questionGroup,questionGroupText,34445,form,Acknowledgements
+66e8bc190100006e0005c543,61b291042f0000f379fb5fc4,34444,questionGroup,questionGroupText,34445,form,Yarra Trams Annual Update
+66e9f0110100002f008af1ad,61b291042f0000f379fb5fc3,34445,questionGroup,questionGroupText,34445,form,Yarra Trams Annual Update
+61b291042f0000f379fb5fc6,,117109,question,questionText,34445,form,"Since November 30th 2017, what is the invoiced amount Yarra Trams has spent with your company?"
+61b291042f0000f379fb5fc7,,117110,question,description,34445,form,"The total percentage for Services (A) and Materials/Goods (B) must be equal to 100%, e.g. if Services (A) is equal to 70% then Materials/Goods (B) must be equal to 30%."
+61b291042f0000f379fb5fc7,,117110,question,questionText,34445,form,Of the invoiced amount since Nov 30th 2017 what percentage are Services (A)?
+61b291052f0000f379fb5fc8,,117111,question,description,34445,form,"The total percentage for Services (A) and Materials/Goods (B) must be equal to 100%, e.g. if Services (A) is equal to 70% then Materials/Goods (B) must be equal to 30%."
+61b291052f0000f379fb5fc8,,117111,question,questionText,34445,form,Of the invoiced amount since Nov 30th 2017 what percentage are Materials / Goods (B)?
+61b291052f0000f379fb5fc9,,117112,question,questionText,34445,form,What percentage of the Service provided to Yarra Trams is procured/sourced locally (C)?
+61b291052f0000f379fb5fca,,117113,question,questionText,34445,form,What percentage of Materials / Goods procured to Yarra Trams is procured/sourced locally (D)?
+61b291052f0000f379fb5fcb,,117114,question,questionText,34445,form,Total number of suppliers used in Yarra Trams work since Nov 30th 2017 (F)?
+61b291052f0000f379fb5fcc,,117115,question,description,34445,form,SME – Known as a small-to-medium size enterprise and refers to a business with an Australian Business Number (ABN) and with less than 200 employees
+61b291052f0000f379fb5fcc,,117115,question,questionText,34445,form,Total number of SME's used in Yarra Trams work since Nov 30th 2017 (G)?
+61b291052f0000f379fb5fce,,117116,question,questionText,34445,form,How many of the following have been created due to Yarra Trams work since Nov 30th 2017:
+61b291052f0000f379fb5fcf,,117117,question,questionText,34445,form,Full time equivalent (FTE)?
+61b291052f0000f379fb5fd0,,117118,question,questionText,34445,form,How many of the following were retained due to contracted work with Yarra Trams since Nov 30th 2017:
+61b291052f0000f379fb5fd1,,117119,question,questionText,34445,form,Full time equivalent (FTE)?
+61b291052f0000f379fb5fd2,,117120,question,questionText,34445,form,Apprentice FTE?
+61b291052f0000f379fb5fd3,,117121,question,questionText,34445,form,Trainee FTE?
+61b291052f0000f379fb5fd4,,117122,question,questionText,34445,form,Apprentice FTE?
+61b291052f0000f379fb5fd5,,117123,question,questionText,34445,form,Trainee FTE?
+61b291052f0000f379fb5fd7,,117124,question,questionText,34445,form,I agree that all information provided is true and correct.
+66e8bca0010000c60071efca,,159612,question,questionText,34445,form,<b>Please provide information for the previous financial year.</b>
+66e8bca0010000c60071efca,,159612,question,responseOption1,34445,form,Yes
+66e8bca0010000c60071efca,,159612,question,responseOption2,34445,form,No

@@ -1,0 +1,54 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4de00db4504943c510b845ae,,7806,question,questionText,26289,form,Is your company willing to provide a copy of the company's financial statements for the past three years?
+4de00db4504943c510b845ae,,7806,question,responseOptionNo,26289,form,No
+4de00db4504943c510b845ae,,7806,question,responseOptionYes,26289,form,Yes
+527bca8450494350d63ac4ce,,21773,question,description,26289,form,<a href='http://www.iso.org/iso/home/standards/currency_codes.htm' target='_BLANK'>ISO Currency Code Information and Lists</a>
+527bca8450494350d63ac4ce,,21773,question,questionText,26289,form,Please select the currency that coincides with the monetary values you will provide below:
+527bca8450494350d63ac4ce,,21773,question,responseOptionAED,26289,form,AED - UAE Dirham
+527bca8450494350d63ac4ce,,21773,question,responseOptionARS,26289,form,ARS - Argentine Peso
+527bca8450494350d63ac4ce,,21773,question,responseOptionAUD,26289,form,AUD - Australian Dollar
+527bca8450494350d63ac4ce,,21773,question,responseOptionBRL,26289,form,BRL - Brazillian Real
+527bca8450494350d63ac4ce,,21773,question,responseOptionCAD,26289,form,CAD - Canadian Dollar
+527bca8450494350d63ac4ce,,21773,question,responseOptionCHE,26289,form,CHE - WIR Euro
+527bca8450494350d63ac4ce,,21773,question,responseOptionCHF,26289,form,CHF - Swiss Franc
+527bca8450494350d63ac4ce,,21773,question,responseOptionCHW,26289,form,CHW - WIR Franc
+527bca8450494350d63ac4ce,,21773,question,responseOptionCLF,26289,form,CLF - Unidad de Fomento
+527bca8450494350d63ac4ce,,21773,question,responseOptionCLP,26289,form,CLP - Chilean Peso
+527bca8450494350d63ac4ce,,21773,question,responseOptionCNY,26289,form,CNY - Yuan Renminbi
+527bca8450494350d63ac4ce,,21773,question,responseOptionDKK,26289,form,DKK - Danish Krone
+527bca8450494350d63ac4ce,,21773,question,responseOptionEUR,26289,form,EUR - Euro
+527bca8450494350d63ac4ce,,21773,question,responseOptionGBP,26289,form,GBP - Pound Sterling
+527bca8450494350d63ac4ce,,21773,question,responseOptionHKD,26289,form,HKD - Hong Kong Dollar
+527bca8450494350d63ac4ce,,21773,question,responseOptionHUF,26289,form,HUF - Forint
+527bca8450494350d63ac4ce,,21773,question,responseOptionILS,26289,form,ILS - New Israeli Sheqel
+527bca8450494350d63ac4ce,,21773,question,responseOptionINR,26289,form,INR - Indian Rupee
+527bca8450494350d63ac4ce,,21773,question,responseOptionMXN,26289,form,MXN - Mexican Peso
+527bca8450494350d63ac4ce,,21773,question,responseOptionMXV,26289,form,MXV - Mexican Unidad de Inversion (UDI)
+527bca8450494350d63ac4ce,,21773,question,responseOptionNOK,26289,form,NOK - Norwegian Krone
+527bca8450494350d63ac4ce,,21773,question,responseOptionNZD,26289,form,NZD - New Zealand Dollar
+527bca8450494350d63ac4ce,,21773,question,responseOptionOtherCurrency,26289,form,Other
+527bca8450494350d63ac4ce,,21773,question,responseOptionPLN,26289,form,PLN - Zloty
+527bca8450494350d63ac4ce,,21773,question,responseOptionRUB,26289,form,RUB - Russian Ruble
+527bca8450494350d63ac4ce,,21773,question,responseOptionSEK,26289,form,SEK - Swedish Krone
+527bca8450494350d63ac4ce,,21773,question,responseOptionSGD,26289,form,SGD - Singapore Dollar
+527bca8450494350d63ac4ce,,21773,question,responseOptionTRY,26289,form,TRY - Turkish Lira
+527bca8450494350d63ac4ce,,21773,question,responseOptionUSD,26289,form,USD - U.S. Dollar
+527bca8450494350d63ac4ce,,21773,question,responseOptionZAR,26289,form,ZAR - Rand
+527bcb625049432353e0513a,,21774,question,description,26289,form,This information should be available on your company's latest balance sheet.
+527bcb625049432353e0513a,,21774,question,questionText,26289,form,Balance Sheet Information \nWhat is the monetary value of your current assets?
+527bcdf050494332b61e3aca,,21776,question,description,26289,form,This information should be available on your company's latest balance sheet.
+527bcdf050494332b61e3aca,,21776,question,questionText,26289,form,What is the monetary value of your total assets?
+527bce51504943df03306036,,21777,question,description,26289,form,This information should be available on your company's latest balance sheet.
+527bce51504943df03306036,,21777,question,questionText,26289,form,What is the monetary value of your current liabilities?
+527bcf7550494324d71712f2,,21778,question,description,26289,form,This information should be available on your company's latest balance sheet.
+527bcf7550494324d71712f2,,21778,question,questionText,26289,form,What is the monetary value of your total liabilities?
+527bcff4504943e4d9630613,,21779,question,description,26289,form,This information should be available on your company's latest balance sheet.
+527bcff4504943e4d9630613,,21779,question,questionText,26289,form,What is the monetary value of your Net Worth (total assets minus total liabilities)?
+527bd6c6504943ab36c79097,,21785,question,questionText,26289,form,If your currency is not listed please specify below:
+6942f3a901000044005d954c,5c7604a33700000eec7f4825,26289,questionGroup,questionGroupText,26289,form,Avetta PQF - Financial Statements
+5a35dfdf50494327ef345e94,,51656,question,description,26289,form,"Please only include public information. \r\n Supporting documentation for the given years include: Income Statement, Statement of Cash Flows, Balance Sheet and/or Statement of Shareholder Equity, etc."
+5a35dfdf50494327ef345e94,,51656,question,questionText,26289,form,Upload supporting documentation:
+675b2d73010000380063536b,,163310,question,description,26289,form,This information should be available on your company's 2024 Profit & Loss statement.
+675b2d73010000380063536b,,163310,question,questionText,26289,form,Annual Revenue for 2024?
+6942f2260100005f003c63f7,,193402,question,description,26289,form,This information should be available on your company's 2025 Profit & Loss statement.
+6942f2260100005f003c63f7,,193402,question,questionText,26289,form,Annual Revenue for 2025?

@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+64bb032c1800009d00516916,645d69051800000950427002,39444,questionGroup,questionGroupText,39444,form,Weapons Liability - Colombia
+64bafcbe190000e300bf696d,64bafcbe190000e300bf696c,40046,questionGroup,questionGroupText,39444,form,Policy Information
+64bafccc180000900051688d,64bafccc180000900051688c,40049,questionGroup,questionGroupText,39444,form,Policy Limits
+645d6a9e180000d204dad90d,,141537,question,description,39444,form,"Decreto 356 de 1994 is a regulatory decree that establishes the technical and administrative requirements for the manufacture, import, export, and commercialization of firearms and ammunition in Colombia. It also references the minimum policy limit for Weapons Liability insurance as 400 times the monthly minimum salary in Colombia. This decree includes provisions on the technical and safety requirements for firearms and ammunition, the registration and tracking of firearms and ammunition, and the licensing and regulation of firearms manufacturers, importers, and exporters."
+645d6a9e180000d204dad90d,,141537,question,questionText,39444,form,Please upload Weapons Liability Policy
+64b961541a00001108e53ccd,,143885,question,questionText,39444,form,Date of Commencement:
+64b961691a00001e08e548ca,,143886,question,questionText,39444,form,Expiration date:
+64b962c31800002b03f825e2,,143887,question,description,39444,form,Used to provide instructions from Client
+64b962c31800002b03f825e2,,143887,question,questionText,39444,form,Comments
+64b962e31a00001c08e5756e,,143888,question,description,39444,form,Date the instructions from Client expire
+64b962e31a00001c08e5756e,,143888,question,questionText,39444,form,VARIANCE Expiration Date
+64bafa411800009f0051687e,,143895,question,questionText,39444,form,Monetary Limit
+64bafcfa1800009900516897,,143898,question,questionText,39444,form,Currency used in Certificate of Insurance (COI)

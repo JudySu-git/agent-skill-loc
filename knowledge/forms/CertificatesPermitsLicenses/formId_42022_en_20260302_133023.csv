@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce495b010000bd00ebe512,662feca11a0000650045d377,42022,questionGroup,description,42022,form,You are getting this category because you selected a license in the Avetta PQF - Queensland License.
+66ce495b010000bd00ebe512,662feca11a0000650045d377,42022,questionGroup,questionGroupText,42022,form,Queensland Contractor License - Fire
+662feca11a00002f0045d378,,153370,question,questionText,42022,form,License Number:
+662feca11a00002f0045d378,,153370,question,responseOption1,42022,form,Yes
+662feca11a00002f0045d378,,153370,question,responseOption2,42022,form,No
+662feca11a00002f0045d379,,153371,question,questionText,42022,form,Please upload your license:\n
+662feca11a00002f0045d379,,153371,question,responseOption1,42022,form,Yes
+662feca11a00002f0045d379,,153371,question,responseOption2,42022,form,No
+662feca11a0000310045d37a,,153372,question,questionText,42022,form,Expiration Date:
+662feca11a0000310045d37a,,153372,question,responseOption1,42022,form,Yes
+662feca11a0000310045d37a,,153372,question,responseOption2,42022,form,No

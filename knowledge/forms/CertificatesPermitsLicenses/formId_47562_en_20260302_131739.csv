@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68bef3a3010000b8009bb094,68bef012010000ea000144eb,47562,questionGroup,description,47562,form,This requirement is triggered because you indicated your organization maintains valid Slovakia Statutory Labor Insurance documentation in the Slovakia Statutory Labor Insurance Applicability Assessment questionnaire.
+68bef3a3010000b8009bb094,68bef012010000ea000144eb,47562,questionGroup,questionGroupText,47562,form,Slovakia Social Insurance Registration Certificate
+68bef26c01000034009bb083,,180334,question,description,47562,form,
+68bef26c01000034009bb083,,180334,question,questionText,47562,form,Please upload your company's valid Social Insurance Registration Certificate to confirm your company's registration with Slovakia's Social Insurance Agency. \n
+68bef30b010000ea000144f3,,180335,question,description,47562,form,
+68bef30b010000ea000144f3,,180335,question,questionText,47562,form,Please provide your company's employer identification number (IČZ).

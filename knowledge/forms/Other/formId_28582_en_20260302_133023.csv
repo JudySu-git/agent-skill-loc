@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5e5ed3163500000d5c8581bc,5e38a8533400002ff4b18dfa,28582,questionGroup,questionGroupText,28582,form,FRA Part 219 Acceptance Letter
+5e38a88f3400002ff4b18dfd,5e38a88f3400002ff4b18dfc,28583,questionGroup,questionGroupText,28582,form,Random Drug and Alcohol Testing Plan
+5cdf0cc238000011582ce481,,83653,question,questionText,28582,form,Attach a copy of the FRA acceptance letter:
+5ce2e7c5340000115892d354,,83670,question,description,28582,form,Random Testing cannot begin prior to receiving acceptance letter from FRA of company’s Random Drug and Alcohol Testing Plan.
+5ce2e7c5340000115892d354,,83670,question,questionText,28582,form,Enter date your company was eligible to begin testing:

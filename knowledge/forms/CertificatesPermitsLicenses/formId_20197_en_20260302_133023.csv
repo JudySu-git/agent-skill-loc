@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6070995843000090e865939e,503b96f95049433bbb529928,2881,questionGroup,questionGroupText,20197,form,Policy Information
+503b9869504943d9cc6931b4,503b9869504943d9cc6931b4,2882,questionGroup,questionGroupText,20197,form,Policy Limits
+503b9775504943a44b31eca4,,13018,question,questionText,20197,form,Date of Commencement:
+503b97d1504943dcbbd9e34f,,13019,question,questionText,20197,form,Expiration Date:
+503b98ab504943a306ef7b88,,13021,question,questionText,20197,form,Each Occurrence
+503b98ed504943d454573509,,13022,question,questionText,20197,form,General Aggregate
+607099dc4500009d89bde9ba,5ad147dc2200008700a5a993,20197,questionGroup,questionGroupText,20197,form,Hook Liability
+5ad1480d2200001700a5a997,,70089,question,description,20197,form,Please upload Hook Liability Certificate.
+5ad1480d2200001700a5a997,,70089,question,questionText,20197,form,Please upload Hook Liability Certificate.
+5d713a1735000005b10630f5,,86263,question,questionText,20197,form,Insurance Carrier:
+6070995643000090e865939d,,108743,question,description,20197,form,Used to provide instructions from Client
+6070995643000090e865939d,,108743,question,questionText,20197,form,Comments
+6070996543000090e8659449,,108744,question,description,20197,form,Date the instructions from Client expire
+6070996543000090e8659449,,108744,question,questionText,20197,form,VARIANCE Expiration Date
+62f53f2a82eb52eab3c18fa0,,130517,question,questionText,20197,form,Currency used in Certificate of Insurance (COI)

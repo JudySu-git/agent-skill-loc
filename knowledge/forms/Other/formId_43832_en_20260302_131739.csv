@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+673bc24d0100008200d29a31,6724f3c40100004b00e83a6d,43832,questionGroup,questionGroupText,43832,form,Brazil Fire Department Inspection Report Applicability Assessment
+6724f59c0100003000e83a74,,161363,question,questionText,43832,form,Is your company required to maintain a valid Fire Department Inspection Report to certify that your premises meet fire safety standards?
+6724f59c0100003000e83a74,,161363,question,responseOption1,43832,form,Yes
+6724f59c0100003000e83a74,,161363,question,responseOption2,43832,form,No
+6724f5a5010000320077d8cd,,161364,question,questionText,43832,form,Please select an option
+6724f5a5010000320077d8cd,,161364,question,responseOption1,43832,form,Our facility is located in a building or region that is not required to have a Fire Department Inspection
+6724f5a5010000320077d8cd,,161364,question,responseOption2,43832,form,We operate a small business or low-risk activity exempt from Fire Department Inspection requirements 
+6724f5a5010000320077d8cd,,161364,question,responseOption3,43832,form,Other
+6724f5bc010000340077d8d0,,161365,question,questionText,43832,form,Please explain
+6724f5bc010000340077d8d0,,161365,question,responseOption1,43832,form,Yes
+6724f5bc010000340077d8d0,,161365,question,responseOption2,43832,form,No
+6724f5c50100002e0077d8d3,,161366,question,questionText,43832,form,Sign below to confirm the information and/or document provided is correct and updated
+6724f5c50100002e0077d8d3,,161366,question,responseOption1,43832,form,Yes
+6724f5c50100002e0077d8d3,,161366,question,responseOption2,43832,form,No

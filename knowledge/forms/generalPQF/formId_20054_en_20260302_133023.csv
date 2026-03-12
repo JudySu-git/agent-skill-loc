@@ -1,0 +1,334 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+42a3d85050494311625f8422,,149,question,description,20054,form,A Safety Management System (SMS) is a systematic and explicit approach outlining all the activities undertaken by an organization in order to achieve acceptable or tolerable safety levels.
+42a3d85050494311625f8422,,149,question,questionText,20054,form,"Health, Safety, & Environmental Program/Policies (safety manual)"
+42a3d85050494311625f8422,,149,question,responseOptionNA,20054,form,N/A
+42a3d85050494311625f8422,,149,question,responseOptionNo,20054,form,No
+42a3d85050494311625f8422,,149,question,responseOptionYes,20054,form,Yes
+429d40d050494326c3dffc42,,151,question,description,20054,form,A program that outlines the expectations of individuals that serve in a managerial role within an organization.
+429d40d050494326c3dffc42,,151,question,questionText,20054,form,Management commitment & expectations
+429d40d050494326c3dffc42,,151,question,responseOptionNA,20054,form,N/A
+429d40d050494326c3dffc42,,151,question,responseOptionNo,20054,form,No
+429d40d050494326c3dffc42,,151,question,responseOptionYes,20054,form,Yes
+429d40d05049431ba2aa369e,,152,question,description,20054,form,A program that encourages staff members to assist in the decision-making process and to supply feedback for improving work processes.
+429d40d05049431ba2aa369e,,152,question,questionText,20054,form,Employee participation
+429d40d05049431ba2aa369e,,152,question,responseOptionNA,20054,form,N/A
+429d40d05049431ba2aa369e,,152,question,responseOptionNo,20054,form,No
+429d40d05049431ba2aa369e,,152,question,responseOptionYes,20054,form,Yes
+429d40d0504943202a722f66,,153,question,description,20054,form,Knowing who is responsible for the different aspects of the job.
+429d40d0504943202a722f66,,153,question,questionText,20054,form,"Accountability & responsibility for managers, supervisors & employees"
+429d40d0504943202a722f66,,153,question,responseOptionNA,20054,form,N/A
+429d40d0504943202a722f66,,153,question,responseOptionNo,20054,form,No
+429d40d0504943202a722f66,,153,question,responseOptionYes,20054,form,Yes
+42d89450504943da6efd9912,,154,question,description,20054,form,Ensuring that all the necessary items have been put in place so you have met the minimum legal requirements.
+42d89450504943da6efd9912,,154,question,questionText,20054,form,Resources for meeting health & safety requirements
+42d89450504943da6efd9912,,154,question,responseOptionNA,20054,form,N/A
+42d89450504943da6efd9912,,154,question,responseOptionNo,20054,form,No
+42d89450504943da6efd9912,,154,question,responseOptionYes,20054,form,Yes
+429d40d050494374b22eb1c4,,155,question,description,20054,form,A program that details how to review the health and safety performance of the employees.
+429d40d050494374b22eb1c4,,155,question,questionText,20054,form,Periodic health & safety performance appraisals
+429d40d050494374b22eb1c4,,155,question,responseOptionNA,20054,form,N/A
+429d40d050494374b22eb1c4,,155,question,responseOptionNo,20054,form,No
+429d40d050494374b22eb1c4,,155,question,responseOptionYes,20054,form,Yes
+429d40d05049436b618ccffc,,156,question,questionText,20054,form,Hazard recognition & control
+429d40d05049436b618ccffc,,156,question,responseOptionNA,20054,form,N/A
+429d40d05049436b618ccffc,,156,question,responseOptionNo,20054,form,No
+429d40d05049436b618ccffc,,156,question,responseOptionYes,20054,form,Yes
+429d40d05049432bb712de1b,,159,question,description,20054,form,A program that establishes protocols to analyze accidents or incidents and determine a root cause and corrective actions.
+429d40d05049432bb712de1b,,159,question,questionText,20054,form,"Accident Reporting, Investigation & Root Cause Analysis"
+429d40d05049432bb712de1b,,159,question,responseOptionNA,20054,form,N/A
+429d40d05049432bb712de1b,,159,question,responseOptionNo,20054,form,No
+429d40d05049432bb712de1b,,159,question,responseOptionYes,20054,form,Yes
+42ddda50504943bb2f8f545a,,160,question,questionText,20054,form,Asbestos Awareness
+42ddda50504943bb2f8f545a,,160,question,responseOptionNA,20054,form,N/A
+42ddda50504943bb2f8f545a,,160,question,responseOptionNo,20054,form,No
+42ddda50504943bb2f8f545a,,160,question,responseOptionYes,20054,form,Yes
+429e92505049438b16f973c6,,161,question,questionText,20054,form,Chemical Exposure Awareness
+429e92505049438b16f973c6,,161,question,responseOptionNA,20054,form,N/A
+429e92505049438b16f973c6,,161,question,responseOptionNo,20054,form,No
+429e92505049438b16f973c6,,161,question,responseOptionYes,20054,form,Yes
+429e92505049435dffb9a087,,162,question,questionText,20054,form,Bloodborne Pathogens
+429e92505049435dffb9a087,,162,question,responseOptionNA,20054,form,N/A
+429e92505049435dffb9a087,,162,question,responseOptionNo,20054,form,No
+429e92505049435dffb9a087,,162,question,responseOptionYes,20054,form,Yes
+429e92505049439625b1d814,,164,question,questionText,20054,form,Compressed Gas Cylinders
+429e92505049439625b1d814,,164,question,responseOptionNA,20054,form,N/A
+429e92505049439625b1d814,,164,question,responseOptionNo,20054,form,No
+429e92505049439625b1d814,,164,question,responseOptionYes,20054,form,Yes
+429e9250504943b6c87c64c3,,165,question,questionText,20054,form,Concrete Construction
+429e9250504943b6c87c64c3,,165,question,responseOptionNA,20054,form,N/A
+429e9250504943b6c87c64c3,,165,question,responseOptionNo,20054,form,No
+429e9250504943b6c87c64c3,,165,question,responseOptionYes,20054,form,Yes
+429e9250504943399c8ae1d5,,166,question,questionText,20054,form,Confined Space
+429e9250504943399c8ae1d5,,166,question,responseOptionNA,20054,form,N/A
+429e9250504943399c8ae1d5,,166,question,responseOptionNo,20054,form,No
+429e9250504943399c8ae1d5,,166,question,responseOptionYes,20054,form,Yes
+429e92505049431992af37f7,,167,question,questionText,20054,form,Demolition
+429e92505049431992af37f7,,167,question,responseOptionNA,20054,form,N/A
+429e92505049431992af37f7,,167,question,responseOptionNo,20054,form,No
+429e92505049431992af37f7,,167,question,responseOptionYes,20054,form,Yes
+429d40d05049433f5fff36e0,,168,question,description,20054,form,"A program that establishes protocols for the enforcement of organizational rules and regulations, as well as related legislation."
+429d40d05049433f5fff36e0,,168,question,questionText,20054,form,Disciplinary action
+429d40d05049433f5fff36e0,,168,question,responseOptionNA,20054,form,N/A
+429d40d05049433f5fff36e0,,168,question,responseOptionNo,20054,form,No
+429d40d05049433f5fff36e0,,168,question,responseOptionYes,20054,form,Yes
+429e92505049436df3f81aff,,169,question,questionText,20054,form,Diving/Underwater Operations
+429e92505049436df3f81aff,,169,question,responseOptionNA,20054,form,N/A
+429e92505049436df3f81aff,,169,question,responseOptionNo,20054,form,No
+429e92505049436df3f81aff,,169,question,responseOptionYes,20054,form,Yes
+429e9250504943aead711314,,170,question,questionText,20054,form,Electrical Equipment Grounding Assurance
+429e9250504943aead711314,,170,question,responseOptionNA,20054,form,N/A
+429e9250504943aead711314,,170,question,responseOptionNo,20054,form,No
+429e9250504943aead711314,,170,question,responseOptionYes,20054,form,Yes
+429e92505049431956fb7789,,171,question,questionText,20054,form,Electrical Safety
+429e92505049431956fb7789,,171,question,responseOptionNA,20054,form,N/A
+429e92505049431956fb7789,,171,question,responseOptionNo,20054,form,No
+429e92505049431956fb7789,,171,question,responseOptionYes,20054,form,Yes
+429d40d0504943a90b3c9ed7,,173,question,description,20054,form,"A program that establishes protocols in the event of an emergency.  This provides appropriate actions or steps to take, which parties should be contacted, and designates meeting locations."
+429d40d0504943a90b3c9ed7,,173,question,questionText,20054,form,Emergency Planning
+429d40d0504943a90b3c9ed7,,173,question,responseOptionNA,20054,form,N/A
+429d40d0504943a90b3c9ed7,,173,question,responseOptionNo,20054,form,No
+429d40d0504943a90b3c9ed7,,173,question,responseOptionYes,20054,form,Yes
+429e925050494313f78dfa75,,174,question,questionText,20054,form,Fall Protection
+429e925050494313f78dfa75,,174,question,responseOptionNA,20054,form,N/A
+429e925050494313f78dfa75,,174,question,responseOptionNo,20054,form,No
+429e925050494313f78dfa75,,174,question,responseOptionYes,20054,form,Yes
+429e925050494399fc58012e,,175,question,questionText,20054,form,Fire Prevention program
+429e925050494399fc58012e,,175,question,responseOptionNA,20054,form,N/A
+429e925050494399fc58012e,,175,question,responseOptionNo,20054,form,No
+429e925050494399fc58012e,,175,question,responseOptionYes,20054,form,Yes
+4365b2e0504943ca0ffa4851,,176,question,questionText,20054,form,First Aid/CPR
+4365b2e0504943ca0ffa4851,,176,question,responseOptionNA,20054,form,N/A
+4365b2e0504943ca0ffa4851,,176,question,responseOptionNo,20054,form,No
+4365b2e0504943ca0ffa4851,,176,question,responseOptionYes,20054,form,Yes
+429e9250504943953cdb5374,,177,question,questionText,20054,form,Forklift/(FLTs)
+429e9250504943953cdb5374,,177,question,responseOptionNA,20054,form,N/A
+429e9250504943953cdb5374,,177,question,responseOptionNo,20054,form,No
+429e9250504943953cdb5374,,177,question,responseOptionYes,20054,form,Yes
+429e925050494372723e90b8,,181,question,questionText,20054,form,Hearing Protection
+429e925050494372723e90b8,,181,question,responseOptionNA,20054,form,N/A
+429e925050494372723e90b8,,181,question,responseOptionNo,20054,form,No
+429e925050494372723e90b8,,181,question,responseOptionYes,20054,form,Yes
+429e9250504943c17c2bbe15,,182,question,questionText,20054,form,Heavy Equipment
+429e9250504943c17c2bbe15,,182,question,responseOptionNA,20054,form,N/A
+429e9250504943c17c2bbe15,,182,question,responseOptionNo,20054,form,No
+429e9250504943c17c2bbe15,,182,question,responseOptionYes,20054,form,Yes
+429d40d0504943663f7c0517,,183,question,questionText,20054,form,Housekeeping
+429d40d0504943663f7c0517,,183,question,responseOptionNA,20054,form,N/A
+429d40d0504943663f7c0517,,183,question,responseOptionNo,20054,form,No
+429d40d0504943663f7c0517,,183,question,responseOptionYes,20054,form,Yes
+429e925050494339598ab1fe,,184,question,questionText,20054,form,"Lead, Cadmium or Metals Exposure"
+429e925050494339598ab1fe,,184,question,responseOptionNA,20054,form,N/A
+429e925050494339598ab1fe,,184,question,responseOptionNo,20054,form,No
+429e925050494339598ab1fe,,184,question,responseOptionYes,20054,form,Yes
+429e9250504943196caf0814,,185,question,questionText,20054,form,Lifting/Mobile Equipment/Crane
+429e9250504943196caf0814,,185,question,responseOptionNA,20054,form,N/A
+429e9250504943196caf0814,,185,question,responseOptionNo,20054,form,No
+429e9250504943196caf0814,,185,question,responseOptionYes,20054,form,Yes
+4365b2e05049433ee3fd579a,,186,question,questionText,20054,form,Lockout/Tagout (Control of Hazardous Energy)
+4365b2e05049433ee3fd579a,,186,question,responseOptionNA,20054,form,N/A
+4365b2e05049433ee3fd579a,,186,question,responseOptionNo,20054,form,No
+4365b2e05049433ee3fd579a,,186,question,responseOptionYes,20054,form,Yes
+429d40d05049431cf1ce0eb4,,188,question,questionText,20054,form,Personal Protective Equipment (PPE)
+429d40d05049431cf1ce0eb4,,188,question,responseOptionNA,20054,form,N/A
+429d40d05049431cf1ce0eb4,,188,question,responseOptionNo,20054,form,No
+429d40d05049431cf1ce0eb4,,188,question,responseOptionYes,20054,form,Yes
+429e9250504943cf75a321b7,,189,question,questionText,20054,form,Portable Electrical Power Tools
+429e9250504943cf75a321b7,,189,question,responseOptionNA,20054,form,N/A
+429e9250504943cf75a321b7,,189,question,responseOptionNo,20054,form,No
+429e9250504943cf75a321b7,,189,question,responseOptionYes,20054,form,Yes
+4365b2e05049439d196a8a1c,,191,question,questionText,20054,form,Respiratory protection
+4365b2e05049439d196a8a1c,,191,question,responseOptionNA,20054,form,N/A
+4365b2e05049439d196a8a1c,,191,question,responseOptionNo,20054,form,No
+4365b2e05049439d196a8a1c,,191,question,responseOptionYes,20054,form,Yes
+429d40d05049432d66836184,,192,question,questionText,20054,form,Abrasive Blasting/Sandblasting
+429d40d05049432d66836184,,192,question,responseOptionNA,20054,form,N/A
+429d40d05049432d66836184,,192,question,responseOptionNo,20054,form,No
+429d40d05049432d66836184,,192,question,responseOptionYes,20054,form,Yes
+429e925050494318b4c161d5,,193,question,questionText,20054,form,Rigging operations
+429e925050494318b4c161d5,,193,question,responseOptionNA,20054,form,N/A
+429e925050494318b4c161d5,,193,question,responseOptionNo,20054,form,No
+429e925050494318b4c161d5,,193,question,responseOptionYes,20054,form,Yes
+429e92505049439ccbbbd534,,194,question,questionText,20054,form,Scaffolding
+429e92505049439ccbbbd534,,194,question,responseOptionNA,20054,form,N/A
+429e92505049439ccbbbd534,,194,question,responseOptionNo,20054,form,No
+429e92505049439ccbbbd534,,194,question,responseOptionYes,20054,form,Yes
+429e9250504943d4c6f46261,,195,question,questionText,20054,form,Steel Erection
+429e9250504943d4c6f46261,,195,question,responseOptionNA,20054,form,N/A
+429e9250504943d4c6f46261,,195,question,responseOptionNo,20054,form,No
+429e9250504943d4c6f46261,,195,question,responseOptionYes,20054,form,Yes
+429e92505049435797a8ce73,,196,question,questionText,20054,form,Trenching/Shoring/Excavation
+429e92505049435797a8ce73,,196,question,responseOptionNA,20054,form,N/A
+429e92505049435797a8ce73,,196,question,responseOptionNo,20054,form,No
+429e92505049435797a8ce73,,196,question,responseOptionYes,20054,form,Yes
+429d40d050494355418fdd21,,197,question,questionText,20054,form,Vehicle Safety/Defensive Driving
+429d40d050494355418fdd21,,197,question,responseOptionNA,20054,form,N/A
+429d40d050494355418fdd21,,197,question,responseOptionNo,20054,form,No
+429d40d050494355418fdd21,,197,question,responseOptionYes,20054,form,Yes
+429e9250504943cf8c6e276d,,198,question,questionText,20054,form,Water Survival/Working Over Water
+429e9250504943cf8c6e276d,,198,question,responseOptionNA,20054,form,N/A
+429e9250504943cf8c6e276d,,198,question,responseOptionNo,20054,form,No
+429e9250504943cf8c6e276d,,198,question,responseOptionYes,20054,form,Yes
+429e9250504943981fae26f2,,199,question,questionText,20054,form,"Welding, Cutting & Hot Work"
+429e9250504943981fae26f2,,199,question,responseOptionNA,20054,form,N/A
+429e9250504943981fae26f2,,199,question,responseOptionNo,20054,form,No
+429e9250504943981fae26f2,,199,question,responseOptionYes,20054,form,Yes
+4365b2e05049439e64fd812e,,200,question,description,20054,form,Identifying hazards in the workplace and putting control measures to make them safe
+4365b2e05049439e64fd812e,,200,question,questionText,20054,form,"Conducting a Hazard Analysis, i.e. Job Safety Analysis(JSA), Job Hazard Analysis(JHA), Task Hazard Analysis(THA)"
+4365b2e05049439e64fd812e,,200,question,responseOptionNA,20054,form,N/A
+4365b2e05049439e64fd812e,,200,question,responseOptionNo,20054,form,No
+4365b2e05049439e64fd812e,,200,question,responseOptionYes,20054,form,Yes
+429d40d05049433858e137f7,,201,question,questionText,20054,form,Behavioral Based Safety
+429d40d05049433858e137f7,,201,question,responseOptionNA,20054,form,N/A
+429d40d05049433858e137f7,,201,question,responseOptionNo,20054,form,No
+429d40d05049433858e137f7,,201,question,responseOptionYes,20054,form,Yes
+5fd0e96f2b0000b8025b9b9c,4a16d992504943e76ad3ade5,402,questionGroup,questionGroupText,20054,form,Management Controls
+492a42e0504943f84d6f5bb5,,2051,question,description,20054,form,"(e.g. safety awareness of large animals, poisonous plants, insects and spiders, snakes, diseases from animals, etc.)"
+492a42e0504943f84d6f5bb5,,2051,question,questionText,20054,form,Wildlife awareness program
+492a42e0504943f84d6f5bb5,,2051,question,responseOptionNA,20054,form,N/A
+492a42e0504943f84d6f5bb5,,2051,question,responseOptionNo,20054,form,No
+492a42e0504943f84d6f5bb5,,2051,question,responseOptionYes,20054,form,Yes
+4a2045d8504943d90e9c4d06,,2440,question,description,20054,form,"Any behavior that is intended to disturb or upset another employee, and is normally repetitive."
+4a2045d8504943d90e9c4d06,,2440,question,questionText,20054,form,Harassment
+4a2045d8504943d90e9c4d06,,2440,question,responseOptionNA,20054,form,N/A
+4a2045d8504943d90e9c4d06,,2440,question,responseOptionNo,20054,form,No
+4a2045d8504943d90e9c4d06,,2440,question,responseOptionYes,20054,form,Yes
+5fd0e96f2b0000b8025b9b9b,50106678504943b6839e79db,2792,questionGroup,questionGroupText,20054,form,"Policies, Procedures, and/or Safe Work Practices"
+4b8da0f65049434f656ca3a1,,3284,question,questionText,20054,form,Fatigue Management Program
+4b8da0f65049434f656ca3a1,,3284,question,responseOptionNA,20054,form,N/A
+4b8da0f65049434f656ca3a1,,3284,question,responseOptionNo,20054,form,No
+4b8da0f65049434f656ca3a1,,3284,question,responseOptionYes,20054,form,Yes
+4b8ff7bf5049434342db7ee9,,3303,question,questionText,20054,form,Ground Disturbance
+4b8ff7bf5049434342db7ee9,,3303,question,responseOptionNA,20054,form,N/A
+4b8ff7bf5049434342db7ee9,,3303,question,responseOptionNo,20054,form,No
+4b8ff7bf5049434342db7ee9,,3303,question,responseOptionYes,20054,form,Yes
+4d18c231504943a56b7c6ee9,,6337,question,questionText,20054,form,Crane Operator(s)/Operation
+4d18c231504943a56b7c6ee9,,6337,question,responseOptionNA,20054,form,N/A
+4d18c231504943a56b7c6ee9,,6337,question,responseOptionNo,20054,form,No
+4d18c231504943a56b7c6ee9,,6337,question,responseOptionYes,20054,form,Yes
+4d1a3abe5049437179dd84cf,,6372,question,questionText,20054,form,Elevated Work Platform (Aerial Lift)
+4d1a3abe5049437179dd84cf,,6372,question,responseOptionNA,20054,form,N/A
+4d1a3abe5049437179dd84cf,,6372,question,responseOptionNo,20054,form,No
+4d1a3abe5049437179dd84cf,,6372,question,responseOptionYes,20054,form,Yes
+4d1a3af35049431f2bc34906,,6373,question,questionText,20054,form,Process Safety Management (PSM)
+4d1a3af35049431f2bc34906,,6373,question,responseOptionNA,20054,form,N/A
+4d1a3af35049431f2bc34906,,6373,question,responseOptionNo,20054,form,No
+4d1a3af35049431f2bc34906,,6373,question,responseOptionYes,20054,form,Yes
+4d77babe5049432c5e66949e,,7146,question,description,20054,form,This outlines what is expected from each employee.
+4d77babe5049432c5e66949e,,7146,question,questionText,20054,form,"Safety responsibilities for managers, supervisors & workers"
+4d77babe5049432c5e66949e,,7146,question,responseOptionNA,20054,form,N/A
+4d77babe5049432c5e66949e,,7146,question,responseOptionNo,20054,form,No
+4d77babe5049432c5e66949e,,7146,question,responseOptionYes,20054,form,Yes
+4d77c4fa5049437bca3738ba,,7147,question,description,20054,form,A program that outlines methods for managers to communicate internal information within an organization.
+4d77c4fa5049437bca3738ba,,7147,question,questionText,20054,form,Requirements for management communications
+4d77c4fa5049437bca3738ba,,7147,question,responseOptionNA,20054,form,N/A
+4d77c4fa5049437bca3738ba,,7147,question,responseOptionNo,20054,form,No
+4d77c4fa5049437bca3738ba,,7147,question,responseOptionYes,20054,form,Yes
+4d77c57250494380baddfc52,,7148,question,description,20054,form,How and when you update your policies and procedures making sure that everything is still relevant and applicable.
+4d77c57250494380baddfc52,,7148,question,questionText,20054,form,Continuous evaluation and revision of policies and procedures
+4d77c57250494380baddfc52,,7148,question,responseOptionNA,20054,form,N/A
+4d77c57250494380baddfc52,,7148,question,responseOptionNo,20054,form,No
+4d77c57250494380baddfc52,,7148,question,responseOptionYes,20054,form,Yes
+4d77c89c504943e3bcd8bb88,,7149,question,description,20054,form,"Examples of programs: New employee, Green Hand, mentor program, etc."
+4d77c89c504943e3bcd8bb88,,7149,question,questionText,20054,form,New Employee or equivalent mentoring program for inexperienced workers
+4d77c89c504943e3bcd8bb88,,7149,question,responseOptionNA,20054,form,N/A
+4d77c89c504943e3bcd8bb88,,7149,question,responseOptionNo,20054,form,No
+4d77c89c504943e3bcd8bb88,,7149,question,responseOptionYes,20054,form,Yes
+4d77e33b5049435709fa3c65,,7163,question,questionText,20054,form,Working alone policy
+4d77e33b5049435709fa3c65,,7163,question,responseOptionNA,20054,form,N/A
+4d77e33b5049435709fa3c65,,7163,question,responseOptionNo,20054,form,No
+4d77e33b5049435709fa3c65,,7163,question,responseOptionYes,20054,form,Yes
+4dd36b1b50494342479525ce,,7668,question,description,20054,form,Identifying who has the power/authority to stop work activities due to health and safety issues
+4dd36b1b50494342479525ce,,7668,question,questionText,20054,form,Authority to stop work
+4dd36b1b50494342479525ce,,7668,question,responseOptionNA,20054,form,N/A
+4dd36b1b50494342479525ce,,7668,question,responseOptionNo,20054,form,No
+4dd36b1b50494342479525ce,,7668,question,responseOptionYes,20054,form,Yes
+4f109895504943254d6c4f7c,,10290,question,questionText,20054,form,Ladder(s)
+4f109895504943254d6c4f7c,,10290,question,responseOptionNA,20054,form,N/A
+4f109895504943254d6c4f7c,,10290,question,responseOptionNo,20054,form,No
+4f109895504943254d6c4f7c,,10290,question,responseOptionYes,20054,form,Yes
+4fa2b0c0504943d408bbb3e6,,11612,question,questionText,20054,form,Tools/Equipment Inspection and Maintenance
+4fa2b0c0504943d408bbb3e6,,11612,question,responseOptionNA,20054,form,N/A
+4fa2b0c0504943d408bbb3e6,,11612,question,responseOptionNo,20054,form,No
+4fa2b0c0504943d408bbb3e6,,11612,question,responseOptionYes,20054,form,Yes
+4fa2b0ea5049432e6884f06d,,11613,question,questionText,20054,form,Tools/Equipment Pre-use Procedures
+4fa2b0ea5049432e6884f06d,,11613,question,responseOptionNA,20054,form,N/A
+4fa2b0ea5049432e6884f06d,,11613,question,responseOptionNo,20054,form,No
+4fa2b0ea5049432e6884f06d,,11613,question,responseOptionYes,20054,form,Yes
+512656fe504943110389a745,,16030,question,questionText,20054,form,Industrial Window Cleaning
+512656fe504943110389a745,,16030,question,responseOptionNA,20054,form,N/A
+512656fe504943110389a745,,16030,question,responseOptionNo,20054,form,No
+512656fe504943110389a745,,16030,question,responseOptionYes,20054,form,Yes
+5fd10acf2b0000b8025c021f,5aadf8d22400006c00183e79,20054,questionGroup,description,20054,form,"Please answer the questions below accordingly:\n\n""Yes"" if your company currently has a programme.\n""No"" if your company should have a programme but does not.\n""NA"" if your company is not required to have a programme."
+5fd10acf2b0000b8025c021f,5aadf8d22400006c00183e79,20054,questionGroup,questionGroupText,20054,form,Avetta PQF - Safety Management Systems
+5668a9105049435b0122e49d,,35595,question,questionText,20054,form,Ergonomics
+5668a9105049435b0122e49d,,35595,question,responseOptionNA,20054,form,N/A
+5668a9105049435b0122e49d,,35595,question,responseOptionNo,20054,form,No
+5668a9105049435b0122e49d,,35595,question,responseOptionYes,20054,form,Yes
+5859bda3504943134073adcd,,43687,question,questionText,20054,form,Safety and Environmental Systems (SEMS) - Offshore Safety
+5859bda3504943134073adcd,,43687,question,responseOptionNA,20054,form,N/A
+5859bda3504943134073adcd,,43687,question,responseOptionNo,20054,form,No
+5859bda3504943134073adcd,,43687,question,responseOptionYes,20054,form,Yes
+5859bf0150494369ef10071f,,43690,question,questionText,20054,form,Journey Management
+5859bf0150494369ef10071f,,43690,question,responseOptionNA,20054,form,N/A
+5859bf0150494369ef10071f,,43690,question,responseOptionNo,20054,form,No
+5859bf0150494369ef10071f,,43690,question,responseOptionYes,20054,form,Yes
+5859bf3b504943858039b828,,43691,question,questionText,20054,form,Radio-Frequency Radiation (RF) / Electromagnetic Energy (EME)
+5859bf3b504943858039b828,,43691,question,responseOptionNA,20054,form,N/A
+5859bf3b504943858039b828,,43691,question,responseOptionNo,20054,form,No
+5859bf3b504943858039b828,,43691,question,responseOptionYes,20054,form,Yes
+5859bf6b504943bbdeb56e4c,,43692,question,questionText,20054,form,Silica Exposure
+5859bf6b504943bbdeb56e4c,,43692,question,responseOptionNA,20054,form,N/A
+5859bf6b504943bbdeb56e4c,,43692,question,responseOptionNo,20054,form,No
+5859bf6b504943bbdeb56e4c,,43692,question,responseOptionYes,20054,form,Yes
+5859bf8c5049438319ebc92a,,43693,question,questionText,20054,form,Work Zone Safety
+5859bf8c5049438319ebc92a,,43693,question,responseOptionNA,20054,form,N/A
+5859bf8c5049438319ebc92a,,43693,question,responseOptionNo,20054,form,No
+5859bf8c5049438319ebc92a,,43693,question,responseOptionYes,20054,form,Yes
+5fd0e96e2b0000b8025b9b9a,,105408,question,questionText,20054,form,Arc Flash
+5fd0e96e2b0000b8025b9b9a,,105408,question,responseOption1,20054,form,Yes
+5fd0e96e2b0000b8025b9b9a,,105408,question,responseOption2,20054,form,No
+5fd0e96e2b0000b8025b9b9a,,105408,question,responseOption3,20054,form,N/A
+5fd0e9972b0000b8025b9bd3,,105409,question,questionText,20054,form,Arsenic Exposure
+5fd0e9972b0000b8025b9bd3,,105409,question,responseOption1,20054,form,Yes
+5fd0e9972b0000b8025b9bd3,,105409,question,responseOption2,20054,form,No
+5fd0e9972b0000b8025b9bd3,,105409,question,responseOption3,20054,form,N/A
+5fd0e9c0280000230d38b6a6,,105410,question,questionText,20054,form,Benzene Exposure
+5fd0e9c0280000230d38b6a6,,105410,question,responseOption1,20054,form,Yes
+5fd0e9c0280000230d38b6a6,,105410,question,responseOption2,20054,form,No
+5fd0e9c0280000230d38b6a6,,105410,question,responseOption3,20054,form,N/A
+5fd0e9c9280000230d38b6ac,,105411,question,questionText,20054,form,Cadmium Exposure
+5fd0e9c9280000230d38b6ac,,105411,question,responseOption1,20054,form,Yes
+5fd0e9c9280000230d38b6ac,,105411,question,responseOption2,20054,form,No
+5fd0e9c9280000230d38b6ac,,105411,question,responseOption3,20054,form,N/A
+5fd0eb342b0000b8025b9df5,,105412,question,questionText,20054,form,Fitness for Duty
+5fd0eb342b0000b8025b9df5,,105412,question,responseOption1,20054,form,Yes
+5fd0eb342b0000b8025b9df5,,105412,question,responseOption2,20054,form,No
+5fd0eb342b0000b8025b9df5,,105412,question,responseOption3,20054,form,N/A
+5fd0eb6b2b0000b8025b9e41,,105413,question,questionText,20054,form,Hexavalent Chromium Exposure
+5fd0eb6b2b0000b8025b9e41,,105413,question,responseOption1,20054,form,Yes
+5fd0eb6b2b0000b8025b9e41,,105413,question,responseOption2,20054,form,No
+5fd0eb6b2b0000b8025b9e41,,105413,question,responseOption3,20054,form,N/A
+5fd0eb8b280000230d38b892,,105414,question,questionText,20054,form,Hydrogen Sulfide (H2S) Exposure
+5fd0eb8b280000230d38b892,,105414,question,responseOption1,20054,form,Yes
+5fd0eb8b280000230d38b892,,105414,question,responseOption2,20054,form,No
+5fd0eb8b280000230d38b892,,105414,question,responseOption3,20054,form,N/A
+5fd0ebb4280000230d38b8be,,105415,question,questionText,20054,form,Ionising Radiation Exposure
+5fd0ebb4280000230d38b8be,,105415,question,responseOption1,20054,form,Yes
+5fd0ebb4280000230d38b8be,,105415,question,responseOption2,20054,form,No
+5fd0ebb4280000230d38b8be,,105415,question,responseOption3,20054,form,N/A
+5fd0ebd7280000230d38b8e5,,105416,question,questionText,20054,form,Emergency Action/Emergency Preparedness
+5fd0ebd7280000230d38b8e5,,105416,question,responseOption1,20054,form,Yes
+5fd0ebd7280000230d38b8e5,,105416,question,responseOption2,20054,form,No
+5fd0ebd7280000230d38b8e5,,105416,question,responseOption3,20054,form,N/A
+5fd104bc280000230d38d287,,105417,question,questionText,20054,form,Tower Climber Safety
+5fd104bc280000230d38d287,,105417,question,responseOption1,20054,form,Yes
+5fd104bc280000230d38d287,,105417,question,responseOption2,20054,form,No
+5fd104bc280000230d38d287,,105417,question,responseOption3,20054,form,N/A
+5fd104da280000230d38d289,,105418,question,questionText,20054,form,Tree Trimming and Removal
+5fd104da280000230d38d289,,105418,question,responseOption1,20054,form,Yes
+5fd104da280000230d38d289,,105418,question,responseOption2,20054,form,No
+5fd104da280000230d38d289,,105418,question,responseOption3,20054,form,N/A
+5fd105592b0000b8025be878,,105419,question,questionText,20054,form,Well Control Procedures
+5fd105592b0000b8025be878,,105419,question,responseOption1,20054,form,Yes
+5fd105592b0000b8025be878,,105419,question,responseOption2,20054,form,No
+5fd105592b0000b8025be878,,105419,question,responseOption3,20054,form,N/A

@@ -1,0 +1,31 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87742a36b6c4c6354674d,69a87742a36b6c4c6354674c,51163,questionGroup,questionGroupText,51163,form,危险物质,
+69a87742a36b6c4c63546743,,200100,question,description,51163,form,"需要提供安全数据表，当物质或混合物须向接收方提供SDS时，必须遵循REACH第31条。需确保安全数据表的可及性，SDS必须随时可供员工和主管机构查阅。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011071&FassungVom=2023-05-04"">化学品法，第25(1)条、第25(6)条</a>
+<a target=""_BLANK"" href=""https://eur-lex.europa.eu/eli/reg/2006/1907/oj/eng"">法规(EC) No 1907/2006 (REACH)，第31条，附件II</a>",
+69a87742a36b6c4c63546743,,200100,question,questionText,51163,form,安全数据表,
+69a87742a36b6c4c63546744,,200101,question,description,51163,form,"必须对工作场所中使用的所有物质的危险特性进行验证。若某物质符合分类、标签和包装（CLP）标准中对爆炸性、易燃性、危险物质或生物制剂的分类，则视为危险物质，但被归类为第1组且无健康风险的生物制剂除外。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_""></a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=BundesnormenandGesetzesnummer=10008904"">员工保护法，第40(1)条、第41(1-2)条，附件I</a>",
+69a87742a36b6c4c63546744,,200101,question,questionText,51163,form,物质危险效应验证（CLP标准）,
+69a87742a36b6c4c63546745,,200102,question,description,51163,form,"必须定期确定员工的暴露类型、程度和持续时间。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第41(5)条、第46条</a>",
+69a87742a36b6c4c63546745,,200102,question,questionText,51163,form,暴露评估（初始评估、定期评估、变更后或健康问题后评估）,
+69a87742a36b6c4c63546746,,200103,question,description,51163,form,"必须定期评估暴露类型、程度和持续时间。最大工作场所浓度（MAK）和阈限值（TRK）是官方职业暴露限值。必须确保MAK值不被超越，并尽可能将TRK值保持在尽量低的水平，同时采取测量和纠正措施以支持执行。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第41(5)条、第45条</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=BundesnormenandGesetzesnummer=10008904"">建筑工人保护条例，第21(3)条</a>",
+69a87742a36b6c4c63546746,,200103,question,questionText,51163,form,暴露低于限值,
+69a87742a36b6c4c63546747,,200104,question,description,51163,form,"当更安全的替代品能达到同等效果时，必须对危险物质（包括致癌性、致突变性、生殖毒性物质或生物制剂）进行替代。危险物质暴露控制措施必须最大限度地减少使用量、受暴露员工人数以及暴露持续时间和强度，防止或捕集排放，必要时提供通风，并在控制措施不足时提供防护装备。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第42(1)条、第43条、第45(6)条</a>",
+69a87742a36b6c4c63546747,,200104,question,questionText,51163,form,控制措施（消除、替代、工程控制、行政管理及/或个人防护装备）,
+69a87742a36b6c4c63546748,,200105,question,description,51163,form,"危险物质的包装在按预期用途或可预见方式使用时，必须防止对员工健康造成危害。含有危险物质的容器和管道必须具有清晰且永久性的危险标识。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第44(1-2)条、第44(5)条</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011071&FassungVom=2023-05-04"">化学品法，第24(2)1条、第24(2)3条 / 法规(EC) No 1272/2008，第17条</a>",
+69a87742a36b6c4c63546748,,200105,question,questionText,51163,form,容器标识,
+69a87742a36b6c4c63546749,,200106,question,description,51163,form,"危险物质的储存必须根据物质危险性采取防护措施。含有大量危险物质的储存室或储存柜必须具有清晰的危险标识。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第44(3)条</a>",
+69a87742a36b6c4c63546749,,200106,question,questionText,51163,form,安全储存措施,
+69a87742a36b6c4c6354674a,,200107,question,description,51163,form,"在安排员工从事具有职业病风险的活动之前，必须进行适岗健康检查。对于持续从事危险活动的员工，必须定期进行复查。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第49(1)条、第49(3)条</a>",
+69a87742a36b6c4c6354674a,,200107,question,questionText,51163,form,健康监测（上岗前及定期监测）,
+69a87742a36b6c4c6354674b,,200108,question,questionText,51163,form,<div></div>,

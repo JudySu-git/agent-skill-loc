@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4b883fe15049438f5ea6f9f0,4b883fe15049438f5ea6f9f0,243,questionGroup,questionGroupText,243,category,Document Acknowledgment
+4b884068504943abad4a398b,,3245,question,linkResources!download.action?id=1009,243,category,AD-13 - Support Function Manual - Contractor Management Process
+4b884068504943abad4a398b,,3245,question,linkresources!download.action?id=1009,243,category,AD-13 - Support Function Manual - Contractor Management Process
+4b884068504943abad4a398b,,3245,question,questionText,243,category,"AD-13 Acknowledgment \nPlease download the document AD-13 - Support Function Manual - Contractor Management Process below. You acknowledge that you have received a copy of this document per Shell Chemical Geismar policy. \n<a href=""/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_1009.doc"" target=""_BLANK"">AD-13 - Support Function Manual - Contractor Management Process</a>"
+4b884068504943abad4a398b,,3245,question,responseOption1,243,category,Click Here to Acknowledge
+4b8840d05049435018a1cd6e,,3246,question,questionText,243,category,Name of Person Acknowledging Receipt

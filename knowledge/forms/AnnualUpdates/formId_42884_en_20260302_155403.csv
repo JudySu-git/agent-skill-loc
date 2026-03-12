@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+669eb1f50100004b00f2bcb9,669e92950100002f00bbdeb5,42884,questionGroup,questionGroupText,42884,form,Avetta Armenia Annual Update
+669e939b0100002f00f2bc44,669e939b0100002f00f2bc43,42885,questionGroup,questionGroupText,42884,form,Armenia Specific Updates
+669e93ae0100003800bbdebc,669e93ae0100003800bbdebb,42886,questionGroup,questionGroupText,42884,form,Armenia
+669e941c0100004a00f2bc4b,,157095,question,questionText,42884,form,What is the total number of employees for the given year? Approximate if necessary.
+669e942e0100002e00f2bc4c,,157096,question,questionText,42884,form,Were there recordable incidents for the given year?
+669e942e0100002e00f2bc4c,,157096,question,responseOptionNo,42884,form,No
+669e942e0100002e00f2bc4c,,157096,question,responseOptionYes,42884,form,Yes
+669e94400100003600bbdebf,,157097,question,questionText,42884,form,What is the total number of hours worked?
+669e94510100004a00f2bc4d,,157098,question,questionText,42884,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+669e94630100002e00f2bc4e,,157099,question,questionText,42884,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+669e94700100003500bbdec1,,157100,question,questionText,42884,form,How many fatalities were there for the given year?
+669e94820100004900f2bc4f,,157101,question,questionText,42884,form,Total number of _cases_ with days away from work
+669e948e0100003500bbdec3,,157102,question,questionText,42884,form,Total number of _days_ away from work
+669e94990100004900f2bc50,,157103,question,questionText,42884,form,Total number of _cases_ with job transfer or restriction
+669e94a40100003300bbdec4,,157104,question,questionText,42884,form,Total number of _days_ of job transfer or restriction
+669e94af0100003400bbdec5,,157105,question,questionText,42884,form,Total number of other recordable _cases_

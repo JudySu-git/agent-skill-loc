@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+654176d91d000081566f981e,65402c221b00009355389083,40565,questionGroup,description,40566,form,You are receiving this category because you selected HUB (Historically Underutilized Business) Zone in the United States Supplier Diversity Certification Questionnaire.
+654176d91d000081566f981e,65402c221b00009355389083,40565,questionGroup,questionGroupText,40566,form,HUB (Historically Underutilized Business) Zone
+667b462c0100000801247084,65402c221b00009355389082,40566,questionGroup,questionGroupText,40566,form,Avetta PQF - US Supplier Diversity: HUBZone
+65402c221b00009355389084,,146374,question,questionText,40566,form,Please enter the issue date of your company’s HUB (Historically Underutilized Business) Zone certificate:
+65402c221b00009355389084,,146374,question,responseOption1,40566,form,Yes
+65402c221b00009355389084,,146374,question,responseOption2,40566,form,No
+65402c221b00009355389085,,146375,question,questionText,40566,form,Expiration Date:
+65402c221b00009355389085,,146375,question,responseOption1,40566,form,Yes
+65402c221b00009355389085,,146375,question,responseOption2,40566,form,No
+65402c221b00009355389086,,146376,question,questionText,40566,form,Certificate Number:
+65402c221b00009355389086,,146376,question,responseOption1,40566,form,Yes
+65402c221b00009355389086,,146376,question,responseOption2,40566,form,No
+65402c221b00009355389087,,146377,question,questionText,40566,form,Please upload a copy of your certification certificate:
+65402c221b00009355389087,,146377,question,responseOption1,40566,form,Yes
+65402c221b00009355389087,,146377,question,responseOption2,40566,form,No

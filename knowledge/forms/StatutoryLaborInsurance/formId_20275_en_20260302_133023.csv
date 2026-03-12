@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+607098d44500009d89bdd15c,5183cda6504943f753176c53,3779,questionGroup,questionGroupText,20275,form,Policy Information
+545bdb5750494319dfb56616,545bdb5750494319dfb56616,6011,questionGroup,questionGroupText,20275,form,Policy Limits
+5183cdc8504943c20e94c931,,17249,question,questionText,20275,form,Date of Commencement:
+5183cdde50494391c21a7324,,17250,question,questionText,20275,form,Expiration Date:
+5183ce255049437c78bbee84,,17252,question,questionText,20275,form,Monetary Limit
+607099454500009d89bdd16a,5af994ad3400005900f8fefb,20275,questionGroup,questionGroupText,20275,form,Group Personal Accident Insurance
+545bdca5504943697478fbf2,,26668,question,questionText,20275,form,Per Death:
+545bdcc5504943208e17d51b,,26669,question,questionText,20275,form,Per Permanent Disability:
+545bdd0b504943f57db3f590,,26670,question,questionText,20275,form,Costs of Pharmaceutical Physician:
+5af9df092b0000ea076fceb1,,60100,question,questionText,20275,form,Please upload Group Accident Insurance Certificate:
+5d7139e4370000a213dcefbb,,86262,question,questionText,20275,form,Insurance Carrier:
+607098d24500009d89bdd15b,,108738,question,description,20275,form,Used to provide instructions from Client
+607098d24500009d89bdd15b,,108738,question,questionText,20275,form,Comments
+607098e843000090e8659162,,108740,question,description,20275,form,Date the instructions from Client expire
+607098e843000090e8659162,,108740,question,questionText,20275,form,VARIANCE Expiration Date
+62f53f3082eb52eab3c18fab,,130528,question,questionText,20275,form,Currency used in Certificate of Insurance (COI)

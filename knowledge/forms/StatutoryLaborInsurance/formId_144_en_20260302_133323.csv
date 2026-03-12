@@ -1,0 +1,18 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5755c9af504943a1e396ea2c,5755c9af504943a1e396ea2c,144,questionGroup,questionGroupText,144,category,JSA (Job Safety Analysis)
+48acf6505049433dcf4550c3,,1882,question,questionText,144,category,Are JSA's being used for pre-job hazard analysis?
+48acf6505049433dcf4550c3,,1882,question,responseOptionNA,144,category,N/A
+48acf6505049433dcf4550c3,,1882,question,responseOptionNo,144,category,No
+48acf6505049433dcf4550c3,,1882,question,responseOptionYes,144,category,Yes
+48acf650504943cce9bffa0b,,1992,question,questionText,144,category,Do the hazards identified and the precautions taken match what is happening in the field?
+48acf650504943cce9bffa0b,,1992,question,responseOptionNA,144,category,N/A
+48acf650504943cce9bffa0b,,1992,question,responseOptionNo,144,category,No
+48acf650504943cce9bffa0b,,1992,question,responseOptionYes,144,category,Yes
+48acf6505049435fb755dcf1,,2005,question,questionText,144,category,Has a JSA/JHA been completed and discussed with the crew?
+48acf6505049435fb755dcf1,,2005,question,responseOptionNA,144,category,N/A
+48acf6505049435fb755dcf1,,2005,question,responseOptionNo,144,category,No
+48acf6505049435fb755dcf1,,2005,question,responseOptionYes,144,category,Yes
+48acf6505049437e2a753b85,,2006,question,questionText,144,category,Does the JSA adequately identify the tasks and hazards associated with the job?
+48acf6505049437e2a753b85,,2006,question,responseOptionNA,144,category,N/A
+48acf6505049437e2a753b85,,2006,question,responseOptionNo,144,category,No
+48acf6505049437e2a753b85,,2006,question,responseOptionYes,144,category,Yes

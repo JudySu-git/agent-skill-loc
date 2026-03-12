@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67eeb9ea01000021014773d0,67ed5b650100005900a35690,45128,questionGroup,questionGroupText,45128,form,Brazil Regional Administration Council (CRA) Compliance
+67ed5b650100003c00a35691,,167193,question,description,45128,form,The Certificate of Active Registration must be issued within one year to be valid.
+67ed5b650100003c00a35691,,167193,question,questionText,45128,form,Please upload the Certificate of Active Registration (Administration Council).
+67ed5b650100003c00a35691,,167193,question,responseOption1,45128,form,Yes
+67ed5b650100003c00a35691,,167193,question,responseOption2,45128,form,No
+67ed5b650100003c00a35692,,167194,question,questionText,45128,form,Please enter the expiration date.
+67ed5b650100003c00a35692,,167194,question,responseOption1,45128,form,Yes
+67ed5b650100003c00a35692,,167194,question,responseOption2,45128,form,No

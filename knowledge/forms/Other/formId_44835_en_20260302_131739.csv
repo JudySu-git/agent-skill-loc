@@ -1,0 +1,20 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67e46af70100005602b48d02,67e32b0e010000df00768eb4,44835,questionGroup,questionGroupText,44835,form,Brazil CIPA Assessment
+67e32b810100003b00768eb7,67e32b810100003b00768eb6,44836,questionGroup,questionGroupText,44835,form,CIPA
+67e32b8c010000ce000b86a4,,166740,question,description,44835,form,[NR-5](https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-5-nr-5)
+67e32b8c010000ce000b86a4,,166740,question,questionText,44835,form,Does your company have 20 or more employees in Brazil?
+67e32b8c010000ce000b86a4,,166740,question,responseOption1,44835,form,Yes
+67e32b8c010000ce000b86a4,,166740,question,responseOption2,44835,form,No
+67e32bc8010000d100768ebb,,166741,question,description,44835,form,This information must match your Avetta Brazil Annual Update form
+67e32bc8010000d100768ebb,,166741,question,questionText,44835,form,Please enter the number of employees at your company:
+67e32be3010000d600768ec1,,166742,question,description,44835,form,"Refer to <a href=""/iframe/file-preview?fileId=2025-03-26T21%3A30%3A43.560Z~~*Q3VhZHJvIDEgLSBEaW1lbnNpb25hbWVudG8gZGEgQ0lQQSAoQnJhc2lsKS5wZGY%3D""target=""_Blank"">CIPA Dimensioning Table</a>"
+67e32be3010000d600768ec1,,166742,question,questionText,44835,form,"Based on your employee count and assigned risk grade, does your company have an established CIPA with the required number of members?"
+67e32be3010000d600768ec1,,166742,question,responseOption1,44835,form,Yes
+67e32be3010000d600768ec1,,166742,question,responseOption2,44835,form,No
+67e32c440100004000768ed1,,166743,question,questionText,44835,form,Please explain:
+67e32c440100004000768ed1,,166743,question,responseOption1,44835,form,Yes
+67e32c440100004000768ed1,,166743,question,responseOption2,44835,form,No
+67e32c500100004200768eda,,166744,question,description,44835,form,"The uploaded document must be the most recent version of your company’s CIPA Installation and Inauguration Minutes (Ata de Instalação e Posse da CIPA). This document should reflect the latest CIPA election and formation in compliance with NR-5. Even if no changes have occurred, you are required to submit the most recent record available. Failure to provide an updated document may result in non-compliance."
+67e32c500100004200768eda,,166744,question,questionText,44835,form,Please upload a Copy of the installation and inauguration minutes.
+67e32c500100004200768eda,,166744,question,responseOption1,44835,form,Yes
+67e32c500100004200768eda,,166744,question,responseOption2,44835,form,No

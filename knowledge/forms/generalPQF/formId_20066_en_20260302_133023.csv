@@ -1,0 +1,190 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5c2675f53300009520b361c0,5481d8b250494347fc9b5108,6207,questionGroup,questionGroupText,20066,form,Industrial Hygiene/Occupational Health
+5c2675f53300009520b361bf,5481dba5504943409e5127be,6208,questionGroup,questionGroupText,20066,form,Industrial Hygiene
+5c2675f43300009520b361be,54820383504943c3e9f019d5,6209,questionGroup,description,20066,form,Please select all chemical hazards that apply from the list below.
+5c2675f43300009520b361be,54820383504943c3e9f019d5,6209,questionGroup,questionGroupText,20066,form,Chemical Hazards
+5c2678053000005e2149aea9,5482267d50494374c3578530,6210,questionGroup,description,20066,form,Please select all biological hazards that apply from the list below.
+5c2678053000005e2149aea9,5482267d50494374c3578530,6210,questionGroup,questionGroupText,20066,form,Biological Hazards
+548226a2504943474e4dfa1a,548226a2504943474e4dfa1a,6211,questionGroup,description,20066,form,Please select all physical hazards that apply from the list below.
+548226a2504943474e4dfa1a,548226a2504943474e4dfa1a,6211,questionGroup,questionGroupText,20066,form,Physical Hazards
+548226f25049439ff645e147,548226f25049439ff645e147,6212,questionGroup,description,20066,form,Please select all ergonomic hazards that apply from the list below.
+548226f25049439ff645e147,548226f25049439ff645e147,6212,questionGroup,questionGroupText,20066,form,Ergonomic Hazards
+5485cbf85049435d83f1ed6a,5485cbf85049435d83f1ed6a,6213,questionGroup,description,20066,form,"Please select all medical, physical exams/evaluations, fitness for duty exams, or wellness exams that apply from the list below."
+5485cbf85049435d83f1ed6a,5485cbf85049435d83f1ed6a,6213,questionGroup,questionGroupText,20066,form,Medical/Physical/Wellness
+5da9cf93350000d2ac5c5b70,5ab04ef224000060481989cd,20066,questionGroup,questionGroupText,20066,form,Avetta PQF - Industrial Hygiene/Occupational Health
+5481d8d05049436ac6a034ff,,27604,question,description,20066,form,"If employees may be exposed to toxic substances, or workplace conditions that present potential health hazards, IH monitoring may be conducted."
+5481d8d05049436ac6a034ff,,27604,question,questionText,20066,form,Do you perform IH monitoring on your employees?
+5481d8d05049436ac6a034ff,,27604,question,responseOptionNo,20066,form,No
+5481d8d05049436ac6a034ff,,27604,question,responseOptionYes,20066,form,Yes
+5481d90c504943e0b692f1de,,27605,question,questionText,20066,form,Are company personnel exposed to hazards that would require Industrial Hygiene (IH) monitoring?
+5481d90c504943e0b692f1de,,27605,question,responseOptionNo,20066,form,No
+5481d90c504943e0b692f1de,,27605,question,responseOptionYes,20066,form,Yes
+5481dc775049432c95f61695,,27606,question,description,20066,form,"Harmful chemical compounds in the form of solids, liquids, gases, mists, dusts, fumes, and vapors have harmful effects by breathing, absorption through the skin, or ingestion - eating or drinking.  The degree of worker risk from exposure to any given substance depends on the nature and potency of the toxic effects and the amount and length of exposure. Material Safety Data Sheets (MSDS) provide you a wealth of information on how to protect your workers from chemical hazards."
+5481dc775049432c95f61695,,27606,question,questionText,20066,form,Are company personnel exposed to chemical hazards during any services or operations performed?
+5481dc775049432c95f61695,,27606,question,responseOptionNo,20066,form,No
+5481dc775049432c95f61695,,27606,question,responseOptionYes,20066,form,Yes
+5481dd1950494378af592c3e,,27607,question,questionText,20066,form,"Do you maintain Safety Data Sheets (SDSs) for all Hazardous Chemicals used, stored or maintained by employees (on- or off-site)?"
+5481dd1950494378af592c3e,,27607,question,responseOptionNo,20066,form,No
+5481dd1950494378af592c3e,,27607,question,responseOptionYes,20066,form,Yes
+5481dda250494343cd377d6c,,27608,question,questionText,20066,form,Arsenic
+5481dda250494343cd377d6c,,27608,question,responseOption1,20066,form,Please select if Applicable
+5481ddc45049433a0b6bc0e3,,27609,question,questionText,20066,form,Asbestos/ACM
+5481ddc45049433a0b6bc0e3,,27609,question,responseOption1,20066,form,Please select if Applicable
+5481e7d5504943e954454eac,,27612,question,description,20066,form,"These include bacteria, viruses, fungi, and other living organisms that can cause acute and chronic infections by entering the body either directly or through breaks in the skin. Occupations that deal with plants or animals or their products or with food and food processing may expose workers to biological hazards.   Proper personal hygiene is an effective measure, particularly proper attention to minor cuts and scratches, especially those on the hands and forearms, helps keep worker risks to a minimum."
+5481e7d5504943e954454eac,,27612,question,questionText,20066,form,Are company personnel exposed to biological hazards during any services or operations performed?
+5481e7d5504943e954454eac,,27612,question,responseOptionNo,20066,form,No
+5481e7d5504943e954454eac,,27612,question,responseOptionYes,20066,form,Yes
+5481e7ea5049436e8c58d408,,27613,question,description,20066,form,"These include excessive levels of ionizing and non-ionizing electromagnetic radiation, noise, vibration, illumination, and temperature."
+5481e7ea5049436e8c58d408,,27613,question,questionText,20066,form,Are company personnel exposed to physical hazards during any services or operations performed?
+5481e7ea5049436e8c58d408,,27613,question,responseOptionNo,20066,form,No
+5481e7ea5049436e8c58d408,,27613,question,responseOptionYes,20066,form,Yes
+5481e804504943607dc7f890,,27614,question,description,20066,form,"Most ergonomic problems result  from poorly designed job tasks and work stations. Conditions such as excessive vibration and noise, eye strain, repetitive motion, and heavy lifting problems can cause ergonomic hazards. Improperly designed tools or work areas also can be ergonomic hazards."
+5481e804504943607dc7f890,,27614,question,questionText,20066,form,Are company personnel exposed to ergonomic hazards during any services or operations performed?
+5481e804504943607dc7f890,,27614,question,responseOptionNo,20066,form,No
+5481e804504943607dc7f890,,27614,question,responseOptionYes,20066,form,Yes
+54821e74504943d661d7fe73,,27615,question,questionText,20066,form,Asphalt fumes
+54821e74504943d661d7fe73,,27615,question,responseOption1,20066,form,Please select if Applicable
+54821eef504943b4d3f02581,,27616,question,questionText,20066,form,Benzene
+54821eef504943b4d3f02581,,27616,question,responseOption1,20066,form,Please select if Applicable
+54821efa504943a2414ad69a,,27617,question,questionText,20066,form,Beryllium
+54821efa504943a2414ad69a,,27617,question,responseOption1,20066,form,Please select if Applicable
+54821f085049436f6c4c9be1,,27618,question,questionText,20066,form,1-Bromopropane
+54821f085049436f6c4c9be1,,27618,question,responseOption1,20066,form,Please select if Applicable
+54821f1c50494320c59e064f,,27619,question,questionText,20066,form,"1,3-Butadiene"
+54821f1c50494320c59e064f,,27619,question,responseOption1,20066,form,Please select if Applicable
+54821f27504943c3cff8fcfb,,27620,question,questionText,20066,form,Cadmium
+54821f27504943c3cff8fcfb,,27620,question,responseOption1,20066,form,Please select if Applicable
+54821f31504943a1802c8dde,,27621,question,questionText,20066,form,Chromium
+54821f31504943a1802c8dde,,27621,question,responseOption1,20066,form,Please select if Applicable
+54821f3c504943ca428da2aa,,27622,question,questionText,20066,form,Diacetyl
+54821f3c504943ca428da2aa,,27622,question,responseOption1,20066,form,Please select if Applicable
+54821f465049435565e215e5,,27623,question,questionText,20066,form,Diesel exhaust
+54821f465049435565e215e5,,27623,question,responseOption1,20066,form,Please select if Applicable
+54821f5a5049438a3bece813,,27624,question,questionText,20066,form,Ethylene Oxide
+54821f5a5049438a3bece813,,27624,question,responseOption1,20066,form,Please select if Applicable
+54821f6750494321d5a27459,,27625,question,questionText,20066,form,Formaldehyde
+54821f6750494321d5a27459,,27625,question,responseOption1,20066,form,Please select if Applicable
+54821f73504943d6c45a7a02,,27626,question,questionText,20066,form,Hexavalent Chromium
+54821f73504943d6c45a7a02,,27626,question,responseOption1,20066,form,Please select if Applicable
+54821f7c504943201470f70a,,27627,question,questionText,20066,form,Hydrogen Sulfide
+54821f7c504943201470f70a,,27627,question,responseOption1,20066,form,Please select if Applicable
+54821f89504943d496e40baf,,27628,question,questionText,20066,form,Isocyanates
+54821f89504943d496e40baf,,27628,question,responseOption1,20066,form,Please select if Applicable
+54821f97504943f676342eb3,,27629,question,questionText,20066,form,Lead
+54821f97504943f676342eb3,,27629,question,responseOption1,20066,form,Please select if Applicable
+54821fa3504943e185eb0e2d,,27630,question,questionText,20066,form,Mercury
+54821fa3504943e185eb0e2d,,27630,question,responseOption1,20066,form,Please select if Applicable
+54821fae504943f2b7fc690f,,27631,question,questionText,20066,form,"Metals, toxic"
+54821fae504943f2b7fc690f,,27631,question,responseOption1,20066,form,Please select if Applicable
+54821fbc50494325e7884c97,,27632,question,questionText,20066,form,Metalworking fluids
+54821fbc50494325e7884c97,,27632,question,responseOption1,20066,form,Please select if Applicable
+5482208250494347c7adfdb6,,27633,question,questionText,20066,form,Methylene Chloride
+5482208250494347c7adfdb6,,27633,question,responseOption1,20066,form,Please select if Applicable
+5482208e5049439e9fff2333,,27634,question,questionText,20066,form,Isocyanates
+5482208e5049439e9fff2333,,27634,question,responseOption1,20066,form,Please select if Applicable
+548220a25049433fd211b16b,,27635,question,questionText,20066,form,Polychlorinated Biphenyls (PCBs)
+548220a25049433fd211b16b,,27635,question,responseOption1,20066,form,Please select if Applicable
+54822381504943790037ee37,,27636,question,questionText,20066,form,Silica
+54822381504943790037ee37,,27636,question,responseOption1,20066,form,Please select if Applicable
+548223a05049438ca5277156,,27637,question,questionText,20066,form,Solvents
+548223a05049438ca5277156,,27637,question,responseOption1,20066,form,Please select if Applicable
+548223b9504943ef45660978,,27638,question,questionText,20066,form,Synthetic mineral fibers
+548223b9504943ef45660978,,27638,question,responseOption1,20066,form,Please select if Applicable
+548223c5504943105defb7eb,,27639,question,questionText,20066,form,Toluene
+548223c5504943105defb7eb,,27639,question,responseOption1,20066,form,Please select if Applicable
+548223d1504943ad7e845148,,27640,question,questionText,20066,form,Vinyl Fluoride
+548223d1504943ad7e845148,,27640,question,responseOption1,20066,form,Please select if Applicable
+548223ef5049437d1ad4911c,,27641,question,questionText,20066,form,Welding fumes
+548223ef5049437d1ad4911c,,27641,question,responseOption1,20066,form,Please select if Applicable
+548224a6504943bf853fe996,,27642,question,questionText,20066,form,Other (Not Listed)
+548224a6504943bf853fe996,,27642,question,responseOption1,20066,form,Click here if Applicable
+54822523504943d0fe753c33,,27643,question,questionText,20066,form,Please list additional chemical hazards:
+54822d0f50494378cb601ce0,,27653,question,questionText,20066,form,Viruses
+54822d0f50494378cb601ce0,,27653,question,responseOption1,20066,form,Please select if Applicable
+54822d1a504943662ece9243,,27654,question,questionText,20066,form,Bacteria
+54822d1a504943662ece9243,,27654,question,responseOption1,20066,form,Please select if Applicable
+54822d2a504943e64f23d717,,27655,question,questionText,20066,form,Fungi
+54822d2a504943e64f23d717,,27655,question,responseOption1,20066,form,Please select if Applicable
+54822d36504943c04475d268,,27656,question,questionText,20066,form,Insect/Animal/Plant
+54822d36504943c04475d268,,27656,question,responseOption1,20066,form,Please select if Applicable
+54822d47504943ec4d5c0df1,,27657,question,questionText,20066,form,"Bodily Fluids (Blood/BBP, Urine, other)"
+54822d47504943ec4d5c0df1,,27657,question,responseOption1,20066,form,Click here if Applicable
+54822d6b504943d75c40a347,,27658,question,questionText,20066,form,Other (Not Listed)
+54822d6b504943d75c40a347,,27658,question,responseOption1,20066,form,Click here if Applicable
+54822d8b5049438d1bffa0d1,,27659,question,questionText,20066,form,Please list additional biological hazards:
+5485c6ef504943adb7e46791,,27662,question,description,20066,form,These include hazards that cannot be associated with hazard types above.
+5485c6ef504943adb7e46791,,27662,question,questionText,20066,form,Are company personnel exposed to additional hazards not listed above during any services or operations performed?
+5485c6ef504943adb7e46791,,27662,question,responseOptionNo,20066,form,No
+5485c6ef504943adb7e46791,,27662,question,responseOptionYes,20066,form,Yes
+5485c7b85049437cdea3229c,,27663,question,description,20066,form,"If a hazard cannot be associated with a hazard type above, please enter the hazard here."
+5485c7b85049437cdea3229c,,27663,question,questionText,20066,form,Please list out all other hazard types:
+5485c929504943b911b3ed81,,27664,question,questionText,20066,form,"Ionizing Radiation (Alpha, Beta, Gamma and X-Rays)"
+5485c929504943b911b3ed81,,27664,question,responseOption1,20066,form,Please select if Applicable
+5485c94550494358707e6926,,27665,question,questionText,20066,form,"Non-ionizing Radiation (ELF Radiation, RF/MW Radiation, Infrared (IR), Visible, Ultraviolet (UV), Laser Radiation"
+5485c94550494358707e6926,,27665,question,responseOption1,20066,form,Click here if Applicable
+5485c9735049436ebc9e7450,,27666,question,questionText,20066,form,Hearing/Audiometric
+5485c9735049436ebc9e7450,,27666,question,responseOption1,20066,form,Yes
+5485c982504943cc0f30efa9,,27667,question,questionText,20066,form,Temperature (Thermal or Radiant Heat)
+5485c982504943cc0f30efa9,,27667,question,responseOption1,20066,form,Click here if Applicable
+5485c99350494360804fb2b8,,27668,question,questionText,20066,form,Humidity Extremes
+5485c99350494360804fb2b8,,27668,question,responseOption1,20066,form,Please select if Applicable
+5485c9ba5049435cfcd1d6c7,,27669,question,questionText,20066,form,Other (Not Listed)
+5485c9ba5049435cfcd1d6c7,,27669,question,responseOption1,20066,form,Click here if Applicable
+5485c9fc504943223cf5a85c,,27670,question,questionText,20066,form,Please list additional physical hazards:
+5485ca935049439595eaf1d7,,27671,question,questionText,20066,form,Excessive Vibration
+5485ca935049439595eaf1d7,,27671,question,responseOption1,20066,form,Please select if Applicable
+5485caa3504943e5f9bd07c5,,27672,question,questionText,20066,form,Extended Sitting or Standing
+5485caa3504943e5f9bd07c5,,27672,question,responseOption1,20066,form,Please select if Applicable
+5485caaf504943ef3b85130f,,27673,question,questionText,20066,form,Awkward Movements
+5485caaf504943ef3b85130f,,27673,question,responseOption1,20066,form,Click here if Applicable
+5485cac3504943abaccb243b,,27674,question,questionText,20066,form,Excessive Noise
+5485cac3504943abaccb243b,,27674,question,responseOption1,20066,form,Please select if Applicable
+5485cacf504943f4b07604e1,,27675,question,questionText,20066,form,Lifting
+5485cacf504943f4b07604e1,,27675,question,responseOption1,20066,form,Please select if Applicable
+5485cae050494350071e16ac,,27676,question,questionText,20066,form,Bending
+5485cae050494350071e16ac,,27676,question,responseOption1,20066,form,Click here if Applicable
+5485caf0504943865a5582e2,,27677,question,questionText,20066,form,Repetitive Motion/Movement
+5485caf0504943865a5582e2,,27677,question,responseOption1,20066,form,Click here if Applicable
+5485cafd504943f87df9eaba,,27678,question,questionText,20066,form,Lighting
+5485cafd504943f87df9eaba,,27678,question,responseOption1,20066,form,Please select if Applicable
+5485cb0f504943f81dead1f0,,27679,question,questionText,20066,form,Other (Not Listed)
+5485cb0f504943f81dead1f0,,27679,question,responseOption1,20066,form,Click here if Applicable
+5485cb37504943adc2945448,,27680,question,questionText,20066,form,Please list additional ergonomic hazards:
+5485cbd9504943cc5f50dff9,,27681,question,questionText,20066,form,"Do you perform any medical, physical exams/evaluations, fitness for duty exams, or wellness exams for your employees?"
+5485cbd9504943cc5f50dff9,,27681,question,responseOptionNo,20066,form,No
+5485cbd9504943cc5f50dff9,,27681,question,responseOptionYes,20066,form,Yes
+5485cfcd504943ff4139a8fe,,27682,question,questionText,20066,form,Pulmonary Fuction Test
+5485cfcd504943ff4139a8fe,,27682,question,responseOption1,20066,form,Click here if Applicable
+5485cfd9504943e287dfab24,,27683,question,questionText,20066,form,Respiratory Fit Testing
+5485cfd9504943e287dfab24,,27683,question,responseOption1,20066,form,Click here if Applicable
+5485cfe7504943b6c0e2c2bc,,27684,question,questionText,20066,form,Audiometric/Hearing Test
+5485cfe7504943b6c0e2c2bc,,27684,question,responseOption1,20066,form,Click here if Applicable
+5485cff3504943598be76fb8,,27685,question,questionText,20066,form,Hepatitis B
+5485cff3504943598be76fb8,,27685,question,responseOption1,20066,form,Please select if Applicable
+5485d008504943988d34720f,,27686,question,questionText,20066,form,Hepatitis C
+5485d008504943988d34720f,,27686,question,responseOption1,20066,form,Please select if Applicable
+5485d0145049431c93d189b4,,27687,question,questionText,20066,form,TB Skin Testing
+5485d0145049431c93d189b4,,27687,question,responseOption1,20066,form,Click here if Applicable
+5485d025504943e1f6f535d4,,27688,question,questionText,20066,form,Electrocardiogram (EKG)
+5485d025504943e1f6f535d4,,27688,question,responseOption1,20066,form,Please select if Applicable
+5485d0305049433428e52771,,27689,question,questionText,20066,form,Vision
+5485d0305049433428e52771,,27689,question,responseOption1,20066,form,Click here if Applicable
+5485d03b504943fd4c5308fc,,27690,question,questionText,20066,form,Urine Analysis
+5485d03b504943fd4c5308fc,,27690,question,responseOption1,20066,form,Please select if Applicable
+5485d05950494377465b47bb,,27691,question,questionText,20066,form,Transportation Physical
+5485d05950494377465b47bb,,27691,question,responseOption1,20066,form,Click here if Applicable
+5485d06550494352917b021a,,27692,question,questionText,20066,form,Aviation Physical
+5485d06550494352917b021a,,27692,question,responseOption1,20066,form,Click here if Applicable
+5485d0725049436f54aba268,,27693,question,questionText,20066,form,Functional Capacity (Strength and Agility)
+5485d0725049436f54aba268,,27693,question,responseOption1,20066,form,Please select if Applicable
+5485d0805049431c2d59face,,27694,question,questionText,20066,form,Drug and Alcohol Testing
+5485d0805049431c2d59face,,27694,question,responseOption1,20066,form,Please select if Applicable
+5485d08d5049436d5e14e7ae,,27695,question,questionText,20066,form,DNA Testing
+5485d08d5049436d5e14e7ae,,27695,question,responseOption1,20066,form,Please select if Applicable
+5485d09d504943f06ba360b6,,27696,question,questionText,20066,form,Return-to-Work/Fit for Duty
+5485d09d504943f06ba360b6,,27696,question,responseOption1,20066,form,Click here if Applicable
+5485d0ac5049434fa2840863,,27697,question,questionText,20066,form,Blood Lead Testing
+5485d0ac5049434fa2840863,,27697,question,responseOption1,20066,form,Please select if Applicable
+5485d0b9504943a543ae38ff,,27698,question,questionText,20066,form,Other (Not Listed)
+5485d0b9504943a543ae38ff,,27698,question,responseOption1,20066,form,Click here if Applicable
+54872c37504943201e84c948,,27727,question,questionText,20066,form,Please list additional testing:

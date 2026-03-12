@@ -1,0 +1,31 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4e5d412e504943bdf45644f3,4e5d412e504943bdf45644f3,20,questionGroup,questionGroupText,20078,form,DOT Pipeline Operator Qualification (PHMSA)
+42d894505049435c76eb0240,,597,question,description,20078,form,"<a href=""http://www.ecfr.gov/cgi-bin/text-idx?SID=b4b65f7a04e347bc58d9ac07d7ede32a&node=pt49.3.192&rgn=div5"" target=""_BLANK"">49 CFR Part 192 Subpart N</a>"
+42d894505049435c76eb0240,,597,question,questionText,20078,form,Does your company have employees who perform covered tasks as defined under 49 CFR Part 192 Subpart N?
+42d894505049435c76eb0240,,597,question,responseOptionNA,20078,form,N/A
+42d894505049435c76eb0240,,597,question,responseOptionNo,20078,form,No
+42d894505049435c76eb0240,,597,question,responseOptionYes,20078,form,Yes
+42d1fcd0504943a1a6573b84,,598,question,description,20078,form,"<a href=""http://www.ecfr.gov/cgi-bin/text-idx?SID=b4b65f7a04e347bc58d9ac07d7ede32a&node=pt49.3.195&rgn=div5"" target=""_BLANK"">49 CFR Part 195 Subpart G</a>"
+42d1fcd0504943a1a6573b84,,598,question,questionText,20078,form,Does your company have employees who perform covered tasks as defined under 49 CFR Part 195 Subpart G?
+42d1fcd0504943a1a6573b84,,598,question,responseOptionNA,20078,form,N/A
+42d1fcd0504943a1a6573b84,,598,question,responseOptionNo,20078,form,No
+42d1fcd0504943a1a6573b84,,598,question,responseOptionYes,20078,form,Yes
+42d1fcd0504943af3576569a,,599,question,questionText,20078,form,Does your company maintain records of Operator Qualification for your employees?
+42d1fcd0504943af3576569a,,599,question,responseOptionNA,20078,form,N/A
+42d1fcd0504943af3576569a,,599,question,responseOptionNo,20078,form,No
+42d1fcd0504943af3576569a,,599,question,responseOptionYes,20078,form,Yes
+42d1fcd050494332117755d8,,600,question,description,20078,form,"<a href=""http://www.nccer.org/pipeline-certification?mID=518"" target=""_BLANK"">NCCER Pipeline Certification</a>"
+42d1fcd050494332117755d8,,600,question,questionText,20078,form,Do any of your employees participate in the NCCER’s Pipeline Training and Assessment Program?
+42d1fcd050494332117755d8,,600,question,responseOptionNA,20078,form,N/A
+42d1fcd050494332117755d8,,600,question,responseOptionNo,20078,form,No
+42d1fcd050494332117755d8,,600,question,responseOptionYes,20078,form,Yes
+42d1fcd0504943be7762539e,,601,question,questionText,20078,form,Does your company provide 'In House' OQ training?
+42d1fcd0504943be7762539e,,601,question,responseOptionNA,20078,form,N/A
+42d1fcd0504943be7762539e,,601,question,responseOptionNo,20078,form,No
+42d1fcd0504943be7762539e,,601,question,responseOptionYes,20078,form,Yes
+42d1fcd0504943903baa302b,,602,question,questionText,20078,form,"If you answered no to the previous question, where are your employees trained?"
+43b61e605049434b61d3f113,,894,question,questionText,20078,form,Does your company have employees who are covered under DOT (Department of Transportation) OQ (Operator Qualification) requirements?
+43b61e605049434b61d3f113,,894,question,responseOptionNA,20078,form,N/A
+43b61e605049434b61d3f113,,894,question,responseOptionNo,20078,form,No
+43b61e605049434b61d3f113,,894,question,responseOptionYes,20078,form,Yes
+5c182b7d360000dfdd42e423,5ab0a47f240000765619d1a6,20078,questionGroup,questionGroupText,20078,form,Avetta PQF - DOT Pipeline Operator Qualification (PHMSA)

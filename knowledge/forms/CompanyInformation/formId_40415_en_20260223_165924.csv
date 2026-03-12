@@ -1,0 +1,249 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+690d074a0100003a00dc3f06,652d65d4180000ea646af527,40415,questionGroup,questionGroupText,40415,form,SOLV Energy - Company Information Specific
+652d674f180000ea646af534,652d674f180000ea646af533,40417,questionGroup,questionGroupText,40415,form,Business Activity
+690cd0580100006400dc3c9b,652d6a7e180000e1646af576,40421,questionGroup,questionGroupText,40415,form,Geographic Coverage
+690cd0930100003e00dc3ca0,690cd0930100003e00dc3c9f,48796,questionGroup,questionGroupText,40415,form,IRA Compliance
+652d675d18000038646af537,,145869,question,description,40415,form,Please check all that apply.
+652d675d18000038646af537,,145869,question,questionText,40415,form,Primary Business Activity (Self Perform):
+652d675d18000038646af537,,145869,question,responseOption1,40415,form,Construction Services
+652d675d18000038646af537,,145869,question,responseOption2,40415,form,Material Supplier
+652d675d18000038646af537,,145869,question,responseOption3,40415,form,N/A
+652d6797180000ea646af539,,145870,question,description,40415,form,"Choose all of the Construction Services that your organization performs utilizing the craftspeople that your organization employs directly. For Construction Services that you normally subcontract, select subcontracted Construction Services."
+652d6797180000ea646af539,,145870,question,questionText,40415,form,Self Performed Construction Services:
+652d6797180000ea646af539,,145870,question,responseOption1,40415,form,Sitework
+652d6797180000ea646af539,,145870,question,responseOption10,40415,form,Install Only
+652d6797180000ea646af539,,145870,question,responseOption11,40415,form,Installation
+652d6797180000ea646af539,,145870,question,responseOption12,40415,form,Civil
+652d6797180000ea646af539,,145870,question,responseOption13,40415,form,Electrical
+652d6797180000ea646af539,,145870,question,responseOption14,40415,form,Mechanical
+652d6797180000ea646af539,,145870,question,responseOption15,40415,form,Subcontracted Construction Services
+652d6797180000ea646af539,,145870,question,responseOption16,40415,form,OTHER Self-performed Construction Services
+652d6797180000ea646af539,,145870,question,responseOption17,40415,form,Landscaping/Mowing
+652d6797180000ea646af539,,145870,question,responseOption18,40415,form,Foundation Install
+652d6797180000ea646af539,,145870,question,responseOption19,40415,form,Racking Install
+652d6797180000ea646af539,,145870,question,responseOption2,40415,form,Erosion Control
+652d6797180000ea646af539,,145870,question,responseOption20,40415,form,Trenching/Excavation
+652d6797180000ea646af539,,145870,question,responseOption21,40415,form,HDD/Boring
+652d6797180000ea646af539,,145870,question,responseOption22,40415,form,Seeding/Reseeding
+652d6797180000ea646af539,,145870,question,responseOption23,40415,form,Drain Tile
+652d6797180000ea646af539,,145870,question,responseOption24,40415,form,Pre-drilling
+652d6797180000ea646af539,,145870,question,responseOption25,40415,form,Temporary Facilities/Laydown Setup
+652d6797180000ea646af539,,145870,question,responseOption28,40415,form,Testing & Commissioning
+652d6797180000ea646af539,,145870,question,responseOption29,40415,form,Fiber Optic Cables
+652d6797180000ea646af539,,145870,question,responseOption3,40415,form,Fencing
+652d6797180000ea646af539,,145870,question,responseOption4,40415,form,Module Install
+652d6797180000ea646af539,,145870,question,responseOption5,40415,form,LV Electrical
+652d6797180000ea646af539,,145870,question,responseOption6,40415,form,MV Electrical (DC & AC)
+652d6797180000ea646af539,,145870,question,responseOption7,40415,form,Testing/Witness Testing
+652d6797180000ea646af539,,145870,question,responseOption8,40415,form,Commissioning
+652d6797180000ea646af539,,145870,question,responseOption9,40415,form,EPC
+652d6886190000ce04e5ecf7,,145871,question,questionText,40415,form,"Other, please specify:"
+652d6886190000ce04e5ecf7,,145871,question,responseOption1,40415,form,Yes
+652d6886190000ce04e5ecf7,,145871,question,responseOption2,40415,form,No
+652d689d190000ce04e5ecf9,,145873,question,description,40415,form,Choose all of the Construction Services that your organization would normally perform utilizing an outside organization working under your direction.
+652d689d190000ce04e5ecf9,,145873,question,questionText,40415,form,Subcontracted Construction Services:
+652d689d190000ce04e5ecf9,,145873,question,responseOption1,40415,form,Sitework
+652d689d190000ce04e5ecf9,,145873,question,responseOption10,40415,form,Testing/Witness Testing
+652d689d190000ce04e5ecf9,,145873,question,responseOption11,40415,form,Commissioning
+652d689d190000ce04e5ecf9,,145873,question,responseOption12,40415,form,EPC
+652d689d190000ce04e5ecf9,,145873,question,responseOption13,40415,form,Install Only
+652d689d190000ce04e5ecf9,,145873,question,responseOption14,40415,form,Installation
+652d689d190000ce04e5ecf9,,145873,question,responseOption15,40415,form,Civil
+652d689d190000ce04e5ecf9,,145873,question,responseOption16,40415,form,Electrical
+652d689d190000ce04e5ecf9,,145873,question,responseOption17,40415,form,Mechanical
+652d689d190000ce04e5ecf9,,145873,question,responseOption18,40415,form,OTHER Self-performed Construction Services
+652d689d190000ce04e5ecf9,,145873,question,responseOption19,40415,form,Trenching/Excavation
+652d689d190000ce04e5ecf9,,145873,question,responseOption2,40415,form,Erosion Control
+652d689d190000ce04e5ecf9,,145873,question,responseOption20,40415,form,HDD/Boring
+652d689d190000ce04e5ecf9,,145873,question,responseOption21,40415,form,Seeding/Reseeding
+652d689d190000ce04e5ecf9,,145873,question,responseOption22,40415,form,Drain Tile
+652d689d190000ce04e5ecf9,,145873,question,responseOption23,40415,form,Pre-drilling
+652d689d190000ce04e5ecf9,,145873,question,responseOption24,40415,form,Temporary Facilities/Laydown Setup
+652d689d190000ce04e5ecf9,,145873,question,responseOption27,40415,form,Testing & Commissioning
+652d689d190000ce04e5ecf9,,145873,question,responseOption29,40415,form,Subcontracted Construction Services
+652d689d190000ce04e5ecf9,,145873,question,responseOption3,40415,form,Fencing
+652d689d190000ce04e5ecf9,,145873,question,responseOption30,40415,form,Fiber Optic Cable
+652d689d190000ce04e5ecf9,,145873,question,responseOption4,40415,form,Landscaping/Mowing
+652d689d190000ce04e5ecf9,,145873,question,responseOption5,40415,form,Foundation Install
+652d689d190000ce04e5ecf9,,145873,question,responseOption6,40415,form,Racking Install
+652d689d190000ce04e5ecf9,,145873,question,responseOption7,40415,form,Module Install
+652d689d190000ce04e5ecf9,,145873,question,responseOption8,40415,form,LV Electrical
+652d689d190000ce04e5ecf9,,145873,question,responseOption9,40415,form,MV Electrical (DC & AC)
+652d6956180000e4646af572,,145874,question,questionText,40415,form,"Other, please specify:"
+652d6956180000e4646af572,,145874,question,responseOption1,40415,form,Yes
+652d6956180000e4646af572,,145874,question,responseOption2,40415,form,No
+652d6996190000ce04e5ed05,,145875,question,questionText,40415,form,Material Supplier:
+652d6996190000ce04e5ed05,,145875,question,responseOption1,40415,form,Aggregate
+652d6996190000ce04e5ed05,,145875,question,responseOption10,40415,form,Fire Detection System
+652d6996190000ce04e5ed05,,145875,question,responseOption11,40415,form,Inverters
+652d6996190000ce04e5ed05,,145875,question,responseOption12,40415,form,Medium Voltage
+652d6996190000ce04e5ed05,,145875,question,responseOption13,40415,form,Panel Boards
+652d6996190000ce04e5ed05,,145875,question,responseOption14,40415,form,PV Harness
+652d6996190000ce04e5ed05,,145875,question,responseOption15,40415,form,PV Modules
+652d6996190000ce04e5ed05,,145875,question,responseOption16,40415,form,Racking
+652d6996190000ce04e5ed05,,145875,question,responseOption17,40415,form,SCADA
+652d6996190000ce04e5ed05,,145875,question,responseOption18,40415,form,Skids
+652d6996190000ce04e5ed05,,145875,question,responseOption19,40415,form,Substations
+652d6996190000ce04e5ed05,,145875,question,responseOption2,40415,form,Battery Equipment
+652d6996190000ce04e5ed05,,145875,question,responseOption20,40415,form,Switchgear
+652d6996190000ce04e5ed05,,145875,question,responseOption21,40415,form,Transformers
+652d6996190000ce04e5ed05,,145875,question,responseOption22,40415,form,Other (Material supplier)
+652d6996190000ce04e5ed05,,145875,question,responseOption23,40415,form,LBD's
+652d6996190000ce04e5ed05,,145875,question,responseOption24,40415,form,Steel Foundations
+652d6996190000ce04e5ed05,,145875,question,responseOption25,40415,form,DC Wire
+652d6996190000ce04e5ed05,,145875,question,responseOption26,40415,form,AC Wire
+652d6996190000ce04e5ed05,,145875,question,responseOption27,40415,form,DC Collection
+652d6996190000ce04e5ed05,,145875,question,responseOption3,40415,form,Combiner Boxes
+652d6996190000ce04e5ed05,,145875,question,responseOption4,40415,form,Concrete Ballast
+652d6996190000ce04e5ed05,,145875,question,responseOption5,40415,form,Data Monitoring
+652d6996190000ce04e5ed05,,145875,question,responseOption6,40415,form,Electrical - Other
+652d6996190000ce04e5ed05,,145875,question,responseOption7,40415,form,Electrical Conduit
+652d6996190000ce04e5ed05,,145875,question,responseOption8,40415,form,Electrical Wire
+652d6996190000ce04e5ed05,,145875,question,responseOption9,40415,form,Fiber Optic Cable
+652d6a5c180000ea646af573,,145876,question,questionText,40415,form,"Other, please specify:"
+652d6a5c180000ea646af573,,145876,question,responseOption1,40415,form,Yes
+652d6a5c180000ea646af573,,145876,question,responseOption2,40415,form,No
+652d6a77190000ec04e5ed0a,,145877,question,description,40415,form,Please check all that apply.
+652d6a77190000ec04e5ed0a,,145877,question,questionText,40415,form,Which states are you able / willing to perform work?
+652d6a77190000ec04e5ed0a,,145877,question,responseOption1,40415,form,Alabama
+652d6a77190000ec04e5ed0a,,145877,question,responseOption10,40415,form,Georgia
+652d6a77190000ec04e5ed0a,,145877,question,responseOption11,40415,form,Hawaii
+652d6a77190000ec04e5ed0a,,145877,question,responseOption12,40415,form,Idaho
+652d6a77190000ec04e5ed0a,,145877,question,responseOption13,40415,form,Illinois
+652d6a77190000ec04e5ed0a,,145877,question,responseOption14,40415,form,Indiana
+652d6a77190000ec04e5ed0a,,145877,question,responseOption15,40415,form,Iowa
+652d6a77190000ec04e5ed0a,,145877,question,responseOption16,40415,form,Kansas
+652d6a77190000ec04e5ed0a,,145877,question,responseOption17,40415,form,Kentucky
+652d6a77190000ec04e5ed0a,,145877,question,responseOption18,40415,form,Louisiana
+652d6a77190000ec04e5ed0a,,145877,question,responseOption19,40415,form,Maine
+652d6a77190000ec04e5ed0a,,145877,question,responseOption2,40415,form,Alaska
+652d6a77190000ec04e5ed0a,,145877,question,responseOption20,40415,form,Maryland
+652d6a77190000ec04e5ed0a,,145877,question,responseOption21,40415,form,Massachusetts
+652d6a77190000ec04e5ed0a,,145877,question,responseOption22,40415,form,Michigan
+652d6a77190000ec04e5ed0a,,145877,question,responseOption23,40415,form,Minnesota
+652d6a77190000ec04e5ed0a,,145877,question,responseOption24,40415,form,Mississippi
+652d6a77190000ec04e5ed0a,,145877,question,responseOption25,40415,form,Missouri
+652d6a77190000ec04e5ed0a,,145877,question,responseOption26,40415,form,Montana
+652d6a77190000ec04e5ed0a,,145877,question,responseOption27,40415,form,Nebraska
+652d6a77190000ec04e5ed0a,,145877,question,responseOption28,40415,form,Nevada
+652d6a77190000ec04e5ed0a,,145877,question,responseOption29,40415,form,New Hampshire
+652d6a77190000ec04e5ed0a,,145877,question,responseOption3,40415,form,Arizona
+652d6a77190000ec04e5ed0a,,145877,question,responseOption30,40415,form,New Jersey
+652d6a77190000ec04e5ed0a,,145877,question,responseOption31,40415,form,New Mexico
+652d6a77190000ec04e5ed0a,,145877,question,responseOption32,40415,form,New York
+652d6a77190000ec04e5ed0a,,145877,question,responseOption33,40415,form,North Carolina
+652d6a77190000ec04e5ed0a,,145877,question,responseOption34,40415,form,North Dakota
+652d6a77190000ec04e5ed0a,,145877,question,responseOption35,40415,form,Ohio
+652d6a77190000ec04e5ed0a,,145877,question,responseOption36,40415,form,Oklahoma
+652d6a77190000ec04e5ed0a,,145877,question,responseOption37,40415,form,Oregon
+652d6a77190000ec04e5ed0a,,145877,question,responseOption38,40415,form,Pennsylvania
+652d6a77190000ec04e5ed0a,,145877,question,responseOption39,40415,form,Rhode Island
+652d6a77190000ec04e5ed0a,,145877,question,responseOption4,40415,form,Arkansas
+652d6a77190000ec04e5ed0a,,145877,question,responseOption40,40415,form,South Carolina
+652d6a77190000ec04e5ed0a,,145877,question,responseOption41,40415,form,South Dakota
+652d6a77190000ec04e5ed0a,,145877,question,responseOption42,40415,form,Tennessee
+652d6a77190000ec04e5ed0a,,145877,question,responseOption43,40415,form,Texas
+652d6a77190000ec04e5ed0a,,145877,question,responseOption44,40415,form,Utah
+652d6a77190000ec04e5ed0a,,145877,question,responseOption45,40415,form,Vermont
+652d6a77190000ec04e5ed0a,,145877,question,responseOption46,40415,form,Virginia
+652d6a77190000ec04e5ed0a,,145877,question,responseOption47,40415,form,Washington
+652d6a77190000ec04e5ed0a,,145877,question,responseOption48,40415,form,West Virginia
+652d6a77190000ec04e5ed0a,,145877,question,responseOption49,40415,form,Wisconsin
+652d6a77190000ec04e5ed0a,,145877,question,responseOption5,40415,form,California
+652d6a77190000ec04e5ed0a,,145877,question,responseOption50,40415,form,Wyoming
+652d6a77190000ec04e5ed0a,,145877,question,responseOption6,40415,form,Colorado
+652d6a77190000ec04e5ed0a,,145877,question,responseOption7,40415,form,Connecticut
+652d6a77190000ec04e5ed0a,,145877,question,responseOption8,40415,form,Delaware
+652d6a77190000ec04e5ed0a,,145877,question,responseOption9,40415,form,Florida
+652d6d1b180000e9646af596,,145883,question,questionText,40415,form,"Are there limitations regarding distance (counties, regions, etc.)?"
+652d6d1b180000e9646af596,,145883,question,responseOption1,40415,form,Yes
+652d6d1b180000e9646af596,,145883,question,responseOption2,40415,form,No
+652dc6cf1700005000fea398,,145950,question,questionText,40415,form,Please explain in detail.
+690ccd8c0100005e00ed1b0a,,187237,question,questionText,40415,form,"Does your company have an internal apprenticeship program, use the union apprenticeship program, or use an external apprenticeship program, through a 3rd party?"
+690ccd8c0100005e00ed1b0a,,187237,question,responseOption1,40415,form,Yes
+690ccd8c0100005e00ed1b0a,,187237,question,responseOption2,40415,form,No
+690ccd930100004000ed1b0b,,187238,question,questionText,40415,form,Does your company pay Prevailing Wage?
+690ccd930100004000ed1b0b,,187238,question,responseOption1,40415,form,Yes
+690ccd930100004000ed1b0b,,187238,question,responseOption2,40415,form,No
+690ccd980100004100dc3c86,,187239,question,questionText,40415,form,Is your company affiliated with any unions?
+690ccd980100004100dc3c86,,187239,question,responseOption1,40415,form,Yes
+690ccd980100004100dc3c86,,187239,question,responseOption2,40415,form,No
+690ccda50100004000ed1b0f,,187240,question,questionText,40415,form,"If Yes, what union / s?"
+690ccdae0100004700dc3c89,,187241,question,questionText,40415,form,"If Yes, what is your local union number?"
+690ccdca0100003a00dc3c8c,,187243,question,questionText,40415,form,Explain why the IRA requirements are Not Applicable to your company:\n
+690cce2b0100005e00ed1b18,,187244,question,questionText,40415,form,What Counties is your company IDA Compliant in? 
+690cce2b0100005e00ed1b18,,187244,question,responseOption1,40415,form,Albany
+690cce2b0100005e00ed1b18,,187244,question,responseOption10,40415,form,Clinton
+690cce2b0100005e00ed1b18,,187244,question,responseOption11,40415,form,Columbia
+690cce2b0100005e00ed1b18,,187244,question,responseOption12,40415,form,Cortland
+690cce2b0100005e00ed1b18,,187244,question,responseOption13,40415,form,Delaware
+690cce2b0100005e00ed1b18,,187244,question,responseOption14,40415,form,Dutchess
+690cce2b0100005e00ed1b18,,187244,question,responseOption15,40415,form,Erie
+690cce2b0100005e00ed1b18,,187244,question,responseOption16,40415,form,Essex
+690cce2b0100005e00ed1b18,,187244,question,responseOption17,40415,form,Franklin
+690cce2b0100005e00ed1b18,,187244,question,responseOption18,40415,form,Fulton
+690cce2b0100005e00ed1b18,,187244,question,responseOption19,40415,form,Genesee
+690cce2b0100005e00ed1b18,,187244,question,responseOption2,40415,form,Allegany
+690cce2b0100005e00ed1b18,,187244,question,responseOption20,40415,form,Greene
+690cce2b0100005e00ed1b18,,187244,question,responseOption21,40415,form,Hamilton
+690cce2b0100005e00ed1b18,,187244,question,responseOption22,40415,form,Herkimer
+690cce2b0100005e00ed1b18,,187244,question,responseOption23,40415,form,Jefferson
+690cce2b0100005e00ed1b18,,187244,question,responseOption24,40415,form,Kings (Brooklyn)
+690cce2b0100005e00ed1b18,,187244,question,responseOption25,40415,form,Lewis
+690cce2b0100005e00ed1b18,,187244,question,responseOption26,40415,form,Livingston
+690cce2b0100005e00ed1b18,,187244,question,responseOption27,40415,form,Madison
+690cce2b0100005e00ed1b18,,187244,question,responseOption28,40415,form,Monroe
+690cce2b0100005e00ed1b18,,187244,question,responseOption29,40415,form,Montgomery
+690cce2b0100005e00ed1b18,,187244,question,responseOption3,40415,form,Bronx
+690cce2b0100005e00ed1b18,,187244,question,responseOption30,40415,form,Nassau
+690cce2b0100005e00ed1b18,,187244,question,responseOption31,40415,form,New York (Manhattan)
+690cce2b0100005e00ed1b18,,187244,question,responseOption32,40415,form,Niagara
+690cce2b0100005e00ed1b18,,187244,question,responseOption33,40415,form,Oneida
+690cce2b0100005e00ed1b18,,187244,question,responseOption34,40415,form,Onondaga
+690cce2b0100005e00ed1b18,,187244,question,responseOption35,40415,form,Ontario
+690cce2b0100005e00ed1b18,,187244,question,responseOption36,40415,form,Orange
+690cce2b0100005e00ed1b18,,187244,question,responseOption37,40415,form,Orleans
+690cce2b0100005e00ed1b18,,187244,question,responseOption38,40415,form,Oswego
+690cce2b0100005e00ed1b18,,187244,question,responseOption39,40415,form,Putnam
+690cce2b0100005e00ed1b18,,187244,question,responseOption4,40415,form,Broome
+690cce2b0100005e00ed1b18,,187244,question,responseOption40,40415,form,Queens
+690cce2b0100005e00ed1b18,,187244,question,responseOption41,40415,form,Rensselaer
+690cce2b0100005e00ed1b18,,187244,question,responseOption42,40415,form,Richmond (Staten Island)
+690cce2b0100005e00ed1b18,,187244,question,responseOption43,40415,form,Rockland
+690cce2b0100005e00ed1b18,,187244,question,responseOption44,40415,form,Saratoga
+690cce2b0100005e00ed1b18,,187244,question,responseOption45,40415,form,Schenectady
+690cce2b0100005e00ed1b18,,187244,question,responseOption46,40415,form,Schoharie
+690cce2b0100005e00ed1b18,,187244,question,responseOption47,40415,form,Schuyler
+690cce2b0100005e00ed1b18,,187244,question,responseOption48,40415,form,Seneca
+690cce2b0100005e00ed1b18,,187244,question,responseOption49,40415,form,St. Lawrence
+690cce2b0100005e00ed1b18,,187244,question,responseOption5,40415,form,Cattaraugus
+690cce2b0100005e00ed1b18,,187244,question,responseOption50,40415,form,Steuben
+690cce2b0100005e00ed1b18,,187244,question,responseOption51,40415,form,Suffolk
+690cce2b0100005e00ed1b18,,187244,question,responseOption52,40415,form,Sullivan
+690cce2b0100005e00ed1b18,,187244,question,responseOption53,40415,form,Tioga
+690cce2b0100005e00ed1b18,,187244,question,responseOption54,40415,form,Tompkins
+690cce2b0100005e00ed1b18,,187244,question,responseOption55,40415,form,Ulster
+690cce2b0100005e00ed1b18,,187244,question,responseOption56,40415,form,Warren
+690cce2b0100005e00ed1b18,,187244,question,responseOption57,40415,form,Washington
+690cce2b0100005e00ed1b18,,187244,question,responseOption58,40415,form,Wayne
+690cce2b0100005e00ed1b18,,187244,question,responseOption59,40415,form,Westchester
+690cce2b0100005e00ed1b18,,187244,question,responseOption6,40415,form,Cayuga
+690cce2b0100005e00ed1b18,,187244,question,responseOption60,40415,form,Wyoming
+690cce2b0100005e00ed1b18,,187244,question,responseOption61,40415,form,Yates
+690cce2b0100005e00ed1b18,,187244,question,responseOption62,40415,form,All NYS Counties
+690cce2b0100005e00ed1b18,,187244,question,responseOption63,40415,form,All Upstate NYS Counties (not NYC or Long Island)
+690cce2b0100005e00ed1b18,,187244,question,responseOption64,40415,form,None
+690cce2b0100005e00ed1b18,,187244,question,responseOption7,40415,form,Chautauqua
+690cce2b0100005e00ed1b18,,187244,question,responseOption8,40415,form,Chemung
+690cce2b0100005e00ed1b18,,187244,question,responseOption9,40415,form,Chenango
+690ccfbf0100003e00dc3c94,,187247,question,questionText,40415,form,Does your company have a workforce that commutes to those Counties?
+690ccfbf0100003e00dc3c94,,187247,question,responseOption1,40415,form,Yes
+690ccfbf0100003e00dc3c94,,187247,question,responseOption2,40415,form,No
+690ccfca0100004000dc3c97,,187248,question,questionText,40415,form,"If non-Union company, are you willing to agree to IDA requirements?"
+690ccfca0100004000dc3c97,,187248,question,responseOption1,40415,form,Yes
+690ccfca0100004000dc3c97,,187248,question,responseOption2,40415,form,No
+690cfb080100006400dc3da8,,187263,question,questionText,40415,form,Does your company comply with IRA Requirements?
+690cfb080100006400dc3da8,,187263,question,responseOption1,40415,form,Yes
+690cfb080100006400dc3da8,,187263,question,responseOption2,40415,form,No
+690cfb080100006400dc3da8,,187263,question,responseOption3,40415,form,N/A
+690d05240100004200ed1c46,,187264,question,questionText,40415,form,Explain why you do not comply with IRA requirements:

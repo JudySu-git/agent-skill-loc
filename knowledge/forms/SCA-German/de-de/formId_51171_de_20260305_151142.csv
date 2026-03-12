@@ -1,0 +1,21 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87749a36b6c4c63546794,69a87749a36b6c4c63546793,51171,questionGroup,questionGroupText,51171,form,Ionisierende Strahlung,
+69a87748a36b6c4c6354678c,,200157,question,description,51171,form,"Eine radiologische Arbeitsplatzüberwachung muss durchgeführt werden, und bei Änderungen, die den Expositions- oder Aktivitätsgrad beeinflussen, muss eine Neubewertung erfolgen. Die externe Strahlendosis strahlenexponierter Arbeitnehmer muss mithilfe von Personaldosimetern ermittelt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011249"">Allgemeine Strahlenschutzverordnung, § 17 Abs. 2, § 98 Abs. 1, § 105 Abs. 2 Z 1, § 107 Abs. 1 Z 1</a>",
+69a87748a36b6c4c6354678c,,200157,question,questionText,51171,form,Expositionsbeurteilung,
+69a87748a36b6c4c6354678d,,200158,question,description,51171,form,"Ein jährlicher effektiver Dosisgrenzwert von 20 mSv ist einzuhalten, und die berufliche Exposition muss innerhalb dieses Grenzwerts liegen, gemittelt über fünf Jahre. Die Dosen für Augen, Haut und Extremitäten müssen ebenfalls innerhalb der festgelegten jährlichen und mehrjährigen Grenzwerte bleiben.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011249"">Allgemeine Strahlenschutzverordnung, § 4 Abs. 2–3</a>",
+69a87748a36b6c4c6354678d,,200158,question,questionText,51171,form,Expositionsgrenzwerte,
+69a87748a36b6c4c6354678e,,200159,question,description,51171,form,"Strahlenschutzmaßnahmen müssen der Tätigkeit angemessen sein, festgelegt, umgesetzt, auf ihre Wirksamkeit überprüft und auf ihre Einhaltung überwacht werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011249"">Allgemeine Strahlenschutzverordnung, § 84 Abs. 1–2</a>",
+69a87748a36b6c4c6354678e,,200159,question,questionText,51171,form,Schutzmaßnahmen,
+69a87748a36b6c4c6354678f,,200160,question,description,51171,form,"Sicherheitskontrollen für Strahlenquellen und die Ausweisung von Bereichen sind erforderlich; die Maßnahmen müssen unbefugten Zugang bei Erwerb, Nutzung und Weitergabe verhindern. Kontrollbereiche müssen abgegrenzt und mit Strahlenwarnzeichen gekennzeichnet sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011249"">Allgemeine Strahlenschutzverordnung, § 30 Abs. 1, § 104 Abs. 1–2, § 105 Abs. 1 Z 1–2</a>",
+69a87748a36b6c4c6354678f,,200160,question,questionText,51171,form,Zugangskontrolle,
+69a87748a36b6c4c63546790,,200161,question,description,51171,form,"Eignungsuntersuchungen zur gesundheitlichen Eignung sind erforderlich und müssen die gesundheitliche Tauglichkeit vor der Aufnahme von Strahlentätigkeiten unter Verwendung vorgeschriebener medizinischer Bestandteile beurteilen. Nachfolgeuntersuchungen sind erforderlich, um den Gesundheitszustand und die erhaltene Dosis zu beurteilen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011249"">Allgemeine Strahlenschutzverordnung, §§ 89–91</a>",
+69a87748a36b6c4c63546790,,200161,question,questionText,51171,form,"Medizinische Untersuchung (vor Tätigkeitsbeginn, periodisch)",
+69a87748a36b6c4c63546791,,200162,question,description,51171,form,"Arbeitsplatzspezifische Schulungen müssen durchgeführt werden und Risiken, Schutzmaßnahmen, Notfallelemente sowie die Verantwortlichkeiten der Arbeitnehmer behandeln. Schulungen müssen vor Aufnahme der Tätigkeit, jährlich sowie bei Änderungen oder Vorfällen durchgeführt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011249"">Allgemeine Strahlenschutzverordnung, § 84 Abs. 3, § 85 Abs. 1–4, § 117 Abs. 1 Z 3</a>",
+69a87748a36b6c4c63546791,,200162,question,questionText,51171,form,"Schulung (vor Tätigkeitsbeginn, jährlich)",
+69a87748a36b6c4c63546792,,200163,question,questionText,51171,form,<div></div>,

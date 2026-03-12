@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+693c8cf50100004200e9a12a,6925d37a0100004700be9004,49194,questionGroup,description,49194,form,This requirement is triggered because you indicated your organization maintains a valid Spain Activity License in the Spain Activity License Applicability Assessment.
+693c8cf50100004200e9a12a,6925d37a0100004700be9004,49194,questionGroup,questionGroupText,49194,form,Spain Activity License
+6925d3c70100006600ff2b8e,,189186,question,description,49194,form,"The Spain Activity License is an official municipal permit required for the lawful operation of most business premises and facilities in Spain. It serves to verify that commercial, industrial, or service activities comply with occupational health and safety, public health, urban planning, and environmental regulations before operations begin.\n\n<a href = ""https://www.boe.es/eli/es/l/1985/04/02/7/con"" target = ""_BLANK_"" >Law 7 Local Government Act</a>\n\n<a href = ""https://www.boe.es/buscar/act.php?id=BOE-A-2013-12913"" target = ""_BLANK_"" >Law 20 Market Unity Guarantee Act </a>"
+6925d3c70100006600ff2b8e,,189186,question,questionText,49194,form,Please upload your Spain Activity License.
+6925d3dc0100006400be900a,,189187,question,questionText,49194,form,Please enter the issue date of your Spain Activity License.

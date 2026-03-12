@@ -1,0 +1,22 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87737a36b6c4c635466bd,69a87737a36b6c4c635466bc,51148,questionGroup,questionGroupText,51148,form,Bau - Management,
+69a87737a36b6c4c635466b5,,199988,question,description,51148,form,"Bauarbeiten müssen der zuständigen Arbeitsinspektion vor Beginn gemeldet werden, wenn: (1) die Arbeiten voraussichtlich fünf Arbeitstage überschreiten und gleichzeitig mehr als 20 Arbeitnehmer beschäftigt werden, oder (2) der Gesamtumfang der Arbeiten 500 Personentage überschreitet.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 3 Abs. 1</a>",
+69a87737a36b6c4c635466b5,,199988,question,questionText,51148,form,Meldung an die Arbeitsinspektion (Arbeiten > 5 Tage),
+69a87737a36b6c4c635466b6,,199989,question,description,51148,form,"Arbeitnehmer dürfen nur mit Tätigkeiten betraut werden, für die sie körperlich und geistig geeignet sind.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 5 Abs. 4</a>",
+69a87737a36b6c4c635466b6,,199989,question,questionText,51148,form,Eignung für gefährliche Tätigkeiten,
+69a87737a36b6c4c635466b7,,199990,question,description,51148,form,"Sind Arbeitnehmer mehrerer Arbeitgeber auf derselben Baustelle tätig, müssen die Arbeitgeber bei der Durchführung von Sicherheits- und Gesundheitsschutzmaßnahmen zusammenarbeiten und ihre Tätigkeiten entsprechend koordinieren.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 3a Abs. 1 Z 9</a>",
+69a87737a36b6c4c635466b7,,199990,question,questionText,51148,form,Maßnahmen zur Zusammenarbeit der Arbeitnehmer,
+69a87737a36b6c4c635466b8,,199991,question,description,51148,form,"Die Koordination bei mehreren Arbeitgebern muss sicherstellen, dass Schutzmaßnahmen keine Risiken für andere verursachen. Die Arbeitskoordination auf Baustellen zur Vermeidung von Sicherheits- und Gesundheitsrisiken muss gewährleistet sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 4 Abs. 6</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 8 Abs. 3, § 13 Abs. 3</a>",
+69a87737a36b6c4c635466b8,,199991,question,questionText,51148,form,Koordination bei mehreren Arbeitgebern,
+69a87737a36b6c4c635466b9,,199992,question,description,51148,form,"Für Bauarbeiten muss eine fachkundige Baustellenaufsicht bestellt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 4 Abs. 1</a>",
+69a87737a36b6c4c635466b9,,199992,question,questionText,51148,form,Fachkundige Baustellenaufsicht,
+69a87737a36b6c4c635466ba,,199993,question,description,51148,form,"Unbefugter Zutritt muss durch Absperrungen oder Warnhinweise verhindert werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 4 Abs. 7</a>",
+69a87737a36b6c4c635466ba,,199993,question,questionText,51148,form,Zutrittskontrolle für unbefugte Personen,
+69a87737a36b6c4c635466bb,,199994,question,questionText,51148,form,<div></div>,

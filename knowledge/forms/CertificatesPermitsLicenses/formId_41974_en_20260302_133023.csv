@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6631394e1c00005d00584e65,662bf4d21c00006600ff8b04,41974,questionGroup,description,41974,form,"Trailer Interchange insurance offers protection for damage to a trailer not owned by the insured (supplier), arising from incidents such as collision, fire, theft, explosion, or vandalism. Coverage can only be taken out when required by contract (through an Trailer Interchange Agreement)"
+6631394e1c00005d00584e65,662bf4d21c00006600ff8b04,41974,questionGroup,questionGroupText,41974,form,Trailer Interchange
+662bf4d21c00006000ff8b06,662bf4d21c00006000ff8b06,41975,questionGroup,questionGroupText,41974,form,Policy Information
+662bf4d21c00006000ff8b05,662bf4d21c00006000ff8b05,41976,questionGroup,questionGroupText,41974,form,Policy Limits
+662bf4d21c00006100ff8b07,,153236,question,questionText,41974,form,Currency used in Certificate of Insurance (COI)
+662bf4d21c00006000ff8b09,,153237,question,questionText,41974,form,Please upload a certificate showing coverage for Trailer Interchange
+662bf4d21c00003100ff8b08,,153238,question,questionText,41974,form,Policy Expiration Date:
+662bf4d21c00003100ff8b0d,,153239,question,questionText,41974,form,Insurance Carrier:
+662bf4d21c00006000ff8b0c,,153240,question,description,41974,form,Used to provide instructions from Client
+662bf4d21c00006000ff8b0c,,153240,question,questionText,41974,form,Comments
+662bf4d21c00003100ff8b0b,,153241,question,questionText,41974,form,Date of Commencement:
+662bf4d21c00006000ff8b0e,,153242,question,questionText,41974,form,Trailer Value:
+662bf4d21c00003100ff8b0a,,153243,question,description,41974,form,Date the instructions from Client expire
+662bf4d21c00003100ff8b0a,,153243,question,questionText,41974,form,VARIANCE Expiration Date

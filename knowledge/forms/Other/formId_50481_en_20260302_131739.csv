@@ -1,0 +1,56 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+697902390100003f008deb11,69732d6501000060009d98d8,50481,questionGroup,questionGroupText,50481,form,EU Transport Operator Compliance
+6973311e010000e5019d9902,6973311e010000e5019d9901,50483,questionGroup,questionGroupText,50481,form,Please confirm the number of traffic accidents within your company this year in the following areas:
+697333e9010000aa009d992b,697333e9010000aa009d992a,50484,questionGroup,questionGroupText,50481,form,Fatalities
+6973345101000061006749f5,6973345101000061006749f4,50485,questionGroup,questionGroupText,50481,form,Compliance Risk Rating (European System)
+69733494010000aa006749f9,69733494010000aa006749f8,50486,questionGroup,questionGroupText,50481,form,Road Safety History
+6973316c01000060009d9904,,197399,question,description,50481,form,Please enter the number of traffic-related accidents that occurred for the given year on a motorway.
+6973316c01000060009d9904,,197399,question,questionText,50481,form,Motorway accidents:
+6973319f010000a1036749bf,,197400,question,description,50481,form,Please enter the number of traffic accidents within your company that occurred on non-motorways during the given year.
+6973319f010000a1036749bf,,197400,question,questionText,50481,form,Non-motorway accidents:
+697331c801000060006749c1,,197401,question,description,50481,form,Please confirm the number of your company's traffic accidents that occurred on urban roads for the given year:
+697331c801000060006749c1,,197401,question,questionText,50481,form,Urban road accidents:
+697331f3010000a2036749d1,,197402,question,description,50481,form,Please confirm the number of your company's traffic accidents that occurred on rural roads for the given year.
+697331f3010000a2036749d1,,197402,question,questionText,50481,form,Rural road accidents:
+6973321a0100003f009d9918,,197403,question,description,50481,form,Please confirm the total annual mileage completed by the company fleet. This should include where possible subcontracted vehicles working on your behalf. *This total may be an estimation.
+6973321a0100003f009d9918,,197403,question,questionText,50481,form,Total Fleet Mileage:
+69733248010000a0036749d3,,197404,question,description,50481,form,Please select all that apply.
+69733248010000a0036749d3,,197404,question,questionText,50481,form,What were the primary causes of traffic-related incidents within your business for the given year?
+69733248010000a0036749d3,,197404,question,responseOption1,50481,form,Lost load
+69733248010000a0036749d3,,197404,question,responseOption10,50481,form,Driver fatigue / falling asleep at the wheel
+69733248010000a0036749d3,,197404,question,responseOption11,50481,form,Puncture
+69733248010000a0036749d3,,197404,question,responseOption12,50481,form,Driver sickness
+69733248010000a0036749d3,,197404,question,responseOption13,50481,form,Hijack
+69733248010000a0036749d3,,197404,question,responseOption14,50481,form,Speeding
+69733248010000a0036749d3,,197404,question,responseOption15,50481,form,Weather conditions
+69733248010000a0036749d3,,197404,question,responseOption16,50481,form,Road surface
+69733248010000a0036749d3,,197404,question,responseOption17,50481,form,Poor visibility
+69733248010000a0036749d3,,197404,question,responseOption18,50481,form,Driver negligence (e.g.; using cell phone)
+69733248010000a0036749d3,,197404,question,responseOption19,50481,form,Reversing
+69733248010000a0036749d3,,197404,question,responseOption2,50481,form,Loss of a wheel
+69733248010000a0036749d3,,197404,question,responseOption20,50481,form,Incorrect direction of traffic
+69733248010000a0036749d3,,197404,question,responseOption3,50481,form,Collision with another vehicle
+69733248010000a0036749d3,,197404,question,responseOption4,50481,form,Collision with pedestrian (site & public highway)
+69733248010000a0036749d3,,197404,question,responseOption5,50481,form,Collision with animal
+69733248010000a0036749d3,,197404,question,responseOption6,50481,form,Collision with stationary object
+69733248010000a0036749d3,,197404,question,responseOption7,50481,form,Collision with stationary vehicle
+69733248010000a0036749d3,,197404,question,responseOption8,50481,form,Vehicle overturned
+69733248010000a0036749d3,,197404,question,responseOption9,50481,form,Influence of intoxicating substance
+697333060100003f009d9920,,197405,question,description,50481,form,"Operators are expected to have robust internal procedures to analyze every accident or incident as outlined in the <a href=""https://eur-lex.europa.eu/legal-content/es/ALL/?uri=CELEX%3A32022R0695"" target=""blank"">EU Common Formula for Risk Rating System</a>"
+697333060100003f009d9920,,197405,question,questionText,50481,form,"In the event that your company vehicles are involved in traffic accidents and/or incidents, did your company complete a full investigation?"
+697333060100003f009d9920,,197405,question,responseOption1,50481,form,Yes
+697333060100003f009d9920,,197405,question,responseOption2,50481,form,No
+697333060100003f009d9920,,197405,question,responseOption3,50481,form,Not Applicable
+6973334f01000042006749e5,,197406,question,description,50481,form,"EU directives (such as <a href=""https://unece.org/transport/standards/transport/dangerous-goods/adr-2023-agreement-concerning-international-carriage"" target=""blank"">ADR—European Agreement concerning the International Carriage of Dangerous Goods by Road</a>) require any spillage, leakage, or related incident involving hazardous substances (including oils and fuels) to be promptly reported, controlled, and investigated.\n"
+6973334f01000042006749e5,,197406,question,questionText,50481,form,Please confirm the number of oil/fuel related incidents relating to your company transport activity:
+697333740100003f009d9921,,197407,question,questionText,50481,form,How many accidents with vehicles hitting / damaging bridges have you recorded?
+6973341701000064009d992d,,197408,question,description,50481,form,Tracking fatalities is critical as the EU Common Formula for Risk Rating System assigns more weight to incidents with serious health or life consequences when calculating the risk score.
+6973341701000064009d992d,,197408,question,questionText,50481,form,How many transport-related fatalities has your company been involved with in the given year?
+6973346801000044006749f6,,197409,question,description,50481,form,"Visit the <a href=""https://apps.fomento.gob.es/crgt"" target=""blank"">national transport register</a> or the <a href=""https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32022R0695"" target=""blank"">EUR-Lex</a> for information about authorizations, compliance statuses and calculations.\n\n\n"
+6973346801000044006749f6,,197409,question,questionText,50481,form,Does your company have a Compliance Risk rating of Red or Amber in the European Transport Operator Risk Rating system as determined by the EU Common Formula for Risk Rating System?
+6973346801000044006749f6,,197409,question,responseOption1,50481,form,Yes
+6973346801000044006749f6,,197409,question,responseOption2,50481,form,No
+697334be01000060006749fd,,197410,question,description,50481,form,Reporting involvement in dangerous goods accidents supports targeted monitoring as required by EU directives for high-risk categories.
+697334be01000060006749fd,,197410,question,questionText,50481,form,Has the company been involved in an accident/incident involving the carriage of dangerous goods using road transport for the given year?
+697334be01000060006749fd,,197410,question,responseOption1,50481,form,Yes
+697334be01000060006749fd,,197410,question,responseOption2,50481,form,No

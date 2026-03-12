@@ -1,0 +1,33 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87732a36b6c4c63546687,69a87732a36b6c4c63546686,51141,questionGroup,questionGroupText,51141,form,Bau – Enge Räume (Confined Spaces),
+69a87731a36b6c4c6354667b,,199944,question,description,51141,form,"Vor dem Betreten müssen Gefahren identifiziert und bewertet werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, Abschnitt 3(5)0</a>",
+69a87731a36b6c4c6354667b,,199944,question,questionText,51141,form,Gefährdungsbeurteilung,
+69a87731a36b6c4c6354667c,,199945,question,description,51141,form,"Für Behälter, Gruben, Schächte, Kanäle oder Rohrleitungen, bei denen schriftliche Schutzmaßnahmen erforderlich sind, muss eine Bekanntmachung für Arbeiten in engen Räumen ausgestellt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, Abschnitt 3(5)1</a>",
+69a87731a36b6c4c6354667c,,199945,question,questionText,51141,form,Meldung an die Arbeitsinspektion,
+69a87731a36b6c4c6354667d,,199946,question,description,51141,form,"Vor dem Betreten oder Beginn der Arbeiten muss vom Vorgesetzten ein schriftlicher Befahrauftrag ausgestellt werden, der die erforderlichen Schutzmaßnahmen festlegt und die Verantwortung für die kontinuierliche Aufsicht zuweist.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, Abschnitt 120(2)</a>",
+69a87731a36b6c4c6354667d,,199946,question,questionText,51141,form,Befahrauftrag (vor Arbeitsbeginn),
+69a87731a36b6c4c6354667e,,199947,question,description,51141,form,"Das Betreten darf erst genehmigt werden, nachdem die im Befahrauftrag benannte verantwortliche Person bestätigt hat, dass die Schutzmaßnahmen umgesetzt wurden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, Abschnitt 120(3)</a>",
+69a87731a36b6c4c6354667e,,199947,question,questionText,51141,form,Freigabe zum Betreten durch den Vorgesetzten,
+69a87731a36b6c4c6354667f,,199948,question,description,51141,form,"Atmosphärische Gefahren müssen vor dem Betreten ausgeschlossen werden, indem sichergestellt wird, dass weder Sauerstoffmangel noch gefährliche Stoffkonzentrationen vorliegen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, Abschnitt 122(2)</a>",
+69a87731a36b6c4c6354667f,,199948,question,questionText,51141,form,Atmosphärenmessung,
+69a87731a36b6c4c63546680,,199949,question,description,51141,form,"Frischluftzufuhr und ausreichende Belüftung müssen sichergestellt werden; Sauerstoff darf nicht zur Belüftung verwendet werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, Abschnitt 122(1)</a>",
+69a87731a36b6c4c63546680,,199949,question,questionText,51141,form,Ausreichende Belüftung,
+69a87731a36b6c4c63546681,,199950,question,description,51141,form,"Schutzmaßnahmen für das Betreten von Behältern, Silos, Schächten, Gruben, Gräben, Rinnen, Kanälen und Rohrleitungen müssen Belüftung, Kontrolle atmosphärischer Gefahren, Aufsicht, Betretungserlaubnis, Rettungsmöglichkeiten und geeignete persönliche Schutzausrüstung umfassen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, Abschnitt 120(2-7), 122(1-6)</a>",
+69a87731a36b6c4c63546681,,199950,question,questionText,51141,form,"Schutzmaßnahmen (technische, organisatorische und/oder persönliche Schutzausrüstung)",
+69a87731a36b6c4c63546682,,199951,question,description,51141,form,"Während der gesamten Arbeiten muss eine ausgebildete Aufsichtsperson am Einstiegspunkt verbleiben, die mit den Arbeits- und Rettungsmaßnahmen vertraut ist.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, Abschnitt 122(3)</a>",
+69a87731a36b6c4c63546682,,199951,question,questionText,51141,form,Aufsichtsperson am Einstiegspunkt,
+69a87731a36b6c4c63546683,,199952,question,description,51141,form,"Wenn Sichtkontakt oder mündliche Kommunikation mit der eingestiegenen Person nicht möglich ist, muss eine zuverlässige technische Überwachung (z. B. Funk/Telefon) eingesetzt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, Abschnitt 122(3)</a>",
+69a87731a36b6c4c63546683,,199952,question,questionText,51141,form,Kommunikationssystem,
+69a87731a36b6c4c63546684,,199953,question,description,51141,form,"Die eingestiegene Person muss durch geeignete persönliche Schutzausrüstung (PSA) gegen Absturz, Ertrinken und Einsinken gesichert sein, wobei das Seilende außen zu befestigen und das Seil straff zu halten ist. Geeignete Rettungsausrüstung (z. B. Winde/Hebezeug) muss bereitgestellt werden, wenn eine Rettung von oben erforderlich sein könnte.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, Abschnitt 122(4, 6)</a>",
+69a87731a36b6c4c63546684,,199953,question,questionText,51141,form,Notfall- und Rettungsmaßnahmen,
+69a87731a36b6c4c63546685,,199954,question,questionText,51141,form,<div></div>,

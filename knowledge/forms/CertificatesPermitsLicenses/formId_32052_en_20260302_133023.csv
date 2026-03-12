@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67649b70010000340027276f,5fc6a2ff2a0000124bcb62c1,32052,questionGroup,questionGroupText,32052,form,Brazil Operating License and / or Operating Permit (LF)
+6728fb4e0100003700b4432f,5fc6a3112a0000124bcb62c4,32053,questionGroup,questionGroupText,32052,form,Brazil Operating License and / or Operating Permit (LF)
+5fc6a30b2a0000124bcb62c3,,104795,question,questionText,32052,form,Please upload the Operating License and / or Operating Permit (City Hall).\n
+5fc6a34f2a0000124bcb62d8,,104796,question,questionText,32052,form,Expiration Date:\n
+5fc6a35c2a0000124bcb62db,,104797,question,questionText,32052,form,Sign below to confirm  the uploaded document is correct and updated.\n

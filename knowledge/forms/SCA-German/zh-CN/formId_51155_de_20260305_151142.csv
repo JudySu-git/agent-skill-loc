@@ -1,0 +1,21 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8773ca36b6c4c63546701,69a8773ca36b6c4c63546700,51155,questionGroup,questionGroupText,51155,form,电磁场 (EMF),
+69a8773ca36b6c4c635466f9,,200042,question,description,51155,form,"需要进行工作场所电磁场评估，并且必须使用最新信息、制造商数据和公认方法对暴露情况进行评估。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009590"">电磁场法规，第 6(1)、7(1) 条</a>",
+69a8773ca36b6c4c635466f9,,200042,question,questionText,51155,form,暴露评估,
+69a8773ca36b6c4c635466fa,,200043,question,description,51155,form,"必须确定非热效应和热效应暴露限值，并采取措施确保在相关频率和暴露类型下不超过这些限值。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009590"">电磁场法规，第 3(1-2) 条</a>",
+69a8773ca36b6c4c635466fa,,200043,question,questionText,51155,form,暴露限值,
+69a8773ca36b6c4c635466fb,,200044,question,description,51155,form,"需要采取纠正措施。必须立即降低暴露水平，查明超出限值的原因，并相应更新防护措施以及安全与健康保护文件。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009590"">电磁场法规，第 3(5) 条</a>",
+69a8773ca36b6c4c635466fb,,200044,question,questionText,51155,form,超出限值时的措施,
+69a8773ca36b6c4c635466fc,,200045,question,description,51155,form,"必须考虑采取降低暴露的措施，例如屏蔽、隔离、替代设备、联锁装置、源头削减措施、组织性暴露管理以及技术性 EMF 控制，以降低暴露水平。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009590"">电磁场法规，第 7(3)、9(2)、10(1-5) 条</a>",
+69a8773ca36b6c4c635466fc,,200045,question,questionText,51155,form,控制措施,
+69a8773ca36b6c4c635466fd,,200046,question,description,51155,form,"需要提供与电磁场相关的个人防护装备 (PPE)，当暴露限值被超出时，必须提供并使用适当的 PPE。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009590"">电磁场法规，第 11(1) 条</a>",
+69a8773ca36b6c4c635466fd,,200046,question,questionText,51155,form,个人防护装备 (PPE),
+69a8773ca36b6c4c635466fe,,200047,question,description,51155,form,"需要进行电磁场危害培训指导，当触发值被超出或存在 EMF 危害可能性时，员工必须接受信息告知和培训。内容包括症状的识别与报告、安全操作规程、设备操作方法、正确使用 PPE 以及减少暴露的行为规范。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009590"">电磁场法规，第 8(1) 条</a>",
+69a8773ca36b6c4c635466fe,,200047,question,questionText,51155,form,培训,
+69a8773ca36b6c4c635466ff,,200048,question,questionText,51155,form,<div></div>,

@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+687e60480100003f001cc618,687e59470100003f001cc5d1,46741,questionGroup,description,46741,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+687e60480100003f001cc618,687e59470100003f001cc5d1,46741,questionGroup,questionGroupText,46741,form,China Hazardous Chemicals Applicability Assessment
+687e59a801000058001cc5d5,,176746,question,description,46741,form,"The Hazardous Chemicals Operation Permit is a mandatory government-issued license required for enterprises engaged in the operation, sale, storage, or distribution of hazardous chemicals listed in the national Catalog of Hazardous Chemicals. It certifies that the enterprise’s business premises, storage facilities, safety management, and personnel meet the legal and regulatory requirements for the safe operation of hazardous chemicals.\n\n<a href = ""https://www.gov.cn/gongbao/content/2012/content_2256582.htm""target=""_BLANK_"">SAWS Order 55 - Measures for the Administration of Hazardous Chemicals Operation Permit</a>"
+687e59a801000058001cc5d5,,176746,question,questionText,46741,form,Is your company required to have a Hazardous Chemicals Operation Permit?
+687e59a801000058001cc5d5,,176746,question,responseOption1,46741,form,Yes
+687e59a801000058001cc5d5,,176746,question,responseOption2,46741,form,No
+687e5a5d010000350016cfa8,,176747,question,description,46741,form,"The <a href = ""https://www.mem.gov.cn/fw/flfgbz/fg/201407/t20140729_233082.shtml""target=""_BLANK_"">China Work Safety License</a> is a mandatory government-issued permit required for enterprises engaged in the production (manufacturing, processing, or formulation) of hazardous chemicals in China. It certifies that the enterprise’s production facilities, equipment, safety management systems, and personnel meet national work safety standards for hazardous chemical production."
+687e5a5d010000350016cfa8,,176747,question,questionText,46741,form,Is your company required to have a Hazardous Chemicals Work Safety License?
+687e5a5d010000350016cfa8,,176747,question,responseOption1,46741,form,Yes
+687e5a5d010000350016cfa8,,176747,question,responseOption2,46741,form,No

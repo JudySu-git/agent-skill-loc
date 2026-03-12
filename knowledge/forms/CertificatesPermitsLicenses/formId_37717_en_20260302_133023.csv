@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+674df5c50100007000a4119e,63755292160000b605b6662f,37717,questionGroup,description,37717,form,"You are getting this category because you selected ISO 28000:2022 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for the a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+674df5c50100007000a4119e,63755292160000b605b6662f,37717,questionGroup,questionGroupText,37717,form,ISO 28000 - Specification for Security Management Systems for the Supply Chain
+63755292160000b605b66630,,133541,question,questionText,37717,form,Please upload your ISO 28000:2022 - Specification for Security Management Systems for the Supply Chain certificate:
+63755292160000b605b66631,,133542,question,questionText,37717,form,Please enter the certificate expiration date:\n

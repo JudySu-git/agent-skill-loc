@@ -1,0 +1,24 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87733a36b6c4c63546691,69a87733a36b6c4c63546690,51142,questionGroup,questionGroupText,51142,form,建筑 - 拆除,
+69a87732a36b6c4c63546688,,199955,question,description,51142,form,"拆除开始前，必须由具备资质的专家对建筑物及相邻结构的结构状况进行评估。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 110(1), 111(1), 118(6)</a>",
+69a87732a36b6c4c63546688,,199955,question,questionText,51142,form,结构评估（作业前）,
+69a87732a36b6c4c63546689,,199956,question,description,51142,form,"拆除开始前，必须清除危险品、易燃物或爆炸性物质。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 110(2, 5, 7)</a>",
+69a87732a36b6c4c63546689,,199956,question,questionText,51142,form,危险物质清除,
+69a87732a36b6c4c6354668a,,199957,question,description,51142,form,"拆除开始前，必须确认各类管线设施的位置及相应安全措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 110(5)(5), 111(2), 112(5)</a>",
+69a87732a36b6c4c6354668a,,199957,question,questionText,51142,form,管线危害管控,
+69a87732a36b6c4c6354668b,,199958,question,description,51142,form,"必须对废弃物堆积进行管控。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 111(5), 112(4), 114(2)(2)</a>",
+69a87732a36b6c4c6354668b,,199958,question,questionText,51142,form,废弃物管控,
+69a87732a36b6c4c6354668c,,199959,question,description,51142,form,"拆除作业期间，必须对被拆建筑结构的状态进行监测。拆卸木质或金属结构前，监督人员必须检查其连接部位，必要时须在拆卸过程中对结构构件进行支撑。在经历恶劣天气、振动或作业中断后，必须重新检查结构稳定性。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section , 111(1, 7), 114(3), 115(3)</a>",
+69a87732a36b6c4c6354668c,,199959,question,questionText,51142,form,检查,
+69a87732a36b6c4c6354668d,,199960,question,description,51142,form,"作业区域内只允许必要的机械操作人员在场，其他人员必须留在危险区域之外。抓取作业期间，人员必须保持在危险区域之外。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 115(4), 117(6), 118(7)</a>",
+69a87732a36b6c4c6354668d,,199960,question,questionText,51142,form,人员准入管控,
+69a87732a36b6c4c6354668e,,199961,question,description,51142,form,"称职且合格的拆除操作人员必须具备完成相关任务所需的身体、心理及专业能力，且其资质须符合安全设备操作的要求。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 5(4)</a>",
+69a87732a36b6c4c6354668e,,199961,question,questionText,51142,form,合格人员,
+69a87732a36b6c4c6354668f,,199962,question,questionText,51142,form,<div></div>,

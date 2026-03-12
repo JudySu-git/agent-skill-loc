@@ -1,0 +1,1471 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5f722fb72900004836ddeac5,5defc42c350000f7bf557e4b,28136,questionGroup,questionGroupText,28136,form,Avetta PQF - Modern Slavery Country Sourcing
+5df18d6c360000fe2d588621,5df18d6c360000fe2d588620,28183,questionGroup,questionGroupText,28136,form,Algeria
+5f722c69290000ff8e0a15de,5df28a31340000fe2dfdf03f,28187,questionGroup,questionGroupText,28136,form,Goods/Services
+5df3b9e5330000eb4995c244,5df3b9e5330000eb4995c243,28188,questionGroup,questionGroupText,28136,form,Angola
+5df3b9ff3400009d4b0ac6f8,5df3b9ff3400009d4b0ac6f7,28189,questionGroup,questionGroupText,28136,form,Benin
+5df3bc213400009d4b0afa6f,5df3bc213400009d4b0afa6e,28190,questionGroup,questionGroupText,28136,form,Botswana
+5df3bcc93400009d4b0afa77,5df3bcc93400009d4b0afa76,28191,questionGroup,questionGroupText,28136,form,Burkina Faso
+5df3be0b350000fecba1db78,5df3be0b350000fecba1db77,28192,questionGroup,questionGroupText,28136,form,Burundi
+5df3bea4370000fe2dc9b14d,5df3bea4370000fe2dc9b14c,28193,questionGroup,questionGroupText,28136,form,Cameroon
+5df3bf6d370000fe2dc9b1d4,5df3bf6d370000fe2dc9b1d3,28194,questionGroup,questionGroupText,28136,form,Cape Verde
+5df3bfea330000eb4995fad8,5df3bfea330000eb4995fad7,28195,questionGroup,questionGroupText,28136,form,Central African Republic
+5df3c0a0370000fe2dc9b1de,5df3c0a0370000fe2dc9b1dd,28196,questionGroup,questionGroupText,28136,form,Chad
+5df3c0fb330000eb4995fae1,5df3c0fb330000eb4995fae0,28197,questionGroup,questionGroupText,28136,form,Congo
+5df3c4563400009d4b0afa93,5df3c4563400009d4b0afa92,28198,questionGroup,questionGroupText,28136,form,Côte d'Ivoire
+5df3c4bc330000eb4995faea,5df3c4bc330000eb4995fae9,28199,questionGroup,questionGroupText,28136,form,Democratic Republic of the Congo
+5df3c50b3400009d4b0afa9b,5df3c50b3400009d4b0afa9a,28200,questionGroup,questionGroupText,28136,form,Djibouti
+5df3c71d330000eb4995faf0,5df3c71d330000eb4995faef,28201,questionGroup,questionGroupText,28136,form,Egypt
+5df3c78c350000fecba1db92,5df3c78c350000fecba1db91,28202,questionGroup,questionGroupText,28136,form,Equatorial Guinea
+5df3c7f0330000eb4995faf8,5df3c7f0330000eb4995faf7,28203,questionGroup,questionGroupText,28136,form,Eritrea
+5df3c867330000eb4995fafd,5df3c867330000eb4995fafc,28204,questionGroup,questionGroupText,28136,form,Ethiopia
+5df3c8dd370000fe2dc9b201,5df3c8dd370000fe2dc9b200,28205,questionGroup,questionGroupText,28136,form,Gabon
+5df3d3ff370000fe2dc9b2b8,5df3d3ff370000fe2dc9b2b7,28206,questionGroup,questionGroupText,28136,form,Gambia
+5df3d478330000eb4995fb78,5df3d478330000eb4995fb77,28207,questionGroup,questionGroupText,28136,form,Ghana
+5df3d48d350000fecba1dbaa,5df3d48d350000fecba1dba9,28208,questionGroup,questionGroupText,28136,form,Guinea
+5df3d497350000fecba1dbac,5df3d497350000fecba1dbab,28209,questionGroup,questionGroupText,28136,form,Guinea-Bissau
+5df3d4a0350000fecba1dbae,5df3d4a0350000fecba1dbad,28210,questionGroup,questionGroupText,28136,form,Kenya
+5df3d4a2370000fe2dc9b2c0,5df3d4a2370000fe2dc9b2bf,28211,questionGroup,questionGroupText,28136,form,Lesotho
+5df3d4c83400009d4b0afac7,5df3d4c83400009d4b0afac6,28212,questionGroup,questionGroupText,28136,form,Liberia
+5df3d4ca370000fe2dc9b2c3,5df3d4ca370000fe2dc9b2c2,28213,questionGroup,questionGroupText,28136,form,Libya
+5df3d4cc350000fecba1dbb4,5df3d4cc350000fecba1dbb3,28214,questionGroup,questionGroupText,28136,form,Madagascar
+5df3d4ce330000eb4995fb82,5df3d4ce330000eb4995fb81,28215,questionGroup,questionGroupText,28136,form,Malawi
+5df3d5013400009d4b0afaca,5df3d5013400009d4b0afac9,28216,questionGroup,questionGroupText,28136,form,Mali
+5df3d504370000fe2dc9b2c8,5df3d504370000fe2dc9b2c7,28217,questionGroup,questionGroupText,28136,form,Mauritania
+5df3d506350000fecba1dbb8,5df3d506350000fecba1dbb7,28218,questionGroup,questionGroupText,28136,form,Mauritius
+5df3d520370000fe2dc9b2cb,5df3d520370000fe2dc9b2ca,28219,questionGroup,questionGroupText,28136,form,Morocco
+5df3d526350000fecba1dbbb,5df3d526350000fecba1dbba,28220,questionGroup,questionGroupText,28136,form,Mozambique
+5df3d528350000fecba1dbbd,5df3d528350000fecba1dbbc,28221,questionGroup,questionGroupText,28136,form,Namibia
+5df3d540330000eb4995fb8c,5df3d540330000eb4995fb8b,28222,questionGroup,questionGroupText,28136,form,Niger
+5df3d5423400009d4b0afad1,5df3d5423400009d4b0afad0,28223,questionGroup,questionGroupText,28136,form,Nigeria
+5df3d5443400009d4b0afad3,5df3d5443400009d4b0afad2,28224,questionGroup,questionGroupText,28136,form,Rwanda
+5df3d546370000fe2dc9b2d1,5df3d546370000fe2dc9b2d0,28225,questionGroup,questionGroupText,28136,form,Senegal
+5df3d57e3400009d4b0afad6,5df3d57e3400009d4b0afad5,28226,questionGroup,questionGroupText,28136,form,Sierra Leone
+5df3d5823400009d4b0afad8,5df3d5823400009d4b0afad7,28227,questionGroup,questionGroupText,28136,form,Somalia
+5df3d584370000fe2dc9b2d5,5df3d584370000fe2dc9b2d4,28228,questionGroup,questionGroupText,28136,form,South Africa
+5df3d586350000fecba1dbc7,5df3d586350000fecba1dbc6,28229,questionGroup,questionGroupText,28136,form,South Sudan
+5df3d5c5370000fe2dc9b2d9,5df3d5c5370000fe2dc9b2d8,28230,questionGroup,questionGroupText,28136,form,Sudan
+5df3d5c7350000fecba1dbcc,5df3d5c7350000fecba1dbcb,28231,questionGroup,questionGroupText,28136,form,Swaziland
+5df3d5ca330000eb4995fb94,5df3d5ca330000eb4995fb93,28232,questionGroup,questionGroupText,28136,form,Tanzania
+5df3d5cc3400009d4b0afadf,5df3d5cc3400009d4b0afade,28233,questionGroup,questionGroupText,28136,form,Togo
+5df3d5d0370000fe2dc9b2dc,5df3d5d0370000fe2dc9b2db,28234,questionGroup,questionGroupText,28136,form,Tunisia
+5df3d5d2350000fecba1dbcf,5df3d5d2350000fecba1dbce,28235,questionGroup,questionGroupText,28136,form,Uganda
+5df3d5d4330000eb4995fb97,5df3d5d4330000eb4995fb96,28236,questionGroup,questionGroupText,28136,form,Zambia
+5df3d604350000fecba1dbd2,5df3d604350000fecba1dbd1,28237,questionGroup,questionGroupText,28136,form,Zimbabwe
+5df7dbd6370000fecbacaeb4,5df7dbd6370000fecbacaeb3,28240,questionGroup,questionGroupText,28136,form,Barbados
+5df7dbdb330000c041ad4cbc,5df7dbdb330000c041ad4cbb,28241,questionGroup,questionGroupText,28136,form,Bolivia
+5df7dc85360000fe2db09425,5df7dc85360000fe2db09424,28242,questionGroup,questionGroupText,28136,form,Brazil
+5df7dcd634000063ca4694e6,5df7dcd634000063ca4694e5,28243,questionGroup,questionGroupText,28136,form,Canada
+5df7dceb360000fe2db0a8a3,5df7dceb360000fe2db0a8a2,28244,questionGroup,questionGroupText,28136,form,Chile
+5df7dcfb34000063ca469abd,5df7dcfb34000063ca469abc,28245,questionGroup,questionGroupText,28136,form,Colombia
+5df7dd12370000fecbacde3d,5df7dd12370000fecbacde3c,28246,questionGroup,questionGroupText,28136,form,Costa Rica
+5df7dd28360000fe2db0aef1,5df7dd28360000fe2db0aef0,28247,questionGroup,questionGroupText,28136,form,Cuba
+5df7de02370000fecbacfa2d,5df7de02370000fecbacfa2c,28248,questionGroup,questionGroupText,28136,form,Dominican Republic
+5df7e06c34000063ca46e9e8,5df7e06c34000063ca46e9e7,28249,questionGroup,questionGroupText,28136,form,Ecuador
+5df7e07d370000fecbad4d53,5df7e07d370000fecbad4d52,28250,questionGroup,questionGroupText,28136,form,El Salvador
+5df7e090370000fecbad51fd,5df7e090370000fecbad51fc,28251,questionGroup,questionGroupText,28136,form,Guatemala
+5df7e0a2360000fe2db11761,5df7e0a2360000fe2db11760,28252,questionGroup,questionGroupText,28136,form,Guyana
+5df7e0b5330000c041adffdf,5df7e0b5330000c041adffde,28253,questionGroup,questionGroupText,28136,form,Haiti
+5df7e109330000c041ae0d78,5df7e109330000c041ae0d77,28254,questionGroup,questionGroupText,28136,form,Honduras
+5df7e117360000fe2db12b91,5df7e117360000fe2db12b90,28255,questionGroup,questionGroupText,28136,form,Jamaica
+5df7e129330000c041ae148e,5df7e129330000c041ae148d,28256,questionGroup,questionGroupText,28136,form,Mexico
+5df7e139370000fecbad6b65,5df7e139370000fecbad6b64,28257,questionGroup,questionGroupText,28136,form,Nicaragua
+5df7e1a7360000fe2db142d5,5df7e1a7360000fe2db142d4,28258,questionGroup,questionGroupText,28136,form,Panama
+5df7e1b334000063ca4712b9,5df7e1b334000063ca4712b8,28259,questionGroup,questionGroupText,28136,form,Paraguay
+5df7e1cb34000063ca4713f3,5df7e1cb34000063ca4713f2,28260,questionGroup,questionGroupText,28136,form,Peru
+5df7e1dd34000063ca47163e,5df7e1dd34000063ca47163d,28261,questionGroup,questionGroupText,28136,form,Suriname
+5df7e1ef330000c041ae348d,5df7e1ef330000c041ae348c,28262,questionGroup,questionGroupText,28136,form,Trinidad and Tobago
+5df7e1fb370000fecbad863b,5df7e1fb370000fecbad863a,28263,questionGroup,questionGroupText,28136,form,Uruguay
+5df7e208370000fecbad871c,5df7e208370000fecbad871b,28264,questionGroup,questionGroupText,28136,form,Venezuela
+5df7ef8a360000fe2db30f40,5df7ef8a360000fe2db30f3f,28269,questionGroup,questionGroupText,28136,form,Albania
+5df7ef9d370000fecbaf4afb,5df7ef9d370000fecbaf4afa,28270,questionGroup,questionGroupText,28136,form,Armenia
+5df7efaa370000fecbaf4efa,5df7efaa370000fecbaf4ef9,28271,questionGroup,questionGroupText,28136,form,Austria
+5df7efba330000c041b02917,5df7efba330000c041b02916,28272,questionGroup,questionGroupText,28136,form,Azerbaijan
+5df7efcb34000063ca486c80,5df7efcb34000063ca486c7f,28273,questionGroup,questionGroupText,28136,form,Belarus
+5df7efd8330000c041b02b22,5df7efd8330000c041b02b21,28274,questionGroup,questionGroupText,28136,form,Belgium
+5df7efe734000063ca486e03,5df7efe734000063ca486e02,28275,questionGroup,questionGroupText,28136,form,Bosnia and Herzegovina
+5df7f003370000fecbaf6085,5df7f003370000fecbaf6084,28276,questionGroup,questionGroupText,28136,form,Bulgaria
+5df7f01934000063ca487598,5df7f01934000063ca487597,28277,questionGroup,questionGroupText,28136,form,Croatia
+5df7f081330000c041b045a3,5df7f081330000c041b045a2,28278,questionGroup,questionGroupText,28136,form,Cyprus
+5df7f08d330000c041b04867,5df7f08d330000c041b04866,28279,questionGroup,questionGroupText,28136,form,Czech Republic
+5df7f0a0330000c041b04c24,5df7f0a0330000c041b04c23,28280,questionGroup,questionGroupText,28136,form,Denmark
+5df7f0c034000063ca48857d,5df7f0c034000063ca48857c,28281,questionGroup,questionGroupText,28136,form,Estonia
+5df7f0cf330000c041b0530c,5df7f0cf330000c041b0530b,28282,questionGroup,questionGroupText,28136,form,Finland
+5df7f0dd330000c041b0540f,5df7f0dd330000c041b0540e,28283,questionGroup,questionGroupText,28136,form,France
+5f7229d1290000ff8e0a1489,5df7f0f3370000fecbaf809f,28284,questionGroup,questionGroupText,28136,form,Georgia
+5df7f10a360000fe2db33640,5df7f10a360000fe2db3363f,28285,questionGroup,questionGroupText,28136,form,Greece
+5df7f11b360000fe2db337b2,5df7f11b360000fe2db337b1,28286,questionGroup,questionGroupText,28136,form,Ireland
+5df7f12734000063ca488f43,5df7f12734000063ca488f42,28287,questionGroup,questionGroupText,28136,form,Israel
+5df7f13634000063ca488fd8,5df7f13634000063ca488fd7,28288,questionGroup,questionGroupText,28136,form,Italy
+5df7f145330000c041b06596,5df7f145330000c041b06595,28289,questionGroup,questionGroupText,28136,form,Kazakhstan
+5df7f156370000fecbaf8d05,5df7f156370000fecbaf8d04,28290,questionGroup,questionGroupText,28136,form,Kosovo
+5df7f19234000063ca48974a,5df7f19234000063ca489749,28291,questionGroup,questionGroupText,28136,form,Kyrgyzstan
+5df7f1a4330000c041b070f5,5df7f1a4330000c041b070f4,28292,questionGroup,questionGroupText,28136,form,Latvia
+5df7f1b2370000fecbaf99a8,5df7f1b2370000fecbaf99a7,28293,questionGroup,questionGroupText,28136,form,Lithuania
+5df7f1c0330000c041b07402,5df7f1c0330000c041b07401,28294,questionGroup,questionGroupText,28136,form,Luxembourg
+5df7f1cf34000063ca489c50,5df7f1cf34000063ca489c4f,28295,questionGroup,questionGroupText,28136,form,Macedonia
+5df7f209360000fe2db3604a,5df7f209360000fe2db36049,28296,questionGroup,questionGroupText,28136,form,Moldova
+5df7f218360000fe2db3635f,5df7f218360000fe2db3635e,28297,questionGroup,questionGroupText,28136,form,Montenegro
+5df7f227360000fe2db365b3,5df7f227360000fe2db365b2,28298,questionGroup,questionGroupText,28136,form,Netherlands
+5df7f236370000fecbafb195,5df7f236370000fecbafb194,28299,questionGroup,questionGroupText,28136,form,Norway
+5df7f244330000c041b08717,5df7f244330000c041b08716,28300,questionGroup,questionGroupText,28136,form,Poland
+5df7f252360000fe2db36b93,5df7f252360000fe2db36b92,28301,questionGroup,questionGroupText,28136,form,Portugal
+5df7f266330000c041b08d6a,5df7f266330000c041b08d69,28302,questionGroup,questionGroupText,28136,form,Romania
+5df7f28c360000fe2db373e8,5df7f28c360000fe2db373e7,28303,questionGroup,questionGroupText,28136,form,Russian Federation
+5df7f2a9330000c041b098e1,5df7f2a9330000c041b098e0,28304,questionGroup,questionGroupText,28136,form,Slovakia
+5df7f2b534000063ca48b9c2,5df7f2b534000063ca48b9c1,28305,questionGroup,questionGroupText,28136,form,Slovenia
+5df7f2c5370000fecbafc65b,5df7f2c5370000fecbafc65a,28306,questionGroup,questionGroupText,28136,form,Sweden
+5df7f2d334000063ca48bc34,5df7f2d334000063ca48bc33,28307,questionGroup,questionGroupText,28136,form,Switzerland
+5df7f2e3330000c041b0a30c,5df7f2e3330000c041b0a30b,28308,questionGroup,questionGroupText,28136,form,Tajikistan
+5df7f2f4360000fe2db38143,5df7f2f4360000fe2db38142,28309,questionGroup,questionGroupText,28136,form,Turkey
+5df7f300370000fecbafcd45,5df7f300370000fecbafcd44,28310,questionGroup,questionGroupText,28136,form,Turkmenistan
+5df7f310360000fe2db38209,5df7f310360000fe2db38208,28311,questionGroup,questionGroupText,28136,form,Ukraine
+5df7f32034000063ca48c38c,5df7f32034000063ca48c38b,28312,questionGroup,questionGroupText,28136,form,Uzbekistan
+5df7f3e9370000fecbafeb4b,5df7f3e9370000fecbafeb4a,28313,questionGroup,questionGroupText,28136,form,Bahrain
+5df7f40334000063ca48d787,5df7f40334000063ca48d786,28314,questionGroup,questionGroupText,28136,form,Iraq
+5df7f415330000c041b0c779,5df7f415330000c041b0c778,28315,questionGroup,questionGroupText,28136,form,Jordan
+5df7f431370000fecbaffa2d,5df7f431370000fecbaffa2c,28316,questionGroup,questionGroupText,28136,form,Kuwait
+5df7f43f360000fe2db3a21e,5df7f43f360000fe2db3a21d,28317,questionGroup,questionGroupText,28136,form,Lebanon
+5df7f457360000fe2db3a49b,5df7f457360000fe2db3a49a,28318,questionGroup,questionGroupText,28136,form,Oman
+5df7f466360000fe2db3a612,5df7f466360000fe2db3a611,28319,questionGroup,questionGroupText,28136,form,Qatar
+5df7f473360000fe2db3a744,5df7f473360000fe2db3a743,28320,questionGroup,questionGroupText,28136,form,Saudi Arabia
+5df7f488370000fecbb0097f,5df7f488370000fecbb0097e,28321,questionGroup,questionGroupText,28136,form,Syrian Arab Republic
+5df7f49b360000fe2db3ae5e,5df7f49b360000fe2db3ae5d,28322,questionGroup,questionGroupText,28136,form,United Arab Emirates
+5df7f4ab34000063ca48e8b2,5df7f4ab34000063ca48e8b1,28323,questionGroup,questionGroupText,28136,form,Yemen
+5df7f92a370000fecbb0a9b3,5df7f92a370000fecbb0a9b2,28324,questionGroup,questionGroupText,28136,form,Afghanistan
+5df7f93f360000fe2db44edd,5df7f93f360000fe2db44edc,28325,questionGroup,questionGroupText,28136,form,Australia
+5df7f95234000063ca495f56,5df7f95234000063ca495f55,28326,questionGroup,questionGroupText,28136,form,Bangladesh
+5df7f965370000fecbb0b540,5df7f965370000fecbb0b53f,28327,questionGroup,questionGroupText,28136,form,Brunei Darussalam
+5df7f973360000fe2db452b2,5df7f973360000fe2db452b1,28328,questionGroup,questionGroupText,28136,form,Cambodia
+5df7f984330000c041b19359,5df7f984330000c041b19358,28329,questionGroup,questionGroupText,28136,form,China
+5df7f9a3330000c041b196ef,5df7f9a3330000c041b196ee,28330,questionGroup,questionGroupText,28136,form,"Hong Kong, China"
+5df7f9b9330000c041b1977a,5df7f9b9330000c041b19779,28331,questionGroup,questionGroupText,28136,form,India
+5df7f9c834000063ca4967e7,5df7f9c834000063ca4967e6,28332,questionGroup,questionGroupText,28136,form,Indonesia
+5df7f9d8360000fe2db45abb,5df7f9d8360000fe2db45aba,28333,questionGroup,questionGroupText,28136,form,Iran
+5df7f9ee34000063ca496bd3,5df7f9ee34000063ca496bd2,28334,questionGroup,questionGroupText,28136,form,Japan
+5df7fa07330000c041b1a2ef,5df7fa07330000c041b1a2ee,28335,questionGroup,questionGroupText,28136,form,Malaysia
+5df7fa19330000c041b1a4f7,5df7fa19330000c041b1a4f6,28336,questionGroup,questionGroupText,28136,form,Mongolia
+5df7fa28360000fe2db460f2,5df7fa28360000fe2db460f1,28337,questionGroup,questionGroupText,28136,form,Myanmar
+5df7fa39360000fe2db463f9,5df7fa39360000fe2db463f8,28338,questionGroup,questionGroupText,28136,form,Nepal
+5df7fa5d370000fecbb0d477,5df7fa5d370000fecbb0d476,28339,questionGroup,questionGroupText,28136,form,New Zealand
+5df7fbf834000063ca4992c0,5df7fbf834000063ca4992bf,28340,questionGroup,questionGroupText,28136,form,North Korea
+5df7fc0434000063ca49984c,5df7fc0434000063ca49984b,28341,questionGroup,questionGroupText,28136,form,Pakistan
+5df7fc2934000063ca4999db,5df7fc2934000063ca4999da,28342,questionGroup,questionGroupText,28136,form,Papua New Guinea
+5df7fc48330000c041b1eed4,5df7fc48330000c041b1eed3,28343,questionGroup,questionGroupText,28136,form,People's Democratic Republic Lao
+5df7fc59330000c041b1f19c,5df7fc59330000c041b1f19b,28344,questionGroup,questionGroupText,28136,form,Philippines
+5df7fdde34000063ca49c2ca,5df7fdde34000063ca49c2c9,28345,questionGroup,questionGroupText,28136,form,Singapore
+5df7fdef34000063ca49c633,5df7fdef34000063ca49c632,28346,questionGroup,questionGroupText,28136,form,South Korea
+5df7fe0d34000063ca49c7bd,5df7fe0d34000063ca49c7bc,28347,questionGroup,questionGroupText,28136,form,Sri Lanka
+5df7fe1e360000fe2db4e8e1,5df7fe1e360000fe2db4e8e0,28348,questionGroup,questionGroupText,28136,form,"Taiwan, China"
+5df7fe3634000063ca49ca26,5df7fe3634000063ca49ca25,28349,questionGroup,questionGroupText,28136,form,Thailand
+5df7fe4434000063ca49cab0,5df7fe4434000063ca49caaf,28350,questionGroup,questionGroupText,28136,form,Timor-Leste
+5df7fe5334000063ca49ce20,5df7fe5334000063ca49ce1f,28351,questionGroup,questionGroupText,28136,form,Viet Nam
+5f7229c42900004836dde87e,5f7229c42900004836dde87d,31863,questionGroup,questionGroupText,28136,form,Germany
+5f722a662b000043c3ba61d0,5f722a662b000043c3ba61cf,31864,questionGroup,questionGroupText,28136,form,United Kingdom
+5f722b802b000048367a68c0,5f722b802b000048367a68bf,31865,questionGroup,questionGroupText,28136,form,USA
+5df181fc380000c04170aaf0,,89436,question,description,28136,form,Country: India\nPurchase: Polished marble\nSourced In House?  Yes  ☐ No  ☒\nAgent used? Yes  ☒ No  ☐\n
+5df181fc380000c04170aaf0,,89436,question,questionText,28136,form,"When providing services to clients, it is possible that Goods/Services may be sourced or produced  domestically and potentially international.  \n\n*As you select each of the countries you source Goods/Services from, you’ll be required to confirm the type of Good/Service & Sourcing Arrangement, see example below. *"
+5df18322360000fe2d570ed4,,89437,question,questionText,28136,form,Arab States
+5df18322360000fe2d570ed4,,89437,question,responseOption1,28136,form,Bahrain
+5df18322360000fe2d570ed4,,89437,question,responseOption10,28136,form,United Arab Emirates
+5df18322360000fe2d570ed4,,89437,question,responseOption11,28136,form,Yemen
+5df18322360000fe2d570ed4,,89437,question,responseOption2,28136,form,Iraq
+5df18322360000fe2d570ed4,,89437,question,responseOption3,28136,form,Jordan
+5df18322360000fe2d570ed4,,89437,question,responseOption4,28136,form,Kuwait
+5df18322360000fe2d570ed4,,89437,question,responseOption5,28136,form,Lebanon
+5df18322360000fe2d570ed4,,89437,question,responseOption6,28136,form,Oman
+5df18322360000fe2d570ed4,,89437,question,responseOption7,28136,form,Qatar
+5df18322360000fe2d570ed4,,89437,question,responseOption8,28136,form,Saudi Arabia
+5df18322360000fe2d570ed4,,89437,question,responseOption9,28136,form,Syrian Arab Republic
+5df199003700009d4b3b6441,,89438,question,questionText,28136,form,Goods/Services Sourced
+5df199143700009d4b3b74f4,,89439,question,questionText,28136,form,Sourced In House? 
+5df199143700009d4b3b74f4,,89439,question,responseOption1,28136,form,Yes
+5df199143700009d4b3b74f4,,89439,question,responseOption2,28136,form,No
+5df1997c370000c041cc982c,,89440,question,questionText,28136,form,Agent Used?
+5df1997c370000c041cc982c,,89440,question,responseOption1,28136,form,Yes
+5df1997c370000c041cc982c,,89440,question,responseOption2,28136,form,No
+5df28638360000eb495d1369,,89477,question,questionText,28136,form,Africa
+5df28638360000eb495d1369,,89477,question,responseOption1,28136,form,Algeria
+5df28638360000eb495d1369,,89477,question,responseOption10,28136,form,Chad
+5df28638360000eb495d1369,,89477,question,responseOption11,28136,form,Congo
+5df28638360000eb495d1369,,89477,question,responseOption12,28136,form,Côte d'Ivoire
+5df28638360000eb495d1369,,89477,question,responseOption13,28136,form,Democratic Republic of the Congo
+5df28638360000eb495d1369,,89477,question,responseOption14,28136,form,Djibouti
+5df28638360000eb495d1369,,89477,question,responseOption15,28136,form,Egypt
+5df28638360000eb495d1369,,89477,question,responseOption16,28136,form,Equatorial Guinea
+5df28638360000eb495d1369,,89477,question,responseOption17,28136,form,Eritrea
+5df28638360000eb495d1369,,89477,question,responseOption18,28136,form,Ethiopia
+5df28638360000eb495d1369,,89477,question,responseOption19,28136,form,Gabon
+5df28638360000eb495d1369,,89477,question,responseOption2,28136,form,Angola
+5df28638360000eb495d1369,,89477,question,responseOption20,28136,form,Gambia
+5df28638360000eb495d1369,,89477,question,responseOption21,28136,form,Ghana
+5df28638360000eb495d1369,,89477,question,responseOption22,28136,form,Guinea
+5df28638360000eb495d1369,,89477,question,responseOption23,28136,form,Guinea-Bissau
+5df28638360000eb495d1369,,89477,question,responseOption24,28136,form,Kenya
+5df28638360000eb495d1369,,89477,question,responseOption25,28136,form,Lesotho
+5df28638360000eb495d1369,,89477,question,responseOption26,28136,form,Liberia
+5df28638360000eb495d1369,,89477,question,responseOption27,28136,form,Libya
+5df28638360000eb495d1369,,89477,question,responseOption28,28136,form,Madagascar
+5df28638360000eb495d1369,,89477,question,responseOption29,28136,form,Malawi
+5df28638360000eb495d1369,,89477,question,responseOption3,28136,form,Benin
+5df28638360000eb495d1369,,89477,question,responseOption30,28136,form,Mali
+5df28638360000eb495d1369,,89477,question,responseOption31,28136,form,Mauritania
+5df28638360000eb495d1369,,89477,question,responseOption32,28136,form,Mauritius
+5df28638360000eb495d1369,,89477,question,responseOption33,28136,form,Morocco
+5df28638360000eb495d1369,,89477,question,responseOption34,28136,form,Mozambique
+5df28638360000eb495d1369,,89477,question,responseOption35,28136,form,Namibia
+5df28638360000eb495d1369,,89477,question,responseOption36,28136,form,Niger
+5df28638360000eb495d1369,,89477,question,responseOption37,28136,form,Nigeria
+5df28638360000eb495d1369,,89477,question,responseOption38,28136,form,Rwanda
+5df28638360000eb495d1369,,89477,question,responseOption39,28136,form,Senegal
+5df28638360000eb495d1369,,89477,question,responseOption4,28136,form,Botswana
+5df28638360000eb495d1369,,89477,question,responseOption40,28136,form,Sierra Leone
+5df28638360000eb495d1369,,89477,question,responseOption41,28136,form,Somalia
+5df28638360000eb495d1369,,89477,question,responseOption42,28136,form,South Africa
+5df28638360000eb495d1369,,89477,question,responseOption43,28136,form,South Sudan
+5df28638360000eb495d1369,,89477,question,responseOption44,28136,form,Sudan
+5df28638360000eb495d1369,,89477,question,responseOption45,28136,form,Swaziland
+5df28638360000eb495d1369,,89477,question,responseOption46,28136,form,Tanzania
+5df28638360000eb495d1369,,89477,question,responseOption47,28136,form,Togo
+5df28638360000eb495d1369,,89477,question,responseOption48,28136,form,Tunisia
+5df28638360000eb495d1369,,89477,question,responseOption49,28136,form,Uganda
+5df28638360000eb495d1369,,89477,question,responseOption5,28136,form,Burkina Faso
+5df28638360000eb495d1369,,89477,question,responseOption50,28136,form,Zambia
+5df28638360000eb495d1369,,89477,question,responseOption51,28136,form,Zimbabwe
+5df28638360000eb495d1369,,89477,question,responseOption6,28136,form,Burundi
+5df28638360000eb495d1369,,89477,question,responseOption7,28136,form,Cameroon
+5df28638360000eb495d1369,,89477,question,responseOption8,28136,form,Cape Verde
+5df28638360000eb495d1369,,89477,question,responseOption9,28136,form,Central African Republic
+5df2874b3100003655bffc0a,,89478,question,questionText,28136,form,Asia and the Pacific
+5df2874b3100003655bffc0a,,89478,question,responseOption1,28136,form,Afghanistan
+5df2874b3100003655bffc0a,,89478,question,responseOption10,28136,form,Iran
+5df2874b3100003655bffc0a,,89478,question,responseOption11,28136,form,Japan
+5df2874b3100003655bffc0a,,89478,question,responseOption12,28136,form,Malaysia
+5df2874b3100003655bffc0a,,89478,question,responseOption13,28136,form,Mongolia
+5df2874b3100003655bffc0a,,89478,question,responseOption14,28136,form,Myanmar
+5df2874b3100003655bffc0a,,89478,question,responseOption15,28136,form,Nepal
+5df2874b3100003655bffc0a,,89478,question,responseOption16,28136,form,New Zealand
+5df2874b3100003655bffc0a,,89478,question,responseOption17,28136,form,North Korea
+5df2874b3100003655bffc0a,,89478,question,responseOption18,28136,form,Pakistan
+5df2874b3100003655bffc0a,,89478,question,responseOption19,28136,form,Papua New Guinea
+5df2874b3100003655bffc0a,,89478,question,responseOption2,28136,form,Australia
+5df2874b3100003655bffc0a,,89478,question,responseOption20,28136,form,People's Democratic Republic Lao
+5df2874b3100003655bffc0a,,89478,question,responseOption21,28136,form,Philippines
+5df2874b3100003655bffc0a,,89478,question,responseOption22,28136,form,Singapore
+5df2874b3100003655bffc0a,,89478,question,responseOption23,28136,form,South Korea
+5df2874b3100003655bffc0a,,89478,question,responseOption24,28136,form,Sri Lanka
+5df2874b3100003655bffc0a,,89478,question,responseOption25,28136,form,"Taiwan, China"
+5df2874b3100003655bffc0a,,89478,question,responseOption26,28136,form,Thailand
+5df2874b3100003655bffc0a,,89478,question,responseOption27,28136,form,Timor-Leste
+5df2874b3100003655bffc0a,,89478,question,responseOption28,28136,form,Viet Nam
+5df2874b3100003655bffc0a,,89478,question,responseOption3,28136,form,Bangladesh
+5df2874b3100003655bffc0a,,89478,question,responseOption4,28136,form,Brunei Darussalam
+5df2874b3100003655bffc0a,,89478,question,responseOption5,28136,form,Cambodia
+5df2874b3100003655bffc0a,,89478,question,responseOption6,28136,form,China
+5df2874b3100003655bffc0a,,89478,question,responseOption7,28136,form,"Hong Kong, China"
+5df2874b3100003655bffc0a,,89478,question,responseOption8,28136,form,India
+5df2874b3100003655bffc0a,,89478,question,responseOption9,28136,form,Indonesia
+5df287b93700009d4be7a11d,,89479,question,questionText,28136,form,Americas
+5df287b93700009d4be7a11d,,89479,question,responseOption1,28136,form,Barbados
+5df287b93700009d4be7a11d,,89479,question,responseOption10,28136,form,Ecuador
+5df287b93700009d4be7a11d,,89479,question,responseOption11,28136,form,El Salvador
+5df287b93700009d4be7a11d,,89479,question,responseOption12,28136,form,Guatemala
+5df287b93700009d4be7a11d,,89479,question,responseOption13,28136,form,Guyana
+5df287b93700009d4be7a11d,,89479,question,responseOption14,28136,form,Haiti
+5df287b93700009d4be7a11d,,89479,question,responseOption15,28136,form,Honduras
+5df287b93700009d4be7a11d,,89479,question,responseOption16,28136,form,Jamaica
+5df287b93700009d4be7a11d,,89479,question,responseOption17,28136,form,Mexico
+5df287b93700009d4be7a11d,,89479,question,responseOption18,28136,form,Nicaragua
+5df287b93700009d4be7a11d,,89479,question,responseOption19,28136,form,Panama
+5df287b93700009d4be7a11d,,89479,question,responseOption2,28136,form,Bolivia
+5df287b93700009d4be7a11d,,89479,question,responseOption20,28136,form,Paraguay
+5df287b93700009d4be7a11d,,89479,question,responseOption21,28136,form,Peru
+5df287b93700009d4be7a11d,,89479,question,responseOption22,28136,form,Suriname
+5df287b93700009d4be7a11d,,89479,question,responseOption23,28136,form,Trinidad and Tobago
+5df287b93700009d4be7a11d,,89479,question,responseOption24,28136,form,Uruguay
+5df287b93700009d4be7a11d,,89479,question,responseOption25,28136,form,Venezuela
+5df287b93700009d4be7a11d,,89479,question,responseOption26,28136,form,USA
+5df287b93700009d4be7a11d,,89479,question,responseOption3,28136,form,Brazil
+5df287b93700009d4be7a11d,,89479,question,responseOption4,28136,form,Canada
+5df287b93700009d4be7a11d,,89479,question,responseOption5,28136,form,Chile
+5df287b93700009d4be7a11d,,89479,question,responseOption6,28136,form,Colombia
+5df287b93700009d4be7a11d,,89479,question,responseOption7,28136,form,Costa Rica
+5df287b93700009d4be7a11d,,89479,question,responseOption8,28136,form,Cuba
+5df287b93700009d4be7a11d,,89479,question,responseOption9,28136,form,Dominican Republic
+5df2881b3100003655bffcaf,,89480,question,questionText,28136,form,Europe and Central Asia
+5df2881b3100003655bffcaf,,89480,question,responseOption1,28136,form,Albania
+5df2881b3100003655bffcaf,,89480,question,responseOption10,28136,form,Cyprus
+5df2881b3100003655bffcaf,,89480,question,responseOption11,28136,form,Czech Republic
+5df2881b3100003655bffcaf,,89480,question,responseOption12,28136,form,Denmark
+5df2881b3100003655bffcaf,,89480,question,responseOption13,28136,form,Estonia
+5df2881b3100003655bffcaf,,89480,question,responseOption14,28136,form,Finland
+5df2881b3100003655bffcaf,,89480,question,responseOption15,28136,form,France
+5df2881b3100003655bffcaf,,89480,question,responseOption16,28136,form,Georgia
+5df2881b3100003655bffcaf,,89480,question,responseOption17,28136,form,Greece
+5df2881b3100003655bffcaf,,89480,question,responseOption18,28136,form,Ireland
+5df2881b3100003655bffcaf,,89480,question,responseOption19,28136,form,Israel
+5df2881b3100003655bffcaf,,89480,question,responseOption2,28136,form,Armenia
+5df2881b3100003655bffcaf,,89480,question,responseOption20,28136,form,Italy
+5df2881b3100003655bffcaf,,89480,question,responseOption21,28136,form,Kazakhstan
+5df2881b3100003655bffcaf,,89480,question,responseOption22,28136,form,Kosovo
+5df2881b3100003655bffcaf,,89480,question,responseOption23,28136,form,Kyrgyzstan
+5df2881b3100003655bffcaf,,89480,question,responseOption24,28136,form,Latvia
+5df2881b3100003655bffcaf,,89480,question,responseOption25,28136,form,Lithuania
+5df2881b3100003655bffcaf,,89480,question,responseOption26,28136,form,Luxembourg
+5df2881b3100003655bffcaf,,89480,question,responseOption27,28136,form,Macedonia
+5df2881b3100003655bffcaf,,89480,question,responseOption28,28136,form,Moldova
+5df2881b3100003655bffcaf,,89480,question,responseOption29,28136,form,Montenegro
+5df2881b3100003655bffcaf,,89480,question,responseOption3,28136,form,Austria
+5df2881b3100003655bffcaf,,89480,question,responseOption30,28136,form,Netherlands
+5df2881b3100003655bffcaf,,89480,question,responseOption31,28136,form,Norway
+5df2881b3100003655bffcaf,,89480,question,responseOption32,28136,form,Poland
+5df2881b3100003655bffcaf,,89480,question,responseOption33,28136,form,Portugal
+5df2881b3100003655bffcaf,,89480,question,responseOption34,28136,form,Romania
+5df2881b3100003655bffcaf,,89480,question,responseOption35,28136,form,Russian Federation
+5df2881b3100003655bffcaf,,89480,question,responseOption36,28136,form,Slovakia
+5df2881b3100003655bffcaf,,89480,question,responseOption37,28136,form,Slovenia
+5df2881b3100003655bffcaf,,89480,question,responseOption38,28136,form,Sweden
+5df2881b3100003655bffcaf,,89480,question,responseOption39,28136,form,Switzerland
+5df2881b3100003655bffcaf,,89480,question,responseOption4,28136,form,Azerbaijan
+5df2881b3100003655bffcaf,,89480,question,responseOption40,28136,form,Tajikistan
+5df2881b3100003655bffcaf,,89480,question,responseOption41,28136,form,Turkey
+5df2881b3100003655bffcaf,,89480,question,responseOption42,28136,form,Turkmenistan
+5df2881b3100003655bffcaf,,89480,question,responseOption43,28136,form,Ukraine
+5df2881b3100003655bffcaf,,89480,question,responseOption44,28136,form,Uzbekistan
+5df2881b3100003655bffcaf,,89480,question,responseOption45,28136,form,Germany
+5df2881b3100003655bffcaf,,89480,question,responseOption46,28136,form,United Kingdom
+5df2881b3100003655bffcaf,,89480,question,responseOption5,28136,form,Belarus
+5df2881b3100003655bffcaf,,89480,question,responseOption6,28136,form,Belgium
+5df2881b3100003655bffcaf,,89480,question,responseOption7,28136,form,Bosnia and Herzegovina
+5df2881b3100003655bffcaf,,89480,question,responseOption8,28136,form,Bulgaria
+5df2881b3100003655bffcaf,,89480,question,responseOption9,28136,form,Croatia
+5df3ba0d330000eb4995c245,,89544,question,questionText,28136,form,Goods/Services Sourced
+5df3ba55350000fecba19ff6,,89545,question,questionText,28136,form,Sourced In House?
+5df3ba55350000fecba19ff6,,89545,question,responseOption1,28136,form,Yes
+5df3ba55350000fecba19ff6,,89545,question,responseOption2,28136,form,No
+5df3ba8e370000fe2dc98c64,,89546,question,questionText,28136,form,Agent Used?
+5df3ba8e370000fe2dc98c64,,89546,question,responseOption1,28136,form,Yes
+5df3ba8e370000fe2dc98c64,,89546,question,responseOption2,28136,form,No
+5df3bb6b350000fecba1ae78,,89547,question,questionText,28136,form,Goods/Services Sourced
+5df3bb77350000fecba1b178,,89548,question,questionText,28136,form,Sourced In House?
+5df3bb77350000fecba1b178,,89548,question,responseOption1,28136,form,Yes
+5df3bb77350000fecba1b178,,89548,question,responseOption2,28136,form,No
+5df3bb853400009d4b0ad3e8,,89549,question,questionText,28136,form,Agent Used?
+5df3bb853400009d4b0ad3e8,,89549,question,responseOption1,28136,form,Yes
+5df3bb853400009d4b0ad3e8,,89549,question,responseOption2,28136,form,No
+5df3bc31350000fecba1db67,,89550,question,questionText,28136,form,Goods/Services Sourced
+5df3bc3d330000eb4995f960,,89551,question,questionText,28136,form,Sourced In House?
+5df3bc3d330000eb4995f960,,89551,question,responseOption1,28136,form,Yes
+5df3bc3d330000eb4995f960,,89551,question,responseOption2,28136,form,No
+5df3bc56330000eb4995f961,,89552,question,questionText,28136,form,Agent Used?
+5df3bc56330000eb4995f961,,89552,question,responseOption1,28136,form,Yes
+5df3bc56330000eb4995f961,,89552,question,responseOption2,28136,form,No
+5df3bcdb350000fecba1db6e,,89554,question,questionText,28136,form,Goods/Services Sourced
+5df3bce5350000fecba1db6f,,89555,question,questionText,28136,form,Sourced In House?
+5df3bce5350000fecba1db6f,,89555,question,responseOption1,28136,form,Yes
+5df3bce5350000fecba1db6f,,89555,question,responseOption2,28136,form,No
+5df3bcf5350000fecba1db70,,89556,question,questionText,28136,form,Agent Used?
+5df3bcf5350000fecba1db70,,89556,question,responseOption1,28136,form,Yes
+5df3bcf5350000fecba1db70,,89556,question,responseOption2,28136,form,No
+5df3be1a330000eb4995fa44,,89558,question,questionText,28136,form,Goods/Services Sourced
+5df3be26330000eb4995fa45,,89559,question,questionText,28136,form,Sourced In House?
+5df3be26330000eb4995fa45,,89559,question,responseOption1,28136,form,Yes
+5df3be26330000eb4995fa45,,89559,question,responseOption2,28136,form,No
+5df3be653400009d4b0afa85,,89562,question,questionText,28136,form,Agent Used?
+5df3be653400009d4b0afa85,,89562,question,responseOption1,28136,form,Yes
+5df3be653400009d4b0afa85,,89562,question,responseOption2,28136,form,No
+5df3beb7370000fe2dc9b190,,89563,question,questionText,28136,form,Goods/Services Sourced
+5df3bec8350000fecba1db7e,,89564,question,questionText,28136,form,Sourced In House?
+5df3bec8350000fecba1db7e,,89564,question,responseOption1,28136,form,Yes
+5df3bec8350000fecba1db7e,,89564,question,responseOption2,28136,form,No
+5df3beda350000fecba1db7f,,89565,question,questionText,28136,form,Agent Used?
+5df3beda350000fecba1db7f,,89565,question,responseOption1,28136,form,Yes
+5df3beda350000fecba1db7f,,89565,question,responseOption2,28136,form,No
+5df3bf7d370000fe2dc9b1d5,,89566,question,questionText,28136,form,Goods/Services Sourced
+5df3bf89370000fe2dc9b1d6,,89567,question,questionText,28136,form,Sourced In House?
+5df3bf89370000fe2dc9b1d6,,89567,question,responseOption1,28136,form,Yes
+5df3bf89370000fe2dc9b1d6,,89567,question,responseOption2,28136,form,No
+5df3bf9b370000fe2dc9b1d7,,89568,question,questionText,28136,form,Agent Used?
+5df3bf9b370000fe2dc9b1d7,,89568,question,responseOption1,28136,form,Yes
+5df3bf9b370000fe2dc9b1d7,,89568,question,responseOption2,28136,form,No
+5df3bffa330000eb4995fad9,,89569,question,questionText,28136,form,Goods/Services Sourced
+5df3c033330000eb4995fada,,89570,question,questionText,28136,form,Sourced In House?
+5df3c033330000eb4995fada,,89570,question,responseOption1,28136,form,Yes
+5df3c033330000eb4995fada,,89570,question,responseOption2,28136,form,No
+5df3c053330000eb4995fadb,,89571,question,questionText,28136,form,Agent Used?
+5df3c053330000eb4995fadb,,89571,question,responseOption1,28136,form,Yes
+5df3c053330000eb4995fadb,,89571,question,responseOption2,28136,form,No
+5df3c0af370000fe2dc9b1df,,89572,question,questionText,28136,form,Goods/Services Sourced
+5df3c0bc370000fe2dc9b1e0,,89573,question,questionText,28136,form,Sourced In House?
+5df3c0bc370000fe2dc9b1e0,,89573,question,responseOption1,28136,form,Yes
+5df3c0bc370000fe2dc9b1e0,,89573,question,responseOption2,28136,form,No
+5df3c0c8370000fe2dc9b1e1,,89574,question,questionText,28136,form,Agent Used?
+5df3c0c8370000fe2dc9b1e1,,89574,question,responseOption1,28136,form,Yes
+5df3c0c8370000fe2dc9b1e1,,89574,question,responseOption2,28136,form,No
+5df3c10a330000eb4995fae2,,89575,question,questionText,28136,form,Goods/Services Sourced
+5df3c115330000eb4995fae3,,89576,question,questionText,28136,form,Sourced In House?
+5df3c115330000eb4995fae3,,89576,question,responseOption1,28136,form,Yes
+5df3c115330000eb4995fae3,,89576,question,responseOption2,28136,form,No
+5df3c12a330000eb4995fae4,,89577,question,questionText,28136,form,Agent Used?
+5df3c12a330000eb4995fae4,,89577,question,responseOption1,28136,form,Yes
+5df3c12a330000eb4995fae4,,89577,question,responseOption2,28136,form,No
+5df3c472330000eb4995fae6,,89579,question,questionText,28136,form,Goods/Services Sourced
+5df3c47d330000eb4995fae7,,89580,question,questionText,28136,form,Sourced In House?
+5df3c47d330000eb4995fae7,,89580,question,responseOption1,28136,form,Yes
+5df3c47d330000eb4995fae7,,89580,question,responseOption2,28136,form,No
+5df3c491330000eb4995fae8,,89581,question,questionText,28136,form,Agent Used?
+5df3c491330000eb4995fae8,,89581,question,responseOption1,28136,form,Yes
+5df3c491330000eb4995fae8,,89581,question,responseOption2,28136,form,No
+5df3c4ca370000fe2dc9b1eb,,89583,question,questionText,28136,form,Goods/Services Sourced
+5df3c4d6370000fe2dc9b1ec,,89584,question,questionText,28136,form,Sourced In House?
+5df3c4d6370000fe2dc9b1ec,,89584,question,responseOption1,28136,form,Yes
+5df3c4d6370000fe2dc9b1ec,,89584,question,responseOption2,28136,form,No
+5df3c4e4370000fe2dc9b1ed,,89585,question,questionText,28136,form,Agent Used?
+5df3c4e4370000fe2dc9b1ed,,89585,question,responseOption1,28136,form,Yes
+5df3c4e4370000fe2dc9b1ed,,89585,question,responseOption2,28136,form,No
+5df3c51d3400009d4b0afa9c,,89586,question,questionText,28136,form,Goods/Services Sourced
+5df3c5263400009d4b0afa9d,,89587,question,questionText,28136,form,Sourced In House?
+5df3c5263400009d4b0afa9d,,89587,question,responseOption1,28136,form,Yes
+5df3c5263400009d4b0afa9d,,89587,question,responseOption2,28136,form,No
+5df3c53a3400009d4b0afa9e,,89588,question,questionText,28136,form,Agent Used?
+5df3c53a3400009d4b0afa9e,,89588,question,responseOption1,28136,form,Yes
+5df3c53a3400009d4b0afa9e,,89588,question,responseOption2,28136,form,No
+5df3c734330000eb4995faf1,,89589,question,questionText,28136,form,Goods/Services Sourced
+5df3c73c330000eb4995faf2,,89590,question,questionText,28136,form,Sourced In House?
+5df3c73c330000eb4995faf2,,89590,question,responseOption1,28136,form,Yes
+5df3c73c330000eb4995faf2,,89590,question,responseOption2,28136,form,No
+5df3c74e330000eb4995faf3,,89591,question,questionText,28136,form,Agent Used?
+5df3c74e330000eb4995faf3,,89591,question,responseOption1,28136,form,Yes
+5df3c74e330000eb4995faf3,,89591,question,responseOption2,28136,form,No
+5df3c79b350000fecba1db93,,89592,question,questionText,28136,form,Goods/Services Sourced
+5df3c7a4370000fe2dc9b1f6,,89593,question,questionText,28136,form,Sourced In House?
+5df3c7a4370000fe2dc9b1f6,,89593,question,responseOption1,28136,form,Yes
+5df3c7a4370000fe2dc9b1f6,,89593,question,responseOption2,28136,form,No
+5df3c7c2370000fe2dc9b1f7,,89594,question,questionText,28136,form,Agent Used?
+5df3c7c2370000fe2dc9b1f7,,89594,question,responseOption1,28136,form,Yes
+5df3c7c2370000fe2dc9b1f7,,89594,question,responseOption2,28136,form,No
+5df3c801330000eb4995faf9,,89595,question,questionText,28136,form,Goods/Services Sourced
+5df3c80b330000eb4995fafa,,89596,question,questionText,28136,form,Sourced In House?
+5df3c80b330000eb4995fafa,,89596,question,responseOption1,28136,form,Yes
+5df3c80b330000eb4995fafa,,89596,question,responseOption2,28136,form,No
+5df3c81c330000eb4995fafb,,89597,question,questionText,28136,form,Agent Used?
+5df3c81c330000eb4995fafb,,89597,question,responseOption1,28136,form,Yes
+5df3c81c330000eb4995fafb,,89597,question,responseOption2,28136,form,No
+5df3c890330000eb4995fafe,,89598,question,questionText,28136,form,Goods/Services Sourced
+5df3c89f330000eb4995faff,,89599,question,questionText,28136,form,Sourced In House?
+5df3c89f330000eb4995faff,,89599,question,responseOption1,28136,form,Yes
+5df3c89f330000eb4995faff,,89599,question,responseOption2,28136,form,No
+5df3c8ac330000eb4995fb00,,89600,question,questionText,28136,form,Agent Used?
+5df3c8ac330000eb4995fb00,,89600,question,responseOption1,28136,form,Yes
+5df3c8ac330000eb4995fb00,,89600,question,responseOption2,28136,form,No
+5df3c8eb370000fe2dc9b202,,89601,question,questionText,28136,form,Goods/Services Sourced
+5df3c8f5370000fe2dc9b203,,89602,question,questionText,28136,form,Sourced In House?
+5df3c8f5370000fe2dc9b203,,89602,question,responseOption1,28136,form,Yes
+5df3c8f5370000fe2dc9b203,,89602,question,responseOption2,28136,form,No
+5df3c902370000fe2dc9b204,,89603,question,questionText,28136,form,Agent Used?
+5df3c902370000fe2dc9b204,,89603,question,responseOption1,28136,form,Yes
+5df3c902370000fe2dc9b204,,89603,question,responseOption2,28136,form,No
+5df3d40d370000fe2dc9b2b9,,89611,question,questionText,28136,form,Goods/Services Sourced
+5df3d4173400009d4b0afabe,,89612,question,questionText,28136,form,Sourced In House?
+5df3d4173400009d4b0afabe,,89612,question,responseOption1,28136,form,Yes
+5df3d4173400009d4b0afabe,,89612,question,responseOption2,28136,form,No
+5df3d427350000fecba1dba7,,89614,question,questionText,28136,form,Agent Used?
+5df3d427350000fecba1dba7,,89614,question,responseOption1,28136,form,Yes
+5df3d427350000fecba1dba7,,89614,question,responseOption2,28136,form,No
+5df40f5c360000fecbd15556,,89654,question,questionText,28136,form,Goods/Services Sourced
+5df40f67350000fecb34aaa1,,89655,question,questionText,28136,form,Sourced In House?
+5df40f67350000fecb34aaa1,,89655,question,responseOption1,28136,form,Yes
+5df40f67350000fecb34aaa1,,89655,question,responseOption2,28136,form,No
+5df40f74350000fecb34aaa2,,89656,question,questionText,28136,form,Agent Used?
+5df40f74350000fecb34aaa2,,89656,question,responseOption1,28136,form,Yes
+5df40f74350000fecb34aaa2,,89656,question,responseOption2,28136,form,No
+5df40f9a3600003655af999c,,89657,question,questionText,28136,form,Goods/Services Sourced
+5df40fb4360000fecb2a2964,,89658,question,questionText,28136,form,Sourced In House?
+5df40fb4360000fecb2a2964,,89658,question,responseOption1,28136,form,Yes
+5df40fb4360000fecb2a2964,,89658,question,responseOption2,28136,form,No
+5df40fcb360000fecb2a298f,,89659,question,questionText,28136,form,Agent Used?
+5df40fcb360000fecb2a298f,,89659,question,responseOption1,28136,form,Yes
+5df40fcb360000fecb2a298f,,89659,question,responseOption2,28136,form,No
+5df40fee360000fecb2a29b9,,89660,question,questionText,28136,form,Goods/Services Sourced
+5df40ff73600003655af9ff6,,89661,question,questionText,28136,form,Sourced In House?
+5df40ff73600003655af9ff6,,89661,question,responseOption1,28136,form,Yes
+5df40ff73600003655af9ff6,,89661,question,responseOption2,28136,form,No
+5df410033600003655af9ff7,,89662,question,questionText,28136,form,Agent Used?
+5df410033600003655af9ff7,,89662,question,responseOption1,28136,form,Yes
+5df410033600003655af9ff7,,89662,question,responseOption2,28136,form,No
+5df4102c360000fecb2a3d15,,89663,question,questionText,28136,form,Goods/Services Sourced
+5df410353600003655afa90c,,89664,question,questionText,28136,form,Sourced In House?
+5df410353600003655afa90c,,89664,question,responseOption1,28136,form,Yes
+5df410353600003655afa90c,,89664,question,responseOption2,28136,form,No
+5df410423600003655afa90d,,89665,question,questionText,28136,form,Agent Used?
+5df410423600003655afa90d,,89665,question,responseOption1,28136,form,Yes
+5df410423600003655afa90d,,89665,question,responseOption2,28136,form,No
+5df410583600003655afa90f,,89666,question,questionText,28136,form,Goods/Services Sourced
+5df4107b360000fecb2a507f,,89667,question,questionText,28136,form,Sourced In House?
+5df4107b360000fecb2a507f,,89667,question,responseOption1,28136,form,Yes
+5df4107b360000fecb2a507f,,89667,question,responseOption2,28136,form,No
+5df41087350000fecb34ba55,,89668,question,questionText,28136,form,Agent Used?
+5df41087350000fecb34ba55,,89668,question,responseOption1,28136,form,Yes
+5df41087350000fecb34ba55,,89668,question,responseOption2,28136,form,No
+5df410b73600003655afd934,,89669,question,questionText,28136,form,Goods/Services Sourced
+5df410c1350000fecb34cde2,,89670,question,questionText,28136,form,Sourced In House?
+5df410c1350000fecb34cde2,,89670,question,responseOption1,28136,form,Yes
+5df410c1350000fecb34cde2,,89670,question,responseOption2,28136,form,No
+5df410ce3600003655afd935,,89671,question,questionText,28136,form,Agent Used?
+5df410ce3600003655afd935,,89671,question,responseOption1,28136,form,Yes
+5df410ce3600003655afd935,,89671,question,responseOption2,28136,form,No
+5df41155350000fecb34e10c,,89672,question,questionText,28136,form,Goods/Services Sourced
+5df4115e360000fecb2a8078,,89673,question,questionText,28136,form,Sourced In House?
+5df4115e360000fecb2a8078,,89673,question,responseOption1,28136,form,Yes
+5df4115e360000fecb2a8078,,89673,question,responseOption2,28136,form,No
+5df4116b350000fecb34e7cd,,89674,question,questionText,28136,form,Agent Used?
+5df4116b350000fecb34e7cd,,89674,question,responseOption1,28136,form,Yes
+5df4116b350000fecb34e7cd,,89674,question,responseOption2,28136,form,No
+5df4118d3600003655b002f0,,89675,question,questionText,28136,form,Goods/Services Sourced
+5df411963600003655b0048b,,89676,question,questionText,28136,form,Sourced In House?
+5df411963600003655b0048b,,89676,question,responseOption1,28136,form,Yes
+5df411963600003655b0048b,,89676,question,responseOption2,28136,form,No
+5df411a3360000fecbd1c1d0,,89677,question,questionText,28136,form,Agent Used?
+5df411a3360000fecbd1c1d0,,89677,question,responseOption1,28136,form,Yes
+5df411a3360000fecbd1c1d0,,89677,question,responseOption2,28136,form,No
+5df411c8360000fecb2a8179,,89678,question,questionText,28136,form,Goods/Services Sourced
+5df411d0360000fecb2a817b,,89679,question,questionText,28136,form,Sourced In House?
+5df411d0360000fecb2a817b,,89679,question,responseOption1,28136,form,Yes
+5df411d0360000fecb2a817b,,89679,question,responseOption2,28136,form,No
+5df411dc360000fecb2a817c,,89680,question,questionText,28136,form,Agent Used?
+5df411dc360000fecb2a817c,,89680,question,responseOption1,28136,form,Yes
+5df411dc360000fecb2a817c,,89680,question,responseOption2,28136,form,No
+5df411ff360000fecbd1ce64,,89681,question,questionText,28136,form,Goods/Services Sourced
+5df411ff360000fecbd1ce64,,89681,question,responseOption1,28136,form,Yes
+5df411ff360000fecbd1ce64,,89681,question,responseOption2,28136,form,No
+5df4120f3600003655b01837,,89682,question,questionText,28136,form,Sourced In House?
+5df4120f3600003655b01837,,89682,question,responseOption1,28136,form,Yes
+5df4120f3600003655b01837,,89682,question,responseOption2,28136,form,No
+5df4121d360000fecbd1d7a9,,89683,question,questionText,28136,form,Agent Used?
+5df4121d360000fecbd1d7a9,,89683,question,responseOption1,28136,form,Yes
+5df4121d360000fecbd1d7a9,,89683,question,responseOption2,28136,form,No
+5df413b1360000fecb2ae762,,89684,question,questionText,28136,form,Goods/Services Sourced
+5df413b9360000fecb2aecb8,,89685,question,questionText,28136,form,Sourced In House?
+5df413b9360000fecb2aecb8,,89685,question,responseOption1,28136,form,Yes
+5df413b9360000fecb2aecb8,,89685,question,responseOption2,28136,form,No
+5df413c73600003655b063d8,,89686,question,questionText,28136,form,Agent Used?
+5df413c73600003655b063d8,,89686,question,responseOption1,28136,form,Yes
+5df413c73600003655b063d8,,89686,question,responseOption2,28136,form,No
+5df413f3360000fecb2af706,,89687,question,questionText,28136,form,Goods/Services Sourced
+5df41401360000fecb2af751,,89688,question,questionText,28136,form,Sourced In House?
+5df41401360000fecb2af751,,89688,question,responseOption1,28136,form,Yes
+5df41401360000fecb2af751,,89688,question,responseOption2,28136,form,No
+5df414133600003655b07d60,,89689,question,questionText,28136,form,Agent Used?
+5df414133600003655b07d60,,89689,question,responseOption1,28136,form,Yes
+5df414133600003655b07d60,,89689,question,responseOption2,28136,form,No
+5df4143a360000fecbd23a81,,89690,question,questionText,28136,form,Goods/Services Sourced
+5df4144d3600003655b0888d,,89691,question,questionText,28136,form,Sourced In House?
+5df4144d3600003655b0888d,,89691,question,responseOption1,28136,form,Yes
+5df4144d3600003655b0888d,,89691,question,responseOption2,28136,form,No
+5df4145c3600003655b08c98,,89692,question,questionText,28136,form,Agent Used?
+5df4145c3600003655b08c98,,89692,question,responseOption1,28136,form,Yes
+5df4145c3600003655b08c98,,89692,question,responseOption2,28136,form,No
+5df4147a360000fecb2b01e8,,89693,question,questionText,28136,form,Goods/Services Sourced
+5df41484360000fecb2b01e9,,89694,question,questionText,28136,form,Sourced In House?
+5df41484360000fecb2b01e9,,89694,question,responseOption1,28136,form,Yes
+5df41484360000fecb2b01e9,,89694,question,responseOption2,28136,form,No
+5df4148e350000fecb354b90,,89695,question,questionText,28136,form,Agent Used?
+5df4148e350000fecb354b90,,89695,question,responseOption1,28136,form,Yes
+5df4148e350000fecb354b90,,89695,question,responseOption2,28136,form,No
+5df414ac360000fecbd23e32,,89696,question,questionText,28136,form,Goods/Services Sourced
+5df414b7360000fecb2b173a,,89697,question,questionText,28136,form,Sourced In House?
+5df414b7360000fecb2b173a,,89697,question,responseOption1,28136,form,Yes
+5df414b7360000fecb2b173a,,89697,question,responseOption2,28136,form,No
+5df414c2350000fecb35505b,,89698,question,questionText,28136,form,Agent Used?
+5df414c2350000fecb35505b,,89698,question,responseOption1,28136,form,Yes
+5df414c2350000fecb35505b,,89698,question,responseOption2,28136,form,No
+5df414e3360000fecb2b1e9a,,89699,question,questionText,28136,form,Goods/Services Sourced
+5df414fb360000fecbd257b0,,89700,question,questionText,28136,form,Sourced In House?
+5df414fb360000fecbd257b0,,89700,question,responseOption1,28136,form,Yes
+5df414fb360000fecbd257b0,,89700,question,responseOption2,28136,form,No
+5df415073600003655b0a975,,89701,question,questionText,28136,form,Agent Used?
+5df415073600003655b0a975,,89701,question,responseOption1,28136,form,Yes
+5df415073600003655b0a975,,89701,question,responseOption2,28136,form,No
+5df41529360000fecb2b296c,,89702,question,questionText,28136,form,Goods/Services Sourced
+5df41531360000fecb2b296d,,89703,question,questionText,28136,form,Sourced In House?
+5df41531360000fecb2b296d,,89703,question,responseOption1,28136,form,Yes
+5df41531360000fecb2b296d,,89703,question,responseOption2,28136,form,No
+5df4153c360000fecbd25d11,,89704,question,questionText,28136,form,Agent Used?
+5df4153c360000fecbd25d11,,89704,question,responseOption1,28136,form,Yes
+5df4153c360000fecbd25d11,,89704,question,responseOption2,28136,form,No
+5df4156c350000fecb35622b,,89705,question,questionText,28136,form,Goods/Services Sourced
+5df41574360000fecb2b29cc,,89706,question,questionText,28136,form,Sourced In House?
+5df41574360000fecb2b29cc,,89706,question,responseOption1,28136,form,Yes
+5df41574360000fecb2b29cc,,89706,question,responseOption2,28136,form,No
+5df4157e350000fecb35622d,,89707,question,questionText,28136,form,Agent Used?
+5df4157e350000fecb35622d,,89707,question,responseOption1,28136,form,Yes
+5df4157e350000fecb35622d,,89707,question,responseOption2,28136,form,No
+5df415b1350000fecb356ba4,,89708,question,questionText,28136,form,Goods/Services Sourced
+5df415b8350000fecb356bb5,,89709,question,questionText,28136,form,Sourced In House?
+5df415b8350000fecb356bb5,,89709,question,responseOption1,28136,form,Yes
+5df415b8350000fecb356bb5,,89709,question,responseOption2,28136,form,No
+5df415c7360000fecbd28269,,89710,question,questionText,28136,form,Agent Used?
+5df415c7360000fecbd28269,,89710,question,responseOption1,28136,form,Yes
+5df415c7360000fecbd28269,,89710,question,responseOption2,28136,form,No
+5df415ec3600003655b0d4a5,,89711,question,questionText,28136,form,Goods/Services Sourced
+5df415f53600003655b0d617,,89712,question,questionText,28136,form,Sourced In House?
+5df415f53600003655b0d617,,89712,question,responseOption1,28136,form,Yes
+5df415f53600003655b0d617,,89712,question,responseOption2,28136,form,No
+5df41601360000fecbd28ee2,,89713,question,questionText,28136,form,Agent Used?
+5df41601360000fecbd28ee2,,89713,question,responseOption1,28136,form,Yes
+5df41601360000fecbd28ee2,,89713,question,responseOption2,28136,form,No
+5df416283600003655b0d9d3,,89714,question,questionText,28136,form,Goods/Services Sourced
+5df416303600003655b0d9d4,,89715,question,questionText,28136,form,Sourced In House?
+5df416303600003655b0d9d4,,89715,question,responseOption1,28136,form,Yes
+5df416303600003655b0d9d4,,89715,question,responseOption2,28136,form,No
+5df4163b360000fecbd2980e,,89716,question,questionText,28136,form,Agent Used?
+5df4163b360000fecbd2980e,,89716,question,responseOption1,28136,form,Yes
+5df4163b360000fecbd2980e,,89716,question,responseOption2,28136,form,No
+5df41659360000fecbd298c4,,89717,question,questionText,28136,form,Goods/Services Sourced
+5df416633600003655b0de93,,89718,question,questionText,28136,form,Sourced In House?
+5df416633600003655b0de93,,89718,question,responseOption1,28136,form,Yes
+5df416633600003655b0de93,,89718,question,responseOption2,28136,form,No
+5df4166e3600003655b0e0db,,89719,question,questionText,28136,form,Agent Used?
+5df4166e3600003655b0e0db,,89719,question,responseOption1,28136,form,Yes
+5df4166e3600003655b0e0db,,89719,question,responseOption2,28136,form,No
+5df4187b350000fecb35a9f9,,89720,question,questionText,28136,form,Goods/Services Sourced
+5df41882350000fecb35aa11,,89721,question,questionText,28136,form,Sourced In House?
+5df41882350000fecb35aa11,,89721,question,responseOption1,28136,form,Yes
+5df41882350000fecb35aa11,,89721,question,responseOption2,28136,form,No
+5df41891350000fecb35aa31,,89722,question,questionText,28136,form,Agent Used?
+5df41891350000fecb35aa31,,89722,question,responseOption1,28136,form,Yes
+5df41891350000fecb35aa31,,89722,question,responseOption2,28136,form,No
+5df418b03600003655b124b0,,89723,question,questionText,28136,form,Goods/Services Sourced
+5df418b83600003655b124b1,,89724,question,questionText,28136,form,Sourced In House?
+5df418b83600003655b124b1,,89724,question,responseOption1,28136,form,Yes
+5df418b83600003655b124b1,,89724,question,responseOption2,28136,form,No
+5df418c5360000fecb2bc4f5,,89725,question,questionText,28136,form,Agent Used?
+5df418c5360000fecb2bc4f5,,89725,question,responseOption1,28136,form,Yes
+5df418c5360000fecb2bc4f5,,89725,question,responseOption2,28136,form,No
+5df418f2360000fecbd2fa81,,89726,question,questionText,28136,form,Goods/Services Sourced
+5df418f93600003655b1467d,,89727,question,questionText,28136,form,Sourced In House?
+5df418f93600003655b1467d,,89727,question,responseOption1,28136,form,Yes
+5df418f93600003655b1467d,,89727,question,responseOption2,28136,form,No
+5df41904350000fecb35b001,,89728,question,questionText,28136,form,Agent Used?
+5df41904350000fecb35b001,,89728,question,responseOption1,28136,form,Yes
+5df41904350000fecb35b001,,89728,question,responseOption2,28136,form,No
+5df4192a360000fecbd2fa85,,89729,question,questionText,28136,form,Goods/Services Sourced
+5df419323600003655b14c5b,,89730,question,questionText,28136,form,Sourced In House?
+5df419323600003655b14c5b,,89730,question,responseOption1,28136,form,Yes
+5df419323600003655b14c5b,,89730,question,responseOption2,28136,form,No
+5df419453600003655b14c5c,,89731,question,questionText,28136,form,Agent Used?
+5df419453600003655b14c5c,,89731,question,responseOption1,28136,form,Yes
+5df419453600003655b14c5c,,89731,question,responseOption2,28136,form,No
+5df419723600003655b14c5d,,89732,question,questionText,28136,form,Goods/Services Sourced
+5df4197c3600003655b14c5e,,89733,question,questionText,28136,form,Sourced In House?
+5df4197c3600003655b14c5e,,89733,question,responseOption1,28136,form,Yes
+5df4197c3600003655b14c5e,,89733,question,responseOption2,28136,form,No
+5df419863600003655b14c5f,,89734,question,questionText,28136,form,Agent Used?
+5df419863600003655b14c5f,,89734,question,responseOption1,28136,form,Yes
+5df419863600003655b14c5f,,89734,question,responseOption2,28136,form,No
+5df419ae350000fecb35dad5,,89735,question,questionText,28136,form,Goods/Services Sourced
+5df419b5360000fecb2bec62,,89736,question,questionText,28136,form,Sourced In House?
+5df419b5360000fecb2bec62,,89736,question,responseOption1,28136,form,Yes
+5df419b5360000fecb2bec62,,89736,question,responseOption2,28136,form,No
+5df419c1360000fecb2bed2b,,89737,question,questionText,28136,form,Agent Used?
+5df419c1360000fecb2bed2b,,89737,question,responseOption1,28136,form,Yes
+5df419c1360000fecb2bed2b,,89737,question,responseOption2,28136,form,No
+5df419e43600003655b14c7e,,89738,question,questionText,28136,form,Goods/Services Sourced
+5df419eb360000fecb2bf257,,89739,question,questionText,28136,form,Sourced In House?
+5df419eb360000fecb2bf257,,89739,question,responseOption1,28136,form,Yes
+5df419eb360000fecb2bf257,,89739,question,responseOption2,28136,form,No
+5df419f6350000fecb35e197,,89740,question,questionText,28136,form,Agent Used?
+5df419f6350000fecb35e197,,89740,question,responseOption1,28136,form,Yes
+5df419f6350000fecb35e197,,89740,question,responseOption2,28136,form,No
+5df41a1f360000fecbd3360a,,89741,question,questionText,28136,form,Goods/Services Sourced
+5df41a26360000fecbd33612,,89742,question,questionText,28136,form,Sourced In House?
+5df41a26360000fecbd33612,,89742,question,responseOption1,28136,form,Yes
+5df41a26360000fecbd33612,,89742,question,responseOption2,28136,form,No
+5df41a343600003655b14c80,,89743,question,questionText,28136,form,Agent Used?
+5df41a343600003655b14c80,,89743,question,responseOption1,28136,form,Yes
+5df41a343600003655b14c80,,89743,question,responseOption2,28136,form,No
+5df41a5d350000fecb35eaa1,,89744,question,questionText,28136,form,Goods/Services Sourced
+5df41a6d350000fecb35eb6d,,89745,question,questionText,28136,form,Sourced In House?
+5df41a6d350000fecb35eb6d,,89745,question,responseOption1,28136,form,Yes
+5df41a6d350000fecb35eb6d,,89745,question,responseOption2,28136,form,No
+5df41a85350000fecb35ed19,,89746,question,questionText,28136,form,Agent Used?
+5df41a85350000fecb35ed19,,89746,question,responseOption1,28136,form,Yes
+5df41a85350000fecb35ed19,,89746,question,responseOption2,28136,form,No
+5df7f4cf370000fecbb01476,,89865,question,questionText,28136,form,Goods/Services Sourced
+5df7f4d9330000c041b0ed34,,89867,question,questionText,28136,form,Sourced In House?
+5df7f4d9330000c041b0ed34,,89867,question,responseOption1,28136,form,Yes
+5df7f4d9330000c041b0ed34,,89867,question,responseOption2,28136,form,No
+5df7f4e6330000c041b0f111,,89869,question,questionText,28136,form,Agent Used?
+5df7f4e6330000c041b0f111,,89869,question,responseOption1,28136,form,Yes
+5df7f4e6330000c041b0f111,,89869,question,responseOption2,28136,form,No
+5df7f5f434000063ca490b82,,89872,question,questionText,28136,form,Goods/Services Sourced
+5df7f5fe330000c041b111af,,89873,question,questionText,28136,form,Sourced In House?
+5df7f5fe330000c041b111af,,89873,question,responseOption1,28136,form,Yes
+5df7f5fe330000c041b111af,,89873,question,responseOption2,28136,form,No
+5df7f60d34000063ca490d75,,89874,question,questionText,28136,form,Agent Used?
+5df7f60d34000063ca490d75,,89874,question,responseOption1,28136,form,Yes
+5df7f60d34000063ca490d75,,89874,question,responseOption2,28136,form,No
+5df7f61c360000fe2db3e7f4,,89875,question,questionText,28136,form,Goods/Services Sourced\n
+5df7f63234000063ca49109b,,89877,question,questionText,28136,form,Goods/Services Sourced
+5df7f636370000fecbb04338,,89878,question,questionText,28136,form,Sourced In House?\n
+5df7f636370000fecbb04338,,89878,question,responseOption1,28136,form,Yes
+5df7f636370000fecbb04338,,89878,question,responseOption2,28136,form,No
+5df7f63a370000fecbb04442,,89880,question,questionText,28136,form,Sourced In House?
+5df7f63a370000fecbb04442,,89880,question,responseOption1,28136,form,Yes
+5df7f63a370000fecbb04442,,89880,question,responseOption2,28136,form,No
+5df7f647370000fecbb04779,,89882,question,questionText,28136,form,Agent Used?
+5df7f647370000fecbb04779,,89882,question,responseOption1,28136,form,Yes
+5df7f647370000fecbb04779,,89882,question,responseOption2,28136,form,No
+5df7f64c360000fe2db3ecd6,,89883,question,questionText,28136,form,Agent Used?
+5df7f64c360000fe2db3ecd6,,89883,question,responseOption1,28136,form,Yes
+5df7f64c360000fe2db3ecd6,,89883,question,responseOption2,28136,form,No
+5df7f684370000fecbb04ff6,,89889,question,questionText,28136,form,Goods/Services Sourced\n
+5df7f695370000fecbb051d4,,89891,question,questionText,28136,form,Sourced In House?\n
+5df7f695370000fecbb051d4,,89891,question,responseOption1,28136,form,Yes
+5df7f695370000fecbb051d4,,89891,question,responseOption2,28136,form,No
+5df7f6a5330000c041b12aa0,,89894,question,questionText,28136,form,Agent Used?\n
+5df7f6a5330000c041b12aa0,,89894,question,responseOption1,28136,form,Yes
+5df7f6a5330000c041b12aa0,,89894,question,responseOption2,28136,form,No
+5df7f72834000063ca492757,,89904,question,questionText,28136,form,Goods/Services Sourced
+5df7f730330000c041b13fa1,,89906,question,questionText,28136,form,Sourced In House?
+5df7f730330000c041b13fa1,,89906,question,responseOption1,28136,form,Yes
+5df7f730330000c041b13fa1,,89906,question,responseOption2,28136,form,No
+5df7f73b330000c041b140ba,,89907,question,questionText,28136,form,Agent Used?
+5df7f73b330000c041b140ba,,89907,question,responseOption1,28136,form,Yes
+5df7f73b330000c041b140ba,,89907,question,responseOption2,28136,form,No
+5df7f75d370000fecbb06bac,,89908,question,questionText,28136,form,Goods/Services Sourced
+5df7f764370000fecbb06c63,,89909,question,questionText,28136,form,Sourced In House?
+5df7f764370000fecbb06c63,,89909,question,responseOption1,28136,form,Yes
+5df7f764370000fecbb06c63,,89909,question,responseOption2,28136,form,No
+5df7f77134000063ca493155,,89910,question,questionText,28136,form,Agent Used?
+5df7f77134000063ca493155,,89910,question,responseOption1,28136,form,Yes
+5df7f77134000063ca493155,,89910,question,responseOption2,28136,form,No
+5df7f791370000fecbb07120,,89911,question,questionText,28136,form,Goods/Services Sourced
+5df7f79934000063ca4936d7,,89912,question,questionText,28136,form,Goods/Services Sourced\n
+5df7f799370000fecbb071f7,,89913,question,questionText,28136,form,Sourced In House?
+5df7f799370000fecbb071f7,,89913,question,responseOption1,28136,form,Yes
+5df7f799370000fecbb071f7,,89913,question,responseOption2,28136,form,No
+5df7f7a4370000fecbb07348,,89914,question,questionText,28136,form,Agent Used?
+5df7f7a4370000fecbb07348,,89914,question,responseOption1,28136,form,Yes
+5df7f7a4370000fecbb07348,,89914,question,responseOption2,28136,form,No
+5df7f7a7330000c041b14e1d,,89915,question,questionText,28136,form,Sourced In House?\n
+5df7f7a7330000c041b14e1d,,89915,question,responseOption1,28136,form,Yes
+5df7f7a7330000c041b14e1d,,89915,question,responseOption2,28136,form,No
+5df7f7b7370000fecbb07575,,89916,question,questionText,28136,form,Agent Used?\n
+5df7f7b7370000fecbb07575,,89916,question,responseOption1,28136,form,Yes
+5df7f7b7370000fecbb07575,,89916,question,responseOption2,28136,form,No
+5df7f7c1360000fe2db420d8,,89917,question,questionText,28136,form,Goods/Services Sourced
+5df7f7c8360000fe2db42239,,89918,question,questionText,28136,form,Sourced In House?
+5df7f7c8360000fe2db42239,,89918,question,responseOption1,28136,form,Yes
+5df7f7c8360000fe2db42239,,89918,question,responseOption2,28136,form,No
+5df7f7d4360000fe2db42408,,89919,question,questionText,28136,form,Agent Used?
+5df7f7d4360000fe2db42408,,89919,question,responseOption1,28136,form,Yes
+5df7f7d4360000fe2db42408,,89919,question,responseOption2,28136,form,No
+5df7f7e4370000fecbb07922,,89920,question,questionText,28136,form,Goods/Services Sourced\n
+5df7f7f134000063ca493ff7,,89921,question,questionText,28136,form,Sourced In House?\n
+5df7f7f134000063ca493ff7,,89921,question,responseOption1,28136,form,Yes
+5df7f7f134000063ca493ff7,,89921,question,responseOption2,28136,form,No
+5df7f7f6360000fe2db428eb,,89922,question,questionText,28136,form,Goods/Services Sourced
+5df7f7fc360000fe2db428f6,,89923,question,questionText,28136,form,Agent Used?\n
+5df7f7fc360000fe2db428f6,,89923,question,responseOption1,28136,form,Yes
+5df7f7fc360000fe2db428f6,,89923,question,responseOption2,28136,form,No
+5df7f800360000fe2db429c0,,89924,question,questionText,28136,form,Sourced In House?
+5df7f800360000fe2db429c0,,89924,question,responseOption1,28136,form,Yes
+5df7f800360000fe2db429c0,,89924,question,responseOption2,28136,form,No
+5df7f80d34000063ca4942fa,,89925,question,questionText,28136,form,Agent Used?
+5df7f80d34000063ca4942fa,,89925,question,responseOption1,28136,form,Yes
+5df7f80d34000063ca4942fa,,89925,question,responseOption2,28136,form,No
+5df7f81a330000c041b15cff,,89926,question,questionText,28136,form,Goods/Services Sourced\n
+5df7f826370000fecbb08460,,89927,question,questionText,28136,form,Sourced In House?\n
+5df7f826370000fecbb08460,,89927,question,responseOption1,28136,form,Yes
+5df7f826370000fecbb08460,,89927,question,responseOption2,28136,form,No
+5df7f83334000063ca494689,,89928,question,questionText,28136,form,Agent Used?\n
+5df7f83334000063ca494689,,89928,question,responseOption1,28136,form,Yes
+5df7f83334000063ca494689,,89928,question,responseOption2,28136,form,No
+5df7f833330000c041b1630c,,89929,question,questionText,28136,form,Goods/Services Sourced
+5df7f83b34000063ca49468a,,89930,question,questionText,28136,form,Sourced In House?
+5df7f83b34000063ca49468a,,89930,question,responseOption1,28136,form,Yes
+5df7f83b34000063ca49468a,,89930,question,responseOption2,28136,form,No
+5df7f846370000fecbb08a98,,89931,question,questionText,28136,form,Goods/Services Sourced\n
+5df7f847330000c041b166d7,,89932,question,questionText,28136,form,Agent Used?
+5df7f847330000c041b166d7,,89932,question,responseOption1,28136,form,Yes
+5df7f847330000c041b166d7,,89932,question,responseOption2,28136,form,No
+5df7f850330000c041b1680d,,89933,question,questionText,28136,form,Sourced In House?\n
+5df7f850330000c041b1680d,,89933,question,responseOption1,28136,form,Yes
+5df7f850330000c041b1680d,,89933,question,responseOption2,28136,form,No
+5df7f85e330000c041b16ab9,,89934,question,questionText,28136,form,Agent Used?\n
+5df7f85e330000c041b16ab9,,89934,question,responseOption1,28136,form,Yes
+5df7f85e330000c041b16ab9,,89934,question,responseOption2,28136,form,No
+5df7f860360000fe2db437b9,,89935,question,questionText,28136,form,Goods/Services Sourced
+5df7f869370000fecbb090bf,,89936,question,questionText,28136,form,Sourced In House?
+5df7f869370000fecbb090bf,,89936,question,responseOption1,28136,form,Yes
+5df7f869370000fecbb090bf,,89936,question,responseOption2,28136,form,No
+5df7f87434000063ca494e4a,,89937,question,questionText,28136,form,Agent Used?
+5df7f87434000063ca494e4a,,89937,question,responseOption1,28136,form,Yes
+5df7f87434000063ca494e4a,,89937,question,responseOption2,28136,form,No
+5df7f88d360000fe2db43e25,,89938,question,questionText,28136,form,Goods/Services Sourced
+5df7f897330000c041b17530,,89939,question,questionText,28136,form,Sourced In House?
+5df7f897330000c041b17530,,89939,question,responseOption1,28136,form,Yes
+5df7f897330000c041b17530,,89939,question,responseOption2,28136,form,No
+5df7f8a6370000fecbb09a42,,89940,question,questionText,28136,form,Agent Used?
+5df7f8a6370000fecbb09a42,,89940,question,responseOption1,28136,form,Yes
+5df7f8a6370000fecbb09a42,,89940,question,responseOption2,28136,form,No
+5df7f8bb360000fe2db44188,,89941,question,questionText,28136,form,Goods/Services Sourced\n
+5df7f8c9360000fe2db44457,,89942,question,questionText,28136,form,Sourced In House?\n
+5df7f8c9360000fe2db44457,,89942,question,responseOption1,28136,form,Yes
+5df7f8c9360000fe2db44457,,89942,question,responseOption2,28136,form,No
+5df7f8d7370000fecbb0a342,,89943,question,questionText,28136,form,Agent Used?\n
+5df7f8d7370000fecbb0a342,,89943,question,responseOption1,28136,form,Yes
+5df7f8d7370000fecbb0a342,,89943,question,responseOption2,28136,form,No
+5df7f8f6360000fe2db448c8,,89944,question,questionText,28136,form,Goods/Services Sourced\n
+5df7f900330000c041b1874a,,89945,question,questionText,28136,form,Sourced In House?\n
+5df7f900330000c041b1874a,,89945,question,responseOption1,28136,form,Yes
+5df7f900330000c041b1874a,,89945,question,responseOption2,28136,form,No
+5df7f90c34000063ca4959b7,,89946,question,questionText,28136,form,Agent Used?\n
+5df7f90c34000063ca4959b7,,89946,question,responseOption1,28136,form,Yes
+5df7f90c34000063ca4959b7,,89946,question,responseOption2,28136,form,No
+5df7f91c360000fe2db44b91,,89947,question,questionText,28136,form,Goods/Services Sourced\n
+5df7f92534000063ca495a12,,89948,question,questionText,28136,form,Sourced In House?\n
+5df7f92534000063ca495a12,,89948,question,responseOption1,28136,form,Yes
+5df7f92534000063ca495a12,,89948,question,responseOption2,28136,form,No
+5df7f933330000c041b18aea,,89949,question,questionText,28136,form,Agent Used?\n
+5df7f933330000c041b18aea,,89949,question,responseOption1,28136,form,Yes
+5df7f933330000c041b18aea,,89949,question,responseOption2,28136,form,No
+5df7f948370000fecbb0ae42,,89950,question,questionText,28136,form,Goods/Services Sourced\n
+5df7f959330000c041b18eeb,,89951,question,questionText,28136,form,Sourced In House?\n
+5df7f959330000c041b18eeb,,89951,question,responseOption1,28136,form,Yes
+5df7f959330000c041b18eeb,,89951,question,responseOption2,28136,form,No
+5df7f96d34000063ca4960d7,,89952,question,questionText,28136,form,Agent Used?\n\n
+5df7f96d34000063ca4960d7,,89952,question,responseOption1,28136,form,Yes
+5df7f96d34000063ca4960d7,,89952,question,responseOption2,28136,form,No
+5df7f9a3370000fecbb0ba2d,,89953,question,questionText,28136,form,Goods/Services Sourced\n
+5df7f9b3360000fe2db457cd,,89954,question,questionText,28136,form,Sourced In House?\n
+5df7f9b3360000fe2db457cd,,89954,question,responseOption1,28136,form,Yes
+5df7f9b3360000fe2db457cd,,89954,question,responseOption2,28136,form,No
+5df7f9c3360000fe2db45a80,,89955,question,questionText,28136,form,Agent Used?\n
+5df7f9c3360000fe2db45a80,,89955,question,responseOption1,28136,form,Yes
+5df7f9c3360000fe2db45a80,,89955,question,responseOption2,28136,form,No
+5df7fa16360000fe2db45f8b,,89956,question,questionText,28136,form,Goods/Services Sourced\n
+5df7fa23360000fe2db460e0,,89957,question,questionText,28136,form,Sourced In House?\n
+5df7fa23360000fe2db460e0,,89957,question,responseOption1,28136,form,Yes
+5df7fa23360000fe2db460e0,,89957,question,responseOption2,28136,form,No
+5df7fa3334000063ca49713f,,89958,question,questionText,28136,form,Agent Used?\n
+5df7fa3334000063ca49713f,,89958,question,responseOption1,28136,form,Yes
+5df7fa3334000063ca49713f,,89958,question,responseOption2,28136,form,No
+5df7faca360000fe2db47c16,,89959,question,questionText,28136,form,Goods/Services Sourced\n
+5df7fad7330000c041b1bda8,,89960,question,questionText,28136,form,Sourced In House?\n
+5df7fad7330000c041b1bda8,,89960,question,responseOption1,28136,form,Yes
+5df7fad7330000c041b1bda8,,89960,question,responseOption2,28136,form,No
+5df7fae5330000c041b1bf9a,,89961,question,questionText,28136,form,Agent Used?\n
+5df7fae5330000c041b1bf9a,,89961,question,responseOption1,28136,form,Yes
+5df7fae5330000c041b1bf9a,,89961,question,responseOption2,28136,form,No
+5df7fb25330000c041b1c707,,89962,question,questionText,28136,form,Goods/Services Sourced\n
+5df7fb34360000fe2db4891b,,89963,question,questionText,28136,form,Sourced In House?\n
+5df7fb34360000fe2db4891b,,89963,question,responseOption1,28136,form,Yes
+5df7fb34360000fe2db4891b,,89963,question,responseOption2,28136,form,No
+5df7fb40330000c041b1ca2f,,89964,question,questionText,28136,form,Agent Used?\n
+5df7fb40330000c041b1ca2f,,89964,question,responseOption1,28136,form,Yes
+5df7fb40330000c041b1ca2f,,89964,question,responseOption2,28136,form,No
+5df7fbb934000063ca4990be,,89965,question,questionText,28136,form,Goods/Services Sourced\n
+5df7fbc5330000c041b1da63,,89966,question,questionText,28136,form,Sourced In House?\n
+5df7fbc5330000c041b1da63,,89966,question,responseOption1,28136,form,Yes
+5df7fbc5330000c041b1da63,,89966,question,responseOption2,28136,form,No
+5df7fbd634000063ca49918d,,89967,question,questionText,28136,form,Agent Used?\n
+5df7fbd634000063ca49918d,,89967,question,responseOption1,28136,form,Yes
+5df7fbd634000063ca49918d,,89967,question,responseOption2,28136,form,No
+5df7fc5c370000fecbb1151e,,89968,question,questionText,28136,form,Goods/Services Sourced\n
+5df7fc6b34000063ca49a207,,89969,question,questionText,28136,form,Sourced In House?\n
+5df7fc6b34000063ca49a207,,89969,question,responseOption1,28136,form,Yes
+5df7fc6b34000063ca49a207,,89969,question,responseOption2,28136,form,No
+5df7fc7834000063ca49a21e,,89970,question,questionText,28136,form,Agent Used?\n
+5df7fc7834000063ca49a21e,,89970,question,responseOption1,28136,form,Yes
+5df7fc7834000063ca49a21e,,89970,question,responseOption2,28136,form,No
+5df7fcc4370000fecbb122ec,,89971,question,questionText,28136,form,Goods/Services Sourced\n
+5df7fcd3360000fe2db4bb2a,,89972,question,questionText,28136,form,Sourced In House?\n
+5df7fcd3360000fe2db4bb2a,,89972,question,responseOption1,28136,form,Yes
+5df7fcd3360000fe2db4bb2a,,89972,question,responseOption2,28136,form,No
+5df7fce2330000c041b20031,,89973,question,questionText,28136,form,Agent Used?\n
+5df7fce2330000c041b20031,,89973,question,responseOption1,28136,form,Yes
+5df7fce2330000c041b20031,,89973,question,responseOption2,28136,form,No
+5df7fdd4330000c041b2263e,,89976,question,questionText,28136,form,Goods/Services Sourced\n
+5df7fde4370000fecbb14f58,,89977,question,questionText,28136,form,Sourced In House?\n
+5df7fde4370000fecbb14f58,,89977,question,responseOption1,28136,form,Yes
+5df7fde4370000fecbb14f58,,89977,question,responseOption2,28136,form,No
+5df7fdf6360000fe2db4e5c3,,89978,question,questionText,28136,form,Agent Used?\n
+5df7fdf6360000fe2db4e5c3,,89978,question,responseOption1,28136,form,Yes
+5df7fdf6360000fe2db4e5c3,,89978,question,responseOption2,28136,form,No
+5df7fe67370000fecbb15f1a,,89979,question,questionText,28136,form,Goods/Services Sourced
+5df7fe7d370000fecbb16414,,89980,question,questionText,28136,form,Sourced In House?
+5df7fe7d370000fecbb16414,,89980,question,responseOption1,28136,form,Yes
+5df7fe7d370000fecbb16414,,89980,question,responseOption2,28136,form,No
+5df7fe88370000fecbb1663d,,89981,question,questionText,28136,form,Agent Used?
+5df7fe88370000fecbb1663d,,89981,question,responseOption1,28136,form,Yes
+5df7fe88370000fecbb1663d,,89981,question,responseOption2,28136,form,No
+5df7feb534000063ca49da97,,89982,question,questionText,28136,form,Goods/Services Sourced
+5df7febc34000063ca49dbbe,,89983,question,questionText,28136,form,Sourced In House?
+5df7febc34000063ca49dbbe,,89983,question,responseOption1,28136,form,Yes
+5df7febc34000063ca49dbbe,,89983,question,responseOption2,28136,form,No
+5df7fec7330000c041b24887,,89984,question,questionText,28136,form,Agent Used?
+5df7fec7330000c041b24887,,89984,question,responseOption1,28136,form,Yes
+5df7fec7330000c041b24887,,89984,question,responseOption2,28136,form,No
+5df7fee0360000fe2db501cd,,89985,question,questionText,28136,form,Goods/Services Sourced
+5df7fee9360000fe2db5043c,,89986,question,questionText,28136,form,Sourced In House?
+5df7fee9360000fe2db5043c,,89986,question,responseOption1,28136,form,Yes
+5df7fee9360000fe2db5043c,,89986,question,responseOption2,28136,form,No
+5df7fef4330000c041b251bd,,89987,question,questionText,28136,form,Agent Used?
+5df7fef4330000c041b251bd,,89987,question,responseOption1,28136,form,Yes
+5df7fef4330000c041b251bd,,89987,question,responseOption2,28136,form,No
+5df7ff0e360000fe2db50c4a,,89989,question,questionText,28136,form,Goods/Services Sourced
+5df7ff10330000c041b257c9,,89990,question,questionText,28136,form,Goods/Services Sourced\n
+5df7ff16370000fecbb1767b,,89991,question,questionText,28136,form,Sourced In House?
+5df7ff16370000fecbb1767b,,89991,question,responseOption1,28136,form,Yes
+5df7ff16370000fecbb1767b,,89991,question,responseOption2,28136,form,No
+5df7ff1d34000063ca49e83b,,89992,question,questionText,28136,form,Sourced In House?\n
+5df7ff1d34000063ca49e83b,,89992,question,responseOption1,28136,form,Yes
+5df7ff1d34000063ca49e83b,,89992,question,responseOption2,28136,form,No
+5df7ff21330000c041b25a79,,89993,question,questionText,28136,form,Agent Used?
+5df7ff21330000c041b25a79,,89993,question,responseOption1,28136,form,Yes
+5df7ff21330000c041b25a79,,89993,question,responseOption2,28136,form,No
+5df7ff2934000063ca49e9a5,,89994,question,questionText,28136,form,Agent Used?\n
+5df7ff2934000063ca49e9a5,,89994,question,responseOption1,28136,form,Yes
+5df7ff2934000063ca49e9a5,,89994,question,responseOption2,28136,form,No
+5df7ff3e370000fecbb17b23,,89995,question,questionText,28136,form,Goods/Services Sourced
+5df7ff4b34000063ca49ed2c,,89996,question,questionText,28136,form,Sourced In House?
+5df7ff4b34000063ca49ed2c,,89996,question,responseOption1,28136,form,Yes
+5df7ff4b34000063ca49ed2c,,89996,question,responseOption2,28136,form,No
+5df7ff55360000fe2db518d4,,89997,question,questionText,28136,form,Agent Used?
+5df7ff55360000fe2db518d4,,89997,question,responseOption1,28136,form,Yes
+5df7ff55360000fe2db518d4,,89997,question,responseOption2,28136,form,No
+5df7ff6f34000063ca49ef72,,89998,question,questionText,28136,form,Goods/Services Sourced
+5df7ff78330000c041b26a64,,89999,question,questionText,28136,form,Sourced In House?
+5df7ff78330000c041b26a64,,89999,question,responseOption1,28136,form,Yes
+5df7ff78330000c041b26a64,,89999,question,responseOption2,28136,form,No
+5df7ff84370000fecbb18a26,,90000,question,questionText,28136,form,Agent Used?
+5df7ff84370000fecbb18a26,,90000,question,responseOption1,28136,form,Yes
+5df7ff84370000fecbb18a26,,90000,question,responseOption2,28136,form,No
+5df7ffac370000fecbb190b7,,90001,question,questionText,28136,form,Goods/Services Sourced
+5df7ffb4370000fecbb19290,,90002,question,questionText,28136,form,Sourced In House?
+5df7ffb4370000fecbb19290,,90002,question,responseOption1,28136,form,Yes
+5df7ffb4370000fecbb19290,,90002,question,responseOption2,28136,form,No
+5df7ffbf370000fecbb193de,,90003,question,questionText,28136,form,Agent Used?
+5df7ffbf370000fecbb193de,,90003,question,responseOption1,28136,form,Yes
+5df7ffbf370000fecbb193de,,90003,question,responseOption2,28136,form,No
+5df7ffe2370000fecbb19eb0,,90004,question,questionText,28136,form,Goods/Services Sourced
+5df7ffe9370000fecbb1a062,,90005,question,questionText,28136,form,Sourced In House?
+5df7ffe9370000fecbb1a062,,90005,question,responseOption1,28136,form,Yes
+5df7ffe9370000fecbb1a062,,90005,question,responseOption2,28136,form,No
+5df7fff6360000fe2db52dc9,,90006,question,questionText,28136,form,Agent Used?
+5df7fff6360000fe2db52dc9,,90006,question,responseOption1,28136,form,Yes
+5df7fff6360000fe2db52dc9,,90006,question,responseOption2,28136,form,No
+5df8000f370000fecbb1a8fd,,90007,question,questionText,28136,form,Goods/Services Sourced
+5df80017330000c041b27f3f,,90008,question,questionText,28136,form,Sourced In House?
+5df80017330000c041b27f3f,,90008,question,responseOption1,28136,form,Yes
+5df80017330000c041b27f3f,,90008,question,responseOption2,28136,form,No
+5df80022370000fecbb1acee,,90009,question,questionText,28136,form,Agent Used?
+5df80022370000fecbb1acee,,90009,question,responseOption1,28136,form,Yes
+5df80022370000fecbb1acee,,90009,question,responseOption2,28136,form,No
+5df8003b360000fe2db53a56,,90010,question,questionText,28136,form,Goods/Services Sourced
+5df8004334000063ca4a074f,,90011,question,questionText,28136,form,Sourced In House?
+5df8004334000063ca4a074f,,90011,question,responseOption1,28136,form,Yes
+5df8004334000063ca4a074f,,90011,question,responseOption2,28136,form,No
+5df8004e330000c041b28793,,90012,question,questionText,28136,form,Agent Used?
+5df8004e330000c041b28793,,90012,question,responseOption1,28136,form,Yes
+5df8004e330000c041b28793,,90012,question,responseOption2,28136,form,No
+5df8007b330000c041b28bd6,,90013,question,questionText,28136,form,Goods/Services Sourced
+5df80083330000c041b28cd4,,90014,question,questionText,28136,form,Sourced In House?
+5df80083330000c041b28cd4,,90014,question,responseOption1,28136,form,Yes
+5df80083330000c041b28cd4,,90014,question,responseOption2,28136,form,No
+5df8008e370000fecbb1b9f0,,90015,question,questionText,28136,form,Agent Used?
+5df8008e370000fecbb1b9f0,,90015,question,responseOption1,28136,form,Yes
+5df8008e370000fecbb1b9f0,,90015,question,responseOption2,28136,form,No
+5df800b1370000fecbb1bee6,,90016,question,questionText,28136,form,Goods/Services Sourced\n
+5df800c234000063ca4a13a4,,90017,question,questionText,28136,form,Goods/Services Sourced
+5df800c434000063ca4a13d7,,90018,question,questionText,28136,form,Sourced In House?
+5df800c434000063ca4a13d7,,90018,question,responseOption1,28136,form,Yes
+5df800c434000063ca4a13d7,,90018,question,responseOption2,28136,form,No
+5df800ca370000fecbb1c249,,90019,question,questionText,28136,form,Sourced In House?
+5df800ca370000fecbb1c249,,90019,question,responseOption1,28136,form,Yes
+5df800ca370000fecbb1c249,,90019,question,responseOption2,28136,form,No
+5df800db330000c041b29d0c,,90020,question,questionText,28136,form,Agent Used?\n
+5df800db330000c041b29d0c,,90020,question,responseOption1,28136,form,Yes
+5df800db330000c041b29d0c,,90020,question,responseOption2,28136,form,No
+5df800e5360000fe2db54f0f,,90021,question,questionText,28136,form,Agent Used?
+5df800e5360000fe2db54f0f,,90021,question,responseOption1,28136,form,Yes
+5df800e5360000fe2db54f0f,,90021,question,responseOption2,28136,form,No
+5df80105370000fecbb1c83d,,90022,question,questionText,28136,form,Goods/Services Sourced
+5df8010c330000c041b2a669,,90023,question,questionText,28136,form,Sourced In House?
+5df8010c330000c041b2a669,,90023,question,responseOption1,28136,form,Yes
+5df8010c330000c041b2a669,,90023,question,responseOption2,28136,form,No
+5df80116330000c041b2a7e9,,90024,question,questionText,28136,form,Agent Used?
+5df80116330000c041b2a7e9,,90024,question,responseOption1,28136,form,Yes
+5df80116330000c041b2a7e9,,90024,question,responseOption2,28136,form,No
+5df8012b330000c041b2ab2b,,90025,question,questionText,28136,form,Goods/Services Sourced\n
+5df80137330000c041b2ac03,,90026,question,questionText,28136,form,Sourced In House?
+5df80137330000c041b2ac03,,90026,question,responseOption1,28136,form,Yes
+5df80137330000c041b2ac03,,90026,question,responseOption2,28136,form,No
+5df8014c370000fecbb1d0a1,,90027,question,questionText,28136,form,Agent Used?\n
+5df8014c370000fecbb1d0a1,,90027,question,responseOption1,28136,form,Yes
+5df8014c370000fecbb1d0a1,,90027,question,responseOption2,28136,form,No
+5df8016034000063ca4a2113,,90028,question,questionText,28136,form,Goods/Services Sourced\n
+5df8016a330000c041b2b45a,,90029,question,questionText,28136,form,Sourced In House?\n
+5df8016a330000c041b2b45a,,90029,question,responseOption1,28136,form,Yes
+5df8016a330000c041b2b45a,,90029,question,responseOption2,28136,form,No
+5df80178370000fecbb1d88d,,90030,question,questionText,28136,form,Agent Used?\n
+5df80178370000fecbb1d88d,,90030,question,responseOption1,28136,form,Yes
+5df80178370000fecbb1d88d,,90030,question,responseOption2,28136,form,No
+5df801ca330000c041b2c129,,90031,question,questionText,28136,form,Goods/Services Sourced
+5df801d4360000fe2db56c17,,90032,question,questionText,28136,form,Sourced In House?
+5df801d4360000fe2db56c17,,90032,question,responseOption1,28136,form,Yes
+5df801d4360000fe2db56c17,,90032,question,responseOption2,28136,form,No
+5df801df330000c041b2c333,,90033,question,questionText,28136,form,Agent Used?
+5df801df330000c041b2c333,,90033,question,responseOption1,28136,form,Yes
+5df801df330000c041b2c333,,90033,question,responseOption2,28136,form,No
+5df801fe330000c041b2c8b7,,90034,question,questionText,28136,form,Goods/Services Sourced
+5df8020934000063ca4a3386,,90035,question,questionText,28136,form,Sourced In House?
+5df8020934000063ca4a3386,,90035,question,responseOption1,28136,form,Yes
+5df8020934000063ca4a3386,,90035,question,responseOption2,28136,form,No
+5df80219360000fe2db57e04,,90036,question,questionText,28136,form,Agent Used?
+5df80219360000fe2db57e04,,90036,question,responseOption1,28136,form,Yes
+5df80219360000fe2db57e04,,90036,question,responseOption2,28136,form,No
+5df80234360000fe2db58428,,90037,question,questionText,28136,form,Goods/Services Sourced
+5df8023b360000fe2db58533,,90038,question,questionText,28136,form,Sourced In House?
+5df8023b360000fe2db58533,,90038,question,responseOption1,28136,form,Yes
+5df8023b360000fe2db58533,,90038,question,responseOption2,28136,form,No
+5df80250370000fecbb1fc61,,90039,question,questionText,28136,form,Agent Used?
+5df80250370000fecbb1fc61,,90039,question,responseOption1,28136,form,Yes
+5df80250370000fecbb1fc61,,90039,question,responseOption2,28136,form,No
+5df802ff370000fecbb20f41,,90040,question,questionText,28136,form,Goods/Services Sourced
+5df80308360000fe2db59ed5,,90041,question,questionText,28136,form,Sourced In House?
+5df80308360000fe2db59ed5,,90041,question,responseOption1,28136,form,Yes
+5df80308360000fe2db59ed5,,90041,question,responseOption2,28136,form,No
+5df80314370000fecbb2145f,,90042,question,questionText,28136,form,Agent Used?
+5df80314370000fecbb2145f,,90042,question,responseOption1,28136,form,Yes
+5df80314370000fecbb2145f,,90042,question,responseOption2,28136,form,No
+5df8033034000063ca4a4e00,,90043,question,questionText,28136,form,Goods/Services Sourced
+5df8033a330000c041b2f9db,,90044,question,questionText,28136,form,Sourced In House?
+5df8033a330000c041b2f9db,,90044,question,responseOption1,28136,form,Yes
+5df8033a330000c041b2f9db,,90044,question,responseOption2,28136,form,No
+5df80347330000c041b2fba7,,90045,question,questionText,28136,form,Agent Used?
+5df80347330000c041b2fba7,,90045,question,responseOption1,28136,form,Yes
+5df80347330000c041b2fba7,,90045,question,responseOption2,28136,form,No
+5df80368330000c041b2ff35,,90046,question,questionText,28136,form,Goods/Services Sourced
+5df80376330000c041b30169,,90047,question,questionText,28136,form,Sourced In House?
+5df80376330000c041b30169,,90047,question,responseOption1,28136,form,Yes
+5df80376330000c041b30169,,90047,question,responseOption2,28136,form,No
+5df80388370000fecbb22ad6,,90048,question,questionText,28136,form,Agent Used?
+5df80388370000fecbb22ad6,,90048,question,responseOption1,28136,form,Yes
+5df80388370000fecbb22ad6,,90048,question,responseOption2,28136,form,No
+5df803a7330000c041b309e8,,90049,question,questionText,28136,form,Goods/Services Sourced
+5df803b134000063ca4a57c5,,90050,question,questionText,28136,form,Sourced In House?
+5df803b134000063ca4a57c5,,90050,question,responseOption1,28136,form,Yes
+5df803b134000063ca4a57c5,,90050,question,responseOption2,28136,form,No
+5df803bb330000c041b30cf8,,90051,question,questionText,28136,form,Agent Used?
+5df803bb330000c041b30cf8,,90051,question,responseOption1,28136,form,Yes
+5df803bb330000c041b30cf8,,90051,question,responseOption2,28136,form,No
+5df803da330000c041b310f8,,90052,question,questionText,28136,form,Goods/Services Sourced
+5df803e3370000fecbb2397d,,90053,question,questionText,28136,form,Sourced In House?
+5df803e3370000fecbb2397d,,90053,question,responseOption1,28136,form,Yes
+5df803e3370000fecbb2397d,,90053,question,responseOption2,28136,form,No
+5df803ee370000fecbb23acd,,90054,question,questionText,28136,form,Agent Used?
+5df803ee370000fecbb23acd,,90054,question,responseOption1,28136,form,Yes
+5df803ee370000fecbb23acd,,90054,question,responseOption2,28136,form,No
+5df803f6330000c041b3145c,,90055,question,questionText,28136,form,Goods/Services Sourced\n
+5df80403360000fe2db5c0d0,,90056,question,questionText,28136,form,Sourced In House?\n
+5df80403360000fe2db5c0d0,,90056,question,responseOption1,28136,form,Yes
+5df80403360000fe2db5c0d0,,90056,question,responseOption2,28136,form,No
+5df80410360000fe2db5c326,,90057,question,questionText,28136,form,Agent Used?\n
+5df80410360000fe2db5c326,,90057,question,responseOption1,28136,form,Yes
+5df80410360000fe2db5c326,,90057,question,responseOption2,28136,form,No
+5df8041834000063ca4a662e,,90058,question,questionText,28136,form,Goods/Services Sourced
+5df80420330000c041b3196f,,90059,question,questionText,28136,form,Sourced In House?
+5df80420330000c041b3196f,,90059,question,responseOption1,28136,form,Yes
+5df80420330000c041b3196f,,90059,question,responseOption2,28136,form,No
+5df80427370000fecbb241b5,,90060,question,questionText,28136,form,Goods/Services Sourced\n
+5df8042b360000fe2db5c8f2,,90061,question,questionText,28136,form,Agent Used?
+5df8042b360000fe2db5c8f2,,90061,question,responseOption1,28136,form,Yes
+5df8042b360000fe2db5c8f2,,90061,question,responseOption2,28136,form,No
+5df80431330000c041b31bc0,,90062,question,questionText,28136,form,Sourced In House?\n
+5df80431330000c041b31bc0,,90062,question,responseOption1,28136,form,Yes
+5df80431330000c041b31bc0,,90062,question,responseOption2,28136,form,No
+5df8043e34000063ca4a6b32,,90063,question,questionText,28136,form,Agent Used?\n
+5df8043e34000063ca4a6b32,,90063,question,responseOption1,28136,form,Yes
+5df8043e34000063ca4a6b32,,90063,question,responseOption2,28136,form,No
+5df8044634000063ca4a6c1c,,90064,question,questionText,28136,form,Goods/Services Sourced
+5df8045734000063ca4a6e3a,,90065,question,questionText,28136,form,Sourced In House?
+5df8045734000063ca4a6e3a,,90065,question,responseOption1,28136,form,Yes
+5df8045734000063ca4a6e3a,,90065,question,responseOption2,28136,form,No
+5df80469370000fecbb24903,,90066,question,questionText,28136,form,Agent Used?
+5df80469370000fecbb24903,,90066,question,responseOption1,28136,form,Yes
+5df80469370000fecbb24903,,90066,question,responseOption2,28136,form,No
+5df80488360000fe2db5da17,,90067,question,questionText,28136,form,Goods/Services Sourced
+5df80493330000c041b32a29,,90068,question,questionText,28136,form,Sourced In House?
+5df80493330000c041b32a29,,90068,question,responseOption1,28136,form,Yes
+5df80493330000c041b32a29,,90068,question,responseOption2,28136,form,No
+5df804a034000063ca4a757d,,90069,question,questionText,28136,form,Goods/Services Sourced\n
+5df804a3360000fe2db5de30,,90070,question,questionText,28136,form,Agent Used?
+5df804a3360000fe2db5de30,,90070,question,responseOption1,28136,form,Yes
+5df804a3360000fe2db5de30,,90070,question,responseOption2,28136,form,No
+5df804af34000063ca4a773f,,90071,question,questionText,28136,form,Sourced In House?\n
+5df804af34000063ca4a773f,,90071,question,responseOption1,28136,form,Yes
+5df804af34000063ca4a773f,,90071,question,responseOption2,28136,form,No
+5df804bd370000fecbb253f3,,90072,question,questionText,28136,form,Agent Used?\n
+5df804bd370000fecbb253f3,,90072,question,responseOption1,28136,form,Yes
+5df804bd370000fecbb253f3,,90072,question,responseOption2,28136,form,No
+5df804d1370000fecbb256c4,,90073,question,questionText,28136,form,Goods/Services Sourced\n
+5df804dd360000fe2db5e790,,90074,question,questionText,28136,form,Sourced In House?\n
+5df804dd360000fe2db5e790,,90074,question,responseOption1,28136,form,Yes
+5df804dd360000fe2db5e790,,90074,question,responseOption2,28136,form,No
+5df804e834000063ca4a7ca3,,90075,question,questionText,28136,form,Agent Used?\n
+5df804e834000063ca4a7ca3,,90075,question,responseOption1,28136,form,Yes
+5df804e834000063ca4a7ca3,,90075,question,responseOption2,28136,form,No
+5df8050c330000c041b34107,,90076,question,questionText,28136,form,Goods/Services Sourced
+5df8051d370000fecbb26497,,90077,question,questionText,28136,form,Sourced In House?
+5df8051d370000fecbb26497,,90077,question,responseOption1,28136,form,Yes
+5df8051d370000fecbb26497,,90077,question,responseOption2,28136,form,No
+5df8052b34000063ca4a83a6,,90078,question,questionText,28136,form,Agent Used?
+5df8052b34000063ca4a83a6,,90078,question,responseOption1,28136,form,Yes
+5df8052b34000063ca4a83a6,,90078,question,responseOption2,28136,form,No
+5df80543370000fecbb26a9e,,90079,question,questionText,28136,form,Goods/Services Sourced
+5df8054a370000fecbb26bfd,,90080,question,questionText,28136,form,Sourced In House?
+5df8054a370000fecbb26bfd,,90080,question,responseOption1,28136,form,Yes
+5df8054a370000fecbb26bfd,,90080,question,responseOption2,28136,form,No
+5df80554330000c041b34c6c,,90081,question,questionText,28136,form,Agent Used?
+5df80554330000c041b34c6c,,90081,question,responseOption1,28136,form,Yes
+5df80554330000c041b34c6c,,90081,question,responseOption2,28136,form,No
+5df8056e370000fecbb2719f,,90082,question,questionText,28136,form,Goods/Services Sourced
+5df80576330000c041b351e2,,90083,question,questionText,28136,form,Sourced In House?
+5df80576330000c041b351e2,,90083,question,responseOption1,28136,form,Yes
+5df80576330000c041b351e2,,90083,question,responseOption2,28136,form,No
+5df8058134000063ca4a8a82,,90084,question,questionText,28136,form,Agent Used?
+5df8058134000063ca4a8a82,,90084,question,responseOption1,28136,form,Yes
+5df8058134000063ca4a8a82,,90084,question,responseOption2,28136,form,No
+5df8059a360000fe2db5ff29,,90085,question,questionText,28136,form,Goods/Services Sourced
+5df805a3360000fe2db6007e,,90086,question,questionText,28136,form,Sourced In House?
+5df805a3360000fe2db6007e,,90086,question,responseOption1,28136,form,Yes
+5df805a3360000fe2db6007e,,90086,question,responseOption2,28136,form,No
+5df805ac370000fecbb27b7c,,90087,question,questionText,28136,form,Agent Used?
+5df805ac370000fecbb27b7c,,90087,question,responseOption1,28136,form,Yes
+5df805ac370000fecbb27b7c,,90087,question,responseOption2,28136,form,No
+5df8062f34000063ca4a9cd6,,90088,question,questionText,28136,form,Goods/Services Sourced\n
+5df8063c34000063ca4a9dfb,,90089,question,questionText,28136,form,Sourced In House?\n
+5df8063c34000063ca4a9dfb,,90089,question,responseOption1,28136,form,Yes
+5df8063c34000063ca4a9dfb,,90089,question,responseOption2,28136,form,No
+5df8064934000063ca4aa04d,,90090,question,questionText,28136,form,Agent Used?\n
+5df8064934000063ca4aa04d,,90090,question,responseOption1,28136,form,Yes
+5df8064934000063ca4aa04d,,90090,question,responseOption2,28136,form,No
+5df80672370000fecbb2996a,,90092,question,questionText,28136,form,Goods/Services Sourced\n
+5df8067c370000fecbb29adb,,90093,question,questionText,28136,form,Sourced In House?\n
+5df8067c370000fecbb29adb,,90093,question,responseOption1,28136,form,Yes
+5df8067c370000fecbb29adb,,90093,question,responseOption2,28136,form,No
+5df80689370000fecbb29cb5,,90094,question,questionText,28136,form,Agent Used?\n
+5df80689370000fecbb29cb5,,90094,question,responseOption1,28136,form,Yes
+5df80689370000fecbb29cb5,,90094,question,responseOption2,28136,form,No
+5df8069d370000fecbb29e99,,90095,question,questionText,28136,form,Goods/Services Sourced\n
+5df806a6330000c041b385be,,90096,question,questionText,28136,form,Sourced In House?\n
+5df806a6330000c041b385be,,90096,question,responseOption1,28136,form,Yes
+5df806a6330000c041b385be,,90096,question,responseOption2,28136,form,No
+5df806b6360000fe2db62875,,90097,question,questionText,28136,form,Agent Used?\n
+5df806b6360000fe2db62875,,90097,question,responseOption1,28136,form,Yes
+5df806b6360000fe2db62875,,90097,question,responseOption2,28136,form,No
+5df80b6a360000fe2db6eb4c,,90100,question,questionText,28136,form,Goods/Services Sourced\n
+5df80b79360000fe2db6edf6,,90101,question,questionText,28136,form,Sourced In House?\n
+5df80b79360000fe2db6edf6,,90101,question,responseOption1,28136,form,Yes
+5df80b79360000fe2db6edf6,,90101,question,responseOption2,28136,form,No
+5df80b88360000fe2db6f155,,90102,question,questionText,28136,form,Agent Used?\n
+5df80b88360000fe2db6f155,,90102,question,responseOption1,28136,form,Yes
+5df80b88360000fe2db6f155,,90102,question,responseOption2,28136,form,No
+5df80b9c370000fecbb37d76,,90103,question,questionText,28136,form,Goods/Services Sourced\n
+5df80ba6330000c041b451fb,,90104,question,questionText,28136,form,Sourced In House?\n
+5df80ba6330000c041b451fb,,90104,question,responseOption1,28136,form,Yes
+5df80ba6330000c041b451fb,,90104,question,responseOption2,28136,form,No
+5df80bb234000063ca4b40db,,90105,question,questionText,28136,form,Agent Used?\n
+5df80bb234000063ca4b40db,,90105,question,responseOption1,28136,form,Yes
+5df80bb234000063ca4b40db,,90105,question,responseOption2,28136,form,No
+5df80d5c34000063ca4b66bd,,90106,question,questionText,28136,form,Goods/Services Sourced\n
+5df80d6c34000063ca4b66d2,,90107,question,questionText,28136,form,Sourced In House?\n
+5df80d6c34000063ca4b66d2,,90107,question,responseOption1,28136,form,Yes
+5df80d6c34000063ca4b66d2,,90107,question,responseOption2,28136,form,No
+5df80d79330000c041b49926,,90108,question,questionText,28136,form,Agent Used?\n
+5df80d79330000c041b49926,,90108,question,responseOption1,28136,form,Yes
+5df80d79330000c041b49926,,90108,question,responseOption2,28136,form,No
+5df80dd334000063ca4b6b57,,90109,question,questionText,28136,form,Goods/Services Sourced\n
+5df80de9330000c041b4b3e0,,90110,question,questionText,28136,form,Sourced In House?\n
+5df80de9330000c041b4b3e0,,90110,question,responseOption1,28136,form,Yes
+5df80de9330000c041b4b3e0,,90110,question,responseOption2,28136,form,No
+5df80df7360000fe2db73929,,90111,question,questionText,28136,form,Agent Used?\n
+5df80df7360000fe2db73929,,90111,question,responseOption1,28136,form,Yes
+5df80df7360000fe2db73929,,90111,question,responseOption2,28136,form,No
+5df80e0a34000063ca4b6efa,,90112,question,questionText,28136,form,Goods/Services Sourced\n
+5df80e1434000063ca4b6efb,,90113,question,questionText,28136,form,Sourced In House?\n
+5df80e1434000063ca4b6efb,,90113,question,responseOption1,28136,form,Yes
+5df80e1434000063ca4b6efb,,90113,question,responseOption2,28136,form,No
+5df80e2234000063ca4b6efc,,90114,question,questionText,28136,form,Agent Used?\n
+5df80e2234000063ca4b6efc,,90114,question,responseOption1,28136,form,Yes
+5df80e2234000063ca4b6efc,,90114,question,responseOption2,28136,form,No
+5df80e35360000fe2db74acb,,90115,question,questionText,28136,form,Goods/Services Sourced\n
+5df80e52370000fecbb3da1e,,90116,question,questionText,28136,form,Sourced In House?\n
+5df80e52370000fecbb3da1e,,90116,question,responseOption1,28136,form,Yes
+5df80e52370000fecbb3da1e,,90116,question,responseOption2,28136,form,No
+5df80e5e370000fecbb3da1f,,90117,question,questionText,28136,form,Agent Used?\n
+5df80e5e370000fecbb3da1f,,90117,question,responseOption1,28136,form,Yes
+5df80e5e370000fecbb3da1f,,90117,question,responseOption2,28136,form,No
+5df80e73330000c041b4b6b6,,90118,question,questionText,28136,form,Goods/Services Sourced\n
+5df80e7d330000c041b4bc57,,90119,question,questionText,28136,form,Sourced In House?\n
+5df80e7d330000c041b4bc57,,90119,question,responseOption1,28136,form,Yes
+5df80e7d330000c041b4bc57,,90119,question,responseOption2,28136,form,No
+5df80e8a370000fecbb3da54,,90120,question,questionText,28136,form,Agent Used?\n
+5df80e8a370000fecbb3da54,,90120,question,responseOption1,28136,form,Yes
+5df80e8a370000fecbb3da54,,90120,question,responseOption2,28136,form,No
+5df80e9f34000063ca4b852d,,90121,question,questionText,28136,form,Goods/Services Sourced\n
+5df80ea9370000fecbb3ec4f,,90122,question,questionText,28136,form,Sourced In House?\n
+5df80ea9370000fecbb3ec4f,,90122,question,responseOption1,28136,form,Yes
+5df80ea9370000fecbb3ec4f,,90122,question,responseOption2,28136,form,No
+5df80eb5370000fecbb3ec50,,90123,question,questionText,28136,form,Agent Used?\n
+5df80eb5370000fecbb3ec50,,90123,question,responseOption1,28136,form,Yes
+5df80eb5370000fecbb3ec50,,90123,question,responseOption2,28136,form,No
+5df8113f34000063ca4bc685,,90124,question,questionText,28136,form,Goods/Services Sourced\n
+5df81182330000c041b542fc,,90125,question,questionText,28136,form,Sourced In House?\n
+5df81182330000c041b542fc,,90125,question,responseOption1,28136,form,Yes
+5df81182330000c041b542fc,,90125,question,responseOption2,28136,form,No
+5df811ac360000fe2db7d36e,,90126,question,questionText,28136,form,Agent Used?\n
+5df811ac360000fe2db7d36e,,90126,question,responseOption1,28136,form,Yes
+5df811ac360000fe2db7d36e,,90126,question,responseOption2,28136,form,No
+5df811c3330000c041b54aa8,,90127,question,questionText,28136,form,Goods/Services Sourced\n
+5df811ce34000063ca4bd5c8,,90128,question,questionText,28136,form,Sourced In House?\n
+5df811ce34000063ca4bd5c8,,90128,question,responseOption1,28136,form,Yes
+5df811ce34000063ca4bd5c8,,90128,question,responseOption2,28136,form,No
+5df811dd370000fecbb46be5,,90129,question,questionText,28136,form,Agent Used?\n
+5df811dd370000fecbb46be5,,90129,question,responseOption1,28136,form,Yes
+5df811dd370000fecbb46be5,,90129,question,responseOption2,28136,form,No
+5df811ed34000063ca4bd5db,,90130,question,questionText,28136,form,Goods/Services Sourced\n
+5df811fa370000fecbb46c80,,90131,question,questionText,28136,form,Sourced In House?\n
+5df811fa370000fecbb46c80,,90131,question,responseOption1,28136,form,Yes
+5df811fa370000fecbb46c80,,90131,question,responseOption2,28136,form,No
+5df81208360000fe2db7d731,,90132,question,questionText,28136,form,Agent Used?\n
+5df81208360000fe2db7d731,,90132,question,responseOption1,28136,form,Yes
+5df81208360000fe2db7d731,,90132,question,responseOption2,28136,form,No
+5df81224370000fecbb46ca6,,90133,question,questionText,28136,form,Goods/Services Sourced\n
+5df81231330000c041b55cfc,,90134,question,questionText,28136,form,Sourced In House?\n
+5df81231330000c041b55cfc,,90134,question,responseOption1,28136,form,Yes
+5df81231330000c041b55cfc,,90134,question,responseOption2,28136,form,No
+5df8124c330000c041b561ca,,90135,question,questionText,28136,form,Agent Used?\n
+5df8124c330000c041b561ca,,90135,question,responseOption1,28136,form,Yes
+5df8124c330000c041b561ca,,90135,question,responseOption2,28136,form,No
+5df81278370000fecbb4800e,,90136,question,questionText,28136,form,Goods/Services Sourced\n
+5df81283330000c041b568e2,,90137,question,questionText,28136,form,Sourced In House?\n
+5df81283330000c041b568e2,,90137,question,responseOption1,28136,form,Yes
+5df81283330000c041b568e2,,90137,question,responseOption2,28136,form,No
+5df8129034000063ca4be5d0,,90138,question,questionText,28136,form,Agent Used?\n
+5df8129034000063ca4be5d0,,90138,question,responseOption1,28136,form,Yes
+5df8129034000063ca4be5d0,,90138,question,responseOption2,28136,form,No
+5df812a334000063ca4be5d1,,90139,question,questionText,28136,form,Goods/Services Sourced\n
+5df812ad330000c041b56a21,,90140,question,questionText,28136,form,Sourced In House?\n
+5df812ad330000c041b56a21,,90140,question,responseOption1,28136,form,Yes
+5df812ad330000c041b56a21,,90140,question,responseOption2,28136,form,No
+5df812bb34000063ca4bed40,,90141,question,questionText,28136,form,Agent Used?\n
+5df812bb34000063ca4bed40,,90141,question,responseOption1,28136,form,Yes
+5df812bb34000063ca4bed40,,90141,question,responseOption2,28136,form,No
+5df812db330000c041b57347,,90142,question,questionText,28136,form,Goods/Services Sourced\n
+5df812e5360000fe2db7f882,,90143,question,questionText,28136,form,Sourced In House?\n
+5df812e5360000fe2db7f882,,90143,question,responseOption1,28136,form,Yes
+5df812e5360000fe2db7f882,,90143,question,responseOption2,28136,form,No
+5df812f3360000fe2db7f883,,90144,question,questionText,28136,form,Agent Used?\n
+5df812f3360000fe2db7f883,,90144,question,responseOption1,28136,form,Yes
+5df812f3360000fe2db7f883,,90144,question,responseOption2,28136,form,No
+5df8130b370000fecbb490f8,,90145,question,questionText,28136,form,Goods/Services Sourced\n
+5df8131b370000fecbb490f9,,90146,question,questionText,28136,form,Sourced In House?\n
+5df8131b370000fecbb490f9,,90146,question,responseOption1,28136,form,Yes
+5df8131b370000fecbb490f9,,90146,question,responseOption2,28136,form,No
+5df81329370000fecbb490fa,,90147,question,questionText,28136,form,Agent Used?\n
+5df81329370000fecbb490fa,,90147,question,responseOption1,28136,form,Yes
+5df81329370000fecbb490fa,,90147,question,responseOption2,28136,form,No
+5df813bf370000fecbb4af8c,,90148,question,questionText,28136,form,Goods/Services Sourced\n
+5df813c9370000fecbb4af8d,,90149,question,questionText,28136,form,Sourced In House?\n
+5df813c9370000fecbb4af8d,,90149,question,responseOption1,28136,form,Yes
+5df813c9370000fecbb4af8d,,90149,question,responseOption2,28136,form,No
+5df813d6370000fecbb4af8e,,90150,question,questionText,28136,form,Agent Used?\n
+5df813d6370000fecbb4af8e,,90150,question,responseOption1,28136,form,Yes
+5df813d6370000fecbb4af8e,,90150,question,responseOption2,28136,form,No
+5df81416330000c041b590da,,90151,question,questionText,28136,form,Goods/Services Sourced\n
+5df8142234000063ca4c0667,,90152,question,questionText,28136,form,Sourced In House?\n
+5df8142234000063ca4c0667,,90152,question,responseOption1,28136,form,Yes
+5df8142234000063ca4c0667,,90152,question,responseOption2,28136,form,No
+5df81431330000c041b5a509,,90153,question,questionText,28136,form,Agent Used?\n
+5df81431330000c041b5a509,,90153,question,responseOption1,28136,form,Yes
+5df81431330000c041b5a509,,90153,question,responseOption2,28136,form,No
+5df81445330000c041b5a69b,,90154,question,questionText,28136,form,Goods/Services Sourced\n
+5df8144f370000fecbb4c735,,90155,question,questionText,28136,form,Sourced In House?\n
+5df8144f370000fecbb4c735,,90155,question,responseOption1,28136,form,Yes
+5df8144f370000fecbb4c735,,90155,question,responseOption2,28136,form,No
+5df8145c34000063ca4c0669,,90156,question,questionText,28136,form,Agent Used?\n
+5df8145c34000063ca4c0669,,90156,question,responseOption1,28136,form,Yes
+5df8145c34000063ca4c0669,,90156,question,responseOption2,28136,form,No
+5df81476370000fecbb4d7b8,,90157,question,questionText,28136,form,Goods/Services Sourced\n
+5df8147f370000fecbb4d831,,90158,question,questionText,28136,form,Sourced In House?\n
+5df8147f370000fecbb4d831,,90158,question,responseOption1,28136,form,Yes
+5df8147f370000fecbb4d831,,90158,question,responseOption2,28136,form,No
+5df8148b34000063ca4c19ab,,90159,question,questionText,28136,form,Agent Used?\n
+5df8148b34000063ca4c19ab,,90159,question,responseOption1,28136,form,Yes
+5df8148b34000063ca4c19ab,,90159,question,responseOption2,28136,form,No
+5df8149e370000fecbb4db23,,90160,question,questionText,28136,form,Goods/Services Sourced\n
+5df814a834000063ca4c1bfc,,90161,question,questionText,28136,form,Sourced In House?\n
+5df814a834000063ca4c1bfc,,90161,question,responseOption1,28136,form,Yes
+5df814a834000063ca4c1bfc,,90161,question,responseOption2,28136,form,No
+5df814b934000063ca4c1dab,,90162,question,questionText,28136,form,Agent Used?\n
+5df814b934000063ca4c1dab,,90162,question,responseOption1,28136,form,Yes
+5df814b934000063ca4c1dab,,90162,question,responseOption2,28136,form,No
+5df815aa360000fe2db864f6,,90163,question,questionText,28136,form,Goods/Services Sourced\n
+5df815b5360000fe2db865f4,,90164,question,questionText,28136,form,Sourced In House?\n
+5df815b5360000fe2db865f4,,90164,question,responseOption1,28136,form,Yes
+5df815b5360000fe2db865f4,,90164,question,responseOption2,28136,form,No
+5df815c4360000fe2db86727,,90165,question,questionText,28136,form,Agent Used?\n
+5df815c4360000fe2db86727,,90165,question,responseOption1,28136,form,Yes
+5df815c4360000fe2db86727,,90165,question,responseOption2,28136,form,No
+5df815d6330000c041b5dda6,,90166,question,questionText,28136,form,Goods/Services Sourced\n
+5df815e7330000c041b5dda7,,90167,question,questionText,28136,form,Sourced In House?\n
+5df815e7330000c041b5dda7,,90167,question,responseOption1,28136,form,Yes
+5df815e7330000c041b5dda7,,90167,question,responseOption2,28136,form,No
+5df815f5360000fe2db86c87,,90168,question,questionText,28136,form,Agent Used?\n
+5df815f5360000fe2db86c87,,90168,question,responseOption1,28136,form,Yes
+5df815f5360000fe2db86c87,,90168,question,responseOption2,28136,form,No
+5df81607370000fecbb50763,,90169,question,questionText,28136,form,Goods/Services Sourced\n
+5df81612370000fecbb50773,,90170,question,questionText,28136,form,Sourced In House?\n
+5df81612370000fecbb50773,,90170,question,responseOption1,28136,form,Yes
+5df81612370000fecbb50773,,90170,question,responseOption2,28136,form,No
+5df81621360000fe2db87408,,90171,question,questionText,28136,form,Agent Used?\n
+5df81621360000fe2db87408,,90171,question,responseOption1,28136,form,Yes
+5df81621360000fe2db87408,,90171,question,responseOption2,28136,form,No
+5df8164a330000c041b5ec9f,,90172,question,questionText,28136,form,Goods/Services Sourced\n
+5df81657370000fecbb513c5,,90173,question,questionText,28136,form,Sourced In House?\n
+5df81657370000fecbb513c5,,90173,question,responseOption1,28136,form,Yes
+5df81657370000fecbb513c5,,90173,question,responseOption2,28136,form,No
+5df81668370000fecbb51599,,90174,question,questionText,28136,form,Agent Used?\n
+5df81668370000fecbb51599,,90174,question,responseOption1,28136,form,Yes
+5df81668370000fecbb51599,,90174,question,responseOption2,28136,form,No
+5df81682330000c041b5f687,,90175,question,questionText,28136,form,Goods/Services Sourced\n
+5df8169934000063ca4c4784,,90176,question,questionText,28136,form,Sourced In House?\n
+5df8169934000063ca4c4784,,90176,question,responseOption1,28136,form,Yes
+5df8169934000063ca4c4784,,90176,question,responseOption2,28136,form,No
+5df816a5370000fecbb51e1e,,90177,question,questionText,28136,form,Agent Used?\n
+5df816a5370000fecbb51e1e,,90177,question,responseOption1,28136,form,Yes
+5df816a5370000fecbb51e1e,,90177,question,responseOption2,28136,form,No
+5df81764330000c041b628e3,,90178,question,questionText,28136,form,Goods/Services Sourced\n
+5df81772330000c041b62b75,,90179,question,questionText,28136,form,Sourced In House?\n
+5df81772330000c041b62b75,,90179,question,responseOption1,28136,form,Yes
+5df81772330000c041b62b75,,90179,question,responseOption2,28136,form,No
+5df8177f330000c041b62b76,,90180,question,questionText,28136,form,Agent Used?\n
+5df8177f330000c041b62b76,,90180,question,responseOption1,28136,form,Yes
+5df8177f330000c041b62b76,,90180,question,responseOption2,28136,form,No
+5df817ca330000c041b63214,,90181,question,questionText,28136,form,Goods/Services Sourced\n
+5df817d4360000fe2db8aade,,90182,question,questionText,28136,form,Sourced In House?\n
+5df817d4360000fe2db8aade,,90182,question,responseOption1,28136,form,Yes
+5df817d4360000fe2db8aade,,90182,question,responseOption2,28136,form,No
+5df817e5330000c041b641e6,,90183,question,questionText,28136,form,Agent Used?\n
+5df817e5330000c041b641e6,,90183,question,responseOption1,28136,form,Yes
+5df817e5330000c041b641e6,,90183,question,responseOption2,28136,form,No
+5df81844330000c041b64cec,,90184,question,questionText,28136,form,Goods/Services Sourced\n
+5df81851330000c041b64dc1,,90185,question,questionText,28136,form,Sourced In House?\n
+5df81851330000c041b64dc1,,90185,question,responseOption1,28136,form,Yes
+5df81851330000c041b64dc1,,90185,question,responseOption2,28136,form,No
+5df8185e34000063ca4c7e74,,90186,question,questionText,28136,form,Agent Used?\n
+5df8185e34000063ca4c7e74,,90186,question,responseOption1,28136,form,Yes
+5df8185e34000063ca4c7e74,,90186,question,responseOption2,28136,form,No
+5df818f834000063ca4c8c20,,90187,question,questionText,28136,form,Goods/Services Sourced\n
+5df8190434000063ca4c8c8d,,90188,question,questionText,28136,form,Sourced In House?\n
+5df8190434000063ca4c8c8d,,90188,question,responseOption1,28136,form,Yes
+5df8190434000063ca4c8c8d,,90188,question,responseOption2,28136,form,No
+5df8191234000063ca4c8d33,,90189,question,questionText,28136,form,Agent Used?\n
+5df8191234000063ca4c8d33,,90189,question,responseOption1,28136,form,Yes
+5df8191234000063ca4c8d33,,90189,question,responseOption2,28136,form,No
+5df81939330000c041b67b90,,90190,question,questionText,28136,form,Goods/Services Sourced\n
+5df8194234000063ca4c93e9,,90191,question,questionText,28136,form,Sourced In House?\n
+5df8194234000063ca4c93e9,,90191,question,responseOption1,28136,form,Yes
+5df8194234000063ca4c93e9,,90191,question,responseOption2,28136,form,No
+5df8194f370000fecbb58f2d,,90192,question,questionText,28136,form,Agent Used?\n
+5df8194f370000fecbb58f2d,,90192,question,responseOption1,28136,form,Yes
+5df8194f370000fecbb58f2d,,90192,question,responseOption2,28136,form,No
+5df819a2360000fe2db905b5,,90193,question,questionText,28136,form,Goods/Services Sourced\n
+5df819ac360000fe2db90640,,90194,question,questionText,28136,form,Sourced In House?\n
+5df819ac360000fe2db90640,,90194,question,responseOption1,28136,form,Yes
+5df819ac360000fe2db90640,,90194,question,responseOption2,28136,form,No
+5df819b9330000c041b68a63,,90195,question,questionText,28136,form,Agent Used?\n
+5df819b9330000c041b68a63,,90195,question,responseOption1,28136,form,Yes
+5df819b9330000c041b68a63,,90195,question,responseOption2,28136,form,No
+5df819ec34000063ca4ca1dd,,90196,question,questionText,28136,form,Goods/Services Sourced\n
+5df819f734000063ca4ca3bf,,90197,question,questionText,28136,form,Sourced In House?\n
+5df819f734000063ca4ca3bf,,90197,question,responseOption1,28136,form,Yes
+5df819f734000063ca4ca3bf,,90197,question,responseOption2,28136,form,No
+5df81a0334000063ca4ca3c0,,90198,question,questionText,28136,form,Agent Used?\n
+5df81a0334000063ca4ca3c0,,90198,question,responseOption1,28136,form,Yes
+5df81a0334000063ca4ca3c0,,90198,question,responseOption2,28136,form,No
+5df81a2134000063ca4ca3cf,,90199,question,questionText,28136,form,Goods/Services Sourced\n
+5df81a2b360000fe2db91135,,90200,question,questionText,28136,form,Sourced In House?\n
+5df81a2b360000fe2db91135,,90200,question,responseOption1,28136,form,Yes
+5df81a2b360000fe2db91135,,90200,question,responseOption2,28136,form,No
+5df81a3634000063ca4ca3d6,,90201,question,questionText,28136,form,Agent Used?\n
+5df81a3634000063ca4ca3d6,,90201,question,responseOption1,28136,form,Yes
+5df81a3634000063ca4ca3d6,,90201,question,responseOption2,28136,form,No
+5df81a4934000063ca4ca9b7,,90202,question,questionText,28136,form,Goods/Services Sourced\n
+5df81a53370000fecbb5b134,,90203,question,questionText,28136,form,Sourced In House?\n
+5df81a53370000fecbb5b134,,90203,question,responseOption1,28136,form,Yes
+5df81a53370000fecbb5b134,,90203,question,responseOption2,28136,form,No
+5df81a5f370000fecbb5b13c,,90204,question,questionText,28136,form,Agent Used?\n
+5df81a5f370000fecbb5b13c,,90204,question,responseOption1,28136,form,Yes
+5df81a5f370000fecbb5b13c,,90204,question,responseOption2,28136,form,No
+5df81a70330000c041b6a1e2,,90205,question,questionText,28136,form,Goods/Services Sourced\n
+5df81a79330000c041b6a537,,90206,question,questionText,28136,form,Sourced In House?\n
+5df81a79330000c041b6a537,,90206,question,responseOption1,28136,form,yes
+5df81a79330000c041b6a537,,90206,question,responseOption2,28136,form,No
+5df81a8534000063ca4cb1a2,,90207,question,questionText,28136,form,Agent Used?\n
+5df81a8534000063ca4cb1a2,,90207,question,responseOption1,28136,form,Yes
+5df81a8534000063ca4cb1a2,,90207,question,responseOption2,28136,form,No
+5df81aad34000063ca4cb458,,90208,question,questionText,28136,form,Goods/Services Sourced\n
+5df81ab934000063ca4cb459,,90209,question,questionText,28136,form,Sourced In House?\n
+5df81ab934000063ca4cb459,,90209,question,responseOption1,28136,form,Yes
+5df81ab934000063ca4cb459,,90209,question,responseOption2,28136,form,No
+5df81ac534000063ca4cb62c,,90210,question,questionText,28136,form,Agent Used?\n
+5df81ac534000063ca4cb62c,,90210,question,responseOption1,28136,form,Yes
+5df81ac534000063ca4cb62c,,90210,question,responseOption2,28136,form,No
+5df81ad7370000fecbb5b99d,,90211,question,questionText,28136,form,Goods/Services Sourced\n
+5df81adf370000fecbb5b9af,,90212,question,questionText,28136,form,Sourced In House?\n
+5df81adf370000fecbb5b9af,,90212,question,responseOption1,28136,form,Yes
+5df81adf370000fecbb5b9af,,90212,question,responseOption2,28136,form,No
+5df81aef370000fecbb5b9b0,,90213,question,questionText,28136,form,Agent Used?\n
+5df81aef370000fecbb5b9b0,,90213,question,responseOption1,28136,form,Yes
+5df81aef370000fecbb5b9b0,,90213,question,responseOption2,28136,form,No
+5df81b0f360000fe2db930c2,,90214,question,questionText,28136,form,Goods/Services Sourced\n
+5df81b1b360000fe2db930c3,,90215,question,questionText,28136,form,Sourced In House?\n
+5df81b1b360000fe2db930c3,,90215,question,responseOption1,28136,form,Yes
+5df81b1b360000fe2db930c3,,90215,question,responseOption2,28136,form,No
+5df81b27360000fe2db93327,,90216,question,questionText,28136,form,Agent Used?\n
+5df81b27360000fe2db93327,,90216,question,responseOption1,28136,form,Yes
+5df81b27360000fe2db93327,,90216,question,responseOption2,28136,form,No
+5df81b3a330000c041b6c290,,90217,question,questionText,28136,form,Goods/Services Sourced\n
+5df81b46370000fecbb5bd28,,90218,question,questionText,28136,form,Sourced In House?\n
+5df81b46370000fecbb5bd28,,90218,question,responseOption1,28136,form,Yes
+5df81b46370000fecbb5bd28,,90218,question,responseOption2,28136,form,No
+5df81b5434000063ca4cc061,,90219,question,questionText,28136,form,Agent Used?\n
+5df81b5434000063ca4cc061,,90219,question,responseOption1,28136,form,Yes
+5df81b5434000063ca4cc061,,90219,question,responseOption2,28136,form,No
+5f7229f32900004836dde87f,,103363,question,questionText,28136,form,Goods/Services Sourced
+5f722a052b000043c3ba6150,,103364,question,questionText,28136,form,Sourced In House?
+5f722a052b000043c3ba6150,,103364,question,responseOption1,28136,form,Yes
+5f722a052b000043c3ba6150,,103364,question,responseOption2,28136,form,No
+5f722a27290000ff8e0a148c,,103365,question,questionText,28136,form,Agent Used?
+5f722a27290000ff8e0a148c,,103365,question,responseOption1,28136,form,Yes
+5f722a27290000ff8e0a148c,,103365,question,responseOption2,28136,form,No
+5f722ae02900004836dde8a6,,103366,question,questionText,28136,form,Goods/Services Sourced
+5f722af52900004836dde8af,,103367,question,questionText,28136,form,Sourced In House?
+5f722af52900004836dde8af,,103367,question,responseOption1,28136,form,Yes
+5f722af52900004836dde8af,,103367,question,responseOption2,28136,form,No
+5f722b4b2900004836dde8c9,,103368,question,questionText,28136,form,Agent Used?
+5f722b4b2900004836dde8c9,,103368,question,responseOption1,28136,form,Yes
+5f722b4b2900004836dde8c9,,103368,question,responseOption2,28136,form,No
+5f722b94290000ff8e0a1549,,103369,question,questionText,28136,form,Goods/Services Sourced
+5f722ba62b000048367a68df,,103370,question,questionText,28136,form,Sourced In House?
+5f722ba62b000048367a68df,,103370,question,responseOption1,28136,form,Yes
+5f722ba62b000048367a68df,,103370,question,responseOption2,28136,form,No
+5f722bbc2900004836dde900,,103371,question,questionText,28136,form,Agent Used?
+5f722bbc2900004836dde900,,103371,question,responseOption1,28136,form,Yes
+5f722bbc2900004836dde900,,103371,question,responseOption2,28136,form,No
+5f722c682900004836dde9a7,,103372,question,questionText,28136,form,Other (if sourcing or producing in other countries not listed above)

@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67e30d8c010000c6000b8535,67dc3ec90100007600a60a09,44800,questionGroup,questionGroupText,44800,form,UK Cyber Essentials Certification Scheme Questionnaire
+67e1c0310100003500c95c25,67e1aaf30100005900c95b00,44823,questionGroup,description,44800,form,"If you reply ""Yes"" to this question you will be required to provide your Cyber Essentials or Cyber Essentials Plus certification in another form, the expiration date of the certificate, license classifications, and an upload of your license."
+67e1c0310100003500c95c25,67e1aaf30100005900c95b00,44823,questionGroup,questionGroupText,44800,form,Cyber Essentials Certification Scheme
+67e1ab0f0100003c000e2a6c,,166713,question,description,44800,form,"The Cyber Essentials and Cyber Essentials Plus certificates are issued by certification bodies that are accredited by the <a href =""https://www.gov.uk/government/publications/cyber-essentials-scheme-overview""target=""BLANK"">UK government</a>. These <a href = ""https://iasme.co.uk/cyber-essentials/find-a-certification-body/""target=""BLANK"">certification bodies</a> are approved by the <a href = ""https://www.ncsc.gov.uk/cyberessentials/overview""target=""BLANK"">National Cyber Security Centre (NCSC)</a> to carry out the assessments and issue the certificates."
+67e1ab0f0100003c000e2a6c,,166713,question,questionText,44800,form,Does your organization currently hold a Cyber Essentials or Cyber Essentials Plus certification?
+67e1ab0f0100003c000e2a6c,,166713,question,responseOption1,44800,form,Yes
+67e1ab0f0100003c000e2a6c,,166713,question,responseOption2,44800,form,No

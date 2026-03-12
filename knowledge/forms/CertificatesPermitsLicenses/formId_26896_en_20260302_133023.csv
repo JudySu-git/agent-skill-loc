@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec600100002d00a47393,5d30e803350000434197dae6,26896,questionGroup,questionGroupText,26896,form,Montana Contractor License
+5d5599bb3800008972800d54,5d30e8153500004e4d89197f,26897,questionGroup,questionGroupText,26896,form,Montana Contractor License
+5d30e8233500004e4d89198e,,84430,question,description,26896,form,"<a href = ""https://erdcontractors.mt.gov/ICCROnlineSearch/registrationlookup.jsp""target=""_BLANK_"">Montana Department of Labor & Industry – Contractor Search</a>\n\n\n\n"
+5d30e8233500004e4d89198e,,84430,question,questionText,26896,form,Montana Contractor License Number:\n
+5d30e85a350000434197daeb,,84431,question,description,26896,form,"<a href = ""https://erdcontractors.mt.gov/ICCROnlineSearch/registrationlookup.jsp""target=""_BLANK_"">Montana Department of Labor & Industry – Contractor Search</a>\n\n\n\n"
+5d30e85a350000434197daeb,,84431,question,questionText,26896,form,Montana Contractor License Classifications:\n
+5d30e87a3500004e4d8919e6,,84432,question,questionText,26896,form,Montana License Expiration Date:\n
+5d30e9153500004e4d891a59,,84433,question,description,26896,form,A URL will make verification quicker if provided\n
+5d30e9153500004e4d891a59,,84433,question,questionText,26896,form,"Upload a copy of your license, and or provide the URL of the license."
+5d30e9153500004e4d891a59,,84433,question,responseOption1,26896,form,File Upload
+5d30e9153500004e4d891a59,,84433,question,responseOption2,26896,form,URL
+5d30e92c3500004e4d891a7c,,84434,question,questionText,26896,form,Please upload a copy of your Montana license:\n
+5d30e9413500004e4d891a88,,84435,question,questionText,26896,form,Please enter the URL of the license:\n

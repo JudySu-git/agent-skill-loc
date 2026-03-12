@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68e986cf01000059000c9cad,68e986580100003a000c9ca7,48250,questionGroup,questionGroupText,48250,form,Subcontractor Utilization for Jackson Generation
+68e986580100003b000c9ca8,,184182,question,questionText,48250,form,Does your company use subcontractors for Jackson Generation?
+68e986580100003b000c9ca8,,184182,question,responseOption1,48250,form,Yes
+68e986580100003b000c9ca8,,184182,question,responseOption2,48250,form,No
+68e9865801000059000c9ca9,,184183,question,questionText,48250,form,How many subcontractors does your company utilize for Jackson Generation?
+68e9865801000059000c9caa,,184184,question,description,48250,form,"<b> <a href=""https://avettahelp.force.com/Supplier/s/article/Subcontractor-Management-Connect-Prime-Suppliers"" target=""_blank"">Understanding Subcontractor Management</a> <b>"
+68e9865801000059000c9caa,,184184,question,questionText,48250,form,Please review the following documentation which will provide you guidance on how to add or invite your subcontractors into the Avetta network.
+68e9865801000059000c9caa,,184184,question,responseOption1,48250,form,Please check this box to acknowledge that you have reviewed the following collateral to onboard your subcontractors. 

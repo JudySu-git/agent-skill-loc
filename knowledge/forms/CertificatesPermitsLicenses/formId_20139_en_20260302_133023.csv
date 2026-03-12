@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4f075fea504943fe4890470a,4f075fea504943fe4890470a,2290,questionGroup,questionGroupText,20139,form,Policy Information
+527002555049434bd63ab179,527002555049434bd63ab179,4719,questionGroup,questionGroupText,20139,form,Policy Limits
+6070606243000090e862e24c,5ab8823223000075003d7c87,20139,questionGroup,questionGroupText,20139,form,Public and Product Liability AU NZ
+527002d25049439347da1c88,,21564,question,questionText,20139,form,Limit of Liability - Public Liability
+527002f650494398b95d47ca,,21565,question,questionText,20139,form,Limit of Liability - Product Liability
+60705ff943000090e862df0e,,108609,question,description,20139,form,Used to provide instructions from Client
+60705ff943000090e862df0e,,108609,question,questionText,20139,form,Comments
+607060224500009d89bba676,,108610,question,description,20139,form,Date the instructions from Client expire
+607060224500009d89bba676,,108610,question,questionText,20139,form,VARIANCE Expiration Date
+62f53f3282eb52eab3c18faf,,130532,question,questionText,20139,form,Currency used in Certificate of Insurance (COI)

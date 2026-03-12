@@ -1,0 +1,18 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87738a36b6c4c635466c5,69a87738a36b6c4c635466c4,51149,questionGroup,questionGroupText,51149,form,建筑 - 材料搬运与存储,
+69a87738a36b6c4c635466be,,199995,question,description,51149,form,"材料存储必须防止坠落、滑动、倾翻或滚动等危险。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 15(1)</a>",
+69a87738a36b6c4c635466be,,199995,question,questionText,51149,form,材料存储安全,
+69a87738a36b6c4c635466bf,,199996,question,description,51149,form,"存储高度必须限制在确保稳定性的范围内。仅轻质材料可手动堆放超过 2.00 m 的高度。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 15(3)</a>",
+69a87738a36b6c4c635466bf,,199996,question,questionText,51149,form,存储高度限制（不超过 2 米）,
+69a87738a36b6c4c635466c0,,199997,question,description,51149,form,"堆垛基础必须坚实、水平且牢固。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 15(4)</a>",
+69a87738a36b6c4c635466c0,,199997,question,questionText,51149,form,稳固的堆垛基础,
+69a87738a36b6c4c635466c1,,199998,question,description,51149,form,"在运输包装材料之前，必须检查包装状况。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 16(3)</a>",
+69a87738a36b6c4c635466c1,,199998,question,questionText,51149,form,检查（运输前）,
+69a87738a36b6c4c635466c2,,199999,question,description,51149,form,"在投放材料前，必须对投放区域进行安全防护。投放授权信号必须确认该区域安全无虞。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 16(5)</a>",
+69a87738a36b6c4c635466c2,,199999,question,questionText,51149,form,授权投放区域,
+69a87738a36b6c4c635466c3,,200000,question,questionText,51149,form,<div></div>,

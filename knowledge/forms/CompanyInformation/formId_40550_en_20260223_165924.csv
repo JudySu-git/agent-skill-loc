@@ -1,0 +1,28 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65416b991d000075566f94e5,653c38f7180000685c204991,40550,questionGroup,questionGroupText,40550,form,DESA Client Specific - Brazil Company Information
+653c3964180000855c20499c,,146333,question,description,40550,form,The CNPJ card is a mandatory document that proves that a company exists and is duly registered. The number is issued upon registration with the https://www.gov.br/receitafederal/pt-br Federal Revenue of Brazil (RFB). \n
+653c3964180000855c20499c,,146333,question,questionText,40550,form,##### _Brazil_\nPlease provide your company's CNPJ number:
+653c3964180000855c20499c,,146333,question,responseOption1,40550,form,Yes
+653c3964180000855c20499c,,146333,question,responseOption2,40550,form,No
+653c39881d0000d14b637f5a,,146334,question,questionText,40550,form,Please upload your company’s CNPJ Card:
+653c39881d0000d14b637f5a,,146334,question,responseOption1,40550,form,Yes
+653c39881d0000d14b637f5a,,146334,question,responseOption2,40550,form,No
+653c39a51d0000d24b637f5b,,146335,question,description,40550,form,"Example: Ltda., S.A., ME, EIRELI, EPP, MEI, etc."
+653c39a51d0000d24b637f5b,,146335,question,questionText,40550,form,Please indicate your company's business entity / form of business within this country.
+653c39a51d0000d24b637f5b,,146335,question,responseOption1,40550,form,Yes
+653c39a51d0000d24b637f5b,,146335,question,responseOption2,40550,form,No
+653c3ddd180000885c2049a6,,146336,question,description,40550,form,"As a general rule, all companies that sell products must have State Registration. Those who only work with services are not obliged to perform it, as they must pay the ISS tax (Services Tax), which is a municipal responsibility. There are companies that offer both products and services, which is why they also need to have State Registration"
+653c3ddd180000885c2049a6,,146336,question,questionText,40550,form,Does your company have a State Tax Number?
+653c3ddd180000885c2049a6,,146336,question,responseOption1,40550,form,Yes
+653c3ddd180000885c2049a6,,146336,question,responseOption2,40550,form,No
+653c3ddd180000885c2049a6,,146336,question,responseOption3,40550,form,N/A
+653c3dfe180000695c2049a7,,146337,question,questionText,40550,form,Please upload a certificate or other supporting documentation verifying your company's State Tax Number.
+653c3dfe180000695c2049a7,,146337,question,responseOption1,40550,form,Yes
+653c3dfe180000695c2049a7,,146337,question,responseOption2,40550,form,No
+653c3e1e180000695c2049a8,,146338,question,description,40550,form,The Municipal Tax number is mandatory for all companies.
+653c3e1e180000695c2049a8,,146338,question,questionText,40550,form,Please provide your company's Municipal Tax Number
+653c3e1e180000695c2049a8,,146338,question,responseOption1,40550,form,Yes
+653c3e1e180000695c2049a8,,146338,question,responseOption2,40550,form,No
+653c3e35180000835c2049ab,,146339,question,questionText,40550,form,Please upload a certificate or other supporting documentation verifying your company's Municipal Tax Number.
+653c3e35180000835c2049ab,,146339,question,responseOption1,40550,form,Yes
+653c3e35180000835c2049ab,,146339,question,responseOption2,40550,form,No

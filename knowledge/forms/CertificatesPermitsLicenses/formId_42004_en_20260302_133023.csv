@@ -1,0 +1,10 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+694afb2e01000063007ffbdc,662fe0fb1b00002f00b6e567,42004,questionGroup,description,42004,form,You are getting this category because you selected that you have a license in the Avetta PQF - Australia Contractor License.
+694afb2e01000063007ffbdc,662fe0fb1b00002f00b6e567,42004,questionGroup,questionGroupText,42004,form,Avetta PQF - Northern Territory License
+694af4b601000062007ffbc3,,194235,question,questionText,42004,form,Please select all of the licenses your company currently maintains:
+694af4b601000062007ffbc3,,194235,question,responseOption1,42004,form,Class A: Asbestos Removal
+694af4b601000062007ffbc3,,194235,question,responseOption2,42004,form,Class B: Asbestos Removal
+694af4b601000062007ffbc3,,194235,question,responseOption3,42004,form,Electrical
+694af4b601000062007ffbc3,,194235,question,responseOption4,42004,form,Transport Explosives and / or Security Sensitive Dangerous Substance  Security Master
+694af4b601000062007ffbc3,,194235,question,responseOption5,42004,form,Builders
+694af4b601000062007ffbc3,,194235,question,responseOption6,42004,form,Security Master

@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+688126c1010000d301290ab9,687fb98c0100001401d1b7eb,46754,questionGroup,description,46754,form,This requirement is triggered because you indicated your organization maintains a valid bizSAFE Level 3 in the Singapore bizSAFE Level 3 Applicability Assessment questionnaire.
+688126c1010000d301290ab9,687fb98c0100001401d1b7eb,46754,questionGroup,questionGroupText,46754,form,Avetta PQF - Singapore bizSAFE Level 3
+687fba550100003c0060e38b,,176784,question,description,46754,form,Company bizSAFE certificates can be found through the [Workplace Safety and Health Council (WSHC) website.](https://survey.wshc.sg/Community/se/705E3EE811E215C7)
+687fba550100003c0060e38b,,176784,question,questionText,46754,form,Please upload your bizSAFE Level 3 certificate.
+687fbaba010000df0060e38e,,176785,question,description,46754,form,"The expiration date should be 3 years after the issue date. To check your expiration date, you may refer to the [bizSAFE e-services portal.](https://www.tal.sg/wshc/programmes/bizsafe/bizsafe-e-services)"
+687fbaba010000df0060e38e,,176785,question,questionText,46754,form,Please enter the expiration date of your bizSAFE Level 3 certificate.

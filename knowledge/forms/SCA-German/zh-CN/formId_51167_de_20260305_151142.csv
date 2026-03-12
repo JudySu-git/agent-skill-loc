@@ -1,0 +1,15 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87745a36b6c4c6354676a,69a87745a36b6c4c63546769,51167,questionGroup,questionGroupText,51167,form,热工作业,
+69a87745a36b6c4c63546764,,200125,question,description,51167,form,"必须每年对气焊、切割及相关工艺进行培训指导，内容须与现场条件、制造商说明及相关技术信息保持一致。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Work Equipment Ordinance, Section 26(4)</a>",
+69a87745a36b6c4c63546764,,200125,question,questionText,51167,form,年度培训,
+69a87745a36b6c4c63546765,,200126,question,description,51167,form,"压缩气瓶必须采取防倾倒和防过热措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Work Equipment Ordinance, Section 26(2)(6)</a>",
+69a87745a36b6c4c63546765,,200126,question,questionText,51167,form,气瓶固定,
+69a87745a36b6c4c63546766,,200127,question,description,51167,form,"热工作业防火措施必须涵盖易燃区域内的焊接、切割、钎焊及其他产生火花的作业。热工作业管控措施必须防止火焰、热量或焊接飞溅物引燃易燃或可燃材料。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 42(2), 42(3)</a>",
+69a87745a36b6c4c63546766,,200127,question,questionText,51167,form,防火措施,
+69a87745a36b6c4c63546767,,200128,question,description,51167,form,"当热工作业存在火灾风险时，必须明确规定火灾监察措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 42(3)</a>",
+69a87745a36b6c4c63546767,,200128,question,questionText,51167,form,热工作业,
+69a87745a36b6c4c63546768,,200129,question,questionText,51167,form,<div></div>,

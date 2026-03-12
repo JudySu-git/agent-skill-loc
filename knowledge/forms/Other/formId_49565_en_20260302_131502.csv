@@ -1,0 +1,18 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6938a2ed01000045003572c7,693763b201000060009e549e,49565,questionGroup,description,49565,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+6938a2ed01000045003572c7,693763b201000060009e549e,49565,questionGroup,questionGroupText,49565,form,Nicaragua Hygiene and Safety Applicability Assessment
+693763b201000048009e549f,,192046,question,description,49565,form,"<a href=""http://legislacion.asamblea.gob.ni/normaweb.nsf/3133c0d121ea3897062568a1005e0f89/aa1d36af4ce8bafe0625737d006bc5ac?OpenDocument"" target=""_blank"">Regulations of the General Law on Occupational Health and Safety</a>\n"
+693763b201000048009e549f,,192046,question,questionText,49565,form,"Does your company perform work in Nicaragua, as defined by the General Law of Hygiene and Safety at Work in Nicaragua and is required to register with MITRAB?"
+693763b201000048009e549f,,192046,question,responseOption1,49565,form,Yes
+693763b201000048009e549f,,192046,question,responseOption2,49565,form,No
+693763b201000048009e54a0,,192047,question,questionText,49565,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Nicaraguan legislation."
+693763b201000048009e54a1,,192048,question,questionText,49565,form,Please explain why your company is exempt from needing applicable Hygiene and Safety at Work documentation.
+693763b201000052029e54a2,,192049,question,description,49565,form,"The Industrial Hygiene and Safety License certifies that a company complies with all Nicaraguan legal requirements for occupational hygiene and safety, allowing legal operation. Relevant legal requirements are: \n<b></b>\n<a href=""http://legislacion.asamblea.gob.ni/normaweb.nsf/($All)/16624DBD812ACC1B06257347006A6C8C?OpenDocument"" target=""_blank"">Law No. 618, General Law on Occupational Health and Safety (Art. 7, 41, 48, 50, 52)</a>\n<b></b>\n<a href=""http://legislacion.asamblea.gob.ni/normaweb.nsf/3133c0d121ea3897062568a1005e0f89/aa1d36af4ce8bafe0625737d006bc5ac?OpenDocument"" target=""_blank"">Regulations of the General Law on Occupational Health and Safety</a>\n"
+693763b201000052029e54a2,,192049,question,questionText,49565,form,Does your company perform work in sectors covered by the General Law of Hygiene and Safety at Work in Nicaragua and is required to maintain an Industrial Hygiene and Safety License?
+693763b201000052029e54a2,,192049,question,responseOption1,49565,form,Yes
+693763b201000052029e54a2,,192049,question,responseOption2,49565,form,No
+693763de01000061009e54a5,,192050,question,questionText,49565,form,Please select from the following reasons your company is exempt from needing applicable Hygiene and Safety at Work documentation.
+693763de01000061009e54a5,,192050,question,responseOption1,49565,form,The company is a sole proprietorship with no other employees.
+693763de01000061009e54a5,,192050,question,responseOption2,49565,form,The company does not have employees based in Nicaragua.
+693763de01000061009e54a5,,192050,question,responseOption3,49565,form,The company does not have a physical workplace in Nicaragua.
+693763de01000061009e54a5,,192050,question,responseOption4,49565,form,Other

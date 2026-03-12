@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+624722f4300000de48b213eb,6241ed0b2f00007010bb3ada,35673,questionGroup,questionGroupText,35674,form,Yukon Territory
+660c8a981c00006600c0132d,6241ed0b2f00007010bb3ad9,35674,questionGroup,questionGroupText,35674,form,Yukon WCB Compliance Letter
+6241ed0b2f00007010bb3adc,,122429,question,questionText,35674,form,When is your Compliance Letter valid until?
+624722f3300000b56a834d1c,,122543,question,questionText,35674,form,Please upload your Yukon WCB Compliance Letter within 30 days* (date of upload)

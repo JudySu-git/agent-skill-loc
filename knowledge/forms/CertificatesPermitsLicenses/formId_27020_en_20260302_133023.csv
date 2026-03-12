@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec5e0100004a00a47367,5d376048360000a7bcb093d4,27020,questionGroup,questionGroupText,27020,form,West Virginia Contractor License
+5d5c3da13700008206928aa8,5d37605b360000a7bcb093e3,27021,questionGroup,questionGroupText,27020,form,West Virginia Contractor License
+5d376069360000a7bcb09400,,84875,question,description,27020,form,"<a href = ""https://labor.wv.gov/Licensing/Contractor_License/Pages/contractor-search.aspx""target=""_BLANK_"">West Virginia Division of Labor Contractor Licensing</a>\n"
+5d376069360000a7bcb09400,,84875,question,questionText,27020,form,West Virginia Contractor License Number:
+5d376073360000a7bcb09401,,84876,question,description,27020,form,"<a href = ""https://labor.wv.gov/Licensing/Contractor_License/Pages/contractor-search.aspx""target=""_BLANK_"">West Virginia Division of Labor Contractor Licensing</a>\n"
+5d376073360000a7bcb09401,,84876,question,questionText,27020,form,West Virginia Contractor License Classifications:
+5d376080360000b66a8e41c1,,84877,question,questionText,27020,form,West Virginia License Expiration Date:
+5d376089360000a7bcb09407,,84878,question,questionText,27020,form,"Upload a copy of your license, and or provide the URL of the license."
+5d376089360000a7bcb09407,,84878,question,responseOption1,27020,form,File Upload
+5d376089360000a7bcb09407,,84878,question,responseOption2,27020,form,URL
+5d37609a360000b66a8e41d5,,84879,question,questionText,27020,form,Please upload a copy of your West Virginia license:
+5d3760a2360000b66a8e41d6,,84880,question,questionText,27020,form,Please enter the URL of the license:

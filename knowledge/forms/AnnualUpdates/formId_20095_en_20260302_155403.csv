@@ -1,0 +1,46 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5fd039942c0000124baf43f9,50afdb245049438179bdb3fd,3165,questionGroup,questionGroupText,20095,form,Mexico
+63a0e6bb160000b70456434e,5101a20e504943cd5c557642,3350,questionGroup,questionGroupText,20095,form,Mexico Specific Updates
+63a0e72316000043045dc582,5159cc535049436dabfcec1d,3653,questionGroup,questionGroupText,20095,form,Prima de Riesgo
+5101a455504943c177d8be5f,,15336,question,description,20095,form,"IMPORTANT: Please make sure to all include Full-Time, Part-Time, Seasonal, and Contract workers under your supervision, even if they were not under your direct employment."
+5101a455504943c177d8be5f,,15336,question,questionText,20095,form,Please enter the Average Number of Employees your company had during the given year:
+5101a6b9504943f7505a5693,,15337,question,description,20095,form,"Articles 474-475 the Federal Labor Law\n\n<a href=""https://www.gob.mx/cms/uploads/attachment/file/14290/Ley_Federal_del_Trabajo.pdf""target=""_blank"">https://www.gob.mx/cms/uploads/attachment/file/14290/Ley_Federal_del_Trabajo.pdf</a>"
+5101a6b9504943f7505a5693,,15337,question,questionText,20095,form,Did your company have any work related accident(s) or occupational diseases for the given year?
+5101a6b9504943f7505a5693,,15337,question,responseOptionNo,20095,form,No
+5101a6b9504943f7505a5693,,15337,question,responseOptionYes,20095,form,Yes
+5101a715504943adbf65bba1,,15338,question,questionText,20095,form,Please provide an explanation as to why your company did not have a Prima de Riesgo issued by the IMSS during the given year.
+5101a89d504943d36affe1ca,,15339,question,description,20095,form,"Include hours worked by salaried, hourly, part-time and seasonal workers including temporary help services workers under your supervision, even if they were not under your direct employment.\nDo not include vacation, sick leave, holidays, or any other non-work time, even if employees were paid for it. If your establishment keeps records of only the hours paid or if you have employees who are not paid by the hour, please estimate the hours that the employees actually worked. If this number isn't available, an estimate is still needed."
+5101a89d504943d36affe1ca,,15339,question,questionText,20095,form,Please enter the total number of hours worked by all employees during the given year. Please round your answer to the next highest whole number.
+5101a9375049439529ca2968,,15340,question,questionText,20095,form,Please enter the total number of work related fatalities for the given year.
+5101a9665049434352c222ab,,15341,question,questionText,20095,form,Total number of _cases_ with days away from work
+5101a98d50494320b42d1e0a,,15342,question,description,20095,form,Please include the total number of lost working days from all the above categories.
+5101a98d50494320b42d1e0a,,15342,question,questionText,20095,form,What is the total number of lost working days for the given year?
+5101a9c95049436f78a602bd,,15343,question,questionText,20095,form,Total number of _cases_ with job transfer or restriction
+5101aa05504943efa2cc25b5,,15344,question,questionText,20095,form,Total number of _days_ of job transfer or restriction
+5101aa295049432dd450b3d8,,15345,question,questionText,20095,form,Total number of other recordable _cases_
+5159c9de50494320cc172409,,16586,question,description,20095,form,"If your PRIMA de Riesgo didn’t change from the previous year, or you didn’t report incidents therefore no changes to the PRIMA have occurred, or if you were awarded the minimum PRIMA please still answer yes, complete the following questions with latest information and upload the latest CLEM 22 Forms or Accuse Notarial. "
+5159c9de50494320cc172409,,16586,question,questionText,20095,form,"Did your company have a Prima de Riesgo during the given year?\n\n<a href=""/file-preview.html?fileId=2021-03-19T17:06:16.333Z~~~Prima_de_Riesgo.pdf"" target=""_blank"">Sample Prima de Riesgo</a>\n<a href=""/file-preview.html?fileId=2021-03-19T17:05:50.734Z~~~Acuse_Notarial.pdf"" target=""_blank"">Sample Acuse Notarial</a>"
+5159c9de50494320cc172409,,16586,question,responseOptionNo,20095,form,No
+5159c9de50494320cc172409,,16586,question,responseOptionYes,20095,form,Yes
+5159ccc5504943f14fa120a2,,16587,question,questionText,20095,form,"What was your prima de riesgo for your company? Value must be in decimal format, between 0.5-15.00."
+5159cce250494341b54527b6,,16588,question,description,20095,form,"If your PRIMA de Riesgo didn’t change from the previous year, or you didn’t report incidents therefore no changes to the PRIMA have occurred, or if you were awarded the minimum PRIMA please still answer yes, complete the following questions with latest information and upload the latest CLEM 22 Forms or Accuse Notarial. "
+5159cce250494341b54527b6,,16588,question,questionText,20095,form,"Please upload a copy of your Prima de Riesgo. This should be a form issued by the IMSS.\n\n<a href=""/file-preview.html?fileId=2021-03-19T17:06:16.333Z~~~Prima_de_Riesgo.pdf"" target=""_blank"">Sample Prima de Riesgo</a>\n<a href=""/file-preview.html?fileId=2021-03-19T17:05:50.734Z~~~Acuse_Notarial.pdf"" target=""_blank"">Sample Acuse Notarial</a>"
+698f701a01000064004ef4ae,5ab2dd5e2300005d0047b908,20095,questionGroup,questionGroupText,20095,form,Mexico Annual Update
+5fd039a12b0000b8025ab522,5dfc4efc350000f7bf3c80c8,28362,questionGroup,questionGroupText,20095,form,Data Validation
+5df2aac83100003655c0e370,,89491,question,questionText,20095,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+5df2aae73100003655c0e372,,89492,question,questionText,20095,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+5fce8ec82b0000b8024ff88d,,105286,question,description,20095,form,"If you have multiple classes, please select the highest class."
+5fce8ec82b0000b8024ff88d,,105286,question,questionText,20095,form,Please select the Prima media applicable to your company. This can be found on your Prima de Riesgo issued by the IMSS.
+5fce8ec82b0000b8024ff88d,,105286,question,responseOption1,20095,form,Class I
+5fce8ec82b0000b8024ff88d,,105286,question,responseOption2,20095,form,Class II
+5fce8ec82b0000b8024ff88d,,105286,question,responseOption3,20095,form,Class III
+5fce8ec82b0000b8024ff88d,,105286,question,responseOption4,20095,form,Class IV
+5fce8ec82b0000b8024ff88d,,105286,question,responseOption5,20095,form,Class V
+698f6ab601000063004ef33c,,198502,question,description,20095,form,"Permanent total disability is the loss of a person's abilities or skills that makes them unable to perform any work for the rest of their life.\n\n<a href=""https://www.gob.mx/cms/uploads/attachment/file/14290/Ley_Federal_del_Trabajo.pdf"" target=""_blank""> Article 480 The Federal Labor Law\n</a>"
+698f6ab601000063004ef33c,,198502,question,questionText,20095,form,Please enter the total number of Permanent total disability accidents for the given year.
+698f6ad301000044004ef340,,198503,question,description,20095,form,"Permanent partial disability is the reduction of a person’s faculties or abilities to work.\n\n<a href=""https://www.gob.mx/cms/uploads/attachment/file/14290/Ley_Federal_del_Trabajo.pdf"" target=""_blank""> Article 479 The Federal Labor Law\n</a>"
+698f6ad301000044004ef340,,198503,question,questionText,20095,form,Please enter the total number of Permanent partial disability accidents for the given year.
+698f6ae801000060004af6cd,,198504,question,description,20095,form,"Temporary disability is the loss of faculties or abilities that makes a person partially or totally unable to perform their work for a period of time.\n\n<a href=""https://www.gob.mx/cms/uploads/attachment/file/14290/Ley_Federal_del_Trabajo.pdf"" target=""_blank""> Article 478 The Federal Labor Law\n</a>"
+698f6ae801000060004af6cd,,198504,question,questionText,20095,form,Please enter the total number of Temporary disability accidents for the given year.
+698f6af50100003e004af70a,,198505,question,description,20095,form,"Occupational disease is any pathological condition resulting from the continued action of a cause that originates in the work or in the environment in which the worker is required to perform their services.\n\n<a href=""https://www.gob.mx/cms/uploads/attachment/file/14290/Ley_Federal_del_Trabajo.pdf"" target=""_blank""> Article 475 The Federal Labor Law\n</a>"
+698f6af50100003e004af70a,,198505,question,questionText,20095,form,Please enter the total number of reportable occupational diseases.

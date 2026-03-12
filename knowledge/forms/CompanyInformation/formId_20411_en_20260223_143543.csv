@@ -1,0 +1,49 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65664eb91900006877414806,57f58b35504943597539886f,9632,questionGroup,questionGroupText,20411,form,Ecuador
+656670ef190000b6774154ff,5b4685ff230000fd0f46d012,20411,questionGroup,questionGroupText,20411,form,Avetta PQF - Ecuador Company Information
+57f82724504943313e921ac5,,40978,question,questionText,20411,form,What is your company’s primary National Classification of Economic Activities (CIIU) Code?
+57f82852504943a613db919d,,40980,question,questionText,20411,form,What is your company’s secondary National Classification of Economic Activities (CIIU) Code?
+57fc27f5504943dbd69861c0,,40996,question,questionText,20411,form,Is your company registered with the Mercantile Registry?
+57fc27f5504943dbd69861c0,,40996,question,responseOptionNo,20411,form,No
+57fc27f5504943dbd69861c0,,40996,question,responseOptionYes,20411,form,Yes
+57fc27f65049435665c6d529,,40997,question,questionText,20411,form,Does your company have an appointed legal representative?
+57fc27f65049435665c6d529,,40997,question,responseOptionNo,20411,form,No
+57fc27f65049435665c6d529,,40997,question,responseOptionYes,20411,form,Yes
+57fc27f7504943adfcbbacc1,,40998,question,questionText,20411,form,Does your company have a tax identification number (RUC)?
+57fc27f7504943adfcbbacc1,,40998,question,responseOptionNo,20411,form,No
+57fc27f7504943adfcbbacc1,,40998,question,responseOptionYes,20411,form,Yes
+57fc27f8504943a068df0660,,40999,question,questionText,20411,form,Is your company registered with the Ecuador Social Security Institute (IESS)?
+57fc27f8504943a068df0660,,40999,question,responseOptionNo,20411,form,No
+57fc27f8504943a068df0660,,40999,question,responseOptionYes,20411,form,Yes
+57fc28a9504943d62dbcff7c,,41000,question,questionText,20411,form,What is your company's registration number as issued by the Mercantile Registry?
+57fc28aa50494389e5f4665d,,41001,question,questionText,20411,form,What is the name of the appointed legal representative?
+57fc28ad504943a9a8c646ab,,41002,question,questionText,20411,form,What is your company's tax identification number (RUC)?
+57fc28b1504943e268293536,,41003,question,questionText,20411,form,What is your employers' identification number as issued by the Social Security Institute?
+63483f602e00004c388948e7,,131791,question,questionText,20411,form,Please Upload IESS Certificate.
+65664eb61900006f77414805,,147451,question,questionText,20411,form,Please indicate your company's business entity / form of business within this country.
+65664eb61900006f77414805,,147451,question,responseOption1,20411,form,Sole Proprietorship
+65664eb61900006f77414805,,147451,question,responseOption2,20411,form,Corporation
+65664eb61900006f77414805,,147451,question,responseOption3,20411,form,Limited Liability Company
+65664eb61900006f77414805,,147451,question,responseOption4,20411,form,General Partnership
+65664eb61900006f77414805,,147451,question,responseOption5,20411,form,Limited Partnership
+65664eb61900006f77414805,,147451,question,responseOption6,20411,form,Branch Office
+65664eb61900006f77414805,,147451,question,responseOption7,20411,form,Foreign entity with no local fiscal presence
+65664eb61900006f77414805,,147451,question,responseOption8,20411,form,Other
+656652701900008477414d0b,,147452,question,questionText,20411,form,Please indicate where your company is established:
+656652701900008477414d0b,,147452,question,responseOption1,20411,form,Yes
+656652701900008477414d0b,,147452,question,responseOption2,20411,form,No
+656653fb1900007e77414d17,,147453,question,questionText,20411,form,"If Other, please explain:"
+656653fb1900007e77414d17,,147453,question,responseOption1,20411,form,Yes
+656653fb1900007e77414d17,,147453,question,responseOption2,20411,form,No
+65665e931900008c77414fa4,,147454,question,questionText,20411,form,Please explain why:
+65665e931900008c77414fa4,,147454,question,responseOption1,20411,form,Yes
+65665e931900008c77414fa4,,147454,question,responseOption2,20411,form,No
+65665ec31900006977414fa7,,147455,question,questionText,20411,form,Please explain why:
+65665ec31900006977414fa7,,147455,question,responseOption1,20411,form,Yes
+65665ec31900006977414fa7,,147455,question,responseOption2,20411,form,No
+65665ee41900009f77414fab,,147456,question,questionText,20411,form,Please explain why:
+65665ee41900009f77414fab,,147456,question,responseOption1,20411,form,Yes
+65665ee41900009f77414fab,,147456,question,responseOption2,20411,form,No
+656666711900009e774154e6,,147461,question,questionText,20411,form,Please explain why:
+656666711900009e774154e6,,147461,question,responseOption1,20411,form,Yes
+656666711900009e774154e6,,147461,question,responseOption2,20411,form,No

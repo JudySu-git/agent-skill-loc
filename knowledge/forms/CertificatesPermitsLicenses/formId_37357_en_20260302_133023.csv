@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68e7e2a40100005a000c946d,6351ccdd1900005201df9f9a,37357,questionGroup,description,37357,form,"You are getting this category because you selected ISO 14001:2015 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+68e7e2a40100005a000c946d,6351ccdd1900005201df9f9a,37357,questionGroup,questionGroupText,37357,form,ISO 14001 - Environmental Management Systems
+6351cdc416000003021ce019,,131914,question,questionText,37357,form,Please upload your ISO 14001:2015 - Environmental management systems certificate:
+6351cde51900001c01dfa65c,,131915,question,questionText,37357,form,Please enter the certificate expiration date:

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4bc50100002f00ebe530,66300d6d1b00002e00b6e6d5,42041,questionGroup,description,42041,form,You are getting this category because you selected a license in the Avetta PQF - Tasmania License.
+66ce4bc50100002f00ebe530,66300d6d1b00002e00b6e6d5,42041,questionGroup,questionGroupText,42041,form,Tasmania Contractor License - Electrical
+66300d6d1b00006000b6e6d6,,153426,question,questionText,42041,form,Expiration Date:
+66300d6d1b00006000b6e6d6,,153426,question,responseOption1,42041,form,Yes
+66300d6d1b00006000b6e6d6,,153426,question,responseOption2,42041,form,No
+66300d6d1b00006000b6e6d7,,153427,question,questionText,42041,form,Please upload your license:\n
+66300d6d1b00006000b6e6d7,,153427,question,responseOption1,42041,form,Yes
+66300d6d1b00006000b6e6d7,,153427,question,responseOption2,42041,form,No
+66300d6d1b00006000b6e6d8,,153428,question,questionText,42041,form,License Number:
+66300d6d1b00006000b6e6d8,,153428,question,responseOption1,42041,form,Yes
+66300d6d1b00006000b6e6d8,,153428,question,responseOption2,42041,form,No

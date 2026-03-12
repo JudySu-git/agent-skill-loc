@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65cff5ad1800008500da598e,65bd81881800006441a6c8e6,41243,questionGroup,questionGroupText,41243,form,Trucker's Civil Liability - Cargo Insurance (RCTR-C)
+65c1414b170000b4308367f4,65c1414b170000b4308367f3,41266,questionGroup,questionGroupText,41243,form,Policy Information
+65c141531700007a018367f8,65c141531700007a018367f7,41267,questionGroup,questionGroupText,41243,form,Policy Limits
+65bd81881800006441a6c8e7,,150178,question,questionText,41243,form,Maximum Guarantee Limit:
+65bd81881800006441a6c8e8,,150179,question,questionText,41243,form,Policy Expiration:
+65bd81881800006441a6c8e8,,150179,question,responseOption1,41243,form,Yes
+65bd81881800006441a6c8e8,,150179,question,responseOption2,41243,form,No
+65c13d20170000b2308367e6,,150216,question,description,41243,form,Used to provide instructions from Client
+65c13d20170000b2308367e6,,150216,question,questionText,41243,form,Comments
+65c13d3a180000e02fb40e49,,150218,question,description,41243,form,Date the instructions from Client expire
+65c13d3a180000e02fb40e49,,150218,question,questionText,41243,form,VARIANCE Expiration Date
+65c141ad170000e9008367fc,,150221,question,questionText,41243,form,Please upload Trucker’s Civil Liability - Cargo Insurance (RCTR-C) Certificate.
+65c141ad170000e9008367fc,,150221,question,responseOption1,41243,form,Yes
+65c141ad170000e9008367fc,,150221,question,responseOption2,41243,form,No

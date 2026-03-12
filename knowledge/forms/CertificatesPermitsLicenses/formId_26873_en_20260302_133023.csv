@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec610100002d00a473a3,5d30c3fa3500004e4d88ef9f,26873,questionGroup,questionGroupText,26873,form,Louisiana Contractor License
+5d5596ba33000051365fae58,5d30c424350000434197b994,26874,questionGroup,questionGroupText,26873,form,Louisiana Contractor License
+5d30c4473500004e4d88efa7,,84367,question,description,26873,form,"<a href = ""https://lslbc.louisiana.gov/contractor-search/ ""target=""_BLANK_"">Louisiana State Licensing Board for Contractors</a>\n"
+5d30c4473500004e4d88efa7,,84367,question,questionText,26873,form,Louisiana Contractor License Number:\n
+5d30c4693500004e4d88efa9,,84368,question,description,26873,form,"<a href = ""https://lslbc.louisiana.gov/contractor-search/ ""target=""_BLANK_"">Louisiana State Licensing Board for Contractors</a>\n"
+5d30c4693500004e4d88efa9,,84368,question,questionText,26873,form,Louisiana Contractor License Classifications:\n
+5d30c48d3500004e4d88efab,,84369,question,questionText,26873,form,Louisiana License Expiration Date:
+5d30c4a13500004e4d88efad,,84370,question,description,26873,form,A URL will make verification quicker if provided\n
+5d30c4a13500004e4d88efad,,84370,question,questionText,26873,form,"Upload a copy of your license, and or provide the URL of the license."
+5d30c4a13500004e4d88efad,,84370,question,responseOption1,26873,form,File Upload
+5d30c4a13500004e4d88efad,,84370,question,responseOption2,26873,form,URL
+5d30c4b9350000434197b99c,,84371,question,questionText,26873,form,Please upload a copy of your Louisiana license:\n
+5d30c4c43500004e4d88efb0,,84372,question,questionText,26873,form,Please enter the URL of the license:\n

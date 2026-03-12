@@ -1,0 +1,28 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66f4845d0100002a00c6a429,66ec5d8501000036006990b4,43436,questionGroup,questionGroupText,43436,form,Group Life Insurance (Brazil)
+66ec76c5010000150173cdf9,66ec5e260100002e006990b8,43437,questionGroup,questionGroupText,43436,form,Policy Information
+66ec76bd0100004f00699211,66ec5e3501000035006990bc,43438,questionGroup,questionGroupText,43436,form,Policy Limits
+66ec5e480100004c0073cc50,,159659,question,description,43436,form,Used to provide instructions from Client
+66ec5e480100004c0073cc50,,159659,question,questionText,43436,form,Comments
+66ec5e480100004c0073cc50,,159659,question,responseOption1,43436,form,Yes
+66ec5e480100004c0073cc50,,159659,question,responseOption2,43436,form,No
+66ec5e780100002d0073cc54,,159660,question,description,43436,form,Date the instructions from Client expire
+66ec5e780100002d0073cc54,,159660,question,questionText,43436,form,VARIANCE Expiration Date
+66ec5e780100002d0073cc54,,159660,question,responseOption1,43436,form,Yes
+66ec5e780100002d0073cc54,,159660,question,responseOption2,43436,form,No
+66ec5e880100004c0073cc56,,159661,question,questionText,43436,form,Date of Commencement:
+66ec5e880100004c0073cc56,,159661,question,responseOption1,43436,form,Yes
+66ec5e880100004c0073cc56,,159661,question,responseOption2,43436,form,No
+66ec5e930100004f006990c2,,159662,question,questionText,43436,form,Expiration Date:
+66ec5e930100004f006990c2,,159662,question,responseOption1,43436,form,Yes
+66ec5e930100004f006990c2,,159662,question,responseOption2,43436,form,No
+66ec5e9f0100004b0073cc58,,159663,question,questionText,43436,form,Insurance Carrier:
+66ec5e9f0100004b0073cc58,,159663,question,responseOption1,43436,form,Yes
+66ec5e9f0100004b0073cc58,,159663,question,responseOption2,43436,form,No
+66ec5ea90100002e006990c5,,159664,question,questionText,43436,form,Please upload a certificate showing coverage for Group Life Insurance
+66ec5ea90100002e006990c5,,159664,question,responseOption1,43436,form,Yes
+66ec5ea90100002e006990c5,,159664,question,responseOption2,43436,form,No
+66ec5ebc0100004c0073cc5b,,159665,question,questionText,43436,form,Currency used in Certificate of Insurance
+66ec5ebc0100004c0073cc5b,,159665,question,responseOption1,43436,form,Yes
+66ec5ebc0100004c0073cc5b,,159665,question,responseOption2,43436,form,No
+66ec5ed001000033006990c9,,159666,question,questionText,43436,form,Monetary amount

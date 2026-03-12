@@ -1,0 +1,31 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8773ca36b6c4c635466f8,69a8773ca36b6c4c635466f7,51154,questionGroup,questionGroupText,51154,form,Elektrische Sicherheit,
+69a8773ba36b6c4c635466ed,,200032,question,description,51154,form,"Elektrische Arbeiten dürfen nur von qualifizierten Elektrofachkräften oder, soweit zulässig, von unterwiesenen Personen unter Aufsicht einer qualifizierten Elektrofachkraft durchgeführt werden. Personen, die elektrische Arbeiten ausführen, müssen über die erforderliche Ausbildung, Kenntnisse und Erfahrung verfügen, um elektrische Gefährdungen zu vermeiden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007682&utm_"">Elektroschutzverordnung, § 1(3)(1,2), 12(2)</a>",
+69a8773ba36b6c4c635466ed,,200032,question,questionText,51154,form,Qualifiziertes Elektrofachpersonal,
+69a8773ba36b6c4c635466ee,,200033,question,description,51154,form,"Elektrische Betriebsmittel und Anlagen müssen für den vorgesehenen Betriebseinsatz und die Umgebungsbedingungen, einschließlich mechanischer, thermischer und chemischer Einflüsse, geeignet sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007682&utm_"">Elektroschutzverordnung, § 2(2)</a>",
+69a8773ba36b6c4c635466ee,,200033,question,questionText,51154,form,Eignung der Betriebsmittel,
+69a8773ba36b6c4c635466ef,,200034,question,description,51154,form,"Unter Spannung stehende Teile müssen isoliert, abgedeckt oder anderweitig geschützt sein, um direkten Kontakt zu verhindern. Benachbarte spannungsführende Teile müssen abgedeckt oder gesichert sein, wenn in deren Nähe gearbeitet wird.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007682&utm_"">Elektroschutzverordnung, § 3(1), 12(1)(5)</a>",
+69a8773ba36b6c4c635466ef,,200034,question,questionText,51154,form,Schutz spannungsführender Teile,
+69a8773ba36b6c4c635466f0,,200035,question,description,51154,form,"Elektrische Anlagen müssen mindestens eine wirksame Schutzmaßnahme gegen indirektes Berühren aufweisen, um bei einem Fehler Gefährdungen zu verhindern.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007682&utm_"">Elektroschutzverordnung, § 4(1), 12(1)(4)</a>",
+69a8773ba36b6c4c635466f0,,200035,question,questionText,51154,form,Fehlerschutz umgesetzt,
+69a8773ba36b6c4c635466f1,,200036,question,description,51154,form,"Elektrische Anlagen und Betriebsmittel dürfen erst nach Abschluss der vorgeschriebenen Prüfungen in Betrieb genommen werden. Elektrische Anlagen und Betriebsmittel auf Baustellen müssen mindestens wöchentlich auf sichtbare Mängel geprüft werden. Elektrische Sicherheitseinrichtungen im Bergbau müssen in den vorgeschriebenen wöchentlichen und monatlichen Intervallen geprüft werden. Festgestellte Mängel müssen vor der weiteren Verwendung behoben werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007682&utm_"">Elektroschutzverordnung, § 7(1)(1), 7(3)(2), 7(3)(3), 9(1)(1-3)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Arbeitsmittelverordnung, § 14</a>",
+69a8773ba36b6c4c635466f1,,200036,question,questionText,51154,form,"Prüfungen (vor Inbetriebnahme, wiederkehrend)",
+69a8773ba36b6c4c635466f2,,200037,question,description,51154,form,"Elektrische Anlagen und Betriebsmittel müssen vor der Inbetriebnahme sowie nach Änderung oder Instandsetzung geprüft werden. Die Prüfung muss von qualifizierten Elektrofachkräften durchgeführt werden und muss den Basisschutz gegen direktes Berühren, den Fehlerschutz gegen indirektes Berühren sowie die Wirksamkeit zusätzlicher Schutzmaßnahmen überprüfen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007682&utm_"">Elektroschutzverordnung, § 7(1)(2), 7(3)(1), 10(1)(2-4)</a>",
+69a8773ba36b6c4c635466f2,,200037,question,questionText,51154,form,Prüfung (Inbetriebnahme und nach Änderung),
+69a8773ba36b6c4c635466f3,,200038,question,description,51154,form,"Der Arbeitsbereich muss klar abgegrenzt sein, bevor spannungsfreie Arbeiten beginnen. Stromkreise müssen vor Beginn spannungsfreier Arbeiten getrennt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007682&utm_"">Elektroschutzverordnung, § 12(1)</a>",
+69a8773ba36b6c4c635466f3,,200038,question,questionText,51154,form,Spannungsfreies Arbeiten (Vorbereitung),
+69a8773ba36b6c4c635466f4,,200039,question,description,51154,form,"Personen, die Arbeiten unter Spannung durchführen, müssen eine spezielle Ausbildung absolviert haben und Auffrischungsschulungen erhalten. Mitarbeiter müssen in Lagerung, Pflege und Instandhaltung der PSA für Arbeiten unter Spannung unterwiesen werden. Mitarbeiter müssen gründlich über die erforderlichen Sicherheitsabstände in der Nähe spannungsführender Teile unterwiesen werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007682&utm_"">Elektroschutzverordnung, § 13(2)(1), 13(6), 14(5)</a>",
+69a8773ba36b6c4c635466f4,,200039,question,questionText,51154,form,Unterweisung,
+69a8773ba36b6c4c635466f5,,200040,question,description,51154,form,"Die erforderlichen Werkzeuge und PSA müssen für Arbeiten unter Spannung bereitstehen. Spannungsführende Teile müssen, soweit möglich, durch Abdeckungen, Gehäuse oder Isolierung geschützt werden. Ein Sicherheitsabstand, der größer als die Gefahrenzone ist, muss vor Beginn der Arbeiten festgelegt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007682&utm_"">Elektroschutzverordnung, § 13(2)(2), 13(3), 14(3), 14(4)(1-2)</a>",
+69a8773ba36b6c4c635466f5,,200040,question,questionText,51154,form,"Schutzmaßnahmen (technische, organisatorische und/oder persönliche Schutzausrüstung)",
+69a8773ba36b6c4c635466f6,,200041,question,questionText,51154,form,<div></div>,

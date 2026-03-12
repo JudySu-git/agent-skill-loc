@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68af6ce8010000620446fd2d,68acc5b0010000ae00971d35,47311,questionGroup,description,47311,form,"If your company is required to comply with Switzerland Statutory Labor Insurance, you will be asked to provide relevant documents in a subsequent form."
+68af6ce8010000620446fd2d,68acc5b0010000ae00971d35,47311,questionGroup,questionGroupText,47311,form,Switzerland Statutory Labor Insurance Applicability Assessment
+68acc5d70100003800971d3c,,179436,question,description,47311,form,"In Switzerland, it is mandatory for all employers to provide <a href = ""https://www.suva.ch/de-ch/versicherung/unfallversicherung/unfallversicherung-uvg#state=%5Banchor-C916962D-B84F-4E07-A295-ADBC1FEFE24A%5D"" target = ""_BLANK_"" >occupational accident insurance (UVG)</a> for employees working 8 or more hours per week. In addition to accident insurance, employers must comply with statutory social insurance schemes, including <a href = ""https://www.bsv.admin.ch/bsv/de/home/sozialversicherungen/eo-msv.html"" target = ""_BLANK_"" >Loss of Income Insurance (EO/APG)</a>.\n\n\n\n\n\n\n"
+68acc5d70100003800971d3c,,179436,question,questionText,47311,form,Is your company required to comply with Occupational Accident Insurance (UVG) and Loss of Income Insurance (EO/APG) and maintain applicable documentation to show compliance?
+68acc5d70100003800971d3c,,179436,question,responseOption1,47311,form,Yes
+68acc5d70100003800971d3c,,179436,question,responseOption2,47311,form,No
+68acc62b010000620046b706,,179439,question,description,47311,form,"<a href = ""https://europa.eu/youreurope/citizens/work/social-security-and-benefits/social-security-forms/index_en.htm"" target = ""_BLANK_"" >A1 certificate(s) </a>\n"
+68acc62b010000620046b706,,179439,question,questionText,47311,form,Please select from the following reasons your company is exempt from complying with Occupational Accident Insurance (UVG) and Loss of Income Insurance (EO/APG).
+68acc62b010000620046b706,,179439,question,responseOption1,47311,form,The company is made up entirely of foreign employee(s) working in Switzerland that are covered by the home country's scheme and are prepared to provide a copy of the A1 certificate(s) upon request.
+68acc62b010000620046b706,,179439,question,responseOption2,47311,form,Other
+68acc6670100003800971d49,,179440,question,questionText,47311,form,"If other, please explain."

@@ -1,0 +1,52 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+429fe3d05049432b146f20a8,,319,question,linkhttp://www.dot.gov/odapc,28601,form,DOT requirements
+429fe3d05049432b146f20a8,,319,question,questionText,28601,form,Does your company's drug & alcohol program conform to <a href='http://www.dot.gov/odapc ' target='_BLANK'>DOT requirements</a>?
+429fe3d05049432b146f20a8,,319,question,responseOptionNA,28601,form,N/A
+429fe3d05049432b146f20a8,,319,question,responseOptionNo,28601,form,No
+429fe3d05049432b146f20a8,,319,question,responseOptionYes,28601,form,Yes
+429fe3d0504943aa66169ce9,,320,question,linkhttp://www.ecfr.gov/cgi-bin/text-idx?rgn=div8&node=14:2.0.1.3.10.1.4.9,28601,form,"Federal Aviation Administration 14 CFR, Part 91.17"
+429fe3d0504943aa66169ce9,,320,question,questionText,28601,form,"Does your company's drug & alcohol testing program satisfy DOT regulation: <a href='http://www.ecfr.gov/cgi-bin/text-idx?rgn=div8&node=14:2.0.1.3.10.1.4.9 ' target='_BLANK'>Federal Aviation Administration 14 CFR, Part 91.17</a>"
+429fe3d0504943aa66169ce9,,320,question,responseOptionNA,28601,form,N/A
+429fe3d0504943aa66169ce9,,320,question,responseOptionNo,28601,form,No
+429fe3d0504943aa66169ce9,,320,question,responseOptionYes,28601,form,Yes
+429fe3d050494341def57f68,,321,question,linkhttp://www.fmcsa.dot.gov/regulations/title49/part/382,28601,form,"Federal Motor Carrier Safety Administration 49 CFR, Part 382"
+429fe3d050494341def57f68,,321,question,questionText,28601,form,"Does your company's drug & alcohol testing program satisfy DOT regulation: <a href='http://www.fmcsa.dot.gov/regulations/title49/part/382' target='_BLANK'>Federal Motor Carrier Safety Administration 49 CFR, Part 382</a>"
+429fe3d050494341def57f68,,321,question,responseOptionNA,28601,form,N/A
+429fe3d050494341def57f68,,321,question,responseOptionNo,28601,form,No
+429fe3d050494341def57f68,,321,question,responseOptionYes,28601,form,Yes
+429fe3d050494335e2ecf08f,,322,question,linkresources!download.action?id=4234,28601,form,"Federal Railroad Administration 49 CFR, Part 219"
+429fe3d050494335e2ecf08f,,322,question,questionText,28601,form,"Does your company's drug & alcohol testing program satisfy DOT regulation: <a href='https://www.ecfr.gov/cgi-bin/text-idx?SID=44eba9e08fd7b7e21c4430c8efa4acdd&node=pt49.4.219&rgn=div5' target='_BLANK'>Federal Railroad Administration 49 CFR, Part 219</a>"
+429fe3d050494335e2ecf08f,,322,question,responseOptionNA,28601,form,N/A
+429fe3d050494335e2ecf08f,,322,question,responseOptionNo,28601,form,No
+429fe3d050494335e2ecf08f,,322,question,responseOptionYes,28601,form,Yes
+429fe3d05049432f09e46002,,323,question,linkhttp://www.phmsa.dot.gov/drug,28601,form,"Pipeline and Hazardous Materials Safety Administration (PHMSA) 49 CFR, Part 199"
+429fe3d05049432f09e46002,,323,question,questionText,28601,form,"Does your company's drug & alcohol testing program satisfy DOT regulation: <a href='http://www.phmsa.dot.gov/drug' target='_BLANK'>Pipeline and Hazardous Materials Safety Administration (PHMSA) 49 CFR, Part 199</a>"
+429fe3d05049432f09e46002,,323,question,responseOptionNA,28601,form,N/A
+429fe3d05049432f09e46002,,323,question,responseOptionNo,28601,form,No
+429fe3d05049432f09e46002,,323,question,responseOptionYes,28601,form,Yes
+429fe3d050494318c28eab23,,324,question,linkhttp://www.uscg.mil/d5/prevention/dapi/dapi_home.asp,28601,form,"United States Coast Guard 33 CFR, Part 95"
+429fe3d050494318c28eab23,,324,question,questionText,28601,form,"Does your company's drug & alcohol testing program satisfy DOT regulation: <a href='http://www.uscg.mil/d5/prevention/DAPI/DAPI_home.asp' target='_BLANK'>United States Coast Guard 33 CFR, Part 95</a>"
+429fe3d050494318c28eab23,,324,question,responseOptionNA,28601,form,N/A
+429fe3d050494318c28eab23,,324,question,responseOptionNo,28601,form,No
+429fe3d050494318c28eab23,,324,question,responseOptionYes,28601,form,Yes
+429fe3d05049438f101f5389,,325,question,questionText,28601,form,Are your company's employees subject to Pre-Employment drug screening?
+429fe3d05049438f101f5389,,325,question,responseOptionNo,28601,form,No
+429fe3d05049438f101f5389,,325,question,responseOptionYes,28601,form,Yes
+435875d0504943256a69bd04,,334,question,linkhttp://www.disa.com/index.php/services/employee-screening/drug-and-achohol-testing.html,28601,form,DISA
+435875d0504943256a69bd04,,334,question,questionText,28601,form,What Drug and Alcohol testing services/consortiums does your company use? \n<a href='http://www.disa.com/index.php/services/employee-screening/drug-and-achohol-testing.html' target='_BLANK'>DISA</a>
+435875d0504943256a69bd04,,334,question,responseOptionNo,28601,form,No
+435875d0504943256a69bd04,,334,question,responseOptionYes,28601,form,Yes
+435875d0504943614b1aeb00,,833,question,linkhttps://www.asapdrugsolutions.com/,28601,form,ASAP
+435875d0504943614b1aeb00,,833,question,questionText,28601,form,<a href='https://www.asapdrugsolutions.com/' target='_BLANK'>ASAP</a>
+435875d0504943614b1aeb00,,833,question,responseOptionNo,28601,form,No
+435875d0504943614b1aeb00,,833,question,responseOptionYes,28601,form,Yes
+435875d050494342b5eccc53,,834,question,linkhttps://www.pipelinetesting.com/,28601,form,PTC (Pipeline Testing Consortium)
+435875d050494342b5eccc53,,834,question,questionText,28601,form,<a href='https://www.pipelinetesting.com/' target='_BLANK'>PTC (Pipeline Testing Consortium)</a>
+435875d050494342b5eccc53,,834,question,responseOptionNo,28601,form,No
+435875d050494342b5eccc53,,834,question,responseOptionYes,28601,form,Yes
+435875d0504943f7dc20e73e,,835,question,questionText,28601,form,OTHER
+45346350504943e4593c0312,,1459,question,questionText,28601,form,Does your company provide an EAP (Employee Assistance Program)?
+45346350504943e4593c0312,,1459,question,responseOptionNA,28601,form,N/A
+45346350504943e4593c0312,,1459,question,responseOptionNo,28601,form,No
+45346350504943e4593c0312,,1459,question,responseOptionYes,28601,form,Yes
+5c182b6f370000faddbf9ffa,5a9d89d73241812226a03142,28601,questionGroup,questionGroupText,28601,form,Avetta PQF - US Drug & Alcohol Program

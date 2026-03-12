@@ -1,0 +1,282 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63ab2a1116000025043976e5,5ec2aa643400009d6b60f42e,29974,questionGroup,questionGroupText,29974,form,Avetta PQF – Business Continuity Planning (BCP)
+63a4efd9180000fd03fd3d81,5ec2aa7c34000038a4aa3a63,29975,questionGroup,questionGroupText,29974,form,Leadership 
+63ab11f51600001d03385b7a,5ec2b82434000038a4aa3a83,29978,questionGroup,questionGroupText,29974,form,Operations
+5ec2bc983400009d6b60f4c8,5ec2bc983400009d6b60f4c7,29980,questionGroup,questionGroupText,29974,form, Improvement 
+63a4f10c1800009f054b6d5c,5ec2bef93400009d6b60f4cb,29981,questionGroup,questionGroupText,29974,form,Planning 
+63a4f1e4180000ce054b7df5,5ec2c03834000038a4aa3aef,29982,questionGroup,questionGroupText,29974,form,Support
+63ab163a160000bc0338948e,5ec2c16b370000b58af30de0,29983,questionGroup,questionGroupText,29974,form,Performance Evaluation
+5ec2aaa1370000b58af30d1f,,96912,question,questionText,29974,form,## Policy and Commitment\n\nDoes the company have a Business Continuity statement or plan of action that confirms how the business will maintain normal business operation? 
+5ec2aaa1370000b58af30d1f,,96912,question,responseOption1,29974,form,Yes
+5ec2aaa1370000b58af30d1f,,96912,question,responseOption2,29974,form,No
+5ec2aad7370000b58af30d20,,96913,question,description,29974,form,"Examples include: A table of contents/index taken from the company emergency plan, a policy statement undersigned by a senior management representative that demonstrates commitment to continue its operations post  event. (An event is something that impacts your ability to deliver normal services/operations)."
+5ec2aad7370000b58af30d20,,96913,question,questionText,29974,form,Please upload a copy of the statement or plan of action:
+5ec2af1b34000038a4aa3a6c,,96915,question,description,29974,form,"Some Critcial Event Examples: Natural disasters, floods, inclement weather, loss of power, fire, cyber-attack, etc."
+5ec2af1b34000038a4aa3a6c,,96915,question,questionText,29974,form,"## Risk and Opportunity Determination\n\nDoes the company identify incidents or business critical events that can stop the company from operating normally? This can be in the form of a risk assessment, business impact assessment or list provided by independent third parties, etc."
+5ec2af1b34000038a4aa3a6c,,96915,question,responseOption1,29974,form,Yes
+5ec2af1b34000038a4aa3a6c,,96915,question,responseOption2,29974,form,No
+5ec2b00a3400009d6b60f44f,,96920,question,questionText,29974,form,"Does the company, as part of the business impact assessment, include how the business will manage the impact of pandemics and infectious diseases on the workforce or members of the strategic supply chain? \n\n"
+5ec2b00a3400009d6b60f44f,,96920,question,responseOption1,29974,form,Yes
+5ec2b00a3400009d6b60f44f,,96920,question,responseOption2,29974,form,No
+5ec2b2cc3400009d6b60f49f,,96922,question,questionText,29974,form,Objectives and Planning\n\nDoes the company have a Business Continuity Plan (BCP)?
+5ec2b2cc3400009d6b60f49f,,96922,question,responseOption1,29974,form,Yes
+5ec2b2cc3400009d6b60f49f,,96922,question,responseOption2,29974,form,No
+5ec2b2ef370000f7c33c64bd,,96923,question,questionText,29974,form,"If yes, please upload a copy of the plan or process used to ensure the business can continue to provide its services:"
+5ec2b307370000f7c33c64be,,96924,question,questionText,29974,form,Please confirm the following: 
+5ec2b307370000f7c33c64be,,96924,question,responseOption1,29974,form,The plan or program is paper based only?
+5ec2b307370000f7c33c64be,,96924,question,responseOption2,29974,form,The plan or program is accessible via the cloud/external hard drive?
+5ec2b307370000f7c33c64be,,96924,question,responseOption3,29974,form,The plan or program is stored within the company IT system/server?
+5ec2b307370000f7c33c64be,,96924,question,responseOption4,29974,form,The plan is maintained by an independent 3rd party not based on company premises or worksite?
+5ec2b307370000f7c33c64be,,96924,question,responseOption5,29974,form,Other
+5ec2b35734000038a4aa3a78,,96925,question,questionText,29974,form,"The business continuity plan/program contains information on how all business objectives will be resourced and managed to ensure the plan contains relevant content for the company and where requirements are identified such as continual improvement, are achievable?"
+5ec2b35734000038a4aa3a78,,96925,question,responseOption1,29974,form,Yes
+5ec2b35734000038a4aa3a78,,96925,question,responseOption2,29974,form,No
+5ec2b3843400009d6b60f4a3,,96926,question,description,29974,form,"Training and guidance can include confirming  actions  allocated to different  members of the company,  so they have the necessary  understanding of  individual responsibilities  to ensure the effective implementation  of the business continuity plan."
+5ec2b3843400009d6b60f4a3,,96926,question,questionText,29974,form,## Resources\n\nCan the company demonstrate workers are provided with relevant training and guidance on the contents and application of the business continuity plan?
+5ec2b3843400009d6b60f4a3,,96926,question,responseOption1,29974,form,Yes
+5ec2b3843400009d6b60f4a3,,96926,question,responseOption2,29974,form,No
+5ec2b3ac370000f7c33c64c2,,96927,question,questionText,29974,form,Upload a copy of the type of training/guidance that is provided to the key workers:
+5ec2b3c034000038a4aa3a7b,,96928,question,questionText,29974,form,"Can the company confirm the contents of the business continuity plan is maintained and kept up to date with scheduled validation and verification, including testing or simulation of the actions required to address the identified risks?"
+5ec2b3c034000038a4aa3a7b,,96928,question,responseOption1,29974,form,Yes
+5ec2b3c034000038a4aa3a7b,,96928,question,responseOption2,29974,form,No
+5ec2b425370000f7c33c64c5,,96931,question,description,29974,form,"Individuals nominated with specific responsibilities to deliver the controls and actions, needed to get the business back to normality."
+5ec2b425370000f7c33c64c5,,96931,question,questionText,29974,form,Competence\n\nCan the company demonstrate a formal process is in place to assess and evaluate the competence of all nominated/named individuals listed within the plan?\n
+5ec2b425370000f7c33c64c5,,96931,question,responseOption1,29974,form,Yes
+5ec2b425370000f7c33c64c5,,96931,question,responseOption2,29974,form,No
+5ec2b442370000b58af30d4b,,96932,question,questionText,29974,form,Awareness and Communication\n\nCan the company confirm if a consultations process has been conducted within the business to ensure that all members of the business including any strategic suppliers who are needed as part of the day to day operation have understanding that the plan is in place and they know how to access it when needed?\n
+5ec2b442370000b58af30d4b,,96932,question,responseOption1,29974,form,Yes
+5ec2b442370000b58af30d4b,,96932,question,responseOption2,29974,form,No
+5ec2b45d370000b58af30d4d,,96933,question,description,29974,form,The company has multiple operations within a country.\n
+5ec2b45d370000b58af30d4d,,96933,question,questionText,29974,form,"Can the company confirm that if operating in more than one location within a country, the plan contents and risk assessments can be applied consistently across all of the locations?"
+5ec2b45d370000b58af30d4d,,96933,question,responseOption1,29974,form,Yes
+5ec2b45d370000b58af30d4d,,96933,question,responseOption2,29974,form,No
+5ec2b474370000f7c33c64c8,,96934,question,questionText,29974,form,Can the company confirm that the content and the application of the contents of the business continuity plan is communicated to  all key workers and members of the general workforce and subcontractors who may be impacted by the contents?
+5ec2b474370000f7c33c64c8,,96934,question,responseOption1,29974,form,Yes
+5ec2b474370000f7c33c64c8,,96934,question,responseOption2,29974,form,No
+5ec2b48734000038a4aa3a7f,,96935,question,questionText,29974,form,"Can the company confirm if you've appointed a single point of contact that acts as the primary spokesperson, to liase with: the client, emergency agencies and where applicable, the media or other third-party inquiries?"
+5ec2b48734000038a4aa3a7f,,96935,question,responseOption1,29974,form,Yes
+5ec2b48734000038a4aa3a7f,,96935,question,responseOption2,29974,form,No
+5ec2b4a8370000b58af30d50,,96936,question,questionText,29974,form,"Can the company confirm there is a formal  document control system in place that manages the development, maintenance and implementation of documentation specific to the Business Continuity plan (BCP)?"
+5ec2b4a8370000b58af30d50,,96936,question,responseOption1,29974,form,Yes
+5ec2b4a8370000b58af30d50,,96936,question,responseOption2,29974,form,No
+5ec2b4bd370000b58af30d51,,96937,question,questionText,29974,form,Please upload the table of contents of your document control management system specific to the Business Continuity Plan (BCP):
+5ec2b4eb370000f7c33c64cd,,96938,question,questionText,29974,form,Does the program provide and communicate guidance in the event large numbers of workers become unwell or experience sickness in the workplace?
+5ec2b4eb370000f7c33c64cd,,96938,question,responseOption1,29974,form,Yes
+5ec2b4eb370000f7c33c64cd,,96938,question,responseOption2,29974,form,No
+5ec2b4eb370000f7c33c64cd,,96938,question,responseOption3,29974,form,N/A
+5ec2b50734000038a4aa3a81,,96939,question,description,29974,form,Select all that apply
+5ec2b50734000038a4aa3a81,,96939,question,questionText,29974,form,"This process may be in place but documented within a different part of the business (e.g. Human Resources), if this is the case you should still confirm what actions are in place.\n\n"
+5ec2b50734000038a4aa3a81,,96939,question,responseOption1,29974,form,Guidance on what workers must do if they feel unwell and experience symptoms of a specific illness/or condition is documented within the plan (This can be before work starts and when in the workplace)
+5ec2b50734000038a4aa3a81,,96939,question,responseOption2,29974,form,Guidance on the use of sanitization and personal cleaning procedures if not feeling well is contained within the plan
+5ec2b50734000038a4aa3a81,,96939,question,responseOption3,29974,form,Confirmation where personal cleaning products are located within the workplace
+5ec2b50734000038a4aa3a81,,96939,question,responseOption4,29974,form,"Guidance on what actions to take in the event symptoms are experienced such as coughing, sneezing, vomiting etc. is made available."
+5ec2b50734000038a4aa3a81,,96939,question,responseOption5,29974,form,"Provide information on correct hand washing techniques (Including if feeling unwell, work in areas with food goods or on or around bathrooms)"
+5ec2b50734000038a4aa3a81,,96939,question,responseOption6,29974,form,Guidance information is made available in different languages and in picture format for non-English speaking workers
+5ec2b50734000038a4aa3a81,,96939,question,responseOption7,29974,form,Training and information is provided in ‘tool-box’ huddles and briefings for site-based workers
+5ec2b50734000038a4aa3a81,,96939,question,responseOption8,29974,form,The plan provides updates on guidance on a periodical basis and is the training provided recorded
+5ec2b50734000038a4aa3a81,,96939,question,responseOption9,29974,form,"The plan incorporates working practice that actively encourage sick employees to stay home, warning of the potential for infecting co-workers"
+5ec2b83234000038a4aa3a85,,96940,question,questionText,29974,form,## Planning and Control\n\nDoes the company business continuity plan/program contain details of emergency contact information for third parties that would need to be contacted if the plan needs to be implemented e.g. Organizations that may be impacted or can assist your company to deal with incidents or provide some form of assistance to help the company return to business normality?
+5ec2b83234000038a4aa3a85,,96940,question,responseOption1,29974,form,Yes
+5ec2b83234000038a4aa3a85,,96940,question,responseOption2,29974,form,No
+5ec2b8543400009d6b60f4b0,,96941,question,description,29974,form,Select all that apply
+5ec2b8543400009d6b60f4b0,,96941,question,questionText,29974,form,Please confirm which parties are contained within the emergency contact directory:
+5ec2b8543400009d6b60f4b0,,96941,question,responseOption1,29974,form,Next of Kin for the Workforce
+5ec2b8543400009d6b60f4b0,,96941,question,responseOption2,29974,form,Strategic/Critical Suppliers
+5ec2b8543400009d6b60f4b0,,96941,question,responseOption3,29974,form,Insurance Provider
+5ec2b8543400009d6b60f4b0,,96941,question,responseOption4,29974,form,Regional/State Authorities
+5ec2b8543400009d6b60f4b0,,96941,question,responseOption5,29974,form,Emergency First Responders
+5ec2b8543400009d6b60f4b0,,96941,question,responseOption6,29974,form,Other sites within the same Company/Group
+5ec2b8543400009d6b60f4b0,,96941,question,responseOption7,29974,form,Client Contacts 
+5ec2b8543400009d6b60f4b0,,96941,question,responseOption8,29974,form,Local Hospitals
+5ec2b8543400009d6b60f4b0,,96941,question,responseOption9,29974,form,Other
+5ec2b8e034000038a4aa3a89,,96943,question,questionText,29974,form,Business Impact Assessment (BIA) - Risk Assessment\n\n\nCan the company confirm they have a formal process for calculating the type of impact an unplanned event can have on the business operations?\n
+5ec2b8e034000038a4aa3a89,,96943,question,responseOption1,29974,form,Yes
+5ec2b8e034000038a4aa3a89,,96943,question,responseOption2,29974,form,No
+5ec2b8f534000038a4aa3a8a,,96944,question,questionText,29974,form,Can the company confirm the process contains appropriate timescales that show the potential time the business can be impacted by individual events?
+5ec2b8f534000038a4aa3a8a,,96944,question,responseOption1,29974,form,Yes
+5ec2b8f534000038a4aa3a8a,,96944,question,responseOption2,29974,form,No
+5ec2b90e370000b58af30d56,,96945,question,questionText,29974,form,"Does the risk assessment confirm the priority order based upon the severity of the impact to the business operation, and are the impacts provided with a severity level?"
+5ec2b90e370000b58af30d56,,96945,question,responseOption1,29974,form,Yes
+5ec2b90e370000b58af30d56,,96945,question,responseOption2,29974,form,No
+5ec2b9243400009d6b60f4b4,,96946,question,questionText,29974,form,Are all foreseeable impacts subject to review for accuracy and classified based on risk and probability?
+5ec2b9243400009d6b60f4b4,,96946,question,responseOption1,29974,form,Yes
+5ec2b9243400009d6b60f4b4,,96946,question,responseOption2,29974,form,No
+5ec2b93b370000f7c33c64d5,,96947,question,questionText,29974,form,Impacts are assessed and classified by the following parties:
+5ec2b93b370000f7c33c64d5,,96947,question,responseOption1,29974,form,Company personnel only
+5ec2b93b370000f7c33c64d5,,96947,question,responseOption2,29974,form,Company personnel and Insurance provider 
+5ec2b93b370000f7c33c64d5,,96947,question,responseOption3,29974,form,Insurance provider only
+5ec2b93b370000f7c33c64d5,,96947,question,responseOption4,29974,form,Independent 3rd party / Consultant
+5ec2b93b370000f7c33c64d5,,96947,question,responseOption5,29974,form,Other
+5ec2b989370000b58af30d59,,96948,question,questionText,29974,form,"As part of the impact analysis, does the company include an assessment of critical/strategic suppliers and their arrangements for continuation of their business and the potential impact if they are unable to provide their services or products? For example, the key supplier of a product goes into administration without warning, there is political unrest in the key suppliers location impacting on shipping of goods."
+5ec2b989370000b58af30d59,,96948,question,responseOption1,29974,form,Yes
+5ec2b989370000b58af30d59,,96948,question,responseOption2,29974,form,No
+5ec2b9a33400009d6b60f4b5,,96949,question,questionText,29974,form,"As part of the impact that an event can have on the day to day business operations, has the business implemented a description of the type of business impact that could occur?"
+5ec2b9a33400009d6b60f4b5,,96949,question,responseOption1,29974,form,Yes
+5ec2b9a33400009d6b60f4b5,,96949,question,responseOption2,29974,form,No
+5ec2b9bb34000038a4aa3a8f,,96950,question,description,29974,form,Select all that apply
+5ec2b9bb34000038a4aa3a8f,,96950,question,questionText,29974,form,Please confirm the type of classification placed against individual impacts. It does not have to be the exact same terminology but should relate to the classification:
+5ec2b9bb34000038a4aa3a8f,,96950,question,responseOption1,29974,form,Brand Reputation 
+5ec2b9bb34000038a4aa3a8f,,96950,question,responseOption2,29974,form,Business Operations
+5ec2b9bb34000038a4aa3a8f,,96950,question,responseOption3,29974,form,Legal or Regulatory Breach
+5ec2b9bb34000038a4aa3a8f,,96950,question,responseOption4,29974,form,Enforcement Issue
+5ec2b9bb34000038a4aa3a8f,,96950,question,responseOption5,29974,form,Contract Failure
+5ec2b9bb34000038a4aa3a8f,,96950,question,responseOption6,29974,form,Third Party Impact
+5ec2b9bb34000038a4aa3a8f,,96950,question,responseOption7,29974,form,Environmental Impact
+5ec2b9bb34000038a4aa3a8f,,96950,question,responseOption8,29974,form,Other
+5ec2ba083400009d6b60f4b8,,96952,question,questionText,29974,form,"Before a worker (permanent, temporary, agency or day laborer, etc.) can enter a company location or site, will they be expected to formally notify a member of the supervisory team to advise if they have travelled to and recently returned from restricted areas where there may be issues from infectious diseases?"
+5ec2ba083400009d6b60f4b8,,96952,question,responseOption1,29974,form,Yes
+5ec2ba083400009d6b60f4b8,,96952,question,responseOption2,29974,form,No
+5ec2ba46370000f7c33c64dc,,96954,question,description,29974,form,"Examples: Contagious Illness, Bloodborne Infections, Respiratory Illness, Skin Conditions, etc."
+5ec2ba46370000f7c33c64dc,,96954,question,questionText,29974,form,"Are all workers expected to complete a site entry form, when required, to confirm that they are healthy to work and are not suffering from any underlying health issues that could impact upon the general workforce or business operation?"
+5ec2ba46370000f7c33c64dc,,96954,question,responseOption1,29974,form,Yes
+5ec2ba46370000f7c33c64dc,,96954,question,responseOption2,29974,form,No
+5ec2ba46370000f7c33c64dc,,96954,question,responseOption3,29974,form,N/A
+5ec2ba7034000038a4aa3a91,,96955,question,questionText,29974,form,Strategy\n\nPlans and Procedures\n\nDoes the business continuity plan contain checklists that details the actions needed to assist in the business recovery phase that assists the business back to a state of normality?
+5ec2ba7034000038a4aa3a91,,96955,question,responseOption1,29974,form,Yes
+5ec2ba7034000038a4aa3a91,,96955,question,responseOption2,29974,form,No
+5ec2ba9134000038a4aa3a92,,96956,question,questionText,29974,form,"As part of the business continuity plan, does it differentiate between foreseeable disaster recovery issues specific to the recovery of essential technology infrastructure and computerized systems and programs needed to allow the business to function normally (post natural or human-induced disaster)?\n"
+5ec2ba9134000038a4aa3a92,,96956,question,responseOption1,29974,form,Yes
+5ec2ba9134000038a4aa3a92,,96956,question,responseOption2,29974,form,No
+5ec2baa6370000f7c33c64df,,96957,question,questionText,29974,form,"Does the company document how issues such as crisis management will be addressed within the business continuity process e.g. All workers walk off a project due to a safety related issue that occurred on the day, thus creating a crisis."
+5ec2baa6370000f7c33c64df,,96957,question,responseOption1,29974,form,Yes
+5ec2baa6370000f7c33c64df,,96957,question,responseOption2,29974,form,No
+5ec2bac13400009d6b60f4be,,96958,question,questionText,29974,form,Exercise (Drills and Simulations)\n\nDoes the company undertake testing or simulations of the risks/impacts that have been identified as having the potential to prevent the business operating on a normal basis and including the (remediation) actions identified that are needed for the recovery process?\n
+5ec2bac13400009d6b60f4be,,96958,question,responseOption1,29974,form,Yes
+5ec2bac13400009d6b60f4be,,96958,question,responseOption2,29974,form,No
+5ec2bae33400009d6b60f4bf,,96959,question,questionText,29974,form,"If you have answered yes, please confirm how you test the validity of the plan:"
+5ec2bae33400009d6b60f4bf,,96959,question,responseOption1,29974,form,Desktop exercise
+5ec2bae33400009d6b60f4bf,,96959,question,responseOption2,29974,form,Virtual 
+5ec2bae33400009d6b60f4bf,,96959,question,responseOption3,29974,form,Real-time mock exercise/simulation of a specific part or all of the plan
+5ec2bae33400009d6b60f4bf,,96959,question,responseOption4,29974,form,Other
+5ec2bb62370000b58af30d64,,96961,question,questionText,29974,form, ## Evaluation of Documentation Internal Audit / Review\n\nCan the company demonstrate that they have implemented testing scenarios and reviews to ensure the business continuity content that has been developed is fit for use  and the content is subject to continual review and assessment and where deficiencies are identified they are subject to change? 
+5ec2bb62370000b58af30d64,,96961,question,responseOption1,29974,form,Yes
+5ec2bb62370000b58af30d64,,96961,question,responseOption2,29974,form,No
+5ec2bbcd370000b58af30d67,,96964,question,questionText,29974,form,"Can the company confirm the business departments that are involved in the monitoring, evaluation and development of the business continuity plan?"
+5ec2bbcd370000b58af30d67,,96964,question,responseOption1,29974,form,Yes
+5ec2bbcd370000b58af30d67,,96964,question,responseOption2,29974,form,No
+5ec2bbe1370000b58af30d68,,96965,question,questionText,29974,form,Confirm departments involved in the business continuity planning review:
+5ec2bbe1370000b58af30d68,,96965,question,responseOption1,29974,form,Procurement
+5ec2bbe1370000b58af30d68,,96965,question,responseOption2,29974,form,Health and Safety
+5ec2bbe1370000b58af30d68,,96965,question,responseOption3,29974,form,Legal Department/or Representative
+5ec2bbe1370000b58af30d68,,96965,question,responseOption4,29974,form,Environmental/Sustainability
+5ec2bbe1370000b58af30d68,,96965,question,responseOption5,29974,form,Information Technology/Software
+5ec2bbe1370000b58af30d68,,96965,question,responseOption6,29974,form,Operations
+5ec2bbe1370000b58af30d68,,96965,question,responseOption7,29974,form,Engineering
+5ec2bbe1370000b58af30d68,,96965,question,responseOption8,29974,form,Transportation
+5ec2bbe1370000b58af30d68,,96965,question,responseOption9,29974,form,Other
+5ec2bc1f370000b58af30d69,,96966,question,questionText,29974,form,"As part of the ongoing evaluation and measurement of the business recovery processes, can the company confirm if they have implemented formal performance metrics to measure the effectiveness and suitability of the measures that are in place? (e.g. This can be as simple as getting the phone lines and power to the office environment within the agreed timescale, this is subject to checking post event."
+5ec2bc1f370000b58af30d69,,96966,question,responseOption1,29974,form,Yes
+5ec2bc1f370000b58af30d69,,96966,question,responseOption2,29974,form,No
+5ec2bc353400009d6b60f4c4,,96967,question,questionText,29974,form,"If the company identifies that pre-defined program metrics were found to not have been met (this can be confirmed during a management review session, post plan review or simulation test), is a corrective action/remediation plan devised and implemented and inserted into the most current copy of the plan/program as part of ongoing continuous improvement? "
+5ec2bc353400009d6b60f4c4,,96967,question,responseOption1,29974,form,Yes
+5ec2bc353400009d6b60f4c4,,96967,question,responseOption2,29974,form,No
+5ec2bc4d3400009d6b60f4c5,,96968,question,questionText,29974,form,"Management Review\n\nCan the company demonstrate a formal management review is undertaken of all aspects of the business continuity requirements placed upon all areas of the business to assess the content, its relevance and the overall performance and effectiveness of the program, confirming it meets the needs of the business? "
+5ec2bc4d3400009d6b60f4c5,,96968,question,responseOption1,29974,form,Yes
+5ec2bc4d3400009d6b60f4c5,,96968,question,responseOption2,29974,form,No
+5ec2bdd0370000b58af30d6c,,96970,question,questionText,29974,form,"## Non-Conformance and Corrective Action\n\nHas the company developed and implemented a process that documents nonconformities found as a result of review, audit and simulation and are these  documented and recorded?"
+5ec2bdd0370000b58af30d6c,,96970,question,responseOption1,29974,form,Yes
+5ec2bdd0370000b58af30d6c,,96970,question,responseOption2,29974,form,No
+5ec2bdf234000038a4aa3aa5,,96971,question,questionText,29974,form,The nonconformity process identifies the root cause of the issue and implements corrective actions that address the issue to prevent reoccurrence and potentially identify other causal factors  and where applicable the changes are made in a timely manner?
+5ec2bdf234000038a4aa3aa5,,96971,question,responseOption1,29974,form,Yes
+5ec2bdf234000038a4aa3aa5,,96971,question,responseOption2,29974,form,No
+5ec2be10370000b58af30d6d,,96972,question,description,29974,form,"For example: Areas that went well, issues that happened that did not work as they should and so on."
+5ec2be10370000b58af30d6d,,96972,question,questionText,29974,form,"Continual Improvement\n\nAs a result of any form of review and assessment of the business continuity program including the disaster recovery and crisis management parts of the program, does the company produce and keep a formal record confirming how issues were closed out during the corrective action phase of the plan?"
+5ec2be10370000b58af30d6d,,96972,question,responseOption1,29974,form,Yes
+5ec2be10370000b58af30d6d,,96972,question,responseOption2,29974,form,No
+5ec2be28370000b58af30d6e,,96973,question,questionText,29974,form,As part of the review process does the company identify areas of improvement and confirm what changes need to be made and what actions would be discharged/employed differently if facing the same situation again?
+5ec2be28370000b58af30d6e,,96973,question,responseOption1,29974,form,Yes
+5ec2be28370000b58af30d6e,,96973,question,responseOption2,29974,form,No
+5ec2d94434000038a4aa9246,,96997,question,questionText,29974,form,Other:
+5ec2d990350000f1aa30ce2f,,96998,question,questionText,29974,form,Other:
+5ec2d9f4350000f1aa30cec9,,96999,question,questionText,29974,form,Other: 
+5ec2da2934000038a4aa9463,,97000,question,questionText,29974,form,Other:
+5ec2da46370000f7c33cb780,,97001,question,questionText,29974,form,Other:
+5ec2da6234000038a4aa9559,,97002,question,questionText,29974,form,Other:
+5ec2da87350000f1aa30d135,,97003,question,questionText,29974,form,Other:
+5ec2dab9370000b58af35e1d,,97004,question,questionText,29974,form,Other:
+5ec2daca350000f1aa30d17a,,97005,question,questionText,29974,form,Other:
+5ec2dae8370000f7c33cb9f5,,97006,question,questionText,29974,form,Other:
+5ec2db03370000f7c33cba0f,,97007,question,questionText,29974,form,Other:
+5ec2ea4c370000b58af3a1b2,,97021,question,questionText,29974,form,Other:
+5f624d5a2c0000d5953934d9,,102941,question,questionText,29974,form,"How to Use the Guidance\n\nIf you are uncertain about the question or how it may apply  to your company,  you should cross reference the question you are unsure about with the relevant question number within the supplier guidance document.\n\nThe  guidance provided is written to give you enough clarification with examples of what the client(s) will expect in relation to the types of answers you should provide.\n\nYou don’t have to read the whole document to locate guidance on a specific question. If you require help with a question, simply scroll your cursor over the contents section. Whichever question you need help with, place the cursor on the text, click your mouse, and you will be taken directly to the appropriate help text.  \n\n<a href='/file-preview.html?fileId=2020-09-15T22:49:39.624Z~~~Business_Continuty_Planning_PQF_question_Guidance_June_2020.pdf' target='_BLANK'>Business Continuity Planning Guidance</a>\n"
+63a4efd71800009f054b5990,,135722,question,questionText,29974,form,"Does the company identify/confirm the relevant company personnel who have been designated with responsibility for key/strategic areas, this includes up to date contact details, description of their individual responsibilities, their ability to mobilize and help the business return to normal operations?"
+63a4efd71800009f054b5990,,135722,question,responseOption1,29974,form,Yes
+63a4efd71800009f054b5990,,135722,question,responseOption2,29974,form,No
+63a4f10a180000f403fd4c27,,135726,question,description,29974,form,Some examples of how to record issues/events are a risk matrix or impact assessment and documented in order of potential severity/impact to the business.
+63a4f10a180000f403fd4c27,,135726,question,questionText,29974,form,Does the company formally record all the  issues/events that can stop the business from operating normally and put them in a formal plan or management program?
+63a4f10a180000f403fd4c27,,135726,question,responseOption1,29974,form,Yes
+63a4f10a180000f403fd4c27,,135726,question,responseOption2,29974,form,No
+63a4f1e2180000f403fd5524,,135729,question,description,29974,form,The company operates in multiple countries.\n
+63a4f1e2180000f403fd5524,,135729,question,questionText,29974,form,"Can the company confirm that if operating in more than one country, the plan contents and risk assessments can be applied consistently across all of the locations?"
+63a4f1e2180000f403fd5524,,135729,question,responseOption1,29974,form,Yes
+63a4f1e2180000f403fd5524,,135729,question,responseOption2,29974,form,No
+63a4f1e2180000f403fd5524,,135729,question,responseOption3,29974,form,N/A
+63a4f24e180000fd03fd5cec,,135730,question,questionText,29974,form,Other:
+63a4f340180000d8054b9b78,,135731,question,description,29974,form,"This includes reallocation of workers, purchase of new or replacement equipment, new building construction, etc."
+63a4f340180000d8054b9b78,,135731,question,questionText,29974,form,Can the company confirm there is a formal procurement process that ensures where resources/equipment are required to bring the business back to its normal operation?
+63a4f340180000d8054b9b78,,135731,question,responseOption1,29974,form,Yes
+63a4f340180000d8054b9b78,,135731,question,responseOption2,29974,form,No
+63ab0d901600001e03384b01,,135863,question,questionText,29974,form,Please select the options that your business impact/risk assessment cover:
+63ab0d901600001e03384b01,,135863,question,responseOption1,29974,form,Fire - Company Premises
+63ab0d901600001e03384b01,,135863,question,responseOption10,29974,form,On-site Serious Accident - Non-Fatal - Impacting the business operations 
+63ab0d901600001e03384b01,,135863,question,responseOption11,29974,form,On-site Fatality
+63ab0d901600001e03384b01,,135863,question,responseOption12,29974,form,"Human Interaction (e.g. Act of violence, Physical or Armed)"
+63ab0d901600001e03384b01,,135863,question,responseOption13,29974,form,Terrorist Threat (e.g. Bomb Warning/Threats of extremist action or similar) 
+63ab0d901600001e03384b01,,135863,question,responseOption14,29974,form,Localized Political/Civil Unrest
+63ab0d901600001e03384b01,,135863,question,responseOption15,29974,form,Key Supplier (Raw Material/Manufacturer) - Goes out of business  
+63ab0d901600001e03384b01,,135863,question,responseOption16,29974,form,Key Supplier - Based in country subject to civil/political unrest impacting ability to deliver goods/services
+63ab0d901600001e03384b01,,135863,question,responseOption17,29974,form,Main/Strategic Subcontractor - Goes out of business
+63ab0d901600001e03384b01,,135863,question,responseOption18,29974,form,Main/Strategic Supplier - Unable to deliver manufactured goods/raw materials due to shortages
+63ab0d901600001e03384b01,,135863,question,responseOption19,29974,form,"Main/Strategic Supplier - Unable to provide services (e.g. Extreme Weather, Civil Disturbances, Political Barriers, etc.)"
+63ab0d901600001e03384b01,,135863,question,responseOption2,29974,form,Fire - Close Proximity - Neighboring Businesses
+63ab0d901600001e03384b01,,135863,question,responseOption20,29974,form,"Cyber Attack on Company IT systems (e.g. Ransomware, Malicious Virus, etc.)"
+63ab0d901600001e03384b01,,135863,question,responseOption21,29974,form,Internet/Server - Provider goes down
+63ab0d901600001e03384b01,,135863,question,responseOption22,29974,form,Telecommunications Systems Stop Functioning
+63ab0d901600001e03384b01,,135863,question,responseOption23,29974,form,Power/Utility Failure
+63ab0d901600001e03384b01,,135863,question,responseOption24,29974,form,Employee Theft
+63ab0d901600001e03384b01,,135863,question,responseOption25,29974,form,Inability of Senior Management to provide business continuity support (No communication available)
+63ab0d901600001e03384b01,,135863,question,responseOption26,29974,form,Other
+63ab0d901600001e03384b01,,135863,question,responseOption3,29974,form,Fire - Wildfires
+63ab0d901600001e03384b01,,135863,question,responseOption4,29974,form,Flooding - Company Premises
+63ab0d901600001e03384b01,,135863,question,responseOption5,29974,form,Flooding - Localized Water Systems/Natural Event
+63ab0d901600001e03384b01,,135863,question,responseOption6,29974,form,Natural Disaster (e.g. Hurricane/Tornado/Earthquake) 
+63ab0d901600001e03384b01,,135863,question,responseOption7,29974,form,"Contagious Illness (Non-deadly) - Preventing workforce attendance (e.g. norovirus, flu)"
+63ab0d901600001e03384b01,,135863,question,responseOption8,29974,form,Pandemic/Infectious Disease - Local - Impacting company personnel
+63ab0d901600001e03384b01,,135863,question,responseOption9,29974,form,Pandemic/Infectious Disease - Global - Impacting supply chain
+63ab11301600003103385b75,,135864,question,questionText,29974,form,Please confirm the review frequency of the plan and its content to  demonstrate it has been verified and  tested to confirm suitability for the business:
+63ab11301600003103385b75,,135864,question,responseOption1,29974,form,Bi-Annually
+63ab11301600003103385b75,,135864,question,responseOption2,29974,form,Annually
+63ab11301600003103385b75,,135864,question,responseOption3,29974,form,When Changes Occur in the Organization
+63ab11301600003103385b75,,135864,question,responseOption4,29974,form,Other
+63ab11f31600001d03385b79,,135866,question,questionText,29974,form,Please confirm the frequency of checking these lists are up to date:
+63ab11f31600001d03385b79,,135866,question,responseOption1,29974,form,Bi-Annually
+63ab11f31600001d03385b79,,135866,question,responseOption2,29974,form,Annually
+63ab11f31600001d03385b79,,135866,question,responseOption3,29974,form,When Changes Occur in the Organization
+63ab11f31600001d03385b79,,135866,question,responseOption4,29974,form,Other
+63ab129e16000013025f46e1,,135867,question,description,29974,form,"For example: Correct contact information, suitability of recovery actions, ability to access the plan, etc."
+63ab129e16000013025f46e1,,135867,question,questionText,29974,form,What is the frequency of testing or undertaking simulations of the company plan to ensure it is effective?
+63ab129e16000013025f46e1,,135867,question,responseOption1,29974,form,Bi-Annually
+63ab129e16000013025f46e1,,135867,question,responseOption2,29974,form,Annually
+63ab129e16000013025f46e1,,135867,question,responseOption3,29974,form,When Changes Occur in the Organization
+63ab129e16000013025f46e1,,135867,question,responseOption4,29974,form,Other
+63ab163916000062025f8b17,,135871,question,description,29974,form,Select all that apply.
+63ab163916000062025f8b17,,135871,question,questionText,29974,form,Confirm the methods/techniques used by the company to evaluate/validate the content of the business continuity program to ensure it meets the needs of the business and can identify gaps/deficiencies within the program. 
+63ab163916000062025f8b17,,135871,question,responseOption1,29974,form,Audit
+63ab163916000062025f8b17,,135871,question,responseOption2,29974,form,Inspection
+63ab163916000062025f8b17,,135871,question,responseOption3,29974,form,Desktop Simulation
+63ab163916000062025f8b17,,135871,question,responseOption4,29974,form,Simulations/Training Exercises of Defined Incidents
+63ab163916000062025f8b17,,135871,question,responseOption5,29974,form,Management Reviews
+63ab163916000062025f8b17,,135871,question,responseOption6,29974,form,Worker Feedback Surveys/Consultation
+63ab163916000062025f8b17,,135871,question,responseOption7,29974,form,Monitoring Seasonal Weather Warnings
+63ab163916000062025f8b17,,135871,question,responseOption8,29974,form,Assessment of Social Media/Sanction Checking
+63ab163916000062025f8b17,,135871,question,responseOption9,29974,form,Other
+63ab175c160000df0338a0e4,,135873,question,questionText,29974,form,Confirm the frequency of the evaluation/review process:
+63ab175c160000df0338a0e4,,135873,question,responseOption1,29974,form,Bi-Annually
+63ab175c160000df0338a0e4,,135873,question,responseOption2,29974,form,Annually
+63ab175c160000df0338a0e4,,135873,question,responseOption3,29974,form,When Changes Occur in the Organization
+63ab175c160000df0338a0e4,,135873,question,responseOption4,29974,form,Other
+63ab17cc1600006a025fb107,,135874,question,questionText,29974,form,Please confirm the frequency of the management review covering the business continuity practice and alignment content to the business for all applicable company locations:
+63ab17cc1600006a025fb107,,135874,question,responseOption1,29974,form,Bi-Annually
+63ab17cc1600006a025fb107,,135874,question,responseOption2,29974,form,Annually
+63ab17cc1600006a025fb107,,135874,question,responseOption3,29974,form,When Changes Occur in the Organization
+63ab17cc1600006a025fb107,,135874,question,responseOption4,29974,form,Other

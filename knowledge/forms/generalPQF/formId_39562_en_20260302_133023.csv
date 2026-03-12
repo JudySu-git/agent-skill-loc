@@ -1,0 +1,10 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69123a770100006400dc4d76,648b510e19000065037d2e81,39562,questionGroup,questionGroupText,39562,form,Avetta PQF - Spain Worker Registration Report (TGSS)
+648b516019000075037d2e84,,142018,question,questionText,39562,form,"Please upload the current worker-in-force report (Informe de trabajadores en alta en la Seguridad Social) for your company’s Código de Cuenta de Cotización (CCC), issued by the Tesorería General de la Seguridad Social (TGSS)."
+648b518b19000065037d2e86,,142019,question,questionText,39562,form,"As an authorized signatory, I confirm that our employees' registration with the Social Security system is up-to-date and compliant and records are available upon request."
+6553c0a119000016044c7703,,147042,question,questionText,39562,form,Does your company have a worker registry in the Spanish Social Security system?
+6553c0a119000016044c7703,,147042,question,responseOption1,39562,form,Yes
+6553c0a119000016044c7703,,147042,question,responseOption2,39562,form,No
+6553cc931900000e044d1ad6,,147043,question,questionText,39562,form,Please explain why:
+6553cc931900000e044d1ad6,,147043,question,responseOption1,39562,form,Yes
+6553cc931900000e044d1ad6,,147043,question,responseOption2,39562,form,No

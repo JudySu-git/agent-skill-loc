@@ -1,0 +1,99 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68e7ee940100003500d5ad76,68e6a4ff01000015019a27a8,48224,questionGroup,questionGroupText,48224,form,Environmental Regulatory Breaches
+68e6a9cc010000be07310419,68e6a9cc010000be07310418,48225,questionGroup,questionGroupText,48224,form,Environmental Regulatory Breaches
+68e6a9d9010000b9059a27e0,,184112,question,description,48224,form,Your response must cover all countries you provide services/operate in and not just the country you are located in. 
+68e6a9d9010000b9059a27e0,,184112,question,questionText,48224,form,Did your company receive notice of any Environmental regulatory breaches or violations in any country for the given year?
+68e6a9d9010000b9059a27e0,,184112,question,responseOption1,48224,form,Yes
+68e6a9d9010000b9059a27e0,,184112,question,responseOption2,48224,form,No
+68e6a9e9010000c6059a27e3,,184113,question,description,48224,form,Your response must cover all countries you provide services/operate in and not just the country you are located in. 
+68e6a9e9010000c6059a27e3,,184113,question,questionText,48224,form,"Please enter the total number of Environmental regulatory breaches or violations, across all countries of your operation, for the given year"
+68e6aa21010000c2059a27e9,,184114,question,description,48224,form,Your response must cover all countries you provide services/operate in and not just the country you are located in.
+68e6aa21010000c2059a27e9,,184114,question,questionText,48224,form,Please select all countries where Environmental regulatory breaches or violations occurred.
+68e6aa21010000c2059a27e9,,184114,question,responseOption1,48224,form,Angola
+68e6aa21010000c2059a27e9,,184114,question,responseOption10,48224,form,Brazil
+68e6aa21010000c2059a27e9,,184114,question,responseOption11,48224,form,Brunei
+68e6aa21010000c2059a27e9,,184114,question,responseOption12,48224,form,Bulgaria
+68e6aa21010000c2059a27e9,,184114,question,responseOption13,48224,form,Cameroon
+68e6aa21010000c2059a27e9,,184114,question,responseOption14,48224,form,Canada
+68e6aa21010000c2059a27e9,,184114,question,responseOption15,48224,form,Chile
+68e6aa21010000c2059a27e9,,184114,question,responseOption16,48224,form,China
+68e6aa21010000c2059a27e9,,184114,question,responseOption17,48224,form,Colombia
+68e6aa21010000c2059a27e9,,184114,question,responseOption18,48224,form,Costa Rica
+68e6aa21010000c2059a27e9,,184114,question,responseOption19,48224,form,Czechia
+68e6aa21010000c2059a27e9,,184114,question,responseOption2,48224,form,Argentina
+68e6aa21010000c2059a27e9,,184114,question,responseOption20,48224,form,Denmark
+68e6aa21010000c2059a27e9,,184114,question,responseOption21,48224,form,Dominican Republic
+68e6aa21010000c2059a27e9,,184114,question,responseOption22,48224,form,Ecuador
+68e6aa21010000c2059a27e9,,184114,question,responseOption23,48224,form,Egypt
+68e6aa21010000c2059a27e9,,184114,question,responseOption24,48224,form,El Salvador
+68e6aa21010000c2059a27e9,,184114,question,responseOption25,48224,form,Finland
+68e6aa21010000c2059a27e9,,184114,question,responseOption26,48224,form,France
+68e6aa21010000c2059a27e9,,184114,question,responseOption27,48224,form,Germany
+68e6aa21010000c2059a27e9,,184114,question,responseOption28,48224,form,Ghana
+68e6aa21010000c2059a27e9,,184114,question,responseOption29,48224,form,Greece
+68e6aa21010000c2059a27e9,,184114,question,responseOption3,48224,form,Armenia
+68e6aa21010000c2059a27e9,,184114,question,responseOption30,48224,form,Guatemala
+68e6aa21010000c2059a27e9,,184114,question,responseOption31,48224,form,Haiti
+68e6aa21010000c2059a27e9,,184114,question,responseOption32,48224,form,Honduras
+68e6aa21010000c2059a27e9,,184114,question,responseOption33,48224,form,Hong Kong
+68e6aa21010000c2059a27e9,,184114,question,responseOption34,48224,form,Hungary
+68e6aa21010000c2059a27e9,,184114,question,responseOption35,48224,form,India
+68e6aa21010000c2059a27e9,,184114,question,responseOption36,48224,form,Indonesia
+68e6aa21010000c2059a27e9,,184114,question,responseOption37,48224,form,Iraq
+68e6aa21010000c2059a27e9,,184114,question,responseOption38,48224,form,Israel
+68e6aa21010000c2059a27e9,,184114,question,responseOption39,48224,form,Italy
+68e6aa21010000c2059a27e9,,184114,question,responseOption4,48224,form,Australia
+68e6aa21010000c2059a27e9,,184114,question,responseOption40,48224,form,Ivory Coast
+68e6aa21010000c2059a27e9,,184114,question,responseOption41,48224,form,Japan
+68e6aa21010000c2059a27e9,,184114,question,responseOption42,48224,form,Jordan
+68e6aa21010000c2059a27e9,,184114,question,responseOption43,48224,form,Kenya
+68e6aa21010000c2059a27e9,,184114,question,responseOption44,48224,form,Lithuania
+68e6aa21010000c2059a27e9,,184114,question,responseOption45,48224,form,Luxembourg
+68e6aa21010000c2059a27e9,,184114,question,responseOption46,48224,form,Macao
+68e6aa21010000c2059a27e9,,184114,question,responseOption47,48224,form,Malaysia
+68e6aa21010000c2059a27e9,,184114,question,responseOption48,48224,form,Mauritius
+68e6aa21010000c2059a27e9,,184114,question,responseOption49,48224,form,Mexico
+68e6aa21010000c2059a27e9,,184114,question,responseOption5,48224,form,Austria
+68e6aa21010000c2059a27e9,,184114,question,responseOption50,48224,form,Nepal
+68e6aa21010000c2059a27e9,,184114,question,responseOption51,48224,form,Netherlands
+68e6aa21010000c2059a27e9,,184114,question,responseOption52,48224,form,New Zealand
+68e6aa21010000c2059a27e9,,184114,question,responseOption53,48224,form,Nicaragua
+68e6aa21010000c2059a27e9,,184114,question,responseOption54,48224,form,Nigeria
+68e6aa21010000c2059a27e9,,184114,question,responseOption55,48224,form,Norway
+68e6aa21010000c2059a27e9,,184114,question,responseOption56,48224,form,Oman
+68e6aa21010000c2059a27e9,,184114,question,responseOption57,48224,form,Pakistan
+68e6aa21010000c2059a27e9,,184114,question,responseOption58,48224,form,Panama
+68e6aa21010000c2059a27e9,,184114,question,responseOption59,48224,form,Papua New Guinea
+68e6aa21010000c2059a27e9,,184114,question,responseOption6,48224,form,Bahrain
+68e6aa21010000c2059a27e9,,184114,question,responseOption60,48224,form,Paraguay
+68e6aa21010000c2059a27e9,,184114,question,responseOption61,48224,form,Peru
+68e6aa21010000c2059a27e9,,184114,question,responseOption62,48224,form,Philippines
+68e6aa21010000c2059a27e9,,184114,question,responseOption63,48224,form,Poland
+68e6aa21010000c2059a27e9,,184114,question,responseOption64,48224,form,Portugal
+68e6aa21010000c2059a27e9,,184114,question,responseOption65,48224,form,Qatar
+68e6aa21010000c2059a27e9,,184114,question,responseOption66,48224,form,Ireland
+68e6aa21010000c2059a27e9,,184114,question,responseOption67,48224,form,Romania
+68e6aa21010000c2059a27e9,,184114,question,responseOption68,48224,form,Saudi Arabia
+68e6aa21010000c2059a27e9,,184114,question,responseOption69,48224,form,Singapore
+68e6aa21010000c2059a27e9,,184114,question,responseOption7,48224,form,Bangladesh
+68e6aa21010000c2059a27e9,,184114,question,responseOption70,48224,form,Slovakia
+68e6aa21010000c2059a27e9,,184114,question,responseOption71,48224,form,South Africa
+68e6aa21010000c2059a27e9,,184114,question,responseOption72,48224,form,South Korea
+68e6aa21010000c2059a27e9,,184114,question,responseOption73,48224,form,South Sudan
+68e6aa21010000c2059a27e9,,184114,question,responseOption74,48224,form,Spain
+68e6aa21010000c2059a27e9,,184114,question,responseOption75,48224,form,Sri Lanka
+68e6aa21010000c2059a27e9,,184114,question,responseOption76,48224,form,Sweden
+68e6aa21010000c2059a27e9,,184114,question,responseOption77,48224,form,Switzerland
+68e6aa21010000c2059a27e9,,184114,question,responseOption78,48224,form,Taiwan
+68e6aa21010000c2059a27e9,,184114,question,responseOption79,48224,form,Tanzania
+68e6aa21010000c2059a27e9,,184114,question,responseOption8,48224,form,Belgium
+68e6aa21010000c2059a27e9,,184114,question,responseOption80,48224,form,Thailand
+68e6aa21010000c2059a27e9,,184114,question,responseOption81,48224,form,Türkiye
+68e6aa21010000c2059a27e9,,184114,question,responseOption82,48224,form,United Arab Emirates
+68e6aa21010000c2059a27e9,,184114,question,responseOption83,48224,form,United Kingdom
+68e6aa21010000c2059a27e9,,184114,question,responseOption84,48224,form,Uruguay
+68e6aa21010000c2059a27e9,,184114,question,responseOption85,48224,form,Ukraine
+68e6aa21010000c2059a27e9,,184114,question,responseOption86,48224,form,Vietnam
+68e6aa21010000c2059a27e9,,184114,question,responseOption9,48224,form,Bolivia
+68e6abe7010000c20731042e,,184115,question,questionText,48224,form,Please enter the total monetary cost of penalties and fines resulting from all Environmental regulatory breaches or violations declared.  Please indicate the amount in USD.
+68e6ac61010000c507310431,,184116,question,questionText,48224,form,I confirm that I am an authorised signatory of the company and that the information provided is valid.

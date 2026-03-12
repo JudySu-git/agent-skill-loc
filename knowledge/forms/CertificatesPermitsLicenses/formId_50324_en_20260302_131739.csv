@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69658bcd01000044003a7d11,696571640100005e003a7b36,50324,questionGroup,description,50324,form,This requirement is triggered because you indicated your organization maintains a valid Certificate of Seal-Impression in the Japan Entity Documentation Applicability Assessment questionnaire.
+69658bcd01000044003a7d11,696571640100005e003a7b36,50324,questionGroup,questionGroupText,50324,form,Japan Certificate of Seal-Impression
+696571640100005f003a7b37,,196826,question,questionText,50324,form,Please enter the issue date of your Certificate of Seal-Impression.
+696571640100005f003a7b38,,196827,question,description,50324,form,
+696571640100005f003a7b38,,196827,question,questionText,50324,form,Please upload your Certificate of Seal-Impression.

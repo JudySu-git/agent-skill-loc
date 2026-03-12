@@ -1,0 +1,22 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87737a36b6c4c635466bd,69a87737a36b6c4c635466bc,51148,questionGroup,questionGroupText,51148,form,建筑 - 管理,
+69a87737a36b6c4c635466b5,,199988,question,description,51148,form,"建筑工程在以下情况下必须在开工前向主管劳动监察机构申报：(1) 预计工期超过五个工作日且同时涉及20名以上工人，或 (2) 总工作量超过500人·天。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 3(1)</a>",
+69a87737a36b6c4c635466b5,,199988,question,questionText,51148,form,向劳动监察机构申报（工期 > 5天）,
+69a87737a36b6c4c635466b6,,199989,question,description,51148,form,"只能为工人分配其身体和精神状况均能胜任的任务。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 5(4)</a>",
+69a87737a36b6c4c635466b6,,199989,question,questionText,51148,form,危险作业适岗性,
+69a87737a36b6c4c635466b7,,199990,question,description,51148,form,"当多个雇主的员工在同一建筑工地作业时，各雇主必须在实施安全与健康保护措施方面相互配合，并协调各自的作业活动。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 3a(1)9</a>",
+69a87737a36b6c4c635466b7,,199990,question,questionText,51148,form,员工协作措施,
+69a87737a36b6c4c635466b8,,199991,question,description,51148,form,"多雇主协调必须确保防护措施不会对他人造成风险。必须确保建筑工地的作业协调，以预防安全与健康风险。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 4(6)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 8(3), 13(3)</a>",
+69a87737a36b6c4c635466b8,,199991,question,questionText,51148,form,多雇主协调,
+69a87737a36b6c4c635466b9,,199992,question,description,51148,form,"必须为建筑工程指派具备资质的现场监督人员。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 4(1)</a>",
+69a87737a36b6c4c635466b9,,199992,question,questionText,51148,form,具备资质的现场监督人员,
+69a87737a36b6c4c635466ba,,199993,question,description,51148,form,"必须通过围挡或警示标志防止未经授权人员进入。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 4(7)</a>",
+69a87737a36b6c4c635466ba,,199993,question,questionText,51148,form,限制进入管控,
+69a87737a36b6c4c635466bb,,199994,question,questionText,51148,form,<div></div>,

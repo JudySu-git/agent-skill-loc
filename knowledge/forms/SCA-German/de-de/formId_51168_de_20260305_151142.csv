@@ -1,0 +1,36 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87746a36b6c4c63546778,69a87746a36b6c4c63546777,51168,questionGroup,questionGroupText,51168,form,Überdruckarbeiten,
+69a87746a36b6c4c6354676b,,200130,question,description,51168,form,"Eine fachkundige Aufsicht ist erforderlich, und Druckluftarbeiten müssen unter der Aufsicht eines zuverlässigen, fachlich geeigneten und gesundheitlich tauglichen Aufsehers oder dessen Stellvertreters durchgeführt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 5</a>",
+69a87746a36b6c4c6354676b,,200130,question,questionText,51168,form,Fachkundige Aufsicht,
+69a87746a36b6c4c6354676c,,200131,question,description,51168,form,"Eine Voranmeldung ist erforderlich, und die Arbeitsinspektoratsmeldung muss mindestens 14 Tage vor Arbeitsbeginn erfolgen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 7 Abs. 1, § 47 Abs. 1 Z 1</a>",
+69a87746a36b6c4c6354676c,,200131,question,questionText,51168,form,Meldung an das Arbeitsinspektorat (vor Arbeitsbeginn),
+69a87746a36b6c4c6354676d,,200132,question,description,51168,form,"Beschäftigte müssen mindestens 21 Jahre alt und für Druckluftarbeiten gesundheitlich geeignet sein. Personen über 40 Jahre ohne frühere Drucklufterfahrung dürfen nicht neu eingesetzt werden, und Personen über 50 Jahre dürfen keine Überdruckarbeiten durchführen. Die Ausstellung eines Tauglichkeitsnachweises ist erforderlich, und die ärztliche Bestätigung muss vor dem Einsatz vorliegen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 8 Abs. 1, § 8 Abs. 4</a>",
+69a87746a36b6c4c6354676d,,200132,question,questionText,51168,form,"Gesundheitliche Eignungsuntersuchungen (vor Arbeitsbeginn, nach Arbeitsende)",
+69a87746a36b6c4c6354676e,,200133,question,description,51168,form,"Eine Gefahrenunterweisung vor Arbeitsbeginn ist erforderlich, und Beschäftigte müssen vor Aufnahme der Arbeit eine Unterweisung über die Gefahren bei Überdruckarbeiten erhalten.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 8 Abs. 3, § 24 Abs. 2, § 47 Abs. 1 Z 1</a>",
+69a87746a36b6c4c6354676e,,200133,question,questionText,51168,form,Unterweisung (vor Arbeitsbeginn und alle 6 Monate),
+69a87746a36b6c4c6354676f,,200134,question,description,51168,form,"Ein Pressluftatmer ist erforderlich, und ab 1,1 kp/cm² muss je Arbeitnehmer ein Gerät bereitgestellt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 11 Abs. 6</a>",
+69a87746a36b6c4c6354676f,,200134,question,questionText,51168,form,"Pressluftatmer (SCBA) ab Druckschwellenwert (>1,1 kp/cm²)",
+69a87746a36b6c4c63546770,,200135,question,description,51168,form,"Die Bereitstellung einer Druckkammer ist ab 1,1 kp/cm² erforderlich.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 14 Abs. 1</a>",
+69a87746a36b6c4c63546770,,200135,question,questionText,51168,form,"Druckkammer (>1,1 kp/cm²)",
+69a87746a36b6c4c63546771,,200136,question,description,51168,form,"Die Einhaltung von Höchstexpositionszeiten ist erforderlich, und die Druckluftzeit muss den druckabhängigen Stundengrenzen entsprechen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 26 Abs. 1</a>",
+69a87746a36b6c4c63546771,,200136,question,questionText,51168,form,Maximale tägliche Expositionsdauern,
+69a87746a36b6c4c63546772,,200137,question,description,51168,form,"Ein verantwortlicher Schleusenwärter ist erforderlich, und jede Personen- oder Kombinations­schleuse muss von einem Schleusenwärter bedient werden. Schleusenwärter dürfen nur Personen einlassen, die bei Druckluftarbeiten beschäftigt sind und ihre Tauglichkeit für diese Arbeiten nachweisen können.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 24 Abs. 1, § 24 Abs. 3</a>",
+69a87746a36b6c4c63546772,,200137,question,questionText,51168,form,Zugangskontrolle,
+69a87746a36b6c4c63546773,,200138,question,description,51168,form,"Betroffene Behälter und Drucksysteme müssen vor der ersten Inbetriebnahme einer Erstprüfung und einer hydrostatischen Druckprüfung (Wasserdruckprüfung) unterzogen werden. Nach wesentlichen Reparaturen oder Änderungen sind eine Innenprüfung und eine Wasserdruckprüfung durchzuführen; eine Wiederholungsprüfung ist erforderlich, wenn die letzte Prüfung mehr als drei Jahre zurückliegt oder wenn die Anlage an einen neuen Standort verlagert wird; außerdem muss vor Arbeitsbeginn eine Druckdichtheitsprüfung am Gesamtsystem durchgeführt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 21</a>",
+69a87746a36b6c4c63546773,,200138,question,questionText,51168,form,"Fachkundige Prüfungen und Tests (Erstprüfung, vor Arbeitsbeginn, nach Reparaturen, alle 3 Jahre)",
+69a87746a36b6c4c63546774,,200139,question,description,51168,form,"Prüfaufzeichnungen sind erforderlich, und die Ergebnisse müssen in vorgeschriebenen Registern dokumentiert werden. Behördliche Aufzeichnungen müssen geführt und dem Arbeitsinspektorat sowie den Unfallbehörden zugänglich sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 21 Abs. 6, § 47 Abs. 1 Z 5, § 47 Abs. 2, § 50 Abs. 1</a>",
+69a87746a36b6c4c63546774,,200139,question,questionText,51168,form,Aufzeichnungen,
+69a87746a36b6c4c63546775,,200140,question,description,51168,form,"Die Verfügbarkeit von Erster Hilfe muss sichergestellt sein, und ausgebildete Personen müssen während des Betriebs erreichbar sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 24 Abs. 5–6</a>",
+69a87746a36b6c4c63546775,,200140,question,questionText,51168,form,Ausgebildetes Erste-Hilfe-Personal verfügbar,
+69a87746a36b6c4c63546776,,200141,question,questionText,51168,form,<div></div>,

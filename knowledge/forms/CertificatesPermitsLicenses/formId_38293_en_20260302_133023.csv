@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6427277f1600006212b4cbe9,63b32b9f1400002504b0c4cf,38293,questionGroup,questionGroupText,38293,form,Avetta PQF - Australia Victoria Fair Jobs Code
+6427272a1600006112b4c9a8,63b32ccb1400009b04b0dd41,38294,questionGroup,questionGroupText,38293,form,Fair Jobs Code: Pre-Assessment Certificate
+63b32c80140000e503971f12,,136114,question,questionText,38293,form,Is the company seeking work with a Victorian Government Agency?
+63b32c80140000e503971f12,,136114,question,responseOption1,38293,form,Yes
+63b32c80140000e503971f12,,136114,question,responseOption2,38293,form,No
+63b32c96140000aa04b0d980,,136115,question,questionText,38293,form,Confirm work categories being considered with a Victorian Government Agency:
+63b32c96140000aa04b0d980,,136115,question,responseOption1,38293,form,"Threshold Procurement – (Activities including goods, services and construction) Contract value is $3 million and above"
+63b32c96140000aa04b0d980,,136115,question,responseOption2,38293,form,"Significant business expansion grants of $500,000 with commitments to deliver jobs"
+63b32c96140000aa04b0d980,,136115,question,responseOption3,38293,form,High value procurement -  value of $20 million or more
+63b32c96140000aa04b0d980,,136115,question,responseOption4,38293,form,Not seeking to engage in contracts or grants of the value thresholds listed above
+63b32e50140000e503973030,,136116,question,description,38293,form,"Pre-Assessment Certificates are recognised by all Victorian Government agencies. They have a validity period of two years. Please note, should your pre-assessment certificate be revoked, you are duty bound to notify your agencies within 10 business days. "
+63b32e50140000e503973030,,136116,question,questionText,38293,form,Does the company hold a Fair Jobs Code Pre-Assessment Certificate? \n
+63b32e50140000e503973030,,136116,question,responseOption1,38293,form,Yes
+63b32e50140000e503973030,,136116,question,responseOption2,38293,form,No
+63b32e6c140000e5039731a5,,136117,question,questionText,38293,form,Upload a copy of the pre-assessment certificate:
+63b32f1514000017039735e1,,136118,question,questionText,38293,form,Certificate Expiration:

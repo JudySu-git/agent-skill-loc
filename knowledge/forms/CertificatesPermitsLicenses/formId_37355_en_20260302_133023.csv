@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68e7e2b101000040000c9470,6351c488160000241671bf73,37355,questionGroup,description,37355,form,"You are getting this category because you selected ISO 9001:2015 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+68e7e2b101000040000c9470,6351c488160000241671bf73,37355,questionGroup,questionGroupText,37355,form,ISO 9001 - Quality Management Systems
+6351c97c1900005600df7edc,,131912,question,questionText,37355,form,Please upload your ISO 9001:2015 - Quality Management Systems — Requirements certificate:
+6351cbef16000069011cd2d7,,131913,question,questionText,37355,form,Please enter the certificate expiration date:\n

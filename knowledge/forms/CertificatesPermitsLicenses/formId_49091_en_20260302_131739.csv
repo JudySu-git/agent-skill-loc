@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+691ccdd90100003a009bd93d,691b931701000039007e1b37,49091,questionGroup,description,49091,form,"If your company is required to comply with Sweden's Social Insurance requirements, you will be asked to provide relevant documents in a subsequent form(s)."
+691ccdd90100003a009bd93d,691b931701000039007e1b37,49091,questionGroup,questionGroupText,49091,form,Sweden Social Insurance Applicability Assessment
+691b93170100001c017e1b38,,188825,question,questionText,49091,form,Please explain why your company is exempt from complying with Sweden's Social Insurance requirements.
+691b93170100001c017e1b39,,188826,question,description,49091,form,"Sweden requires companies to participate in statutory labor (social) insurance schemes, managed mainly by the <a href=""https://www.forsakringskassan.se/english/moving-to-working-studying-or-newly-arrived-in-sweden/social-insurance-in-sweden"" target=""_blank"">Swedish Social Insurance Agency</a>, with certain responsibilities handled by the Ministry of Health and Social Affairs and enforced per the <a href=""https://www.forsakringskassan.se/download/18.2cd4bda718b78628931477/1707233805936/socialforsakringen-i-siffror-2016.pdf"" target=""_blank"">Social Insurance Code (2010:110).</a>"
+691b93170100001c017e1b39,,188826,question,questionText,49091,form,Is your company required to comply with Sweden's Social Insurance requirements as regulated by the Swedish Social Insurance Agency and maintain applicable documentation to show compliance?
+691b93170100001c017e1b39,,188826,question,responseOption1,49091,form,Yes
+691b93170100001c017e1b39,,188826,question,responseOption2,49091,form,No
+691b93170100001a017e1b3a,,188827,question,description,49091,form,"<a href=""https://www.forsakringskassan.se/english/moving-to-working-studying-or-newly-arrived-in-sweden/social-insurance-in-sweden"" target=""_blank"">Swedish Social Insurance Agency\n</a>\n"
+691b93170100001a017e1b3a,,188827,question,questionText,49091,form,Please select from the following reason(s) your company is exempt from complying with Sweden's Social Insurance requirements.
+691b93170100001a017e1b3a,,188827,question,responseOption1,49091,form,The company operates as a sole proprietorship with no additional employees.
+691b93170100001a017e1b3a,,188827,question,responseOption2,49091,form,The company does not have any employees in Sweden.
+691b93170100001a017e1b3a,,188827,question,responseOption3,49091,form,The company has foreign employee(s) working temporarily (less than 24 months) in Sweden that are covered by the home country's scheme and are prepared to provide a copy of the A1 certificate(s) upon request.
+691b93170100001a017e1b3a,,188827,question,responseOption4,49091,form,Other

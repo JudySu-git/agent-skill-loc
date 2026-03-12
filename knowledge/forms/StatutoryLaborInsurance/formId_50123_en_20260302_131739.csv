@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69543c020100003f002c743d,6954311201000043002c741c,50123,questionGroup,description,50123,form,"If your company is required to comply with South Africa's Statutory Labor Insurance requirements, you will be asked to provide relevant documents in a subsequent form(s)."
+69543c020100003f002c743d,6954311201000043002c741c,50123,questionGroup,questionGroupText,50123,form,South Africa Statutory Labor Insurance Applicability Assessment
+695431120100003f002c741d,,194851,question,questionText,50123,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with South African legislation."
+695431120100005e002c741e,,194852,question,description,50123,form,"South Africa requires most employers to register with the  <a href=""https://www.gov.za/services/compensation-fund/register-compensation-fund"" target=""_BLANK_"">Compensation Fund</a>, a statutory body managed by the <a href=""https://www.labour.gov.za/Pages/Default.aspx"" target=""_BLANK_"">Department of Employment and Labour</a>, to provide insurance for employees against injuries and diseases sustained at work. This requirement is established by the <a href=""https://www.gov.za/documents/compensation-occupational-injuries-and-diseases-act"" target=""_BLANK_"">Compensation for Occupational Injuries and Diseases Act (COIDA) of 1993</a>."
+695431120100005e002c741e,,194852,question,questionText,50123,form,"Is your company required to comply with South Africa's Statutory Labor Insurance requirements, the Compensation Fund, as regulated by the Department of Employment and Labour and maintain applicable documentation to show compliance?"
+695431120100005e002c741e,,194852,question,responseOption1,50123,form,Yes
+695431120100005e002c741e,,194852,question,responseOption2,50123,form,No
+695432050100003f002c7427,,194856,question,questionText,50123,form,Please select from the following reason(s) your company is exempt from complying with South Africa's Statutory Labor Insurance requirements.
+695432050100003f002c7427,,194856,question,responseOption1,50123,form,The company is a sole proprietorship with no other employees. 
+695432050100003f002c7427,,194856,question,responseOption2,50123,form,The company does not have any employees in South Africa.
+695432050100003f002c7427,,194856,question,responseOption3,50123,form,Other
+6954323c0100006100a9c2d2,,194857,question,questionText,50123,form,"If ""other"", please explain."

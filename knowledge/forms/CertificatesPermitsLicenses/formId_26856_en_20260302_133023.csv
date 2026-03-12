@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec5e0100004a00a47369,5d2f81793400004341b7fec2,26856,questionGroup,questionGroupText,26856,form,Washington Contractor License
+5d5c3d5c3700008206928a86,5d3763a3360000b66a8e4435,27022,questionGroup,questionGroupText,26856,form,Washington Contractor License
+5d3763c1360000a7bcb0985a,,84881,question,description,26856,form,"<a href = ""https://secure.lni.wa.gov/verify/""target=""_BLANK_"">Washington State Department of Labor & Industries – Contractors</a>\n"
+5d3763c1360000a7bcb0985a,,84881,question,questionText,26856,form,Washington Contractor License Number:
+5d3763dd360000a7bcb098c4,,84882,question,description,26856,form,"<a href = ""https://secure.lni.wa.gov/verify/""target=""_BLANK_"">Washington State Department of Labor & Industries – Contractors</a>\n"
+5d3763dd360000a7bcb098c4,,84882,question,questionText,26856,form,Washington Contractor License Classifications:
+5d3763e8360000a7bcb098c7,,84883,question,questionText,26856,form,Washington License Expiration Date:
+5d3763f4360000a7bcb098d7,,84884,question,description,26856,form,A URL will make verification quicker if provided
+5d3763f4360000a7bcb098d7,,84884,question,questionText,26856,form,"Upload a copy of your license, and or provide the URL of the license."
+5d3763f4360000a7bcb098d7,,84884,question,responseOption1,26856,form,File Upload
+5d3763f4360000a7bcb098d7,,84884,question,responseOption2,26856,form,URL
+5d3764073500002f3cacfdcd,,84885,question,questionText,26856,form,Please upload a copy of your Washington license:
+5d3764143500002f3cacfdd4,,84886,question,questionText,26856,form,Please enter the URL of the license:

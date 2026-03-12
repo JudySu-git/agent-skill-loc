@@ -1,0 +1,48 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63486a382e0000ea20b3b1d3,59ff3e9b2f0000bc19e0fa08,65,questionGroup,description,65,form,"You've received this form because you identified your company does not employ any workers (e.g. full-time, part-time, or seasonal or independent contractors) to provide services or scope of work. This setting may result in you not receiving the appropriate requirements from your client(s). If you need further clarification on this setting or if you want to discuss your company's status, please contact Avetta."
+63486a382e0000ea20b3b1d3,59ff3e9b2f0000bc19e0fa08,65,questionGroup,questionGroupText,65,form,Avetta PQF - General Safety (Single)
+4de00078504943c03e4f5bd4,,7789,question,questionText,65,form,Have you identified activities/tasks associated with your work that could impact the health and safety of yourself or others on the worksite?
+4de00078504943c03e4f5bd4,,7789,question,responseOptionNA,65,form,N/A
+4de00078504943c03e4f5bd4,,7789,question,responseOptionNo,65,form,No
+4de00078504943c03e4f5bd4,,7789,question,responseOptionYes,65,form,Yes
+4de000ca5049432c0ece33fc,,7790,question,questionText,65,form,"Do you identify appropriate risks, establish barriers or controls and implement them for activities/tasks?"
+4de000ca5049432c0ece33fc,,7790,question,responseOptionNA,65,form,N/A
+4de000ca5049432c0ece33fc,,7790,question,responseOptionNo,65,form,No
+4de000ca5049432c0ece33fc,,7790,question,responseOptionYes,65,form,Yes
+4de0018a504943999bd524b0,,7792,question,questionText,65,form,"If procedures are used for activities/tasks, are they documented?"
+4de0018a504943999bd524b0,,7792,question,responseOptionNA,65,form,N/A
+4de0018a504943999bd524b0,,7792,question,responseOptionNo,65,form,No
+4de0018a504943999bd524b0,,7792,question,responseOptionYes,65,form,Yes
+4de002a65049433e9295b5d0,,7794,question,questionText,65,form,Are these procedures accessible at the worksite/workplace and available for review?
+4de002a65049433e9295b5d0,,7794,question,responseOptionNA,65,form,N/A
+4de002a65049433e9295b5d0,,7794,question,responseOptionNo,65,form,No
+4de002a65049433e9295b5d0,,7794,question,responseOptionYes,65,form,Yes
+4de002c95049432c9c95febd,,7796,question,questionText,65,form,"Do you have the training, qualifications, and experience to perform your job safely?"
+4de002c95049432c9c95febd,,7796,question,responseOptionNA,65,form,N/A
+4de002c95049432c9c95febd,,7796,question,responseOptionNo,65,form,No
+4de002c95049432c9c95febd,,7796,question,responseOptionYes,65,form,Yes
+4de00351504943655fad7cde,,7799,question,questionText,65,form,"If applicable, can you confirm that all equipment is used in accordance to manufacturer/equipment specifications?"
+4de00351504943655fad7cde,,7799,question,responseOptionNA,65,form,N/A
+4de00351504943655fad7cde,,7799,question,responseOptionNo,65,form,No
+4de00351504943655fad7cde,,7799,question,responseOptionYes,65,form,Yes
+4de0038c50494343532829c5,,7800,question,questionText,65,form,"Are you trained in the use, care, and maintenance of required PPE (Examples: Respirators, Chemical Protective Clothing, Welding Helmets/Goggles, Fall Protection, Safety Boots, Safety Glasses, Gloves, etc.)?"
+4de0038c50494343532829c5,,7800,question,responseOptionNA,65,form,N/A
+4de0038c50494343532829c5,,7800,question,responseOptionNo,65,form,No
+4de0038c50494343532829c5,,7800,question,responseOptionYes,65,form,Yes
+4de003ab504943ded711b5dc,,7801,question,questionText,65,form,"If applicable, are tools and equipment inspected and maintained before use to ensure they are in safe operating condition?"
+4de003ab504943ded711b5dc,,7801,question,responseOptionNA,65,form,N/A
+4de003ab504943ded711b5dc,,7801,question,responseOptionNo,65,form,No
+4de003ab504943ded711b5dc,,7801,question,responseOptionYes,65,form,Yes
+4de003d45049437c0847076e,,7802,question,questionText,65,form,"Is equipment certification(s)/inspection(s) required by regulation, current and readily available?"
+4de003d45049437c0847076e,,7802,question,responseOptionNA,65,form,N/A
+4de003d45049437c0847076e,,7802,question,responseOptionNo,65,form,No
+4de003d45049437c0847076e,,7802,question,responseOptionYes,65,form,Yes
+4de003f9504943cf0c562878,,7803,question,description,65,form,"<a href=""https://unece.org/ghs-rev5-2013 "" target=""_blank"" >Globally Harmonized System of Classification and Labelling of Chemicals (GHS)</a>"
+4de003f9504943cf0c562878,,7803,question,questionText,65,form,"Are chemicals labeled, handled, stored and transported as required by regulation and/or as stated in Safety Data Sheets (SDS)?"
+4de003f9504943cf0c562878,,7803,question,responseOptionNA,65,form,N/A
+4de003f9504943cf0c562878,,7803,question,responseOptionNo,65,form,No
+4de003f9504943cf0c562878,,7803,question,responseOptionYes,65,form,Yes
+4de0041c50494321a485be09,,7804,question,questionText,65,form,"Do you identify hazards and assess risks at the start of work and during the course of work (i.e. when there are changes to the work area, change in weather, change in equipment, etc.) to ensure proactive hazard identification and risk assessment?"
+4de0041c50494321a485be09,,7804,question,responseOptionNA,65,form,N/A
+4de0041c50494321a485be09,,7804,question,responseOptionNo,65,form,No
+4de0041c50494321a485be09,,7804,question,responseOptionYes,65,form,Yes

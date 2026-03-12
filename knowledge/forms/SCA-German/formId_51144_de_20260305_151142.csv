@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87734a36b6c4c6354669f,69a87734a36b6c4c6354669e,51144,questionGroup,questionGroupText,51144,form,Construction - Fire and Explosion Prevention,
+69a87734a36b6c4c63546699,,199968,question,description,51144,form,"Ignition prevention measures must protect stored flammable or explosive materials.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 20(2), 20(7), 47</a>",
+69a87734a36b6c4c63546699,,199968,question,questionText,51144,form,Ignition Prevention Measures,
+69a87734a36b6c4c6354669a,,199969,question,description,51144,form,"Controls must prevent heavier-than-air vapors from accumulating in low areas.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 20(4)</a>",
+69a87734a36b6c4c6354669a,,199969,question,questionText,51144,form,Vapor Accumulation Control,
+69a87734a36b6c4c6354669b,,199970,question,description,51144,form,"Flammable waste removal practices must include collection and removal at least once per shift. Flammable waste quantities must be kept to a minimum to reduce the risk of major fires or rapid fire spread.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 44(1)</a>",
+69a87734a36b6c4c6354669b,,199970,question,questionText,51144,form,Flammable Waste Removal (Each Shift),
+69a87734a36b6c4c6354669c,,199971,question,description,51144,form,"Fire extinguisher and extinguishing system inspections must occur at least every two years with records maintained. Extinguishing agent quantity checks must occur at least every six months.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 45(8)</a>",
+69a87734a36b6c4c6354669c,,199971,question,questionText,51144,form,"Fire Equipment Inspections (Every 6 Months, Every 2 Years)",
+69a87734a36b6c4c6354669d,,199972,question,questionText,51144,form,<div></div>,

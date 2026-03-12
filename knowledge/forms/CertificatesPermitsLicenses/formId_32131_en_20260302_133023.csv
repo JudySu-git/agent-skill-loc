@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67228f47010000a90090fd88,5fd2a80526000052f7a33cf1,32131,questionGroup,questionGroupText,32131,form,Avetta PQF - Brazil Sanitary Permit
+67224e7f0100003500c0f1f4,5fd2ab4e290000124b8766c6,32132,questionGroup,questionGroupText,32131,form,Avetta PQF - Brazil Sanitary Permit
+5fd2ab5826000052f7a33f97,,105473,question,questionText,32131,form,Please upload the Sanitary Permit of your company.
+5fd2ab6c290000124b8766dd,,105474,question,description,32131,form,"For permits issued in São Paulo and/or without an expiration date, enter a date exactly two years from today."
+5fd2ab6c290000124b8766dd,,105474,question,questionText,32131,form,Expiration Date:

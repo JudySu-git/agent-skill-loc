@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67ec79bc010000a00147a78d,67eadce301000006018c6808,45108,questionGroup,questionGroupText,45108,form,Brazil Regional Council Applicability Assessment
+67eadce301000003018c6809,,167135,question,description,45108,form,"Please select all that apply. If your company does not hold any of these, select “None""."
+67eadce301000003018c6809,,167135,question,questionText,45108,form,Does your company hold any of the following professional registrations in Brazil?
+67eadce301000003018c6809,,167135,question,responseOption1,45108,form,CRM – Regional Medical Council (Conselho Regional de Medicina)
+67eadce301000003018c6809,,167135,question,responseOption2,45108,form,CREA – Regional Engineering and Agronomy Council (Conselho Regional de Engenharia e Agronomia)
+67eadce301000003018c6809,,167135,question,responseOption3,45108,form,CRQ – Regional Chemistry Council (Conselho Regional de Química)
+67eadce301000003018c6809,,167135,question,responseOption4,45108,form,CRA – Regional Administration Council (Conselho Regional de Administração)
+67eadce301000003018c6809,,167135,question,responseOption5,45108,form,None of the above

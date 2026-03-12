@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4caa1f87504943f431c370f4,4caa1f87504943f431c370f4,1042,questionGroup,questionGroupText,1042,category,PSC Contractor Vendor-Services on PSC Site
+4caa21f15049436d50353b53,,4969,question,questionText,1042,category,This insurance policy complies with all additional PSC Contractor Vendor-Services on PSC Site requirements.
+4caa21f15049436d50353b53,,4969,question,responseOptionNo,1042,category,No
+4caa21f15049436d50353b53,,4969,question,responseOptionYes,1042,category,Yes
+4caa2094504943f34fa6c553,,5673,question,questionText,1042,category,Upload a Certificate of Insurance or other supporting documentation for this policy.

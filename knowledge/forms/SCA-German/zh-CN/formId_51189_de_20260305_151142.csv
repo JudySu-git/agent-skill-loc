@@ -1,0 +1,18 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87755a36b6c4c63546821,69a87755a36b6c4c63546820,51189,questionGroup,questionGroupText,51189,form,在水上、水面上方或水边作业,
+69a87755a36b6c4c6354681a,,200263,question,description,51189,form,"有溺水风险的作业安排必须配备救生PPE和救援设备。水上交通工具须为每人提供一件救生装置。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 106(1), 107(1)</a>",
+69a87755a36b6c4c6354681a,,200263,question,questionText,51189,form,个人防护装备,
+69a87755a36b6c4c6354681b,,200264,question,description,51189,form,"现场人员配置须包括经过培训的救援设备使用人员。现场至少须有一名具备心肺复苏知识的人员。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 106(1-2)</a>",
+69a87755a36b6c4c6354681b,,200264,question,questionText,51189,form,救援人员,
+69a87755a36b6c4c6354681c,,200265,question,description,51189,form,"在开始作业前，必须对员工进行防护和救援设备操作培训，以及事故发生时正确处置程序的培训。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 106(2)</a>",
+69a87755a36b6c4c6354681c,,200265,question,questionText,51189,form,培训,
+69a87755a36b6c4c6354681d,,200266,question,description,51189,form,"所有相关员工每年必须参加水上救援演练，模拟真实紧急情景，并保存书面记录。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 106(2)</a>",
+69a87755a36b6c4c6354681d,,200266,question,questionText,51189,form,年度水上救援演练,
+69a87755a36b6c4c6354681e,,200267,question,description,51189,form,"高风险水上作业安排必须配备配有救援设备及救援人员的有人驾驶机动船。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 106(3)</a>",
+69a87755a36b6c4c6354681e,,200267,question,questionText,51189,form,有人驾驶机动船的可用性,
+69a87755a36b6c4c6354681f,,200268,question,questionText,51189,form,<div></div>,

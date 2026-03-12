@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+674df5c60100007000a411ba,63742afb16000075051d8420,37709,questionGroup,description,37709,form,"You are getting this category because you selected ISO/IEC 27001:2022 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for the a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+674df5c60100007000a411ba,63742afb16000075051d8420,37709,questionGroup,questionGroupText,37709,form,ISO/IEC 27001 - Information Technology
+63742afc16000075051d8421,,133520,question,questionText,37709,form,Please upload your ISO/IEC 27001:2022 - Information Technology - Security Techniques - Information Security Management Systems - Requirements certificate:
+63742afc16000075051d8422,,133521,question,questionText,37709,form,Please enter the certificate expiration date:\n

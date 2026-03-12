@@ -1,0 +1,145 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4e68e2085049436549e4fe4e,4e68e2085049436549e4fe4e,2105,questionGroup,questionGroupText,20074,form,Transportation
+4e68e360504943691a3e8773,4e68e360504943691a3e8773,2106,questionGroup,questionGroupText,20074,form,Management Systems
+4e68f122504943dd57b71cd9,4e68f122504943dd57b71cd9,2107,questionGroup,questionGroupText,20074,form,Summary of Vehicles & Drivers
+4e68f1d5504943eb8b846119,4e68f1d5504943eb8b846119,2108,questionGroup,questionGroupText,20074,form,Heavy Good Vehicles
+4e68f480504943b344f33148,4e68f480504943b344f33148,2109,questionGroup,questionGroupText,20074,form,Light Vehicles
+4e6911fd5049436b57140055,4e6911fd5049436b57140055,2112,questionGroup,questionGroupText,20074,form,Drivers
+4e69272e5049436400b8fab5,4e69272e5049436400b8fab5,2115,questionGroup,questionGroupText,20074,form,Upload Files
+4e69279050494380e3498108,4e69279050494380e3498108,2116,questionGroup,questionGroupText,20074,form,Professional Driver Training
+4e692928504943bc3ff1f473,4e692928504943bc3ff1f473,2118,questionGroup,questionGroupText,20074,form,Fatigue Management
+4e692a585049439507f3475f,4e692a585049439507f3475f,2119,questionGroup,questionGroupText,20074,form,Mobile Phones
+4e68e30c5049433b2b45a288,,9000,question,questionText,20074,form,Does your company have a written process on drug and alcohol testing/management?
+4e68e30c5049433b2b45a288,,9000,question,responseOptionNA,20074,form,N/A
+4e68e30c5049433b2b45a288,,9000,question,responseOptionNo,20074,form,No
+4e68e30c5049433b2b45a288,,9000,question,responseOptionYes,20074,form,Yes
+4e68e3d9504943662c318f7f,,9002,question,questionText,20074,form,Does your company have a written process on how to ensure that driver's licenses are current and valid?
+4e68e3d9504943662c318f7f,,9002,question,responseOptionNA,20074,form,N/A
+4e68e3d9504943662c318f7f,,9002,question,responseOptionNo,20074,form,No
+4e68e3d9504943662c318f7f,,9002,question,responseOptionYes,20074,form,Yes
+4e68e44b5049439cceded6fe,,9004,question,questionText,20074,form,Does your company have a written process to ensure that drivers' disqualification/violations are identified/communicated?
+4e68e44b5049439cceded6fe,,9004,question,responseOptionNA,20074,form,N/A
+4e68e44b5049439cceded6fe,,9004,question,responseOptionNo,20074,form,No
+4e68e44b5049439cceded6fe,,9004,question,responseOptionYes,20074,form,Yes
+4e68e4ce504943348f53a7f9,,9006,question,questionText,20074,form,Does your company have a process on how to complete background checks when applicable?
+4e68e4ce504943348f53a7f9,,9006,question,responseOptionNA,20074,form,N/A
+4e68e4ce504943348f53a7f9,,9006,question,responseOptionNo,20074,form,No
+4e68e4ce504943348f53a7f9,,9006,question,responseOptionYes,20074,form,Yes
+4e68e6ce5049435289728daa,,9023,question,questionText,20074,form,"Does your company have an express, written policy on obeying speed limits?"
+4e68e6ce5049435289728daa,,9023,question,responseOptionNA,20074,form,N/A
+4e68e6ce5049435289728daa,,9023,question,responseOptionNo,20074,form,No
+4e68e6ce5049435289728daa,,9023,question,responseOptionYes,20074,form,Yes
+4e68e737504943f58febfaa9,,9028,question,questionText,20074,form,Does your company have a policy prohibiting the use of radar detectors?
+4e68e737504943f58febfaa9,,9028,question,responseOptionNA,20074,form,N/A
+4e68e737504943f58febfaa9,,9028,question,responseOptionNo,20074,form,No
+4e68e737504943f58febfaa9,,9028,question,responseOptionYes,20074,form,Yes
+4e68e76f504943bb36d41f83,,9029,question,questionText,20074,form,Does your company have a consistent method/process in place on how to monitor vehicle service requirements?
+4e68e76f504943bb36d41f83,,9029,question,responseOptionNA,20074,form,N/A
+4e68e76f504943bb36d41f83,,9029,question,responseOptionNo,20074,form,No
+4e68e76f504943bb36d41f83,,9029,question,responseOptionYes,20074,form,Yes
+4e68e7b4504943eb67d8542d,,9032,question,questionText,20074,form,Does your company have a process/system in place to assure compliance with service hours regulations based on the jurisdictions you work in?
+4e68e7b4504943eb67d8542d,,9032,question,responseOptionNA,20074,form,N/A
+4e68e7b4504943eb67d8542d,,9032,question,responseOptionNo,20074,form,No
+4e68e7b4504943eb67d8542d,,9032,question,responseOptionYes,20074,form,Yes
+4e68e83b504943bc1fdd98c0,,9038,question,questionText,20074,form,Does your company have a process/system in place to review driver vehicle inspection reports?
+4e68e83b504943bc1fdd98c0,,9038,question,responseOptionNA,20074,form,N/A
+4e68e83b504943bc1fdd98c0,,9038,question,responseOptionNo,20074,form,No
+4e68e83b504943bc1fdd98c0,,9038,question,responseOptionYes,20074,form,Yes
+4e68e84e5049432f9b2540d1,,9039,question,questionText,20074,form,Does your company maintain a current accident register?
+4e68e84e5049432f9b2540d1,,9039,question,responseOptionNA,20074,form,N/A
+4e68e84e5049432f9b2540d1,,9039,question,responseOptionNo,20074,form,No
+4e68e84e5049432f9b2540d1,,9039,question,responseOptionYes,20074,form,Yes
+4e68e8735049431b70f970cd,,9040,question,questionText,20074,form,Does your company have a process/system in place to address accident prevention?
+4e68e8735049431b70f970cd,,9040,question,responseOptionNA,20074,form,N/A
+4e68e8735049431b70f970cd,,9040,question,responseOptionNo,20074,form,No
+4e68e8735049431b70f970cd,,9040,question,responseOptionYes,20074,form,Yes
+4e68f1ed5049434dd148cf56,,9042,question,questionText,20074,form,Total Number of Vehicles:
+4e68f1fd5049437298628c21,,9043,question,questionText,20074,form,Total Number of Vehicles Audited:
+4e68f40f50494384f3711c70,,9044,question,questionText,20074,form,Percent of Vehicles Audited:
+4e68f80850494396b49e2f2f,,9045,question,questionText,20074,form,Total Number of Vehicles:
+4e6911e150494371022a19a3,,9055,question,questionText,20074,form,Total Number of Vehicles Audited:
+4e6911f15049435f785f0b49,,9056,question,questionText,20074,form,Percentage of Vehicles Audited:
+4e69120f504943acd052efb5,,9057,question,questionText,20074,form,Total Number of Drivers:
+4e69121e504943783d6064ec,,9058,question,questionText,20074,form,Total Number of Audited Drivers:
+4e691230504943693fdd1035,,9059,question,questionText,20074,form,Percentage of Audited Drivers:
+4e6927405049439b1d438b31,,9137,question,questionText,20074,form,Does your company have a requirement that all vehicle occupants wear a seat belt?
+4e6927405049439b1d438b31,,9137,question,responseOptionNA,20074,form,N/A
+4e6927405049439b1d438b31,,9137,question,responseOptionNo,20074,form,No
+4e6927405049439b1d438b31,,9137,question,responseOptionYes,20074,form,Yes
+4e692750504943605e173824,,9138,question,questionText,20074,form,Please upload all of your company's policies and procedures that apply to your transportation operations. \nUpload #1
+4e692750504943605e173824,,9138,question,responseOptionNo,20074,form,No
+4e692750504943605e173824,,9138,question,responseOptionYes,20074,form,Yes
+4e69276750494332fca945f8,,9139,question,questionText,20074,form,Upload #2
+4e69276750494332fca945f8,,9139,question,responseOptionNA,20074,form,N/A
+4e69276750494332fca945f8,,9139,question,responseOptionNo,20074,form,No
+4e69276750494332fca945f8,,9139,question,responseOptionYes,20074,form,Yes
+4e692776504943c568df3828,,9140,question,questionText,20074,form,Upload #3
+4e692776504943c568df3828,,9140,question,responseOptionNA,20074,form,N/A
+4e692776504943c568df3828,,9140,question,responseOptionNo,20074,form,No
+4e692776504943c568df3828,,9140,question,responseOptionYes,20074,form,Yes
+4e6927a35049431bdfadb549,,9141,question,questionText,20074,form,Are all drivers in possession of a valid drivers license for the class of vehicle they operate?
+4e6927a35049431bdfadb549,,9141,question,responseOptionNA,20074,form,N/A
+4e6927a35049431bdfadb549,,9141,question,responseOptionNo,20074,form,No
+4e6927a35049431bdfadb549,,9141,question,responseOptionYes,20074,form,Yes
+4e6927ea50494336a4aec2e3,,9143,question,questionText,20074,form,"Does your company have a defensive driving training program that includes topics such as proper attitude, visual habits, proper decision making skills and appropriate driver actions?"
+4e6927ea50494336a4aec2e3,,9143,question,responseOptionNA,20074,form,N/A
+4e6927ea50494336a4aec2e3,,9143,question,responseOptionNo,20074,form,No
+4e6927ea50494336a4aec2e3,,9143,question,responseOptionYes,20074,form,Yes
+4e6927f8504943d5e231233a,,9144,question,questionText,20074,form,Does the defensive driver training program include an on-road assessment and coaching session?
+4e6927f8504943d5e231233a,,9144,question,responseOptionNA,20074,form,N/A
+4e6927f8504943d5e231233a,,9144,question,responseOptionNo,20074,form,No
+4e6927f8504943d5e231233a,,9144,question,responseOptionYes,20074,form,Yes
+4e69285f5049433346d6e91f,,9149,question,questionText,20074,form,How often do drivers undergo a refresher defensive driving training class?
+4e69285f5049433346d6e91f,,9149,question,responseOptionAnnually,20074,form,Annually
+4e69285f5049433346d6e91f,,9149,question,responseOptionBi-Annually,20074,form,Bi-Annually
+4e69285f5049433346d6e91f,,9149,question,responseOptionDaily,20074,form,Daily
+4e69285f5049433346d6e91f,,9149,question,responseOptionEvery2Years,20074,form,Every 2 Years
+4e69285f5049433346d6e91f,,9149,question,responseOptionEvery3Years,20074,form,Every 3 Years
+4e69285f5049433346d6e91f,,9149,question,responseOptionMonthly,20074,form,Monthly
+4e69285f5049433346d6e91f,,9149,question,responseOptionNotApplicable,20074,form,Not Applicable
+4e69285f5049433346d6e91f,,9149,question,responseOptionOther,20074,form,Other
+4e69285f5049433346d6e91f,,9149,question,responseOptionQuarterly,20074,form,Quarterly
+4e69285f5049433346d6e91f,,9149,question,responseOptionWeekly,20074,form,Weekly
+4e69294c504943f660c3b3e0,,9160,question,questionText,20074,form,Are drivers aware that they are obliged to stop driving if they are fatigued or tired?
+4e69294c504943f660c3b3e0,,9160,question,responseOptionNA,20074,form,N/A
+4e69294c504943f660c3b3e0,,9160,question,responseOptionNo,20074,form,No
+4e69294c504943f660c3b3e0,,9160,question,responseOptionYes,20074,form,Yes
+4e692a31504943868a901ffe,,9168,question,questionText,20074,form,"Where VDR (Vehicle Data Recorder) are fitted, is there a system is in place to monitor adherence and that appropriate actions are being taken for non-conformances?"
+4e692a31504943868a901ffe,,9168,question,responseOptionNA,20074,form,N/A
+4e692a31504943868a901ffe,,9168,question,responseOptionNo,20074,form,No
+4e692a31504943868a901ffe,,9168,question,responseOptionYes,20074,form,Yes
+4e692a685049432c399b2c7c,,9170,question,questionText,20074,form,Does your company have a policy on the use of mobile phones and two-way radio communication while driving?
+4e692a685049432c399b2c7c,,9170,question,responseOptionNA,20074,form,N/A
+4e692a685049432c399b2c7c,,9170,question,responseOptionNo,20074,form,No
+4e692a685049432c399b2c7c,,9170,question,responseOptionYes,20074,form,Yes
+4e692bb250494320288e3007,,9174,question,questionText,20074,form,Does your company utilize technology in any of your vehicles that electronically deactivates communication equipment when a vehicle is in motion?
+4e692bb250494320288e3007,,9174,question,responseOptionNA,20074,form,N/A
+4e692bb250494320288e3007,,9174,question,responseOptionNo,20074,form,No
+4e692bb250494320288e3007,,9174,question,responseOptionYes,20074,form,Yes
+5c1825543700006dd2bf9c3f,5ab09039240000604819a7d2,20074,questionGroup,questionGroupText,20074,form,Avetta PQF - Transportation
+547e0fd9504943e52b373686,,27468,question,questionText,20074,form,Does your company have a written fatigue management program in place?
+547e0fd9504943e52b373686,,27468,question,responseOptionNA,20074,form,N/A
+547e0fd9504943e52b373686,,27468,question,responseOptionNo,20074,form,No
+547e0fd9504943e52b373686,,27468,question,responseOptionYes,20074,form,Yes
+547f539b504943505429a710,,27549,question,questionText,20074,form,Do all drivers have to undergo a medical assessment on initial hire and periodically thereafter?
+547f539b504943505429a710,,27549,question,responseOptionNA,20074,form,N/A
+547f539b504943505429a710,,27549,question,responseOptionNo,20074,form,No
+547f539b504943505429a710,,27549,question,responseOptionYes,20074,form,Yes
+547f53f9504943bf465f6d08,,27550,question,questionText,20074,form,How often do drivers undergo a medical assessment after initial hire?
+547f53f9504943bf465f6d08,,27550,question,responseOptionAnnually,20074,form,Annually
+547f53f9504943bf465f6d08,,27550,question,responseOptionBi-Annually,20074,form,Bi-Annually
+547f53f9504943bf465f6d08,,27550,question,responseOptionDaily,20074,form,Daily
+547f53f9504943bf465f6d08,,27550,question,responseOptionEvery2Years,20074,form,Every 2 Years
+547f53f9504943bf465f6d08,,27550,question,responseOptionEvery3Years,20074,form,Every 3 Years
+547f53f9504943bf465f6d08,,27550,question,responseOptionMonthly,20074,form,Monthly
+547f53f9504943bf465f6d08,,27550,question,responseOptionNotApplicable,20074,form,Not Applicable
+547f53f9504943bf465f6d08,,27550,question,responseOptionOther,20074,form,Other
+547f53f9504943bf465f6d08,,27550,question,responseOptionQuarterly,20074,form,Quarterly
+547f53f9504943bf465f6d08,,27550,question,responseOptionWeekly,20074,form,Weekly
+567b0d8450494324c21ad300,,35784,question,questionText,20074,form,Does your company have an Emergency Response Assistance Plan (ERAP)?
+567b0d8450494324c21ad300,,35784,question,responseOptionNA,20074,form,N/A
+567b0d8450494324c21ad300,,35784,question,responseOptionNo,20074,form,No
+567b0d8450494324c21ad300,,35784,question,responseOptionYes,20074,form,Yes
+567b0e3f504943f7d6b6b906,,35785,question,questionText,20074,form,Does your company's applicable drivers receive Transportation of Dangerous Goods training?
+567b0e3f504943f7d6b6b906,,35785,question,responseOptionNo,20074,form,No
+567b0e3f504943f7d6b6b906,,35785,question,responseOptionYes,20074,form,Yes

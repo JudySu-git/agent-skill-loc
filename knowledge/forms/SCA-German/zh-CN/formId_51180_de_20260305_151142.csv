@@ -1,0 +1,21 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774fa36b6c4c635467db,69a8774fa36b6c4c635467da,51180,questionGroup,questionGroupText,51180,form,呼吸防护,
+69a8774fa36b6c4c635467d3,,200210,question,description,51180,form,"与呼吸器相关的体检必须涵盖呼吸器的频繁或长时间使用情况。医学评估必须考虑生理负担。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第49(2)条</a>",
+69a8774fa36b6c4c635467d3,,200210,question,questionText,51180,form,体格检查,
+69a8774fa36b6c4c635467d4,,200211,question,description,51180,form,"当存在有害物质或缺氧风险时，必须提供呼吸防护装备。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">个人防护装备条例，第15(2)条</a>",
+69a8774fa36b6c4c635467d4,,200211,question,questionText,51180,form,使用配备,
+69a8774fa36b6c4c635467d5,,200212,question,description,51180,form,"呼吸防护装备必须将吸入暴露量降低至职业限值以下。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">个人防护装备条例，第15(3)条</a>",
+69a8774fa36b6c4c635467d5,,200212,question,questionText,51180,form,暴露量降低,
+69a8774fa36b6c4c635467d6,,200213,question,description,51180,form,"呼吸防护个人防护装备的培训必须涵盖使用、维护及功能检查。培训须包括正确佩戴和脱除的方法。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">个人防护装备条例，第15(6)条、第15(7)(1)条</a>",
+69a8774fa36b6c4c635467d6,,200213,question,questionText,51180,form,培训,
+69a8774fa36b6c4c635467d7,,200214,question,description,51180,form,"必须以不超过六个月的间隔开展呼吸防护装备佩戴与脱除演练。在演练过程中，须重复进行功能检查方面的指导。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">个人防护装备条例，第15(7)(2)条</a>",
+69a8774fa36b6c4c635467d7,,200214,question,questionText,51180,form,半年度演练,
+69a8774fa36b6c4c635467d8,,200215,question,description,51180,form,"呼吸装置必须至少每季度检查一次。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">个人防护装备条例，第15(8)(1)条</a>",
+69a8774fa36b6c4c635467d8,,200215,question,questionText,51180,form,季度检查,
+69a8774fa36b6c4c635467d9,,200216,question,questionText,51180,form,<div></div>,

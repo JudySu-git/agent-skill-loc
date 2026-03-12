@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce465e0100005b0021f946,662fe17f1b00005d00b6e56a,42005,questionGroup,description,42005,form,You are getting this category because you selected a license in the Avetta PQF - Northern Territory License.
+66ce465e0100005b0021f946,662fe17f1b00005d00b6e56a,42005,questionGroup,questionGroupText,42005,form,Northern Territory Contractor License - Asbestos Assessor
+662fe17f1b00002e00b6e56b,,153321,question,questionText,42005,form,Expiration Date:
+662fe17f1b00002e00b6e56b,,153321,question,responseOption1,42005,form,Yes
+662fe17f1b00002e00b6e56b,,153321,question,responseOption2,42005,form,No
+662fe17f1b00002f00b6e56d,,153322,question,questionText,42005,form,Please upload your license:\n
+662fe17f1b00002f00b6e56d,,153322,question,responseOption1,42005,form,Yes
+662fe17f1b00002f00b6e56d,,153322,question,responseOption2,42005,form,No
+662fe17f1b00002e00b6e56c,,153323,question,questionText,42005,form,License Number:
+662fe17f1b00002e00b6e56c,,153323,question,responseOption1,42005,form,Yes
+662fe17f1b00002e00b6e56c,,153323,question,responseOption2,42005,form,No

@@ -1,0 +1,30 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6969f99a0100004300afb43d,5c00418c400000cc40b4c111,20989,questionGroup,questionGroupText,20989,form,Subcontractor Quarterly Hours and Incidents Report
+5c0041e04000004b41b4c2ab,5c0041e04000004b41b4c2aa,20991,questionGroup,questionGroupText,20989,form,Quarterly Questionnaires
+5c00422f3100009e37be6c31,,70330,question,questionText,20989,form,"Did your company perform work in the United States or its territories, during the last quarter?"
+5c00422f3100009e37be6c31,,70330,question,responseOption1,20989,form,Yes
+5c00422f3100009e37be6c31,,70330,question,responseOption2,20989,form,No
+5c004242310000bf37be6c36,,70331,question,questionText,20989,form,"If Yes, please provide the:<br>\nAverage Number of Employees:"
+5c0042e6310000fc38be6d36,,70332,question,description,20989,form,(as defined by OSHA)
+5c0042e6310000fc38be6d36,,70332,question,questionText,20989,form,Number of Exposure or Employee Hours:
+5c00434b4000006943b4c381,,70333,question,description,20989,form,(including number of Other Recordable Cases)
+5c00434b4000006943b4c381,,70333,question,questionText,20989,form,Total Number of Recordable Cases:
+5c004388310000da39be6d7a,,70334,question,description,20989,form,(Calculated)
+5c004388310000da39be6d7a,,70334,question,questionText,20989,form,Total Recordable Incident Rate:
+5c0043aa3100001d3abe6d8c,,70335,question,questionText,20989,form,Number of Cases with Days Away from Work:
+5c0043e34000003444b4c3b0,,70336,question,description,20989,form,(Calculated)
+5c0043e34000003444b4c3b0,,70336,question,questionText,20989,form,Lost Time Case (LTC) Rate:
+5c00443f310000f43abe6de3,,70337,question,questionText,20989,form,Number of Days Away from Work:
+5c0044593100001c3bbe6dea,,70338,question,description,20989,form,(Calculated)
+5c0044593100001c3bbe6dea,,70338,question,questionText,20989,form,Lost Work Day (LWD) Rate:
+5c004469310000353bbe6df8,,70339,question,questionText,20989,form,Number of Cases with Restricted Duty/Job Transfer Work Days:
+5c00447d4000003d45b4c460,,70340,question,description,20989,form,(Calculated / Including Job Transfer Work Day Cases)
+5c00447d4000003d45b4c460,,70340,question,questionText,20989,form,Restricted Work Day Case (RWC) Rate :
+5c0044b83100003f3cbe6e16,,70341,question,questionText,20989,form,Number of Restricted Duty/Job Transfer Work Days:
+5c0044c9310000643cbe6e18,,70342,question,questionText,20989,form,Number of Fatalities:
+5c0044d64000004d46b4c49c,,70343,question,description,20989,form,(Calculated)
+5c0044d64000004d46b4c49c,,70343,question,questionText,20989,form,Severity Rate:
+5c0044f1310000cd3cbe6e1b,,70344,question,description,20989,form,(Calculated)
+5c0044f1310000cd3cbe6e1b,,70344,question,questionText,20989,form,DART (Days Away/Restricted or Transfer Rate):
+5c004553400000f446b4c4f5,,70345,question,questionText,20989,form,OSHA Violations or Citations:
+5c004565310000373dbe6e4d,,70346,question,questionText,20989,form,Number of Near Misses:

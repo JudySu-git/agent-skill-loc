@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5d4094cb350000a7bca59d59,5d374ebc330000b828a68008,27009,questionGroup,questionGroupText,27009,form,Avetta PQF - Workers' Compensation Questionnaire
+5d374f07360000a7bcb07f74,5d374f07360000a7bcb07f73,27011,questionGroup,questionGroupText,27009,form,Workers' Compensation Questionnaire
+5d374f19360000a7bcb07f8b,,84860,question,description,27009,form,Select All That Apply 
+5d374f19360000a7bcb07f8b,,84860,question,questionText,27009,form,Please select the states where you are required to carry coverage through the Monopolistic State Workers Compensation Fund.
+5d374f19360000a7bcb07f8b,,84860,question,responseOption1,27009,form,North Dakota
+5d374f19360000a7bcb07f8b,,84860,question,responseOption2,27009,form,New York
+5d374f19360000a7bcb07f8b,,84860,question,responseOption3,27009,form,Ohio
+5d374f19360000a7bcb07f8b,,84860,question,responseOption4,27009,form,Puerto Rico
+5d374f19360000a7bcb07f8b,,84860,question,responseOption5,27009,form,Washington 
+5d374f19360000a7bcb07f8b,,84860,question,responseOption6,27009,form,Wyoming 
+5d374f19360000a7bcb07f8b,,84860,question,responseOption7,27009,form,N/A

@@ -1,0 +1,17 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+694afb320100004800ee36d7,662fcfa41a0000660045d2a8,41988,questionGroup,description,41988,form,You are getting this category because you selected that you have a license in the Avetta PQF - Australia Contractor License.
+694afb320100004800ee36d7,662fcfa41a0000660045d2a8,41988,questionGroup,questionGroupText,41988,form,Avetta PQF - New South Wales Contractor License
+694aedca0100003c017ffb98,,194233,question,questionText,41988,form,Please select all of the licenses your company currently maintains:
+694aedca0100003c017ffb98,,194233,question,responseOption1,41988,form,Builders
+694aedca0100003c017ffb98,,194233,question,responseOption10,41988,form,Plumbing
+694aedca0100003c017ffb98,,194233,question,responseOption11,41988,form,Radiation
+694aedca0100003c017ffb98,,194233,question,responseOption12,41988,form,Security Master
+694aedca0100003c017ffb98,,194233,question,responseOption13,41988,form,Waste
+694aedca0100003c017ffb98,,194233,question,responseOption2,41988,form,Class A: Asbestos Removal
+694aedca0100003c017ffb98,,194233,question,responseOption3,41988,form,Class B: Asbestos Removal
+694aedca0100003c017ffb98,,194233,question,responseOption4,41988,form,Demolition
+694aedca0100003c017ffb98,,194233,question,responseOption5,41988,form,Electrical
+694aedca0100003c017ffb98,,194233,question,responseOption6,41988,form,Fire
+694aedca0100003c017ffb98,,194233,question,responseOption7,41988,form,Gas Fitting
+694aedca0100003c017ffb98,,194233,question,responseOption8,41988,form,HVAC
+694aedca0100003c017ffb98,,194233,question,responseOption9,41988,form,Transport Explosives and / or Security Sensitive Dangerous Substance

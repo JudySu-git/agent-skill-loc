@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+691e52380100003c00548e80,6453ddde1b0000852965fc0c,39429,questionGroup,questionGroupText,39429,form,Avetta PQF - Spain Social Security Compliance Certificate (TGSS)
+6453dea61b0000a42965fc11,,141433,question,description,39429,form,"The ""Certificate of being up to date with tax obligations"" is a document issued by the Tax Agency in Spain that certifies that a person or entity is up to date with its tax obligations. This certificate indicates that the individual or entity has no outstanding tax debts or unpaid taxes."
+6453dea61b0000a42965fc11,,141433,question,questionText,39429,form,"Please upload a current Social Security Compliance Certificate (Certificado de estar al corriente en el cumplimiento de las obligaciones con la Seguridad Social), issued by the Tesorería General de la Seguridad Social (TGSS)."
+645417311b00006e4965fc9b,,141451,question,description,39429,form,Document date must not be prior to 1st day of period
+645417311b00006e4965fc9b,,141451,question,questionText,39429,form,Please provide the issue date.
+6553a3a5190000ea0b404595,,147039,question,questionText,39429,form,Does your company pay Social Security contributions in Spain?
+6553a3a5190000ea0b404595,,147039,question,responseOption1,39429,form,Yes
+6553a3a5190000ea0b404595,,147039,question,responseOption2,39429,form,No
+6553a3bb1900001113404cf7,,147040,question,questionText,39429,form,Please explain why:
+6553a3bb1900001113404cf7,,147040,question,responseOption1,39429,form,Yes
+6553a3bb1900001113404cf7,,147040,question,responseOption2,39429,form,No

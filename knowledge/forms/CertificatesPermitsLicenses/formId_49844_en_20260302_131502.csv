@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+694437120100004600d1f8ce,694435710100006000d1f8ae,49844,questionGroup,description,49844,form,This requirement is triggered because you indicated your organization maintains a valid AEAT Tax Compliance Certificate in the Spain Fiscal Compliance AEAT Applicability Assessment questionnaire.
+694437120100004600d1f8ce,694435710100006000d1f8ae,49844,questionGroup,questionGroupText,49844,form,Spain Fiscal Compliance AEAT
+694435940100003f00d1f8b1,,193427,question,description,49844,form,\nThe Certificate must be issued within 30 days of submission.
+694435940100003f00d1f8b1,,193427,question,questionText,49844,form,"Please upload your AEAT Tax Compliance Certificate, issued by the Spanish Tax Agency (AEAT)."
+694436200100003f00d1f8bb,,193429,question,questionText,49844,form,Please enter the issue date of your AEAT Tax Compliance Certificate.
+6944362a0100006400f9f919,,193430,question,description,49844,form,This should be 90 days after the issue date.
+6944362a0100006400f9f919,,193430,question,questionText,49844,form,Please enter the expiration date of your AEAT Tax Compliance Certificate.
+694436390100004600d1f8c1,,193431,question,questionText,49844,form,"As an authorized signatory, I confirm that Tax Contributions are up-to-date and records are available upon request."

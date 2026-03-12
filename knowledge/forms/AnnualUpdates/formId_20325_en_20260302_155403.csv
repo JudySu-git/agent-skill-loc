@@ -1,0 +1,797 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+676f09a4010000d500682897,5633e82a504943759a383810,7881,questionGroup,questionGroupText,20325,form,Fatality and Hospitalization
+5df12400370000c041bcceb7,585aa9c8504943e61a957cce,10331,questionGroup,questionGroupText,20325,form,In-Patient Hospitalization
+677442830100007700c338d2,585aa9e65049432921dd2e9b,10332,questionGroup,questionGroupText,20325,form,OSHA Citations
+6776d5060100003500f95607,5b0c5ad62300007703ec8b39,20325,questionGroup,description,20325,form,The purpose of this form is to capture additional details and information about the incidents your company reported in your Avetta Annual Update task submissions. Please note this is NOT limited to incidents on Verizon sites only; please provide information as it relates to your company.  
+6776d5060100003500f95607,5b0c5ad62300007703ec8b39,20325,questionGroup,questionGroupText,20325,form,Verizon Annual Update Supplement
+5df1451d3700009d4b2fe0ad,5df1451d3700009d4b2fe0ac,28165,questionGroup,questionGroupText,20325,form,Employee In-Patient Hospitalization #1
+61ca94cd3000007301b98968,5df147a6380000c0416c15a1,28166,questionGroup,questionGroupText,20325,form,De Minimis
+61caa46c3000007301b98a02,5df147f8380000c0416c2491,28167,questionGroup,questionGroupText,20325,form,Other than Serious
+5df16b8f3700009d4b341fb7,5df16b8f3700009d4b341fb6,28182,questionGroup,questionGroupText,20325,form,Employee In-Patient Hospitalization #2
+5df7e70f360000fe2db1e654,5df7e70f360000fe2db1e653,28267,questionGroup,questionGroupText,20325,form,Employee In-Patient Hospitalization #4
+5df7e711330000c041aee313,5df7e711330000c041aee312,28268,questionGroup,questionGroupText,20325,form,Employee In-Patient Hospitalization #3
+61ca97ea30000028768f236e,61ca97ea30000028768f236d,34669,questionGroup,questionGroupText,20325,form,De Minimis Resolved
+61ca98ae30000028768f2376,61ca98ae30000028768f2375,34670,questionGroup,questionGroupText,20325,form,De Minimis Not Resolved
+61ca9a993000007301b98990,61ca9a993000007301b9898f,34671,questionGroup,questionGroupText,20325,form,De Minimis #2
+61ca9b643000007301b989a0,61ca9b643000007301b9899f,34672,questionGroup,questionGroupText,20325,form,De Minimis #2 Resolved
+61ca9b7530000028768f2391,61ca9b7530000028768f2390,34673,questionGroup,questionGroupText,20325,form,De Minimis #2 Not Resolved
+61ca9c3e3000007301b989ae,61ca9c3e3000007301b989ad,34674,questionGroup,questionGroupText,20325,form,De Minimis #3
+61ca9cd330000028768f23ab,61ca9cd330000028768f23aa,34675,questionGroup,questionGroupText,20325,form,De Minimis #3 Resolved
+61ca9ce030000028768f23ae,61ca9ce030000028768f23ad,34676,questionGroup,questionGroupText,20325,form,De Minimis #3 Not Resolved
+61ca9d4f3000007301b989c8,61ca9d4f3000007301b989c7,34677,questionGroup,questionGroupText,20325,form,De Minimis #4
+61ca9e0030000028768f23c6,61ca9e0030000028768f23c5,34678,questionGroup,questionGroupText,20325,form,De Minimis #4 Resolved
+61ca9e1430000028768f23cb,61ca9e1430000028768f23ca,34679,questionGroup,questionGroupText,20325,form,De Minimis #4 Not Resolved
+61ca9e6f3000007301b989e5,61ca9e6f3000007301b989e4,34680,questionGroup,questionGroupText,20325,form,De Minimis #5 
+61ca9f7b30000028768f23e1,61ca9f7b30000028768f23e0,34681,questionGroup,questionGroupText,20325,form,De Minimis #5 Resolved
+61ca9f883000007301b989fc,61ca9f883000007301b989fb,34682,questionGroup,questionGroupText,20325,form,De Minimis #5 Not Resolved
+61caa5443000007301b98a12,61caa5443000007301b98a11,34683,questionGroup,questionGroupText,20325,form,Other than Serious Resolved
+61caa55530000028768f23ff,61caa55530000028768f23fe,34684,questionGroup,questionGroupText,20325,form,Other than Serious Not Resolved
+61caa59c3000007301b98a23,61caa59c3000007301b98a22,34685,questionGroup,questionGroupText,20325,form,Other than Serious #2
+61caa6d530000028768f2415,61caa6d530000028768f2414,34686,questionGroup,questionGroupText,20325,form,Other than Serious #2 Resolved
+61caa6e130000028768f241b,61caa6e130000028768f241a,34687,questionGroup,questionGroupText,20325,form,Other than Serious #2 Not Resolved
+61caa72e30000028768f2422,61caa72e30000028768f2421,34688,questionGroup,questionGroupText,20325,form,Other than Serious #3
+61caa7b630000028768f2432,61caa7b630000028768f2431,34689,questionGroup,questionGroupText,20325,form,Other than Serious #3 Resolved
+61caa7c730000028768f2436,61caa7c730000028768f2435,34690,questionGroup,questionGroupText,20325,form,Other than Serious #3 Not Resolved
+61caa8263000007301b98a59,61caa8263000007301b98a58,34691,questionGroup,questionGroupText,20325,form,Other than Serious #4
+61caa8a93000007301b98a67,61caa8a93000007301b98a66,34692,questionGroup,questionGroupText,20325,form,Other than Serious #4 Resolved
+61caa8b630000028768f244f,61caa8b630000028768f244e,34693,questionGroup,questionGroupText,20325,form,Other than Serious #4 Not Resolved
+61caa9053000007301b98a71,61caa9053000007301b98a70,34694,questionGroup,questionGroupText,20325,form,Other than Serious #5
+61caa99e3000007301b98a84,61caa99e3000007301b98a83,34695,questionGroup,questionGroupText,20325,form,Other than Serious #5 Resolved
+61caa9a930000028768f2469,61caa9a930000028768f2468,34696,questionGroup,questionGroupText,20325,form,Other than Serious #5 Not Resolved
+676f09a4010000d500682896,658b5f9d170000664a61bb8d,41023,questionGroup,description,20325,form,"This section is capturing information for the CURRENT year as of January 1. This information has NOT been reported to Avetta yet, and is for Verizon review only. "
+676f09a4010000d500682896,658b5f9d170000664a61bb8d,41023,questionGroup,questionGroupText,20325,form,CURRENT YEAR Occupational Fatalities
+676f09a4010000d500682895,658b60351800002a3efec1e6,41024,questionGroup,questionGroupText,20325,form,Employee Occupational Fatality #1
+658b6044170000674a61bb9d,658b6044170000674a61bb9c,41025,questionGroup,questionGroupText,20325,form,Employee Occupational Fatality #2
+658b6051170000654a61bba2,658b6051170000654a61bba1,41026,questionGroup,questionGroupText,20325,form,Employee Occupational Fatality #3
+658b6059180000233efec1f0,658b6059180000233efec1ef,41027,questionGroup,questionGroupText,20325,form,Employee Occupational Fatality #4
+658b6061170000684a61bba5,658b6061170000684a61bba4,41028,questionGroup,questionGroupText,20325,form,Employee Occupational Fatality #5
+5858ba16504943f0a4c5ebd9,,43535,question,questionText,20325,form,"Did your company have any incidents requiring in-patient hospitalization of one or more employees, amputation or loss of any eye within the past *three* (3) years?"
+5858ba16504943f0a4c5ebd9,,43535,question,responseOptionNo,20325,form,No
+5858ba16504943f0a4c5ebd9,,43535,question,responseOptionYes,20325,form,Yes
+5858bb0f504943cfa1428fa7,,43539,question,description,20325,form,NOTE: The information provided in this section should align with information reported to Avetta in the United State Annual Update tasks regarding OSHA citations. \n\nThis includes OSHA citations being contested with OSHA. Please provide any public documentation as appropriate if it is resolved or still open with OSHA.
+5858bb0f504943cfa1428fa7,,43539,question,questionText,20325,form,Did your company have any De Minimis or Other Than Serious OSHA citations within the past three (3) calendar years?\n
+5858bb0f504943cfa1428fa7,,43539,question,responseOptionNo,20325,form,No
+5858bb0f504943cfa1428fa7,,43539,question,responseOptionYes,20325,form,Yes
+5df124a7380000c04168b9bf,,89298,question,description,20325,form,NOTE: The information provided in this section should align with information reported to Avetta in the United State Annual Update tasks regarding OSHA recordable incidents. \n\n
+5df124a7380000c04168b9bf,,89298,question,questionText,20325,form,Total number of in-patient hospitalizations for the past three (3) calendar years?
+5df127c1380000c04168f250,,89306,question,questionText,20325,form,Please select all applicable citations received:
+5df127c1380000c04168f250,,89306,question,responseOption1,20325,form,De Minimis
+5df127c1380000c04168f250,,89306,question,responseOption2,20325,form,Other than Serious
+5df127c1380000c04168f250,,89306,question,responseOption3,20325,form,Serious
+5df127c1380000c04168f250,,89306,question,responseOption4,20325,form,Willful
+5df127c1380000c04168f250,,89306,question,responseOption5,20325,form,Repeat
+5df127c1380000c04168f250,,89306,question,responseOption6,20325,form,Failure to Abate
+5df1494d370000c041c21c80,,89348,question,questionText,20325,form,"### For each *De Minimis* citation, please provide the following information: \n"
+5df14cac380000c0416c88f6,,89355,question,questionText,20325,form,"### For each *Other than Serious* citation, please provide the following information: \n"
+5df1679a360000fe2d52e3fb,,89397,question,questionText,20325,form,Please attach additional information as necessary.
+5df16874370000c041c4cfaf,,89398,question,questionText,20325,form,### Describe in detail what occurred. \nDate:
+5df1687f3700009d4b33829f,,89399,question,questionText,20325,form,Location:
+5df1688a3700009d4b338e15,,89400,question,questionText,20325,form,Description of the incident:
+5df1689e380000c0416e0b02,,89401,question,questionText,20325,form,Was any Equipment involved?
+5df1689e380000c0416e0b02,,89401,question,responseOption1,20325,form,Yes
+5df1689e380000c0416e0b02,,89401,question,responseOption2,20325,form,No
+5df168ae370000c041c4cfb3,,89402,question,questionText,20325,form,Provide description:
+5df168c0370000c041c4cfb4,,89403,question,questionText,20325,form,Was the incident witnessed?
+5df168c0370000c041c4cfb4,,89403,question,responseOption1,20325,form,Yes
+5df168c0370000c041c4cfb4,,89403,question,responseOption2,20325,form,No
+5df168ce370000c041c4cfb5,,89404,question,questionText,20325,form,Provide description:
+5df168d93700009d4b33a1ca,,89405,question,questionText,20325,form,Was a root cause analysis conducted?
+5df168d93700009d4b33a1ca,,89405,question,responseOption1,20325,form,Yes
+5df168d93700009d4b33a1ca,,89405,question,responseOption2,20325,form,No
+5df168ed360000fe2d5323d9,,89406,question,questionText,20325,form,Provide details on the analysis and the findings:
+5df16903360000fe2d5323da,,89407,question,questionText,20325,form,Was a corrective action plan prepared?
+5df16903360000fe2d5323da,,89407,question,responseOption1,20325,form,Yes
+5df16903360000fe2d5323da,,89407,question,responseOption2,20325,form,No
+5df169183700009d4b33a1f2,,89408,question,questionText,20325,form,Provide details on the corrective actions and the completion status:
+5df1692a380000c0416e2629,,89409,question,questionText,20325,form,Was new or additional training required?
+5df1692a380000c0416e2629,,89409,question,responseOption1,20325,form,Yes
+5df1692a380000c0416e2629,,89409,question,responseOption2,20325,form,No
+5df16942380000c0416e272d,,89410,question,questionText,20325,form,"Has training been completed, including any designated employee training?"
+5df16942380000c0416e272d,,89410,question,responseOption1,20325,form,Yes
+5df16942380000c0416e272d,,89410,question,responseOption2,20325,form,No
+5df169593700009d4b33bf65,,89411,question,questionText,20325,form,"If not, provide scheduled training completion date(s):"
+5df16968360000fe2d533acb,,89412,question,questionText,20325,form,Did an OSHA inspection take place as a result of the hospitalization?
+5df16968360000fe2d533acb,,89412,question,responseOption1,20325,form,Yes
+5df16968360000fe2d533acb,,89412,question,responseOption2,20325,form,No
+5df16980360000fe2d535085,,89413,question,questionText,20325,form,Provide description:
+5df1698c3700009d4b33c0c3,,89414,question,questionText,20325,form,Were there any citations associated with the hospitalization?
+5df1698c3700009d4b33c0c3,,89414,question,responseOption1,20325,form,Yes
+5df1698c3700009d4b33c0c3,,89414,question,responseOption2,20325,form,No
+5df169a2380000c0416e3228,,89415,question,description,20325,form,"(date, location, reason, fine/penalty, open/closed, contesting etc.):"
+5df169a2380000c0416e3228,,89415,question,questionText,20325,form,Provide description of all citations 
+5df169b5380000c0416e3229,,89416,question,questionText,20325,form,Please attach additional information as necessary.
+5df169c9380000c0416e322a,,89417,question,questionText,20325,form,Do you have another in-patient hospitalization to report?
+5df169c9380000c0416e322a,,89417,question,responseOption1,20325,form,Yes
+5df169c9380000c0416e322a,,89417,question,responseOption2,20325,form,No
+5df7f1bd360000fe2db35453,,89828,question,questionText,20325,form,### Describe in detail what occurred. \nDate:
+5df7f1ce34000063ca489c4e,,89829,question,questionText,20325,form,Location:
+5df7f1d6370000fecbafa0a7,,89830,question,questionText,20325,form,Description of the incident:
+5df7f1e1370000fecbafa2ad,,89831,question,questionText,20325,form,Was any Equipment involved?
+5df7f1e1370000fecbafa2ad,,89831,question,responseOption1,20325,form,Yes
+5df7f1e1370000fecbafa2ad,,89831,question,responseOption2,20325,form,No
+5df7f1f3360000fe2db35bfc,,89832,question,questionText,20325,form,Provide description:
+5df7f201330000c041b07b63,,89833,question,questionText,20325,form,Was the incident witnessed?
+5df7f201330000c041b07b63,,89833,question,responseOption1,20325,form,Yes
+5df7f201330000c041b07b63,,89833,question,responseOption2,20325,form,No
+5df7f212370000fecbafab9b,,89834,question,questionText,20325,form,Provide description:
+5df7f21d370000fecbafad37,,89835,question,questionText,20325,form,Was a root cause analysis conducted?
+5df7f21d370000fecbafad37,,89835,question,responseOption1,20325,form,Yes
+5df7f21d370000fecbafad37,,89835,question,responseOption2,20325,form,No
+5df7f229370000fecbafafe8,,89836,question,questionText,20325,form,Provide details on the analysis and the findings:
+5df7f23f370000fecbafb2fe,,89837,question,questionText,20325,form,Was a corrective action plan prepared?
+5df7f23f370000fecbafb2fe,,89837,question,responseOption1,20325,form,Yes
+5df7f23f370000fecbafb2fe,,89837,question,responseOption2,20325,form,No
+5df7f250330000c041b08998,,89838,question,questionText,20325,form,Provide details on the corrective actions and the completion status:
+5df7f25d34000063ca48afb6,,89839,question,questionText,20325,form,Was new or additional training required?
+5df7f25d34000063ca48afb6,,89839,question,responseOption1,20325,form,Yes
+5df7f25d34000063ca48afb6,,89839,question,responseOption2,20325,form,No
+5df7f26c370000fecbafb9bd,,89840,question,questionText,20325,form,"Has training been completed, including any designated employee training?"
+5df7f26c370000fecbafb9bd,,89840,question,responseOption1,20325,form,Yes
+5df7f26c370000fecbafb9bd,,89840,question,responseOption2,20325,form,No
+5df7f2d3330000c041b0a062,,89841,question,questionText,20325,form,"If not, provide scheduled training completion date(s):"
+5df7f2e234000063ca48bdd0,,89842,question,questionText,20325,form,Did an OSHA inspection take place as a result of the hospitalization?
+5df7f2e234000063ca48bdd0,,89842,question,responseOption1,20325,form,Yes
+5df7f2e234000063ca48bdd0,,89842,question,responseOption2,20325,form,No
+5df7f2ef34000063ca48be43,,89843,question,questionText,20325,form,Provide description:
+5df7f2fb330000c041b0a63f,,89844,question,questionText,20325,form,Were there any citations associated with the hospitalization?
+5df7f2fb330000c041b0a63f,,89844,question,responseOption1,20325,form,Yes
+5df7f2fb330000c041b0a63f,,89844,question,responseOption2,20325,form,No
+5df7f30e34000063ca48c2c1,,89845,question,description,20325,form,"(Date, location, reason, fine/penalty, open/closed, contesting etc.)"
+5df7f30e34000063ca48c2c1,,89845,question,questionText,20325,form,Provide description of all citations:
+5df7f32434000063ca48c401,,89846,question,questionText,20325,form,Please attach additional information as necessary.
+5df7f32f370000fecbafd133,,89847,question,questionText,20325,form,Do you have another in-patient hospitalization to report?
+5df7f32f370000fecbafd133,,89847,question,responseOption1,20325,form,Yes
+5df7f32f370000fecbafd133,,89847,question,responseOption2,20325,form,No
+5df7f3d0370000fecbafe5a4,,89848,question,questionText,20325,form,### Describe in detail what occurred. \nDate:
+5df7f3fe370000fecbafef9a,,89850,question,questionText,20325,form,Location:
+5df7f409370000fecbaff26e,,89851,question,questionText,20325,form,Description of the incident:
+5df7f413360000fe2db39d8e,,89852,question,questionText,20325,form,Was any Equipment involved?
+5df7f413360000fe2db39d8e,,89852,question,responseOption1,20325,form,Yes
+5df7f413360000fe2db39d8e,,89852,question,responseOption2,20325,form,No
+5df7f422370000fecbaff76f,,89853,question,questionText,20325,form,Provide description:
+5df7f42b330000c041b0cafa,,89854,question,questionText,20325,form,Was the incident witnessed?
+5df7f42b330000c041b0cafa,,89854,question,responseOption1,20325,form,Yes
+5df7f42b330000c041b0cafa,,89854,question,responseOption2,20325,form,No
+5df7f43d370000fecbaffc91,,89855,question,questionText,20325,form,Provide description:
+5df7f444370000fecbaffdf9,,89856,question,questionText,20325,form,Was a root cause analysis conducted?
+5df7f444370000fecbaffdf9,,89856,question,responseOption1,20325,form,Yes
+5df7f444370000fecbaffdf9,,89856,question,responseOption2,20325,form,No
+5df7f450360000fe2db3a3c0,,89857,question,questionText,20325,form,Provide details on the analysis and the findings:
+5df7f46b330000c041b0d820,,89858,question,questionText,20325,form,Was a corrective action plan prepared?
+5df7f46b330000c041b0d820,,89858,question,responseOption1,20325,form,Yes
+5df7f46b330000c041b0d820,,89858,question,responseOption2,20325,form,No
+5df7f47d330000c041b0dc34,,89859,question,questionText,20325,form,Provide details on the corrective actions and the completion status:
+5df7f48c330000c041b0de91,,89860,question,questionText,20325,form,Was new or additional training required?
+5df7f48c330000c041b0de91,,89860,question,responseOption1,20325,form,Yes
+5df7f48c330000c041b0de91,,89860,question,responseOption2,20325,form,No
+5df7f49b330000c041b0e1b8,,89861,question,questionText,20325,form,"Has training been completed, including any designated employee training?"
+5df7f49b330000c041b0e1b8,,89861,question,responseOption1,20325,form,Yes
+5df7f49b330000c041b0e1b8,,89861,question,responseOption2,20325,form,No
+5df7f4a8330000c041b0e488,,89862,question,questionText,20325,form,"If not, provide scheduled training completion date(s):"
+5df7f4b9330000c041b0e779,,89863,question,questionText,20325,form,Did an OSHA inspection take place as a result of the hospitalization?
+5df7f4b9330000c041b0e779,,89863,question,responseOption1,20325,form,Yes
+5df7f4b9330000c041b0e779,,89863,question,responseOption2,20325,form,No
+5df7f4c8330000c041b0ea9a,,89864,question,questionText,20325,form,Provide description:
+5df7f4d0360000fe2db3b9ef,,89866,question,questionText,20325,form,Were there any citations associated with the hospitalization?
+5df7f4d0360000fe2db3b9ef,,89866,question,responseOption1,20325,form,Yes
+5df7f4d0360000fe2db3b9ef,,89866,question,responseOption2,20325,form,No
+5df7f4dd34000063ca48f03a,,89868,question,description,20325,form,"(Date, location, reason, fine/penalty, open/closed, contesting etc.)   "
+5df7f4dd34000063ca48f03a,,89868,question,questionText,20325,form,Provide description of all citations:
+5df7f4f5360000fe2db3c014,,89870,question,questionText,20325,form,Please attach additional information as necessary.
+5df7f50c370000fecbb019e0,,89871,question,questionText,20325,form,Do you have another in-patient hospitalization to report?
+5df7f50c370000fecbb019e0,,89871,question,responseOption1,20325,form,Yes
+5df7f50c370000fecbb019e0,,89871,question,responseOption2,20325,form,No
+5df7f62a34000063ca490f69,,89876,question,questionText,20325,form,### Describe in detail what occurred. \nDate:
+5df7f638370000fecbb04441,,89879,question,questionText,20325,form,Location:
+5df7f642360000fe2db3ec2d,,89881,question,questionText,20325,form,Description of the incident:
+5df7f650330000c041b1219b,,89884,question,questionText,20325,form,Was any Equipment involved?
+5df7f650330000c041b1219b,,89884,question,responseOption1,20325,form,Yes
+5df7f650330000c041b1219b,,89884,question,responseOption2,20325,form,No
+5df7f65d370000fecbb049d1,,89885,question,questionText,20325,form,Provide description:
+5df7f666330000c041b124cd,,89886,question,questionText,20325,form,Was the incident witnessed?
+5df7f666330000c041b124cd,,89886,question,responseOption1,20325,form,Yes
+5df7f666330000c041b124cd,,89886,question,responseOption2,20325,form,No
+5df7f672360000fe2db3f051,,89887,question,questionText,20325,form,Provide description:
+5df7f67d330000c041b127ea,,89888,question,questionText,20325,form,Was a root cause analysis conducted?
+5df7f67d330000c041b127ea,,89888,question,responseOption1,20325,form,Yes
+5df7f67d330000c041b127ea,,89888,question,responseOption2,20325,form,No
+5df7f68a370000fecbb0516a,,89890,question,questionText,20325,form,Provide details on the analysis and the findings:
+5df7f697370000fecbb051d5,,89892,question,questionText,20325,form,Was a corrective action plan prepared?
+5df7f697370000fecbb051d5,,89892,question,responseOption1,20325,form,Yes
+5df7f697370000fecbb051d5,,89892,question,responseOption2,20325,form,No
+5df7f6a3360000fe2db3f552,,89893,question,questionText,20325,form,Provide details on the corrective actions and the completion status:
+5df7f6b2370000fecbb05616,,89895,question,questionText,20325,form,Was new or additional training required?
+5df7f6b2370000fecbb05616,,89895,question,responseOption1,20325,form,Yes
+5df7f6b2370000fecbb05616,,89895,question,responseOption2,20325,form,No
+5df7f6bc34000063ca491c04,,89896,question,questionText,20325,form,"Has training been completed, including any designated employee training?"
+5df7f6bc34000063ca491c04,,89896,question,responseOption1,20325,form,Yes
+5df7f6bc34000063ca491c04,,89896,question,responseOption2,20325,form,No
+5df7f6c834000063ca491c10,,89897,question,questionText,20325,form,"If not, provide scheduled training completion date(s):"
+5df7f6d4330000c041b1333a,,89898,question,questionText,20325,form,Did an OSHA inspection take place as a result of the hospitalization?
+5df7f6d4330000c041b1333a,,89898,question,responseOption1,20325,form,Yes
+5df7f6d4330000c041b1333a,,89898,question,responseOption2,20325,form,No
+5df7f6e2330000c041b13554,,89899,question,questionText,20325,form,Provide description:
+5df7f6f2330000c041b1369e,,89900,question,questionText,20325,form,Were there any citations associated with the hospitalization?
+5df7f6f2330000c041b1369e,,89900,question,responseOption1,20325,form,Yes
+5df7f6f2330000c041b1369e,,89900,question,responseOption2,20325,form,No
+5df7f704360000fe2db3fdf3,,89901,question,description,20325,form,"(Date, location, reason, fine/penalty, open/closed, contesting etc.)        "
+5df7f704360000fe2db3fdf3,,89901,question,questionText,20325,form,Provide description of all citations:
+5df7f716370000fecbb062c5,,89902,question,questionText,20325,form,Please attach additional information as necessary.
+5df7f71e360000fe2db40149,,89903,question,questionText,20325,form,Do you have another in-patient hospitalization to report?
+5df7f71e360000fe2db40149,,89903,question,responseOption1,20325,form,Yes
+5df7f71e360000fe2db40149,,89903,question,responseOption2,20325,form,No
+5df7f72b330000c041b13f0f,,89905,question,questionText,20325,form,Please attach any additional information that corresponds with the additional hospitalizations.
+61ca92e930000028768f234c,,118678,question,questionText,20325,form,"Please upload a copy of your OSHA citation(s) and other applicable documents. <br>\n This includes if any citations were contested or closed by OSHA, please provide a copy of the OSHA settlement document. "
+61ca96de3000007301b9896e,,118679,question,questionText,20325,form,Did an OSHA inspection take place?
+61ca96de3000007301b9896e,,118679,question,responseOption1,20325,form,Yes
+61ca96de3000007301b9896e,,118679,question,responseOption2,20325,form,No
+61ca96f030000028768f235d,,118680,question,description,20325,form,(Select all that apply)
+61ca96f030000028768f235d,,118680,question,questionText,20325,form,The inspection resulted from: 
+61ca96f030000028768f235d,,118680,question,responseOption1,20325,form,Response to a fatality or serious injury
+61ca96f030000028768f235d,,118680,question,responseOption2,20325,form,Employee complaint
+61ca96f030000028768f235d,,118680,question,responseOption3,20325,form,Targeted industry inspection
+61ca96f030000028768f235d,,118680,question,responseOption4,20325,form,Routine inspection
+61ca96f030000028768f235d,,118680,question,responseOption5,20325,form,Other:
+61ca97353000007301b98971,,118681,question,questionText,20325,form,Response to a fatality or serious injury. \nPlease provide details:\n
+61ca975130000028768f2360,,118682,question,questionText,20325,form,Employee complaint. \nPlease provide details: \n
+61ca975d3000007301b98975,,118683,question,questionText,20325,form,Targeted industry inspection. \nPlease provide details:\n
+61ca976a3000007301b98976,,118684,question,questionText,20325,form,Routine inspection. \nPlease provide details:\n
+61ca977430000028768f2365,,118685,question,questionText,20325,form,Other:\nPlease provide details:\n
+61ca978830000028768f2367,,118686,question,questionText,20325,form,"Has the issue been resolved, abated and/or closed by OSHA? "
+61ca978830000028768f2367,,118686,question,responseOption1,20325,form,Yes
+61ca978830000028768f2367,,118686,question,responseOption2,20325,form,No
+61ca98733000007301b98980,,118687,question,questionText,20325,form,"Provide date issue was resolved, abated and/or closed by OSHA:"
+61ca988530000028768f2372,,118688,question,questionText,20325,form,"Provide description of the resolution, abatement, and/or closure of the issue"
+61ca991030000028768f2379,,118690,question,questionText,20325,form,Provide an explanation.
+61ca991e3000007301b9898b,,118691,question,questionText,20325,form,Do you have another De Minimis citation to explain? 
+61ca991e3000007301b9898b,,118691,question,responseOption1,20325,form,Yes
+61ca991e3000007301b9898b,,118691,question,responseOption2,20325,form,No
+61ca9ae130000028768f2382,,118693,question,questionText,20325,form,Did an OSHA inspection take place? 
+61ca9ae130000028768f2382,,118693,question,responseOption1,20325,form,Yes
+61ca9ae130000028768f2382,,118693,question,responseOption2,20325,form,No
+61ca9af330000028768f2383,,118694,question,description,20325,form,Select all that apply
+61ca9af330000028768f2383,,118694,question,questionText,20325,form,The inspection resulted from: 
+61ca9af330000028768f2383,,118694,question,responseOption1,20325,form,Response to a fatality or serious injury
+61ca9af330000028768f2383,,118694,question,responseOption2,20325,form,Employee complaint
+61ca9af330000028768f2383,,118694,question,responseOption3,20325,form,Targeted industry inspection
+61ca9af330000028768f2383,,118694,question,responseOption4,20325,form,Routine inspection
+61ca9af330000028768f2383,,118694,question,responseOption5,20325,form,Other
+61ca9b1c3000007301b98996,,118695,question,questionText,20325,form,Response to a fatality or serious injury. \nPlease provide details:\n
+61ca9b243000007301b98999,,118696,question,questionText,20325,form,Employee complaint. \nPlease provide details: \n
+61ca9b2e3000007301b9899b,,118697,question,questionText,20325,form,Targeted industry inspection. \nPlease provide details:\n
+61ca9b3630000028768f2387,,118698,question,questionText,20325,form,Routine inspection. \nPlease provide details:\n
+61ca9b4430000028768f2388,,118699,question,questionText,20325,form,Other:\nPlease provide details:\n
+61ca9b5130000028768f238b,,118700,question,questionText,20325,form,"Has the issue been resolved, abated and/or closed by OSHA? "
+61ca9b5130000028768f238b,,118700,question,responseOption1,20325,form,Yes
+61ca9b5130000028768f238b,,118700,question,responseOption2,20325,form,No
+61ca9b8430000028768f2395,,118701,question,questionText,20325,form,Do you have another De Minimis citation to explain? 
+61ca9b8430000028768f2395,,118701,question,responseOption1,20325,form,Yes
+61ca9b8430000028768f2395,,118701,question,responseOption2,20325,form,No
+61ca9bab3000007301b989a9,,118702,question,questionText,20325,form,"Provide date issue was resolved, abated and/or closed by OSHA:"
+61ca9bbc3000007301b989ab,,118703,question,questionText,20325,form,"Provide description of the resolution, abatement, and/or closure of the issue "
+61ca9bce30000028768f239a,,118704,question,questionText,20325,form,Provide an explanation. 
+61ca9c483000007301b989af,,118705,question,questionText,20325,form,Did an OSHA inspection take place? 
+61ca9c483000007301b989af,,118705,question,responseOption1,20325,form,Yes
+61ca9c483000007301b989af,,118705,question,responseOption2,20325,form,No
+61ca9c583000007301b989b1,,118706,question,description,20325,form,Select all that apply
+61ca9c583000007301b989b1,,118706,question,questionText,20325,form,The inspection resulted from: 
+61ca9c583000007301b989b1,,118706,question,responseOption1,20325,form,Response to a fatality or serious injury
+61ca9c583000007301b989b1,,118706,question,responseOption2,20325,form,Employee complaint
+61ca9c583000007301b989b1,,118706,question,responseOption3,20325,form,Targeted industry inspection
+61ca9c583000007301b989b1,,118706,question,responseOption4,20325,form,Routine inspection
+61ca9c583000007301b989b1,,118706,question,responseOption5,20325,form,Other:
+61ca9c853000007301b989b3,,118707,question,questionText,20325,form,Response to a fatality or serious injury. \nPlease provide details:\n
+61ca9c8f3000007301b989b6,,118708,question,questionText,20325,form,Employee complaint. \nPlease provide details: \n
+61ca9c993000007301b989b7,,118709,question,questionText,20325,form,Targeted industry inspection. \nPlease provide details:\n
+61ca9cae30000028768f23a5,,118710,question,questionText,20325,form,Routine inspection. \nPlease provide details:\n
+61ca9cb630000028768f23a7,,118711,question,questionText,20325,form,Other:\nPlease provide details:\n
+61ca9cc23000007301b989ba,,118712,question,questionText,20325,form,"Has the issue been resolved, abated and/or closed by OSHA? "
+61ca9cc23000007301b989ba,,118712,question,responseOption1,20325,form,Yes
+61ca9cc23000007301b989ba,,118712,question,responseOption2,20325,form,No
+61ca9cee30000028768f23b0,,118713,question,questionText,20325,form,Do you have another De Minimis citation to explain?
+61ca9cee30000028768f23b0,,118713,question,responseOption1,20325,form,Yes
+61ca9cee30000028768f23b0,,118713,question,responseOption2,20325,form,No
+61ca9d2430000028768f23b3,,118714,question,questionText,20325,form,"Provide date issue was resolved, abated and/or closed by OSHA "
+61ca9d303000007301b989c4,,118715,question,questionText,20325,form,"Provide description of the resolution, abatement, and/or closure of the issue "
+61ca9d393000007301b989c5,,118716,question,questionText,20325,form,Provide an explanation. 
+61ca9d703000007301b989cb,,118717,question,questionText,20325,form,Did an OSHA inspection take place? 
+61ca9d703000007301b989cb,,118717,question,responseOption1,20325,form,Yes
+61ca9d703000007301b989cb,,118717,question,responseOption2,20325,form,No
+61ca9d8f30000028768f23bb,,118718,question,description,20325,form,Select all that apply
+61ca9d8f30000028768f23bb,,118718,question,questionText,20325,form,The inspection resulted from:
+61ca9d8f30000028768f23bb,,118718,question,responseOption1,20325,form,Response to a fatality or serious injury
+61ca9d8f30000028768f23bb,,118718,question,responseOption2,20325,form,Employee complaint
+61ca9d8f30000028768f23bb,,118718,question,responseOption3,20325,form,Targeted industry inspection
+61ca9d8f30000028768f23bb,,118718,question,responseOption4,20325,form,Routine inspection
+61ca9d8f30000028768f23bb,,118718,question,responseOption5,20325,form,Other:
+61ca9db53000007301b989ce,,118719,question,questionText,20325,form,Response to a fatality or serious injury. \nPlease provide details:\n
+61ca9dc63000007301b989d1,,118720,question,questionText,20325,form,Employee complaint. \nPlease provide details: \n
+61ca9dcf30000028768f23be,,118721,question,questionText,20325,form,Targeted industry inspection. \nPlease provide details:\n
+61ca9dd73000007301b989d4,,118722,question,questionText,20325,form,Routine inspection. \nPlease provide details:\n
+61ca9de230000028768f23c1,,118723,question,questionText,20325,form,Other:\nPlease provide details:\n
+61ca9df030000028768f23c3,,118724,question,questionText,20325,form,"Has the issue been resolved, abated and/or closed by OSHA? "
+61ca9df030000028768f23c3,,118724,question,responseOption1,20325,form,Yes
+61ca9df030000028768f23c3,,118724,question,responseOption2,20325,form,No
+61ca9e2430000028768f23ce,,118725,question,questionText,20325,form,Do you have another De Minimis citation to explain? 
+61ca9e2430000028768f23ce,,118725,question,responseOption1,20325,form,Yes
+61ca9e2430000028768f23ce,,118725,question,responseOption2,20325,form,No
+61ca9e4030000028768f23d0,,118726,question,questionText,20325,form,"Provide date issue was resolved, abated and/or closed by OSHA "
+61ca9e5130000028768f23d1,,118727,question,questionText,20325,form,"Provide description of the resolution, abatement, and/or closure of the issue "
+61ca9e5d30000028768f23d3,,118728,question,questionText,20325,form,Provide an explanation.
+61ca9e7a3000007301b989e7,,118729,question,questionText,20325,form,Did an OSHA inspection take place?
+61ca9e7a3000007301b989e7,,118729,question,responseOption1,20325,form,Yes
+61ca9e7a3000007301b989e7,,118729,question,responseOption2,20325,form,No
+61ca9f133000007301b989e9,,118730,question,description,20325,form,Select all that apply
+61ca9f133000007301b989e9,,118730,question,questionText,20325,form,The inspection resulted from: 
+61ca9f133000007301b989e9,,118730,question,responseOption1,20325,form,Response to a fatality or serious injury
+61ca9f133000007301b989e9,,118730,question,responseOption2,20325,form,Employee complaint
+61ca9f133000007301b989e9,,118730,question,responseOption3,20325,form,Targeted industry inspection
+61ca9f133000007301b989e9,,118730,question,responseOption4,20325,form,Routine inspection
+61ca9f133000007301b989e9,,118730,question,responseOption5,20325,form,Other:
+61ca9f393000007301b989ec,,118731,question,questionText,20325,form,Response to a fatality or serious injury. \nPlease provide details:\n
+61ca9f443000007301b989ee,,118732,question,questionText,20325,form,Employee complaint. \nPlease provide details: \n
+61ca9f4c3000007301b989f1,,118733,question,questionText,20325,form,Targeted industry inspection. \nPlease provide details:\n
+61ca9f5530000028768f23da,,118734,question,questionText,20325,form,Routine inspection. \nPlease provide details:\n
+61ca9f5e3000007301b989f3,,118735,question,questionText,20325,form,Other:\nPlease provide details:\n
+61ca9f6c30000028768f23df,,118736,question,questionText,20325,form,"Has the issue been resolved, abated and/or closed by OSHA? "
+61ca9f6c30000028768f23df,,118736,question,responseOption1,20325,form,Yes
+61ca9f6c30000028768f23df,,118736,question,responseOption2,20325,form,No
+61ca9f9730000028768f23e4,,118737,question,questionText,20325,form,"Provide date issue was resolved, abated and/or closed by OSHA:"
+61ca9fb430000028768f23e7,,118738,question,questionText,20325,form,"Provide description of the resolution, abatement, and/or closure of the issue "
+61ca9fc13000007301b98a00,,118739,question,questionText,20325,form,Provide an explanation. 
+61caa47f30000028768f23f0,,118740,question,questionText,20325,form,Did an OSHA inspection take place? 
+61caa47f30000028768f23f0,,118740,question,responseOption1,20325,form,Yes
+61caa47f30000028768f23f0,,118740,question,responseOption2,20325,form,No
+61caa4a030000028768f23f3,,118741,question,description,20325,form,Select all that apply
+61caa4a030000028768f23f3,,118741,question,questionText,20325,form,The inspection resulted from: 
+61caa4a030000028768f23f3,,118741,question,responseOption1,20325,form,Response to a fatality or serious injury
+61caa4a030000028768f23f3,,118741,question,responseOption2,20325,form,Employee complaint
+61caa4a030000028768f23f3,,118741,question,responseOption3,20325,form,Targeted industry inspection
+61caa4a030000028768f23f3,,118741,question,responseOption4,20325,form,Routine inspection
+61caa4a030000028768f23f3,,118741,question,responseOption5,20325,form,Other:
+61caa4f330000028768f23f5,,118742,question,questionText,20325,form,Response to a fatality or serious injury. \nPlease provide details:\n
+61caa4fb30000028768f23f7,,118743,question,questionText,20325,form,Employee complaint. \nPlease provide details: \n
+61caa50b3000007301b98a08,,118744,question,questionText,20325,form,Targeted industry inspection. \nPlease provide details:\n
+61caa5143000007301b98a0b,,118745,question,questionText,20325,form,Routine inspection. \nPlease provide details:\n
+61caa51d3000007301b98a0d,,118746,question,questionText,20325,form,Other:\nPlease provide details:\n
+61caa5293000007301b98a0f,,118747,question,questionText,20325,form,"Has the issue been resolved, abated and/or closed by OSHA? "
+61caa5293000007301b98a0f,,118747,question,responseOption1,20325,form,Yes
+61caa5293000007301b98a0f,,118747,question,responseOption2,20325,form,No
+61caa55f3000007301b98a19,,118748,question,questionText,20325,form,Do you have another Other than Serious citation to explain? 
+61caa55f3000007301b98a19,,118748,question,responseOption1,20325,form,Yes
+61caa55f3000007301b98a19,,118748,question,responseOption2,20325,form,No
+61caa5773000007301b98a1c,,118749,question,questionText,20325,form,"Provide date issue was resolved, abated and/or closed by OSHA "
+61caa5813000007301b98a1f,,118750,question,questionText,20325,form,"Provide description of the resolution, abatement, and/or closure of the issue "
+61caa58b30000028768f2403,,118751,question,questionText,20325,form,Provide an explanation. 
+61caa6663000007301b98a25,,118752,question,questionText,20325,form,Did an OSHA inspection take place? 
+61caa6663000007301b98a25,,118752,question,responseOption1,20325,form,Yes
+61caa6663000007301b98a25,,118752,question,responseOption2,20325,form,No
+61caa67430000028768f2409,,118753,question,description,20325,form,Select all that apply
+61caa67430000028768f2409,,118753,question,questionText,20325,form,The inspection resulted from: 
+61caa67430000028768f2409,,118753,question,responseOption1,20325,form,Response to a fatality or serious injury
+61caa67430000028768f2409,,118753,question,responseOption2,20325,form,Employee complaint
+61caa67430000028768f2409,,118753,question,responseOption3,20325,form,Targeted industry inspection
+61caa67430000028768f2409,,118753,question,responseOption4,20325,form,Routine inspection
+61caa67430000028768f2409,,118753,question,responseOption5,20325,form,Other:
+61caa69a30000028768f240a,,118754,question,questionText,20325,form,Response to a fatality or serious injury. \nPlease provide details:\n
+61caa6a230000028768f240c,,118755,question,questionText,20325,form,Employee complaint. \nPlease provide details: \n
+61caa6aa30000028768f240d,,118756,question,questionText,20325,form,Targeted industry inspection. \nPlease provide details:\n
+61caa6b230000028768f240f,,118757,question,questionText,20325,form,Routine inspection. \nPlease provide details:\n
+61caa6bb3000007301b98a2e,,118758,question,questionText,20325,form,Other:\nPlease provide details:\n
+61caa6c43000007301b98a2f,,118759,question,questionText,20325,form,"Has the issue been resolved, abated and/or closed by OSHA? "
+61caa6c43000007301b98a2f,,118759,question,responseOption1,20325,form,Yes
+61caa6c43000007301b98a2f,,118759,question,responseOption2,20325,form,No
+61caa6eb3000007301b98a35,,118760,question,questionText,20325,form,Do you have another Other than Serious citation to explain? 
+61caa6eb3000007301b98a35,,118760,question,responseOption1,20325,form,Yes
+61caa6eb3000007301b98a35,,118760,question,responseOption2,20325,form,No
+61caa70130000028768f241d,,118761,question,questionText,20325,form,"Provide date issue was resolved, abated and/or closed by OSHA "
+61caa70e3000007301b98a38,,118762,question,questionText,20325,form,"Provide description of the resolution, abatement, and/or closure of the issue "
+61caa71a30000028768f2420,,118763,question,questionText,20325,form,Provide an explanation. 
+61caa73a30000028768f2423,,118764,question,questionText,20325,form,Did an OSHA inspection take place? 
+61caa73a30000028768f2423,,118764,question,responseOption1,20325,form,Yes
+61caa73a30000028768f2423,,118764,question,responseOption2,20325,form,No
+61caa74830000028768f2425,,118765,question,description,20325,form,Select all that apply
+61caa74830000028768f2425,,118765,question,questionText,20325,form,The inspection resulted from: 
+61caa74830000028768f2425,,118765,question,responseOption1,20325,form,Response to a fatality or serious injury
+61caa74830000028768f2425,,118765,question,responseOption2,20325,form,Employee complaint
+61caa74830000028768f2425,,118765,question,responseOption3,20325,form,Targeted industry inspection
+61caa74830000028768f2425,,118765,question,responseOption4,20325,form,Routine inspection
+61caa74830000028768f2425,,118765,question,responseOption5,20325,form,Other:
+61caa76b3000007301b98a41,,118766,question,questionText,20325,form,Response to a fatality or serious injury. \nPlease provide details:\n
+61caa77630000028768f2429,,118767,question,questionText,20325,form,Employee complaint. \nPlease provide details: \n
+61caa77d30000028768f242b,,118768,question,questionText,20325,form,Targeted industry inspection. \nPlease provide details:\n
+61caa78530000028768f242d,,118769,question,questionText,20325,form,Routine inspection. \nPlease provide details:\n
+61caa78e30000028768f242e,,118770,question,questionText,20325,form,Other:\nPlease provide details:\n
+61caa79830000028768f242f,,118771,question,questionText,20325,form,"Has the issue been resolved, abated and/or closed by OSHA? "
+61caa79830000028768f242f,,118771,question,responseOption1,20325,form,Yes
+61caa79830000028768f242f,,118771,question,responseOption2,20325,form,No
+61caa7d13000007301b98a4f,,118772,question,questionText,20325,form,Do you have another Other than Serious citation to explain? 
+61caa7d13000007301b98a4f,,118772,question,responseOption1,20325,form,Yes
+61caa7d13000007301b98a4f,,118772,question,responseOption2,20325,form,No
+61caa7f430000028768f243a,,118773,question,questionText,20325,form,"Provide date issue was resolved, abated and/or closed by OSHA "
+61caa7fd30000028768f243b,,118774,question,questionText,20325,form,"Provide description of the resolution, abatement, and/or closure of the issue "
+61caa8113000007301b98a56,,118775,question,questionText,20325,form,Provide an explanation.
+61caa8303000007301b98a5b,,118776,question,questionText,20325,form,Did an OSHA inspection take place? 
+61caa8303000007301b98a5b,,118776,question,responseOption1,20325,form,Yes
+61caa8303000007301b98a5b,,118776,question,responseOption2,20325,form,No
+61caa84b3000007301b98a5c,,118777,question,description,20325,form,Select all that apply
+61caa84b3000007301b98a5c,,118777,question,questionText,20325,form,The inspection resulted from:
+61caa84b3000007301b98a5c,,118777,question,responseOption1,20325,form,Response to a fatality or serious injury
+61caa84b3000007301b98a5c,,118777,question,responseOption2,20325,form,Employee complaint
+61caa84b3000007301b98a5c,,118777,question,responseOption3,20325,form,Targeted industry inspection
+61caa84b3000007301b98a5c,,118777,question,responseOption4,20325,form,Routine inspection
+61caa84b3000007301b98a5c,,118777,question,responseOption5,20325,form,Other:
+61caa86e3000007301b98a5e,,118778,question,questionText,20325,form,Response to a fatality or serious injury. \nPlease provide details:\n
+61caa87630000028768f2443,,118779,question,questionText,20325,form,Employee complaint. \nPlease provide details: \n
+61caa87e30000028768f2446,,118780,question,questionText,20325,form,Targeted industry inspection. \nPlease provide details:\n
+61caa8873000007301b98a61,,118781,question,questionText,20325,form,Routine inspection. \nPlease provide details:\n
+61caa88f3000007301b98a62,,118782,question,questionText,20325,form,Other:\nPlease provide details:\n
+61caa8983000007301b98a63,,118783,question,questionText,20325,form,"Has the issue been resolved, abated and/or closed by OSHA? "
+61caa8983000007301b98a63,,118783,question,responseOption1,20325,form,Yes
+61caa8983000007301b98a63,,118783,question,responseOption2,20325,form,No
+61caa8bf30000028768f2452,,118784,question,questionText,20325,form,Do you have another Other than Serious citation to explain? 
+61caa8bf30000028768f2452,,118784,question,responseOption1,20325,form,Yes
+61caa8bf30000028768f2452,,118784,question,responseOption2,20325,form,No
+61caa8d830000028768f2455,,118785,question,questionText,20325,form,"Provide date issue was resolved, abated and/or closed by OSHA "
+61caa8e23000007301b98a6c,,118786,question,questionText,20325,form,"Provide description of the resolution, abatement, and/or closure of the issue "
+61caa8ee30000028768f2459,,118787,question,questionText,20325,form,Provide an explanation. 
+61caa90f3000007301b98a75,,118788,question,questionText,20325,form,Did an OSHA inspection take place? 
+61caa90f3000007301b98a75,,118788,question,responseOption1,20325,form,Yes
+61caa90f3000007301b98a75,,118788,question,responseOption2,20325,form,No
+61caa9213000007301b98a76,,118789,question,description,20325,form,Select all that apply
+61caa9213000007301b98a76,,118789,question,questionText,20325,form,The inspection resulted from: 
+61caa9213000007301b98a76,,118789,question,responseOption1,20325,form,Response to a fatality or serious injury
+61caa9213000007301b98a76,,118789,question,responseOption2,20325,form,Employee complaint
+61caa9213000007301b98a76,,118789,question,responseOption3,20325,form,Targeted industry inspection
+61caa9213000007301b98a76,,118789,question,responseOption4,20325,form,Routine inspection
+61caa9213000007301b98a76,,118789,question,responseOption5,20325,form,Other:
+61caa95d30000028768f245d,,118790,question,questionText,20325,form,Response to a fatality or serious injury. \nPlease provide details:\n
+61caa9663000007301b98a7a,,118791,question,questionText,20325,form,Employee complaint. \nPlease provide details: \n
+61caa96e3000007301b98a7c,,118792,question,questionText,20325,form,Targeted industry inspection. \nPlease provide details:\n
+61caa9753000007301b98a7e,,118793,question,questionText,20325,form,Routine inspection. \nPlease provide details:\n
+61caa97c30000028768f2462,,118794,question,questionText,20325,form,Other:\nPlease provide details:\n
+61caa9863000007301b98a81,,118795,question,questionText,20325,form,"Has the issue been resolved, abated and/or closed by OSHA? "
+61caa9863000007301b98a81,,118795,question,responseOption1,20325,form,Yes
+61caa9863000007301b98a81,,118795,question,responseOption2,20325,form,No
+61caa9d73000007301b98a8b,,118796,question,questionText,20325,form,"Provide date issue was resolved, abated and/or closed by OSHA "
+61caa9e03000007301b98a8d,,118797,question,questionText,20325,form,"Provide description of the resolution, abatement, and/or closure of the issue "
+61caa9eb3000007301b98a90,,118798,question,questionText,20325,form,Provide an explanation.
+658b5fd4170000684a61bb96,,149195,question,description,20325,form,"Note: Please include ALL fatalities for the CURRENT calendar year\nThis includes any fatalities being contested, please provide any public documentation as appropriate if it is resolved."
+658b5fd4170000684a61bb96,,149195,question,questionText,20325,form,Total number of fatalities <u>CURRENT</u> year 
+658b5fd4170000684a61bb96,,149195,question,responseOption1,20325,form,Yes
+658b5fd4170000684a61bb96,,149195,question,responseOption2,20325,form,No
+658b5ff0170000684a61bb98,,149196,question,questionText,20325,form,Has your company had any employee occupational fatalities <u>THIS YEAR</u>?
+658b5ff0170000684a61bb98,,149196,question,responseOption1,20325,form,Yes
+658b5ff0170000684a61bb98,,149196,question,responseOption2,20325,form,No
+658b60c8180000243efec1f9,,149197,question,questionText,20325,form,Describe in detail what occurred:
+658b60c8180000243efec1f9,,149197,question,responseOption1,20325,form,Yes
+658b60c8180000243efec1f9,,149197,question,responseOption2,20325,form,No
+658b60da1700005e4a61bbad,,149198,question,questionText,20325,form,Location:
+658b60da1700005e4a61bbad,,149198,question,responseOption1,20325,form,Yes
+658b60da1700005e4a61bbad,,149198,question,responseOption2,20325,form,No
+658b60e9180000173efec1fa,,149199,question,questionText,20325,form,Description of the incident:
+658b60e9180000173efec1fa,,149199,question,responseOption1,20325,form,Yes
+658b60e9180000173efec1fa,,149199,question,responseOption2,20325,form,No
+658b6102170000684a61bbb0,,149200,question,questionText,20325,form,Was any Equipment involved?
+658b6102170000684a61bbb0,,149200,question,responseOption1,20325,form,Yes
+658b6102170000684a61bbb0,,149200,question,responseOption2,20325,form,No
+658b610e170000664a61bbb1,,149201,question,questionText,20325,form,Provide description:
+658b610e170000664a61bbb1,,149201,question,responseOption1,20325,form,Yes
+658b610e170000664a61bbb1,,149201,question,responseOption2,20325,form,No
+658b611f1700004c4a61bbb3,,149202,question,questionText,20325,form,Was the incident witnessed? 
+658b611f1700004c4a61bbb3,,149202,question,responseOption1,20325,form,Yes
+658b611f1700004c4a61bbb3,,149202,question,responseOption2,20325,form,No
+658b61291800002a3efec202,,149203,question,questionText,20325,form,Provide description:
+658b61291800002a3efec202,,149203,question,responseOption1,20325,form,Yes
+658b61291800002a3efec202,,149203,question,responseOption2,20325,form,No
+658b6136170000664a61bbb5,,149204,question,questionText,20325,form,Was a root cause analysis conducted?
+658b6136170000664a61bbb5,,149204,question,responseOption1,20325,form,Yes
+658b6136170000664a61bbb5,,149204,question,responseOption2,20325,form,No
+658b613f180000283efec206,,149205,question,questionText,20325,form,Provide details on the analysis and the findings: 
+658b613f180000283efec206,,149205,question,responseOption1,20325,form,Yes
+658b613f180000283efec206,,149205,question,responseOption2,20325,form,No
+658b6150170000524a61bbb7,,149207,question,questionText,20325,form,"If not, provide explanation."
+658b6150170000524a61bbb7,,149207,question,responseOption1,20325,form,Yes
+658b6150170000524a61bbb7,,149207,question,responseOption2,20325,form,No
+658b6165170000654a61bbbc,,149208,question,questionText,20325,form,Was a corrective action plan prepared? 
+658b6165170000654a61bbbc,,149208,question,responseOption1,20325,form,Yes
+658b6165170000654a61bbbc,,149208,question,responseOption2,20325,form,No
+658b616d170000684a61bbbd,,149209,question,questionText,20325,form,Provide details on the corrective actions and the completion status: 
+658b616d170000684a61bbbd,,149209,question,responseOption1,20325,form,Yes
+658b616d170000684a61bbbd,,149209,question,responseOption2,20325,form,No
+658b617a180000283efec235,,149210,question,questionText,20325,form,"If not, provide explanation."
+658b617a180000283efec235,,149210,question,responseOption1,20325,form,Yes
+658b617a180000283efec235,,149210,question,responseOption2,20325,form,No
+658b618d170000654a61bc09,,149211,question,questionText,20325,form,Was new or additional training required?
+658b618d170000654a61bc09,,149211,question,responseOption1,20325,form,Yes
+658b618d170000654a61bc09,,149211,question,responseOption2,20325,form,No
+658b619b180000243efec238,,149212,question,questionText,20325,form,"Has training been completed, including any designated employee training?"
+658b619b180000243efec238,,149212,question,responseOption1,20325,form,Yes
+658b619b180000243efec238,,149212,question,responseOption2,20325,form,No
+658b61a61700004c4a61bc0d,,149214,question,questionText,20325,form,"If not, provide scheduled training completion date(s): "
+658b61a61700004c4a61bc0d,,149214,question,responseOption1,20325,form,Yes
+658b61a61700004c4a61bc0d,,149214,question,responseOption2,20325,form,No
+658b61b6170000674a61bc0f,,149215,question,questionText,20325,form,Did an OSHA inspection take place as a result of the fatality? 
+658b61b6170000674a61bc0f,,149215,question,responseOption1,20325,form,Yes
+658b61b6170000674a61bc0f,,149215,question,responseOption2,20325,form,No
+658b61c0170000524a61bc12,,149216,question,questionText,20325,form,Provide description:
+658b61c0170000524a61bc12,,149216,question,responseOption1,20325,form,Yes
+658b61c0170000524a61bc12,,149216,question,responseOption2,20325,form,No
+658b61d5170000664a61bc13,,149217,question,questionText,20325,form,Were there any citations associated with the fatality? 
+658b61d5170000664a61bc13,,149217,question,responseOption1,20325,form,Yes
+658b61d5170000664a61bc13,,149217,question,responseOption2,20325,form,No
+658b61e2180000263efec243,,149218,question,description,20325,form,"(Date, location, reason, fine/penalty, open/closed, contesting etc.)"
+658b61e2180000263efec243,,149218,question,questionText,20325,form,Provide description of all citations:
+658b61e2180000263efec243,,149218,question,responseOption1,20325,form,Yes
+658b61e2180000263efec243,,149218,question,responseOption2,20325,form,No
+658b61fe180000173efec245,,149219,question,questionText,20325,form,Please attach additional information as necessary.
+658b61fe180000173efec245,,149219,question,responseOption1,20325,form,Yes
+658b61fe180000173efec245,,149219,question,responseOption2,20325,form,No
+658b62171800002a3efec246,,149220,question,questionText,20325,form,Do you have another fatality to report? 
+658b62171800002a3efec246,,149220,question,responseOption1,20325,form,Yes
+658b62171800002a3efec246,,149220,question,responseOption2,20325,form,No
+658b632e180000163efec2c3,,149221,question,questionText,20325,form,Describe in detail what occurred:
+658b632e180000163efec2c3,,149221,question,responseOption1,20325,form,Yes
+658b632e180000163efec2c3,,149221,question,responseOption2,20325,form,No
+658b632e180000163efec2c4,,149222,question,questionText,20325,form,Describe in detail what occurred:
+658b632e180000163efec2c4,,149222,question,responseOption1,20325,form,Yes
+658b632e180000163efec2c4,,149222,question,responseOption2,20325,form,No
+658b632e180000163efec2c5,,149223,question,questionText,20325,form,Describe in detail what occurred:
+658b632e180000163efec2c5,,149223,question,responseOption1,20325,form,Yes
+658b632e180000163efec2c5,,149223,question,responseOption2,20325,form,No
+658b632e180000163efec2c6,,149224,question,questionText,20325,form,Describe in detail what occurred:
+658b632e180000163efec2c6,,149224,question,responseOption1,20325,form,Yes
+658b632e180000163efec2c6,,149224,question,responseOption2,20325,form,No
+658b634f170000524a61bcaf,,149225,question,questionText,20325,form,Location:
+658b634f170000524a61bcaf,,149225,question,responseOption1,20325,form,Yes
+658b634f170000524a61bcaf,,149225,question,responseOption2,20325,form,No
+658b634f170000524a61bcb0,,149226,question,questionText,20325,form,Location:
+658b634f170000524a61bcb0,,149226,question,responseOption1,20325,form,Yes
+658b634f170000524a61bcb0,,149226,question,responseOption2,20325,form,No
+658b634f170000524a61bcb1,,149227,question,questionText,20325,form,Location:
+658b634f170000524a61bcb1,,149227,question,responseOption1,20325,form,Yes
+658b634f170000524a61bcb1,,149227,question,responseOption2,20325,form,No
+658b634f170000524a61bcb2,,149228,question,questionText,20325,form,Location:
+658b634f170000524a61bcb2,,149228,question,responseOption1,20325,form,Yes
+658b634f170000524a61bcb2,,149228,question,responseOption2,20325,form,No
+658b63721700006c4a61bcb4,,149229,question,questionText,20325,form,Description of the incident:
+658b63721700006c4a61bcb4,,149229,question,responseOption1,20325,form,Yes
+658b63721700006c4a61bcb4,,149229,question,responseOption2,20325,form,No
+658b63721700006c4a61bcb5,,149230,question,questionText,20325,form,Description of the incident:
+658b63721700006c4a61bcb5,,149230,question,responseOption1,20325,form,Yes
+658b63721700006c4a61bcb5,,149230,question,responseOption2,20325,form,No
+658b63721700006c4a61bcb6,,149231,question,questionText,20325,form,Description of the incident:
+658b63721700006c4a61bcb6,,149231,question,responseOption1,20325,form,Yes
+658b63721700006c4a61bcb6,,149231,question,responseOption2,20325,form,No
+658b63721700006c4a61bcb7,,149232,question,questionText,20325,form,Description of the incident:
+658b63721700006c4a61bcb7,,149232,question,responseOption1,20325,form,Yes
+658b63721700006c4a61bcb7,,149232,question,responseOption2,20325,form,No
+658b638c1700005c4a61bce7,,149233,question,questionText,20325,form,Was any Equipment involved?
+658b638c1700005c4a61bce7,,149233,question,responseOption1,20325,form,Yes
+658b638c1700005c4a61bce7,,149233,question,responseOption2,20325,form,No
+658b638c1700005c4a61bce8,,149234,question,questionText,20325,form,Was any Equipment involved?
+658b638c1700005c4a61bce8,,149234,question,responseOption1,20325,form,Yes
+658b638c1700005c4a61bce8,,149234,question,responseOption2,20325,form,No
+658b638c1700005c4a61bce9,,149235,question,questionText,20325,form,Was any Equipment involved?
+658b638c1700005c4a61bce9,,149235,question,responseOption1,20325,form,Yes
+658b638c1700005c4a61bce9,,149235,question,responseOption2,20325,form,No
+658b638c1700005c4a61bcea,,149236,question,questionText,20325,form,Was any Equipment involved?
+658b638c1700005c4a61bcea,,149236,question,responseOption1,20325,form,Yes
+658b638c1700005c4a61bcea,,149236,question,responseOption2,20325,form,No
+658b63a3180000283efec2fa,,149237,question,questionText,20325,form,Provide description:
+658b63a3180000283efec2fa,,149237,question,responseOption1,20325,form,Yes
+658b63a3180000283efec2fa,,149237,question,responseOption2,20325,form,No
+658b63a3180000283efec2fb,,149238,question,questionText,20325,form,Provide description:
+658b63a3180000283efec2fb,,149238,question,responseOption1,20325,form,Yes
+658b63a3180000283efec2fb,,149238,question,responseOption2,20325,form,No
+658b63a3180000283efec2fc,,149239,question,questionText,20325,form,Provide description:
+658b63a3180000283efec2fc,,149239,question,responseOption1,20325,form,Yes
+658b63a3180000283efec2fc,,149239,question,responseOption2,20325,form,No
+658b63a3180000283efec2fd,,149240,question,questionText,20325,form,Provide description:
+658b63a3180000283efec2fd,,149240,question,responseOption1,20325,form,Yes
+658b63a3180000283efec2fd,,149240,question,responseOption2,20325,form,No
+658b63c1180000283efec2fe,,149241,question,questionText,20325,form,Was the incident witnessed? 
+658b63c1180000283efec2fe,,149241,question,responseOption1,20325,form,Yes
+658b63c1180000283efec2fe,,149241,question,responseOption2,20325,form,No
+658b63c1180000283efec2ff,,149242,question,questionText,20325,form,Was the incident witnessed? 
+658b63c1180000283efec2ff,,149242,question,responseOption1,20325,form,Yes
+658b63c1180000283efec2ff,,149242,question,responseOption2,20325,form,No
+658b63c1180000283efec300,,149243,question,questionText,20325,form,Was the incident witnessed? 
+658b63c1180000283efec300,,149243,question,responseOption1,20325,form,Yes
+658b63c1180000283efec300,,149243,question,responseOption2,20325,form,No
+658b63c1180000283efec301,,149244,question,questionText,20325,form,Was the incident witnessed? 
+658b63c1180000283efec301,,149244,question,responseOption1,20325,form,Yes
+658b63c1180000283efec301,,149244,question,responseOption2,20325,form,No
+658b63dc180000303efec335,,149245,question,questionText,20325,form,Provide description:
+658b63dc180000303efec335,,149245,question,responseOption1,20325,form,Yes
+658b63dc180000303efec335,,149245,question,responseOption2,20325,form,No
+658b63dc180000303efec336,,149246,question,questionText,20325,form,Provide description:
+658b63dc180000303efec336,,149246,question,responseOption1,20325,form,Yes
+658b63dc180000303efec336,,149246,question,responseOption2,20325,form,No
+658b63dc180000303efec337,,149247,question,questionText,20325,form,Provide description:
+658b63dc180000303efec337,,149247,question,responseOption1,20325,form,Yes
+658b63dc180000303efec337,,149247,question,responseOption2,20325,form,No
+658b63dc180000303efec338,,149248,question,questionText,20325,form,Provide description:
+658b63dc180000303efec338,,149248,question,responseOption1,20325,form,Yes
+658b63dc180000303efec338,,149248,question,responseOption2,20325,form,No
+658b63f81700005c4a61bceb,,149249,question,questionText,20325,form,Was a root cause analysis conducted?
+658b63f81700005c4a61bceb,,149249,question,responseOption1,20325,form,Yes
+658b63f81700005c4a61bceb,,149249,question,responseOption2,20325,form,No
+658b63f81700005c4a61bcec,,149250,question,questionText,20325,form,Was a root cause analysis conducted?
+658b63f81700005c4a61bcec,,149250,question,responseOption1,20325,form,Yes
+658b63f81700005c4a61bcec,,149250,question,responseOption2,20325,form,No
+658b63f81700005c4a61bced,,149251,question,questionText,20325,form,Was a root cause analysis conducted?
+658b63f81700005c4a61bced,,149251,question,responseOption1,20325,form,Yes
+658b63f81700005c4a61bced,,149251,question,responseOption2,20325,form,No
+658b63f81700005c4a61bcee,,149252,question,questionText,20325,form,Was a root cause analysis conducted?
+658b63f81700005c4a61bcee,,149252,question,responseOption1,20325,form,Yes
+658b63f81700005c4a61bcee,,149252,question,responseOption2,20325,form,No
+658b6428180000303efec33d,,149254,question,questionText,20325,form,Provide details on the analysis and the findings: 
+658b6428180000303efec33d,,149254,question,responseOption1,20325,form,Yes
+658b6428180000303efec33d,,149254,question,responseOption2,20325,form,No
+658b6428180000303efec33e,,149255,question,questionText,20325,form,Provide details on the analysis and the findings: 
+658b6428180000303efec33e,,149255,question,responseOption1,20325,form,Yes
+658b6428180000303efec33e,,149255,question,responseOption2,20325,form,No
+658b6428180000303efec33f,,149256,question,questionText,20325,form,Provide details on the analysis and the findings: 
+658b6428180000303efec33f,,149256,question,responseOption1,20325,form,Yes
+658b6428180000303efec33f,,149256,question,responseOption2,20325,form,No
+658b6428180000303efec340,,149257,question,questionText,20325,form,Provide details on the analysis and the findings: 
+658b6428180000303efec340,,149257,question,responseOption1,20325,form,Yes
+658b6428180000303efec340,,149257,question,responseOption2,20325,form,No
+658b6444180000263efec341,,149258,question,questionText,20325,form,"If not, provide explanation."
+658b6444180000263efec341,,149258,question,responseOption1,20325,form,Yes
+658b6444180000263efec341,,149258,question,responseOption2,20325,form,No
+658b6444180000263efec342,,149259,question,questionText,20325,form,"If not, provide explanation."
+658b6444180000263efec342,,149259,question,responseOption1,20325,form,Yes
+658b6444180000263efec342,,149259,question,responseOption2,20325,form,No
+658b6444180000263efec343,,149260,question,questionText,20325,form,"If not, provide explanation."
+658b6444180000263efec343,,149260,question,responseOption1,20325,form,Yes
+658b6444180000263efec343,,149260,question,responseOption2,20325,form,No
+658b6444180000263efec344,,149261,question,questionText,20325,form,"If not, provide explanation."
+658b6444180000263efec344,,149261,question,responseOption1,20325,form,Yes
+658b6444180000263efec344,,149261,question,responseOption2,20325,form,No
+658b6459180000233efec345,,149262,question,questionText,20325,form,Was a corrective action plan prepared? 
+658b6459180000233efec345,,149262,question,responseOption1,20325,form,Yes
+658b6459180000233efec345,,149262,question,responseOption2,20325,form,No
+658b6459180000233efec346,,149263,question,questionText,20325,form,Was a corrective action plan prepared? 
+658b6459180000233efec346,,149263,question,responseOption1,20325,form,Yes
+658b6459180000233efec346,,149263,question,responseOption2,20325,form,No
+658b6459180000233efec347,,149264,question,questionText,20325,form,Was a corrective action plan prepared? 
+658b6459180000233efec347,,149264,question,responseOption1,20325,form,Yes
+658b6459180000233efec347,,149264,question,responseOption2,20325,form,No
+658b6459180000233efec348,,149265,question,questionText,20325,form,Was a corrective action plan prepared? 
+658b6459180000233efec348,,149265,question,responseOption1,20325,form,Yes
+658b6459180000233efec348,,149265,question,responseOption2,20325,form,No
+658b64fd1700005c4a61bcf4,,149267,question,questionText,20325,form,Provide details on the corrective actions and the completion status: 
+658b64fd1700005c4a61bcf4,,149267,question,responseOption1,20325,form,Yes
+658b64fd1700005c4a61bcf4,,149267,question,responseOption2,20325,form,No
+658b64fd1700005c4a61bcf5,,149268,question,questionText,20325,form,Provide details on the corrective actions and the completion status: 
+658b64fd1700005c4a61bcf5,,149268,question,responseOption1,20325,form,Yes
+658b64fd1700005c4a61bcf5,,149268,question,responseOption2,20325,form,No
+658b64fd1700005c4a61bcf6,,149269,question,questionText,20325,form,Provide details on the corrective actions and the completion status: 
+658b64fd1700005c4a61bcf6,,149269,question,responseOption1,20325,form,Yes
+658b64fd1700005c4a61bcf6,,149269,question,responseOption2,20325,form,No
+658b64fd1700005c4a61bcf7,,149270,question,questionText,20325,form,Provide details on the corrective actions and the completion status: 
+658b64fd1700005c4a61bcf7,,149270,question,responseOption1,20325,form,Yes
+658b64fd1700005c4a61bcf7,,149270,question,responseOption2,20325,form,No
+658b651b1700004c4a61bcf8,,149271,question,questionText,20325,form,"If not, provide explanation."
+658b651b1700004c4a61bcf8,,149271,question,responseOption1,20325,form,Yes
+658b651b1700004c4a61bcf8,,149271,question,responseOption2,20325,form,No
+658b651b1700004c4a61bcf9,,149272,question,questionText,20325,form,"If not, provide explanation."
+658b651b1700004c4a61bcf9,,149272,question,responseOption1,20325,form,Yes
+658b651b1700004c4a61bcf9,,149272,question,responseOption2,20325,form,No
+658b651b1700004c4a61bcfa,,149273,question,questionText,20325,form,"If not, provide explanation."
+658b651b1700004c4a61bcfa,,149273,question,responseOption1,20325,form,Yes
+658b651b1700004c4a61bcfa,,149273,question,responseOption2,20325,form,No
+658b651b1700004c4a61bcfb,,149274,question,questionText,20325,form,"If not, provide explanation."
+658b651b1700004c4a61bcfb,,149274,question,responseOption1,20325,form,Yes
+658b651b1700004c4a61bcfb,,149274,question,responseOption2,20325,form,No
+658b6532180000183efec3b1,,149275,question,questionText,20325,form,Was new or additional training required?
+658b6532180000183efec3b1,,149275,question,responseOption1,20325,form,Yes
+658b6532180000183efec3b1,,149275,question,responseOption2,20325,form,No
+658b6532180000183efec3b2,,149276,question,questionText,20325,form,Was new or additional training required?
+658b6532180000183efec3b2,,149276,question,responseOption1,20325,form,Yes
+658b6532180000183efec3b2,,149276,question,responseOption2,20325,form,No
+658b6532180000183efec3b3,,149277,question,questionText,20325,form,Was new or additional training required?
+658b6532180000183efec3b3,,149277,question,responseOption1,20325,form,Yes
+658b6532180000183efec3b3,,149277,question,responseOption2,20325,form,No
+658b6532180000183efec3b4,,149278,question,questionText,20325,form,Was new or additional training required?
+658b6532180000183efec3b4,,149278,question,responseOption1,20325,form,Yes
+658b6532180000183efec3b4,,149278,question,responseOption2,20325,form,No
+658b6577180000243efec3ec,,149280,question,questionText,20325,form,"Has training been completed, including any designated employee training?"
+658b6577180000243efec3ec,,149280,question,responseOption1,20325,form,Yes
+658b6577180000243efec3ec,,149280,question,responseOption2,20325,form,No
+658b6577180000243efec3ed,,149281,question,questionText,20325,form,"Has training been completed, including any designated employee training?"
+658b6577180000243efec3ed,,149281,question,responseOption1,20325,form,Yes
+658b6577180000243efec3ed,,149281,question,responseOption2,20325,form,No
+658b6577180000243efec3ee,,149282,question,questionText,20325,form,"Has training been completed, including any designated employee training?"
+658b6577180000243efec3ee,,149282,question,responseOption1,20325,form,Yes
+658b6577180000243efec3ee,,149282,question,responseOption2,20325,form,No
+658b6577180000243efec3ef,,149283,question,questionText,20325,form,"Has training been completed, including any designated employee training?"
+658b6577180000243efec3ef,,149283,question,responseOption1,20325,form,Yes
+658b6577180000243efec3ef,,149283,question,responseOption2,20325,form,No
+658b6596170000664a61bcfe,,149285,question,questionText,20325,form,"If not, provide scheduled training completion date(s): "
+658b6596170000664a61bcfe,,149285,question,responseOption1,20325,form,Yes
+658b6596170000664a61bcfe,,149285,question,responseOption2,20325,form,No
+658b6596170000664a61bcff,,149286,question,questionText,20325,form,"If not, provide scheduled training completion date(s): "
+658b6596170000664a61bcff,,149286,question,responseOption1,20325,form,Yes
+658b6596170000664a61bcff,,149286,question,responseOption2,20325,form,No
+658b6596170000664a61bd00,,149287,question,questionText,20325,form,"If not, provide scheduled training completion date(s): "
+658b6596170000664a61bd00,,149287,question,responseOption1,20325,form,Yes
+658b6596170000664a61bd00,,149287,question,responseOption2,20325,form,No
+658b6596170000664a61bd01,,149288,question,questionText,20325,form,"If not, provide scheduled training completion date(s): "
+658b6596170000664a61bd01,,149288,question,responseOption1,20325,form,Yes
+658b6596170000664a61bd01,,149288,question,responseOption2,20325,form,No
+658b65b2180000313efec3f3,,149289,question,questionText,20325,form,Did an OSHA inspection take place as a result of the fatality? 
+658b65b2180000313efec3f3,,149289,question,responseOption1,20325,form,Yes
+658b65b2180000313efec3f3,,149289,question,responseOption2,20325,form,No
+658b65b2180000313efec3f4,,149290,question,questionText,20325,form,Did an OSHA inspection take place as a result of the fatality? 
+658b65b2180000313efec3f4,,149290,question,responseOption1,20325,form,Yes
+658b65b2180000313efec3f4,,149290,question,responseOption2,20325,form,No
+658b65b2180000313efec3f5,,149291,question,questionText,20325,form,Did an OSHA inspection take place as a result of the fatality? 
+658b65b2180000313efec3f5,,149291,question,responseOption1,20325,form,Yes
+658b65b2180000313efec3f5,,149291,question,responseOption2,20325,form,No
+658b65b2180000313efec3f6,,149292,question,questionText,20325,form,Did an OSHA inspection take place as a result of the fatality? 
+658b65b2180000313efec3f6,,149292,question,responseOption1,20325,form,Yes
+658b65b2180000313efec3f6,,149292,question,responseOption2,20325,form,No
+658b65ca180000283efec3f7,,149293,question,questionText,20325,form,Provide description:
+658b65ca180000283efec3f7,,149293,question,responseOption1,20325,form,Yes
+658b65ca180000283efec3f7,,149293,question,responseOption2,20325,form,No
+658b65ca180000283efec3f8,,149294,question,questionText,20325,form,Provide description:
+658b65ca180000283efec3f8,,149294,question,responseOption1,20325,form,Yes
+658b65ca180000283efec3f8,,149294,question,responseOption2,20325,form,No
+658b65ca180000283efec3f9,,149295,question,questionText,20325,form,Provide description:
+658b65ca180000283efec3f9,,149295,question,responseOption1,20325,form,Yes
+658b65ca180000283efec3f9,,149295,question,responseOption2,20325,form,No
+658b65ca180000283efec3fa,,149296,question,questionText,20325,form,Provide description:
+658b65ca180000283efec3fa,,149296,question,responseOption1,20325,form,Yes
+658b65ca180000283efec3fa,,149296,question,responseOption2,20325,form,No
+658b65e7180000183efec3fb,,149297,question,questionText,20325,form,Were there any citations associated with the fatality? 
+658b65e7180000183efec3fb,,149297,question,responseOption1,20325,form,Yes
+658b65e7180000183efec3fb,,149297,question,responseOption2,20325,form,No
+658b65e7180000183efec3fc,,149298,question,questionText,20325,form,Were there any citations associated with the fatality? 
+658b65e7180000183efec3fc,,149298,question,responseOption1,20325,form,Yes
+658b65e7180000183efec3fc,,149298,question,responseOption2,20325,form,No
+658b65e7180000183efec3fd,,149299,question,questionText,20325,form,Were there any citations associated with the fatality? 
+658b65e7180000183efec3fd,,149299,question,responseOption1,20325,form,Yes
+658b65e7180000183efec3fd,,149299,question,responseOption2,20325,form,No
+658b65e7180000183efec3fe,,149300,question,questionText,20325,form,Were there any citations associated with the fatality? 
+658b65e7180000183efec3fe,,149300,question,responseOption1,20325,form,Yes
+658b65e7180000183efec3fe,,149300,question,responseOption2,20325,form,No
+658b6605180000183efec3ff,,149301,question,description,20325,form,"(Date, location, reason, fine/penalty, open/closed, contesting etc.)"
+658b6605180000183efec3ff,,149301,question,questionText,20325,form,Provide description of all citations:
+658b6605180000183efec3ff,,149301,question,responseOption1,20325,form,Yes
+658b6605180000183efec3ff,,149301,question,responseOption2,20325,form,No
+658b6605180000183efec400,,149302,question,description,20325,form,"(Date, location, reason, fine/penalty, open/closed, contesting etc.)"
+658b6605180000183efec400,,149302,question,questionText,20325,form,Provide description of all citations:
+658b6605180000183efec400,,149302,question,responseOption1,20325,form,Yes
+658b6605180000183efec400,,149302,question,responseOption2,20325,form,No
+658b6605180000183efec401,,149303,question,description,20325,form,"(Date, location, reason, fine/penalty, open/closed, contesting etc.)"
+658b6605180000183efec401,,149303,question,questionText,20325,form,Provide description of all citations:
+658b6605180000183efec401,,149303,question,responseOption1,20325,form,Yes
+658b6605180000183efec401,,149303,question,responseOption2,20325,form,No
+658b6605180000183efec402,,149304,question,description,20325,form,"(Date, location, reason, fine/penalty, open/closed, contesting etc.)"
+658b6605180000183efec402,,149304,question,questionText,20325,form,Provide description of all citations:
+658b6605180000183efec402,,149304,question,responseOption1,20325,form,Yes
+658b6605180000183efec402,,149304,question,responseOption2,20325,form,No
+658b661e170000684a61bd03,,149305,question,questionText,20325,form,Please attach additional information as necessary.
+658b661e170000684a61bd03,,149305,question,responseOption1,20325,form,Yes
+658b661e170000684a61bd03,,149305,question,responseOption2,20325,form,No
+658b661e170000684a61bd04,,149306,question,questionText,20325,form,Please attach additional information as necessary.
+658b661e170000684a61bd04,,149306,question,responseOption1,20325,form,Yes
+658b661e170000684a61bd04,,149306,question,responseOption2,20325,form,No
+658b661e170000684a61bd05,,149307,question,questionText,20325,form,Please attach additional information as necessary.
+658b661e170000684a61bd05,,149307,question,responseOption1,20325,form,Yes
+658b661e170000684a61bd05,,149307,question,responseOption2,20325,form,No
+658b661e170000684a61bd06,,149308,question,questionText,20325,form,Please attach additional information as necessary.
+658b661e170000684a61bd06,,149308,question,responseOption1,20325,form,Yes
+658b661e170000684a61bd06,,149308,question,responseOption2,20325,form,No
+658b6645170000664a61bd0c,,149309,question,questionText,20325,form,Do you have another fatality to report? 
+658b6645170000664a61bd0c,,149309,question,responseOption1,20325,form,Yes
+658b6645170000664a61bd0c,,149309,question,responseOption2,20325,form,No
+658b6645170000664a61bd0d,,149310,question,questionText,20325,form,Do you have another fatality to report? 
+658b6645170000664a61bd0d,,149310,question,responseOption1,20325,form,Yes
+658b6645170000664a61bd0d,,149310,question,responseOption2,20325,form,No
+658b6645170000664a61bd0e,,149311,question,questionText,20325,form,Do you have another fatality to report? 
+658b6645170000664a61bd0e,,149311,question,responseOption1,20325,form,Yes
+658b6645170000664a61bd0e,,149311,question,responseOption2,20325,form,No

@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67eeba8401000023014773d4,67eaf9bc0100000901218513,45112,questionGroup,questionGroupText,45112,form,Brazil INMETRO Compliance
+67eaf9bc0100004300218514,,167141,question,questionText,45112,form,Please upload your valid INMETRO certification or accreditation document.
+67eaf9bc0100004300218514,,167141,question,responseOption1,45112,form,Yes
+67eaf9bc0100004300218514,,167141,question,responseOption2,45112,form,No
+67eaf9bc0100004300218515,,167142,question,questionText,45112,form,Please enter the expiration date.
+67eaf9bc0100004300218515,,167142,question,responseOption1,45112,form,Yes
+67eaf9bc0100004300218515,,167142,question,responseOption2,45112,form,No

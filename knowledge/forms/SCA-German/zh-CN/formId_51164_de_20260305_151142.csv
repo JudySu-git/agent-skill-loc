@@ -1,0 +1,12 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87743a36b6c4c63546753,69a87743a36b6c4c63546752,51164,questionGroup,questionGroupText,51164,form,危险物质 - 致癌物、致突变物、生殖毒性物质,
+69a87743a36b6c4c6354674e,,200109,question,description,51164,form,"在使用致癌、致突变或生殖毒性（CMR）物质之前，必须向劳动监察机构提交书面通知。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">《雇员保护法》第42条第5款</a>",
+69a87743a36b6c4c6354674e,,200109,question,questionText,51164,form,向劳动监察机构通报（使用前）,
+69a87743a36b6c4c6354674f,,200110,question,description,51164,form,"接触含有致癌、致突变或生殖毒性（CMR）物质的区域，或含有第2–4组生物制剂的区域，必须限制为授权人员方可进入。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">《雇员保护法》第44条第4款</a>",
+69a87743a36b6c4c6354674f,,200110,question,questionText,51164,form,限制进入管控,
+69a87743a36b6c4c63546750,,200111,question,description,51164,form,"对于接触致癌、致突变或生殖毒性（CMR）物质，或第3–4组生物制剂的人员，必须建立并维护接触登记册。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">《雇员保护法》第47条第1–3款</a>",
+69a87743a36b6c4c63546750,,200111,question,questionText,51164,form,接触登记册,
+69a87743a36b6c4c63546751,,200112,question,questionText,51164,form,<div></div>,

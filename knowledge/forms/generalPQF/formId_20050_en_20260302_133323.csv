@@ -1,0 +1,51 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6914e0760100008505ed5deb,50f43b0b504943ea935a7171,3314,questionGroup,questionGroupText,20050,form,Australia
+50f43ca550494329df650375,,15151,question,questionText,20050,form,Australian Capital Territory
+50f43ca550494329df650375,,15151,question,responseOptionNo,20050,form,"No, we do not have workers performing work or a base of operation in the ACT"
+50f43ca550494329df650375,,15151,question,responseOptionYes,20050,form,"Yes, we have workers performing work for an extended period (6 or more months) and/or on a permanent basis in the ACT"
+50f43ca550494329df650375,,15151,question,responseOptionYesPeriodicWithoutOffice,20050,form,"Yes, we have workers performing occasional, short-term work (less than 6 months) in the ACT"
+50f43ca550494329df650375,,15151,question,responseOptionYesWithOffice,20050,form,"Yes, our main base of operation (with or without a physical office) is in the ACT"
+50f43d225049437b733a38d5,,15152,question,questionText,20050,form,New South Wales
+50f43d225049437b733a38d5,,15152,question,responseOptionNo,20050,form,"No, we do not have workers performing work or a base of operation in NSW"
+50f43d225049437b733a38d5,,15152,question,responseOptionYes,20050,form,"Yes, we have workers performing work for an extended period (6 or more months) and/or on a permanent basis in NSW"
+50f43d225049437b733a38d5,,15152,question,responseOptionYesPeriodicWithoutOffice,20050,form,"Yes, we have workers performing occasional, short-term work (less than 6 months) in NSW"
+50f43d225049437b733a38d5,,15152,question,responseOptionYesWithOffice,20050,form,"Yes, our main base of operation (with or without a physical office) is in NSW"
+50f43d6c50494390c03518b8,,15153,question,questionText,20050,form,Northern Territory
+50f43d6c50494390c03518b8,,15153,question,responseOptionNo,20050,form,"No, we do not have workers performing work or a base of operation in the NT"
+50f43d6c50494390c03518b8,,15153,question,responseOptionYes,20050,form,"Yes, we have workers performing work for an extended period (6 or more months) and/or on a permanent basis in the NT"
+50f43d6c50494390c03518b8,,15153,question,responseOptionYesPeriodicWithoutOffice,20050,form,"Yes, we have workers performing occasional, short-term work (less than 6 months)in the NT"
+50f43d6c50494390c03518b8,,15153,question,responseOptionYesWithOffice,20050,form,"Yes, our main base of operation (with or without a physical office) is in the NT"
+50f43da3504943373964d62e,,15154,question,questionText,20050,form,Queensland
+50f43da3504943373964d62e,,15154,question,responseOptionNo,20050,form,"No, we do not have workers performing work or a base of operation in QLD"
+50f43da3504943373964d62e,,15154,question,responseOptionYes,20050,form,"Yes, we have workers performing work for an extended period (6 or more months) and/or on a permanent basis in QLD"
+50f43da3504943373964d62e,,15154,question,responseOptionYesPeriodicWithoutOffice,20050,form,"Yes, we have workers performing occasional, short-term work (less than 6 months) in QLD"
+50f43da3504943373964d62e,,15154,question,responseOptionYesWithOffice,20050,form,"Yes, our main base of operation (with or without a physical office) is in QLD"
+50f43de850494352815e06f6,,15155,question,questionText,20050,form,South Australia
+50f43de850494352815e06f6,,15155,question,responseOptionNo,20050,form,"No, we do not have workers performing work or a base of operation in SA"
+50f43de850494352815e06f6,,15155,question,responseOptionYes,20050,form,"Yes, we have workers performing work for an extended period (6 or more months) and/or on a permanent basis in SA"
+50f43de850494352815e06f6,,15155,question,responseOptionYesPeriodicWithoutOffice,20050,form,"Yes, we have workers performing occasional, short-term work (less than 6 months) in SA"
+50f43de850494352815e06f6,,15155,question,responseOptionYesWithOffice,20050,form,"Yes, our main base of operation (with or without a physical office) is in SA"
+50f43e72504943ce9dfefcab,,15156,question,questionText,20050,form,Tasmania
+50f43e72504943ce9dfefcab,,15156,question,responseOptionNo,20050,form,"No, we do not have workers performing work or a base of operation in TAS"
+50f43e72504943ce9dfefcab,,15156,question,responseOptionYes,20050,form,"Yes, we have workers performing work for an extended period (6 or more months) and/or on a permanent basis in TAS"
+50f43e72504943ce9dfefcab,,15156,question,responseOptionYesPeriodicWithoutOffice,20050,form,"Yes, we have workers performing occasional, short-term work (less than 6 months) in TAS"
+50f43e72504943ce9dfefcab,,15156,question,responseOptionYesWithOffice,20050,form,"Yes, our main base of operation (with or without a physical office) is in TAS"
+50f43ea25049439f18fe8213,,15157,question,questionText,20050,form,Victoria
+50f43ea25049439f18fe8213,,15157,question,responseOptionNo,20050,form,"No, we do not have workers performing work or a base of operation in VIC"
+50f43ea25049439f18fe8213,,15157,question,responseOptionYes,20050,form,"Yes, we have workers performing work for an extended period (6 or more months) and/or on a permanent basis in VIC"
+50f43ea25049439f18fe8213,,15157,question,responseOptionYesPeriodicWithoutOffice,20050,form,"Yes, we have workers performing occasional, short-term work (less than 6 months) in VIC"
+50f43ea25049439f18fe8213,,15157,question,responseOptionYesWithOffice,20050,form,"Yes, our main base of operation (with or without a physical office) is in VIC"
+50f43ed45049433b42ecc56e,,15158,question,questionText,20050,form,Western Australia
+50f43ed45049433b42ecc56e,,15158,question,responseOptionNo,20050,form,"No, we do not have workers performing work or a base of operation in WA"
+50f43ed45049433b42ecc56e,,15158,question,responseOptionYes,20050,form,"Yes, we have workers performing work for an extended period (6 or more months) and/or on a permanent basis in WA"
+50f43ed45049433b42ecc56e,,15158,question,responseOptionYesPeriodicWithoutOffice,20050,form,"Yes, we have workers performing occasional, short-term work (less than 6 months) in WA"
+50f43ed45049433b42ecc56e,,15158,question,responseOptionYesWithOffice,20050,form,"Yes, our main base of operation (with or without a physical office) is in WA"
+6914fa760100007905ed5ece,5aadd35c2b00007100d3e119,20050,questionGroup,questionGroupText,20050,form,Avetta PQF - Australia Offices and Locations of Work Performed
+6914e0a20100004c06dc7933,,187939,question,description,20050,form,"If you have workers performing work for an extended period, on a permanent basis, or if the state/territory selected is your main base of operation, you must provide state/territory-specific Workers Compensation documentation.\nIf you have workers performing occasional, short-term work for a selected state/territory, you may be required to provide state/territory-specific Workers Compensation documentation."
+6914e0a20100004c06dc7933,,187939,question,questionText,20050,form,Does your company have a main base of operation or perform work in any of the following locations (regardless of whether there is a physical office)?
+6914e0de010000f504dc7935,,187940,question,questionText,20050,form,"Based on your selected responses, it appears that workers' compensation coverage may not apply to your business in Australia. \nPlease take a moment to review your answers and ensure you've chosen the state or territory that reflects your principal place of business. This is defined as the main base of operation where your business activities are primarily managed or conducted in Australia—usually the address linked to your Australian Business Number (ABN). \nIf workers' compensation coverage is not applicable to your business, please select one of the options below to indicate the reason:"
+6914e0de010000f504dc7935,,187940,question,responseOption1,20050,form,We are an overseas supplier and do not have personnel attending site in person
+6914e0de010000f504dc7935,,187940,question,responseOption2,20050,form,We provide offsite support or professional services and do not have personnel attending site in person
+6914e0de010000f504dc7935,,187940,question,responseOption3,20050,form,We are a manufacturer or goods supplier and do not have personnel attending site in person
+6914e0de010000f504dc7935,,187940,question,responseOption4,20050,form,Other (please specify)
+6914e11a0100007d05ed5df0,,187941,question,questionText,20050,form,Please Specify

@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87745a36b6c4c6354676a,69a87745a36b6c4c63546769,51167,questionGroup,questionGroupText,51167,form,Hot Work,
+69a87745a36b6c4c63546764,,200125,question,description,51167,form,"Annual instruction for autogenous welding, cutting, and related processes must be conducted, aligned to site conditions, manufacturer instructions, and relevant technical information.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Work Equipment Ordinance, Section 26(4)</a>",
+69a87745a36b6c4c63546764,,200125,question,questionText,51167,form,Annual Training,
+69a87745a36b6c4c63546765,,200126,question,description,51167,form,"Compressed gas cylinders must be secured against tipping and overheating.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Work Equipment Ordinance, Section 26(2)(6)</a>",
+69a87745a36b6c4c63546765,,200126,question,questionText,51167,form,Secured Gas Cylinders,
+69a87745a36b6c4c63546766,,200127,question,description,51167,form,"Hot work fire prevention measures must address welding, cutting, soldering, and other spark-producing work in fire-prone areas. Hot work controls must prevent ignition of flammable or combustible materials from flames, heat, or welding spatter.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 42(2), 42(3)</a>",
+69a87745a36b6c4c63546766,,200127,question,questionText,51167,form,Fire Prevention Measures,
+69a87745a36b6c4c63546767,,200128,question,description,51167,form,"Fire watch provisions must be defined when hot work creates fire risk.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 42(3)</a>",
+69a87745a36b6c4c63546767,,200128,question,questionText,51167,form,Hot Work,
+69a87745a36b6c4c63546768,,200129,question,questionText,51167,form,<div></div>,

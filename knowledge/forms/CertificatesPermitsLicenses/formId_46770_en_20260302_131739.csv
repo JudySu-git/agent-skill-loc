@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+688120db0100002e012908e5,68812007010000d30129085d,46770,questionGroup,questionGroupText,46770,form,KLF Insurance - Pollution Liability
+688120070100002e0129085e,688120070100002e0129085e,46771,questionGroup,questionGroupText,46770,form,Policy Limits
+688120070100002e0129085f,688120070100002e0129085f,46772,questionGroup,questionGroupText,46770,form,Policy Information
+68812007010000d401290860,,177112,question,questionText,46770,form,Each Occurrence
+68812007010000d401290861,,177113,question,questionText,46770,form,Aggregate
+688120070100002e01290862,,177114,question,questionText,46770,form,Currency used in Certificate of Insurance (COI)
+68812007010000d401290864,,177115,question,questionText,46770,form,Insurance Carrier:
+688120070100002e01290863,,177116,question,questionText,46770,form,Please upload Pollution Liability Certificate
+68812007010000d401290866,,177117,question,description,46770,form,Used to provide instructions from Client
+68812007010000d401290866,,177117,question,questionText,46770,form,Comments
+68812007010000d401290867,,177118,question,description,46770,form,Date the instructions from Client expire
+68812007010000d401290867,,177118,question,questionText,46770,form,VARIANCE Expiration Date
+68812007010000d401290865,,177119,question,questionText,46770,form,Date of Commencement:
+68812007010000d401290868,,177120,question,questionText,46770,form,Expiration Date:

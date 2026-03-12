@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec610100002d00a473b1,5d2f81833300004e4db00c07,26857,questionGroup,questionGroupText,26857,form,Hawaii Contractor License
+5d558d54360000a743a9acb1,5d2f818d3400004341b7fec7,26858,questionGroup,questionGroupText,26857,form,Hawaii Contractor License
+5d2f81d43300004e4db00c1c,,84325,question,description,26857,form,"<a href = ""https://cca.hawaii.gov/pvl/boards/contractor/""target=""_BLANK_"">Hawaii Contractor License Board</a>\n"
+5d2f81d43300004e4db00c1c,,84325,question,questionText,26857,form,Hawaii Contractor License Number:\n
+5d2f820d3300004e4db00d8a,,84326,question,description,26857,form,"<a href = ""https://cca.hawaii.gov/pvl/boards/contractor/""target=""_BLANK_"">Hawaii Contractor License Board</a>\n"
+5d2f820d3300004e4db00d8a,,84326,question,questionText,26857,form,Hawaii Contractor License Classifications:
+5d2f82523300004e4db00dc4,,84327,question,questionText,26857,form,Hawaii License Expiration Date:
+5d2f82803300004e4db014e5,,84328,question,description,26857,form,A URL will make verification quicker if provided\n
+5d2f82803300004e4db014e5,,84328,question,questionText,26857,form,"Upload a copy of your license, and or provide the URL of the license."
+5d2f82803300004e4db014e5,,84328,question,responseOption1,26857,form,File Upload
+5d2f82803300004e4db014e5,,84328,question,responseOption2,26857,form,URL
+5d2f82993400004341b80197,,84329,question,questionText,26857,form,Please upload a copy of your Hawaii license:\n
+5d2f82ad3400004341b801b5,,84330,question,questionText,26857,form,Please enter the URL of the license:

@@ -1,0 +1,16 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66c4a3440100002b00270e86,66c3994001000031003097f1,43231,questionGroup,questionGroupText,43231,form,New South Wales - Coal Mines Insurance
+66c39d2c0100005001897672,66c39d2c0100005001897671,43232,questionGroup,questionGroupText,43231,form,Policy Information
+66c39d390100002c00897676,66c39d390100002c00897675,43233,questionGroup,questionGroupText,43231,form,Policy Documentation
+66c39d670100003000309802,,158760,question,description,43231,form,Used to provide instructions from Client
+66c39d670100003000309802,,158760,question,questionText,43231,form,Comments
+66c39d890100003200309803,,158761,question,description,43231,form,Date the instructions from Client expire
+66c39d890100003200309803,,158761,question,questionText,43231,form,VARIANCE Expiration Date
+66c39da80100003500309806,,158762,question,questionText,43231,form,You are receiving this form because you answered “Yes” to having Coal Mines Insurance in the NSW Coal Mines Insurance Questionnaire.
+66c39da80100003500309806,,158762,question,responseOption1,43231,form,Yes
+66c39da80100003500309806,,158762,question,responseOption2,43231,form,No
+66c39de3010000330030980b,,158763,question,questionText,43231,form,Date of Commencement:
+66c39df5010000330030980c,,158764,question,questionText,43231,form,Expiration Date:
+66c39dfd010000340030980d,,158765,question,questionText,43231,form,Please upload your NSW Coal Mines Insurance policy.
+66c39dfd010000340030980d,,158765,question,responseOption1,43231,form,Yes
+66c39dfd010000340030980d,,158765,question,responseOption2,43231,form,No

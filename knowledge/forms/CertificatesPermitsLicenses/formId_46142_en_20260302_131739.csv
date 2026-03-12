@@ -1,0 +1,4 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6830c3af0100003c00cc53dc,6830c39f0100004100cc53d9,46142,questionGroup,questionGroupText,46142,form,Spain Certification for Telecommunications Installations
+6830c39f0100003d00cc53da,,174459,question,description,46142,form,"You are receiving this form because you answered ""Yes"" to maintaining a Certificate of Registration for Telecommunications Installation in the Spanish Trade Licenses Applicability Assessment questionnaire."
+6830c39f0100003d00cc53da,,174459,question,questionText,46142,form,Please upload a copy of your company's Certificate of Registration for Telecommunications Installation.

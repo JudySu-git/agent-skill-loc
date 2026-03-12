@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68b76f34010000c400c9c3ad,682d03c201000078010361f7,46122,questionGroup,questionGroupText,46122,form,Nigeria Corporate Affairs Commission Registration Acknowledgement Letter
+68b75474010000c100c9c05d,682d047d010000770103620e,46124,questionGroup,description,46122,form,"You are receiving this form because you answered ""Yes"" to maintaining a CAC Acknowledgement Letter for the Nigerian Corporate Affairs Commission in the Nigerian Corporate Affairs Commission Registration questionnaire."
+68b75474010000c100c9c05d,682d047d010000770103620e,46124,questionGroup,questionGroupText,46122,form,Nigeria Corporate Affairs Commission Registration Acknowldegement Letter
+682d04860100006000de3aee,,174410,question,description,46122,form,"Per Section 370 of the <a href=""https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf"" target=""blank"">Companies and Allied Matters Act (CAMA) 2020</a>\n"
+682d04860100006000de3aee,,174410,question,questionText,46122,form,Please upload a copy of your company's CAC Acknowledgement Letter for your annual return filing.
+682d04e70100003600036215,,174411,question,questionText,46122,form,I confirm that this certification remains valid and has not been suspended or revoked by the issuing authority.
+68b7548101000036003efc76,,180202,question,description,46122,form,"The Company Registration Certificate (Certificate of Incorporation) confirms that your company is legally incorporated and allowed to do business in Nigeria. This certificate can be collected via the <a href=""https://icrp.cac.gov.ng/"" target=""blank"">Corporate Affairs Commission (CAC) portal.</a>"
+68b7548101000036003efc76,,180202,question,questionText,46122,form,Please upload your Company Registration Certificate (Certificate of Incorporation).
+68b754d2010000a9003efc7a,,180203,question,description,46122,form,
+68b754d2010000a9003efc7a,,180203,question,questionText,46122,form,Please provide your Company Registration Number.

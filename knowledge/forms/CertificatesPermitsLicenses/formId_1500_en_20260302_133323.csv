@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+606f7f4b4300008efba5f83d,5b083fc0504943646f3516b9,1500,questionGroup,questionGroupText,1500,form,Watercraft Liability
+606f7f024300008efba5f75d,5b084041504943309949aded,13122,questionGroup,questionGroupText,1500,form,Watercraft Liability
+606f7f024300008efba5f75c,5b0876905049435e0d8a5fc0,13124,questionGroup,questionGroupText,1500,form,Policy Information
+5b0877415049435c5e605e43,5b0877415049435c5e605e43,13125,questionGroup,questionGroupText,1500,form,Policy Limits
+5b0877cc504943a8288cd800,,53935,question,questionText,1500,form,Date of Commencement:
+5b0877e9504943645ebca388,,53936,question,questionText,1500,form,Expiration Date:
+5b0878a15049433068146f56,,53938,question,questionText,1500,form,Combined Single Limit (Each accident)
+5b1575f62c0000540db240da,,70127,question,questionText,1500,form,Please upload your insurance certificate.
+5d713e4f3600008ac65beb3c,,86280,question,questionText,1500,form,Insurance Carrier:
+606f7f014400004cc1370045,,108582,question,description,1500,form,Used to provide instructions from Client
+606f7f014400004cc1370045,,108582,question,questionText,1500,form,Comments
+606f7f214400004cc1370047,,108583,question,description,1500,form,Date the instructions from Client expire
+606f7f214400004cc1370047,,108583,question,questionText,1500,form,VARIANCE Expiration Date
+62f53f4082eb52eab3c18fc6,,130555,question,questionText,1500,form,Currency used in Certificate of Insurance (COI)

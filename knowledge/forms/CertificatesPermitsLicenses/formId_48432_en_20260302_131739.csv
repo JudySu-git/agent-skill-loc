@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68f79fb3010000370082e151,68f79e800100005f0082e142,48432,questionGroup,questionGroupText,48432,form,Schneider Electric EPC Specific Insurance Variance Global Form
+68f79ed9010000af06204034,,185098,question,description,48432,form,Please include verbiage from your agreement with Schneider Electric to support the variance process
+68f79ed9010000af06204034,,185098,question,questionText,48432,form,What service (Scope of Work) are you providing under contract?
+68f79eeb0100004503204035,,185099,question,questionText,48432,form,Who is your primary Schneider Electric Point of Contact?
+68f79efb0100003b0082e14e,,185100,question,description,48432,form,**Example documentation that will be accepted.**\nProject Scope\nActive Contract / Agreement\nSchneider Electric Project Manager Contact Information
+68f79efb0100003b0082e14e,,185100,question,questionText,48432,form,Please upload documentation that defines the insurance terms between your organization and Schneider Electric

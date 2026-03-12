@@ -1,0 +1,24 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87754a36b6c4c63546810,69a87754a36b6c4c6354680f,51187,questionGroup,questionGroupText,51187,form,振动,
+69a87754a36b6c4c63546808,,200249,question,description,51187,form,"振动暴露限值（手臂：5 m/s²，全身：1.15 m/s²，以8小时为平均周期）不得超出。如超出限值，须立即采取纠正措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">噪声与振动法规 (VOLV)，第3条第(1)-(3)款</a>",
+69a87754a36b6c4c63546808,,200249,question,questionText,51187,form,暴露限值,
+69a87754a36b6c4c63546809,,200250,question,description,51187,form,"触发（行动）值（手臂：2.5 m/s²，全身：0.5 m/s²）用于确定何时须实施额外防护措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">噪声与振动法规 (VOLV)，第4条第(1)款、第9条第(3)款</a>",
+69a87754a36b6c4c63546809,,200250,question,questionText,51187,form,超出限值时的应对措施,
+69a87754a36b6c4c6354680a,,200251,question,description,51187,form,"当评估无法可靠排除超出适用限值的可能时，须采用具有代表性的测量结果。测量方法须综合考虑持续时间、强度及环境，以产生清晰且具代表性的暴露结果。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">关于保护员工免受噪声和振动危害的法规</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">噪声与振动法规 (VOLV)，第6条第(2)款、第6条第(3)款第2项</a>",
+69a87754a36b6c4c6354680a,,200251,question,questionText,51187,form,暴露评估,
+69a87754a36b6c4c6354680b,,200252,question,description,51187,form,"必须采用最先进的工艺和工作场所设计措施，将振动暴露降至最低。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第66条第(1)、(3)款</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">噪声与振动法规 (VOLV)，第11条、第13条第(1)(2)款、第14条第(2)款</a>",
+69a87754a36b6c4c6354680b,,200252,question,questionText,51187,form,控制措施（工程控制、行政管理措施和/或个人防护装备）,
+69a87754a36b6c4c6354680c,,200253,question,description,51187,form,"高暴露区域须进行标识，并在有充分理由时划定限制进入区域。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法，第65条第(4)款第4项</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">噪声与振动法规 (VOLV)，第14条第(3)款</a>",
+69a87754a36b6c4c6354680c,,200253,question,questionText,51187,form,限制进入管控,
+69a87754a36b6c4c6354680d,,200254,question,description,51187,form,"振动危害培训须涵盖相关风险及防护措施。当超出触发值时须进行培训，内容须包括控制措施、限值、评估结果、健康影响、安全操作方法及个人防护装备 (PPE) 的使用。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2006_II_22/BGBLA_2006_II_22.html"">噪声与振动法规 (VOLV)，第8条第(1)款</a>",
+69a87754a36b6c4c6354680d,,200254,question,questionText,51187,form,培训,
+69a87754a36b6c4c6354680e,,200255,question,questionText,51187,form,<div></div>,

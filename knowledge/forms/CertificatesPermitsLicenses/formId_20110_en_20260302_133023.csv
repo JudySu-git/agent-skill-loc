@@ -1,0 +1,43 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4bb4ede0504943377326ad88,,3511,question,linkResources!download.action?id=1035,20110,form,Blank IRS Form W-9
+4bb4ede0504943377326ad88,,3511,question,linkresources!download.action?id=1035,20110,form,Blank IRS Form W-9
+4bb4ede0504943377326ad88,,3511,question,questionText,20110,form,
+566a0fc150494332df67c710,566a0fc150494332df67c710,8140,questionGroup,questionGroupText,20110,form,United States
+5c182cfe37000091e4bfa022,5ab497262e000015005d1e76,20110,questionGroup,questionGroupText,20110,form,Avetta PQF - United States Company Tax Information
+525d965f5049437020b4d7ca,,21173,question,questionText,20110,form,"By signing below, you confirm that the W-9 form provided is correct and accurate."
+5669fd60504943b5a2923bfd,,35615,question,questionText,20110,form,Select the following identification number that your company has:
+5669fd60504943b5a2923bfd,,35615,question,responseOptionempidnumber,20110,form,Employer Identification Number
+5669fd60504943b5a2923bfd,,35615,question,responseOptionother,20110,form,Other
+5669fd60504943b5a2923bfd,,35615,question,responseOptiontin,20110,form,Tax Identification Number (TIN)
+5669fd8e504943aa449ca1f2,,35616,question,questionText,20110,form,Please enter the number:
+5669fdc8504943105c4be922,,35617,question,questionText,20110,form,US 1099 Class:
+5669fdc8504943105c4be922,,35617,question,responseOptionCrop_Insurance_Proceeds,20110,form,Box 10 - Crop insurance proceeds
+5669fdc8504943105c4be922,,35617,question,responseOptionExcess_Golden_Parachute_Payments,20110,form,Box 13 - Excess golden parachute payments
+5669fdc8504943105c4be922,,35617,question,responseOptionPayerDirectSales5kForResale,20110,form,"Box 9 - Payer made direct sales of $5,000 or more of consumer products to a buyer (recipient) for resale"
+5669fdc8504943105c4be922,,35617,question,responseOptionattorney,20110,form,Box 14 - Gross Proceeds Paid to an Attorney
+5669fdc8504943105c4be922,,35617,question,responseOptionfedtax,20110,form,Box 4 - Federal Tax Witheld
+5669fdc8504943105c4be922,,35617,question,responseOptionfishingboat,20110,form,Box 5 - Fishing Boat Proceeds
+5669fdc8504943105c4be922,,35617,question,responseOptionmed,20110,form,Box 6 - Medical and Health Care Payments
+5669fdc8504943105c4be922,,35617,question,responseOptionnonemp,20110,form,Box 7 - Non-Employee Compensation
+5669fdc8504943105c4be922,,35617,question,responseOptionnotapplicable,20110,form,Not Applicable
+5669fdc8504943105c4be922,,35617,question,responseOptionotherincome,20110,form,Box 3 - Other Income
+5669fdc8504943105c4be922,,35617,question,responseOptionrents,20110,form,Box 1 - Rents
+5669fdc8504943105c4be922,,35617,question,responseOptionroyalties,20110,form,Box 2 - Royalties
+5669fdc8504943105c4be922,,35617,question,responseOptionsubpayments,20110,form,Box 8 - Substitute Payments in-Lieu of Dividends or Interest
+566a05515049436ae3dfe06c,,35623,question,questionText,20110,form,Upload your company's W-8BEN-E here:
+566a06de5049433eb869f90d,,35624,question,questionText,20110,form,Tax certificate type:
+566a06de5049433eb869f90d,,35624,question,responseOptionother,20110,form,Other
+566a06de5049433eb869f90d,,35624,question,responseOptionw8ben,20110,form,W-8BEN
+566a06de5049433eb869f90d,,35624,question,responseOptionw8bene,20110,form,W-8BEN-E
+566a06de5049433eb869f90d,,35624,question,responseOptionw9,20110,form,W-9
+566a071450494355b35e9836,,35625,question,questionText,20110,form,Tax exempt?
+566a071450494355b35e9836,,35625,question,responseOptionNo,20110,form,No
+566a071450494355b35e9836,,35625,question,responseOptionYes,20110,form,Yes
+566a0750504943c7dddb8a91,,35626,question,questionText,20110,form,Exemption certification number:
+566a07ea504943f21c37eee5,,35627,question,description,20110,form,"Example: Exemption certificate, non-profit documentation, etc."
+566a07ea504943f21c37eee5,,35627,question,questionText,20110,form,Upload any other supporting tax forms:
+5674acd050494349e525068b,,35690,question,questionText,20110,form,Upload your company's W-8BEN here.
+5674adb8504943bb6f5a1bd1,,35691,question,questionText,20110,form,Upload your company's tax certificate here.
+5674aee5504943703b22d5a3,,35692,question,questionText,20110,form,"By signing below, you confirm that the W-8BEN form provided is correct and accurate."
+5674af1b5049433d79bae0c8,,35693,question,questionText,20110,form,"By signing below, you confirm that the W-8BENE form provided is correct and accurate."
+5674af63504943fdf6d52c26,,35694,question,questionText,20110,form,"By signing below, you confirm that your company's tax form provided is correct and accurate."

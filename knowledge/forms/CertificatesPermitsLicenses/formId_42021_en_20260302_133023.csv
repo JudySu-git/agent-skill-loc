@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce494a010000500021f973,662fec911b00005d00b6e5d5,42021,questionGroup,description,42021,form,You are getting this category because you selected a license in the Avetta PQF - Queensland License.
+66ce494a010000500021f973,662fec911b00005d00b6e5d5,42021,questionGroup,questionGroupText,42021,form,Queensland Contractor License - Electrical
+662fec911b00002900b6e5d6,,153367,question,questionText,42021,form,Please upload your license:\n
+662fec911b00002900b6e5d6,,153367,question,responseOption1,42021,form,Yes
+662fec911b00002900b6e5d6,,153367,question,responseOption2,42021,form,No
+662fec911b00002d00b6e5d8,,153368,question,questionText,42021,form,License Number:
+662fec911b00002d00b6e5d8,,153368,question,responseOption1,42021,form,Yes
+662fec911b00002d00b6e5d8,,153368,question,responseOption2,42021,form,No
+662fec911b00002f00b6e5d7,,153369,question,questionText,42021,form,Expiration Date:
+662fec911b00002f00b6e5d7,,153369,question,responseOption1,42021,form,Yes
+662fec911b00002f00b6e5d7,,153369,question,responseOption2,42021,form,No

@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+696a7598010000b000c68d74,696a725601000062001ad9f5,50382,questionGroup,questionGroupText,50382,form,Washington D.C. Contractor License
+696a725601000047001ad9f6,696a725601000047001ad9f6,50383,questionGroup,questionGroupText,50382,form,Washington D.C. Contractor License
+696a72560100003f001ad9f7,,197098,question,description,50382,form,"<a href = ""https://govservices.dcra.dc.gov/oplaportal/Home/GetLicenseSearchDetails""target=""_BLANK_"">DC Department of Licensing and Consumer Protection (DLCP)</a>"
+696a72560100003f001ad9f7,,197098,question,questionText,50382,form,Washington D.C. Contractor License Number:\n
+696a72560100003f001ad9f9,,197099,question,questionText,50382,form,Washington D.C. License Expiration Date:\n
+696a72560100003f001ad9f8,,197100,question,questionText,50382,form,Please upload a copy of your Washington D.C. license:\n
+696a725601000047001ad9fa,,197101,question,questionText,50382,form,Please enter the URL of the license:
+696a725601000047001ad9fb,,197102,question,description,50382,form,"<a href = ""https://govservices.dcra.dc.gov/oplaportal/Home/GetLicenseSearchDetails""target=""_BLANK_"">DC Department of Licensing and Consumer Protection (DLCP)</a>"
+696a725601000047001ad9fb,,197102,question,questionText,50382,form,Washington D.C. Contractor License Classifications:\n
+696a725601000047001ad9fc,,197103,question,description,50382,form,A URL will make verification quicker if provided\n
+696a725601000047001ad9fc,,197103,question,questionText,50382,form,"Upload a copy of your license, and or provide the URL of the license."
+696a725601000047001ad9fc,,197103,question,responseOption1,50382,form,File Upload
+696a725601000047001ad9fc,,197103,question,responseOption2,50382,form,URL

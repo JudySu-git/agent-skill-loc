@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67bce1270100003a0030cdf9,67250d4a0100004d00e83b3e,43833,questionGroup,questionGroupText,43833,form,"Chile Instituto de Seguridad Laboral (ISL) / Mutual Insurance Organization (Mutual de Seguridad, ACHS, IST)"
+672a44240100004f003f1ff6,672512730100004c00e83b72,43834,questionGroup,questionGroupText,43833,form,"Chile Instituto de Seguridad Laboral (ISL) / Mutual Insurance Organization (Mutual de Seguridad, ACHS, IST)"
+6725127e0100004d00e83b76,,161367,question,description,43833,form,"<a href = ""https://www.bcn.cl/leychile/navegar?idNorma=28650""target=""BLANK"">https://www.bcn.cl/leychile/navegar?idNorma=28650\n</a>\n"
+6725127e0100004d00e83b76,,161367,question,questionText,43833,form,"Is your company required to comply with accident insurance through Instituto de Seguridad Laboral (ISL) or a mutual insurance organization (Mutual de Seguridad, ACHS, IST) in Chile?"
+6725127e0100004d00e83b76,,161367,question,responseOption1,43833,form,Yes
+6725127e0100004d00e83b76,,161367,question,responseOption2,43833,form,No
+67251295010000500077dafc,,161368,question,questionText,43833,form,Please explain.
+67251295010000500077dafc,,161368,question,responseOption1,43833,form,Yes
+67251295010000500077dafc,,161368,question,responseOption2,43833,form,No
+672512a5010000330077dafe,,161369,question,description,43833,form,The certificate must be issued within 3 months prior to the submission date.\n
+672512a5010000330077dafe,,161369,question,questionText,43833,form,"Please upload a copy of your Certificado de Cotizaciones de Seguro Social, Certificado de Afiliación y Cotizaciones, or Certificado de Cumplimiento de Obligaciones."
+672512a5010000330077dafe,,161369,question,responseOption1,43833,form,Yes
+672512a5010000330077dafe,,161369,question,responseOption2,43833,form,No

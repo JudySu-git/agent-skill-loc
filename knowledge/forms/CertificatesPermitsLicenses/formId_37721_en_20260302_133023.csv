@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+690bbce20100003b00e9e8bd,6375593d160000c006b693a2,37721,questionGroup,description,37721,form,"You are getting this category because you selected ISO 50001:2018 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+690bbce20100003b00e9e8bd,6375593d160000c006b693a2,37721,questionGroup,questionGroupText,37721,form,ISO 50001 - Energy Management Systems
+6375593d160000c006b693a3,,133549,question,questionText,37721,form,Please upload your ISO 50001:2018 - Energy Management Systems — Requirements with Guidance for use certificate:
+6375593d160000c006b693a4,,133550,question,questionText,37721,form,Please enter the certificate expiration date:\n

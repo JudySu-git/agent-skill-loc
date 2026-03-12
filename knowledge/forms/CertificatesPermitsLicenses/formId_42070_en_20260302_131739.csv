@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4d600100002f0021f9cc,66302dcd1b00002e00b6e885,42070,questionGroup,description,42070,form,You are getting this category because you selected a license in the Avetta PQF - Western Australia License.
+66ce4d600100002f0021f9cc,66302dcd1b00002e00b6e885,42070,questionGroup,questionGroupText,42070,form,Western Australia Contractor License - Pest Management
+66302dcd1b00003100b6e886,,153511,question,questionText,42070,form,Please upload your license:\n
+66302dcd1b00003100b6e886,,153511,question,responseOption1,42070,form,Yes
+66302dcd1b00003100b6e886,,153511,question,responseOption2,42070,form,No
+66302dcd1b00006000b6e887,,153512,question,questionText,42070,form,Expiration Date:
+66302dcd1b00006000b6e887,,153512,question,responseOption1,42070,form,Yes
+66302dcd1b00006000b6e887,,153512,question,responseOption2,42070,form,No
+66302dcd1b00006000b6e888,,153513,question,questionText,42070,form,License Number:
+66302dcd1b00006000b6e888,,153513,question,responseOption1,42070,form,Yes
+66302dcd1b00006000b6e888,,153513,question,responseOption2,42070,form,No

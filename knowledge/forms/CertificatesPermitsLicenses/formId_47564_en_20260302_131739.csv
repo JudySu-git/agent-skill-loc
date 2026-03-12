@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68bef5dd010000ea00014503,68bef3c2010000b6000144f8,47564,questionGroup,description,47564,form,This requirement is triggered because you indicated your organization maintains valid Slovakia Statutory Labor Insurance documentation in the Slovakia Statutory Labor Insurance Applicability Assessment questionnaire.
+68bef5dd010000ea00014503,68bef3c2010000b6000144f8,47564,questionGroup,questionGroupText,47564,form,Slovakia Certificate of No Arrears
+68bef461010000b6000144fd,,180337,question,description,47564,form,
+68bef461010000b6000144fd,,180337,question,questionText,47564,form,Please upload your company's valid Certificate of No Arrears to confirm your company's compliance with Slovakia's Social Insurance Agency.

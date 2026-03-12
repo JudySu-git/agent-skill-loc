@@ -1,0 +1,319 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5ba28d3f32000013edee3497,5024b50d504943101d402279,2822,questionGroup,questionGroupText,20099,form,Sustainability Compliance
+5024b553504943105571421c,5024b553504943105571421c,2823,questionGroup,questionGroupText,20099,form,Human Rights
+60e4a041420000e0979d1103,5024b722504943154be6b1e1,2824,questionGroup,questionGroupText,20099,form,Labor
+5fd7eb002a00006f88abb6ef,5024b91b504943719763e0b7,2825,questionGroup,questionGroupText,20099,form,Equalities
+5024bf0d50494367491c2b13,5024bf0d50494367491c2b13,2827,questionGroup,questionGroupText,20099,form,Environment
+5ba28d3f32000013edee3496,5024c1ac50494336f9ae6008,2828,questionGroup,questionGroupText,20099,form,Anti-Corruption
+51e56cb55049434c752f33c7,51e56cb55049434c752f33c7,4117,questionGroup,questionGroupText,20099,form,Forced Labor
+60e4a041420000e0979d1102,51e56e16504943e6a32397a6,4118,questionGroup,questionGroupText,20099,form,Child Labor
+51eff08a50494388cea8e411,51eff08a50494388cea8e411,4188,questionGroup,questionGroupText,20099,form,Working Conditions
+51eff26a504943b2087f7fc2,51eff26a504943b2087f7fc2,4189,questionGroup,questionGroupText,20099,form,Freedom of Association & Non-Retaliation
+528294c9504943339b51e747,528294c9504943339b51e747,4770,questionGroup,questionGroupText,20099,form,Supplemental
+5282a228504943eeb2d3c7e4,5282a228504943eeb2d3c7e4,4771,questionGroup,questionGroupText,20099,form,Environmental Management System
+5282a23a50494356cf16b47f,5282a23a50494356cf16b47f,4772,questionGroup,questionGroupText,20099,form,Environmental Regulatory Compliance
+5282a24b5049434d183d5e6a,5282a24b5049434d183d5e6a,4773,questionGroup,questionGroupText,20099,form,Management of Environmental Impacts
+5024b5fa504943279d524724,,12796,question,description,20099,form,"<a href=""https://www.ohchr.org/en/universal-declaration-of-human-rights"" target=""_BLANK"">Universal Declaration of Human Rights</a>"
+5024b5fa504943279d524724,,12796,question,questionText,20099,form,Does your organization abide by the business relevant principles of the Universal Declaration of Human Rights (UDHR)?
+5024b5fa504943279d524724,,12796,question,responseOptionNo,20099,form,No
+5024b5fa504943279d524724,,12796,question,responseOptionYes,20099,form,Yes
+5024b64c50494324899fdc1c,,12797,question,description,20099,form,"Others are defined as those who have any association with your organization. <br> <a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-1"" target=""_BLANK"">UNGC Principle 1: Human Rights</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-2"" target=""_BLANK"">UNGC Principle 2: Human Rights</a>"
+5024b64c50494324899fdc1c,,12797,question,questionText,20099,form,Does your company actively seek to ensure that your organization is not complicit in human rights abuses committed by others?
+5024b64c50494324899fdc1c,,12797,question,responseOptionNo,20099,form,No
+5024b64c50494324899fdc1c,,12797,question,responseOptionYes,20099,form,Yes
+5024b65d504943c1aee8d5d4,,12798,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-1"" target=""_BLANK"">UNGC Principle 1: Human Rights</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-2"" target=""_BLANK"">UNGC Principle 2: Human Rights</a>"
+5024b65d504943c1aee8d5d4,,12798,question,questionText,20099,form,Is your organization committed to respecting the human rights of its employees?
+5024b65d504943c1aee8d5d4,,12798,question,responseOptionNo,20099,form,No
+5024b65d504943c1aee8d5d4,,12798,question,responseOptionYes,20099,form,Yes
+5024b66f5049435720c921c4,,12799,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-1"" target=""_BLANK"">UNGC Principle 1: Human Rights</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-2"" target=""_BLANK"">UNGC Principle 2: Human Rights</a>"
+5024b66f5049435720c921c4,,12799,question,questionText,20099,form,Does your organization seek to award business to suppliers and business partners who are committed to act fairly and with integrity towards their stakeholders?
+5024b66f5049435720c921c4,,12799,question,responseOptionNo,20099,form,No
+5024b66f5049435720c921c4,,12799,question,responseOptionYes,20099,form,Yes
+5024b688504943f8468dfd28,,12800,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-1"" target=""_BLANK"">UNGC Principle 1: Human Rights</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-2"" target=""_BLANK"">UNGC Principle 2: Human Rights</a>"
+5024b688504943f8468dfd28,,12800,question,questionText,20099,form,Does your organization aim to make a positive contribution to the societies where it operates?
+5024b688504943f8468dfd28,,12800,question,responseOptionNo,20099,form,No
+5024b688504943f8468dfd28,,12800,question,responseOptionYes,20099,form,Yes
+5024b69a504943bd1d179a18,,12801,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-1"" target=""_BLANK"">UNGC Principle 1: Human Rights</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-2"" target=""_BLANK"">UNGC Principle 2: Human Rights</a>"
+5024b69a504943bd1d179a18,,12801,question,questionText,20099,form,Does your company have an established monitoring system to ensure that your organizations human rights policies are being implemented?
+5024b69a504943bd1d179a18,,12801,question,responseOptionNo,20099,form,No
+5024b69a504943bd1d179a18,,12801,question,responseOptionYes,20099,form,Yes
+5024b98050494386a12d854f,,12809,question,description,20099,form,"<a href=""https://www.equalityhumanrights.com/en"" target=""_BLANK"">Equality and Human Rights Commission</a>\n<a href=""https://www.equalityhumanrights.com/en/advice-and-guidance/equality-act-guidance"" target=""_BLANK"">Equality Act Guidance</a>"
+5024b98050494386a12d854f,,12809,question,questionText,20099,form,"Is it your policy as an employer and a service provider to comply with your statutory obligations under the Equalities Legislation, Codes of Practice and relevant best practice guide?"
+5024b98050494386a12d854f,,12809,question,responseOptionNo,20099,form,No
+5024b98050494386a12d854f,,12809,question,responseOptionYes,20099,form,Yes
+5024b9905049432fb555fb86,,12810,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-3"" target=""_BLANK"">UNGC Principle 3: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4"" target=""_BLANK"">UNGC Principle 4: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-6"" target=""_BLANK"">UNGC Principle 6: Labour</a>"
+5024b9905049432fb555fb86,,12810,question,questionText,20099,form,"Does your company have a non-discrimination policy in place (policy on equal treatment of employees irrespective of criteria such as gender, sexual orientation, race or religion)?"
+5024b9905049432fb555fb86,,12810,question,responseOptionNo,20099,form,No
+5024b9905049432fb555fb86,,12810,question,responseOptionYes,20099,form,Yes
+5024b9a65049431ec977fb33,,12811,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-3"" target=""_BLANK"">UNGC Principle 3: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4"" target=""_BLANK"">UNGC Principle 4: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-6"" target=""_BLANK"">UNGC Principle 6: Labour</a>"
+5024b9a65049431ec977fb33,,12811,question,questionText,20099,form,In the last three years have any findings of unlawful discrimination been made against your organization by any court or industrial or employment tribunal or equivalent body?
+5024b9a65049431ec977fb33,,12811,question,responseOptionNo,20099,form,No
+5024b9a65049431ec977fb33,,12811,question,responseOptionYes,20099,form,Yes
+5024b9cc504943fb8ca1cd1a,,12812,question,questionText,20099,form,Please provide details of any findings:
+5024b9df504943265baa6427,,12813,question,description,20099,form,"<a href=""https://www.equalityhumanrights.com/en"" target=""_BLANK"">Equality and Human Rights Commission</a>"
+5024b9df504943265baa6427,,12813,question,linkhttps://www.equalityhumanrights.com/en,20099,form,Equality and Human Rights Commission
+5024b9df504943265baa6427,,12813,question,questionText,20099,form,"In the last three years has your organization been subject to a compliance action by the <a href=""https://www.equalityhumanrights.com/en"" target=""_BLANK"">Equality and Human Rights Commission</a> or an equivalent body on grounds of alleged unlawful discrimination?"
+5024b9df504943265baa6427,,12813,question,responseOptionNo,20099,form,No
+5024b9df504943265baa6427,,12813,question,responseOptionYes,20099,form,Yes
+5024ba0f504943f0e1c5390d,,12814,question,questionText,20099,form,Please provide details of any investigations:
+5024ba33504943f77995b6a5,,12815,question,questionText,20099,form,What steps did your organization take as a result of that finding or investigation?
+5024ba55504943e623cd8cce,,12816,question,questionText,20099,form,Please provide details/evidence of remedial action:
+5024ba6f5049435155fe0788,,12817,question,questionText,20099,form,Please provide copies of any relevant policies or written statements/evidence of relevant actions:
+5024ba825049433223c09bda,,12818,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-3"" target=""_BLANK"">UNGC Principle 3: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4"" target=""_BLANK"">UNGC Principle 4: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-6"" target=""_BLANK"">UNGC Principle 6: Labour</a>"
+5024ba825049433223c09bda,,12818,question,questionText,20099,form,What does your organization do to ensure that equality and diversity is embedded within your organization?
+5024ba825049433223c09bda,,12818,question,responseOptionNo,20099,form,No
+5024ba825049433223c09bda,,12818,question,responseOptionYes,20099,form,Yes
+5024baef5049434ca01d4d74,,12819,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-3"" target=""_BLANK"">UNGC Principle 3: Labour</a>\n<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4"" target=""_BLANK"">UNGC Principle 4: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-6"" target=""_BLANK"">UNGC Principle 6: Labour</a>"
+5024baef5049434ca01d4d74,,12819,question,questionText,20099,form,"Do you actively promote good practice in terms of eliminating discrimination in all forms through: \nInstruction to your employees/managers concerned with recruitment, selection, transfer, training, remuneration and promotion?"
+5024baef5049434ca01d4d74,,12819,question,responseOptionNo,20099,form,No
+5024baef5049434ca01d4d74,,12819,question,responseOptionYes,20099,form,Yes
+5024bb005049438ca27744f4,,12820,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-3"" target=""_BLANK"">UNGC Principle 3: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4"" target=""_BLANK"">UNGC Principle 4: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-6"" target=""_BLANK"">UNGC Principle 6: Labour</a>"
+5024bb005049438ca27744f4,,12820,question,questionText,20099,form,"Making guidance or policy documents concerning how the organization embeds equality and diversity available to employees/sub-contractors, recognized trade unions or other representative groups of employees?"
+5024bb005049438ca27744f4,,12820,question,responseOptionNo,20099,form,No
+5024bb005049438ca27744f4,,12820,question,responseOptionYes,20099,form,Yes
+5024bb145049439e70b26514,,12821,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-3"" target=""_BLANK"">UNGC Principle 3: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4"" target=""_BLANK"">UNGC Principle 4: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-6"" target=""_BLANK"">UNGC Principle 6: Labour</a>"
+5024bb145049439e70b26514,,12821,question,questionText,20099,form,Appropriate recruitment advertisements or other literature?
+5024bb145049439e70b26514,,12821,question,responseOptionNo,20099,form,No
+5024bb145049439e70b26514,,12821,question,responseOptionYes,20099,form,Yes
+5024bb31504943a0a7fc13f7,,12822,question,description,20099,form,
+5024bb31504943a0a7fc13f7,,12822,question,questionText,20099,form,Does your company comply with all applicable laws on employment and occupation discrimination?
+5024bb31504943a0a7fc13f7,,12822,question,responseOptionNo,20099,form,No
+5024bb31504943a0a7fc13f7,,12822,question,responseOptionYes,20099,form,Yes
+5024bf515049436569ed4602,,12836,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+5024bf515049436569ed4602,,12836,question,questionText,20099,form,Has your organization established procedures on how to access and identify environmental regulatory requirements (e.g. as required under ISO 14 001)?
+5024bf515049436569ed4602,,12836,question,responseOptionNo,20099,form,No
+5024bf515049436569ed4602,,12836,question,responseOptionYes,20099,form,Yes
+5024bf645049439220f2d0be,,12837,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+5024bf645049439220f2d0be,,12837,question,questionText,20099,form,"Do these procedures cover all levels of environmental regulatory requirements (national, provincial and local)?"
+5024bf645049439220f2d0be,,12837,question,responseOptionNo,20099,form,No
+5024bf645049439220f2d0be,,12837,question,responseOptionYes,20099,form,Yes
+5024bf7c50494327b2ae0815,,12838,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+5024bf7c50494327b2ae0815,,12838,question,questionText,20099,form,Are procedures in place to regularly monitor compliance with applicable regulatory requirements?
+5024bf7c50494327b2ae0815,,12838,question,responseOptionNo,20099,form,No
+5024bf7c50494327b2ae0815,,12838,question,responseOptionYes,20099,form,Yes
+5024bf8c504943ff121142e6,,12839,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+5024bf8c504943ff121142e6,,12839,question,questionText,20099,form,Has your company stated your Management commitment & expectations to environmental protection and management?
+5024bf8c504943ff121142e6,,12839,question,responseOptionNo,20099,form,No
+5024bf8c504943ff121142e6,,12839,question,responseOptionYes,20099,form,Yes
+5024bf9d504943191739ae58,,12840,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+5024bf9d504943191739ae58,,12840,question,questionText,20099,form,How does your company ensure it has competent advice with regard to environmental management?
+5024bf9d504943191739ae58,,12840,question,responseOptionNo,20099,form,No
+5024bf9d504943191739ae58,,12840,question,responseOptionYes,20099,form,Yes
+5024bfad504943c5204c9677,,12841,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+5024bfad504943c5204c9677,,12841,question,questionText,20099,form,"Has your company defined environmental responsibilities for managers, supervisors & workers?"
+5024bfad504943c5204c9677,,12841,question,responseOptionNo,20099,form,No
+5024bfad504943c5204c9677,,12841,question,responseOptionYes,20099,form,Yes
+5024bfbc504943ff8f4809c9,,12842,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+5024bfbc504943ff8f4809c9,,12842,question,questionText,20099,form,"Does your company regularly monitor, evaluate and revise your policies and procedures?"
+5024bfbc504943ff8f4809c9,,12842,question,responseOptionNo,20099,form,No
+5024bfbc504943ff8f4809c9,,12842,question,responseOptionYes,20099,form,Yes
+5024bfce5049433982376fce,,12843,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+5024bfce5049433982376fce,,12843,question,questionText,20099,form,Has your organization established procedures to identify the potential for emergency situations and accidents including the respective response measures?
+5024bfce5049433982376fce,,12843,question,responseOptionNo,20099,form,No
+5024bfce5049433982376fce,,12843,question,responseOptionYes,20099,form,Yes
+5024bfe450494358a714f43e,,12844,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+5024bfe450494358a714f43e,,12844,question,questionText,20099,form,Are procedures in place to determine which of the environmental aspects have or can have significant impacts on the environment?
+5024bfe450494358a714f43e,,12844,question,responseOptionNo,20099,form,No
+5024bfe450494358a714f43e,,12844,question,responseOptionYes,20099,form,Yes
+5024bff55049433ecfeb3266,,12845,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+5024bff55049433ecfeb3266,,12845,question,questionText,20099,form,Please describe your organization's policy implementation plan. How does your company aim to discharge relevant legal responsibilities and how are these responsibilities communicated to the workforce?
+5024bff55049433ecfeb3266,,12845,question,responseOptionNo,20099,form,No
+5024bff55049433ecfeb3266,,12845,question,responseOptionYes,20099,form,Yes
+5024c004504943fb8c382768,,12846,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+5024c004504943fb8c382768,,12846,question,questionText,20099,form,Please describe your organizations's system for monitoring suppliers Environmental Management Policy performance.
+5024c004504943fb8c382768,,12846,question,responseOptionNo,20099,form,No
+5024c004504943fb8c382768,,12846,question,responseOptionYes,20099,form,Yes
+5024c015504943e61ff62724,,12847,question,questionText,20099,form,Has your organization been prosecuted by any environmental regulator or an authority (including local authority)?
+5024c015504943e61ff62724,,12847,question,responseOptionNo,20099,form,No
+5024c015504943e61ff62724,,12847,question,responseOptionYes,20099,form,Yes
+5024c08b50494324439ad310,,12850,question,questionText,20099,form,Please give details:
+5024c0c1504943a9537e29f6,,12851,question,questionText,20099,form,Do you have mechanisms in place for communicating environmental issues with your workforce and supply chain? \nEnvironmental briefings
+5024c0c1504943a9537e29f6,,12851,question,responseOptionNo,20099,form,No
+5024c0c1504943a9537e29f6,,12851,question,responseOptionYes,20099,form,Yes
+5024c0d15049436ad68bb1b9,,12852,question,questionText,20099,form,Environmental meetings
+5024c0d15049436ad68bb1b9,,12852,question,responseOptionNo,20099,form,No
+5024c0d15049436ad68bb1b9,,12852,question,responseOptionYes,20099,form,Yes
+5024c0e350494379f5aeb717,,12853,question,questionText,20099,form,Tool box talks
+5024c0e350494379f5aeb717,,12853,question,responseOptionNo,20099,form,No
+5024c0e350494379f5aeb717,,12853,question,responseOptionYes,20099,form,Yes
+5024c0f3504943fbb2ee5743,,12854,question,questionText,20099,form,Daily activity briefings
+5024c0f3504943fbb2ee5743,,12854,question,responseOptionNo,20099,form,No
+5024c0f3504943fbb2ee5743,,12854,question,responseOptionYes,20099,form,Yes
+5024c104504943b49cac0a30,,12855,question,questionText,20099,form,Newsletters
+5024c104504943b49cac0a30,,12855,question,responseOptionNo,20099,form,No
+5024c104504943b49cac0a30,,12855,question,responseOptionYes,20099,form,Yes
+5024c1155049433e5c13b043,,12856,question,description,20099,form,"Please refer to the procedure described at the  following link: <a href=""http://www.iso14001requirements.com/what-is-environmental-aspects-and-impacts/"" target=""_BLANK"">ISO 14001 Requirements</a> <br> <a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+5024c1155049433e5c13b043,,12856,question,questionText,20099,form,"Has your organization established procedures on how to identify environmental aspects of its activities, products or services?"
+5024c1155049433e5c13b043,,12856,question,responseOptionNo,20099,form,No
+5024c1155049433e5c13b043,,12856,question,responseOptionYes,20099,form,Yes
+5024c125504943875b79b94e,,12857,question,questionText,20099,form,Are environmental controls integrated into Safe Systems of Work/ Method Statements?
+5024c125504943875b79b94e,,12857,question,responseOptionNo,20099,form,No
+5024c125504943875b79b94e,,12857,question,responseOptionYes,20099,form,Yes
+5024c24050494325d93513ea,,12860,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-10"" \ntarget=""_Blank"">UNGC Principle 10: Anti-Corruption</a>"
+5024c24050494325d93513ea,,12860,question,questionText,20099,form,Is your corporate conduct based on your commitment to act professionally; fairly and with integrity and conduct all of your business in as honest and ethical manner?
+5024c24050494325d93513ea,,12860,question,responseOptionNo,20099,form,No
+5024c24050494325d93513ea,,12860,question,responseOptionYes,20099,form,Yes
+5024c279504943b04d499e88,,12862,question,questionText,20099,form,"Has your company or any of your owners, corporate officers, directors or senior managers ever been accused or convicted of violating anti-bribery or anti-corruption law?"
+5024c279504943b04d499e88,,12862,question,responseOptionNo,20099,form,No
+5024c279504943b04d499e88,,12862,question,responseOptionYes,20099,form,Yes
+5024c259504943bddfd81bda,,12864,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-10"" \ntarget=""_Blank"">UNGC Principle 10: Anti-Corruption</a>"
+5024c259504943bddfd81bda,,12864,question,questionText,20099,form,"Does your anti-corruption policy apply to all employees, officers and directors of your organization and its subsidiaries and affiliates worldwide?"
+5024c259504943bddfd81bda,,12864,question,responseOptionNo,20099,form,No
+5024c259504943bddfd81bda,,12864,question,responseOptionYes,20099,form,Yes
+5024c3845049436e9892291c,,12866,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-10"" target=""_BLANK"">UNGC Principle 10: Anti-Corruption</a>"
+5024c3845049436e9892291c,,12866,question,questionText,20099,form,"Is your policy regularly reviewed in respect of its suitability, adequacy and effectiveness and improvements made as appropriate?"
+5024c3845049436e9892291c,,12866,question,responseOptionNo,20099,form,No
+5024c3845049436e9892291c,,12866,question,responseOptionYes,20099,form,Yes
+51e56cdb504943e87ed0669e,,19101,question,description,20099,form,<a href='/file-preview.html?fileId=2020-01-29T18:18:59.912Z~~~Sample_Forced_Labor_Policy.docx\n
+51e56cdb504943e87ed0669e,,19101,question,questionText,20099,form,"Does your company have a policy that prohibits forced labor in its various forms (e.g. debt bondage, compelled involuntary overtime, forced prison labor, trafficked labor)?"
+51e56cdb504943e87ed0669e,,19101,question,responseOptionNo,20099,form,No
+51e56cdb504943e87ed0669e,,19101,question,responseOptionYes,20099,form,Yes
+51e56d02504943588529663b,,19102,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4"" target=""_BLANK"">UNGC Principle 4: Labour</a>"
+51e56d02504943588529663b,,19102,question,questionText,20099,form,Are all workers free to leave company premises after their shifts?
+51e56d02504943588529663b,,19102,question,responseOptionNo,20099,form,No
+51e56d02504943588529663b,,19102,question,responseOptionYes,20099,form,Yes
+51e56d15504943a56fcefad2,,19103,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4"" target=""_BLANK"">UNGC Principle 4: Labour</a>"
+51e56d15504943a56fcefad2,,19103,question,questionText,20099,form,Does your company have employees who work to pay off a debt owed to the company or recruiting agencies?
+51e56d15504943a56fcefad2,,19103,question,responseOptionNo,20099,form,No
+51e56d15504943a56fcefad2,,19103,question,responseOptionYes,20099,form,Yes
+51e56d2b5049432a97380597,,19104,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4"" target=""_BLANK"">UNGC Principle 4: Labour</a>"
+51e56d2b5049432a97380597,,19104,question,questionText,20099,form,"Does your company require workers to deposit original documents (e.g. travel documents, identity cards) with the company?"
+51e56d2b5049432a97380597,,19104,question,responseOptionNo,20099,form,No
+51e56d2b5049432a97380597,,19104,question,responseOptionYes,20099,form,Yes
+51e56e8f5049438efca62582,,19106,question,description,20099,form," <a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a>"
+51e56e8f5049438efca62582,,19106,question,questionText,20099,form,Does your company have a policy regarding the minimum age for employment that complies with national laws but is no less than 15 years of age?
+51e56e8f5049438efca62582,,19106,question,responseOptionNo,20099,form,No
+51e56e8f5049438efca62582,,19106,question,responseOptionYes,20099,form,Yes
+51e56ec050494391c5d66937,,19107,question,description,20099,form,"This includes performing background checks that include age verification when hiring new employees and having your employees provide a verified document. <br> <a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a>"
+51e56ec050494391c5d66937,,19107,question,questionText,20099,form,"Does your company check the age of all workers through birth certificates, other official identification or alternative procedures?"
+51e56ec050494391c5d66937,,19107,question,responseOptionNo,20099,form,No
+51e56ec050494391c5d66937,,19107,question,responseOptionYes,20099,form,Yes
+51e56f895049438abe227d84,,19108,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a>"
+51e56f895049438abe227d84,,19108,question,questionText,20099,form,"If a child is found to be working in your company, does your company have a procedure to remove the child from work but protect its well-being and help sustain the family’s income?"
+51e56f895049438abe227d84,,19108,question,responseOptionNA,20099,form,N/A
+51e56f895049438abe227d84,,19108,question,responseOptionNo,20099,form,No
+51e56f895049438abe227d84,,19108,question,responseOptionYes,20099,form,Yes
+51e56fa2504943dc37159de2,,19109,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a>"
+51e56fa2504943dc37159de2,,19109,question,questionText,20099,form,"Does your company have guidelines in place that specify and prohibit tasks which are hazardous or harmful to health, safety or morals for workers under the age of 18?"
+51e56fa2504943dc37159de2,,19109,question,responseOptionNA,20099,form,N/A
+51e56fa2504943dc37159de2,,19109,question,responseOptionNo,20099,form,No
+51e56fa2504943dc37159de2,,19109,question,responseOptionYes,20099,form,Yes
+51e571435049431f3b1f4031,,19111,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+51e571435049431f3b1f4031,,19111,question,questionText,20099,form,Are the findings of legal compliance checks (audits) documented and communicated to senior/top management?
+51e571435049431f3b1f4031,,19111,question,responseOptionNo,20099,form,No
+51e571435049431f3b1f4031,,19111,question,responseOptionYes,20099,form,Yes
+51e571735049432e8d7b043e,,19112,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+51e571735049432e8d7b043e,,19112,question,questionText,20099,form,Does your organization have procedures in place that define how to address non-compliance cases (e.g. corrective actions)?
+51e571735049432e8d7b043e,,19112,question,responseOptionNo,20099,form,No
+51e571735049432e8d7b043e,,19112,question,responseOptionYes,20099,form,Yes
+51e5718b504943db6be80ee4,,19113,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+51e5718b504943db6be80ee4,,19113,question,questionText,20099,form,"Does your organization have all required environmental permits and licenses for all of your activities, products and services?"
+51e5718b504943db6be80ee4,,19113,question,responseOptionNo,20099,form,No
+51e5718b504943db6be80ee4,,19113,question,responseOptionYes,20099,form,Yes
+51e571b0504943f60625f4ce,,19114,question,description,20099,form,"Did your company define and document environmental objectives and targets related to its significant environmental impacts (link to question 23.6.3.2)? <a href=""http://www.iso14001requirements.com/what-is-environmental-aspects-and-impacts/"" target=""_BLANK"">ISO 14001 Requirements</a>\r\n <br> <a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+51e571b0504943f60625f4ce,,19114,question,questionText,20099,form,Has your organization defined and documented environmental objectives and targets to reduce environmental impacts?
+51e571b0504943f60625f4ce,,19114,question,responseOptionNo,20099,form,No
+51e571b0504943f60625f4ce,,19114,question,responseOptionYes,20099,form,Yes
+51e571cb5049439bb3a8a545,,19115,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+51e571cb5049439bb3a8a545,,19115,question,questionText,20099,form,Has your organization established a management program for achieving these objectives and targets?
+51e571cb5049439bb3a8a545,,19115,question,responseOptionNo,20099,form,No
+51e571cb5049439bb3a8a545,,19115,question,responseOptionYes,20099,form,Yes
+51e571e5504943781e4ea8f2,,19116,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+51e571e5504943781e4ea8f2,,19116,question,questionText,20099,form,Has your organization established procedures to periodically check/audit the management of environmental impacts and the effectiveness of the management system?
+51e571e5504943781e4ea8f2,,19116,question,responseOptionNo,20099,form,No
+51e571e5504943781e4ea8f2,,19116,question,responseOptionYes,20099,form,Yes
+51e574a950494310f148ba97,,19117,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-10"" \ntarget=""_Blank"">UNGC Principle 10: Anti-Corruption</a>"
+51e574a950494310f148ba97,,19117,question,questionText,20099,form,Does your company have an anti-bribery or corruption policy?
+51e574a950494310f148ba97,,19117,question,responseOptionNo,20099,form,No
+51e574a950494310f148ba97,,19117,question,responseOptionYes,20099,form,Yes
+51efee01504943f4de96bacc,,19654,question,questionText,20099,form,"If not applicable, please provide an explanation."
+51efee2a504943f30a1b048c,,19655,question,questionText,20099,form,"If not applicable, please provide an explanation."
+51eff11450494337013271ba,,19666,question,description,20099,form,"AMOUNT, specify if per day or per month.If there is no official minimum wage, please put 0. <br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4"" target=""_BLANK"">UNGC Principle 4: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a><br>"
+51eff11450494337013271ba,,19666,question,questionText,20099,form,"What is the legal minimum wage in your area of operation (in the local currency; for the lowest employment category, if several)?"
+51eff142504943e9de6b4097,,19668,question,description,20099,form,"To find your industry standard rate, please visit the Department of Labour website within your country, region or jurisdiction.<br><br>AMOUNT, specify if per day or per month.If there is no official minimum wage, please put 0.<br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4"" target=""_BLANK"">UNGC Principle 4: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a><br>"
+51eff142504943e9de6b4097,,19668,question,questionText,20099,form,"What is the industry standard rate (e.g. through applicable collective bargaining agreements) in your area of operation (in the local currency; for the lowest employment category, if several)?"
+51eff18c5049433aa7c3847b,,19669,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4"" target=""_BLANK"">UNGC Principle 4: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a><br>"
+51eff18c5049433aa7c3847b,,19669,question,questionText,20099,form,Does your company pay wages that are equal or above legal minimum and industry standard rates to all your workers (including piecemeal rates)?
+51eff18c5049433aa7c3847b,,19669,question,responseOptionNo,20099,form,No
+51eff18c5049433aa7c3847b,,19669,question,responseOptionYes,20099,form,Yes
+51eff1a3504943419fcd8fd2,,19670,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4"" target=""_BLANK"">UNGC Principle 4: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a><br>"
+51eff1a3504943419fcd8fd2,,19670,question,questionText,20099,form,"Does your company pay all applicable statutory benefits (e.g. social security, health) fully, regularly and timely?"
+51eff1a3504943419fcd8fd2,,19670,question,responseOptionNo,20099,form,No
+51eff1a3504943419fcd8fd2,,19670,question,responseOptionYes,20099,form,Yes
+51eff1ca5049435ef052044c,,19671,question,questionText,20099,form,Has your company experienced lawsuits or complaints related to conditions of work in the last 12 months?
+51eff1ca5049435ef052044c,,19671,question,responseOptionNo,20099,form,No
+51eff1ca5049435ef052044c,,19671,question,responseOptionYes,20099,form,Yes
+51eff1e45049437586c6d779,,19673,question,questionText,20099,form,Are potential complaints addressed and resolved in a timely and transparent manner?
+51eff1e45049437586c6d779,,19673,question,responseOptionNo,20099,form,No
+51eff1e45049437586c6d779,,19673,question,responseOptionYes,20099,form,Yes
+51eff28f504943dfbccdd621,,19677,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-3"" target=""_BLANK"">UNGC Principle 3: Labour</a>"
+51eff28f504943dfbccdd621,,19677,question,questionText,20099,form,Does your company have a policy recognizing the freedom of association of your workers?
+51eff28f504943dfbccdd621,,19677,question,responseOptionNo,20099,form,No
+51eff28f504943dfbccdd621,,19677,question,responseOptionYes,20099,form,Yes
+51eff2a350494313fdd6cbf3,,19679,question,description,20099,form,"This refers to meetings with authorized representatives as needed, and when applicable, with unions, to discuss working conditions. <br> <a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-3"" target=""_BLANK"">UNGC Principle 3: Labour</a>"
+51eff2a350494313fdd6cbf3,,19679,question,questionText,20099,form,"Does your company engage in collective bargaining with workers’ organizations (regular consultations with authorized representatives regarding working conditions, remuneration and other matters of mutual concern)?"
+51eff2a350494313fdd6cbf3,,19679,question,responseOptionNo,20099,form,No
+51eff2a350494313fdd6cbf3,,19679,question,responseOptionYes,20099,form,Yes
+51eff2b95049432602f9aae4,,19680,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-3"" target=""_BLANK"">UNGC Principle 3: Labour</a>"
+51eff2b95049432602f9aae4,,19680,question,questionText,20099,form,Does your company ensure that employees are not harassed by superiors or co-workers on the grounds of union-membership?
+51eff2b95049432602f9aae4,,19680,question,responseOptionNo,20099,form,No
+51eff2b95049432602f9aae4,,19680,question,responseOptionYes,20099,form,Yes
+51eff2d750494379a820be68,,19682,question,questionText,20099,form,"In the past year, have any of your workers lost employment or been threatened to do so based on union-membership or because they filed complaints?"
+51eff2d750494379a820be68,,19682,question,responseOptionNo,20099,form,No
+51eff2d750494379a820be68,,19682,question,responseOptionYes,20099,form,Yes
+5c182bc137000004dfbfa006,5ab3dfe1230000140047ba22,20099,questionGroup,questionGroupText,20099,form,Avetta PQF - Sustainability Compliance
+520ba983504943bd5cf30327,,20196,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-10"" target=""_BLANK"">UNGC Principle 10: Anti-Corruption</a>"
+520ba983504943bd5cf30327,,20196,question,questionText,20099,form,"Public officials: Does your company have a policy or documented procedure regulating the provision of gifts, entertainment, travel, lodging, hospitalities, donations, grants and other advantages to public officials?"
+520ba983504943bd5cf30327,,20196,question,responseOptionNo,20099,form,No
+520ba983504943bd5cf30327,,20196,question,responseOptionYes,20099,form,Yes
+520ba9a350494396f8f9d38a,,20197,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-10"" target=""_BLANK"">UNGC Principle 10: Anti-Corruption</a>"
+520ba9a350494396f8f9d38a,,20197,question,questionText,20099,form,"Private third parties: Does your company have a policy or documented procedure regulating the provision of gifts, entertainment, travel, lodging, hospitalities, donations, grants and other advantages to private third parties?"
+520ba9a350494396f8f9d38a,,20197,question,responseOptionNo,20099,form,No
+520ba9a350494396f8f9d38a,,20197,question,responseOptionYes,20099,form,Yes
+520ba9cd5049433c36ff96e1,,20198,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-10"" target=""_BLANK"">UNGC Principle 10: Anti-Corruption</a>"
+520ba9cd5049433c36ff96e1,,20198,question,questionText,20099,form,"Employees: Does your company have a policy or documented procedure regulating the acceptance of gifts, entertainment, travel, lodging, hospitalities, donations, grants and other advantages by your employees?"
+520ba9cd5049433c36ff96e1,,20198,question,responseOptionNo,20099,form,No
+520ba9cd5049433c36ff96e1,,20198,question,responseOptionYes,20099,form,Yes
+520ba9f6504943794e3fc2dd,,20199,question,description,20099,form,"<a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-10"" target=""_BLANK"">UNGC Principle 10: Anti-Corruption</a>\n\n"
+520ba9f6504943794e3fc2dd,,20199,question,questionText,20099,form,Does your company regularly train your employees on anti-bribery and corruption law and/or company policy?
+520ba9f6504943794e3fc2dd,,20199,question,responseOptionNo,20099,form,No
+520ba9f6504943794e3fc2dd,,20199,question,responseOptionYes,20099,form,Yes
+5217a7845049438c61d91786,,20493,question,description,20099,form,
+5217a7845049438c61d91786,,20493,question,questionText,20099,form,Has your organization established an Environmental Management System that is externally certified?
+5217a7845049438c61d91786,,20493,question,responseOptionNo,20099,form,No
+5217a7845049438c61d91786,,20493,question,responseOptionYes,20099,form,Yes
+5217a7c0504943a851ae503c,,20494,question,questionText,20099,form,"If yes, please provide an explanation as to how and who externally certifies your Environmental Management System:"
+5217ab3a5049436e9dfe20c2,,20495,question,questionText,20099,form,Are any of these related to Workplace Violence?
+5217ab3a5049436e9dfe20c2,,20495,question,responseOptionNo,20099,form,No
+5217ab3a5049436e9dfe20c2,,20495,question,responseOptionYes,20099,form,Yes
+52278d5f50494373d16e1b42,,20581,question,description,20099,form,"<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-7\r\n"" target=""_BLANK"">UNGC Principle 7: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-8"" target=""_BLANK"">UNGC Principle 8: Environment</a><br>\r\n<a href="" https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-9"" target=""_BLANK"">UNGC Principle 9: Environment</a>"
+52278d5f50494373d16e1b42,,20581,question,questionText,20099,form,How often is compliance with regard to the identified regulatory requirements checked (This is to be done in the context of an internal or external legal compliance audits or reviews)?
+52278d5f50494373d16e1b42,,20581,question,responseOptionNever,20099,form,Never
+52278d5f50494373d16e1b42,,20581,question,responseOptionOnceperyear,20099,form,Once per year
+52278d5f50494373d16e1b42,,20581,question,responseOptionTwotimesormoreinoneyear,20099,form,Two times or more in one year
+52559621504943c6acc74416,,21154,question,questionText,20099,form,Has your organization received notices of violation issued by authorities related to environmental non-compliances within the last 3 years?
+52559621504943c6acc74416,,21154,question,responseOptionCaseshavebeensolved,20099,form,Cases have been solved
+52559621504943c6acc74416,,21154,question,responseOptionNonoticesorpenaltieshavebeenrecieved,20099,form,No notices or penalties have been received
+52559621504943c6acc74416,,21154,question,responseOptionNotyetresolved,20099,form,Not yet resolved
+52559658504943904e6bbb2e,,21155,question,questionText,20099,form,Please give details:
+5255967d50494359bd6d7fb2,,21156,question,questionText,20099,form,Has your organization received notices of penalties issued by authorities related to environmental non-compliances within the last 3 years?
+5255967d50494359bd6d7fb2,,21156,question,responseOptionCaseshavebeensolved,20099,form,Cases have been solved
+5255967d50494359bd6d7fb2,,21156,question,responseOptionNonoticesorpenaltieshavebeenrecieved,20099,form,No notices or penalties have been received
+5255967d50494359bd6d7fb2,,21156,question,responseOptionNotyetresolved,20099,form,Not yet resolved
+5255969c5049431647f6e5a1,,21157,question,questionText,20099,form,Please give details:
+5283ce4f504943a364f4fffb,,21830,question,description,20099,form,"Non-discrimination and anti-retaliation trainings for all supervisors and employees is highly encouraged. Trainings should review how to prevent discrimination and harassment and how to properly report it. Companies should emphasize that discrimination against applicants and employees based on gender, sexual orientation, race and/or religion will not be tolerated. <br> <a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-3"" target=""_BLANK"">UNGC Principle 3: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-4"" target=""_BLANK"">UNGC Principle 4: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-5"" target=""_BLANK"">UNGC Principle 5: Labour</a><br><a href=""https://www.unglobalcompact.org/what-is-gc/mission/principles/principle-6"" target=""_BLANK"">UNGC Principle 6: Labour</a>"
+5283ce4f504943a364f4fffb,,21830,question,questionText,20099,form,"Does your company train relevant managers (e.g. hiring managers) in non-discrimination (equal treatment of employees irrespective of criteria such as gender, sexual orientation, race or religion)?"
+5283ce4f504943a364f4fffb,,21830,question,responseOptionNo,20099,form,No
+5283ce4f504943a364f4fffb,,21830,question,responseOptionYes,20099,form,Yes
+5670a35e504943ac0935bf82,,35663,question,questionText,20099,form,"Does your company own production sites? Production site refers to a factory, facilities and/or premises used to manufacture goods/products."
+5670a35e504943ac0935bf82,,35663,question,responseOptionNo,20099,form,No
+5670a35e504943ac0935bf82,,35663,question,responseOptionYes,20099,form,Yes
+5670a3b9504943d8a0b9e5c3,,35664,question,questionText,20099,form,Does your company outsource the production of the goods your company generates? This does not apply to your company if you only resell goods manufactured by a third party.
+5670a3b9504943d8a0b9e5c3,,35664,question,responseOptionNo,20099,form,No
+5670a3b9504943d8a0b9e5c3,,35664,question,responseOptionYes,20099,form,Yes
+5670a408504943179a1851f5,,35665,question,questionText,20099,form,"Does your company have an outsourcing process to ensure the production sites of your company's supplier are compliant with environment regulatory requirements (national, provincial and local)?"
+5670a408504943179a1851f5,,35665,question,responseOptionNo,20099,form,No
+5670a408504943179a1851f5,,35665,question,responseOptionYes,20099,form,Yes
+5670a45250494322cb550161,,35666,question,questionText,20099,form,"Does your company have an outsourcing process to ensure your company's supplier has in place, an environmental management system to identify, measure and mitigate environmental impact of its activities, products or services?"
+5670a45250494322cb550161,,35666,question,responseOptionNo,20099,form,No
+5670a45250494322cb550161,,35666,question,responseOptionYes,20099,form,Yes

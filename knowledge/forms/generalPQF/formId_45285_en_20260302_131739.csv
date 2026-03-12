@@ -1,0 +1,121 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67f84ffd0100003800231449,67f8354b0100004100db84f8,45285,questionGroup,questionGroupText,45285,form,Avetta PQF - Conflict Minerals
+67f835800100003f00db8501,67f835800100003f00db8500,45286,questionGroup,questionGroupText,45285,form,Policies and Controls
+67f835880100007b00db8505,67f835880100007b00db8504,45287,questionGroup,questionGroupText,45285,form,Products and Smelters
+67f835910100007700e7adc0,,167585,question,description,45285,form,This may also be referred to as an ethical sourcing or responsible sourcing policy.
+67f835910100007700e7adc0,,167585,question,questionText,45285,form,Does your organization have a responsible minerals sourcing policy? 
+67f835910100007700e7adc0,,167585,question,responseOption1,45285,form,"Yes, and the company performs regular supply chain due dilligence around responsible sourcing policy adherence"
+67f835910100007700e7adc0,,167585,question,responseOption2,45285,form,"Yes, and the company has included responsible sourcing requirements into supplier Code of Conduct"
+67f835910100007700e7adc0,,167585,question,responseOption3,45285,form,Yes
+67f835910100007700e7adc0,,167585,question,responseOption4,45285,form,"No, but the company plans to implement a poicy in the next 12 months"
+67f835910100007700e7adc0,,167585,question,responseOption5,45285,form,No
+67f835b10100003b00db850a,,167586,question,questionText,45285,form,Please upload your organization's responsible minerals sourcing policy.
+67f835b10100003b00db850a,,167586,question,responseOption1,45285,form,Yes
+67f835b10100003b00db850a,,167586,question,responseOption2,45285,form,No
+67f835bf0100007b00db850d,,167587,question,questionText,45285,form,Is your organization's responsible minerals sourcing policy publicly available on your website?
+67f835bf0100007b00db850d,,167587,question,responseOption1,45285,form,Yes
+67f835bf0100007b00db850d,,167587,question,responseOption2,45285,form,No
+67f835c90100007b00db850e,,167588,question,questionText,45285,form,Please provide the link to your organization's publicly available responsible minerals sourcing policy.
+67f835c90100007b00db850e,,167588,question,responseOption1,45285,form,Yes
+67f835c90100007b00db850e,,167588,question,responseOption2,45285,form,No
+67f835d40100007b00e7adc5,,167589,question,description,45285,form,"3TG refers to a group of four minerals that are critical in various industries: Tin (Sn), Tungsten (W), Tantalum (Ta), and Gold (Au).                               Non-exhaustive examples of third-party audit programs include Responsible Minerals Assurance Process (RMAP), Responsible Jewellery Council (RJC) Certification, The Conflict-Free Sourcing Initiative (CFSI), and SME Conflict-Free Smelter Program (CFS)"
+67f835d40100007b00e7adc5,,167589,question,questionText,45285,form,Does your organization require your direct suppliers to source the 3TG from smelters whose due diligence practices have been validated by an independent third-party audit program? 
+67f835d40100007b00e7adc5,,167589,question,responseOption1,45285,form,Yes
+67f835d40100007b00e7adc5,,167589,question,responseOption2,45285,form,No
+67f835d40100007b00e7adc5,,167589,question,responseOption3,45285,form,Not Applicable
+67f835e60100007900db8512,,167590,question,questionText,45285,form,Which third party audit program(s) or schema(s) does your organization utilize for this process?
+67f835e60100007900db8512,,167590,question,responseOption1,45285,form,Yes
+67f835e60100007900db8512,,167590,question,responseOption2,45285,form,No
+67f835f20100005800e7adc9,,167591,question,description,45285,form,"Due diligence measures for responsible sourcing include but are not limited to Supply Chain Risk Mapping, Supplier Questionnaires, Collaboration with NGOs and Advocacy Groups, On Site Audits, 3rd Party Audits, Conflict-free certification, Supplier Training Programs, Internal Staff Training, Corrective Action, and Dispute and Remediation Measures."
+67f835f20100005800e7adc9,,167591,question,questionText,45285,form,"Besides your organization's responsible minerals sourcing policy, have you implemented due diligence measures for responsible sourcing?"
+67f835f20100005800e7adc9,,167591,question,responseOption1,45285,form,Yes
+67f835f20100005800e7adc9,,167591,question,responseOption2,45285,form,"No, but we intend to implement measures within the next 12 months"
+67f835f20100005800e7adc9,,167591,question,responseOption3,45285,form,No
+67f836020100003b00db8514,,167592,question,questionText,45285,form,What due diligence measures does your company take? Select all that apply. 
+67f836020100003b00db8514,,167592,question,responseOption1,45285,form,Supply Chain Risk Mapping
+67f836020100003b00db8514,,167592,question,responseOption10,45285,form,Internal Staff Training
+67f836020100003b00db8514,,167592,question,responseOption11,45285,form,Corrective Action
+67f836020100003b00db8514,,167592,question,responseOption12,45285,form,Dispute and Remediation Measures
+67f836020100003b00db8514,,167592,question,responseOption13,45285,form,Other
+67f836020100003b00db8514,,167592,question,responseOption2,45285,form,Supplier Questionnaires
+67f836020100003b00db8514,,167592,question,responseOption3,45285,form,Collaboration with NGOs and Advocacy Groups
+67f836020100003b00db8514,,167592,question,responseOption4,45285,form,On Site Audits
+67f836020100003b00db8514,,167592,question,responseOption5,45285,form,3rd Party Audits
+67f836020100003b00db8514,,167592,question,responseOption6,45285,form,Supplier Code of Conduct (e.g. contract clauses)
+67f836020100003b00db8514,,167592,question,responseOption7,45285,form,"Track & Trace (e.g. IoT, blockchain, etc)"
+67f836020100003b00db8514,,167592,question,responseOption8,45285,form,Conflict-free certification
+67f836020100003b00db8514,,167592,question,responseOption9,45285,form,Supplier Training Programs
+67f836370100003600db8517,,167593,question,questionText,45285,form,"If other, please provide details:"
+67f836370100003600db8517,,167593,question,responseOption1,45285,form,Yes
+67f836370100003600db8517,,167593,question,responseOption2,45285,form,No
+67f836400100003f00db8519,,167594,question,questionText,45285,form,Does your organization review due diligence information received from your suppliers against your company’s expectations? 
+67f836400100003f00db8519,,167594,question,responseOption1,45285,form,Yes
+67f836400100003f00db8519,,167594,question,responseOption2,45285,form,No
+67f836400100003f00db8519,,167594,question,responseOption3,45285,form,Other
+67f836520100007600e7add2,,167595,question,questionText,45285,form,"If other, please provide details:"
+67f836520100007600e7add2,,167595,question,responseOption1,45285,form,Yes
+67f836520100007600e7add2,,167595,question,responseOption2,45285,form,No
+67f8365b0100007900db851b,,167596,question,questionText,45285,form,What does that review process look like or entail? 
+67f8365b0100007900db851b,,167596,question,responseOption1,45285,form,Yes
+67f8365b0100007900db851b,,167596,question,responseOption2,45285,form,No
+67f836650100005800e7add8,,167597,question,questionText,45285,form,Does your organization conduct Conflict Minerals survey(s) of your relevant suppliers? 
+67f836650100005800e7add8,,167597,question,responseOption1,45285,form,Yes
+67f836650100005800e7add8,,167597,question,responseOption2,45285,form,No
+67f836650100005800e7add8,,167597,question,responseOption3,45285,form,I don't know
+67f836750100007600e7adda,,167598,question,questionText,45285,form,What percentage of relevant suppliers have responded to your most recent supply chain survey?  
+67f8368d0100007900db851e,,167599,question,questionText,45285,form,Is your organization required to file an annual conflict minerals disclosure? 
+67f8368d0100007900db851e,,167599,question,responseOption1,45285,form,Yes
+67f8368d0100007900db851e,,167599,question,responseOption2,45285,form,No
+67f836940100004000db8521,,167600,question,description,45285,form,"Intentionally added is commonly known as the deliberate use of a substance, or in this case metal, in the formulation of a product where continued presence is desired to provide a specific characteristic, appearance or quality. While the SEC does not define the phrase “intentionally added” in the final rule*, the rule’s preamble states: “[W]e agree that being intentionally added, rather than being a naturally-occurring by-product, is a significant factor in determining whether a conflict mineral is ‘‘necessary to the functionality or production’’ of a product. This is true regardless of who intentionally added the conflict mineral to the product so long as it is contained in the product. [D]etermining whether a conflict mineral is considered ‘‘necessary’’ to a product should not depend on whether the conflict mineral is added directly to the product by the issuer or whether it is added to a component of the product that the issuer receives from a third party. Instead, the issuer should ‘report on the totality of the product and work with suppliers to comply with the requirements.’ Therefore, in determining whether a conflict mineral is ‘‘necessary’’ to a product, an issuer must consider any conflict mineral contained in its product, even if that conflict mineral is only in the product because it was included as part of a component of the product that was manufactured originally by a third party.” *(56296 Federal Register / Vol. 77, No. 177 / Wednesday, September 12, 2012 / Rules and Regulations)"
+67f836940100004000db8521,,167600,question,questionText,45285,form,Is any 3TG intentionally added or used in the product(s) or in the production process?
+67f836940100004000db8521,,167600,question,responseOption1,45285,form,Yes
+67f836940100004000db8521,,167600,question,responseOption2,45285,form,No
+67f836940100004000db8521,,167600,question,responseOption3,45285,form,I don't know
+67f836940100004000db8521,,167600,question,responseOption4,45285,form,Other
+67f836c60100007500e7addf,,167602,question,questionText,45285,form,"Please upload a list of relevant products that includes Manufacturer’s Product Number, Manufacturer’s Product Name, and any needed comments"
+67f836c60100007500e7addf,,167602,question,responseOption1,45285,form,Yes
+67f836c60100007500e7addf,,167602,question,responseOption2,45285,form,No
+67f836cf0100007800db8535,,167603,question,questionText,45285,form,Which 3TG components are intentionally added or used in the product(s) or in the production process? Select all that apply. 
+67f836cf0100007800db8535,,167603,question,responseOption1,45285,form,Tantalum
+67f836cf0100007800db8535,,167603,question,responseOption2,45285,form,Tin
+67f836cf0100007800db8535,,167603,question,responseOption3,45285,form,Gold
+67f836cf0100007800db8535,,167603,question,responseOption4,45285,form,Tungsten
+67f836e50100003b00db8537,,167604,question,questionText,45285,form,Does any 3TG remain in the product?
+67f836e50100003b00db8537,,167604,question,responseOption1,45285,form,Yes
+67f836e50100003b00db8537,,167604,question,responseOption2,45285,form,No
+67f836e50100003b00db8537,,167604,question,responseOption3,45285,form,I don't know
+67f836f00100003b00db853a,,167605,question,questionText,45285,form,Which 3TG components remain in the product(s)? Select all that apply. 
+67f836f00100003b00db853a,,167605,question,responseOption1,45285,form,Tantalum
+67f836f00100003b00db853a,,167605,question,responseOption2,45285,form,Tin
+67f836f00100003b00db853a,,167605,question,responseOption3,45285,form,Gold
+67f836f00100003b00db853a,,167605,question,responseOption4,45285,form,Tungsten
+67f8370d0100004000db853c,,167606,question,description,45285,form,"Covered Country(ies) as defined by the United States Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010. These countries include the Democratic Republic of the Congo and the nine countries with which it shares an internationally recognized border: Angola, Burundi, Central African Republic, Republic of the Congo, Rwanda, South Sudan, Tanzania, Uganda, Zambia.  "
+67f8370d0100004000db853c,,167606,question,questionText,45285,form,Do any of the smelters in your supply chain source the 3TG from the covered countries? 
+67f8370d0100004000db853c,,167606,question,responseOption1,45285,form,Yes
+67f8370d0100004000db853c,,167606,question,responseOption2,45285,form,No
+67f8370d0100004000db853c,,167606,question,responseOption3,45285,form,I don't know
+67f8371c0100004000db853e,,167607,question,description,45285,form,"You can find the Responsible Minerals Initiative smelter's list here at: \n\n<a href = ""https://www.responsiblemineralsinitiative.org/facilities-lists/smelter-reference-lists-export/"" target = ""_BLANK_"" >Responsible Minerals Initiative</a>\n"
+67f8371c0100004000db853e,,167607,question,questionText,45285,form,"Which smelters in your supply chain source the 3TG from covered countires? Please upload a list of relevant smelters that includes Smelter's Identification Number, Address and Location, Contact and Contact Information, Name and Location of Mine, and if 100% of the smelter’s feedstock originate from recycled or scrap sources."
+67f837810100003f00db8547,,167608,question,description,45285,form,"Conflict-affected and high-risk areas are areas in a state of armed conflict, fragile post-conflict areas, as well as areas witnessing weak or non-existing governance and security, such as failed states, and widespread and systematic violations of international law, including human rights abuses. Link: \n\n<a href = ""https://www.responsiblemineralsinitiative.org/minerals-due-diligence/risk-management/conflict-affected-and-high-risk-areas/"" target = ""_BLANK_"" >Responsible Minerals Initiative</a>\n"
+67f837810100003f00db8547,,167608,question,questionText,45285,form,Do any of the smelters in your supply chain source the 3TG from conflict-affected and high-risk areas?
+67f837810100003f00db8547,,167608,question,responseOption1,45285,form,Yes
+67f837810100003f00db8547,,167608,question,responseOption2,45285,form,No
+67f837810100003f00db8547,,167608,question,responseOption3,45285,form,I don't know
+67f837a50100003b00e7ade7,,167609,question,description,45285,form,"You can find the Responsible Minerals Initiative smelter's list here at: \n\n<a href = ""https://www.responsiblemineralsinitiative.org/facilities-lists/smelter-reference-lists-export/"" target = ""_BLANK_"" >Responsible Minerals Initiative</a>\n"
+67f837a50100003b00e7ade7,,167609,question,questionText,45285,form,"Which smelters in your supply chain source the 3TG from conflict-affected and high-risk areas? Please upload a list of relevant smelters that includes Smelter's Identification Number, Address and Location, Contact and Contact Information, Name and Location of Mine, and if 100% of the smelter’s feedstock originate from recycled or scrap sources."
+67f837c80100007a00e7adeb,,167610,question,description,45285,form,"Recycled or scrap sources are recycled metals, that are reclaimed end-user or post-consumer products, or scrap processed metals created during product manufacturing. Recycled metal includes excess, obsolete, defective, and scrap metal materials that contain refined or processed metals that are appropriate to recycle in the production of tin, tantalum, tungsten and/or gold. Minerals partially processed, unprocessed or byproducts from other ores are not included in the definition of recycled metal."
+67f837c80100007a00e7adeb,,167610,question,questionText,45285,form,Does 100 percent of the 3TG (necessary to the functionality or production of your products) originate from recycled or scrap sources? Select all minerals that this is a true statement for.  
+67f837c80100007a00e7adeb,,167610,question,responseOption1,45285,form,Tantalum
+67f837c80100007a00e7adeb,,167610,question,responseOption2,45285,form,Tin
+67f837c80100007a00e7adeb,,167610,question,responseOption3,45285,form,Gold
+67f837c80100007a00e7adeb,,167610,question,responseOption4,45285,form,Tungsten
+67f837c80100007a00e7adeb,,167610,question,responseOption5,45285,form,None
+67f837eb0100004500db8550,,167611,question,questionText,45285,form,For which minerals have you identified all of the smelters supplying the 3TG to your supply chain? Select all minerals that this is a true statement for. 
+67f837eb0100004500db8550,,167611,question,responseOption1,45285,form,Tantalum
+67f837eb0100004500db8550,,167611,question,responseOption2,45285,form,Tin
+67f837eb0100004500db8550,,167611,question,responseOption3,45285,form,Gold
+67f837eb0100004500db8550,,167611,question,responseOption4,45285,form,Tungsten
+67f837eb0100004500db8550,,167611,question,responseOption5,45285,form,None
+67f8380c0100003f00db855a,,167612,question,questionText,45285,form,"If none, please expand"
+67f8380c0100003f00db855a,,167612,question,responseOption1,45285,form,Yes
+67f8380c0100003f00db855a,,167612,question,responseOption2,45285,form,No

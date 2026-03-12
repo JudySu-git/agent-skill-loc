@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4caa1f8750494394dd362016,4caa1f8750494394dd362016,1046,questionGroup,questionGroupText,1046,category,Saint-Gobain Corporation
+4caa21f1504943ec14bc0363,,4986,question,linkResources!download.action?id=1553,1046,category,Insurance Requirements
+4caa21f1504943ec14bc0363,,4986,question,linkresources!download.action?id=1553,1046,category,Insurance Requirements
+4caa21f1504943ec14bc0363,,4986,question,questionText,1046,category,"Certificate holder address should be: \nSaint-Gobain Corporation c/o Avetta \nP.O. Box 51387 \nIrvine, CA 92619-1387 \n \r\n \n\r\n"
+4caa21f1504943ec14bc0363,,4986,question,responseOptionNo,1046,category,No
+4caa21f1504943ec14bc0363,,4986,question,responseOptionYes,1046,category,Yes
+4caa209450494383435ab7aa,,5690,question,questionText,1046,category,Upload a Certificate of Insurance or other supporting documentation for this policy.

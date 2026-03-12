@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+606f7d524400004cc136f117,526aa2e550494392f9c6de98,4689,questionGroup,questionGroupText,20269,form,Policy Information
+526ea9c1504943d6fc24454e,526ea9c1504943d6fc24454e,4708,questionGroup,questionGroupText,20269,form,Policy Documentation
+606f7db84300008efba5eda2,5af877fe3400005d00f8fdd3,20269,questionGroup,questionGroupText,20269,form,WorkCover Queensland
+526ea4db5049439d168931e1,,21524,question,questionText,20269,form,Date of Commencement:
+526ea67f504943f53218ced9,,21532,question,questionText,20269,form,Expiration Date:
+526eabe95049439bdb50801b,,21540,question,questionText,20269,form,Please upload a Certificate of Currency or other supporting documentation for this policy.
+606f7d504400004cc136f116,,108578,question,description,20269,form,Used to provide instructions from Client
+606f7d504400004cc136f116,,108578,question,questionText,20269,form,Comments
+606f7d764300008efba5ec9b,,108579,question,description,20269,form,Date the instructions from Client expire
+606f7d764300008efba5ec9b,,108579,question,questionText,20269,form,VARIANCE Expiration Date

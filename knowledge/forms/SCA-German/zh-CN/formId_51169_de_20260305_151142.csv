@@ -1,0 +1,33 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87747a36b6c4c63546785,69a87747a36b6c4c63546784,51169,questionGroup,questionGroupText,51169,form,高压作业 - 潜水,
+69a87747a36b6c4c63546779,,200142,question,description,51169,form,"必须每日进行状态检查，设备须在使用前及每次潜水后进行检验。需进行年度检查，潜水设备须由具备资质的人员进行检验。轻型装备须每年检查两次。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第28(2)、37(1)、37(3)、39(8)条</a>",
+69a87747a36b6c4c63546779,,200142,question,questionText,51169,form,设备检查（使用前、潜水后半年度、年度）,
+69a87747a36b6c4c6354677a,,200143,question,description,51169,form,"必须保存设备检查和测试的检验记录。日志留存须将出水记录保存至少十年。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第28(2)、47(2)、50(1)条</a>",
+69a87747a36b6c4c6354677a,,200143,question,questionText,51169,form,记录,
+69a87747a36b6c4c6354677b,,200144,question,description,51169,form,"潜水作业须在作业开始前向劳动监察机构报告。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第29、47(1)1条</a>",
+69a87747a36b6c4c6354677b,,200144,question,questionText,51169,form,向劳动监察机构通报（作业前）,
+69a87747a36b6c4c6354677c,,200145,question,description,51169,form,"潜水前危险告知须涵盖船舶交通、水流、海底状况及已知水下危险。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第36(1)条</a>",
+69a87747a36b6c4c6354677c,,200145,question,questionText,51169,form,潜水前危险告知,
+69a87747a36b6c4c6354677d,,200146,question,description,51169,form,"潜水团队组成须至少包括两名潜水员和两名支援人员。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第30(1)条</a>",
+69a87747a36b6c4c6354677d,,200146,question,questionText,51169,form,潜水团队最低人员配置（两名潜水员及两名支援人员）,
+69a87747a36b6c4c6354677e,,200147,question,description,51169,form,"须由可靠且胜任的人员提供合格监督。潜水指令须仅由具备潜水员或信号员培训及经验的人员发出。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第30(1-2)条</a>",
+69a87747a36b6c4c6354677e,,200147,question,questionText,51169,form,合格监督,
+69a87747a36b6c4c6354677f,,200148,question,description,51169,form,"信号员职责须专门用于潜水员在水下期间的通信任务。信号员能力须包括职业安全专业知识及对信号与设备的熟悉程度。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第32(1)、32(3)条</a>",
+69a87747a36b6c4c6354677f,,200148,question,questionText,51169,form,信号员,
+69a87747a36b6c4c63546780,,200149,question,description,51169,form,"潜水团队成员须具备身体和精神健康状况，并经过相应角色培训。信号人员须具备职业安全方面的能力及对信号与设备的知识。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第30(3)、31(1)、32(1)、47(1)1条</a>",
+69a87747a36b6c4c63546780,,200149,question,questionText,51169,form,培训,
+69a87747a36b6c4c63546781,,200150,question,description,51169,form,"备用潜水员的待命须包括完整的应急设备及就绪状态。潜水作业期间须保持救援船的可用性。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第30(2)、34(4)条</a>",
+69a87747a36b6c4c63546781,,200150,question,questionText,51169,form,救援船可用性,
+69a87747a36b6c4c63546782,,200151,question,description,51169,form,"须满足潜水员最低年龄及体格适任要求。潜水员须年满21周岁且体格适任。年度体格认证须每12个月更新一次，以持续从事潜水作业。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">《压缩空气与潜水作业条例》第31(1)、31(3)条</a>",
+69a87747a36b6c4c63546782,,200151,question,questionText,51169,form,体格适任检查（年度）,
+69a87747a36b6c4c63546783,,200152,question,questionText,51169,form,<div></div>,

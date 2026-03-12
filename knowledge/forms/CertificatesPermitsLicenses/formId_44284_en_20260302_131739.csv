@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6786f913010000e8004c2a8c,677ff0500100004e006dab78,44284,questionGroup,questionGroupText,44284,form,Avetta PQF - Germany Work-Related Injury Insurance
+677ff09c01000037007db8f7,,164191,question,description,44284,form,https://www.dguv.de/de/bg-uk-lv/bgen/index.jsp
+677ff09c01000037007db8f7,,164191,question,questionText,44284,form,Is your company required to comply with Berufsgenossenschaften in Germany?
+677ff09c01000037007db8f7,,164191,question,responseOption1,44284,form,Yes
+677ff09c01000037007db8f7,,164191,question,responseOption2,44284,form,No
+677ff0b201000037007db8fa,,164192,question,questionText,44284,form,Please explain.
+677ff0b201000037007db8fa,,164192,question,responseOption1,44284,form,Yes
+677ff0b201000037007db8fa,,164192,question,responseOption2,44284,form,No
+677ff0bb01000030007db8fd,,164193,question,description,44284,form,The certificate must be issued within 3 months prior to the submission date.
+677ff0bb01000030007db8fd,,164193,question,questionText,44284,form,Please upload a copy of your Unbedenklichkeitsbescheinigung der Berufsgenossenschaft.
+677ff0bb01000030007db8fd,,164193,question,responseOption1,44284,form,Yes
+677ff0bb01000030007db8fd,,164193,question,responseOption2,44284,form,No

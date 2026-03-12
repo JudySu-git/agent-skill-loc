@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6577b6511a0000383b8592e3,6577ad43190000d139816c5c,40872,questionGroup,questionGroupText,40872,form,Republic of South Africa Compensation Fund
+6577adfd1a0000213b8591c6,,148087,question,description,40872,form,Most companies will register for the Compensation Fund through the government but companies in the building or mining industry can opt to register with FEMA (building) or RMA (mining) to be compliant.
+6577adfd1a0000213b8591c6,,148087,question,questionText,40872,form,Compensation Fund Carrier:
+6577adfd1a0000213b8591c6,,148087,question,responseOptioncompfund,40872,form,Compensation Fund
+6577adfd1a0000213b8591c6,,148087,question,responseOptionfema,40872,form,Federated Employers Mutual Assurance Company (FEMA)
+6577adfd1a0000213b8591c6,,148087,question,responseOptionrma,40872,form,Rand Mutual Assurance Company (RMA)
+6577ae1e1a0000ff3a8591c7,,148088,question,description,40872,form,The Registration Number can be located on the Letter of Good Standing.
+6577ae1e1a0000ff3a8591c7,,148088,question,questionText,40872,form,Registration Number:
+6577ae38190000d139816c62,,148089,question,questionText,40872,form,Letter of Good Standing:
+6577ae4e190000d739816c80,,148090,question,questionText,40872,form,Letter of Good Standing Issue Date:
+6577ae661a0000303b859216,,148091,question,questionText,40872,form,Letter of Good Standing Expiry Date:
+6577ae7e190000d039816c9d,,148092,question,description,40872,form,Please input the Nature of Business exactly as it appears on the Letter of Good Standing.
+6577ae7e190000d039816c9d,,148092,question,questionText,40872,form,Nature of Business:

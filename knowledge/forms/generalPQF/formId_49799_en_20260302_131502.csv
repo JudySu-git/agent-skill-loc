@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6941c63701000095016888c7,6940995d0100004c00a4b0c7,49799,questionGroup,description,49799,form,"If your company is required to comply with Guatemala's Occupational Health and Safety requirements, you will be asked to provide relevant documents in a subsequent form(s)."
+6941c63701000095016888c7,6940995d0100004c00a4b0c7,49799,questionGroup,questionGroupText,49799,form,Avetta PQF - Guatemala Occupational Health and Safety Plan Applicability Assessment
+694099e8010000ef0040ae9e,,193304,question,description,49799,form,
+694099e8010000ef0040ae9e,,193304,question,questionText,49799,form,Is your company required to comply with Guatemala's Occupational Health and Safety Plan requirements as regulated by the Ministry of Labor and IGSS and maintain applicable documentation to show compliance?
+694099e8010000ef0040ae9e,,193304,question,responseOption1,49799,form,Yes
+694099e8010000ef0040ae9e,,193304,question,responseOption2,49799,form,No
+69409a290100006100a4b0d3,,193305,question,questionText,49799,form,Please select from the following reason(s) your company is exempt from complying with Guatemala's Occupational Health and Safety Plan requirements.
+69409a290100006100a4b0d3,,193305,question,responseOption1,49799,form,The company is a sole proprietorship with no other employees.
+69409a290100006100a4b0d3,,193305,question,responseOption2,49799,form,Other
+69409a290100006100a4b0d3,,193305,question,responseOption3,49799,form,The company has fewer than 10 employees.
+69409a290100006100a4b0d3,,193305,question,responseOption4,49799,form,The company does not have any employees in Guatemala.
+69409a75010000630040aea2,,193306,question,questionText,49799,form,"If ""other"", please explain."
+69409a830100006200a4b0d7,,193307,question,questionText,49799,form,"By providing your electronic signature, you confirm that the information submitted in this questionnaire is true, complete, and accurate in accordance with Guatemalan legislation."

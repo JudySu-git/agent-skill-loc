@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+687e62090100003d001cc627,687e61ad01000040001cc620,46743,questionGroup,description,46743,form,"This requirement is triggered because you answered ""Yes"" to maintaining a China Hazardous Chemicals Work Safety License in the China Hazardous Chemicals Applicability Assessment."
+687e62090100003d001cc627,687e61ad01000040001cc620,46743,questionGroup,questionGroupText,46743,form,China Hazardous Chemicals Work Safety License
+687e61d30100003a0016d058,,176750,question,questionText,46743,form,Please upload your Hazardous Chemicals Work Safety License.
+687e61dd010000390016d05b,,176751,question,questionText,46743,form,Please enter the issue date of your Hazardous Chemicals Work Safety License.
+687e61e70100003a001cc623,,176752,question,description,46743,form,The standard validity period is three years.
+687e61e70100003a001cc623,,176752,question,questionText,46743,form,Please enter the expiration date of your Hazardous Chemicals Work Safety License.

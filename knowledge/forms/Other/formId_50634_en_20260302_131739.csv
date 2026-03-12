@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6984a6dd0100004100c96b6f,69838f470100003f00423254,50634,questionGroup,description,50634,form,This requirement is triggered because you indicated your organization maintains valid company registration information in the Iceland Company Registration Applicability Assessment questionnaire.
+6984a6dd0100004100c96b6f,69838f470100003f00423254,50634,questionGroup,questionGroupText,50634,form,Iceland Company Registration
+69838fcc010000460042325b,,197938,question,description,50634,form,
+69838fcc010000460042325b,,197938,question,questionText,50634,form,Please provide your company's Company Registration ID issued by the Iceland Revenue and Customs agency.
+698390b20100004100c962dc,,197939,question,description,50634,form,"The Official extract from the Business Register or Register of Limited Companies can be obtained directly from the <a href=""https://www.skatturinn.is/english/company-registration"" target=""blank"">Iceland Revenue and Customs agency</a> or the <a href=""https://www.skatturinn.is/fyrirtaekjaskra/thjonusta/upplysingar-ur-fyrirtaekjaskra/"" target=""blank"">Icelandic Business Register</a> via online request or contacting the agency."
+698390b20100004100c962dc,,197939,question,questionText,50634,form,Please provide your Official extract from the Business Register or Register of Limited Companies.

@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+636575a2180000e204c0c889,636575981700003d06cf888e,37459,questionGroup,questionGroupText,37459,form,Electrical Contractor Licences – Queensland
+636575981700003d06cf888f,,132392,question,questionText,37459,form,Please upload current Electrical Licence
+636575981700003d06cf8890,,132393,question,questionText,37459,form,Licence Number
+636575981700003d06cf8891,,132394,question,questionText,37459,form,Effective Date
+636575981700003d06cf8892,,132395,question,questionText,37459,form,Expiration Date

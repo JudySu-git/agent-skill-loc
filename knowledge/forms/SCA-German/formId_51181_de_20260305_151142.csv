@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87750a36b6c4c635467e2,69a87750a36b6c4c635467e1,51181,questionGroup,questionGroupText,51181,form,Risk Assessment and Hazard Prevention,
+69a8774fa36b6c4c635467dc,,200217,question,description,51181,form,"Workplace hazard identification and assessment covering design, equipment, materials, processes, and training must be performed.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 4(1), 5</a>",
+69a8774fa36b6c4c635467dc,,200217,question,questionText,51181,form,Hazard Assessment,
+69a8774fa36b6c4c635467dd,,200218,question,description,51181,form,"Hazard assessments must include documented preventive measures based on general prevention principles. Controls must address normal operations, emergency situations, and potential disruptions and be integrated at all organizational levels.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 4(1,3), 5, 7</a>",
+69a8774fa36b6c4c635467dd,,200218,question,questionText,51181,form,Documented Control Measures,
+69a8774fa36b6c4c635467de,,200219,question,description,51181,form,"Collective protection measures must be prioritized over individual protection.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 7(8)</a>",
+69a8774fa36b6c4c635467de,,200219,question,questionText,51181,form,Collective Protection Priority,
+69a8774fa36b6c4c635467df,,200220,question,description,51181,form,"Hazard assessments and preventive measures must be reviewed and updated as needed, including after accidents, occupational illnesses, psychosocial strain, changes in equipment or processes, or at the request of the authorities.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 4(4,5)</a>",
+69a8774fa36b6c4c635467df,,200220,question,questionText,51181,form,Assessment Updates,
+69a8774fa36b6c4c635467e0,,200221,question,questionText,51181,form,<div></div>,

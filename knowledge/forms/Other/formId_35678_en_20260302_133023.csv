@@ -1,0 +1,4 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+626039ea2e0000d0adb40caa,624209022f0000fa16850357,35677,questionGroup,questionGroupText,35678,form,"Quebec (Quebec Commission for Standards, Equity, Health and Safety at Work)"
+660c890f1c00006900c0132b,624209022f0000fa16850356,35678,questionGroup,questionGroupText,35678,form,Quebec Validation of Conformity
+6247236a300000b56a834d1f,,122545,question,questionText,35678,form,Please upload your Quebec Validation of Conformity within 30 days* (date of upload)

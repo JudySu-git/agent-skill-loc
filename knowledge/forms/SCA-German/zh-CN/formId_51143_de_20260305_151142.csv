@@ -1,0 +1,15 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87734a36b6c4c63546698,69a87734a36b6c4c63546697,51143,questionGroup,questionGroupText,51143,form,建筑 - 设备,
+69a87733a36b6c4c63546692,,199963,question,description,51143,form,"设备及操作资源的使用必须在完成必要的检查和缺陷整改后方可进行。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">《建筑工人保护条例》第151条第(1)款</a>",
+69a87733a36b6c4c63546692,,199963,question,questionText,51143,form,检查（使用前）,
+69a87733a36b6c4c63546693,,199964,question,description,51143,form,"设备检查计划必须包括使用前检查和定期检查，以消除缺陷。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">《建筑工人保护条例》第3a条第(1)款第4项</a>",
+69a87733a36b6c4c63546693,,199964,question,questionText,51143,form,检查记录,
+69a87733a36b6c4c63546694,,199965,question,description,51143,form,"对于高风险作业，必须就设备使用方法及防护措施提供操作指导。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">《建筑工人保护条例》第154条第(3)款</a>",
+69a87733a36b6c4c63546694,,199965,question,questionText,51143,form,培训,
+69a87733a36b6c4c63546695,,199966,question,description,51143,form,"凡存在检查义务且未规定具体检查周期的，检查至少须每个日历年度进行一次。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">《建筑工人保护条例》第151条第(2)款</a>",
+69a87733a36b6c4c63546695,,199966,question,questionText,51143,form,由主管人员进行的年度检查,
+69a87733a36b6c4c63546696,,199967,question,questionText,51143,form,<div></div>,

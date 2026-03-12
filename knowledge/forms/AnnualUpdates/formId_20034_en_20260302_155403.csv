@@ -1,0 +1,314 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63ef03d11600002000607b0f,4f4422ec50494358b6a00536,152,questionGroup,questionGroupText,20034,form,Experience Modification Rate (EMR)
+63ef00df1400003a004eef41,4f4422f95049433a2a49b4b4,159,questionGroup,questionGroupText,20034,form,Proof of No EMR
+6983c16b0100004a00423ced,4bbb8cb95049435ab63f20e7,278,questionGroup,questionGroupText,20034,form,Citations with Violations
+63ab4651180000730031ecd4,4cb441cb504943f2882eff91,1153,questionGroup,questionGroupText,20034,form,US Specific Updates
+69850d660100006300782141,4e44568a504943e0cd14131f,2033,questionGroup,description,20034,form,This is a combination of all OSHA logs company wide for US locations.
+492259e050494335839bf3d1,,2033,question,description,20034,form,"National Council on Compensation Insurance - <a href=""https://www.ncci.com/Articles/Pages/UW_ABCsofExperienceRating.aspx#"" target=""_BLANK"">ABCs of Experience Rating</a>: National Resource with detailed explanation of experience rating and how it affects your workers compensation costs."
+69850d660100006300782141,4e44568a504943e0cd14131f,2033,questionGroup,questionGroupText,20034,form,OSHA Recordkeeping
+492259e050494335839bf3d1,,2033,question,questionText,20034,form,Did your company qualify for a Workers Compensation Experience Modification Rate (EMR) during the given year? Experience Modification Rate (EMR) Sheets can usually be obtained from your commercial insurance broker and/or your Workers Compensation insurance carrier. This *may be issued at the state or national level*. You will be required to upload this later.
+492259e050494335839bf3d1,,2033,question,responseOptionNo,20034,form,No
+492259e050494335839bf3d1,,2033,question,responseOptionYes,20034,form,Yes
+492259e05049437b38843ed5,,2034,question,description,20034,form,"National Council on Compensation Insurance - <a href=""https://www.ncci.com/Articles/Pages/UW_ABCsofExperienceRating.aspx#"" target=""_BLANK"">ABCs of Experience Rating</a>: National Resource with detailed explanation of experience rating and how it affects your workers compensation costs."
+492259e05049437b38843ed5,,2034,question,questionText,20034,form,"What was your company's Experience Modification Rate (EMR)? Value must be in **decimal format**, for example .85.  Experience Modification Rate (EMR) Sheets can usually be obtained from your commercial insurance broker and/or your Workers Compensation insurance carrier. This may be issued at the state or national level."
+49264e605049438ec3ca8896,,2037,question,questionText,20034,form,"Please upload your Experience Modification Rate (EMR) document for the given year. EMR documents must be issued by your Worker's Compensation carrier, be in a non-editable format and have an Effective Rating Date within the given year to be approved. Example: An EMR document uploaded for the year 2023 must have an EFFECTIVE DATE IN THE SAME YEAR 2023."
+493f5ae050494329888afdf4,,2064,question,description,20034,form,"<a href=""https://www.osha.gov/recordkeeping/tutorial"" target=""_BLANK"">OSHA Brief Tutorial on Completing the Recordkeeping Forms</a>\n\n<a href=""https://www.youtube.com/watch?v=-zC4zBXd1-U"" target=""_BLANK"">OSHA Brief Tutorial on Completing the Recordkeeping Forms - Video</a>\n<a href=""https://www.osha.gov/sites/default/files/osha_rktutorial.pdf"" target=""_BLANK"">OSHA Tutorial on Completing the OSHA Recordkeeping Forms</a>\n\n<a href=""https://www.osha.gov/recordkeeping/presentations"" target=""_BLANK"">OSHA Recordkeeping Training Presentations</a>\n"
+493f5ae050494329888afdf4,,2064,question,linkhttp://www.census.gov/eos/www/naics/,20034,form,NAICS Lookup
+493f5ae050494329888afdf4,,2064,question,linkhttp://www.census.gov/eos/www/naics/concordances/concordances.html,20034,form,NAICS / SIC Conversion
+493f5ae050494329888afdf4,,2064,question,linkhttp://www.osha.gov,20034,form,OSHA website
+493f5ae050494329888afdf4,,2064,question,linkhttps://www.osha.gov/recordkeeping/ppt1/RK1exempttable.html,20034,form,Valid Exemptions
+493f5ae050494329888afdf4,,2064,question,linkhttps://www.osha.gov/recordkeeping/ppt1/rk1exempttable.html,20034,form,Valid Exemptions
+493f5ae050494329888afdf4,,2064,question,questionText,20034,form,
+493f5ae050494329888afdf4,,2064,question,responseOptionNo,20034,form,No
+493f5ae050494329888afdf4,,2064,question,responseOptionYes,20034,form,Yes
+493f5ae05049434a5ab2cced,,2065,question,link,20034,form,Mining Safety and Health Administration (MSHA)
+493f5ae05049434a5ab2cced,,2065,question,questionText,20034,form,Did your company work in or on a site or location that is regulated by <a href=' https://arlweb.msha.gov/drs/drshome.htm#CName' target='_BLANK'> Mining Safety and Health Administration (MSHA) </a> regulations during the given year?
+493f5ae05049434a5ab2cced,,2065,question,responseOptionNo,20034,form,No
+493f5ae05049434a5ab2cced,,2065,question,responseOptionYes,20034,form,Yes
+494b38605049439dcc7f87ab,,2072,question,questionText,20034,form,You've indicated your company did not qualify for a Worker's Compensation Experience Modification Rate (EMR) during the given year. Please upload a letter or email from your Worker's Compensation carrier stating you did not qualify for an EMR.
+5fd29df4290000124b87621a,4edfc1a8504943614c6f3074,2256,questionGroup,questionGroupText,20034,form,MSHA Recordkeeping
+4a2ecb92504943260e331458,,2447,question,description,20034,form,"IMPORTANT: Please make sure to include Full-Time, Part-Time, Seasonal, and Contract workers under your direct supervision at the highest point in the year."
+4a2ecb92504943260e331458,,2447,question,questionText,20034,form,Please enter the Average Number of Employees your company had during the given year:
+5ba45f0c930000e500bdde01,4f4e503b50494353cc3b239d,2462,questionGroup,questionGroupText,20034,form,US Regulatory Agencies
+4bbb8c7850494389984a0f58,,3546,question,description,20034,form,"This should include all citations with violations or order(s) for your entire company (all establishments associated with the legal entity of your account, including all offices and locations) which were received for the given year."
+4bbb8c7850494389984a0f58,,3546,question,linkhttp://www.msha.gov/drs/drshome.htm#CName,20034,form,MSHA Citations website
+4bbb8c7850494389984a0f58,,3546,question,linkhttp://www.msha.gov/drs/drshome.htm#cname,20034,form,MSHA Citations website
+4bbb8c7850494389984a0f58,,3546,question,linkhttp://www.osha.gov/pls/imis/establishment.html,20034,form,OSHA Citations website
+4bbb8c7850494389984a0f58,,3546,question,questionText,20034,form,Has your company received any citations with violations from OSHA or citations with violations or order(s) from MSHA during the given year?\n\n<a href='http://www.osha.gov/pls/imis/establishment.html' target='_BLANK'>OSHA Citations website</a> \n\n<a\nhref='https://arlweb.msha.gov/drs/drshome.htm#CName' target='_BLANK'>MSHA Citations website</a>
+4bbb8c7850494389984a0f58,,3546,question,responseOptionNo,20034,form,No
+4bbb8c7850494389984a0f58,,3546,question,responseOptionYes,20034,form,Yes
+658b2fd0170000ff4961a4b0,53693156504943ae73e62e5f,5286,questionGroup,questionGroupText,20034,form,MSHA Significant & Substantial
+6983c16b0100004300423cec,5446e4a4504943cdec1d8e63,5912,questionGroup,questionGroupText,20034,form,OSHA Citations with Violations
+6983c2c00100006100423cf6,546643b7504943e5bbc1457b,6037,questionGroup,questionGroupText,20034,form,OSHA Citation with Violation #1
+6983c34a0100006400423cff,546643c65049431527e5f69e,6038,questionGroup,questionGroupText,20034,form,OSHA Citation with Violation #2
+6983c3470100004600423cfd,546643d15049436e5955dc76,6039,questionGroup,questionGroupText,20034,form,OSHA Citation with Violation #3
+6983c3740100006400423d04,546643dc504943524189b136,6040,questionGroup,questionGroupText,20034,form,OSHA Citation with Violation #4
+6983c3850100006300423d08,546643e7504943b9b21366e7,6041,questionGroup,questionGroupText,20034,form,OSHA Citation with Violation #5
+6983c38e0100004500c96949,546643f1504943f3ecb96848,6042,questionGroup,questionGroupText,20034,form,OSHA Citation with Violation #6
+6983c3970100004100c9694d,546643f9504943b344541f3f,6043,questionGroup,questionGroupText,20034,form,OSHA Citation with Violation #7
+6983c39d0100004600423d0e,546644075049436acd19a730,6044,questionGroup,questionGroupText,20034,form,OSHA Citation with Violation #8
+6983c3a60100004300423d13,5466440e5049431fda424f62,6045,questionGroup,questionGroupText,20034,form,OSHA Citation with Violation #9
+6983c3af0100004c00c96951,54664422504943dbfda503a5,6046,questionGroup,questionGroupText,20034,form,OSHA Citation with Violation #10
+6983cf6d0100006400423d4a,55355af2504943802c410cd6,6788,questionGroup,questionGroupText,20034,form,MSHA Citations with Violations & Orders
+4e4af30d50494345be35205f,,8810,question,description,20034,form,"Include hours worked by salaried, hourly, part-time and seasonal workers including temporary help services workers. Do not include vacation, sick leave, holidays, or any other non-work time, even if employees were paid for it. If your establishment keeps records of only the hours paid or if you have employees who are not paid by the hour, please estimate the hours that the employees actually worked. If this number isn't available, an estimate is still needed.<br>\nExample: The average annual hours are 2080 for a full-time employee working 40 hours per week."
+4e4af30d50494345be35205f,,8810,question,questionText,20034,form,Please enter the total number of hours worked by all employees during the given year. Please round your answer to the next highest whole number.
+4e4af48950494328661aa17f,,8811,question,description,20034,form,"<a href=""https://www.osha.gov/recordkeeping/tutorial"" target=""_BLANK"">OSHA Brief Tutorial on Completing the Recordkeeping Forms</a>\n\n<a href=""https://www.youtube.com/watch?v=-zC4zBXd1-U"" target=""_BLANK"">OSHA Brief Tutorial on Completing the Recordkeeping Forms - Video</a>\n<a href=""https://www.osha.gov/sites/default/files/osha_rktutorial.pdf"" target=""_BLANK"">OSHA Tutorial on Completing the OSHA Recordkeeping Forms</a>\n\n\n<a href=""https://www.osha.gov/recordkeeping/presentations"" target=""_BLANK"">OSHA Recordkeeping Training Presentations</a>\nWe do not require nor do we need employee information. To protect the privacy of employees, please provide any OSHA log(s) with redacted employee specific information."
+4e4af48950494328661aa17f,,8811,question,questionText,20034,form,"Upload your 300 and 300A OSHA logs for the given year. Please make sure to REDACT all employee names from the 300 Log.\n\nDownload the Most Recent Forms <a href=""https://www.osha.gov/recordkeeping/forms"" target=""_BLANK"">Here</a> in PDF or Excel With Instructions\n"
+4e4afa5d504943ebf27bd919,,8812,question,description,20034,form,"If you are not required to complete an OSHA log, fatality reporting is defined  <a href='https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.39' target='_BLANK'>here</a>."
+4e4afa5d504943ebf27bd919,,8812,question,questionText,20034,form,How many fatalities were there for the given year? Item (G) on your OSHA Log or Summary
+4e4afa7c5049438765316f6e,,8813,question,description,20034,form,"If you are not required to complete an OSHA log, injury classification reporting is defined <a href='https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.7' target='_BLANK'>here</a>."
+4e4afa7c5049438765316f6e,,8813,question,questionText,20034,form,What is the total number of _cases_ with days away from work? Item (H) on your OSHA Log or Summary
+4e4afa8b50494340fda0a358,,8814,question,description,20034,form,"If you are not required to complete an OSHA log, injury classification reporting is defined <a href='https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.7' target='_BLANK'>here</a>."
+4e4afa8b50494340fda0a358,,8814,question,questionText,20034,form,What is the total number of _days_ away from work? Item (K) on your OSHA Log  or Summary
+4e4afa9b50494370393f34b0,,8815,question,description,20034,form,"If you are not required to complete an OSHA log, injury classification reporting is defined <a href='https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.7' target='_BLANK'>here</a>."
+4e4afa9b50494370393f34b0,,8815,question,questionText,20034,form,What is the total number of _cases_ with job transfer or restriction? Item (I) on your OSHA Log or Summary
+4e4afaae504943cb5b5b2b08,,8816,question,description,20034,form,"If you are not required to complete an OSHA log, injury classification reporting is defined <a href='https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.7' target='_BLANK'>here</a>."
+4e4afaae504943cb5b5b2b08,,8816,question,questionText,20034,form,What is the total number of _days_ of job transfer or restriction? Item (L) on your OSHA Log or Summary
+4e4afac050494345c43b5768,,8817,question,description,20034,form,"If you are not required to complete an OSHA log, injury classification reporting is defined <a href='https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.7' target='_BLANK'>here</a>."
+4e4afac050494345c43b5768,,8817,question,questionText,20034,form,What is the total number of other recordable _cases_? Item (J) on your OSHA Log or Summary
+4e4e84f8504943aec457fe34,,8838,question,description,20034,form,"Recordable incidents are those that you report on your OSHA logs, or if you are not required to submit OSHA logs recordable incidents are defined <a href='https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.7' target='_BLANK'>here</a>.   \n\n\n<a href=""https://www.osha.gov/recordkeeping/tutorial"" target=""_BLANK"">OSHA Brief Tutorial on Completing the Recordkeeping Forms</a>             </br>                                                           <a href=""https://www.youtube.com/watch?v=-zC4zBXd1-U"" target=""_BLANK"">OSHA Brief Tutorial on Completing the Recordkeeping Forms - Video</a>         </br>                                                    <a href=""https://www.osha.gov/sites/default/files/osha_rktutorial.pdf"" target=""_BLANK"">OSHA Tutorial on Completing the OSHA Recordkeeping Forms</a> \n<a href=""https://www.osha.gov/recordkeeping/presentations"" target=""_BLANK"">OSHA Recordkeeping Training Presentations</a>"
+4e4e84f8504943aec457fe34,,8838,question,questionText,20034,form,"Did your company have recordable work related injuries or illnesses for the given year? OSHA defines Recordable Work-Related Injuries and Illnesses as those injuries and illnesses that result in death, loss of consciousness, days away from work, restricted work activity or job transfer, or medical treatment beyond first aid. You must also record any significant work-related injury or illness that is diagnosed by a physician or other licensed health care professional. You must record any work-related case involving cancer, chronic irreversible disease, a fractured or cracked bone, or a punctured eardrum. See 29 CFR 1904.7."
+4e4e84f8504943aec457fe34,,8838,question,responseOptionNo,20034,form,No
+4e4e84f8504943aec457fe34,,8838,question,responseOptionYes,20034,form,Yes
+4edfc1d25049439e22a55b10,,10008,question,questionText,20034,form,Site Description
+4edfc1f5504943605ed1c6a3,,10009,question,questionText,20034,form,What is the total number of hours worked?
+4edfc20750494317c6c18a91,,10010,question,questionText,20034,form,How many fatalities were there for the given year? Item (18) on MSHA 7000-1
+4edfc224504943a062cd4d0b,,10011,question,questionText,20034,form,What is the total number of _cases_ with days away from work?
+4edfc24050494331595ed8c2,,10012,question,questionText,20034,form,What is the total number of _days_ away from work? Item (30) on MSHA 7000-1
+4edfc25a504943462f326106,,10013,question,questionText,20034,form,What is the total number of _cases_ with job transfer or restriction? Item (28) on MSHA 7000-1
+4edfc2785049431957c794aa,,10014,question,questionText,20034,form,What is the total number of _days_ of job transfer or restriction? Item (31) on MSHA 7000-1
+6583267919000014b3926372,5859be05504943638bc903c9,10320,questionGroup,questionGroupText,20034,form,US DOT - Federal Motor Carrier Safety Administration
+5bb36d1f3700005b763e8de7,585a0c8b504943db79dc3257,10321,questionGroup,questionGroupText,20034,form,General Information
+585a0e195049432447ca5ac4,585a0e195049432447ca5ac4,10322,questionGroup,questionGroupText,20034,form,Inspections
+585a0e70504943810a961d03,585a0e70504943810a961d03,10323,questionGroup,questionGroupText,20034,form,US Inspections
+585a0fcd504943857ed3a0ba,585a0fcd504943857ed3a0ba,10324,questionGroup,questionGroupText,20034,form,Out of Service
+585a10715049434929e872ec,585a10715049434929e872ec,10325,questionGroup,questionGroupText,20034,form,US Out of Service
+585a10c4504943bf94ba3e67,585a10c4504943bf94ba3e67,10326,questionGroup,questionGroupText,20034,form,Out of Service %
+585a10d2504943a6bb86df47,585a10d2504943a6bb86df47,10327,questionGroup,questionGroupText,20034,form,Out of Service % US
+5bb3705337000072803e8df9,585a141350494334f4d8fc5c,10328,questionGroup,questionGroupText,20034,form,Crashes
+585a141f504943b211e41d3a,585a141f504943b211e41d3a,10329,questionGroup,questionGroupText,20034,form,US Crashes
+585c2623504943250fed8366,585c2623504943250fed8366,10368,questionGroup,questionGroupText,20034,form,Crashes that Resulted in Fatalities
+585c264850494369a29dceeb,585c264850494369a29dceeb,10369,questionGroup,questionGroupText,20034,form,Crashes that Resulted in Injury
+585c268250494396dcb5d3eb,585c268250494396dcb5d3eb,10370,questionGroup,questionGroupText,20034,form,Crashes that Resulted in Towing
+585c4ff350494359bbac4194,585c4ff350494359bbac4194,10371,questionGroup,questionGroupText,20034,form,Total Number of Crashes
+4f67620a504943b4239cc770,,11112,question,questionText,20034,form,What is the total number of other recordable _cases_?
+4f67621b504943e379ab0b47,,11113,question,questionText,20034,form,"Upload your Mine Accident, Injury and Illness Report (MSHA 7000-1) for the given year. _NOTE: If you did not have any accidents, injuries or illnesses during the year requested, please upload a signed letter stating this for verification purposes._\n\n<a href=""/file-preview.html?fileId=2019-08-19T22:25:14.177Z~~~7000-1.pdf"" target=""_blank"">MSHA 7000-1 Sample</a>"
+51ac8efa5049438740d4060b,,18120,question,description,20034,form,"Most common selection is Corporate.  This field needs to remain consistent from year to year.  If you need to change your reporting level, please contact Avetta Support.  Most Avetta clients prefer to view corporate statistics, and when necessary have discussions about regional or site statistics that differ from the corporate numbers.  It is possible to have several regional accounts in Avetta.  Regional/Divisional breakdowns require communication across the entire organization as other divisions may desire to be represented with one Avetta account.<br>\nCorporation: Usually composed of several work sites, divisions, or regions.\nDivision: A major unit or section of an organization, typically one handling a particular kind of work. Can also include several sites.\nRegion: A geographical area of the company, can also include several sites, where work is performed.\nSite: A specific location where work is performed."
+51ac8efa5049438740d4060b,,18120,question,questionText,20034,form,"If this is a corporate account, all locations and divisions must be reported under corporate logs.\nPlease indicate the location type for which your data is being reported. If you are reporting for your entire corporation, please select Corporate; otherwise, specify Division, Region, or Site. Reference the help text for definitions of each location type."
+51ac8efa5049438740d4060b,,18120,question,responseOptionCorporate,20034,form,Corporate
+51ac8efa5049438740d4060b,,18120,question,responseOptionDivision,20034,form,Division
+51ac8efa5049438740d4060b,,18120,question,responseOptionRegion,20034,form,Region
+51ac8efa5049438740d4060b,,18120,question,responseOptionSite,20034,form,Site
+698510da0100003f0079078b,5aaab81b2600005d1a936242,20034,questionGroup,questionGroupText,20034,form,United States Annual Update
+52b8a41f504943892858657a,,22212,question,linkhttp://www.census.gov/eos/www/naics/concordances/concordances.html,20034,form,convert your SIC code to NAICS
+52b8a41f504943892858657a,,22212,question,linkhttp://www.census.gov/epcd/www/naics.html,20034,form,locate your company's NAICS code
+52b8a41f504943892858657a,,22212,question,questionText,20034,form,
+5369345d5049435fa536ecb7,,23395,question,questionText,20034,form,Did your company receive any MSHA Significant and Substantial (S&S) Citations and/or Orders during the given year?
+5369345d5049435fa536ecb7,,23395,question,responseOptionNo,20034,form,No
+5369345d5049435fa536ecb7,,23395,question,responseOptionYes,20034,form,Yes
+53693558504943d3ae9da438,,23396,question,questionText,20034,form,How many MSHA S&S Citations and/or Orders did your company receive?
+536936745049438928c4ddbf,,23397,question,questionText,20034,form,Please list all MSHA citations with violations or order(s) case numbers that were Significant and Substantial (S&S):
+5446e2d3504943807ffce849,,26101,question,questionText,20034,form,Do you have a corrective action plan that you would like to upload for this citation? This documentation may assist your client(s) with the review of the citation.
+5446e2d3504943807ffce849,,26101,question,responseOptionNo,20034,form,No
+5446e2d3504943807ffce849,,26101,question,responseOptionYes,20034,form,Yes
+5446e5bb504943d96b3190f9,,26103,question,questionText,20034,form,How many OSHA (Federal and/or State) citations with violations did your company receive for the given year?
+5446e5f85049433b91852657,,26104,question,questionText,20034,form,"Please list citations from most serious to least serious. \nPlease provide your <a href=""https://www.osha.gov/pls/imis/inspectionNr.html"" target=""blank"">OSHA citation activity number</a>."
+5446e7db504943e70a13bfc1,,26105,question,questionText,20034,form,"For the citations with violations entered above, were there any violations your company received classified as a Other Than Serious Violation?  <a href=""https://www.osha.gov/publications/fedrites#:~:text=Types%20of%20Violations,plain%20indifference%20to%20employee%20safety."" target=""_BLANK""> OSHA Other Than Serious Violation:</a> A violation that has a direct relationship to job safety and health, but is not serious in nature, is classified as ""other-than-serious""."
+5446e7db504943e70a13bfc1,,26105,question,responseOptionNo,20034,form,No
+5446e7db504943e70a13bfc1,,26105,question,responseOptionYes,20034,form,Yes
+5446e83b5049436da0e8e250,,26106,question,questionText,20034,form,"For the citations with violations entered above, were there any violations your company received classified as a Serious Violation?  <a href=""https://www.osha.gov/publications/fedrites#:~:text=Types%20of%20Violations,plain%20indifference%20to%20employee%20safety."" target=""_BLANK""> OSHA Serious Violation:</a> A serious violation exists when the workplace hazard could cause an accident or illness that would most likely result in death or serious physical harm, unless the employer did not know or could not have known of the violation."
+5446e83b5049436da0e8e250,,26106,question,responseOptionNo,20034,form,No
+5446e83b5049436da0e8e250,,26106,question,responseOptionYes,20034,form,Yes
+5446e87f504943638a170e25,,26107,question,questionText,20034,form,"For the citations with violations entered above, were there any violations your company received classified as a Willful Violation?  <a href=""https://www.osha.gov/publications/fedrites#:~:text=Types%20of%20Violations,plain%20indifference%20to%20employee%20safety."" target=""_BLANK"">OSHA Willful Violation:</a> A willful violation is defined as a violation in which the employer either knowingly failed to comply with a legal requirement (purposeful disregard) or acted with plain indifference to employee safety."
+5446e87f504943638a170e25,,26107,question,responseOptionNo,20034,form,No
+5446e87f504943638a170e25,,26107,question,responseOptionYes,20034,form,Yes
+5446e8fa50494328a6761805,,26108,question,questionText,20034,form,
+5446e8fa50494328a6761805,,26108,question,responseOptionNo,20034,form,No
+5446e8fa50494328a6761805,,26108,question,responseOptionYes,20034,form,Yes
+5446e954504943d483d44912,,26109,question,questionText,20034,form,"For the citations with violations entered above, were there any violations your company received classified as a Failure to Abate Violation?  <a href=""https://www.osha.gov/publications/fedrites#:~:text=Types%20of%20Violations,plain%20indifference%20to%20employee%20safety."" target=""_BLANK""> OSHA Failure to Abate Violation:</a> Any new violations discovered during a follow-up inspection will be cited, as well as any hazards which have not been abated by the abatement date so specified on the OSHA Notice. The latter violations will be cited in the form of a Failure to Abate Notice."
+5446e954504943d483d44912,,26109,question,responseOptionNo,20034,form,No
+5446e954504943d483d44912,,26109,question,responseOptionYes,20034,form,Yes
+5446e999504943a7e3ba9436,,26110,question,questionText,20034,form,"For the citations with violations entered above, were there any violations your company received classified as a De Minimis Violation?\n\n<a href=""https://www.osha.gov/Publications/osha3000.pdf"" target=""_BLANK"">De Minimis Violation:</a>\nDe minimis conditions are those where the employer has implemented a measure different from one specified in a standard, that has no direct or immediate relationship to safety or health. These conditions do not result in citations or penalties."
+5446e999504943a7e3ba9436,,26110,question,responseOptionNo,20034,form,No
+5446e999504943a7e3ba9436,,26110,question,responseOptionYes,20034,form,Yes
+5446f556504943ad3b326e61,,26111,question,description,20034,form,"(examples: Accident Investigation, Root Cause Analysis, Risk Analysis, Risk Mitigation Plan, etc.)"
+5446f556504943ad3b326e61,,26111,question,questionText,20034,form,Please upload relevant documentation for this citation. This documentation may assist your client(s) with the review of the citation
+5446f5a6504943c4745efb57,,26112,question,questionText,20034,form,Please upload the corrective action plan for this citation.
+5446f5e95049436d8bf6c61f,,26113,question,questionText,20034,form,Do you have a corrective action plan that you would like to upload for this citation? This documentation may assist your client(s) with the review of the citation.
+5446f5e95049436d8bf6c61f,,26113,question,responseOptionNo,20034,form,No
+5446f5e95049436d8bf6c61f,,26113,question,responseOptionYes,20034,form,Yes
+5446f61b504943a93c59de41,,26114,question,questionText,20034,form,"Please provide your <a href=""https://www.osha.gov/pls/imis/inspectionNr.html"" target=""blank"">OSHA citation activity number</a>."
+5446f6c850494327c5eb43ab,,26116,question,description,20034,form,"(examples: Accident Investigation, Root Cause Analysis, Risk Analysis, Risk Mitigation Plan, etc.)"
+5446f6c850494327c5eb43ab,,26116,question,questionText,20034,form,Please upload relevant documentation for this citation. This documentation may assist your client(s) with the review of the citation
+5446f6eb5049435102a33faf,,26117,question,questionText,20034,form,Do you have a corrective action plan that you would like to upload for this citation? This documentation may assist your client(s) with the review of the citation.
+5446f6eb5049435102a33faf,,26117,question,responseOptionNo,20034,form,No
+5446f6eb5049435102a33faf,,26117,question,responseOptionYes,20034,form,Yes
+5446f7105049434d38785904,,26118,question,questionText,20034,form,"Please provide your <a href=""https://www.osha.gov/pls/imis/inspectionNr.html"" target=""blank"">OSHA citation activity number</a>."
+5446f74550494380972edc7b,,26120,question,questionText,20034,form,Please upload the corrective action plan for this citation.
+5446f7835049434caee53f77,,26122,question,questionText,20034,form,"Please provide your <a href=""https://www.osha.gov/pls/imis/inspectionNr.html"" target=""blank"">OSHA citation activity number</a>."
+5446f79c504943b432c53cbd,,26123,question,description,20034,form,"(examples: Accident Investigation, Root Cause Analysis, Risk Analysis, Risk Mitigation Plan, etc.)"
+5446f79c504943b432c53cbd,,26123,question,questionText,20034,form,Please upload relevant documentation for this citation. This documentation may assist your client(s) with the review of the citation
+5446f7b6504943bd996446d9,,26124,question,questionText,20034,form,Please upload the corrective action plan for this citation.
+5446f7cf5049439c97e21f79,,26125,question,description,20034,form,"(examples: Accident Investigation, Root Cause Analysis, Risk Analysis, Risk Mitigation Plan, etc.)"
+5446f7cf5049439c97e21f79,,26125,question,questionText,20034,form,Please upload relevant documentation for this citation. This documentation may assist your client(s) with the review of the citation
+5446f7cf5049439c97e21f79,,26125,question,responseOptionNo,20034,form,No
+5446f7cf5049439c97e21f79,,26125,question,responseOptionYes,20034,form,Yes
+5446f7f4504943a4d781d86b,,26126,question,questionText,20034,form,"Please provide your <a href=""https://www.osha.gov/pls/imis/inspectionNr.html"" target=""blank"">OSHA citation activity number</a>."
+5446f83e5049432faf4e8da7,,26128,question,description,20034,form,"(examples: Accident Investigation, Root Cause Analysis, Risk Analysis, Risk Mitigation Plan, etc.)"
+5446f83e5049432faf4e8da7,,26128,question,questionText,20034,form,Please upload relevant documentation for this citation. This documentation may assist your client(s) with the review of the citation
+5446f85c504943e9b6c4e91c,,26129,question,questionText,20034,form,Do you have a corrective action plan that you would like to upload for this citation? This documentation may assist your client(s) with the review of the citation.
+5446f85c504943e9b6c4e91c,,26129,question,responseOptionNo,20034,form,No
+5446f85c504943e9b6c4e91c,,26129,question,responseOptionYes,20034,form,Yes
+5446f87d5049431b69fa5245,,26130,question,questionText,20034,form,Do you have a corrective action plan that you would like to upload for this citation? This documentation may assist your client(s) with the review of the citation.
+5446f87d5049431b69fa5245,,26130,question,responseOptionNo,20034,form,No
+5446f87d5049431b69fa5245,,26130,question,responseOptionYes,20034,form,Yes
+5446f89a504943c15fc7e92a,,26131,question,questionText,20034,form,Please upload the corrective action plan for this citation.
+5446f8b2504943a36dc969bc,,26132,question,questionText,20034,form,Please upload the corrective action plan for this citation.
+5466560c504943fb9053e41c,,26844,question,questionText,20034,form,"Please provide your <a href=""https://www.osha.gov/pls/imis/inspectionNr.html"" target=""blank"">OSHA citation activity number</a>."
+5466564f5049432672f7ca6e,,26846,question,description,20034,form,"(examples: Accident Investigation, Root Cause Analysis, Risk Analysis, Risk Mitigation Plan, etc.)"
+5466564f5049432672f7ca6e,,26846,question,questionText,20034,form,Please upload relevant documentation for this citation. This documentation may assist your client(s) with the review of the citation
+5466565e504943939cdab170,,26847,question,questionText,20034,form,Do you have a corrective action plan that you would like to upload for this citation? This documentation may assist your client(s) with the review of the citation.
+5466565e504943939cdab170,,26847,question,responseOptionNo,20034,form,No
+5466565e504943939cdab170,,26847,question,responseOptionYes,20034,form,Yes
+546656775049439aa0650d7c,,26848,question,questionText,20034,form,Please upload the corrective action plan for this citation.
+546656b450494319622fc348,,26849,question,questionText,20034,form,"Please provide your <a href=""https://www.osha.gov/pls/imis/inspectionNr.html"" target=""blank"">OSHA citation activity number</a>."
+546656f5504943fe1dfc8215,,26851,question,description,20034,form,"(examples: Accident Investigation, Root Cause Analysis, Risk Analysis, Risk Mitigation Plan, etc.)"
+546656f5504943fe1dfc8215,,26851,question,questionText,20034,form,Please upload relevant documentation for this citation. This documentation may assist your client(s) with the review of the citation
+5466570e504943f433cf7a4d,,26852,question,questionText,20034,form,Do you have a corrective action plan that you would like to upload for this citation? This documentation may assist your client(s) with the review of the citation.
+5466570e504943f433cf7a4d,,26852,question,responseOptionNo,20034,form,No
+5466570e504943f433cf7a4d,,26852,question,responseOptionYes,20034,form,Yes
+5466576050494330c9558100,,26853,question,questionText,20034,form,Please upload the corrective action plan for this citation.
+5466579650494319285d465c,,26854,question,questionText,20034,form,"Please provide your <a href=""https://www.osha.gov/pls/imis/inspectionNr.html"" target=""blank"">OSHA citation activity number</a>."
+546657e050494320bad39418,,26856,question,description,20034,form,"(examples: Accident Investigation, Root Cause Analysis, Risk Analysis, Risk Mitigation Plan, etc.)"
+546657e050494320bad39418,,26856,question,questionText,20034,form,Please upload relevant documentation for this citation. This documentation may assist your client(s) with the review of the citation
+546657f1504943dfb5e3cf12,,26857,question,questionText,20034,form,Do you have a corrective action plan that you would like to upload for this citation? This documentation may assist your client(s) with the review of the citation.
+546657f1504943dfb5e3cf12,,26857,question,responseOptionNo,20034,form,No
+546657f1504943dfb5e3cf12,,26857,question,responseOptionYes,20034,form,Yes
+54665808504943d3ea78298d,,26858,question,questionText,20034,form,Please upload the corrective action plan for this citation.
+5466589a504943bd0e58cdd6,,26859,question,questionText,20034,form,"Please provide your <a href=""https://www.osha.gov/pls/imis/inspectionNr.html"" target=""blank"">OSHA citation activity number</a>."
+546658d8504943468b9746a4,,26861,question,description,20034,form,"(examples: Accident Investigation, Root Cause Analysis, Risk Analysis, Risk Mitigation Plan, etc.)"
+546658d8504943468b9746a4,,26861,question,questionText,20034,form,Please upload relevant documentation for this citation. This documentation may assist your client(s) with the review of the citation
+546658e750494330befde52b,,26862,question,questionText,20034,form,Do you have a corrective action plan that you would like to upload for this citation? This documentation may assist your client(s) with the review of the citation.
+546658e750494330befde52b,,26862,question,responseOptionNo,20034,form,No
+546658e750494330befde52b,,26862,question,responseOptionYes,20034,form,Yes
+546658ff504943933dc6866c,,26863,question,questionText,20034,form,Please upload the corrective action plan for this citation.
+5466594c50494336e68eeb8e,,26864,question,questionText,20034,form,"Please provide your <a href=""https://www.osha.gov/pls/imis/inspectionNr.html"" target=""blank"">OSHA citation activity number</a>."
+5466599750494392132819c3,,26866,question,description,20034,form,"(examples: Accident Investigation, Root Cause Analysis, Risk Analysis, Risk Mitigation Plan, etc.)"
+5466599750494392132819c3,,26866,question,questionText,20034,form,Please upload relevant documentation for this citation. This documentation may assist your client(s) with the review of the citation
+546659a9504943e247231988,,26867,question,questionText,20034,form,Do you have a corrective action plan that you would like to upload for this citation? This documentation may assist your client(s) with the review of the citation.
+546659a9504943e247231988,,26867,question,responseOptionNo,20034,form,No
+546659a9504943e247231988,,26867,question,responseOptionYes,20034,form,Yes
+546659c5504943c8a8a1fd43,,26868,question,questionText,20034,form,Please upload the corrective action plan for this citation.
+55355c64504943726aabcf25,,30465,question,questionText,20034,form,How many MSHA citations with violations or orders did your company receive for the given year?
+55355c7d50494313cc2f9226,,30466,question,questionText,20034,form,Please list all MSHA citations with violations or orders case numbers:
+55355c93504943a274ad9091,,30467,question,questionText,20034,form,Do you have any relevant documentation that you would like to upload for this citation(s)? This documentation may assist your client(s) with the review of the citation.
+55355c93504943a274ad9091,,30467,question,responseOptionNo,20034,form,No
+55355c93504943a274ad9091,,30467,question,responseOptionYes,20034,form,Yes
+55355ca65049437c75559779,,30468,question,questionText,20034,form,"Upload any relevant documentation for the citation(s) above, to include a corrective action plan."
+5859bc2b5049433b7587832d,,43686,question,linkhttps://safer.fmcsa.dot.gov/companysnapshot.aspx,20034,form,US DOT Federal Motor Carrier Safety Administration
+5859bc2b5049433b7587832d,,43686,question,questionText,20034,form,"Was your company/corporation subject to US DOT Federal Motor Carrier Safety Administration regulations during the given year? \n<a href=""https://safer.fmcsa.dot.gov/companysnapshot.aspx"" target=""_BLANK"">US DOT Federal Motor Carrier Safety Administration</a>"
+5859bc2b5049433b7587832d,,43686,question,responseOptionNo,20034,form,No
+5859bc2b5049433b7587832d,,43686,question,responseOptionYes,20034,form,Yes
+5859be725049437c7dcf5e82,,43688,question,questionText,20034,form,How many vehicles subject to US DOT Federal Motor Carrier Safety Administration regulations were operated in the given year?
+5859beb7504943629d1fedd8,,43689,question,questionText,20034,form,How many of your employees drove for work purposes under US DOT Federal Motor Carrier Safety Administration regulations in the given year?
+585a0cff504943842143a7e3,,43699,question,questionText,20034,form,Please enter the number of drivers subject to US DOT Federal Motor Carrier Safety Administration regulation that your company had in the given year?
+585a0d67504943a2e4dd4c10,,43700,question,linkhttp://safer.fmcsa.dot.gov/saferhelp.aspx#OOSDate,20034,form,"""Out of Service"""
+585a0d67504943a2e4dd4c10,,43700,question,linkhttp://safer.fmcsa.dot.gov/saferhelp.aspx#oosdate,20034,form,"""Out of Service"""
+585a0d67504943a2e4dd4c10,,43700,question,questionText,20034,form,"Has your company had any <a href=""http://safer.fmcsa.dot.gov/saferhelp.aspx#OOSDate"" target=""_BLANK"">""Out of Service""</a> dates in the past year?"
+585a0d67504943a2e4dd4c10,,43700,question,responseOptionNo,20034,form,No
+585a0d67504943a2e4dd4c10,,43700,question,responseOptionYes,20034,form,Yes
+585a0df95049433998c5dffc,,43701,question,questionText,20034,form,"If yes, what was the most recent out of service date for the given year:"
+585a0e93504943d540eb4e28,,43702,question,linkhttp://safer.fmcsa.dot.gov/saferhelp.aspx#Inspections,20034,form,inspections
+585a0e93504943d540eb4e28,,43702,question,linkhttp://safer.fmcsa.dot.gov/saferhelp.aspx#inspections,20034,form,inspections
+585a0e93504943d540eb4e28,,43702,question,questionText,20034,form,"Please enter the number of vehicle <a href=""http://safer.fmcsa.dot.gov/saferhelp.aspx#Inspections"" target=""_BLANK"">inspections</a> that your company had in the given year:"
+585a0ef25049431636febc64,,43703,question,linkhttp://safer.fmcsa.dot.gov/saferhelp.aspx#Inspections,20034,form,inspections
+585a0ef25049431636febc64,,43703,question,linkhttp://safer.fmcsa.dot.gov/saferhelp.aspx#inspections,20034,form,inspections
+585a0ef25049431636febc64,,43703,question,questionText,20034,form,"Please enter the number of driver <a href=""http://safer.fmcsa.dot.gov/saferhelp.aspx#Inspections"" target=""_BLANK"">inspections</a> your company had in the given year:"
+585a0f3d5049433ff71b798e,,43704,question,linkhttp://safer.fmcsa.dot.gov/saferhelp.aspx#Inspections,20034,form,inspections
+585a0f3d5049433ff71b798e,,43704,question,linkhttp://safer.fmcsa.dot.gov/saferhelp.aspx#inspections,20034,form,inspections
+585a0f3d5049433ff71b798e,,43704,question,questionText,20034,form,"Please enter the number of Hazmat <a href=""http://safer.fmcsa.dot.gov/saferhelp.aspx#Inspections"" target=""_BLANK"">inspections</a> your company had in the given year?"
+585a0fb150494347c95efb43,,43705,question,linkhttp://safer.fmcsa.dot.gov/saferhelp.aspx#Inspections,20034,form,inspections
+585a0fb150494347c95efb43,,43705,question,linkhttp://safer.fmcsa.dot.gov/saferhelp.aspx#inspections,20034,form,inspections
+585a0fb150494347c95efb43,,43705,question,linkhttps://www.fmcsa.dot.gov/registration/intermodal-equipment-providers,20034,form,IEP (intermodal equipment provider)
+585a0fb150494347c95efb43,,43705,question,questionText,20034,form,"Please enter the number of <a href=""https://www.fmcsa.dot.gov/registration/intermodal-equipment-providers"" target=""_BLANK"">IEP (intermodal equipment provider)</a> <a href=""http://safer.fmcsa.dot.gov/saferhelp.aspx#Inspections"" target=""_BLANK"">inspections</a> your company had in the past year?"
+585a0fef5049436e17651167,,43706,question,questionText,20034,form,Please enter the number of out of service vehicle events your company had in the given year:
+585a1002504943b0a7e4c8a2,,43707,question,questionText,20034,form,Please enter the number of out of service driver events your company had in the given year:
+585a101e50494375f57f7105,,43708,question,questionText,20034,form,Please enter the number of out of service Hazmat events your company had in the given year:
+585a10365049436e06b6fa5b,,43709,question,questionText,20034,form,Please enter the number of out of service IEP (intermodal equipment provider) events your company had in the given year:
+585a10ea50494369c0ae01cb,,43710,question,questionText,20034,form,Please enter the vehicle out of service % for the given year:
+585a112e5049435e7bf5a66c,,43711,question,questionText,20034,form,Please enter the driver out of service % for the given year:
+585a114c5049435a9523f1bc,,43712,question,questionText,20034,form,Please enter the Hazmat out of service % for the given year:
+585a1194504943b9ff119c14,,43713,question,questionText,20034,form,Please enter the IEP (intermodal equipment provider) out of service % for the given year:
+585a1442504943df678949e3,,43714,question,questionText,20034,form,Please enter the number of crashes that resulted in a fatality your company had in the given year:
+585a1473504943ba8db68d92,,43715,question,questionText,20034,form,Did any of the crashes result in a driver(s) cited?
+585a1473504943ba8db68d92,,43715,question,responseOptionNA,20034,form,N/A
+585a1473504943ba8db68d92,,43715,question,responseOptionNo,20034,form,No
+585a1473504943ba8db68d92,,43715,question,responseOptionYes,20034,form,Yes
+585a14cf504943f03c354f87,,43716,question,questionText,20034,form,Please enter the number of crashes that resulted in injury your company has in the given year:
+585a1516504943420a2f3652,,43717,question,questionText,20034,form,Did any of the crashes result in a driver(s) cited?
+585a1516504943420a2f3652,,43717,question,responseOptionNA,20034,form,N/A
+585a1516504943420a2f3652,,43717,question,responseOptionNo,20034,form,No
+585a1516504943420a2f3652,,43717,question,responseOptionYes,20034,form,Yes
+585a16a3504943a976301d90,,43718,question,questionText,20034,form,Please enter the number of crashes that resulted in towing your company has in the given year:
+585a16c6504943ef7b70f728,,43719,question,questionText,20034,form,Did any of the crashes result in a driver(s) cited?
+585a16c6504943ef7b70f728,,43719,question,responseOptionNA,20034,form,N/A
+585a16c6504943ef7b70f728,,43719,question,responseOptionNo,20034,form,No
+585a16c6504943ef7b70f728,,43719,question,responseOptionYes,20034,form,Yes
+585a16e65049433926323f7a,,43720,question,questionText,20034,form,Total Number of Crashes:
+585c578d50494364da6f39de,,43826,question,linkhttps://www.osha.gov/,20034,form,OSHA
+585c578d50494364da6f39de,,43826,question,linkhttps://www.osha.gov/dcsp/osp/index.html,20034,form,State OSHA
+585c578d50494364da6f39de,,43826,question,questionText,20034,form,"Did your company receive any <a href=""https://www.osha.gov/ords/imis/establishment.html"" target=""_BLANK"">OSHA</a> (Occupational Safety & Health Administration) and / or <a href=""https://www.osha.gov/ords/imis/establishment.html"" target=""_BLANK"">State Specific OSHA</a> (Occupational Safety & Health Administration) citations with violations for the given year?"
+585c578d50494364da6f39de,,43826,question,responseOptionNo,20034,form,No
+585c578d50494364da6f39de,,43826,question,responseOptionYes,20034,form,Yes
+585c57b35049432024333333,,43827,question,linkhttp://www.msha.gov/,20034,form,MSHA
+585c57b35049432024333333,,43827,question,questionText,20034,form,"Did your company receive any <a href=""https://www.msha.gov/data-and-reports/mine-data-retrieval-system"" target=""_BLANK"">MSHA</a> (Mine Safety & Health Administration) citations with violations or order(s) for the given year?"
+585c57b35049432024333333,,43827,question,responseOptionNo,20034,form,No
+585c57b35049432024333333,,43827,question,responseOptionYes,20034,form,Yes
+5862b3595049432973b3a21b,,43830,question,questionText,20034,form,Is your company contesting this citation?
+5862b3595049432973b3a21b,,43830,question,responseOptionNo,20034,form,No
+5862b3595049432973b3a21b,,43830,question,responseOptionYes,20034,form,Yes
+5862b3b950494322bfdae8b9,,43831,question,questionText,20034,form,"If yes, please explain the reason(s) for contesting this citation:"
+5862b75f50494341b7acefe6,,43841,question,questionText,20034,form,Is your company contesting this citation?
+5862b75f50494341b7acefe6,,43841,question,responseOptionNo,20034,form,No
+5862b75f50494341b7acefe6,,43841,question,responseOptionYes,20034,form,Yes
+5862b785504943f2d5cb3584,,43842,question,questionText,20034,form,"If yes, please explain the reason(s) for contesting this citation:"
+5862b7f25049434fd18a3a61,,43843,question,questionText,20034,form,Is your company contesting this citation?
+5862b7f25049434fd18a3a61,,43843,question,responseOptionNo,20034,form,No
+5862b7f25049434fd18a3a61,,43843,question,responseOptionYes,20034,form,Yes
+5862b85c50494339cf945c77,,43844,question,questionText,20034,form,"If yes, please explain the reason(s) for contesting this citation:"
+5862bd8150494382a06210c9,,43845,question,questionText,20034,form,Is your company contesting this citation?
+5862bd8150494382a06210c9,,43845,question,responseOptionNo,20034,form,No
+5862bd8150494382a06210c9,,43845,question,responseOptionYes,20034,form,Yes
+5862bdaa5049434f949dd03f,,43846,question,questionText,20034,form,"If yes, please explain the reason(s) for contesting this citation:"
+5862be40504943e91412892b,,43847,question,questionText,20034,form,Is your company contesting this citation?
+5862be40504943e91412892b,,43847,question,responseOptionNo,20034,form,No
+5862be40504943e91412892b,,43847,question,responseOptionYes,20034,form,Yes
+5862be9a504943b6405c8314,,43848,question,questionText,20034,form,"If yes, please explain the reason(s) for contesting this citation:"
+5862c483504943984ae94cca,,43849,question,questionText,20034,form,Is your company contesting this citation?
+5862c483504943984ae94cca,,43849,question,responseOptionNo,20034,form,No
+5862c483504943984ae94cca,,43849,question,responseOptionYes,20034,form,Yes
+5862c4af5049434a5c544dac,,43850,question,questionText,20034,form,"If yes, please explain the reason(s) for contesting this citation:"
+5862c5075049432662fb25d8,,43851,question,questionText,20034,form,Is your company contesting this citation?
+5862c5075049432662fb25d8,,43851,question,responseOptionNo,20034,form,No
+5862c5075049432662fb25d8,,43851,question,responseOptionYes,20034,form,Yes
+5862c5325049439f3f8430a1,,43852,question,questionText,20034,form,"If yes, please explain the reason(s) for contesting this citation:"
+5862c5a0504943a734b77366,,43853,question,questionText,20034,form,Is your company contesting this citation?
+5862c5a0504943a734b77366,,43853,question,responseOptionNo,20034,form,No
+5862c5a0504943a734b77366,,43853,question,responseOptionYes,20034,form,Yes
+5862c5d25049439fa4e7daf3,,43854,question,questionText,20034,form,"If yes, please explain the reason(s) for contesting this citation:"
+5862c60750494363477b0ec4,,43855,question,questionText,20034,form,Is your company contesting this citation?
+5862c60750494363477b0ec4,,43855,question,responseOptionNo,20034,form,No
+5862c60750494363477b0ec4,,43855,question,responseOptionYes,20034,form,Yes
+5862c6215049438fa1457ea2,,43856,question,questionText,20034,form,"If yes, please explain the reason(s) for contesting this citation:"
+5862c66d504943ea09137722,,43857,question,questionText,20034,form,Is your company contesting this citation?
+5862c66d504943ea09137722,,43857,question,responseOptionNo,20034,form,No
+5862c66d504943ea09137722,,43857,question,responseOptionYes,20034,form,Yes
+5862c689504943d6808b5e0b,,43858,question,questionText,20034,form,"If yes, please explain the reason(s) for contesting this citation:"
+5df2796b3100003655bf9bc2,,89470,question,questionText,20034,form,"Are your incidents and/or employee count entered correctly? The total number of incidents reported (excluding First Aid) is equal to or greater than your number of employees. \n\nPlease validate that you have entered your correct employee count and/or incidents. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+5df285553700009d4be77330,,89475,question,questionText,20034,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+5df2862f3700009d4be7925c,,89476,question,questionText,20034,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+5fd29df3290000124b876219,,105467,question,description,20034,form,"If multiple IDs are applicable, separate them with a comma. If you need assistance locating your MSHA Contractor ID please contact your local MSHA district office for assistance. See: <a href=""https://www.msha.gov/data-and-reports/mine-data-retrieval-system#CName"" target=""_blank"">The Mine Data Retrieval System</a>"
+5fd29df3290000124b876219,,105467,question,questionText,20034,form,Please provide your company's MSHA Contractor ID#: 
+63ab46501a000022002d6c31,,135917,question,questionText,20034,form,"Did your company have 11 or more employees at any given time during the year? (This includes Full-Time, Part-Time, Seasonal, and Contract workers under your direct supervision at the highest point in the year)."
+63ab46501a000022002d6c31,,135917,question,responseOption1,20034,form,Yes
+63ab46501a000022002d6c31,,135917,question,responseOption2,20034,form,No

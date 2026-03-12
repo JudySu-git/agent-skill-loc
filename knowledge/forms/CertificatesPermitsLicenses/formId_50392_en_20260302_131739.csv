@@ -1,0 +1,28 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+696abf540100008b01c68f18,696ab9dc01000043001adf05,50392,questionGroup,description,50392,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+696abf540100008b01c68f18,696ab9dc01000043001adf05,50392,questionGroup,questionGroupText,50392,form,Czech Republic Trade Licensing Commercial Register Applicability Assessment
+696aba2b010000ba001adf0b,,197112,question,description,50392,form,"Select the option that matches your business setup: Czech company (s.r.o., a.s.), Branch of a foreign company, or Sole trader."
+696aba2b010000ba001adf0b,,197112,question,questionText,50392,form,Which of the following best describes your registration in the Czech Republic? (Select one)
+696aba2b010000ba001adf0b,,197112,question,responseOption1,50392,form,"Czech company (e.g., s.r.o., a.s.)"
+696aba2b010000ba001adf0b,,197112,question,responseOption2,50392,form,Branch of a foreign company
+696aba2b010000ba001adf0b,,197112,question,responseOption3,50392,form,Sole trader
+696aba2b010000ba001adf0b,,197112,question,responseOption4,50392,form,The company is not registered in Czech Republic
+696aba4b0100004500c68eec,,197113,question,description,50392,form,"Czech companies and branches must be listed in the Commercial Register under <a href=""https://or.justice.cz/ias/ui/rejstrik"" target=""_BLANK_"">Act No. 304/2013 Coll., §25–26</a>."
+696aba4b0100004500c68eec,,197113,question,questionText,50392,form,Is your company or branch registered in the Czech Commercial Register?
+696aba4b0100004500c68eec,,197113,question,responseOption1,50392,form,Yes
+696aba4b0100004500c68eec,,197113,question,responseOption2,50392,form,No
+696aba640100004300c68eef,,197114,question,description,50392,form,"<a href=""https://rzp.gov.cz/portal/cs/"" target=""_BLANK_"">Most business activities</a> (construction, retail, consulting, etc.) fall under the Trade Licensing Act No. 455/1991 Coll., §2–11. Professions excluded by §3 (e.g., law, medicine, architecture) follow other laws."
+696aba640100004300c68eef,,197114,question,questionText,50392,form,Does your company carry out activities that require a Trade License under Act No. 455/1991 Coll.?
+696aba640100004300c68eef,,197114,question,responseOption1,50392,form,Yes
+696aba640100004300c68eef,,197114,question,responseOption2,50392,form,No
+696aba7b01000043001adf11,,197115,question,description,50392,form,"Authorizations under special laws are specific permits for activities that are not covered by a standard trade license and are instead regulated by their own sector laws.\n\nExamples include legal, medical, architectural, auditing, or tax advisory services. Such activities require registration or authorization from the relevant professional chamber or authority (e.g., Czech Bar Association, Czech Medical Chamber, Czech Chamber of Architects, Chamber of Auditors, or Chamber of Tax Advisors)."
+696aba7b01000043001adf11,,197115,question,questionText,50392,form,"Does your company perform professional activities that are governed by a special law (e.g., legal, medical, architectural, or auditing services) rather than by the Trade Licensing Act No. 455/1991 Coll., and therefore require an Authorization Certificate?"
+696aba7b01000043001adf11,,197115,question,responseOption1,50392,form,Yes
+696aba7b01000043001adf11,,197115,question,responseOption2,50392,form,No
+696aba900100004300c68ef1,,197116,question,description,50392,form,"A company must obtain an authorization under special laws if its intended activity is explicitly excluded from the Trade Licensing Act or requires additional sectoral approval.\n<p>\n<a href=""https://www.e-sbirka.cz/sb/1996/85?zalozka=text"" target=""_BLANK_"">Advocates Act (85/1996 Coll.)</a>\n<a href=""https://www.psp.cz/sqw/sbirka.sqw?cz=372&r=2011"" target=""_BLANK_"">Health Services Act (372/2011 Coll.)</a>\n<a href=""https://www.e-sbirka.cz/sb/1992/360?zalozka=text"" target=""_BLANK_"">Architects Act (360/1992 Coll.)</a>\n<a href=""https://www.psp.cz/sqw/sbirka.sqw?r=2009&cz=93"" target=""_BLANK_"">Auditors Act (93/2009 Coll.)</a>\n<a href=""https://www.e-sbirka.cz/sb/1992/523/1992-12-01?zalozka=text"" target=""_BLANK_"">Tax Advisors Act (523/1992 Coll.)</a>.\n</p>"
+696aba900100004300c68ef1,,197116,question,questionText,50392,form,Please specify which Authorizations your company holds
+696aba900100004300c68ef1,,197116,question,responseOption1,50392,form,Advocates Act (85/1996 Coll.)
+696aba900100004300c68ef1,,197116,question,responseOption2,50392,form,Health Services Act (372/2011 Coll.) 
+696aba900100004300c68ef1,,197116,question,responseOption3,50392,form,Architects Act (360/1992 Coll.)
+696aba900100004300c68ef1,,197116,question,responseOption4,50392,form,Auditors Act (93/2009 Coll.) 
+696aba900100004300c68ef1,,197116,question,responseOption5,50392,form,Tax Advisors Act (523/1992 Coll.)

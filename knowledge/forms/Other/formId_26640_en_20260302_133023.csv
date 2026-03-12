@@ -1,0 +1,31 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5e6803e535000087ffe25141,5cdb4d2b3500009b1c27a7f4,26640,questionGroup,questionGroupText,26640,form,FRA Part 219 Standard Section
+5e6803a3360000d1c22f0c52,5cdb4db33700009b1cd85462,26641,questionGroup,questionGroupText,26640,form,Regulation Qualification Questions
+5cdc7a1c39000028394b9fc6,,83616,question,questionText,26640,form,Does your company performs contractor services for the Railroad?
+5cdc7a1c39000028394b9fc6,,83616,question,responseOption1,26640,form,Yes
+5cdc7a1c39000028394b9fc6,,83616,question,responseOption2,26640,form,No
+5cdc7a1d360000b2fcca0822,,83617,question,questionText,26640,form,FRA Covered Service on Railroad Property – Does your company have FRA hours of service employees that will perform covered service on Railroad property?
+5cdc7a1d360000b2fcca0822,,83617,question,responseOption1,26640,form,Yes
+5cdc7a1d360000b2fcca0822,,83617,question,responseOption2,26640,form,No
+5cdc7a1e39000028394b9fc7,,83618,question,questionText,26640,form,49 CFR 214.7 – Does the work performed by your company occur on or near track or with the potential of fouling a track?
+5cdc7a1e39000028394b9fc7,,83618,question,responseOption1,26640,form,Yes
+5cdc7a1e39000028394b9fc7,,83618,question,responseOption2,26640,form,No
+5cdc7a1e370000b2fcb26688,,83619,question,questionText,26640,form,"Railroad Track, Bridges, Roadways – Does your company's employees perform duties, within the US, involving the inspection, construction, maintenance or repair of Railroad track, bridges, roadways?"
+5cdc7a1e370000b2fcb26688,,83619,question,responseOption1,26640,form,Yes
+5cdc7a1e370000b2fcb26688,,83619,question,responseOption2,26640,form,No
+5cdc7a1f3700006b68ad6a47,,83620,question,questionText,26640,form,"Signal and Communication Systems – Does your company's employees perform duties, within the US, involving the inspection, construction, maintenance or repair of signal and communication systems?"
+5cdc7a1f3700006b68ad6a47,,83620,question,responseOption1,26640,form,Yes
+5cdc7a1f3700006b68ad6a47,,83620,question,responseOption2,26640,form,No
+5cdc7a20360000b2fcca0823,,83621,question,questionText,26640,form,"Electric Traction Systems – Does your company's employees perform duties, within the US, involving the inspection, construction, maintenance or repair of electric traction systems?"
+5cdc7a20360000b2fcca0823,,83621,question,responseOption1,26640,form,Yes
+5cdc7a20360000b2fcca0823,,83621,question,responseOption2,26640,form,No
+5cdc7a2039000028394b9fcd,,83622,question,questionText,26640,form,"Roadway Facilities – Does your company's employees perform duties, within the US, involving the inspection, construction, maintenance or repair of roadway facilities?"
+5cdc7a2039000028394b9fcd,,83622,question,responseOption1,26640,form,Yes
+5cdc7a2039000028394b9fcd,,83622,question,responseOption2,26640,form,No
+5cdc7a213700006b68ad6a54,,83623,question,questionText,26640,form,"Roadway Maintenance Machinery – Does your company's employees perform duties, within the US, involving the inspection, construction, maintenance or repair of roadway maintenance machinery?"
+5cdc7a213700006b68ad6a54,,83623,question,responseOption1,26640,form,Yes
+5cdc7a213700006b68ad6a54,,83623,question,responseOption2,26640,form,No
+5cdc7a21370000b2fcb26695,,83624,question,description,26640,form,"In the U.S., your Flagman and/or Watchman/Lookout employees perform duties as defined in 49 CFR 214.7."
+5cdc7a21370000b2fcb26695,,83624,question,questionText,26640,form,Flagman Watchman Lookout – Does your company's employees direct and/or provide warnings of movement of trains or on-track equipment?
+5cdc7a21370000b2fcb26695,,83624,question,responseOption1,26640,form,Yes
+5cdc7a21370000b2fcb26695,,83624,question,responseOption2,26640,form,No

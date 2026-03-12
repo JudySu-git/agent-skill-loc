@@ -1,0 +1,24 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4de3d57a50494362cab9eacb,4de3d57a50494362cab9eacb,1719,questionGroup,questionGroupText,20101,form,United States
+5c5b59223300001a4bfd3306,5ab4271d2400005e009c275b,20101,questionGroup,questionGroupText,20101,form,Avetta PQF - United States Performance Safety Statistics
+53b2d0d8504943118b3de90a,,23948,question,questionText,20101,form,Has your company had any fatalities in the last 5 years?
+53b2d0d8504943118b3de90a,,23948,question,responseOptionNo,20101,form,No
+53b2d0d8504943118b3de90a,,23948,question,responseOptionYes,20101,form,Yes
+5609569d5049437e32165c98,,33270,question,questionText,20101,form,How many full-time employees were there for the given year? Approximate if necessary.
+560956b1504943c537b70067,,33271,question,questionText,20101,form,How many seasonal or temporary employees were there for the given year? Approximate if necessary.
+5a3c59ed504943c1ba131591,,51807,question,questionText,20101,form,Did your company/corporation maintain a U.S. Experience Modification Rate (EMR) in the past year?
+5a3c59ed504943c1ba131591,,51807,question,responseOptionNo,20101,form,No
+5a3c59ed504943c1ba131591,,51807,question,responseOptionYes,20101,form,Yes
+5a3c59ef50494363d99435c4,,51808,question,questionText,20101,form,What is your company's EMR for the past year? Value must be in decimal format e.g. 0.85
+5a3c59f1504943fb4255e583,,51809,question,questionText,20101,form,What is your company's 3 year average EMR for the past year? Value must be in decimal format e.g. 0.85
+5a3c59f4504943ccc64c7db4,,51810,question,linkhttp://www.census.gov/eos/www/naics/,20101,form,NAICS Lookup
+5a3c59f4504943ccc64c7db4,,51810,question,linkhttp://www.census.gov/eos/www/naics/concordances/concordances.html,20101,form,NAICS / SIC Conversion
+5a3c59f4504943ccc64c7db4,,51810,question,linkhttp://www.osha.gov,20101,form,OSHA website
+5a3c59f4504943ccc64c7db4,,51810,question,linkhttps://www.osha.gov/recordkeeping/ppt1/RK1exempttable.html,20101,form,Valid Exemptions
+5a3c59f4504943ccc64c7db4,,51810,question,linkhttps://www.osha.gov/recordkeeping/ppt1/rk1exempttable.html,20101,form,Valid Exemptions
+5a3c59f4504943ccc64c7db4,,51810,question,questionText,20101,form,"Was your company/corporation subject to maintaining U.S. OSHA logs in the past year? \n<a href=""http://www.osha.gov"" target=""_BLANK"">OSHA website</a> <a href=""https://www.osha.gov/recordkeeping/ppt1/RK1exempttable.html"" target=""_BLANK"">Valid Exemptions</a> <a href=""http://www.census.gov/eos/www/naics/concordances/concordances.html"" target=""_BLANK""> NAICS / SIC Conversion</a> <a href=""http://www.census.gov/eos/www/naics/"" target=""_BLANK""> NAICS Lookup</a>"
+5a3c59f4504943ccc64c7db4,,51810,question,responseOptionNo,20101,form,No
+5a3c59f4504943ccc64c7db4,,51810,question,responseOptionYes,20101,form,Yes
+5a3c59f6504943e821c32e27,,51811,question,description,20101,form,"Total Recordable Incident Rate (TRIR) is calculated as follows:\n<br>\n(total number of recordable incidents x 200,000) ÷ total number of hours worked by all employees"
+5a3c59f6504943e821c32e27,,51811,question,questionText,20101,form,What is your company's TRIR for the past year?
+5a3c59f85049431782ec0199,,51812,question,questionText,20101,form,What is your company's 3 year average TRIR for the past year? Value must be in decimal format e.g. 2.85

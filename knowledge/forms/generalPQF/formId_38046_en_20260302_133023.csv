@@ -1,0 +1,1077 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63aa15d91800008d015eca14,63964aaf1600007412afbecf,38046,questionGroup,questionGroupText,38046,form,Avetta PQF - Health and Safety Consultancy Service
+6396524a160000f813b030fc,6396524a160000f813b030fb,38047,questionGroup,questionGroupText,38046,form,General
+6396674d160000ca17104268,6396674d160000ca17104267,38048,questionGroup,questionGroupText,38046,form,Company Certification / Licensing
+63966f261600007f19b0dba3,63966f261600007f19b0dba2,38049,questionGroup,questionGroupText,38046,form,Professional Memberships
+6398dd781700003e09939d6b,6398dd781700003e09939d6a,38085,questionGroup,questionGroupText,38046,form,Geographical Coverage
+63993c7719000047044d148c,63993c7719000047044d148b,38095,questionGroup,questionGroupText,38046,form,Language Capability
+63993f91170000540099f280,63993f91170000540099f27f,38096,questionGroup,questionGroupText,38046,form,Sectors
+63a93b98160000e905f6e27a,63a93b98160000e905f6e279,38250,questionGroup,questionGroupText,38046,form,Services
+63a9ed361900004500fc9300,63a9ed361900004500fc92ff,38251,questionGroup,questionGroupText,38046,form,Accident / Incident Management
+63a9f19f18000044005d1b51,63a9f19f18000044005d1b50,38252,questionGroup,questionGroupText,38046,form,Competency
+6396525a160000f513b03116,,134720,question,questionText,38046,form,Legal / Registered Company Name
+63965285160000ca130fdf7e,,134721,question,questionText,38046,form,Is your company part of a larger business group?
+63965285160000ca130fdf7e,,134721,question,responseOption1,38046,form,Yes
+63965285160000ca130fdf7e,,134721,question,responseOption2,38046,form,No
+639652fb160000d6130fe123,,134722,question,questionText,38046,form,Confirm your Parent / Holding Company Name:
+639653d71600003a14b036c0,,134723,question,description,38046,form,"(This may be a specialist section within the business that undertakes work other than consultancy, e.g., asbestos testing, investigation work, etc.)\n"
+639653d71600003a14b036c0,,134723,question,questionText,38046,form,Does your company have any subsidiaries? 
+639653d71600003a14b036c0,,134723,question,responseOption1,38046,form,Yes
+639653d71600003a14b036c0,,134723,question,responseOption2,38046,form,No
+639654281600001c140fe54a,,134724,question,questionText,38046,form,Subsidiary company's name(s) and service provision:\n
+639654631600003914b036c6,,134725,question,questionText,38046,form,Does the company outsource client related work to other 3rd parties / agents who undertake work on your behalf?
+639654631600003914b036c6,,134725,question,responseOption1,38046,form,Yes
+639654631600003914b036c6,,134725,question,responseOption2,38046,form,No
+639654871600002714b036c8,,134726,question,description,38046,form,"(Before the company offers any other party work, verification / evaluation is undertaken of the company and the proposed individuals being used to undertake the work)"
+639654871600002714b036c8,,134726,question,questionText,38046,form,Does the company undertake due diligence on the 3rd party company / individual pre contract award?\n
+639654871600002714b036c8,,134726,question,responseOption1,38046,form,Yes
+639654871600002714b036c8,,134726,question,responseOption2,38046,form,No
+639654db1600003914b036c9,,134727,question,description,38046,form,"(This does not need to be an actual evaluation, the proforma / templates used to ask specific questions with applicable methods documented that validated the accuracy)\n"
+639654db1600003914b036c9,,134727,question,questionText,38046,form,Provide an example of how independent / 3rd party consultants are evaluated before being used on client contracts:\n
+639656b716000031140fe550,,134728,question,description,38046,form,(When the company uses independent consultants you check with any institutions the individual claims professional status and where possible qualifications are verified)\n
+639656b716000031140fe550,,134728,question,questionText,38046,form,Does the company verify the professional qualifications / memberships and work experience on all independent consultants used on client based contracts? \n
+639656b716000031140fe550,,134728,question,responseOption1,38046,form,Yes
+639656b716000031140fe550,,134728,question,responseOption2,38046,form,No
+6396583f160000ea14b04825,,134729,question,questionText,38046,form,Explain why the company does not use 3rd party / freelance individuals:
+6396583f160000ea14b04825,,134729,question,responseOption1,38046,form,We never use freelance consultants on client related work unless we have client agreement
+6396583f160000ea14b04825,,134729,question,responseOption2,38046,form,It is company policy to only use full time / permanent employees on consultancy assignments
+6396583f160000ea14b04825,,134729,question,responseOption3,38046,form,Other
+63965959160000c5140ff8b2,,134730,question,questionText,38046,form,"If Other, Please Explain:"
+63965982160000dc140ff94b,,134731,question,description,38046,form,"(Post contract award, sometimes it may be necessary to change personnel that have been previously accepted by the client, if a change is needed can the company demonstrate what actions they will take if change is required)\n"
+63965982160000dc140ff94b,,134731,question,questionText,38046,form,Does the company have a formal process that allows you to substitute consultants on client related work?\n
+63965982160000dc140ff94b,,134731,question,responseOption1,38046,form,Yes
+63965982160000dc140ff94b,,134731,question,responseOption2,38046,form,No
+63965cf51600006215100667,,134732,question,questionText,38046,form,The formal substitution process confirms the following:
+63965cf51600006215100667,,134732,question,responseOption1,38046,form,The client is formally advised of the substitution
+63965cf51600006215100667,,134732,question,responseOption2,38046,form,The substitution period is clearly defined
+63965cf51600006215100667,,134732,question,responseOption3,38046,form,The substitution / replacement is compatible with all requirements in scope of work
+63965cf51600006215100667,,134732,question,responseOption4,38046,form,A formal handover (documented) always takes place
+63965cf51600006215100667,,134732,question,responseOption5,38046,form,Other
+63966166160000a316102508,,134733,question,questionText,38046,form,"If Other, Please Explain:"
+639661d0160000b916b098ef,,134734,question,questionText,38046,form,Does the company mandate all individuals working with client organisations must sign and abide by a company code of conduct / ethics?
+639661d0160000b916b098ef,,134734,question,responseOption1,38046,form,Yes
+639661d0160000b916b098ef,,134734,question,responseOption2,38046,form,No
+6396629e160000c016b09b51,,134735,question,questionText,38046,form,Please upload the company code of conduct / ethics:
+63966762160000c017b0bc5e,,134736,question,questionText,38046,form,Does the company require a licence to practice any part of the company’s service?\n
+63966762160000c017b0bc5e,,134736,question,responseOption1,38046,form,Yes
+63966762160000c017b0bc5e,,134736,question,responseOption2,38046,form,No
+639667d7160000de17104271,,134737,question,questionText,38046,form,Please confirm the type / category of licence needed to practice:\n
+639669461600001718104bc6,,134738,question,questionText,38046,form,Please indicate why no licence is required to deliver consulting services:
+639669461600001718104bc6,,134738,question,responseOption1,38046,form,"In our country of operation, a licence is not required for consulting"
+639669461600001718104bc6,,134738,question,responseOption2,38046,form,Other
+639669be1600003918104dc7,,134739,question,questionText,38046,form,"If Other, Please Explain:"
+639673021600008419106e71,,134740,question,questionText,38046,form,Does the company possess professional membership of a relevant trade body? 
+639673021600008419106e71,,134740,question,responseOption1,38046,form,Yes
+639673021600008419106e71,,134740,question,responseOption2,38046,form,No
+639673b2160000801910700e,,134741,question,questionText,38046,form,Please confirm name / details of trade body:
+639673e6160000111ab109b8,,134742,question,description,38046,form,(This may be a copy of a membership certificate or correspondence confirming the status of the company).\n
+639673e6160000111ab109b8,,134742,question,questionText,38046,form,Please upload information confirming membership status\n
+6398c5791900007b04462300,,134899,question,questionText,38046,form,Please indicate why the company does not possess membership of any of trade body:
+6398c5791900007b04462300,,134899,question,responseOption1,38046,form,The sectors we operate within are too broad and do not require trade body / industry scheme membership
+6398c5791900007b04462300,,134899,question,responseOption2,38046,form,We see no value in joining any of these types of programmes
+6398c5791900007b04462300,,134899,question,responseOption3,38046,form,We currently do not require membership but will  if requested to do so by a client
+6398c5791900007b04462300,,134899,question,responseOption4,38046,form,Our clients do not mandate membership
+6398c5791900007b04462300,,134899,question,responseOption5,38046,form,Other
+6398c68b1900002904462cb6,,134900,question,questionText,38046,form,Does the company possess relevant membership of a professional institution?\n
+6398c68b1900002904462cb6,,134900,question,responseOption1,38046,form,Yes
+6398c68b1900002904462cb6,,134900,question,responseOption2,38046,form,No
+6398c6be170000a3079268fe,,134901,question,questionText,38046,form,Please confirm the name / details of the professional institution:\n
+6398c6d6170000a407926d9b,,134902,question,questionText,38046,form,"Please upload information confirming membership status or correspondence confirming company status e.g., membership certificate"
+6398c6ff19000029044631e6,,134903,question,questionText,38046,form,Please indicate why the company does not possess membership of any of professional institution:
+6398c6ff19000029044631e6,,134903,question,responseOption1,38046,form,The sectors we operate within are too broad and do not require membership of any professional institution
+6398c6ff19000029044631e6,,134903,question,responseOption2,38046,form,We only require our individual consultants to seek membership of professional institutions
+6398c6ff19000029044631e6,,134903,question,responseOption3,38046,form,We see no value in joining any of these types of programmes
+6398c6ff19000029044631e6,,134903,question,responseOption4,38046,form,We currently do not require membership but will  if requested to do so by a client
+6398c6ff19000029044631e6,,134903,question,responseOption5,38046,form,Our clients do not mandate membership 
+6398c6ff19000029044631e6,,134903,question,responseOption6,38046,form,Other
+6398c83d1900009404463b0a,,134904,question,questionText,38046,form,"If Other, Please Explain"
+6398c86d170000bf07927fd0,,134905,question,questionText,38046,form,"If Other, Please Explain"
+6398dda31900004704475c20,,134926,question,description,38046,form,(This means where the company is registered).
+6398dda31900004704475c20,,134926,question,questionText,38046,form,Does the Company have the in-house capacity to provide consultancy services that can cover all domestic locations? \n
+6398dda31900004704475c20,,134926,question,responseOption1,38046,form,Yes
+6398dda31900004704475c20,,134926,question,responseOption2,38046,form,No
+6398ddcb1900004d05475e31,,134927,question,questionText,38046,form,"If the company has limitations on where they can provide services domestically, please specify:\n"
+6398e7b51900000f05480853,,134929,question,questionText,38046,form,Does the Company have the capacity to provide consultancy services covering international locations?
+6398e7b51900000f05480853,,134929,question,responseOption1,38046,form,Yes
+6398e7b51900000f05480853,,134929,question,responseOption2,38046,form,No
+6398e83c1900007905480ee0,,134930,question,questionText,38046,form,Please check the relevant countries where you can confirm the company can provide consultancy services. Select the appropriate region and the relevant countries will show. You have the ability to select multiple countries.\n
+6398e83c1900007905480ee0,,134930,question,responseOption1,38046,form,Africa
+6398e83c1900007905480ee0,,134930,question,responseOption2,38046,form,Arab States
+6398e83c1900007905480ee0,,134930,question,responseOption3,38046,form,Asia and the Pacific
+6398e83c1900007905480ee0,,134930,question,responseOption4,38046,form,Americas
+6398e83c1900007905480ee0,,134930,question,responseOption5,38046,form,Europe and Central Asia
+6398fcdb170000140b9546e7,,134950,question,questionText,38046,form,Africa:
+6398fcdb170000140b9546e7,,134950,question,responseOption1,38046,form,Algeri
+6398fcdb170000140b9546e7,,134950,question,responseOption10,38046,form,Chad
+6398fcdb170000140b9546e7,,134950,question,responseOption11,38046,form,Congo
+6398fcdb170000140b9546e7,,134950,question,responseOption12,38046,form,Côte d'Ivoire
+6398fcdb170000140b9546e7,,134950,question,responseOption13,38046,form, Democratic Republic of the Congo
+6398fcdb170000140b9546e7,,134950,question,responseOption14,38046,form,Djibouti
+6398fcdb170000140b9546e7,,134950,question,responseOption15,38046,form,Egypt
+6398fcdb170000140b9546e7,,134950,question,responseOption16,38046,form,Equatorial Guinea
+6398fcdb170000140b9546e7,,134950,question,responseOption17,38046,form,Eritrea
+6398fcdb170000140b9546e7,,134950,question,responseOption18,38046,form,Ethiopia
+6398fcdb170000140b9546e7,,134950,question,responseOption19,38046,form, Gabon
+6398fcdb170000140b9546e7,,134950,question,responseOption2,38046,form,Angola
+6398fcdb170000140b9546e7,,134950,question,responseOption20,38046,form,Gambia
+6398fcdb170000140b9546e7,,134950,question,responseOption21,38046,form,Ghana
+6398fcdb170000140b9546e7,,134950,question,responseOption22,38046,form,Guinea
+6398fcdb170000140b9546e7,,134950,question,responseOption23,38046,form,Guinea-Bissau
+6398fcdb170000140b9546e7,,134950,question,responseOption24,38046,form,Kenya
+6398fcdb170000140b9546e7,,134950,question,responseOption25,38046,form,Lesotho
+6398fcdb170000140b9546e7,,134950,question,responseOption26,38046,form,Liberia
+6398fcdb170000140b9546e7,,134950,question,responseOption27,38046,form,Libya
+6398fcdb170000140b9546e7,,134950,question,responseOption28,38046,form,Madagascar
+6398fcdb170000140b9546e7,,134950,question,responseOption29,38046,form,Malawi
+6398fcdb170000140b9546e7,,134950,question,responseOption3,38046,form, Benin
+6398fcdb170000140b9546e7,,134950,question,responseOption30,38046,form,Mali
+6398fcdb170000140b9546e7,,134950,question,responseOption31,38046,form,Mauritania
+6398fcdb170000140b9546e7,,134950,question,responseOption32,38046,form,Mauritius
+6398fcdb170000140b9546e7,,134950,question,responseOption33,38046,form,Morocco
+6398fcdb170000140b9546e7,,134950,question,responseOption34,38046,form,Mozambique
+6398fcdb170000140b9546e7,,134950,question,responseOption35,38046,form,Namibia
+6398fcdb170000140b9546e7,,134950,question,responseOption36,38046,form,Niger
+6398fcdb170000140b9546e7,,134950,question,responseOption37,38046,form,Nigeria
+6398fcdb170000140b9546e7,,134950,question,responseOption38,38046,form,Rwanda
+6398fcdb170000140b9546e7,,134950,question,responseOption39,38046,form,Senegal
+6398fcdb170000140b9546e7,,134950,question,responseOption4,38046,form, Botswana
+6398fcdb170000140b9546e7,,134950,question,responseOption40,38046,form, Sierra Leone
+6398fcdb170000140b9546e7,,134950,question,responseOption41,38046,form,Somalia
+6398fcdb170000140b9546e7,,134950,question,responseOption42,38046,form,South Africa
+6398fcdb170000140b9546e7,,134950,question,responseOption43,38046,form,South Sudan
+6398fcdb170000140b9546e7,,134950,question,responseOption44,38046,form,Sudan
+6398fcdb170000140b9546e7,,134950,question,responseOption45,38046,form,Swaziland
+6398fcdb170000140b9546e7,,134950,question,responseOption46,38046,form,Tanzania
+6398fcdb170000140b9546e7,,134950,question,responseOption47,38046,form,Togo
+6398fcdb170000140b9546e7,,134950,question,responseOption48,38046,form,Tunisia
+6398fcdb170000140b9546e7,,134950,question,responseOption49,38046,form,Uganda
+6398fcdb170000140b9546e7,,134950,question,responseOption5,38046,form, Burkina Faso
+6398fcdb170000140b9546e7,,134950,question,responseOption50,38046,form,Zambia
+6398fcdb170000140b9546e7,,134950,question,responseOption51,38046,form,Zimbabwe
+6398fcdb170000140b9546e7,,134950,question,responseOption6,38046,form,Burundi
+6398fcdb170000140b9546e7,,134950,question,responseOption7,38046,form,Cameroon
+6398fcdb170000140b9546e7,,134950,question,responseOption8,38046,form,Cape Verde
+6398fcdb170000140b9546e7,,134950,question,responseOption9,38046,form,Central African Republic
+6398feeb1900002504495a47,,134951,question,questionText,38046,form,Arab States:
+6398feeb1900002504495a47,,134951,question,responseOption1,38046,form,Bahrain
+6398feeb1900002504495a47,,134951,question,responseOption10,38046,form,United Arab Emirates
+6398feeb1900002504495a47,,134951,question,responseOption11,38046,form,Yemen
+6398feeb1900002504495a47,,134951,question,responseOption2,38046,form,Iraq
+6398feeb1900002504495a47,,134951,question,responseOption3,38046,form,Jordan
+6398feeb1900002504495a47,,134951,question,responseOption4,38046,form,Kuwait
+6398feeb1900002504495a47,,134951,question,responseOption5,38046,form,Lebanon
+6398feeb1900002504495a47,,134951,question,responseOption6,38046,form,Oman
+6398feeb1900002504495a47,,134951,question,responseOption7,38046,form,Qatar
+6398feeb1900002504495a47,,134951,question,responseOption8,38046,form,Saudi Arabia
+6398feeb1900002504495a47,,134951,question,responseOption9,38046,form,Syrian Arab Republic
+6398ff64170000140b9559d1,,134952,question,questionText,38046,form,Americas:
+6398ff64170000140b9559d1,,134952,question,responseOption1,38046,form,Barbados
+6398ff64170000140b9559d1,,134952,question,responseOption10,38046,form,Ecuador
+6398ff64170000140b9559d1,,134952,question,responseOption11,38046,form,El Salvador
+6398ff64170000140b9559d1,,134952,question,responseOption12,38046,form,Guatemala
+6398ff64170000140b9559d1,,134952,question,responseOption13,38046,form,Guyana
+6398ff64170000140b9559d1,,134952,question,responseOption14,38046,form,Haiti
+6398ff64170000140b9559d1,,134952,question,responseOption15,38046,form,Honduras
+6398ff64170000140b9559d1,,134952,question,responseOption16,38046,form,Jamaica
+6398ff64170000140b9559d1,,134952,question,responseOption17,38046,form,Mexico
+6398ff64170000140b9559d1,,134952,question,responseOption18,38046,form,Nicaragua
+6398ff64170000140b9559d1,,134952,question,responseOption19,38046,form,Panama
+6398ff64170000140b9559d1,,134952,question,responseOption2,38046,form,Bolivia
+6398ff64170000140b9559d1,,134952,question,responseOption20,38046,form,Paraguay
+6398ff64170000140b9559d1,,134952,question,responseOption21,38046,form,Peru
+6398ff64170000140b9559d1,,134952,question,responseOption22,38046,form,Suriname
+6398ff64170000140b9559d1,,134952,question,responseOption23,38046,form,Trinidad and Tobago
+6398ff64170000140b9559d1,,134952,question,responseOption24,38046,form,United States
+6398ff64170000140b9559d1,,134952,question,responseOption25,38046,form,Uruguay
+6398ff64170000140b9559d1,,134952,question,responseOption26,38046,form,Venezuela (Bolivarian republic of)
+6398ff64170000140b9559d1,,134952,question,responseOption3,38046,form,Brazil
+6398ff64170000140b9559d1,,134952,question,responseOption4,38046,form,Canada
+6398ff64170000140b9559d1,,134952,question,responseOption5,38046,form,Chile
+6398ff64170000140b9559d1,,134952,question,responseOption6,38046,form,Colombia
+6398ff64170000140b9559d1,,134952,question,responseOption7,38046,form,Costa Rica
+6398ff64170000140b9559d1,,134952,question,responseOption8,38046,form,Cuba
+6398ff64170000140b9559d1,,134952,question,responseOption9,38046,form,Dominican Republic
+639905ef170000370c958f3a,,134953,question,questionText,38046,form,Europe and Central Asia:
+639905ef170000370c958f3a,,134953,question,responseOption1,38046,form,Albania
+639905ef170000370c958f3a,,134953,question,responseOption10,38046,form,Cyprus
+639905ef170000370c958f3a,,134953,question,responseOption11,38046,form,Czech Republic
+639905ef170000370c958f3a,,134953,question,responseOption12,38046,form,Denmark
+639905ef170000370c958f3a,,134953,question,responseOption13,38046,form,Estonia
+639905ef170000370c958f3a,,134953,question,responseOption14,38046,form,Finland
+639905ef170000370c958f3a,,134953,question,responseOption15,38046,form,France
+639905ef170000370c958f3a,,134953,question,responseOption16,38046,form,Georgia
+639905ef170000370c958f3a,,134953,question,responseOption17,38046,form,Germany
+639905ef170000370c958f3a,,134953,question,responseOption18,38046,form,Greece
+639905ef170000370c958f3a,,134953,question,responseOption19,38046,form,Hungary
+639905ef170000370c958f3a,,134953,question,responseOption2,38046,form,Armenia
+639905ef170000370c958f3a,,134953,question,responseOption20,38046,form,Iceland
+639905ef170000370c958f3a,,134953,question,responseOption21,38046,form,Ireland
+639905ef170000370c958f3a,,134953,question,responseOption22,38046,form,Israel
+639905ef170000370c958f3a,,134953,question,responseOption23,38046,form,Italy
+639905ef170000370c958f3a,,134953,question,responseOption24,38046,form,Kazakhstan
+639905ef170000370c958f3a,,134953,question,responseOption25,38046,form,Kosovo
+639905ef170000370c958f3a,,134953,question,responseOption26,38046,form,Kyrgyzstan
+639905ef170000370c958f3a,,134953,question,responseOption27,38046,form,Latvia
+639905ef170000370c958f3a,,134953,question,responseOption28,38046,form,Lithuania
+639905ef170000370c958f3a,,134953,question,responseOption29,38046,form,Luxembourg
+639905ef170000370c958f3a,,134953,question,responseOption3,38046,form,Austria
+639905ef170000370c958f3a,,134953,question,responseOption30,38046,form,Macedonia
+639905ef170000370c958f3a,,134953,question,responseOption31,38046,form,Montenegro
+639905ef170000370c958f3a,,134953,question,responseOption32,38046,form,Netherlands
+639905ef170000370c958f3a,,134953,question,responseOption33,38046,form,Norway
+639905ef170000370c958f3a,,134953,question,responseOption34,38046,form,Poland
+639905ef170000370c958f3a,,134953,question,responseOption35,38046,form,Portugal
+639905ef170000370c958f3a,,134953,question,responseOption36,38046,form,Republic of Moldova
+639905ef170000370c958f3a,,134953,question,responseOption37,38046,form,Romania
+639905ef170000370c958f3a,,134953,question,responseOption38,38046,form,Russian Federation
+639905ef170000370c958f3a,,134953,question,responseOption39,38046,form,Serbia
+639905ef170000370c958f3a,,134953,question,responseOption4,38046,form,Azerbaijan
+639905ef170000370c958f3a,,134953,question,responseOption40,38046,form,Slovakia
+639905ef170000370c958f3a,,134953,question,responseOption41,38046,form,Slovenia
+639905ef170000370c958f3a,,134953,question,responseOption42,38046,form,Spain
+639905ef170000370c958f3a,,134953,question,responseOption43,38046,form,Sweden
+639905ef170000370c958f3a,,134953,question,responseOption44,38046,form,Switzerland
+639905ef170000370c958f3a,,134953,question,responseOption45,38046,form,Tajikistan
+639905ef170000370c958f3a,,134953,question,responseOption46,38046,form,Turkey
+639905ef170000370c958f3a,,134953,question,responseOption47,38046,form,Turkmenistan
+639905ef170000370c958f3a,,134953,question,responseOption48,38046,form,Ukraine
+639905ef170000370c958f3a,,134953,question,responseOption49,38046,form,United Kingdom
+639905ef170000370c958f3a,,134953,question,responseOption5,38046,form,Belarus
+639905ef170000370c958f3a,,134953,question,responseOption50,38046,form,Uzbekistan
+639905ef170000370c958f3a,,134953,question,responseOption6,38046,form,Belgium
+639905ef170000370c958f3a,,134953,question,responseOption7,38046,form,Bosnia and Herzegovina
+639905ef170000370c958f3a,,134953,question,responseOption8,38046,form,Bulgaria
+639905ef170000370c958f3a,,134953,question,responseOption9,38046,form,Croatia
+63990f3d170000120b961899,,134956,question,questionText,38046,form,Asia and the Pacific:
+63990f3d170000120b961899,,134956,question,responseOption1,38046,form,Afghanistan
+63990f3d170000120b961899,,134956,question,responseOption10,38046,form,Iran
+63990f3d170000120b961899,,134956,question,responseOption11,38046,form,Japan
+63990f3d170000120b961899,,134956,question,responseOption12,38046,form,Malaysia
+63990f3d170000120b961899,,134956,question,responseOption13,38046,form,Mongolia
+63990f3d170000120b961899,,134956,question,responseOption14,38046,form,Myanmar
+63990f3d170000120b961899,,134956,question,responseOption15,38046,form,Nepal
+63990f3d170000120b961899,,134956,question,responseOption16,38046,form,New Zealand
+63990f3d170000120b961899,,134956,question,responseOption17,38046,form,North Korea
+63990f3d170000120b961899,,134956,question,responseOption18,38046,form,Pakistan
+63990f3d170000120b961899,,134956,question,responseOption19,38046,form,Papua New Guinea
+63990f3d170000120b961899,,134956,question,responseOption2,38046,form,Australia
+63990f3d170000120b961899,,134956,question,responseOption20,38046,form,People's Democratic Republic Lao
+63990f3d170000120b961899,,134956,question,responseOption21,38046,form,Philippines
+63990f3d170000120b961899,,134956,question,responseOption22,38046,form,Singapore
+63990f3d170000120b961899,,134956,question,responseOption23,38046,form,South Korea
+63990f3d170000120b961899,,134956,question,responseOption24,38046,form,Sri Lanka
+63990f3d170000120b961899,,134956,question,responseOption25,38046,form,"Taiwan, China"
+63990f3d170000120b961899,,134956,question,responseOption26,38046,form,Thailand
+63990f3d170000120b961899,,134956,question,responseOption27,38046,form,Timor-Leste
+63990f3d170000120b961899,,134956,question,responseOption28,38046,form,Viet Nam
+63990f3d170000120b961899,,134956,question,responseOption3,38046,form,Bangladesh
+63990f3d170000120b961899,,134956,question,responseOption4,38046,form,Brunei Darussalam
+63990f3d170000120b961899,,134956,question,responseOption5,38046,form,Cambodia
+63990f3d170000120b961899,,134956,question,responseOption6,38046,form,China
+63990f3d170000120b961899,,134956,question,responseOption7,38046,form," Hong Kong, China"
+63990f3d170000120b961899,,134956,question,responseOption8,38046,form,India
+63990f3d170000120b961899,,134956,question,responseOption9,38046,form,Indonesia
+6399323d19000093064c5c7d,,134973,question,questionText,38046,form,Does the company use the services of an agent / partner to provide consultancy services on behalf of your company within other countries on your behalf?
+6399323d19000093064c5c7d,,134973,question,responseOption1,38046,form,Yes
+6399323d19000093064c5c7d,,134973,question,responseOption2,38046,form,No
+639932a41900008f074c5f7f,,134974,question,questionText,38046,form,Please confirm the countries:
+639932a41900008f074c5f7f,,134974,question,responseOption1,38046,form,Africa
+639932a41900008f074c5f7f,,134974,question,responseOption2,38046,form,Arab States
+639932a41900008f074c5f7f,,134974,question,responseOption3,38046,form,Asia and the Pacific
+639932a41900008f074c5f7f,,134974,question,responseOption4,38046,form,Americas
+639932a41900008f074c5f7f,,134974,question,responseOption5,38046,form,Europe and Central Asia
+639932fb19000095064c6309,,134975,question,questionText,38046,form,Africa:
+639932fb19000095064c6309,,134975,question,responseOption1,38046,form,Algeria
+639932fb19000095064c6309,,134975,question,responseOption10,38046,form,Chad
+639932fb19000095064c6309,,134975,question,responseOption11,38046,form,Congo
+639932fb19000095064c6309,,134975,question,responseOption12,38046,form,Côte d'Ivoire
+639932fb19000095064c6309,,134975,question,responseOption13,38046,form,Democratic Republic of the Congo
+639932fb19000095064c6309,,134975,question,responseOption14,38046,form,Djibouti
+639932fb19000095064c6309,,134975,question,responseOption15,38046,form,Egypt
+639932fb19000095064c6309,,134975,question,responseOption16,38046,form,Equatorial Guinea
+639932fb19000095064c6309,,134975,question,responseOption17,38046,form,Eritrea
+639932fb19000095064c6309,,134975,question,responseOption18,38046,form,Ethiopia
+639932fb19000095064c6309,,134975,question,responseOption19,38046,form,Gabon
+639932fb19000095064c6309,,134975,question,responseOption2,38046,form,Angola
+639932fb19000095064c6309,,134975,question,responseOption20,38046,form,Gambia
+639932fb19000095064c6309,,134975,question,responseOption21,38046,form,Ghana
+639932fb19000095064c6309,,134975,question,responseOption22,38046,form,Guinea
+639932fb19000095064c6309,,134975,question,responseOption23,38046,form,Guinea-Bissau
+639932fb19000095064c6309,,134975,question,responseOption24,38046,form,Kenya
+639932fb19000095064c6309,,134975,question,responseOption25,38046,form,Lesotho
+639932fb19000095064c6309,,134975,question,responseOption26,38046,form,Liberia
+639932fb19000095064c6309,,134975,question,responseOption27,38046,form,Libya
+639932fb19000095064c6309,,134975,question,responseOption28,38046,form,Madagascar
+639932fb19000095064c6309,,134975,question,responseOption29,38046,form,Malawi
+639932fb19000095064c6309,,134975,question,responseOption3,38046,form,Benin
+639932fb19000095064c6309,,134975,question,responseOption30,38046,form,Mali
+639932fb19000095064c6309,,134975,question,responseOption31,38046,form,Mauritania
+639932fb19000095064c6309,,134975,question,responseOption32,38046,form,Mauritius
+639932fb19000095064c6309,,134975,question,responseOption33,38046,form,Morocco
+639932fb19000095064c6309,,134975,question,responseOption34,38046,form,Mozambique
+639932fb19000095064c6309,,134975,question,responseOption35,38046,form,Namibia
+639932fb19000095064c6309,,134975,question,responseOption36,38046,form,Niger
+639932fb19000095064c6309,,134975,question,responseOption37,38046,form,Nigeria
+639932fb19000095064c6309,,134975,question,responseOption38,38046,form,Rwanda
+639932fb19000095064c6309,,134975,question,responseOption39,38046,form,Senegal
+639932fb19000095064c6309,,134975,question,responseOption4,38046,form,Botswana
+639932fb19000095064c6309,,134975,question,responseOption40,38046,form,Sierra Leone
+639932fb19000095064c6309,,134975,question,responseOption41,38046,form,Somalia
+639932fb19000095064c6309,,134975,question,responseOption42,38046,form,South Africa
+639932fb19000095064c6309,,134975,question,responseOption43,38046,form,South Sudan
+639932fb19000095064c6309,,134975,question,responseOption44,38046,form,Sudan
+639932fb19000095064c6309,,134975,question,responseOption45,38046,form,Swaziland
+639932fb19000095064c6309,,134975,question,responseOption46,38046,form,Tanzania
+639932fb19000095064c6309,,134975,question,responseOption47,38046,form,Togo
+639932fb19000095064c6309,,134975,question,responseOption48,38046,form,Tunisia
+639932fb19000095064c6309,,134975,question,responseOption49,38046,form,Uganda
+639932fb19000095064c6309,,134975,question,responseOption5,38046,form,Burkina Faso
+639932fb19000095064c6309,,134975,question,responseOption50,38046,form,Zambia
+639932fb19000095064c6309,,134975,question,responseOption51,38046,form,Zimbabwe
+639932fb19000095064c6309,,134975,question,responseOption6,38046,form,Burundi
+639932fb19000095064c6309,,134975,question,responseOption7,38046,form,Cameroon
+639932fb19000095064c6309,,134975,question,responseOption8,38046,form,Cape Verde
+639932fb19000095064c6309,,134975,question,responseOption9,38046,form,Central African Republic
+639934491700000e0e97dae9,,134976,question,questionText,38046,form,Arab States:
+639934491700000e0e97dae9,,134976,question,responseOption1,38046,form,Bahrain
+639934491700000e0e97dae9,,134976,question,responseOption10,38046,form,United Arab Emirates
+639934491700000e0e97dae9,,134976,question,responseOption11,38046,form,Yemen
+639934491700000e0e97dae9,,134976,question,responseOption2,38046,form,Iraq
+639934491700000e0e97dae9,,134976,question,responseOption3,38046,form,Jordan
+639934491700000e0e97dae9,,134976,question,responseOption4,38046,form,Kuwait
+639934491700000e0e97dae9,,134976,question,responseOption5,38046,form,Lebanon
+639934491700000e0e97dae9,,134976,question,responseOption6,38046,form,Oman
+639934491700000e0e97dae9,,134976,question,responseOption7,38046,form,Qatar
+639934491700000e0e97dae9,,134976,question,responseOption8,38046,form,Saudi Arabia
+639934491700000e0e97dae9,,134976,question,responseOption9,38046,form,Syrian Arab Republic
+6399359919000007074c94ef,,134977,question,questionText,38046,form,Asia and the Pacific:
+6399359919000007074c94ef,,134977,question,responseOption1,38046,form,Afghanistan
+6399359919000007074c94ef,,134977,question,responseOption10,38046,form,Iran
+6399359919000007074c94ef,,134977,question,responseOption11,38046,form,Japan
+6399359919000007074c94ef,,134977,question,responseOption12,38046,form,Malaysia
+6399359919000007074c94ef,,134977,question,responseOption13,38046,form,Mongolia
+6399359919000007074c94ef,,134977,question,responseOption14,38046,form,Myanmar
+6399359919000007074c94ef,,134977,question,responseOption15,38046,form,Nepal
+6399359919000007074c94ef,,134977,question,responseOption16,38046,form,New Zealand
+6399359919000007074c94ef,,134977,question,responseOption17,38046,form,North Korea
+6399359919000007074c94ef,,134977,question,responseOption18,38046,form,Pakistan
+6399359919000007074c94ef,,134977,question,responseOption19,38046,form,Papua New Guinea
+6399359919000007074c94ef,,134977,question,responseOption2,38046,form,Australia
+6399359919000007074c94ef,,134977,question,responseOption20,38046,form,People's Democratic Republic Lao
+6399359919000007074c94ef,,134977,question,responseOption21,38046,form,Philippines
+6399359919000007074c94ef,,134977,question,responseOption22,38046,form,Singapore
+6399359919000007074c94ef,,134977,question,responseOption23,38046,form,South Korea
+6399359919000007074c94ef,,134977,question,responseOption24,38046,form,Sri Lanka
+6399359919000007074c94ef,,134977,question,responseOption25,38046,form,"Taiwan, China"
+6399359919000007074c94ef,,134977,question,responseOption26,38046,form,Thailand
+6399359919000007074c94ef,,134977,question,responseOption27,38046,form,Timor-Leste
+6399359919000007074c94ef,,134977,question,responseOption28,38046,form,Viet Nam
+6399359919000007074c94ef,,134977,question,responseOption3,38046,form,Bangladesh
+6399359919000007074c94ef,,134977,question,responseOption4,38046,form,Brunei Darussalam
+6399359919000007074c94ef,,134977,question,responseOption5,38046,form,Cambodia
+6399359919000007074c94ef,,134977,question,responseOption6,38046,form,China
+6399359919000007074c94ef,,134977,question,responseOption7,38046,form,"Hong Kong, China"
+6399359919000007074c94ef,,134977,question,responseOption8,38046,form,India
+6399359919000007074c94ef,,134977,question,responseOption9,38046,form,Indonesia
+6399369f19000092044ca5fa,,134978,question,questionText,38046,form,Americas:
+6399369f19000092044ca5fa,,134978,question,responseOption1,38046,form,Barbados
+6399369f19000092044ca5fa,,134978,question,responseOption10,38046,form,Ecuador
+6399369f19000092044ca5fa,,134978,question,responseOption11,38046,form,El Salvador
+6399369f19000092044ca5fa,,134978,question,responseOption12,38046,form,Guatemala
+6399369f19000092044ca5fa,,134978,question,responseOption13,38046,form,Guyana
+6399369f19000092044ca5fa,,134978,question,responseOption14,38046,form,Haiti
+6399369f19000092044ca5fa,,134978,question,responseOption15,38046,form,Honduras
+6399369f19000092044ca5fa,,134978,question,responseOption16,38046,form,Jamaica
+6399369f19000092044ca5fa,,134978,question,responseOption17,38046,form,Mexico
+6399369f19000092044ca5fa,,134978,question,responseOption18,38046,form,Nicaragua
+6399369f19000092044ca5fa,,134978,question,responseOption19,38046,form,Panama
+6399369f19000092044ca5fa,,134978,question,responseOption2,38046,form,Bolivia
+6399369f19000092044ca5fa,,134978,question,responseOption20,38046,form,Paraguay
+6399369f19000092044ca5fa,,134978,question,responseOption21,38046,form,Peru
+6399369f19000092044ca5fa,,134978,question,responseOption22,38046,form,Suriname
+6399369f19000092044ca5fa,,134978,question,responseOption23,38046,form,Trinidad and Tobago
+6399369f19000092044ca5fa,,134978,question,responseOption24,38046,form,United States
+6399369f19000092044ca5fa,,134978,question,responseOption25,38046,form,Uruguay
+6399369f19000092044ca5fa,,134978,question,responseOption26,38046,form,Venezuela (Bolivarian republic of)
+6399369f19000092044ca5fa,,134978,question,responseOption3,38046,form,Brazil
+6399369f19000092044ca5fa,,134978,question,responseOption4,38046,form,Canada
+6399369f19000092044ca5fa,,134978,question,responseOption5,38046,form,Chile
+6399369f19000092044ca5fa,,134978,question,responseOption6,38046,form,Colombia
+6399369f19000092044ca5fa,,134978,question,responseOption7,38046,form,Costa Rica
+6399369f19000092044ca5fa,,134978,question,responseOption8,38046,form,Cuba
+6399369f19000092044ca5fa,,134978,question,responseOption9,38046,form,Dominican Republic
+6399399d1700000d0e9832f9,,134979,question,questionText,38046,form,Europe and Central Asia:
+6399399d1700000d0e9832f9,,134979,question,responseOption1,38046,form,Albania
+6399399d1700000d0e9832f9,,134979,question,responseOption10,38046,form,Cyprus
+6399399d1700000d0e9832f9,,134979,question,responseOption11,38046,form,Czech Republic
+6399399d1700000d0e9832f9,,134979,question,responseOption12,38046,form,Denmark
+6399399d1700000d0e9832f9,,134979,question,responseOption13,38046,form,Estonia
+6399399d1700000d0e9832f9,,134979,question,responseOption14,38046,form,Finland
+6399399d1700000d0e9832f9,,134979,question,responseOption15,38046,form,France
+6399399d1700000d0e9832f9,,134979,question,responseOption16,38046,form,Georgia
+6399399d1700000d0e9832f9,,134979,question,responseOption17,38046,form,Germany
+6399399d1700000d0e9832f9,,134979,question,responseOption18,38046,form,Greece
+6399399d1700000d0e9832f9,,134979,question,responseOption19,38046,form,Hungary
+6399399d1700000d0e9832f9,,134979,question,responseOption2,38046,form,Armenia
+6399399d1700000d0e9832f9,,134979,question,responseOption20,38046,form,Iceland
+6399399d1700000d0e9832f9,,134979,question,responseOption21,38046,form,Ireland
+6399399d1700000d0e9832f9,,134979,question,responseOption22,38046,form,Israel
+6399399d1700000d0e9832f9,,134979,question,responseOption23,38046,form,Italy
+6399399d1700000d0e9832f9,,134979,question,responseOption24,38046,form,Kazakhstan
+6399399d1700000d0e9832f9,,134979,question,responseOption25,38046,form,Kosovo
+6399399d1700000d0e9832f9,,134979,question,responseOption26,38046,form,Kyrgyzstan
+6399399d1700000d0e9832f9,,134979,question,responseOption27,38046,form,Latvia
+6399399d1700000d0e9832f9,,134979,question,responseOption28,38046,form,Lithuania
+6399399d1700000d0e9832f9,,134979,question,responseOption29,38046,form,Luxembourg
+6399399d1700000d0e9832f9,,134979,question,responseOption3,38046,form,Austria
+6399399d1700000d0e9832f9,,134979,question,responseOption30,38046,form,Macedonia
+6399399d1700000d0e9832f9,,134979,question,responseOption31,38046,form,Montenegro
+6399399d1700000d0e9832f9,,134979,question,responseOption32,38046,form,Netherlands
+6399399d1700000d0e9832f9,,134979,question,responseOption33,38046,form,Norway
+6399399d1700000d0e9832f9,,134979,question,responseOption34,38046,form,Poland
+6399399d1700000d0e9832f9,,134979,question,responseOption35,38046,form,Portugal
+6399399d1700000d0e9832f9,,134979,question,responseOption36,38046,form,Republic of Moldova
+6399399d1700000d0e9832f9,,134979,question,responseOption37,38046,form,Romania
+6399399d1700000d0e9832f9,,134979,question,responseOption38,38046,form,Russian Federation
+6399399d1700000d0e9832f9,,134979,question,responseOption39,38046,form,Serbia
+6399399d1700000d0e9832f9,,134979,question,responseOption4,38046,form,Azerbaijan
+6399399d1700000d0e9832f9,,134979,question,responseOption40,38046,form,Slovakia
+6399399d1700000d0e9832f9,,134979,question,responseOption41,38046,form,Slovenia
+6399399d1700000d0e9832f9,,134979,question,responseOption42,38046,form,Spain
+6399399d1700000d0e9832f9,,134979,question,responseOption43,38046,form,Sweden
+6399399d1700000d0e9832f9,,134979,question,responseOption44,38046,form,Switzerland
+6399399d1700000d0e9832f9,,134979,question,responseOption45,38046,form,Tajikistan
+6399399d1700000d0e9832f9,,134979,question,responseOption46,38046,form,Turkey
+6399399d1700000d0e9832f9,,134979,question,responseOption47,38046,form,Turkmenistan
+6399399d1700000d0e9832f9,,134979,question,responseOption48,38046,form,Ukraine
+6399399d1700000d0e9832f9,,134979,question,responseOption49,38046,form,United Kingdom
+6399399d1700000d0e9832f9,,134979,question,responseOption5,38046,form,Belarus
+6399399d1700000d0e9832f9,,134979,question,responseOption50,38046,form,Uzbekistan
+6399399d1700000d0e9832f9,,134979,question,responseOption6,38046,form,Belgium
+6399399d1700000d0e9832f9,,134979,question,responseOption7,38046,form,Bosnia and Herzegovina
+6399399d1700000d0e9832f9,,134979,question,responseOption8,38046,form,Bulgaria
+6399399d1700000d0e9832f9,,134979,question,responseOption9,38046,form,Croatia
+63993ca819000047044d16bb,,134980,question,questionText,38046,form,Please confirm all of the languages that are available as part of the consultancy service: \n
+63993ca819000047044d16bb,,134980,question,responseOption1,38046,form,Algerian Arabic
+63993ca819000047044d16bb,,134980,question,responseOption10,38046,form,Chittagonian
+63993ca819000047044d16bb,,134980,question,responseOption11,38046,form,Czech
+63993ca819000047044d16bb,,134980,question,responseOption12,38046,form,Deccan
+63993ca819000047044d16bb,,134980,question,responseOption13,38046,form,Dutch
+63993ca819000047044d16bb,,134980,question,responseOption14,38046,form,Eastern Min
+63993ca819000047044d16bb,,134980,question,responseOption15,38046,form,Eastern Punjabi
+63993ca819000047044d16bb,,134980,question,responseOption16,38046,form,Egyptian Arabic
+63993ca819000047044d16bb,,134980,question,responseOption17,38046,form,English
+63993ca819000047044d16bb,,134980,question,responseOption18,38046,form,French
+63993ca819000047044d16bb,,134980,question,responseOption19,38046,form,Gan Chinese
+63993ca819000047044d16bb,,134980,question,responseOption2,38046,form,Amharic
+63993ca819000047044d16bb,,134980,question,responseOption20,38046,form,German
+63993ca819000047044d16bb,,134980,question,responseOption21,38046,form,Greek
+63993ca819000047044d16bb,,134980,question,responseOption22,38046,form,Gujarati
+63993ca819000047044d16bb,,134980,question,responseOption23,38046,form,Hakka
+63993ca819000047044d16bb,,134980,question,responseOption24,38046,form,Hausa
+63993ca819000047044d16bb,,134980,question,responseOption25,38046,form,Hejazi Arabic
+63993ca819000047044d16bb,,134980,question,responseOption26,38046,form,Hindi
+63993ca819000047044d16bb,,134980,question,responseOption27,38046,form,Hungarian
+63993ca819000047044d16bb,,134980,question,responseOption28,38046,form,Igbo
+63993ca819000047044d16bb,,134980,question,responseOption29,38046,form,Indonesian
+63993ca819000047044d16bb,,134980,question,responseOption3,38046,form,Assamese
+63993ca819000047044d16bb,,134980,question,responseOption30,38046,form,Iranian Persian
+63993ca819000047044d16bb,,134980,question,responseOption31,38046,form,Italian
+63993ca819000047044d16bb,,134980,question,responseOption32,38046,form,Japanese
+63993ca819000047044d16bb,,134980,question,responseOption33,38046,form,Javanese
+63993ca819000047044d16bb,,134980,question,responseOption34,38046,form,Jin Chinese
+63993ca819000047044d16bb,,134980,question,responseOption35,38046,form,Kannada
+63993ca819000047044d16bb,,134980,question,responseOption36,38046,form,Kazakh
+63993ca819000047044d16bb,,134980,question,responseOption37,38046,form,Khmer
+63993ca819000047044d16bb,,134980,question,responseOption38,38046,form,Kinyarwanda
+63993ca819000047044d16bb,,134980,question,responseOption39,38046,form,Korean
+63993ca819000047044d16bb,,134980,question,responseOption4,38046,form,Bavarian
+63993ca819000047044d16bb,,134980,question,responseOption40,38046,form,Magahi
+63993ca819000047044d16bb,,134980,question,responseOption41,38046,form,Maithili
+63993ca819000047044d16bb,,134980,question,responseOption42,38046,form,Malayalam
+63993ca819000047044d16bb,,134980,question,responseOption43,38046,form,Malaysian (Malaysian Malay)
+63993ca819000047044d16bb,,134980,question,responseOption44,38046,form,Mandarin Chinese
+63993ca819000047044d16bb,,134980,question,responseOption45,38046,form,Marathi
+63993ca819000047044d16bb,,134980,question,responseOption46,38046,form,Mesopotamian Arabic
+63993ca819000047044d16bb,,134980,question,responseOption47,38046,form,Moroccan Arabic
+63993ca819000047044d16bb,,134980,question,responseOption48,38046,form,Nepali
+63993ca819000047044d16bb,,134980,question,responseOption49,38046,form,Nigerian Fulfulde
+63993ca819000047044d16bb,,134980,question,responseOption5,38046,form,Bengali
+63993ca819000047044d16bb,,134980,question,responseOption50,38046,form,North Levantine Arabic
+63993ca819000047044d16bb,,134980,question,responseOption51,38046,form,Northern Kurdish
+63993ca819000047044d16bb,,134980,question,responseOption52,38046,form,Northern Min
+63993ca819000047044d16bb,,134980,question,responseOption53,38046,form,Northern Pashto
+63993ca819000047044d16bb,,134980,question,responseOption54,38046,form,Northern Uzbek
+63993ca819000047044d16bb,,134980,question,responseOption55,38046,form,Odia
+63993ca819000047044d16bb,,134980,question,responseOption56,38046,form,Polish
+63993ca819000047044d16bb,,134980,question,responseOption57,38046,form,Portuguese
+63993ca819000047044d16bb,,134980,question,responseOption58,38046,form,Romanian
+63993ca819000047044d16bb,,134980,question,responseOption59,38046,form,Rundi
+63993ca819000047044d16bb,,134980,question,responseOption6,38046,form,Bhojpuri
+63993ca819000047044d16bb,,134980,question,responseOption60,38046,form,Russian
+63993ca819000047044d16bb,,134980,question,responseOption61,38046,form,Saʽidi Arabic
+63993ca819000047044d16bb,,134980,question,responseOption62,38046,form,Sanaani Spoken Arabic
+63993ca819000047044d16bb,,134980,question,responseOption63,38046,form,Saraiki
+63993ca819000047044d16bb,,134980,question,responseOption64,38046,form,Sindhi
+63993ca819000047044d16bb,,134980,question,responseOption65,38046,form,Sinhalese
+63993ca819000047044d16bb,,134980,question,responseOption66,38046,form,Somali
+63993ca819000047044d16bb,,134980,question,responseOption67,38046,form,South Azerbaijani
+63993ca819000047044d16bb,,134980,question,responseOption68,38046,form,South Levantine Arabic
+63993ca819000047044d16bb,,134980,question,responseOption69,38046,form,Southern Min
+63993ca819000047044d16bb,,134980,question,responseOption7,38046,form,Burmese
+63993ca819000047044d16bb,,134980,question,responseOption70,38046,form,Southern Pashto
+63993ca819000047044d16bb,,134980,question,responseOption71,38046,form,Spanish
+63993ca819000047044d16bb,,134980,question,responseOption72,38046,form,Sudanese Arabic
+63993ca819000047044d16bb,,134980,question,responseOption73,38046,form,Sunda
+63993ca819000047044d16bb,,134980,question,responseOption74,38046,form,Sylheti
+63993ca819000047044d16bb,,134980,question,responseOption75,38046,form,Tagalog
+63993ca819000047044d16bb,,134980,question,responseOption76,38046,form,Taʽizzi-Adeni Arabic
+63993ca819000047044d16bb,,134980,question,responseOption77,38046,form,Tamil
+63993ca819000047044d16bb,,134980,question,responseOption78,38046,form,Telugu
+63993ca819000047044d16bb,,134980,question,responseOption79,38046,form,Thai
+63993ca819000047044d16bb,,134980,question,responseOption8,38046,form,Cebuano
+63993ca819000047044d16bb,,134980,question,responseOption80,38046,form,Tunisian Arabic
+63993ca819000047044d16bb,,134980,question,responseOption81,38046,form,Turkish
+63993ca819000047044d16bb,,134980,question,responseOption82,38046,form,Ukrainian
+63993ca819000047044d16bb,,134980,question,responseOption83,38046,form,Urdu
+63993ca819000047044d16bb,,134980,question,responseOption84,38046,form,Uyghur
+63993ca819000047044d16bb,,134980,question,responseOption85,38046,form,Vietnamese
+63993ca819000047044d16bb,,134980,question,responseOption86,38046,form,Western Punjabi
+63993ca819000047044d16bb,,134980,question,responseOption87,38046,form,Wu Chinese
+63993ca819000047044d16bb,,134980,question,responseOption88,38046,form,Xiang Chinese
+63993ca819000047044d16bb,,134980,question,responseOption89,38046,form,Yoruba
+63993ca819000047044d16bb,,134980,question,responseOption9,38046,form,Chhattisgarhi
+63993ca819000047044d16bb,,134980,question,responseOption90,38046,form,Yue Chinese
+63993ca819000047044d16bb,,134980,question,responseOption91,38046,form,Zulu
+63993fac17000058003ea856,,134981,question,description,38046,form,You should select the relevant industry options to confirm the sectors where the business has experience. You can select multiple options.
+63993fac17000058003ea856,,134981,question,questionText,38046,form,Please confirm the industry sectors where your company has consultancy experience and capability:
+63993fac17000058003ea856,,134981,question,responseOption1,38046,form,Aerospace
+63993fac17000058003ea856,,134981,question,responseOption10,38046,form,Chemicals - Polymers
+63993fac17000058003ea856,,134981,question,responseOption11,38046,form,Construction 
+63993fac17000058003ea856,,134981,question,responseOption12,38046,form,Cosmetics
+63993fac17000058003ea856,,134981,question,responseOption13,38046,form,Defence
+63993fac17000058003ea856,,134981,question,responseOption14,38046,form,Demolition
+63993fac17000058003ea856,,134981,question,responseOption15,38046,form,Education
+63993fac17000058003ea856,,134981,question,responseOption16,38046,form,Electrical and Electronic Engineering
+63993fac17000058003ea856,,134981,question,responseOption17,38046,form,Electroplating and Heat Treatment
+63993fac17000058003ea856,,134981,question,responseOption18,38046,form,Extractive Industry - Coal
+63993fac17000058003ea856,,134981,question,responseOption19,38046,form,Fast Moving Consumer Goods (FMCG)
+63993fac17000058003ea856,,134981,question,responseOption2,38046,form,Agriculture
+63993fac17000058003ea856,,134981,question,responseOption20,38046,form,Fertiliser Industry
+63993fac17000058003ea856,,134981,question,responseOption21,38046,form,Flammable Liquids / Gases
+63993fac17000058003ea856,,134981,question,responseOption22,38046,form,Food Processing
+63993fac17000058003ea856,,134981,question,responseOption23,38046,form,Fuel - Delivery / Collection
+63993fac17000058003ea856,,134981,question,responseOption24,38046,form,Hydrogenated Oil and Soap Industries
+63993fac17000058003ea856,,134981,question,responseOption25,38046,form,Healthcare
+63993fac17000058003ea856,,134981,question,responseOption26,38046,form,Life Sciences
+63993fac17000058003ea856,,134981,question,responseOption27,38046,form,Logistics-Parcels
+63993fac17000058003ea856,,134981,question,responseOption28,38046,form,Manufacturing
+63993fac17000058003ea856,,134981,question,responseOption29,38046,form,Marine
+63993fac17000058003ea856,,134981,question,responseOption3,38046,form,Automotive
+63993fac17000058003ea856,,134981,question,responseOption30,38046,form,Materials and Synthetics Manufacture
+63993fac17000058003ea856,,134981,question,responseOption31,38046,form,Materials Handling
+63993fac17000058003ea856,,134981,question,responseOption32,38046,form,Mining
+63993fac17000058003ea856,,134981,question,responseOption33,38046,form,Oil & Gas
+63993fac17000058003ea856,,134981,question,responseOption34,38046,form,Paints and Allied Products
+63993fac17000058003ea856,,134981,question,responseOption35,38046,form,Pesticide Industries
+63993fac17000058003ea856,,134981,question,responseOption36,38046,form,Pharmaceuticals
+63993fac17000058003ea856,,134981,question,responseOption37,38046,form,Plastics
+63993fac17000058003ea856,,134981,question,responseOption38,38046,form,Quarrying
+63993fac17000058003ea856,,134981,question,responseOption39,38046,form,Refineries and Petroleum Industry
+63993fac17000058003ea856,,134981,question,responseOption4,38046,form,Cement Manufacture
+63993fac17000058003ea856,,134981,question,responseOption40,38046,form,Retail
+63993fac17000058003ea856,,134981,question,responseOption41,38046,form,Steel production / Manufacturing
+63993fac17000058003ea856,,134981,question,responseOption42,38046,form,Structural Steel Installation
+63993fac17000058003ea856,,134981,question,responseOption43,38046,form,Timber
+63993fac17000058003ea856,,134981,question,responseOption44,38046,form,Utility - Electrical
+63993fac17000058003ea856,,134981,question,responseOption45,38046,form,Utility - Gas
+63993fac17000058003ea856,,134981,question,responseOption46,38046,form,Utility - Water
+63993fac17000058003ea856,,134981,question,responseOption47,38046,form,Waste Management
+63993fac17000058003ea856,,134981,question,responseOption48,38046,form,Waste Disposal
+63993fac17000058003ea856,,134981,question,responseOption49,38046,form,Waste Processing
+63993fac17000058003ea856,,134981,question,responseOption5,38046,form,Cement / Aggregate Delivery
+63993fac17000058003ea856,,134981,question,responseOption50,38046,form,Other
+63993fac17000058003ea856,,134981,question,responseOption6,38046,form,Chemicals - Agro-Chemicals
+63993fac17000058003ea856,,134981,question,responseOption7,38046,form,Chemicals - Fine Chemicals
+63993fac17000058003ea856,,134981,question,responseOption8,38046,form,Chemicals - Industrial Organic
+63993fac17000058003ea856,,134981,question,responseOption9,38046,form,Chemicals - Industrial Inorganic
+63994355170000d7003ed99f,,134982,question,questionText,38046,form,"If Other, Please Explain"
+63a8f63d1600002507331d75,,135732,question,questionText,38046,form,Please confirm the specific construction sectors where your company has consultancy experience and capability:
+63a8f63d1600002507331d75,,135732,question,responseOption1,38046,form,Design / Architecture
+63a8f63d1600002507331d75,,135732,question,responseOption10,38046,form,Construction - Residential
+63a8f63d1600002507331d75,,135732,question,responseOption2,38046,form,"Construction Phase, e.g., blockwork"
+63a8f63d1600002507331d75,,135732,question,responseOption3,38046,form,Snagging / Rectification Work
+63a8f63d1600002507331d75,,135732,question,responseOption4,38046,form,"Post Construction, e.g., maintenance"
+63a8f63d1600002507331d75,,135732,question,responseOption5,38046,form,"Construction - Structural (timber frames, masonry, steel work, etc) "
+63a8f63d1600002507331d75,,135732,question,responseOption6,38046,form,Construction -  High Level Building
+63a8f63d1600002507331d75,,135732,question,responseOption7,38046,form,"Construction - Modular, Prefabricated, etc."
+63a8f63d1600002507331d75,,135732,question,responseOption8,38046,form,Construction - Warehouse / Logistics construction
+63a8f63d1600002507331d75,,135732,question,responseOption9,38046,form,Construction - Commercial / Industrial
+63a8fd6216000050073354d0,,135733,question,questionText,38046,form,Aerospace : Years - Experience
+63a8fd6216000050073354d0,,135733,question,responseOption1,38046,form,0 - 1
+63a8fd6216000050073354d0,,135733,question,responseOption2,38046,form,2 - 5
+63a8fd6216000050073354d0,,135733,question,responseOption3,38046,form,6 - 9
+63a8fd6216000050073354d0,,135733,question,responseOption4,38046,form,10+
+63a8fe5c1600001d0733596c,,135734,question,questionText,38046,form,Agriculture: Years - Experience
+63a8fe5c1600001d0733596c,,135734,question,responseOption1,38046,form,0 - 1
+63a8fe5c1600001d0733596c,,135734,question,responseOption2,38046,form,2 - 5
+63a8fe5c1600001d0733596c,,135734,question,responseOption3,38046,form,6 - 9
+63a8fe5c1600001d0733596c,,135734,question,responseOption4,38046,form,10+
+63a8febe1600006c05f64109,,135735,question,questionText,38046,form,Automotive: Years - Experience
+63a8febe1600006c05f64109,,135735,question,responseOption1,38046,form,0 - 1
+63a8febe1600006c05f64109,,135735,question,responseOption2,38046,form,2 - 5
+63a8febe1600006c05f64109,,135735,question,responseOption3,38046,form,6 - 9
+63a8febe1600006c05f64109,,135735,question,responseOption4,38046,form,10+
+63a8ff001600007105f6410c,,135736,question,questionText,38046,form,Cement Manufacture: Years - Experience
+63a8ff001600007105f6410c,,135736,question,responseOption1,38046,form,0-1
+63a8ff001600007105f6410c,,135736,question,responseOption2,38046,form,2-5
+63a8ff001600007105f6410c,,135736,question,responseOption3,38046,form,6-9
+63a8ff001600007105f6410c,,135736,question,responseOption4,38046,form,10+
+63a8ff7b1600006c05f6410f,,135737,question,questionText,38046,form,Cement / Aggregate Delivery: Years - Experience
+63a8ff7b1600006c05f6410f,,135737,question,responseOption1,38046,form,0 - 1
+63a8ff7b1600006c05f6410f,,135737,question,responseOption2,38046,form,2 - 5
+63a8ff7b1600006c05f6410f,,135737,question,responseOption3,38046,form,6 - 9
+63a8ff7b1600006c05f6410f,,135737,question,responseOption4,38046,form,10+
+63a8ffe61600006c05f6526e,,135738,question,questionText,38046,form,Chemicals - Agro-Chemicals: Years - Experience
+63a8ffe61600006c05f6526e,,135738,question,responseOption1,38046,form,0 - 1
+63a8ffe61600006c05f6526e,,135738,question,responseOption2,38046,form,2 - 5
+63a8ffe61600006c05f6526e,,135738,question,responseOption3,38046,form,6 - 9
+63a8ffe61600006c05f6526e,,135738,question,responseOption4,38046,form,10+
+63a900cb1600005207336516,,135739,question,questionText,38046,form,Chemicals - Fine Chemicals: Years - Experience
+63a900cb1600005207336516,,135739,question,responseOption1,38046,form,0-1
+63a900cb1600005207336516,,135739,question,responseOption2,38046,form,2-5
+63a900cb1600005207336516,,135739,question,responseOption3,38046,form,6-9
+63a900cb1600005207336516,,135739,question,responseOption4,38046,form,10+
+63a900f31600006c05f65975,,135740,question,questionText,38046,form,Chemicals - Industrial Organic: Years - Experience
+63a900f31600006c05f65975,,135740,question,responseOption1,38046,form,0 - 1
+63a900f31600006c05f65975,,135740,question,responseOption2,38046,form,2 - 5
+63a900f31600006c05f65975,,135740,question,responseOption3,38046,form,6 - 9
+63a900f31600006c05f65975,,135740,question,responseOption4,38046,form,10+
+63a901a21600004705f65979,,135741,question,questionText,38046,form,Chemicals - Industrial Inorganic: Years - Experience
+63a901a21600004705f65979,,135741,question,responseOption1,38046,form,0 - 1
+63a901a21600004705f65979,,135741,question,responseOption2,38046,form,2 - 5
+63a901a21600004705f65979,,135741,question,responseOption3,38046,form,6 - 9
+63a901a21600004705f65979,,135741,question,responseOption4,38046,form,10+
+63a901d91600004705f6597b,,135742,question,questionText,38046,form,Chemicals - Polymers: Years - Experience
+63a901d91600004705f6597b,,135742,question,responseOption1,38046,form,0 - 1
+63a901d91600004705f6597b,,135742,question,responseOption2,38046,form,2 - 5
+63a901d91600004705f6597b,,135742,question,responseOption3,38046,form,6 - 9
+63a901d91600004705f6597b,,135742,question,responseOption4,38046,form,10+
+63a902041600004705f6597d,,135743,question,questionText,38046,form,Design / Architecture: Years - Experience
+63a902041600004705f6597d,,135743,question,responseOption1,38046,form,0 - 1
+63a902041600004705f6597d,,135743,question,responseOption2,38046,form,2 - 5
+63a902041600004705f6597d,,135743,question,responseOption3,38046,form,6 - 9
+63a902041600004705f6597d,,135743,question,responseOption4,38046,form,10+
+63a9022b1600005107336cc1,,135744,question,questionText,38046,form,Construction Phase: Years - Experience
+63a9022b1600005107336cc1,,135744,question,responseOption1,38046,form,0 - 1
+63a9022b1600005107336cc1,,135744,question,responseOption2,38046,form,2 - 5
+63a9022b1600005107336cc1,,135744,question,responseOption3,38046,form,6 - 9
+63a9022b1600005107336cc1,,135744,question,responseOption4,38046,form,10+
+63a904231600005207337aea,,135745,question,questionText,38046,form,Snagging / Rectification: Years - Experience
+63a904231600005207337aea,,135745,question,responseOption1,38046,form,0 - 1
+63a904231600005207337aea,,135745,question,responseOption2,38046,form,2 - 5
+63a904231600005207337aea,,135745,question,responseOption3,38046,form,6 - 9
+63a904231600005207337aea,,135745,question,responseOption4,38046,form,10+
+63a904421600005207337c22,,135746,question,questionText,38046,form,Post Construction: Years - Experience
+63a904421600005207337c22,,135746,question,responseOption1,38046,form,0 - 1
+63a904421600005207337c22,,135746,question,responseOption2,38046,form,2 - 5
+63a904421600005207337c22,,135746,question,responseOption3,38046,form,6 - 9
+63a904421600005207337c22,,135746,question,responseOption4,38046,form,10+
+63a9046a1600007105f67ee9,,135747,question,questionText,38046,form,Construction - Structural: Years - Experience
+63a9046a1600007105f67ee9,,135747,question,responseOption1,38046,form,0 - 1
+63a9046a1600007105f67ee9,,135747,question,responseOption2,38046,form,2 - 5
+63a9046a1600007105f67ee9,,135747,question,responseOption3,38046,form,6 - 9
+63a9046a1600007105f67ee9,,135747,question,responseOption4,38046,form,10+
+63a9049e1600007105f681b5,,135748,question,questionText,38046,form,Construction - High Level Building: Years - Experience
+63a9049e1600007105f681b5,,135748,question,responseOption1,38046,form,0 - 1
+63a9049e1600007105f681b5,,135748,question,responseOption2,38046,form,2 - 5
+63a9049e1600007105f681b5,,135748,question,responseOption3,38046,form,6 - 9
+63a9049e1600007105f681b5,,135748,question,responseOption4,38046,form,10+
+63a904c81600007105f68245,,135749,question,questionText,38046,form,"Construction - Modular, Prefabricated, etc: Years - Experience"
+63a904c81600007105f68245,,135749,question,responseOption1,38046,form,0 - 1
+63a904c81600007105f68245,,135749,question,responseOption2,38046,form,2 - 5
+63a904c81600007105f68245,,135749,question,responseOption3,38046,form,6 - 9
+63a904c81600007105f68245,,135749,question,responseOption4,38046,form,10+
+63a9050f1600004705f68378,,135750,question,questionText,38046,form,Construction - Warehouse / Logistics Construction: Years - Experience
+63a9050f1600004705f68378,,135750,question,responseOption1,38046,form,0 - 1
+63a9050f1600004705f68378,,135750,question,responseOption2,38046,form,2 - 5
+63a9050f1600004705f68378,,135750,question,responseOption3,38046,form,6 - 9
+63a9050f1600004705f68378,,135750,question,responseOption4,38046,form,10+
+63a9053d16000052073384c0,,135751,question,questionText,38046,form,Construction - Commercial / Industrial: Years - Experience
+63a9053d16000052073384c0,,135751,question,responseOption1,38046,form,0 - 1
+63a9053d16000052073384c0,,135751,question,responseOption2,38046,form,2 - 5
+63a9053d16000052073384c0,,135751,question,responseOption3,38046,form,6 - 9
+63a9053d16000052073384c0,,135751,question,responseOption4,38046,form,10+
+63a9056b16000052073385b5,,135752,question,questionText,38046,form,Construction - Residential: Years - Experience
+63a9056b16000052073385b5,,135752,question,responseOption1,38046,form,0 - 1
+63a9056b16000052073385b5,,135752,question,responseOption2,38046,form,2 - 5
+63a9056b16000052073385b5,,135752,question,responseOption3,38046,form,6 - 9
+63a9056b16000052073385b5,,135752,question,responseOption4,38046,form,10+
+63a905af1600008405f686f3,,135753,question,questionText,38046,form,Cosmetics: Years - Experience
+63a905af1600008405f686f3,,135753,question,responseOption1,38046,form,0 - 1
+63a905af1600008405f686f3,,135753,question,responseOption2,38046,form,2 - 5
+63a905af1600008405f686f3,,135753,question,responseOption3,38046,form,6 - 9
+63a905af1600008405f686f3,,135753,question,responseOption4,38046,form,10+
+63a908141600008e05f69159,,135754,question,questionText,38046,form,Defence: Years - Experience
+63a908141600008e05f69159,,135754,question,responseOption1,38046,form,0 - 1
+63a908141600008e05f69159,,135754,question,responseOption2,38046,form,2 - 5
+63a908141600008e05f69159,,135754,question,responseOption3,38046,form,6 - 9
+63a908141600008e05f69159,,135754,question,responseOption4,38046,form,10+
+63a908381600008505f69201,,135755,question,questionText,38046,form,Demolition: Years - Experience
+63a908381600008505f69201,,135755,question,responseOption1,38046,form,0 - 1
+63a908381600008505f69201,,135755,question,responseOption2,38046,form,2 - 5
+63a908381600008505f69201,,135755,question,responseOption3,38046,form,6 - 9
+63a908381600008505f69201,,135755,question,responseOption4,38046,form,10+
+63a90856160000d20733938d,,135756,question,questionText,38046,form,Education: Years - Experience
+63a90856160000d20733938d,,135756,question,responseOption1,38046,form,0 - 1
+63a90856160000d20733938d,,135756,question,responseOption2,38046,form,2 - 5
+63a90856160000d20733938d,,135756,question,responseOption3,38046,form,6 - 9
+63a90856160000d20733938d,,135756,question,responseOption4,38046,form,10+
+63a90874160000de07339456,,135757,question,questionText,38046,form,Electrical and Electronic Engineering: Years - Experience
+63a90874160000de07339456,,135757,question,responseOption1,38046,form,0 - 1
+63a90874160000de07339456,,135757,question,responseOption2,38046,form,2 - 5
+63a90874160000de07339456,,135757,question,responseOption3,38046,form,6 - 9
+63a90874160000de07339456,,135757,question,responseOption4,38046,form,10+
+63a9088f160000d20733952c,,135758,question,questionText,38046,form,Electroplating and Heat Treatment: Years - Experience
+63a9088f160000d20733952c,,135758,question,responseOption1,38046,form,0 - 1
+63a9088f160000d20733952c,,135758,question,responseOption2,38046,form,2 - 5
+63a9088f160000d20733952c,,135758,question,responseOption3,38046,form,6 - 9
+63a9088f160000d20733952c,,135758,question,responseOption4,38046,form,10+
+63a908bf160000fa063395dc,,135759,question,questionText,38046,form,Extractive Industry - Coal: Years - Experience
+63a908bf160000fa063395dc,,135759,question,responseOption1,38046,form,0 - 1
+63a908bf160000fa063395dc,,135759,question,responseOption2,38046,form,2 - 5
+63a908bf160000fa063395dc,,135759,question,responseOption3,38046,form,6 - 9
+63a908bf160000fa063395dc,,135759,question,responseOption4,38046,form,10+
+63a908dd1600008505f697aa,,135760,question,questionText,38046,form,Fast Moving Consumer Goods (FMCG)
+63a908dd1600008505f697aa,,135760,question,responseOption1,38046,form,0 - 1
+63a908dd1600008505f697aa,,135760,question,responseOption2,38046,form,2 - 5
+63a908dd1600008505f697aa,,135760,question,responseOption3,38046,form,6 - 9
+63a908dd1600008505f697aa,,135760,question,responseOption4,38046,form,10+
+63a908fc1600008505f69823,,135761,question,questionText,38046,form,Fertiliser Industry: Years - Experience
+63a908fc1600008505f69823,,135761,question,responseOption1,38046,form,0 - 1
+63a908fc1600008505f69823,,135761,question,responseOption2,38046,form,2 - 5
+63a908fc1600008505f69823,,135761,question,responseOption3,38046,form,6 - 9
+63a908fc1600008505f69823,,135761,question,responseOption4,38046,form,10+
+63a9091e1600008605f698a0,,135762,question,questionText,38046,form,Flammable Liquids / Gases: Years - Experience
+63a9091e1600008605f698a0,,135762,question,responseOption1,38046,form,0 - 1
+63a9091e1600008605f698a0,,135762,question,responseOption2,38046,form,2 - 5
+63a9091e1600008605f698a0,,135762,question,responseOption3,38046,form,6 - 9
+63a9091e1600008605f698a0,,135762,question,responseOption4,38046,form,10+
+63a909731600008505f69a30,,135763,question,questionText,38046,form,Food Processing: Years - Experience
+63a909731600008505f69a30,,135763,question,responseOption1,38046,form,0 - 1
+63a909731600008505f69a30,,135763,question,responseOption2,38046,form,2 - 5
+63a909731600008505f69a30,,135763,question,responseOption3,38046,form,6 - 9
+63a909731600008505f69a30,,135763,question,responseOption4,38046,form,10+
+63a90996160000de07339a7f,,135764,question,questionText,38046,form,Fuel - Delivery / Collection: Years - Experience
+63a90996160000de07339a7f,,135764,question,responseOption1,38046,form,0 - 1
+63a90996160000de07339a7f,,135764,question,responseOption2,38046,form,2 - 5
+63a90996160000de07339a7f,,135764,question,responseOption3,38046,form,6 - 9
+63a90996160000de07339a7f,,135764,question,responseOption4,38046,form,10+
+63a909b4160000de07339ae4,,135765,question,questionText,38046,form,Hydrogenated Oil and Soap Industries: Years - Experience
+63a909b4160000de07339ae4,,135765,question,responseOption1,38046,form,0 - 1
+63a909b4160000de07339ae4,,135765,question,responseOption2,38046,form,2 - 5
+63a909b4160000de07339ae4,,135765,question,responseOption3,38046,form,6 - 9
+63a909b4160000de07339ae4,,135765,question,responseOption4,38046,form,10+
+63a909da160000fa06339bcb,,135766,question,questionText,38046,form,Healthcare: Years - Experience
+63a909da160000fa06339bcb,,135766,question,responseOption1,38046,form,0 - 1
+63a909da160000fa06339bcb,,135766,question,responseOption2,38046,form,2 - 5
+63a909da160000fa06339bcb,,135766,question,responseOption3,38046,form,6 - 9
+63a909da160000fa06339bcb,,135766,question,responseOption4,38046,form,10+
+63a909f8160000a105f69c59,,135767,question,questionText,38046,form,Life Sciences: Years - Experience
+63a909f8160000a105f69c59,,135767,question,responseOption1,38046,form,0 - 1
+63a909f8160000a105f69c59,,135767,question,responseOption2,38046,form,2 - 5
+63a909f8160000a105f69c59,,135767,question,responseOption3,38046,form,6 - 9
+63a909f8160000a105f69c59,,135767,question,responseOption4,38046,form,10+
+63a90a191600009805f69d04,,135768,question,questionText,38046,form,Logistics-Parcels: Years - Experience
+63a90a191600009805f69d04,,135768,question,responseOption1,38046,form,0 - 1
+63a90a191600009805f69d04,,135768,question,responseOption2,38046,form,2 - 5
+63a90a191600009805f69d04,,135768,question,responseOption3,38046,form,6 - 9
+63a90a191600009805f69d04,,135768,question,responseOption4,38046,form,10+
+63a90a5b160000ce07339e07,,135769,question,questionText,38046,form,Manufacturing: Years - Experience
+63a90a5b160000ce07339e07,,135769,question,responseOption1,38046,form,0 - 1
+63a90a5b160000ce07339e07,,135769,question,responseOption2,38046,form,2 - 5
+63a90a5b160000ce07339e07,,135769,question,responseOption3,38046,form,6 - 9
+63a90a5b160000ce07339e07,,135769,question,responseOption4,38046,form,10+
+63a90a77160000ce07339ecb,,135770,question,questionText,38046,form,Marine: Years - Experience
+63a90a77160000ce07339ecb,,135770,question,responseOption1,38046,form,0 - 1
+63a90a77160000ce07339ecb,,135770,question,responseOption2,38046,form,2 - 5
+63a90a77160000ce07339ecb,,135770,question,responseOption3,38046,form,6 - 9
+63a90a77160000ce07339ecb,,135770,question,responseOption4,38046,form,10+
+63a90a971600008505f69f44,,135771,question,questionText,38046,form,Materials and Synthetics Manufacture: Years - Experience
+63a90a971600008505f69f44,,135771,question,responseOption1,38046,form,0 - 1
+63a90a971600008505f69f44,,135771,question,responseOption2,38046,form,2 - 5
+63a90a971600008505f69f44,,135771,question,responseOption3,38046,form,6 - 9
+63a90a971600008505f69f44,,135771,question,responseOption4,38046,form,10+
+63a90ab8160000de07339ff7,,135772,question,questionText,38046,form,Materials Handling: Years - Experience
+63a90ab8160000de07339ff7,,135772,question,responseOption1,38046,form,0 - 1
+63a90ab8160000de07339ff7,,135772,question,responseOption2,38046,form,2 - 5
+63a90ab8160000de07339ff7,,135772,question,responseOption3,38046,form,6 - 9
+63a90ab8160000de07339ff7,,135772,question,responseOption4,38046,form,10+
+63a90ad7160000de0733a098,,135773,question,questionText,38046,form,Mining: Years - Experience
+63a90ad7160000de0733a098,,135773,question,responseOption1,38046,form,0 - 1
+63a90ad7160000de0733a098,,135773,question,responseOption2,38046,form,2 - 5
+63a90ad7160000de0733a098,,135773,question,responseOption3,38046,form,6 - 9
+63a90ad7160000de0733a098,,135773,question,responseOption4,38046,form,10+
+63a90af2160000e80733a0f1,,135774,question,questionText,38046,form,Oil & Gas: Years - Experience
+63a90af2160000e80733a0f1,,135774,question,responseOption1,38046,form,0 - 1
+63a90af2160000e80733a0f1,,135774,question,responseOption2,38046,form,2 - 5
+63a90af2160000e80733a0f1,,135774,question,responseOption3,38046,form,6 - 9
+63a90af2160000e80733a0f1,,135774,question,responseOption4,38046,form,10+
+63a90b10160000a105f6a155,,135775,question,questionText,38046,form,Paints and Allied Products: Years - Experience
+63a90b10160000a105f6a155,,135775,question,responseOption1,38046,form,0 - 1
+63a90b10160000a105f6a155,,135775,question,responseOption2,38046,form,2 - 5
+63a90b10160000a105f6a155,,135775,question,responseOption3,38046,form,6 - 9
+63a90b10160000a105f6a155,,135775,question,responseOption4,38046,form,10+
+63a90b46160000ce0733a2bf,,135776,question,questionText,38046,form,Pesticide Industries: Years - Experience
+63a90b46160000ce0733a2bf,,135776,question,responseOption1,38046,form,0 - 1
+63a90b46160000ce0733a2bf,,135776,question,responseOption2,38046,form,2 - 5
+63a90b46160000ce0733a2bf,,135776,question,responseOption3,38046,form,6 - 9
+63a90b46160000ce0733a2bf,,135776,question,responseOption4,38046,form,10+
+63a90b64160000ce0733a36e,,135777,question,questionText,38046,form,Pharmaceuticals: Years - Experience
+63a90b64160000ce0733a36e,,135777,question,responseOption1,38046,form,0 - 1
+63a90b64160000ce0733a36e,,135777,question,responseOption2,38046,form,2 - 5
+63a90b64160000ce0733a36e,,135777,question,responseOption3,38046,form,6 - 9
+63a90b64160000ce0733a36e,,135777,question,responseOption4,38046,form,10+
+63a90b80160000f40733a3d9,,135778,question,questionText,38046,form,Plastics: Years - Experience
+63a90b80160000f40733a3d9,,135778,question,responseOption1,38046,form,0 - 1
+63a90b80160000f40733a3d9,,135778,question,responseOption2,38046,form,2 - 5
+63a90b80160000f40733a3d9,,135778,question,responseOption3,38046,form,6 - 9
+63a90b80160000f40733a3d9,,135778,question,responseOption4,38046,form,10+
+63a90ba5160000ce0733a4a9,,135779,question,questionText,38046,form,Quarrying: Years - Experience
+63a90ba5160000ce0733a4a9,,135779,question,responseOption1,38046,form,0 - 1
+63a90ba5160000ce0733a4a9,,135779,question,responseOption2,38046,form,2 - 5
+63a90ba5160000ce0733a4a9,,135779,question,responseOption3,38046,form,6 - 9
+63a90ba5160000ce0733a4a9,,135779,question,responseOption4,38046,form,10+
+63a90bc4160000ce0733a513,,135780,question,questionText,38046,form,Refineries and Petroleum Industry: Years - Experience
+63a90bc4160000ce0733a513,,135780,question,responseOption1,38046,form,0 - 1
+63a90bc4160000ce0733a513,,135780,question,responseOption2,38046,form,2 - 5
+63a90bc4160000ce0733a513,,135780,question,responseOption3,38046,form,6 - 9
+63a90bc4160000ce0733a513,,135780,question,responseOption4,38046,form,10+
+63a90be6160000e80733a620,,135781,question,questionText,38046,form,Retail: Years - Experience
+63a90be6160000e80733a620,,135781,question,responseOption1,38046,form,0 - 1
+63a90be6160000e80733a620,,135781,question,responseOption2,38046,form,2 - 5
+63a90be6160000e80733a620,,135781,question,responseOption3,38046,form,6 - 9
+63a90be6160000e80733a620,,135781,question,responseOption4,38046,form,10+
+63a90c07160000fa0633a6ce,,135782,question,questionText,38046,form,Steel Production / Manufacturing: Years - Experience
+63a90c07160000fa0633a6ce,,135782,question,responseOption1,38046,form,0 - 1
+63a90c07160000fa0633a6ce,,135782,question,responseOption2,38046,form,2 - 5
+63a90c07160000fa0633a6ce,,135782,question,responseOption3,38046,form,6 - 9
+63a90c07160000fa0633a6ce,,135782,question,responseOption4,38046,form,10+
+63a918c5160000fe05f6e252,,135783,question,questionText,38046,form,Structural Steel Installation: Years - Experience
+63a918c5160000fe05f6e252,,135783,question,responseOption1,38046,form,0 - 1
+63a918c5160000fe05f6e252,,135783,question,responseOption2,38046,form,2 - 5
+63a918c5160000fe05f6e252,,135783,question,responseOption3,38046,form,6 - 9
+63a918c5160000fe05f6e252,,135783,question,responseOption4,38046,form,10+
+63a918fd1600000006f6e254,,135784,question,questionText,38046,form,Timber: Years - Experience
+63a918fd1600000006f6e254,,135784,question,responseOption1,38046,form,0 - 1
+63a918fd1600000006f6e254,,135784,question,responseOption2,38046,form,2 - 5
+63a918fd1600000006f6e254,,135784,question,responseOption3,38046,form,6 - 9
+63a918fd1600000006f6e254,,135784,question,responseOption4,38046,form,10+
+63a9191f160000430833e625,,135785,question,questionText,38046,form,Utility - Electrical: Years - Experience
+63a9191f160000430833e625,,135785,question,responseOption1,38046,form,0 - 1
+63a9191f160000430833e625,,135785,question,responseOption2,38046,form,2 - 5
+63a9191f160000430833e625,,135785,question,responseOption3,38046,form,6 - 9
+63a9191f160000430833e625,,135785,question,responseOption4,38046,form,10+
+63a91939160000320833e627,,135786,question,questionText,38046,form,Utility - Gas: Years - Experience
+63a91939160000320833e627,,135786,question,responseOption1,38046,form,0 - 1
+63a91939160000320833e627,,135786,question,responseOption2,38046,form,2 - 5
+63a91939160000320833e627,,135786,question,responseOption3,38046,form,6 - 9
+63a91939160000320833e627,,135786,question,responseOption4,38046,form,10+
+63a91953160000fd05f6e25a,,135787,question,questionText,38046,form,Utility - Water: Years - Experience
+63a91953160000fd05f6e25a,,135787,question,responseOption1,38046,form,0 - 1
+63a91953160000fd05f6e25a,,135787,question,responseOption2,38046,form,2 - 5
+63a91953160000fd05f6e25a,,135787,question,responseOption3,38046,form,6 - 9
+63a91953160000fd05f6e25a,,135787,question,responseOption4,38046,form,10+
+63a9196d1600000006f6e25c,,135788,question,questionText,38046,form,Waste Management: Years - Experience
+63a9196d1600000006f6e25c,,135788,question,responseOption1,38046,form,0 - 1
+63a9196d1600000006f6e25c,,135788,question,responseOption2,38046,form,2 - 5
+63a9196d1600000006f6e25c,,135788,question,responseOption3,38046,form,6 - 9
+63a9196d1600000006f6e25c,,135788,question,responseOption4,38046,form,10+
+63a9198f160000430833e62a,,135789,question,questionText,38046,form,Waste Disposal: Years - Experience
+63a9198f160000430833e62a,,135789,question,responseOption1,38046,form,0 - 1
+63a9198f160000430833e62a,,135789,question,responseOption2,38046,form,2 - 5
+63a9198f160000430833e62a,,135789,question,responseOption3,38046,form,6 - 9
+63a9198f160000430833e62a,,135789,question,responseOption4,38046,form,10+
+63a919b3160000fd05f6e25f,,135790,question,questionText,38046,form,Waste Processing: Years - Experience
+63a919b3160000fd05f6e25f,,135790,question,responseOption1,38046,form,0 - 1
+63a919b3160000fd05f6e25f,,135790,question,responseOption2,38046,form,2 - 5
+63a919b3160000fd05f6e25f,,135790,question,responseOption3,38046,form,6 - 9
+63a919b3160000fd05f6e25f,,135790,question,responseOption4,38046,form,10+
+63a93ba8160000430833e64a,,135791,question,questionText,38046,form,Can you confirm the core services provided by the company? 
+63a93ba8160000430833e64a,,135791,question,responseOption1,38046,form,Yes
+63a93ba8160000430833e64a,,135791,question,responseOption2,38046,form,No
+63a93bc5160000380833e64c,,135792,question,questionText,38046,form,Core services provided by the company:\n
+63a93bc5160000380833e64c,,135792,question,responseOption1,38046,form,General Consulting
+63a93bc5160000380833e64c,,135792,question,responseOption2,38046,form,Interim Management
+63a93bc5160000380833e64c,,135792,question,responseOption3,38046,form,Audits (Certification)
+63a93bc5160000380833e64c,,135792,question,responseOption4,38046,form,Audits (General / Non-Certification)
+63a93bc5160000380833e64c,,135792,question,responseOption5,38046,form,Development of Management Programmes
+63a93bc5160000380833e64c,,135792,question,responseOption6,38046,form,General Services
+63a93c771600000006f6e27e,,135793,question,questionText,38046,form,General Consulting:
+63a93c771600000006f6e27e,,135793,question,responseOption1,38046,form,Health and Safety Management
+63a93c771600000006f6e27e,,135793,question,responseOption10,38046,form,Work with Government / Enforcement Agencies
+63a93c771600000006f6e27e,,135793,question,responseOption11,38046,form,Training / Learning Management
+63a93c771600000006f6e27e,,135793,question,responseOption12,38046,form,3rd Party Certification
+63a93c771600000006f6e27e,,135793,question,responseOption13,38046,form,Development of Management Programmes (Multi -Disciplinary)
+63a93c771600000006f6e27e,,135793,question,responseOption14,38046,form,Other
+63a93c771600000006f6e27e,,135793,question,responseOption2,38046,form,Quality Management
+63a93c771600000006f6e27e,,135793,question,responseOption3,38046,form,Environmental Management
+63a93c771600000006f6e27e,,135793,question,responseOption4,38046,form,Occupational Health
+63a93c771600000006f6e27e,,135793,question,responseOption5,38046,form,Food Safety
+63a93c771600000006f6e27e,,135793,question,responseOption6,38046,form,Human Resources
+63a93c771600000006f6e27e,,135793,question,responseOption7,38046,form,Sustainability
+63a93c771600000006f6e27e,,135793,question,responseOption8,38046,form,Accident / Incident Investigation
+63a93c771600000006f6e27e,,135793,question,responseOption9,38046,form,Permit Management
+63a93d23160000430833e650,,135794,question,questionText,38046,form,"If Other, Please Explain:"
+63a93d36160000fe05f6e280,,135795,question,questionText,38046,form,Interim Management:
+63a93d36160000fe05f6e280,,135795,question,responseOption1,38046,form,Health and Safety Management
+63a93d36160000fe05f6e280,,135795,question,responseOption2,38046,form,Quality Management
+63a93d36160000fe05f6e280,,135795,question,responseOption3,38046,form,Environmental Management
+63a93d36160000fe05f6e280,,135795,question,responseOption4,38046,form,Occupational Health
+63a93d36160000fe05f6e280,,135795,question,responseOption5,38046,form,Food Safety
+63a93d36160000fe05f6e280,,135795,question,responseOption6,38046,form,Human Resources
+63a93d36160000fe05f6e280,,135795,question,responseOption7,38046,form,Sustainability
+63a93d36160000fe05f6e280,,135795,question,responseOption8,38046,form,Training / Learning Management
+63a93d36160000fe05f6e280,,135795,question,responseOption9,38046,form,Other 
+63a93dd9160000fe05f6e283,,135796,question,questionText,38046,form,"If Other, Please Explain"
+63a93deb160000e905f6e285,,135797,question,questionText,38046,form,Audits (Certification):
+63a93deb160000e905f6e285,,135797,question,responseOption1,38046,form,Health and Safety Management
+63a93deb160000e905f6e285,,135797,question,responseOption2,38046,form,Quality Management
+63a93deb160000e905f6e285,,135797,question,responseOption3,38046,form,Environmental Management
+63a93deb160000e905f6e285,,135797,question,responseOption4,38046,form,Occupational Health
+63a93deb160000e905f6e285,,135797,question,responseOption5,38046,form,Food Safety
+63a93deb160000e905f6e285,,135797,question,responseOption6,38046,form,Human Resources
+63a93deb160000e905f6e285,,135797,question,responseOption7,38046,form,Sustainability
+63a93deb160000e905f6e285,,135797,question,responseOption8,38046,form,Training / Learning Management
+63a93deb160000e905f6e285,,135797,question,responseOption9,38046,form,Other
+63a93e78160000430833e653,,135798,question,questionText,38046,form,"If Other, Please Explain:"
+63a93e8c160000430833e656,,135799,question,questionText,38046,form,Audits (General / Non-Certification):
+63a93e8c160000430833e656,,135799,question,responseOption1,38046,form,Health and Safety Management
+63a93e8c160000430833e656,,135799,question,responseOption10,38046,form,Cyber-Security
+63a93e8c160000430833e656,,135799,question,responseOption11,38046,form,Other
+63a93e8c160000430833e656,,135799,question,responseOption2,38046,form,Quality Management
+63a93e8c160000430833e656,,135799,question,responseOption3,38046,form,Environmental Management
+63a93e8c160000430833e656,,135799,question,responseOption4,38046,form,Occupational Health
+63a93e8c160000430833e656,,135799,question,responseOption5,38046,form,Food Safety
+63a93e8c160000430833e656,,135799,question,responseOption6,38046,form,Human Resources
+63a93e8c160000430833e656,,135799,question,responseOption7,38046,form,Sustainability
+63a93e8c160000430833e656,,135799,question,responseOption8,38046,form,Training / Learning Management
+63a93e8c160000430833e656,,135799,question,responseOption9,38046,form,Business Continuity
+63a93f0f160000fe05f6e288,,135800,question,questionText,38046,form,"If Other, Please Explain:"
+63a93f1e160000fd05f6e28a,,135801,question,questionText,38046,form,Development of Management Programmes:
+63a93f1e160000fd05f6e28a,,135801,question,responseOption1,38046,form,Health and Safety Management
+63a93f1e160000fd05f6e28a,,135801,question,responseOption10,38046,form,Cyber-security
+63a93f1e160000fd05f6e28a,,135801,question,responseOption11,38046,form,Other
+63a93f1e160000fd05f6e28a,,135801,question,responseOption2,38046,form,Quality Management
+63a93f1e160000fd05f6e28a,,135801,question,responseOption3,38046,form,Environmental Management
+63a93f1e160000fd05f6e28a,,135801,question,responseOption4,38046,form,Occupational Health
+63a93f1e160000fd05f6e28a,,135801,question,responseOption5,38046,form,Food Safety
+63a93f1e160000fd05f6e28a,,135801,question,responseOption6,38046,form,Human Resources
+63a93f1e160000fd05f6e28a,,135801,question,responseOption7,38046,form,Sustainability
+63a93f1e160000fd05f6e28a,,135801,question,responseOption8,38046,form,Training / Learning Management
+63a93f1e160000fd05f6e28a,,135801,question,responseOption9,38046,form,Business Continuity
+63a93f8f160000fe05f6e28d,,135802,question,questionText,38046,form,"If Other, Please Explain:"
+63a93fa9160000380833e65c,,135803,question,questionText,38046,form,General Services:
+63a93fa9160000380833e65c,,135803,question,responseOption1,38046,form,Inspections
+63a93fa9160000380833e65c,,135803,question,responseOption2,38046,form,Equipment Checks
+63a93fa9160000380833e65c,,135803,question,responseOption3,38046,form,Surveillance Visits
+63a93fa9160000380833e65c,,135803,question,responseOption4,38046,form,Systems Verification
+63a93fa9160000380833e65c,,135803,question,responseOption5,38046,form,Other
+63a93ff2160000fe05f6e290,,135804,question,questionText,38046,form,"If Other, Please Explain:"
+63a9ed791800003e005cd57a,,135811,question,questionText,38046,form,Does the company employ consultants that can deliver accident / incident investigations?
+63a9ed791800003e005cd57a,,135811,question,responseOption1,38046,form,Yes
+63a9ed791800003e005cd57a,,135811,question,responseOption2,38046,form,No
+63a9eda318000044005cd87c,,135812,question,questionText,38046,form,Consultants undertaking accident / incident investigations can provide the following:\n
+63a9eda318000044005cd87c,,135812,question,responseOption1,38046,form,Undertake accident investigations only
+63a9eda318000044005cd87c,,135812,question,responseOption2,38046,form,Undertake incident investigations only
+63a9eda318000044005cd87c,,135812,question,responseOption3,38046,form,Undertake accident / incident / near miss investigations
+63a9eda318000044005cd87c,,135812,question,responseOption4,38046,form,Produce reports for / and on behalf of the client 
+63a9eda318000044005cd87c,,135812,question,responseOption5,38046,form,Provide recommendations to prevent any form of reoccurrence 
+63a9eda318000044005cd87c,,135812,question,responseOption6,38046,form,Other
+63a9ef541900007d00fcb916,,135813,question,questionText,38046,form,"If Other, Please Explain:"
+63a9ef671900007000fcba39,,135814,question,questionText,38046,form,Does the company have experience in emergency planning? \n
+63a9ef671900007000fcba39,,135814,question,responseOption1,38046,form,Yes
+63a9ef671900007000fcba39,,135814,question,responseOption2,38046,form,No
+63a9efb71900007000fcbfcf,,135815,question,questionText,38046,form,Company has experience in conducting emergency planning in the following:
+63a9efb71900007000fcbfcf,,135815,question,responseOption1,38046,form,Major Projects / Work Sites
+63a9efb71900007000fcbfcf,,135815,question,responseOption10,38046,form,Road / Vehicle / Mobile Plant Incident
+63a9efb71900007000fcbfcf,,135815,question,responseOption11,38046,form,Other
+63a9efb71900007000fcbfcf,,135815,question,responseOption2,38046,form,Evacuations - Site
+63a9efb71900007000fcbfcf,,135815,question,responseOption3,38046,form,Evacuations - Local Population
+63a9efb71900007000fcbfcf,,135815,question,responseOption4,38046,form,"Work at Height Emergency e.g., suspended worker"
+63a9efb71900007000fcbfcf,,135815,question,responseOption5,38046,form,Fire Safety
+63a9efb71900007000fcbfcf,,135815,question,responseOption6,38046,form,Worker Injury 
+63a9efb71900007000fcbfcf,,135815,question,responseOption7,38046,form,Worker Fatality
+63a9efb71900007000fcbfcf,,135815,question,responseOption8,38046,form,"Injury - 3rd Party e.g., member of public"
+63a9efb71900007000fcbfcf,,135815,question,responseOption9,38046,form,"Fatality - 3rd Party e.g., member of public"
+63a9f0871900006f00fccc0b,,135816,question,questionText,38046,form,"If Other, Please Explain:"
+63a9f88418000084005d770b,,135817,question,questionText,38046,form,Does the company confirm the minimum competency levels of all consultants provided to client organisations?
+63a9f88418000084005d770b,,135817,question,responseOption1,38046,form,Yes
+63a9f88418000084005d770b,,135817,question,responseOption2,38046,form,No
+63a9f8e31900001f01fd4556,,135818,question,questionText,38046,form,Consultants - Minimum Competency Levels:
+63a9f8e31900001f01fd4556,,135818,question,responseOption1,38046,form,Master’s degree
+63a9f8e31900001f01fd4556,,135818,question,responseOption10,38046,form,Membership of Relevant Professional Institution
+63a9f8e31900001f01fd4556,,135818,question,responseOption11,38046,form,Seeking Membership of a Professional Institution
+63a9f8e31900001f01fd4556,,135818,question,responseOption12,38046,form,Other
+63a9f8e31900001f01fd4556,,135818,question,responseOption2,38046,form,Degree Educated - General Noncompliance Subject
+63a9f8e31900001f01fd4556,,135818,question,responseOption3,38046,form,Degree Educated - Science Based Subject
+63a9f8e31900001f01fd4556,,135818,question,responseOption4,38046,form,Degree Educated - Engineering Based Subject
+63a9f8e31900001f01fd4556,,135818,question,responseOption5,38046,form,"Degree Educated - (H&S / Quality / Env, etc)"
+63a9f8e31900001f01fd4556,,135818,question,responseOption6,38046,form,Diploma (Relevant Discipline)
+63a9f8e31900001f01fd4556,,135818,question,responseOption7,38046,form,Certificate (Relevant Discipline)
+63a9f8e31900001f01fd4556,,135818,question,responseOption8,38046,form,Country Specific Qualification
+63a9f8e31900001f01fd4556,,135818,question,responseOption9,38046,form,Audit Qualification
+63a9fa6518000084005d8dea,,135819,question,questionText,38046,form,"If Other, Please Explain:"
+63a9fb34180000b7005d9a63,,135820,question,questionText,38046,form,Senior / Lead Consultants - Minimum  Competency Levels:
+63a9fb34180000b7005d9a63,,135820,question,responseOption1,38046,form,Master’s Degree
+63a9fb34180000b7005d9a63,,135820,question,responseOption10,38046,form,"Construction Specific Qualifications / Membership, e.g., work at heights"
+63a9fb34180000b7005d9a63,,135820,question,responseOption11,38046,form,Fire Safety Experience
+63a9fb34180000b7005d9a63,,135820,question,responseOption12,38046,form,Emergency Planning
+63a9fb34180000b7005d9a63,,135820,question,responseOption13,38046,form,Business Continuity
+63a9fb34180000b7005d9a63,,135820,question,responseOption14,38046,form,Accident / Incident Investigation Experience
+63a9fb34180000b7005d9a63,,135820,question,responseOption15,38046,form,Membership of Relevant Professional Institution
+63a9fb34180000b7005d9a63,,135820,question,responseOption16,38046,form,Seeking Membership of a Professional Institution
+63a9fb34180000b7005d9a63,,135820,question,responseOption17,38046,form,Minimum of 7 Years ‘Relevant’ Years’ Work Experience
+63a9fb34180000b7005d9a63,,135820,question,responseOption18,38046,form,Other
+63a9fb34180000b7005d9a63,,135820,question,responseOption2,38046,form,Degree Educated - General Noncompliance Subject
+63a9fb34180000b7005d9a63,,135820,question,responseOption3,38046,form,Degree Educated - Science Based Subject
+63a9fb34180000b7005d9a63,,135820,question,responseOption4,38046,form,Degree Educated - Engineering Based Subject
+63a9fb34180000b7005d9a63,,135820,question,responseOption5,38046,form,"Degree Educated – (H&S / Quality / Env, etc)"
+63a9fb34180000b7005d9a63,,135820,question,responseOption6,38046,form,Diploma (Relevant Discipline)
+63a9fb34180000b7005d9a63,,135820,question,responseOption7,38046,form,Certificate (Relevant Discipline)
+63a9fb34180000b7005d9a63,,135820,question,responseOption8,38046,form,Country Specific Qualification
+63a9fb34180000b7005d9a63,,135820,question,responseOption9,38046,form,Audit Qualification
+63a9fc77180000ba005da77b,,135821,question,questionText,38046,form,"If Other, Please Explain:"
+63a9fc8a180000b8005da88e,,135822,question,questionText,38046,form,Provide supporting information demonstrating how the company confirms the competency of individual consultants:
+63a9fccb18000084005dac38,,135823,question,questionText,38046,form,"If competency checks are not undertaken on individual consultants used on client related projects, confirm why they are not done:"
+63a9fccb18000084005dac38,,135823,question,responseOption1,38046,form,Client undertakes all competency verification checks
+63a9fccb18000084005dac38,,135823,question,responseOption2,38046,form,Country of operation does not have minimum competency standards
+63a9fccb18000084005dac38,,135823,question,responseOption3,38046,form,All consultants are competency assessed at the start of their engagement with no further checks needed
+63a9fccb18000084005dac38,,135823,question,responseOption4,38046,form,Other 
+63a9fd12180000b8005daf14,,135824,question,questionText,38046,form,"If Other, Please Explain:"
+63aa05001800001c015e0d87,,135825,question,questionText,38046,form,Does the company evaluate the ongoing / continued professional development of individual consultants to ensure they are in possession of the most up to date requirements?
+63aa05001800001c015e0d87,,135825,question,responseOption1,38046,form,Yes
+63aa05001800001c015e0d87,,135825,question,responseOption2,38046,form,No
+63aa05201800001c015e0fb6,,135826,question,questionText,38046,form,"All individual (full-time employee) consultants are required to receive / maintain their core competency and provide the company with evidence this is undertaken, and validated, the programme for the checks is:"
+63aa05201800001c015e0fb6,,135826,question,responseOption1,38046,form,Annually
+63aa05201800001c015e0fb6,,135826,question,responseOption2,38046,form,6-Monthly
+63aa05201800001c015e0fb6,,135826,question,responseOption3,38046,form,Monthly
+63aa05201800001c015e0fb6,,135826,question,responseOption4,38046,form,Contract by Contract Basis
+63aa05201800001c015e0fb6,,135826,question,responseOption5,38046,form,Other
+63aa05b71800001e015e1a48,,135827,question,questionText,38046,form,"If Other, Please Explain:"
+63aa05c71800001c015e1b00,,135828,question,questionText,38046,form,Does the company mandate that all individual (independent – not classed an employee) consultants are required to receive / maintain their core competency and provide the company with evidence this is undertaken?
+63aa05c71800001c015e1b00,,135828,question,responseOption1,38046,form,Yes
+63aa05c71800001c015e1b00,,135828,question,responseOption2,38046,form,No
+63aa0610190000ea01fe0b84,,135829,question,questionText,38046,form,The review cycle for verifying independent consultants continued professional development is the following:
+63aa0610190000ea01fe0b84,,135829,question,responseOption1,38046,form,Annually
+63aa0610190000ea01fe0b84,,135829,question,responseOption2,38046,form,6-Monthly
+63aa0610190000ea01fe0b84,,135829,question,responseOption3,38046,form,Monthly
+63aa0610190000ea01fe0b84,,135829,question,responseOption4,38046,form,Contract by Contract Basis
+63aa0610190000ea01fe0b84,,135829,question,responseOption5,38046,form,Other
+63aa0677190000ef01fe0f2c,,135830,question,questionText,38046,form,"If Other, Please Explain:"
+63aa06951800001a015e21d4,,135831,question,questionText,38046,form,Individual consultants are not subject to any form of verification of their current skill set / competence level due to the following:
+63aa06951800001a015e21d4,,135831,question,responseOption1,38046,form,Based upon our employment selection criteria we do not need to verify the individual 
+63aa06951800001a015e21d4,,135831,question,responseOption2,38046,form,The individual consultant uses the competence verification adopted by their professional institution
+63aa06951800001a015e21d4,,135831,question,responseOption3,38046,form,All independent consultants carry professional insurance which can validate their professional competence
+63aa06951800001a015e21d4,,135831,question,responseOption4,38046,form,Other
+63aa071a190000ea01fe1851,,135832,question,questionText,38046,form,"If Other, Please Explain:"

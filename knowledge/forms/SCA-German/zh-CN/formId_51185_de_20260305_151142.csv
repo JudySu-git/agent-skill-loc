@@ -1,0 +1,19 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a9cebe0100004700fde31b,69a87752a36b6c4c63546800,51185,questionGroup,questionGroupText,51185,form,交通安全,
+69a87751a36b6c4c635467ed,,200230,question,description,51185,form,"交通安全措施必须遵守交通法规，并设置标志和护栏以保护工人。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 109(1)</a>",
+69a87751a36b6c4c635467ed,,200230,question,questionText,51185,form,交通安全措施,
+69a87751a36b6c4c635467ee,,200231,question,description,51185,form,"必须为暴露于交通环境中的道路作业人员提供高可视度防护服。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 109(2)</a>",
+69a87751a36b6c4c635467ee,,200231,question,questionText,51185,form,高可视度服装,
+69a87752a36b6c4c635467fc,,200241,question,description,51185,form,"必须确保室外交通路线和区域适合人员行走或车辆通行，且不对附近员工造成危险。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 24(3)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 2(3), 3(2)(1)</a>",
+69a87752a36b6c4c635467fc,,200241,question,questionText,51185,form,指定交通路线,
+69a87752a36b6c4c635467fd,,200242,question,description,51185,form,"交通路线的设计和维护必须确保能够按其预定用途安全行走或行驶。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 24(3)</a>",
+69a87752a36b6c4c635467fd,,200242,question,questionText,51185,form,交通路线的维护,
+69a87752a36b6c4c635467fe,,200243,question,description,51185,form,"交通路线必须保持至少 2.0 米的净空高度。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">Workplace Ordinance, Section 2(4), 3(3)</a>",
+69a87752a36b6c4c635467fe,,200243,question,questionText,51185,form,最小净空高度（>2 米）,
+69a87752a36b6c4c635467ff,,200244,question,questionText,51185,form,<div></div>,

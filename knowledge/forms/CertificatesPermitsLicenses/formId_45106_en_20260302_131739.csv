@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67eeb9b80100003e00ba7959,67ead9fc01000005018c67f0,45106,questionGroup,questionGroupText,45106,form,Brazil Regional Medical Council (CRM) Compliance
+67eada930100000901218306,,167133,question,description,45106,form,The Certificate of Professional Good Standing must be issued within one year to be valid.
+67eada930100000901218306,,167133,question,questionText,45106,form,Please upload the Certificate of Professional Good Standing (Medical Council).
+67eada930100000901218306,,167133,question,responseOption1,45106,form,Yes
+67eada930100000901218306,,167133,question,responseOption2,45106,form,No
+67eada9e0100000a01218309,,167134,question,questionText,45106,form,Please enter the expiration date.
+67eada9e0100000a01218309,,167134,question,responseOption1,45106,form,Yes
+67eada9e0100000a01218309,,167134,question,responseOption2,45106,form,No

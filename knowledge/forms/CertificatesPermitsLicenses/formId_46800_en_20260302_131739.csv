@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6888e2c60100003e00e4b942,6883ca51010000420047efc2,46800,questionGroup,description,46800,form,This requirement is triggered because you indicated your organization maintains a valid Hazardous Materials Transport License in the Germany Hazardous Materials Transport License Applicability Assessment questionnaire.
+6888e2c60100003e00e4b942,6883ca51010000420047efc2,46800,questionGroup,questionGroupText,46800,form,Germany Hazardous Materials Transport License
+6883ca840100005f0047efc4,,177312,question,questionText,46800,form,Please upload your Hazardous Materials Transport License.
+6883ca8e0100005f0047efc7,,177313,question,questionText,46800,form,Please enter the issue date of your Hazardous Materials Transport License.
+6883ca9b01000040005a3450,,177314,question,description,46800,form,The German Hazardous Materials Transport License does not have a validity period that is uniformly defined by law.
+6883ca9b01000040005a3450,,177314,question,questionText,46800,form,Please enter the expiration date of your Hazardous Materials Transport License.

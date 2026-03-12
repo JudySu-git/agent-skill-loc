@@ -1,0 +1,15 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87734a36b6c4c6354669f,69a87734a36b6c4c6354669e,51144,questionGroup,questionGroupText,51144,form,建筑施工 - 火灾与爆炸预防,
+69a87734a36b6c4c63546699,,199968,question,description,51144,form,"点火源预防措施必须保护已储存的易燃或爆炸性材料。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 20(2), 20(7), 47</a>",
+69a87734a36b6c4c63546699,,199968,question,questionText,51144,form,点火源预防措施,
+69a87734a36b6c4c6354669a,,199969,question,description,51144,form,"控制措施必须防止密度大于空气的蒸气在低洼区域积聚。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 20(4)</a>",
+69a87734a36b6c4c6354669a,,199969,question,questionText,51144,form,蒸气积聚控制,
+69a87734a36b6c4c6354669b,,199970,question,description,51144,form,"易燃废弃物的清除规程须包括每班至少收集和清除一次。易燃废弃物的数量必须保持在最低限度，以降低重大火灾或火势迅速蔓延的风险。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 44(1)</a>",
+69a87734a36b6c4c6354669b,,199970,question,questionText,51144,form,易燃废弃物清除（每班一次）,
+69a87734a36b6c4c6354669c,,199971,question,description,51144,form,"灭火器及灭火系统的检查须至少每两年进行一次，并保存相关记录。灭火剂数量的检查须至少每六个月进行一次。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 45(8)</a>",
+69a87734a36b6c4c6354669c,,199971,question,questionText,51144,form,消防设备检查（每6个月一次，每2年一次）,
+69a87734a36b6c4c6354669d,,199972,question,questionText,51144,form,<div></div>,

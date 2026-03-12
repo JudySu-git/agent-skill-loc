@@ -1,0 +1,49 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65e609bb1800000f23c4efb4,638aa0e81800006308b64d40,37963,questionGroup,questionGroupText,37963,form,Heavy Vehicle National Law (HVNL) - Initial Carrier Compliance Assessment
+63ab4d301a000079002d6c66,638aa2381800008a08b65dfe,37964,questionGroup,questionGroupText,37963,form,HVNL Initial Carrier Compliance Assessment
+65a1d4b01800005a0062032f,638aa7241800008108b6802b,37965,questionGroup,questionGroupText,37963,form,Safety Professional Review
+63910d741800003603713905,638fde9f180000fe081fd839,37989,questionGroup,questionGroupText,37963,form,Audit Conditions
+638aa2441800008a08b65f23,,134319,question,description,37963,form,"<a href = ""https://www.nhvr.gov.au/"" target = ""_blank""> National Heavy Vehicle Regulator Site </a>"
+638aa2441800008a08b65f23,,134319,question,questionText,37963,form,Is your Organization accredited under the National Heavy Vehicle Accreditation Scheme (NHVAS)?
+638aa2441800008a08b65f23,,134319,question,responseOption1,37963,form,Yes
+638aa2441800008a08b65f23,,134319,question,responseOption2,37963,form,No
+638aa2eb190000dd0861e84e,,134320,question,questionText,37963,form,Please upload a copy of your valid and current National Heavy Vehicle Accreditation Scheme Certificate for verification.
+638aa351190000780961eb24,,134321,question,questionText,37963,form,Has your company performed risk assessment of the transport activities performed by your company?
+638aa351190000780961eb24,,134321,question,responseOption1,37963,form,Yes
+638aa351190000780961eb24,,134321,question,responseOption2,37963,form,No
+638aa377190000f90861ec80,,134322,question,questionText,37963,form,Please provide details (including any relevant methodology) on your risk assessment of the transport activities.
+638aa4771800005608b67326,,134323,question,questionText,37963,form,Please upload a copy of the risk assessment for verification.
+638aa4a2190000760961f50f,,134324,question,questionText,37963,form,Please provide details of the roles you consider you have as a party in the chain of responsibility under the Heavy Vehicle National Law relevant to the services provided under customer services agreements and details as to how you comply with those legal obligations.
+638aa4d91800008509b67625,,134325,question,description,37963,form,Name:\nTitle:\nPhone:\nEmail:
+638aa4d91800008509b67625,,134325,question,questionText,37963,form,Please identify a single point of contact that can help identify the individual(s) responsibility for HVNL compliance.\n
+638aa523190000fb0861f75d,,134326,question,questionText,37963,form,"Please provide details of whether you have implemented a health and safety management system for transport activities relevant to the services provided. If so, please provide evidence of process or procedure with the health and safety management system. The outline should contain details of the following minimum requirements: \n\n(i)           Risk assessments, risk management and monitoring; \n(ii)          Hazard and incident reporting; \n(iii)         Evidence of management commitment (including relevant policies, leadership reporting etc.);\n(iv)         Internal health and safety investigation processes; \n(v)          Health and safety training, supervision and communication (including information and instruction);\n(vi)         Health and safety performance monitoring; \n(vii)        Consultation processes (including with customers, subcontractors and third parties); and \n(viii)       Assurance, continuous improvement and change management processes."
+638aa5581800006408b6762a,,134327,question,questionText,37963,form,"Please provide an outline of the processes you have developed in order to comply with your obligations under the HVNL, including processes to manage the specific risks of;\n\n(i) Speed compliance;\n(ii) Fatigue management;\n(iii) Mass, dimension and loading (including load restraint); \n(iv) Maintenance Management; and\n(v) Vehicle standards relevant to the services provided under customer services agreements."
+638aa5891900007a0961f761,,134328,question,questionText,37963,form,"Please provide an outline of the steps you take to assess the qualifications, capabilities and ongoing fitness for work of drivers you employ or engage to perform services under customer services agreements. The outline should contain details of the following minimum requirements:\n\n(i)            Requirements for licenses (up to date for the class of heavy vehicle or combination); \n(ii)           Fitness for work, both physically and psychologically, including drug and alcohol risk management; and \n(iii)          Processes for responding to a driver not being suitably qualified, capable or fit for work. "
+638aa5b11800008009b67d38,,134329,question,questionText,37963,form,"Please provide details of the health and safety audit and verification processes you have adopted for transport activities and WHS generally as relevant to the services provided under customer services agreements. As a minimum, we would expect that you have in place:\n\n(i)            Processes to actively check (through inspection and/or auditing) that the SMS and accompanying procedures are being complied with by workers (including any subcontractors); \n(ii)           Governance activities including regular reporting to the business on key performance indicators (e.g. performance statistics, lag and lead indicators, incidents and breaches)."
+638aa5d11800006808b67d50,,134330,question,questionText,37963,form,Do you engage subcontractors for transport and logistic purposes?
+638aa5d11800006808b67d50,,134330,question,responseOption1,37963,form,Yes
+638aa5d11800006808b67d50,,134330,question,responseOption2,37963,form,No
+638aa6191800006308b68017,,134331,question,questionText,37963,form,Please provide your Subcontractor Management Procedure for verification.
+638aa6341800007f08b6801a,,134332,question,questionText,37963,form,Please provide details of any key performance indicators you have set to measure and report on transport health and safety issues. 
+638aa6461800006708b6801d,,134333,question,questionText,37963,form,"Has your company had previous incidents or regulatory engagements that resulted in enforceable undertakings, enforcement notices and/or prosecution against your company or your drivers under the HVNL, applicable health and safety laws, the HVNL or applicable Australian road rules in the last 5 years?"
+638aa6461800006708b6801d,,134333,question,responseOption1,37963,form,Yes
+638aa6461800006708b6801d,,134333,question,responseOption2,37963,form,No
+638aa675190000ec08621b89,,134334,question,questionText,37963,form,Please upload any evidence for review.
+638aa6921800008108b68021,,134335,question,questionText,37963,form,Do you have any other information you consider relevant to compliance with your obligations under the Heavy Vehicle National Law?
+638aa6921800008108b68021,,134335,question,responseOption1,37963,form,Yes
+638aa6921800008108b68021,,134335,question,responseOption2,37963,form,No
+638aa6b21800008809b68024,,134336,question,questionText,37963,form,Please provide any details you may consider relevant to your compliance under HVNL:
+638aa6d1190000cc0962293d,,134337,question,questionText,37963,form,Please upload any other relevant documents to be considered during the review.
+638aa6e71800008108b68028,,134338,question,questionText,37963,form,"Please confirm that you are aware of and agree to adhere to your obligations under the applicable Australian road rules, HVNL and health and safety laws in relation to the transport activities services provided."
+638aa72f1800005508b6802e,,134339,question,questionText,37963,form,Has all of the appropriate information been provided to support the HVNL Annual Compliance Review?
+638aa72f1800005508b6802e,,134339,question,responseOption1,37963,form,Yes
+638aa72f1800005508b6802e,,134339,question,responseOption2,37963,form,No
+638aa748190000cf09623347,,134340,question,questionText,37963,form,HVNL Initial Carrier Compliance Assessment Findings:\n\nAfter review of the evidence and documentation provided there is additional information needed. Please upload or provide additional evidence to support compliance.
+638aa77c190000d309623cc7,,134341,question,questionText,37963,form,HVNL Initial Carrier Compliance Assessment was performed by:
+638aa78d1800008509b69593,,134342,question,questionText,37963,form,<br>
+63e2b870150000b20a15b39e,,138314,question,description,37963,form,The Annual Carrier Compliance Reviews will commence one year from this date.
+63e2b870150000b20a15b39e,,138314,question,questionText,37963,form,Enter the Date of this Review:
+65a1d4af1800006c00e1429b,,149747,question,description,37963,form,"Enter Date One Year after ""Date of Review"""
+65a1d4af1800006c00e1429b,,149747,question,questionText,37963,form,Enter the Assessment Expiration Date
+65a1d4af1800006c00e1429b,,149747,question,responseOption1,37963,form,Yes
+65a1d4af1800006c00e1429b,,149747,question,responseOption2,37963,form,No

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67f06b6b010000e800448f88,67f0676c0100001601561b57,45148,questionGroup,questionGroupText,45148,form,Brazil Controlled Products and Regulated Activities License - Civil Police
+67f0676c0100004500561b58,,167250,question,description,45148,form,The license must be issued by the relevant State Civil Police authority and must be valid at the time of submission.
+67f0676c0100004500561b58,,167250,question,questionText,45148,form,Please upload the Civil Police License.
+67f0676c0100004500561b58,,167250,question,responseOption1,45148,form,"Civil Police License – Required for companies engaged in activities such as private security, firearms commerce, explosives handling, or controlled chemical distribution (Licença da Polícia Civil)"
+67f0676c0100004500561b58,,167250,question,responseOption2,45148,form,"Federal Police License – Required for companies handling chemical substances controlled at the federal level (e.g., precursors, solvents). Includes CLF (Licença de Funcionamento) and CRC (Cadastro de Registro de Controle)"
+67f0676c0100004500561b58,,167250,question,responseOption3,45148,form,"Army License – Required for companies dealing with explosives, weapons, ammunition, or military-regulated materials (Certificado de Registro – Exército Brasileiro)"
+67f0676c0100004500561b58,,167250,question,responseOption4,45148,form,None of the above
+67f067900100001e01561b5a,,167251,question,description,45148,form,"Enter the expiration date shown on the document. If not printed, enter the date by which the license must be renewed, or attach proof of validity (e.g., renewal receipt) within the uploaded file as one single document."
+67f067900100001e01561b5a,,167251,question,questionText,45148,form,Please enter the expiration date.
+67f067900100001e01561b5a,,167251,question,responseOption1,45148,form,Yes
+67f067900100001e01561b5a,,167251,question,responseOption2,45148,form,No

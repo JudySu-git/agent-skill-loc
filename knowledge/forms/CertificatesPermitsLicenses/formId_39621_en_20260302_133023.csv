@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67d48c26010000400038241e,64a325de1800000601a15ab4,39621,questionGroup,questionGroupText,39621,form,China Social Employment Injury Insurance
+671fc7b60100003300c27124,,160512,question,description,39621,form,"Here is a link to the guide for querying and printing the social insurance participation certificate for companies.\n<a href=""https://si.12333.gov.cn/251544.jhtml?menuguide=1""target=""_blank"">https://si.12333.gov.cn/251544.jhtml?menuguide=1</a> "
+671fc7b60100003300c27124,,160512,question,questionText,39621,form,Is your company required to comply with the Work-Related Injury Insurance in China?
+671fc7b60100003300c27124,,160512,question,responseOption1,39621,form,Yes
+671fc7b60100003300c27124,,160512,question,responseOption2,39621,form,No
+671fc7d30100002c00c2712c,,160515,question,questionText,39621,form,Please explain.
+671fc7d30100002c00c2712c,,160515,question,responseOption1,39621,form,Yes
+671fc7d30100002c00c2712c,,160515,question,responseOption2,39621,form,No
+671fc7e00100004e00c2712d,,160516,question,description,39621,form,The certificate must be issued within 3 months prior to the submission date.
+671fc7e00100004e00c2712d,,160516,question,questionText,39621,form,Please upload a current copy of your Social Insurance Payment Certificate (社会保险缴费证明).
+671fc7e00100004e00c2712d,,160516,question,responseOption1,39621,form,Yes
+671fc7e00100004e00c2712d,,160516,question,responseOption2,39621,form,No

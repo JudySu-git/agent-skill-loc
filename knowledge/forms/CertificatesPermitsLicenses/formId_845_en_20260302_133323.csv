@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4caa1f875049438b10168822,4caa1f875049438b10168822,845,questionGroup,questionGroupText,845,category,"BASF TOTAL Petrochemicals, LLC"
+4caa21f15049437543673c56,,4776,question,questionText,845,category,"This insurance policy complies with all additional BASF TOTAL Petrochemicals, LLC requirements. ""BASF TOTAL Petrochemicals, LLC, BASF Corporation and Total Petrochemicals & Refining USA, Inc"" is named as Additional Insured. Certificate Holder should be listed as the following: \n\r\n \n\r\nBASF TOTAL Petrochemicals, LLC \n\r\nc/o Avetta \n\r\nP.O. Box 51387 \n\r\nIrvine, CA 92619 \n\r\n \n\r\n \n\r\nA waiver of subrogation endorsement is included."
+4caa21f15049437543673c56,,4776,question,responseOptionNo,845,category,No
+4caa21f15049437543673c56,,4776,question,responseOptionYes,845,category,Yes
+4caa20945049437033d2e068,,5480,question,linkResources!download.action?id=711,845,category,BASF TOTAL Petrochemicals LLC Requirements
+4caa20945049437033d2e068,,5480,question,linkresources!download.action?id=711,845,category,BASF TOTAL Petrochemicals LLC Requirements
+4caa20945049437033d2e068,,5480,question,questionText,845,category,"Upload a Certificate of Insurance or other supporting documentation for this policy. \n<a target=""_BLANK"" href=""/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_711.pdf"">BASF TOTAL Petrochemicals LLC Requirements</a>"

@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec610100002d00a473a1,5d30c5303500004e4d88efb4,26876,questionGroup,questionGroupText,26876,form,Maine Contractor License
+5d55970533000051365fae5a,5d30c55d350000434197b9a8,26877,questionGroup,questionGroupText,26876,form,Maine Contractor License
+5d30c5793500004e4d88efb8,,84373,question,description,26876,form,"<a href = ""https://www.pfr.maine.gov/almsonline/almsquery/welcome.aspx ""target=""_BLANK_"">Maine Regulatory Licensing & Permitting</a>\n\n"
+5d30c5793500004e4d88efb8,,84373,question,questionText,26876,form,Maine Contractor License Number:\n
+5d30c58c350000434197b9b3,,84374,question,description,26876,form,"<a href = ""https://www.pfr.maine.gov/almsonline/almsquery/welcome.aspx ""target=""_BLANK_"">Maine Regulatory Licensing & Permitting</a>\n\n"
+5d30c58c350000434197b9b3,,84374,question,questionText,26876,form,Maine Contractor License Classifications:\n
+5d30c599350000434197b9b5,,84375,question,questionText,26876,form,Maine License Expiration Date:\n
+5d30c5a8350000434197b9b9,,84376,question,description,26876,form,A URL will make verification quicker if provided\n
+5d30c5a8350000434197b9b9,,84376,question,questionText,26876,form,"Upload a copy of your license, and or provide the URL of the license."
+5d30c5a8350000434197b9b9,,84376,question,responseOption1,26876,form,File Upload
+5d30c5a8350000434197b9b9,,84376,question,responseOption2,26876,form,URL
+5d30c5bd350000434197b9bb,,84377,question,questionText,26876,form,Please upload a copy of your Maine license:\n
+5d30c5ce350000434197b9bd,,84378,question,questionText,26876,form,Please enter the URL of the license:\n

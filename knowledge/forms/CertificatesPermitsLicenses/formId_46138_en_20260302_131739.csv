@@ -1,0 +1,4 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6830c2d301000039006c782d,6830c2ad0100003e00cc53b4,46138,questionGroup,questionGroupText,46138,form,Spain Certification for Elevator Maintenance Providers
+6830c2c60100003600cc53be,,174455,question,description,46138,form,"You are receiving this form because you answered ""Yes"" to maintaining a Certificate of Authorization for Elevator Maintenance in the Spanish Trade Licenses Applicability Assessment questionnaire."
+6830c2c60100003600cc53be,,174455,question,questionText,46138,form,Please upload a copy of your company's Certificate of Authorization for Elevator Maintenance.

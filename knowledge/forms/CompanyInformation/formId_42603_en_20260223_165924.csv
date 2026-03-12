@@ -1,0 +1,66 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66638d490100003b00c81de9,6661ebbd0100002a00a76998,42603,questionGroup,questionGroupText,42603,form,Avetta PQF - Brunei Company Information
+6661f2ba0100002d00452571,6661f2ba0100002d00452570,42605,questionGroup,questionGroupText,42603,form,Brunei
+6661f2cd0100002f00a769a0,,155863,question,description,42603,form,"<a href=""https://www.mofe.gov.bn/SitePages/Home.aspx"" target=""blank"">Ministry of Finance and Economy, Brunei Darussalam</a>"
+6661f2cd0100002f00a769a0,,155863,question,questionText,42603,form,Please indicate your company's business entity / form of business within Brunei:
+6661f2cd0100002f00a769a0,,155863,question,responseOption1,42603,form,Sole Proprietorship: A business owned and operated by a single individual
+6661f2cd0100002f00a769a0,,155863,question,responseOption2,42603,form,Partnership: A business owned by two or more individuals who share profits and losses
+6661f2cd0100002f00a769a0,,155863,question,responseOption3,42603,form,"Private Limited Company (Sendirian Berhad - Sdn Bhd): A company with limited liability, owned by shareholders"
+6661f2cd0100002f00a769a0,,155863,question,responseOption4,42603,form,"Public Limited Company (Berhad - Bhd): A company with limited liability, whose shares are offered to the public"
+6661f2cd0100002f00a769a0,,155863,question,responseOption5,42603,form,"Limited Liability Partnership (LLP): A hybrid entity combining features of partnerships and corporations, providing limited liability to its partners"
+6661f2cd0100002f00a769a0,,155863,question,responseOption6,42603,form,Cooperative: A business organization owned and operated by a group of individuals for their mutual benefit
+6661f2cd0100002f00a769a0,,155863,question,responseOption7,42603,form,Foreign entity with no local fiscal presence
+6661f2cd0100002f00a769a0,,155863,question,responseOption8,42603,form,Other
+6661f34b0100004b00a769a2,,155864,question,questionText,42603,form,Please indicate where your company is established:
+6661f34b0100004b00a769a2,,155864,question,responseOption1,42603,form,Yes
+6661f34b0100004b00a769a2,,155864,question,responseOption2,42603,form,No
+6661f3650100003100452575,,155865,question,questionText,42603,form,Please explain:
+6661f3650100003100452575,,155865,question,responseOption1,42603,form,Yes
+6661f3650100003100452575,,155865,question,responseOption2,42603,form,No
+6661f3730100004e00452577,,155866,question,description,42603,form,"<a href=""https://business.mofe.gov.bn/SitePages/Register%20your%20business.aspx"" target=""blank"">Registry of Companies and Business Names (ROCBN)</a>"
+6661f3730100004e00452577,,155866,question,questionText,42603,form,Is your company registered with the Registry of Companies and Business Names (ROCBN)?
+6661f3730100004e00452577,,155866,question,responseOption1,42603,form,Yes
+6661f3730100004e00452577,,155866,question,responseOption2,42603,form,No
+6661f3980100004d00452579,,155867,question,questionText,42603,form,Please explain:
+6661f3980100004d00452579,,155867,question,responseOption1,42603,form,Yes
+6661f3980100004d00452579,,155867,question,responseOption2,42603,form,No
+6661f3b50100002e00a769a8,,155868,question,questionText,42603,form,"Does your company have a ""Company Registration Number"" or ""CR Number"" in the ROCBN?"
+6661f3b50100002e00a769a8,,155868,question,responseOption1,42603,form,Yes
+6661f3b50100002e00a769a8,,155868,question,responseOption2,42603,form,No
+6661f3d20100004b00a769aa,,155869,question,questionText,42603,form,Please explain:
+6661f3d20100004b00a769aa,,155869,question,responseOption1,42603,form,Yes
+6661f3d20100004b00a769aa,,155869,question,responseOption2,42603,form,No
+6661f3e60100003100a769ae,,155870,question,questionText,42603,form,
+6661f3e60100003100a769ae,,155870,question,responseOption1,42603,form,Yes
+6661f3e60100003100a769ae,,155870,question,responseOption2,42603,form,No
+6661f4080100002d0045257d,,155871,question,questionText,42603,form,Is your company registered with the Royal Customs and Excise Department (RCED)?
+6661f4080100002d0045257d,,155871,question,responseOption1,42603,form,Yes
+6661f4080100002d0045257d,,155871,question,responseOption2,42603,form,No
+6661f4160100003200452582,,155872,question,questionText,42603,form,Please explain:
+6661f4160100003200452582,,155872,question,responseOption1,42603,form,Yes
+6661f4160100003200452582,,155872,question,responseOption2,42603,form,No
+6661f4280100004b00a769b4,,155873,question,questionText,42603,form,Does your company have a Permanent Account Number (PAN) with the Royal Customs and Excise Department (RCED)?\t
+6661f4280100004b00a769b4,,155873,question,responseOption1,42603,form,Yes
+6661f4280100004b00a769b4,,155873,question,responseOption2,42603,form,No
+6661f43b0100003300a769b7,,155874,question,questionText,42603,form,Please explain:
+6661f43b0100003300a769b7,,155874,question,responseOption1,42603,form,Yes
+6661f43b0100003300a769b7,,155874,question,responseOption2,42603,form,No
+6661f44a0100002d00452586,,155875,question,questionText,42603,form,Please provide your company's Permanent Account Number (PAN).
+6661f44a0100002d00452586,,155875,question,responseOption1,42603,form,Yes
+6661f44a0100002d00452586,,155875,question,responseOption2,42603,form,No
+6661f458010000320045258b,,155876,question,questionText,42603,form,Does your company have a VAT registration number?
+6661f458010000320045258b,,155876,question,responseOption1,42603,form,Yes
+6661f458010000320045258b,,155876,question,responseOption2,42603,form,No
+6661f4620100003300452592,,155877,question,questionText,42603,form,Please explain:
+6661f4620100003300452592,,155877,question,responseOption1,42603,form,Yes
+6661f4620100003300452592,,155877,question,responseOption2,42603,form,No
+6661f46d0100002a00a769bc,,155878,question,questionText,42603,form,Please provide the VAT registration number.
+6661f46d0100002a00a769bc,,155878,question,responseOption1,42603,form,Yes
+6661f46d0100002a00a769bc,,155878,question,responseOption2,42603,form,No
+6661f482010000320045259a,,155880,question,description,42603,form,"<a href=""https://deps.mofe.gov.bn/DEPD Documents Library/DOS/National Classifications/BDSIndustrialC 2011.pdf"" target=""blank"">Brunei Darussalam Standard Industrial Classification (BDSIC) 2011</a>"
+6661f482010000320045259a,,155880,question,questionText,42603,form,Do you know your company's Industry Classification code in Brunei?
+6661f482010000320045259a,,155880,question,responseOption1,42603,form,Yes
+6661f482010000320045259a,,155880,question,responseOption2,42603,form,No
+6661f4b90100002e00a769bd,,155881,question,questionText,42603,form,Please provide your company's Industry Classification code in Brunei.
+6661f4b90100002e00a769bd,,155881,question,responseOption1,42603,form,Yes
+6661f4b90100002e00a769bd,,155881,question,responseOption2,42603,form,No

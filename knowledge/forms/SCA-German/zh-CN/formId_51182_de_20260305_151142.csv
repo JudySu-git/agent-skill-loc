@@ -1,0 +1,26 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87750a36b6c4c635467ec,69a87750a36b6c4c635467eb,51182,questionGroup,questionGroupText,51182,form,公路运输 - 危险品,
+69a87750a36b6c4c635467e3,,200222,question,description,51182,form,"需要危险品分类和运输授权，且必须在将货物交付运输前进行核实。
+<a target=""_BLANK"" href=""https://unece.org/adr-2025-files?utm_#"">ADR Volume I, Section 1.4.2.1.1(a)</a>",
+69a87750a36b6c4c635467e3,,200222,question,questionText,51182,form,托运人分类与授权,
+69a87750a36b6c4c635467e4,,200223,question,description,51182,form,"需要可追溯的运输信息，且必须提供给承运人，包括适用情况下所需的运输文件及随附文件。
+<a target=""_BLANK"" href=""https://unece.org/adr-2025-files?utm_#"">ADR Volume I, Section 1.4.2.1.1(b)</a>",
+69a87750a36b6c4c635467e4,,200223,question,questionText,51182,form,运输文件,
+69a87750a36b6c4c635467e5,,200224,question,description,51182,form,"需要经批准的包装和罐体，且必须适合所装物质，并标注所要求的《国际公路危险货物运输协议》（ADR）标记。
+<a target=""_BLANK"" href=""https://unece.org/adr-2025-files?utm_#"">ADR Volume I, Section 1.4.2.1.1(c)</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012852"">Dangerous Goods Transport Act, Section 4</a>",
+69a87750a36b6c4c635467e5,,200224,question,questionText,51182,form,经批准的包装和罐体,
+69a87750a36b6c4c635467e6,,200225,question,description,51182,form,"需要对集装箱进行标牌张贴和标记，且必须在将危险品装入集装箱后完成。在准备货包进行运输时，必须对货包进行标记和贴标签。
+<a target=""_BLANK"" href=""https://unece.org/adr-2025-files?utm_#"">ADR Volume I, Section 1.4.3.1.1(d), 1.4.3.2(b)</a>",
+69a87750a36b6c4c635467e6,,200225,question,questionText,51182,form,货包标记与标牌,
+69a87750a36b6c4c635467e7,,200226,question,description,51182,form,"固定罐、可卸罐及罐式集装箱必须由经批准的机构定期检查和测试。中型散装容器必须按规定的时间间隔进行初次检查、定期检查和测试。
+<a target=""_BLANK"" href=""https://unece.org/adr-2025-files?utm_#"">ADR Volume I, Annex A, Section 6.5, 6.7-6.8, 6.11</a>",
+69a87750a36b6c4c635467e7,,200226,question,questionText,51182,form,检查,
+69a87750a36b6c4c635467e8,,200227,question,description,51182,form,"车载消防设备必须与车辆类型及所运危险品相匹配。运输单元上必须为车组人员及适用危险类别配备规定的应急设备。
+<a target=""_BLANK"" href=""https://unece.org/adr-2025-files?utm_#"">ADR Volume II, Section 8.1.4-8.1.5</a>",
+69a87750a36b6c4c635467e8,,200227,question,questionText,51182,form,车载应急设备,
+69a87750a36b6c4c635467e9,,200228,question,description,51182,form,"必须在工作开始前为承担运输相关职责的人员提供危险品培训，且培训内容必须与其所分配的职责相匹配。培训还必须包括应急指导，并明确车组人员在发生事故或紧急情况时应采取的措施。应急指导和运输文件必须在紧急情况下便于取用。
+<a target=""_BLANK"" href=""https://unece.org/adr-2025-files?utm_#"">ADR Volume I, Section 1.3.1–1.3.2, 1.10.2.1–1.10.2.3, 5.4.3</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012852"">Dangerous Goods Transport Act, Section 14</a>",
+69a87750a36b6c4c635467e9,,200228,question,questionText,51182,form,培训,
+69a87750a36b6c4c635467ea,,200229,question,questionText,51182,form,<div></div>,

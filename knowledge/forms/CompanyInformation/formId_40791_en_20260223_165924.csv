@@ -1,0 +1,42 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+656a5df71a0000890006c72f,656a3afd1700000587806d7f,40791,questionGroup,questionGroupText,40791,form,Avetta PQF - Cameroon Company Information
+656a40bf1700000c87806dfb,656a40bf1700000c87806dfa,40793,questionGroup,questionGroupText,40791,form,Cameroon
+656a40de1700000887806e01,,147505,question,questionText,40791,form,Please indicate your company's business entity / form of business within this country.
+656a40de1700000887806e01,,147505,question,responseOption1,40791,form,Sole Proprietorship
+656a40de1700000887806e01,,147505,question,responseOption2,40791,form,Corporation
+656a40de1700000887806e01,,147505,question,responseOption3,40791,form,Limited Liability Company
+656a40de1700000887806e01,,147505,question,responseOption4,40791,form,General Partnership
+656a40de1700000887806e01,,147505,question,responseOption5,40791,form,Limited Partnership
+656a40de1700000887806e01,,147505,question,responseOption6,40791,form,Branch Office
+656a40de1700000887806e01,,147505,question,responseOption7,40791,form,Foreign entity with no local fiscal presence
+656a40de1700000887806e01,,147505,question,responseOption8,40791,form,Other
+656a47a51700001487806e15,,147507,question,questionText,40791,form,Please indicate where your company is established:
+656a47a51700001487806e15,,147507,question,responseOption1,40791,form,Yes
+656a47a51700001487806e15,,147507,question,responseOption2,40791,form,No
+656a47c21700001a87806e18,,147508,question,questionText,40791,form,"If Other, please explain:"
+656a47c21700001a87806e18,,147508,question,responseOption1,40791,form,Yes
+656a47c21700001a87806e18,,147508,question,responseOption2,40791,form,No
+656a4c151a00002b00a2eb69,,147509,question,questionText,40791,form,"Is your company registered with the <a href=""https://www.mincommerce.gov.cm/en"" \ntarget=""_Blank"">Ministry of Trade (MINCOMMERCE)</a> in Cameroon?"
+656a4c151a00002b00a2eb69,,147509,question,responseOption1,40791,form,Yes
+656a4c151a00002b00a2eb69,,147509,question,responseOption2,40791,form,No
+656a4c821a00002a00a2eb72,,147510,question,questionText,40791,form,Please provide your company's registration number issued by the Ministry of Trade (MINCOMMERCE).
+656a4c821a00002a00a2eb72,,147510,question,responseOption1,40791,form,Yes
+656a4c821a00002a00a2eb72,,147510,question,responseOption2,40791,form,No
+656a4c991a00002100a2eb78,,147511,question,questionText,40791,form,Please explain why:
+656a4c991a00002100a2eb78,,147511,question,responseOption1,40791,form,Yes
+656a4c991a00002100a2eb78,,147511,question,responseOption2,40791,form,No
+656a4cae1a00005000a2ec32,,147512,question,questionText,40791,form,"Is your company registered with the <a href=""https://www.impots.cm/dgi"" \ntarget=""_Blank"">Directorate General of Taxation (DGT/ DGI)</a>?"
+656a4cae1a00005000a2ec32,,147512,question,responseOption1,40791,form,Yes
+656a4cae1a00005000a2ec32,,147512,question,responseOption2,40791,form,No
+656a4d7e1a00006b00a2ecfd,,147513,question,questionText,40791,form,Please provide your company's Tax Identification Number (TIN / NIF).
+656a4d7e1a00006b00a2ecfd,,147513,question,responseOption1,40791,form,Yes
+656a4d7e1a00006b00a2ecfd,,147513,question,responseOption2,40791,form,No
+656a4d921a00006300a2ed03,,147514,question,questionText,40791,form,Please explain why:
+656a4d921a00006300a2ed03,,147514,question,responseOption1,40791,form,Yes
+656a4d921a00006300a2ed03,,147514,question,responseOption2,40791,form,No
+656a4e441a00005a00a2ed0c,,147515,question,questionText,40791,form,"Please provide your primary Industry Classification Code (<a href=""/file-preview.html?fileId=2023-12-01T21%3A54%3A30.276Z~~*SW5kdXN0cnkgQ2xhc3NpZmljYXRpb24gQ29kZSAoSVNJQykucGRm"" \ntarget=""_Blank"">ISIC</a>)."
+656a4e441a00005a00a2ed0c,,147515,question,responseOption1,40791,form,Yes
+656a4e441a00005a00a2ed0c,,147515,question,responseOption2,40791,form,No
+656a566c1a00005a0006c25d,,147516,question,questionText,40791,form,"Please provide your secondary Industry Classification Code (<a href=""/file-preview.html?fileId=2023-12-01T21%3A54%3A30.276Z~~*SW5kdXN0cnkgQ2xhc3NpZmljYXRpb24gQ29kZSAoSVNJQykucGRm"" \ntarget=""_Blank"">ISIC</a>)."
+656a566c1a00005a0006c25d,,147516,question,responseOption1,40791,form,Yes
+656a566c1a00005a0006c25d,,147516,question,responseOption2,40791,form,No

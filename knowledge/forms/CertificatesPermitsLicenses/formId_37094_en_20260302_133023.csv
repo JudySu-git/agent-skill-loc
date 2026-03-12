@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+684c69860100003e00acd03f,6303e7b2300000d16a00af4e,37094,questionGroup,description,37094,form,This requirement is triggered because you indicated your organization maintains a valid URSSAF Certificate in the France URSSAF Applicability Assessment questionnaire.
+684c69860100003e00acd03f,6303e7b2300000d16a00af4e,37094,questionGroup,questionGroupText,37094,form,Avetta PQF - France URSSAF Certificate
+6303e7f2300000924100b155,,130712,question,description,37094,form,"<a href=""https://entreprise.api.gouv.fr/files/exemple-urssaf-attestation-sociale.pdf"" \ntarget=""_Blank"">Sample of URSSAF Certificate</a>"
+6303e7f2300000924100b155,,130712,question,questionText,37094,form,Please upload your URSSAF Certificate.
+6303ff833000001187023078,,130714,question,description,37094,form,Please enter the expiration date as no more than 6 months after the issue date.
+6303ff833000001187023078,,130714,question,questionText,37094,form,Please enter the expiration date of your URSSAF Certificate.
+684c64fd0100003f00acd022,,174912,question,questionText,37094,form,Please enter the issue date of your URSSAF Certificate.

@@ -1,0 +1,12 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774aa36b6c4c635467a1,69a8774aa36b6c4c635467a0,51173,questionGroup,questionGroupText,51173,form,Hebezeuge,
+69a8774aa36b6c4c6354679c,,200169,question,description,51173,form,"Auf- und Abbau müssen unter Aufsicht einer fachkundigen Person erfolgen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Arbeitsmittelverordnung, § 18 Abs. 2 Z 2</a>",
+69a8774aa36b6c4c6354679c,,200169,question,questionText,51173,form,Beaufsichtigter Auf- und Abbau,
+69a8774aa36b6c4c6354679d,,200170,question,description,51173,form,"Zulässige Lasten müssen an Hebezeugen und Anschlagmitteln deutlich gekennzeichnet sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Arbeitsmittelverordnung, § 18 Abs. 7</a>",
+69a8774aa36b6c4c6354679d,,200170,question,questionText,51173,form,Lastgrenzen,
+69a8774aa36b6c4c6354679e,,200171,question,description,51173,form,"Die Standsicherheit der Arbeitsmittel beim Heben muss durch festgelegte Sicherheitsmaßnahmen gewährleistet sein. Für Hebezeuge ist ein sicherer Aufbau auf tragfähigem Untergrund sicherzustellen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000727&utm_"">Arbeitsmittelverordnung, § 18 Abs. 2</a>",
+69a8774aa36b6c4c6354679e,,200171,question,questionText,51173,form,Maßnahmen zur Standsicherheit von Arbeitsmitteln,
+69a8774aa36b6c4c6354679f,,200172,question,questionText,51173,form,<div></div>,

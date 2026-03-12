@@ -1,0 +1,68 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66bcdb0001000033007cb405,66bb8b78010000c2008d48a8,43169,questionGroup,questionGroupText,43169,form,Avetta PQF - Jordan Company Information
+66bb8cee01000035008d48af,66bb8cee01000035008d48ae,43170,questionGroup,questionGroupText,43169,form,Jordan
+66bb8d0001000051008d48b2,,158372,question,description,43169,form,https://portal.jordan.gov.jo/wps/wcm/connect/2c7477004b9518a89bd4bb845c4fc44a/Ministry_of_Industry_and_Trade_Guidelines_General_Procedures_EN_103102.pdf?MOD=AJPERES
+66bb8d0001000051008d48b2,,158372,question,questionText,43169,form,Please indicate your company's business entity / form of business within Jordan.
+66bb8d0001000051008d48b2,,158372,question,responseOption1,43169,form,"General Partnership : The company is made up of not more than twenty natural partners. General Partners are individuals responsible for managing the company and its activities and are jointly responsible for the company’s private properties, debts and liabilities. "
+66bb8d0001000051008d48b2,,158372,question,responseOption2,43169,form,Other
+66bb8d0001000051008d48b2,,158372,question,responseOption3,43169,form, Foreign entity with no local fiscal presence:
+66bb8d0001000051008d48b2,,158372,question,responseOption4,43169,form,Non-Operating Foreign Company: A regional office located in the Kingdom for the purpose of managing the foreign company’s business in the region in coordination with the company’s head office. 
+66bb8d0001000051008d48b2,,158372,question,responseOption5,43169,form,Operating Foreign Company: The company of a non-Jordanian nationality registered outside the Kingdom with its head office in another country. A branch of this company can be registered in the Kingdom for the purpose of executing contracts given to it by a Jordanian person or organization. There are no restrictions on the nature of the contractors. They can be  a government party or individuals. An example is construction contracts. 
+66bb8d0001000051008d48b2,,158372,question,responseOption6,43169,form,"Public Shareholding Company: The company is made up of no less than two founders, the liability of each being in accordance with his/her capital shares. The Minister alone, with the recommendation of the Controller, can approve the registration of a one-person public shareholding company."
+66bb8d0001000051008d48b2,,158372,question,responseOption7,43169,form,"Limited by Shares Partnership Company: A limited liability company made of at least five partners, a minimum of two general partners and of three limited partners. The general partners are jointly responsible for the company’s debts and liabilities and their personal funds are subject to accountability. Each of the limited partners is accountable for the company’s debts in accordance with his capital shares. "
+66bb8d0001000051008d48b2,,158372,question,responseOption8,43169,form,Limited Liability Company: A limited liability company made up of one or more people. This type of company can be registered only with the approval and recommendation of the Minister. 
+66bb8d0001000051008d48b2,,158372,question,responseOption9,43169,form,Limited Partnership: The company is made up of two types of natural partners. The partners are individuals who are known as general partners and are responsible for managing the company and its activities. The limited partners contribute to the company’s capital only and have no right to interfere in the company’s management or activities.
+66bb8e2b01000032008d48f9,,158373,question,questionText,43169,form,Please indicate where your company is established:
+66bb8e2b01000032008d48f9,,158373,question,responseOption1,43169,form,Yes
+66bb8e2b01000032008d48f9,,158373,question,responseOption2,43169,form,No
+66bb8e6401000032008d48fb,,158374,question,questionText,43169,form,"If Other, please explain:"
+66bb8e6401000032008d48fb,,158374,question,responseOption1,43169,form,Yes
+66bb8e6401000032008d48fb,,158374,question,responseOption2,43169,form,No
+66bb8e8d0100004c00e99484,,158375,question,questionText,43169,form,Is your company registered with the Jordan Companies Control Department (CCD)? ([Jordan Corporate Registry](https://www.ccd.gov.jo/Default/Ar))
+66bb8e8d0100004c00e99484,,158375,question,responseOption1,43169,form,Yes
+66bb8e8d0100004c00e99484,,158375,question,responseOption2,43169,form,No
+66bb8eb101000035008d4900,,158376,question,questionText,43169,form,"If No, please explain:"
+66bb8eb101000035008d4900,,158376,question,responseOption1,43169,form,Yes
+66bb8eb101000035008d4900,,158376,question,responseOption2,43169,form,No
+66bb8edf01000035008d490e,,158377,question,questionText,43169,form,Does your company have a Company Registration Number in the Jordan Companies Control Department (CCD)? ([Jordan Corporate Registry](https://www.ccd.gov.jo/Default/Ar))
+66bb8edf01000035008d490e,,158377,question,responseOption1,43169,form,Yes
+66bb8edf01000035008d490e,,158377,question,responseOption2,43169,form,No
+66bb8ef30100003200e99489,,158378,question,questionText,43169,form,"If No, please explain:"
+66bb8ef30100003200e99489,,158378,question,responseOption1,43169,form,Yes
+66bb8ef30100003200e99489,,158378,question,responseOption2,43169,form,No
+66bb8f100100004b00e9948c,,158379,question,questionText,43169,form,Please provide your Company Registration Number from the Jordan Companies Control Department (CCD). ([Jordan Corporate Registry](https://www.ccd.gov.jo/Default/Ar))
+66bb8f100100004b00e9948c,,158379,question,responseOption1,43169,form,Yes
+66bb8f100100004b00e9948c,,158379,question,responseOption2,43169,form,No
+66bb8f5001000032008d4915,,158380,question,questionText,43169,form,Is your company registered with the Jordanian Income and Sales Tax Department (ISTD)? (https://www.istd.gov.jo/Default/Ar)
+66bb8f5001000032008d4915,,158380,question,responseOption1,43169,form,Yes
+66bb8f5001000032008d4915,,158380,question,responseOption2,43169,form,No
+66bb8f79010000c2008d4918,,158381,question,questionText,43169,form,"If No, please explain:"
+66bb8f79010000c2008d4918,,158381,question,responseOption1,43169,form,Yes
+66bb8f79010000c2008d4918,,158381,question,responseOption2,43169,form,No
+66bb8fe60100004c00e99490,,158382,question,questionText,43169,form,Does your company have a Tax Identification Number (TIN) with the Jordanian Income and Sales Tax Department (ISTD)? (https://www.istd.gov.jo/Default/Ar ; https://es.istd.gov.jo/E-ISTDRegistration/RegForm.aspx)
+66bb8fe60100004c00e99490,,158382,question,responseOption1,43169,form,Yes
+66bb8fe60100004c00e99490,,158382,question,responseOption2,43169,form,No
+66bb9006010000c6008d491c,,158383,question,questionText,43169,form,"If No, please explain:"
+66bb9006010000c6008d491c,,158383,question,responseOption1,43169,form,Yes
+66bb9006010000c6008d491c,,158383,question,responseOption2,43169,form,No
+66bb90400100002f00e99494,,158384,question,questionText,43169,form,Please provide your company's Tax Identification Number (TIN) distributed by the Jordanian Income and Sales Tax Department (ISTD).(https://www.istd.gov.jo/Default/Ar ; https://es.istd.gov.jo/E-ISTDRegistration/RegForm.aspx)
+66bb90400100002f00e99494,,158384,question,responseOption1,43169,form,Yes
+66bb90400100002f00e99494,,158384,question,responseOption2,43169,form,No
+66bb905e0100004d00e99497,,158385,question,questionText,43169,form,Does your company have a General Sales Tax (GST) registration number issued by the Jordanian Income and Sales Tax Department (ISTD)? (https://www.istd.gov.jo/Default/Ar ; https://es.istd.gov.jo/E-ISTDRegistration/RegForm.aspx)
+66bb905e0100004d00e99497,,158385,question,responseOption1,43169,form,Yes
+66bb905e0100004d00e99497,,158385,question,responseOption2,43169,form,No
+66bb906e01000032008d4922,,158386,question,questionText,43169,form,"If No, please explain:"
+66bb906e01000032008d4922,,158386,question,responseOption1,43169,form,Yes
+66bb906e01000032008d4922,,158386,question,responseOption2,43169,form,No
+66bb90810100002800e99499,,158387,question,questionText,43169,form,Please provide the General Sales Tax (GST) registration number issued by the Jordanian Income and Sales Tax Department (ISTD). (https://www.istd.gov.jo/Default/Ar ; https://es.istd.gov.jo/E-ISTDRegistration/RegForm.aspx)
+66bb90810100002800e99499,,158387,question,responseOption1,43169,form,Yes
+66bb90810100002800e99499,,158387,question,responseOption2,43169,form,No
+66bb90990100003300e9949d,,158388,question,questionText,43169,form, Do you know your company's Industry Classification code in Jordan? ([Industry Classification Code](https://observatory.huzaifazoom.org/blog/2022/04/18/hs-isic-correspondence-table/ ))
+66bb90990100003300e9949d,,158388,question,responseOption1,43169,form,Yes
+66bb90990100003300e9949d,,158388,question,responseOption2,43169,form,No
+66bb90aa01000051008d4927,,158389,question,questionText,43169,form,Please provide your company's Industry Classification code(s) in Jordan: ([Industry Classification Code](https://observatory.huzaifazoom.org/blog/2022/04/18/hs-isic-correspondence-table/ ))
+66bb90aa01000051008d4927,,158389,question,responseOption1,43169,form,Yes
+66bb90aa01000051008d4927,,158389,question,responseOption2,43169,form,No
+66bb90c101000035008d4929,,158390,question,questionText,43169,form,"If No, please explain:"
+66bb90c101000035008d4929,,158390,question,responseOption1,43169,form,Yes
+66bb90c101000035008d4929,,158390,question,responseOption2,43169,form,No

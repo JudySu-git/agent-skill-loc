@@ -1,0 +1,24 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+697ab1890100006100d84461,6526c2da160000cd1064c098,40396,questionGroup,questionGroupText,40396,form,Avetta PQF - Mexico: IMSS Payments
+6526c311160000710d64c09a,,145789,question,questionText,40396,form,"Is your company required to pay <a href = ""http://www.imss.gob.mx/"" target = ""_blank"">IMSS </a> Employer Worker Quotas, Contributions and Amortizations?\n\n"
+6526c311160000710d64c09a,,145789,question,responseOption1,40396,form,Yes
+6526c311160000710d64c09a,,145789,question,responseOption2,40396,form,No
+6526c393160000710d64c09c,,145790,question,questionText,40396,form,Please select the reason below:
+6526c393160000710d64c09c,,145790,question,responseOption1,40396,form,The company does not have any employees
+6526c393160000710d64c09c,,145790,question,responseOption2,40396,form,The company is foreign and does not have fiscal presence or any employees in Mexico
+6526c393160000710d64c09c,,145790,question,responseOption3,40396,form,Other (please explain)
+6526c849160000900d64c09e,,145791,question,questionText,40396,form,"Please upload a copy of your <a href = ""/file-preview.html?fileId=2023-11-07T01%3A22%3A13.669Z~~*MSBDb21wcm9iYW50ZSBkZSBQYWdvIEJhbmNhcmlvIElNU1MgJiBJTkZPTkFWSVQgKDEpLnBkZg%3D%3D"" target = ""_blank"">bank receipt proof of payment to IMSS </a>  made the given month (for the activity of the previous month). \n\n\n\n"
+6526c849160000900d64c09e,,145791,question,responseOption1,40396,form,Yes
+6526c849160000900d64c09e,,145791,question,responseOption2,40396,form,No
+6526c954160000ac1164c0a5,,145792,question,questionText,40396,form,"Please upload a copy of the <a href = ""/file-preview.html?fileId=2023-11-07T01%3A22%3A20.041Z~~*MiBGb3JtYXRvIFBhcmEgUGFnbyBkZSBDdW90YXMgY29uIExpbmVhIGRlIENhcHR1cmEgSU1TUyAmIElORk9OQVZJVCAoNCktcGFnZXMgKDEpLnBkZg%3D%3D"" target = ""_blank""> Format for Payment of Employer Worker Quotas, Contributions and Amortizations</a>  for the given month (for the activity of the previous month)."
+6526c954160000ac1164c0a5,,145792,question,responseOption1,40396,form,Yes
+6526c954160000ac1164c0a5,,145792,question,responseOption2,40396,form,No
+6526c981160000900d64c0a7,,145793,question,questionText,40396,form,"Please upload a copy of your <a href = ""/file-preview.html?fileId=2023-11-07T01%3A22%3A26.745Z~~*MyBTVUEgQ8OpZHVsYSBkZSBDdW90YXMgSU1TUyAmIElORk9OQVZJVCAoMSkucGRm"" target = ""_blank""> Quota Determination Certificate (SUA) </a> for the given month (for the activity of the previous month)."
+6526c981160000900d64c0a7,,145793,question,responseOption1,40396,form,Yes
+6526c981160000900d64c0a7,,145793,question,responseOption2,40396,form,No
+6526cab5160000ac1164c0db,,145794,question,questionText,40396,form,Other:
+6526cab5160000ac1164c0db,,145794,question,responseOption1,40396,form,Yes
+6526cab5160000ac1164c0db,,145794,question,responseOption2,40396,form,No
+654c1de71800000340f32e4b,,146834,question,questionText,40396,form,"I hereby certify that, to the best of my knowledge, the provided information is true and accurate."
+654c1de71800000340f32e4b,,146834,question,responseOption1,40396,form,Yes
+654c1de71800000340f32e4b,,146834,question,responseOption2,40396,form,No

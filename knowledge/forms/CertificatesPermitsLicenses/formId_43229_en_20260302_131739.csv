@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66c36bc601000033008970ec,66c36b9601000031008970e5,43229,questionGroup,questionGroupText,43229,form,Automobile Liability - Declaration Forms
+66c36b9601000033008970e6,,158751,question,questionText,43229,form,Please upload the Automobile Liability Declaration Forms.
+66c36b9601000033008970e6,,158751,question,responseOption1,43229,form,Yes
+66c36b9601000033008970e6,,158751,question,responseOption2,43229,form,No
+66c36b960100004d008970e9,,158752,question,questionText,43229,form,Automobile Liability Policy: Date of Commencement
+66c36b960100004d008970e9,,158752,question,responseOption1,43229,form,Yes
+66c36b960100004d008970e9,,158752,question,responseOption2,43229,form,No
+66c36b9601000033008970e7,,158753,question,questionText,43229,form,Automobile Liability Declaration Forms:
+66c36b9601000033008970e7,,158753,question,responseOption1,43229,form,Yes
+66c36b9601000033008970e7,,158753,question,responseOption2,43229,form,No
+66c36b960100002c008970e8,,158754,question,questionText,43229,form,Automobile Liability Policy: Policy Expiration Date
+66c36b960100002c008970e8,,158754,question,responseOption1,43229,form,Yes
+66c36b960100002c008970e8,,158754,question,responseOption2,43229,form,No

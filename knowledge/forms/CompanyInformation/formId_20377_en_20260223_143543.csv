@@ -1,0 +1,62 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+65849ce319000028460eaff6,516eff43504943535f5b4c59,3706,questionGroup,questionGroupText,20377,form,Singapore
+535588ab504943a2848fad91,535588ab504943a2848fad91,5254,questionGroup,questionGroupText,20377,form,SSIC
+516f07be50494342301b43d8,,16932,question,description,20377,form,"UEN is the standard identification number of an entity and uniquely identifies the entity. From 1 January 2009, all entities that are registered in Singapore, such as businesses, local companies, limited liability partnerships (LLPs), societies, representative offices, healthcare institutions and trade unions, will have a Unique Entity Number (UEN) as its identification number. The UEN is automatically assigned by ACRA upon the incorporation or registration of an entity in Singapore. If you are unsure of your entity’s UEN, keep in mind that if your organization is a local company or business registered with the Accounting and Corporate Regulatory Authority (ACRA), your existing ACRA registration number may act as the UEN. Please visit the <a href=""https://www.acra.gov.sg/about-bizfile/special-uen-sun-choose-your-preferred-uen#:~:text=A%20Unique%20Entity%20Number%20(UEN,of%20charge%20to%20business%20entities."" target=""_blank"">UEN website</a> for more information. At this website, organizations can also search for their UENs. Simply click on the tab, “Search for UEN” on the left-hand menu."
+516f07be50494342301b43d8,,16932,question,questionText,20377,form,Does your entity have a Unique Entity Number (UEN)?
+516f07be50494342301b43d8,,16932,question,responseOptionNo,20377,form,No
+516f07be50494342301b43d8,,16932,question,responseOptionYes,20377,form,Yes
+516f0c3850494370ec67a221,,16945,question,description,20377,form,The UEN is typically 9 to 10 characters long.
+516f0c3850494370ec67a221,,16945,question,questionText,20377,form,Please provide a copy of your entity’s UEN.
+516f0dfc504943a364fa0e85,,16946,question,description,20377,form,"GST is a broad-based consumption tax levied on the import of goods (collected by Singapore Customs), as well as nearly all supplies of goods and services in Singapore. The only exemptions are for the sale and lease of residential properties, the importation and local supply of investment precious metals and the provision of most financial services. Export of goods and international services are zero-rated. In some countries, GST is known as the Value Added Tax (VAT). GST registration may or may not be compulsory depending on your business. From 1 January 2019 onwards, businesses must register for GST if the value of their taxable turnover exceeds S$1 million at the end of the calendar year (i.e. 31 December), or if their taxable turnover is expected to exceed S$1 million in the next 12 months. Businesses may also voluntarily register for GST. All businesses which are GST-registered will have a GSTN, which is required to be printed on their invoices, credit notes and receipts. If you do not know your organization’s GSTN or would like to check if a business is GST-registered, please see: Inland Revenue Authority of Singapore (IRAS) <a href=""https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst/goods-and-services-tax-(gst)-what-it-is-and-how-it-works"" target=""_blank"">myTax Portal</a>."
+516f0dfc504943a364fa0e85,,16946,question,questionText,20377,form,Is your entity required to register for Goods and Services Tax (GST)?
+516f0dfc504943a364fa0e85,,16946,question,responseOptionNo,20377,form,No
+516f0dfc504943a364fa0e85,,16946,question,responseOptionYes,20377,form,Yes
+516f0e38504943181c4a60c5,,16947,question,description,20377,form,The GSTN is typically 9 to 10 characters long.
+516f0e38504943181c4a60c5,,16947,question,questionText,20377,form,Please provide your entity’s GSTN.
+51753fa15049431b32a8a758,,16961,question,description,20377,form,"For most entities in Singapore, the UEN is the primary tax reference number. Organizations or entities without UEN will continue to use their existing tax reference numbers such as ASGD and ITR (i.e. Income Tax Reference Number). Both the ASGD and ITR are tax reference numbers assigned by the <a href=""https://www.iras.gov.sg/irashome/default.aspx"" target=""_blank""> Inland Revenue Authority of Singapore (IRAS)</a>."
+51753fa15049431b32a8a758,,16961,question,questionText,20377,form,Does your entity have a tax reference number that is different from your company's UEN (such as ASGB or ITR)?
+51753fa15049431b32a8a758,,16961,question,responseOptionNo,20377,form,No
+51753fa15049431b32a8a758,,16961,question,responseOptionYes,20377,form,Yes
+5175407850494319ac566806,,16962,question,description,20377,form,The ASGD is typically 9 characters long.<br>The ITR is typically 10 characters long.
+5175407850494319ac566806,,16962,question,questionText,20377,form,Please provide your entity’s tax reference number.
+5177fcb350494357f36a5dca,,17077,question,description,20377,form,"The <a href=""https://www.singstat.gov.sg/standards/standards-and-classifications/ssic"" target=""_blank""> Singapore Standard Industrial Classification (SSIC)</a> is a classification of economic activities undertaken by economic units and is used for statistical surveys and censuses of population, households and establishments and, increasingly, in administrative databases. It is reviewed and updated regularly to reflect significant changes in the structure of the Singapore economy and the emergence of new activities as well as to align with changes in the international standard."
+5177fcb350494357f36a5dca,,17077,question,linkhttps://www.acra.gov.sg/ssic-search,20377,form,Click here to locate your company's SSIC code
+5177fcb350494357f36a5dca,,17077,question,linkhttps://www.acra.gov.sg/ssic-search,20377,form,Click here to locate your company's SSIC code
+5177fcb350494357f36a5dca,,17077,question,questionText,20377,form,"What is your entity's primary SSIC Code? \n\nIf your entity is registered with ACRA, your entity’s primary SSIC Code may be found on your entity’s ACRA business profile. Otherwise, <a href=""https://www.singstat.gov.sg/standards/standards-and-classifications/ssic"" target=""_blank"">Click here to locate your entity’s SSIC code</a>"
+5177fd08504943fbfacccc8f,,17078,question,linkhttps://www.acra.gov.sg/ssic-search,20377,form,Click here to locate your company's additional SSIC code
+5177fd08504943fbfacccc8f,,17078,question,linkhttps://www.acra.gov.sg/ssic-search,20377,form,Click here to locate your company's additional SSIC code
+5177fd08504943fbfacccc8f,,17078,question,questionText,20377,form,"What is your entity's secondary SSIC Code? \n\nIf your entity is registered with ACRA, your entity’s secondary SSIC Code may be found on your entity’s ACRA business profile. Otherwise, <a href=""https://www.singstat.gov.sg/standards/standards-and-classifications/ssic"" target=""_blank"">Click here to locate your entity’s additional SSIC code</a>"
+51780487504943fc0e95e291,,17079,question,description,20377,form,"The <a href=""https://www.acra.gov.sg/"" target=""_blank""> Accounting and Corporate Regulatory Authority (ACRA)</a> is the national regulator of business entities and public accountants in Singapore. If you do not know if your organization is registered with the ACRA, you can search for it at: <a href=""https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx"" target=""_blank"">ACRA’s BizFile</a>"
+51780487504943fc0e95e291,,17079,question,questionText,20377,form,Is your entity registered with the Accounting and Corporate Regulatory Authority (ACRA)?
+51780487504943fc0e95e291,,17079,question,responseOptionNo,20377,form,No
+51780487504943fc0e95e291,,17079,question,responseOptionYes,20377,form,Yes
+658b05bb1800007a00fe9242,5b25488f2300003b0528af84,20377,questionGroup,questionGroupText,20377,form,Avetta PQF - Singapore Company Information
+65849ce21800003e3d9be47d,,148856,question,questionText,20377,form,Please indicate your company's business entity / form of business within this country.
+65849ce21800003e3d9be47d,,148856,question,responseOption1,20377,form,Sole Proprietorship
+65849ce21800003e3d9be47d,,148856,question,responseOption2,20377,form,Partnership
+65849ce21800003e3d9be47d,,148856,question,responseOption3,20377,form,Private Limited Company
+65849ce21800003e3d9be47d,,148856,question,responseOption4,20377,form,Public Limited Company
+65849ce21800003e3d9be47d,,148856,question,responseOption5,20377,form,Limited liability partnership (LLP)
+65849ce21800003e3d9be47d,,148856,question,responseOption6,20377,form,Foreign entity with no local fiscal presence
+65849ce21800003e3d9be47d,,148856,question,responseOption7,20377,form,Other
+65849d72180000293d9be484,,148857,question,questionText,20377,form,Please indicate where your company is established:
+65849d72180000293d9be484,,148857,question,responseOption1,20377,form,Yes
+65849d72180000293d9be484,,148857,question,responseOption2,20377,form,No
+65849d85180000373d9be486,,148858,question,questionText,20377,form," If Other, please explain:"
+65849d85180000373d9be486,,148858,question,responseOption1,20377,form,Yes
+65849d85180000373d9be486,,148858,question,responseOption2,20377,form,No
+6587c1e01a00007109ae26e3,,148977,question,questionText,20377,form,"Please provide a copy of your entity’s ACRA business profile, which may be purchased at: <a href=""https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx"" target=""_blank"">ACRA’s BizFile</a>"
+6587c1e01a00007109ae26e3,,148977,question,responseOption1,20377,form,Yes
+6587c1e01a00007109ae26e3,,148977,question,responseOption2,20377,form,No
+6587c2af190000d809578c75,,148978,question,questionText,20377,form,Please explain why:
+6587c2af190000d809578c75,,148978,question,responseOption1,20377,form,Yes
+6587c2af190000d809578c75,,148978,question,responseOption2,20377,form,No
+6587c4c41a0000b100ae26e7,,148979,question,questionText,20377,form,Please explain why:
+6587c4c41a0000b100ae26e7,,148979,question,responseOption1,20377,form,Yes
+6587c4c41a0000b100ae26e7,,148979,question,responseOption2,20377,form,No
+6587c5dd1a00007109ae26eb,,148980,question,questionText,20377,form,Please explain why:
+6587c5dd1a00007109ae26eb,,148980,question,responseOption1,20377,form,Yes
+6587c5dd1a00007109ae26eb,,148980,question,responseOption2,20377,form,No
+6587c6631900009800578c7c,,148981,question,questionText,20377,form,Please explain why:
+6587c6631900009800578c7c,,148981,question,responseOption1,20377,form,Yes
+6587c6631900009800578c7c,,148981,question,responseOption2,20377,form,No

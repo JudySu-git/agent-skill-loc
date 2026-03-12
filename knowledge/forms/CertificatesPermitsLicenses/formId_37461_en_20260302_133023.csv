@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+636575e91700003d06cf89b3,636575de1700003d06cf89ad,37461,questionGroup,questionGroupText,37461,form,Electrical Contractor Licences – Tasmania
+636575de1700003d06cf89ae,,132402,question,questionText,37461,form,Please upload current Electrical Licence
+636575de1700003d06cf89af,,132403,question,questionText,37461,form,Licence Number
+636575de1700003d06cf89b0,,132404,question,questionText,37461,form,Effective Date
+636575de1700003d06cf89b1,,132405,question,questionText,37461,form,Expiration Date

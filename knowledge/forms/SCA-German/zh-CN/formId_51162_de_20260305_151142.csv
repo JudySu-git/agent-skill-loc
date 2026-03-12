@@ -1,0 +1,14 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87742a36b6c4c63546742,69a87742a36b6c4c63546741,51162,questionGroup,questionGroupText,51162,form,急救,
+69a87741a36b6c4c6354673d,,200096,question,description,51162,form,"急救员培训须至少完成16小时或同等课时。急救设施的位置须告知员工。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法第26(3)条</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例第31(3)、31(6)条</a>",
+69a87741a36b6c4c6354673d,,200096,question,questionText,51162,form,培训,
+69a87741a36b6c4c6354673e,,200097,question,description,51162,form,"须根据劳动力规模和伤害风险提供适当的急救物品。急救储存处须易于取用且标识清晰。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">员工保护法第26(1-2)条</a>
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">建筑工人保护条例第31(2)条</a>",
+69a87741a36b6c4c6354673e,,200097,question,questionText,51162,form,急救物品的可及性,
+69a87741a36b6c4c6354673f,,200098,question,description,51162,form,"须根据劳动力规模和风险，确保最低数量的受训急救员。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009098"">工作场所条例第40(1,4)条</a>",
+69a87741a36b6c4c6354673f,,200098,question,questionText,51162,form,急救员,
+69a87741a36b6c4c63546740,,200099,question,questionText,51162,form,<div></div>,

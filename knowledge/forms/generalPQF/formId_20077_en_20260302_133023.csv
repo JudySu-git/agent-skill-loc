@@ -1,0 +1,84 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4b142ade50494343f9aed3fe,4b142ade50494343f9aed3fe,404,questionGroup,questionGroupText,20077,form,Transportation Canada
+4b1449ba504943e91e8efec8,,2928,question,questionText,20077,form,Does your company operate as a Commercial Motor Carrier in Canada as regulated by federal or provincial regulations?
+4b1449ba504943e91e8efec8,,2928,question,responseOptionNA,20077,form,N/A
+4b1449ba504943e91e8efec8,,2928,question,responseOptionNo,20077,form,No
+4b1449ba504943e91e8efec8,,2928,question,responseOptionYes,20077,form,Yes
+4b144a10504943ef9e211dae,,2929,question,questionText,20077,form,Does your company have a written program that addresses all NSC and/or Provincial requirements\r\nfor commercial carriers?
+4b144a10504943ef9e211dae,,2929,question,responseOptionNA,20077,form,N/A
+4b144a10504943ef9e211dae,,2929,question,responseOptionNo,20077,form,No
+4b144a10504943ef9e211dae,,2929,question,responseOptionYes,20077,form,Yes
+4b144a6e50494396b79e3ee6,,2930,question,questionText,20077,form,Does this program apply to and include all company drivers and current subcontractors or\r\nleased drivers?
+4b144a6e50494396b79e3ee6,,2930,question,responseOptionNA,20077,form,N/A
+4b144a6e50494396b79e3ee6,,2930,question,responseOptionNo,20077,form,No
+4b144a6e50494396b79e3ee6,,2930,question,responseOptionYes,20077,form,Yes
+4b144b5f5049435312a4a000,,2931,question,questionText,20077,form,"Does this program include policies and procedures relating to Dangerous Goods hazard management\r\npractices (bill of lading and placard descriptions, placard site and in-transit management practices,\r\nproduct segregation and compatibility practices,other)?"
+4b144b5f5049435312a4a000,,2931,question,responseOptionNA,20077,form,N/A
+4b144b5f5049435312a4a000,,2931,question,responseOptionNo,20077,form,No
+4b144b5f5049435312a4a000,,2931,question,responseOptionYes,20077,form,Yes
+4b144baf5049434de877a9f4,,2932,question,questionText,20077,form,Does your company keep a complete record of driver files that comply with Transport Canada requirements for all company and sub/leased drivers for current year and 4 years prior?
+4b144baf5049434de877a9f4,,2932,question,responseOptionNA,20077,form,N/A
+4b144baf5049434de877a9f4,,2932,question,responseOptionNo,20077,form,No
+4b144baf5049434de877a9f4,,2932,question,responseOptionYes,20077,form,Yes
+4b144c035049436c98a7fd1e,,2933,question,questionText,20077,form,"Does your company keep a record of all company and sub-leased driver convictions, collisions reportable to local Police or RCMP, and any administrative penalties imposed under safety laws for current year and 4 years prior?"
+4b144c035049436c98a7fd1e,,2933,question,responseOptionNA,20077,form,N/A
+4b144c035049436c98a7fd1e,,2933,question,responseOptionNo,20077,form,No
+4b144c035049436c98a7fd1e,,2933,question,responseOptionYes,20077,form,Yes
+4b144c57504943122732cfbb,,2934,question,questionText,20077,form,Are driver logbooks retained for at least 6 months?
+4b144c57504943122732cfbb,,2934,question,responseOptionNA,20077,form,N/A
+4b144c57504943122732cfbb,,2934,question,responseOptionNo,20077,form,No
+4b144c57504943122732cfbb,,2934,question,responseOptionYes,20077,form,Yes
+4b144c85504943b7971d84d3,,2935,question,questionText,20077,form,Do driver logbooks comply with Transport Canada requirements?
+4b144c85504943b7971d84d3,,2935,question,responseOptionNA,20077,form,N/A
+4b144c85504943b7971d84d3,,2935,question,responseOptionNo,20077,form,No
+4b144c85504943b7971d84d3,,2935,question,responseOptionYes,20077,form,Yes
+4b144cbb5049433cd2c78e27,,2936,question,questionText,20077,form,Does each vehicle file contain all maintenance and inspections records for current and 4 prior years?
+4b144cbb5049433cd2c78e27,,2936,question,responseOptionNA,20077,form,N/A
+4b144cbb5049433cd2c78e27,,2936,question,responseOptionNo,20077,form,No
+4b144cbb5049433cd2c78e27,,2936,question,responseOptionYes,20077,form,Yes
+4b144f675049435f799bbd1c,,2938,question,questionText,20077,form,Does your company use light duty vehicles in the course of completing job duties?
+4b144f675049435f799bbd1c,,2938,question,responseOptionNA,20077,form,N/A
+4b144f675049435f799bbd1c,,2938,question,responseOptionNo,20077,form,No
+4b144f675049435f799bbd1c,,2938,question,responseOptionYes,20077,form,Yes
+4b145216504943ec43da1baa,,2939,question,questionText,20077,form,Are all company light vehicles outfitted with airbags for both the driver and front seat passenger (i.e.dual airbags); first registered after 1 July 2006?
+4b145216504943ec43da1baa,,2939,question,responseOptionNA,20077,form,N/A
+4b145216504943ec43da1baa,,2939,question,responseOptionNo,20077,form,No
+4b145216504943ec43da1baa,,2939,question,responseOptionYes,20077,form,Yes
+4b1452615049437dbec667b1,,2940,question,questionText,20077,form,Is the fire extinguisher securely mounted on a bracket and located so that it is easily accessible in\r\nan emergency without becoming a hazard in case of an accident?
+4b1452615049437dbec667b1,,2940,question,responseOptionNA,20077,form,N/A
+4b1452615049437dbec667b1,,2940,question,responseOptionNo,20077,form,No
+4b1452615049437dbec667b1,,2940,question,responseOptionYes,20077,form,Yes
+4b14529850494376c9deb929,,2941,question,questionText,20077,form,Are all light vehicles equipped with a securely stowed first aid kit?
+4b14529850494376c9deb929,,2941,question,responseOptionNA,20077,form,N/A
+4b14529850494376c9deb929,,2941,question,responseOptionNo,20077,form,No
+4b14529850494376c9deb929,,2941,question,responseOptionYes,20077,form,Yes
+4b14530950494315408e18da,,2942,question,questionText,20077,form,Does your company use heavy duty vehicles in the course of completing job duties?
+4b14530950494315408e18da,,2942,question,responseOptionNA,20077,form,N/A
+4b14530950494315408e18da,,2942,question,responseOptionNo,20077,form,No
+4b14530950494315408e18da,,2942,question,responseOptionYes,20077,form,Yes
+4b14537a50494396b94755ca,,2943,question,questionText,20077,form,Are all heavy goods vehicles fitted with anti-lock braking systems (ABS)?
+4b14537a50494396b94755ca,,2943,question,responseOptionNA,20077,form,N/A
+4b14537a50494396b94755ca,,2943,question,responseOptionNo,20077,form,No
+4b14537a50494396b94755ca,,2943,question,responseOptionYes,20077,form,Yes
+4b145414504943807fac7e53,,2944,question,questionText,20077,form,Are all heavy goods vehicles fitted with a securely stowed first aid kit and flashlight?
+4b145414504943807fac7e53,,2944,question,responseOptionNA,20077,form,N/A
+4b145414504943807fac7e53,,2944,question,responseOptionNo,20077,form,No
+4b145414504943807fac7e53,,2944,question,responseOptionYes,20077,form,Yes
+4b1454cb504943dcf75b5c19,,2945,question,questionText,20077,form,Are the emergency exit door(s) clearly marked with a sign (this includes buses with only a single\r\nentry/exit door)?
+4b1454cb504943dcf75b5c19,,2945,question,responseOptionNA,20077,form,N/A
+4b1454cb504943dcf75b5c19,,2945,question,responseOptionNo,20077,form,No
+4b1454cb504943dcf75b5c19,,2945,question,responseOptionYes,20077,form,Yes
+4b14552750494311e52764f7,,2946,question,questionText,20077,form,Does your company carry cargo in the course of completing job duties?
+4b14552750494311e52764f7,,2946,question,responseOptionNA,20077,form,N/A
+4b14552750494311e52764f7,,2946,question,responseOptionNo,20077,form,No
+4b14552750494311e52764f7,,2946,question,responseOptionYes,20077,form,Yes
+4b1455815049437f49164175,,2947,question,questionText,20077,form,"Are all drivers trained to meet the cargo securement requirements of best practices, the\r\nNational Safety Code Standard #10 and industry best practices (as recommended by the Petroleum\r\nServices Association of Canada (PSAC) and the Canadian Association of Oilwell Drilling\r\nContractors (CAODC))?"
+4b1455815049437f49164175,,2947,question,responseOptionNA,20077,form,N/A
+4b1455815049437f49164175,,2947,question,responseOptionNo,20077,form,No
+4b1455815049437f49164175,,2947,question,responseOptionYes,20077,form,Yes
+4b1455f3504943c16aa44f13,,2948,question,questionText,20077,form,Does your company employ safe journey management (SJM) procedures in the course of\r\ncompleting job duties?
+4b1455f3504943c16aa44f13,,2948,question,responseOptionNA,20077,form,N/A
+4b1455f3504943c16aa44f13,,2948,question,responseOptionNo,20077,form,No
+4b1455f3504943c16aa44f13,,2948,question,responseOptionYes,20077,form,Yes
+4b9133d9504943b1deee3eb1,,3310,question,questionText,20077,form,What companies does your company use for Logistic and Freight Forwarding Services?
+5c182bb3370000cbdebfa003,5ab0a2ee240000634819d175,20077,questionGroup,questionGroupText,20077,form,Avetta PQF - Canada Transportation

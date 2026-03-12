@@ -1,0 +1,21 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774fa36b6c4c635467db,69a8774fa36b6c4c635467da,51180,questionGroup,questionGroupText,51180,form,Atemschutz,
+69a8774fa36b6c4c635467d3,,200210,question,description,51180,form,"Atemschutz-bezogene arbeitsmedizinische Untersuchungen müssen den häufigen oder längeren Einsatz von Atemschutzgeräten berücksichtigen. Die medizinische Beurteilung muss die physiologische Belastung einbeziehen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">ArbeitnehmerInnenschutzgesetz, § 49 Abs. 2</a>",
+69a8774fa36b6c4c635467d3,,200210,question,questionText,51180,form,Arbeitsmedizinische Untersuchung,
+69a8774fa36b6c4c635467d4,,200211,question,description,51180,form,"Atemschutz ist bereitzustellen, wenn Gefährdungen durch Gefahrstoffe oder Sauerstoffmangel bestehen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">Persönliche Schutzausrüstung-Verordnung, § 15 Abs. 2</a>",
+69a8774fa36b6c4c635467d4,,200211,question,questionText,51180,form,Bereitstellung zur Verwendung,
+69a8774fa36b6c4c635467d5,,200212,question,description,51180,form,"Atemschutz muss die Inhalationsexposition unter die Grenzwerte am Arbeitsplatz senken.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">Persönliche Schutzausrüstung-Verordnung, § 15 Abs. 3</a>",
+69a8774fa36b6c4c635467d5,,200212,question,questionText,51180,form,Expositionsreduzierung,
+69a8774fa36b6c4c635467d6,,200213,question,description,51180,form,"Die Unterweisung zur Atemschutz-PSA muss Verwendung, Wartung und Funktionsprüfungen umfassen. Die Schulung muss das ordnungsgemäße An- und Ablegen einschließen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">Persönliche Schutzausrüstung-Verordnung, § 15 Abs. 6, 15 Abs. 7 Z 1</a>",
+69a8774fa36b6c4c635467d6,,200213,question,questionText,51180,form,Unterweisung,
+69a8774fa36b6c4c635467d7,,200214,question,description,51180,form,"Übungen zum An- und Ablegen von Atemschutzgeräten müssen in Abständen von höchstens sechs Monaten durchgeführt werden. Bei diesen Übungen ist die Unterweisung zu Funktionsprüfungen zu wiederholen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">Persönliche Schutzausrüstung-Verordnung, § 15 Abs. 7 Z 2</a>",
+69a8774fa36b6c4c635467d7,,200214,question,questionText,51180,form,Halbjährliche Übungen,
+69a8774fa36b6c4c635467d8,,200215,question,description,51180,form,"Atemschutzgeräte müssen mindestens vierteljährlich überprüft werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008821"">Persönliche Schutzausrüstung-Verordnung, § 15 Abs. 8 Z 1</a>",
+69a8774fa36b6c4c635467d8,,200215,question,questionText,51180,form,Vierteljährliche Prüfungen,
+69a8774fa36b6c4c635467d9,,200216,question,questionText,51180,form,<div></div>,

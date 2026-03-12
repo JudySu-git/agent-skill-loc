@@ -1,0 +1,41 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+646e63f0190000c200198886,634db55c190000be01933207,37340,questionGroup,questionGroupText,37340,form,CyberSecurity Risk Score
+63ed082e15000076061f76d5,634db6cc170000ce03b9569f,37341,questionGroup,questionGroupText,37340,form,CyberSecurity Risk Score
+634db6dc190000bf0193355a,,131822,question,questionText,37340,form,What is the Company url?
+634db72b190000c00193355b,,131823,question,questionText,37340,form,What is the Company parent_domain?
+634f1d37170000d1043d7fe9,,131826,question,questionText,37340,form,What is the Company company_name?
+634f1d69170000cc043d8259,,131827,question,questionText,37340,form,What is the Company industry?
+634f1e5a1800002c053ec364,,131828,question,questionText,37340,form,What is the Company num_employees?
+634f1ec218000024053ec62e,,131829,question,questionText,37340,form,What is the Company total_score?
+634f20a8170000cc043d95c9,,131830,question,questionText,37340,form,What is the Company total_grade?
+634f240718000070053ef40a,,131831,question,questionText,37340,form,What is the Company breach_penalty?
+634f2ad1170000e4043e07da,,131832,question,questionText,37340,form,What is the Company application_security_grade?
+634f2c95170000a2053e184e,,131833,question,questionText,37340,form,What is the Company application_security_score?
+634f2d42170000db053e303a,,131834,question,questionText,37340,form,What is the Company application_security_count?
+634f2d701800001e063f6ea3,,131835,question,questionText,37340,form,What is the Company cubit_score_grade?
+634f2efb17000043063e5225,,131836,question,questionText,37340,form,What is the Company cubit_score_score?
+634ffc2d160000e7031ee9eb,,131838,question,questionText,37340,form,What is the Company cubit_score_count?
+634ffcd216000026001eec83,,131839,question,questionText,37340,form,What is the Company dns_health_grade?
+634ffdce160000050484aac6,,131840,question,questionText,37340,form,What is the Company dns_health_score?
+634ffe3716000017041eec95,,131841,question,questionText,37340,form,What is the Company dns_health_count?
+634fff81160000f30384b4bf,,131842,question,questionText,37340,form,What is the Company endpoint_security_grade?
+6350009f160000ef0384ba0b,,131843,question,questionText,37340,form,What is the Company endpoint_security_score?
+6350022d160000390484c0b5,,131844,question,questionText,37340,form,What is the Company endpoint_security_count?
+635003191600004f0484c5f2,,131845,question,questionText,37340,form,What is the Company hacker_chatter_grade?
+63500349160000490484c8a6,,131846,question,questionText,37340,form,What is the Company hacker_chatter_score?
+6350066f160000810484d69e,,131847,question,questionText,37340,form,What is the Company hacker_chatter_count?
+635009b1190000450066ee24,,131848,question,questionText,37340,form,What is the Company ip_reputation_grade?
+635009d9190000490066f058,,131849,question,questionText,37340,form,What is the Company ip_reputation_score?
+63500c21190000690066f068,,131850,question,questionText,37340,form,What is the Company ip_reputation_count?
+63500c81190000690066f06a,,131851,question,questionText,37340,form,What is the Company leaked_information_grade?
+63500cb91900004900670849,,131852,question,questionText,37340,form,What is the Company leaked_information_score?
+63500f641a0000cb00388407,,131855,question,questionText,37340,form,What is the Company leaked_information_count?
+6350102b1900009a006721d4,,131856,question,questionText,37340,form,What is the Company network_security_grade?
+635011011a0000ef00388c47,,131857,question,questionText,37340,form,What is the Company network_security_score?
+63501243190000b900673113,,131858,question,questionText,37340,form,What is the Company network_security_count?
+6350126a1a0000ef00388c62,,131859,question,questionText,37340,form,What is the Company patching_cadence_grade?
+635012ad1a00000401388c64,,131860,question,questionText,37340,form,What is the Company patching_cadence_score?
+635013491900007500673777,,131861,question,questionText,37340,form,What is the Company patching_cadence_count?
+63501377190000ca006737b0,,131862,question,questionText,37340,form,What is the Company social_engineering_grade?
+635013a4190000cc006739b2,,131863,question,questionText,37340,form,What is the Company social_engineering_score?
+635013d2190000cc006739f0,,131864,question,questionText,37340,form,What is the Company social_engineering_count?

@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4915010000370021f96e,662fec651b00002e00b6e5c8,42019,questionGroup,description,42019,form,You are getting this category because you selected a license in the Avetta PQF - Queensland License.
+66ce4915010000370021f96e,662fec651b00002e00b6e5c8,42019,questionGroup,questionGroupText,42019,form,Queensland Contractor License - Class B: Asbestos Removal
+662fec651b00003000b6e5c9,,153361,question,questionText,42019,form,License Number:
+662fec651b00003000b6e5c9,,153361,question,responseOption1,42019,form,Yes
+662fec651b00003000b6e5c9,,153361,question,responseOption2,42019,form,No
+662fec651b00003100b6e5cb,,153362,question,questionText,42019,form,Expiration Date:
+662fec651b00003100b6e5cb,,153362,question,responseOption1,42019,form,Yes
+662fec651b00003100b6e5cb,,153362,question,responseOption2,42019,form,No
+662fec651b00003100b6e5ca,,153363,question,questionText,42019,form,Please upload your license:\n
+662fec651b00003100b6e5ca,,153363,question,responseOption1,42019,form,Yes
+662fec651b00003100b6e5ca,,153363,question,responseOption2,42019,form,No

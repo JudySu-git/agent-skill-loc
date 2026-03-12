@@ -1,0 +1,7 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6883c45901000040005a3447,68839b46010000580008fac3,46799,questionGroup,description,46799,form,"If your company performs any of the following services and is required to maintain the relevant certification(s) for those services, you will be asked to provide your certificate in a subsequent form."
+6883c45901000040005a3447,68839b46010000580008fac3,46799,questionGroup,questionGroupText,46799,form,Germany Hazardous Materials Transport License Applicability Assessment
+68839bf30100003e0008fac6,,177311,question,description,46799,form,"The <a href = ""https://www.gesetze-im-internet.de/gefahrgutg/BJNR021210975.html""target=""_BLANK_"">Hazardous Materials Transport License</a>, as defined under section 3 of the German Dangerous Goods Transport Act is an official permit required for companies involved in the transportation of dangerous goods on public roads in Germany. This includes carriers, consignors, loaders, packers, and other parties responsible for ensuring compliance with legal and safety requirements related to the handling and transport of hazardous materials."
+68839bf30100003e0008fac6,,177311,question,questionText,46799,form,Does your company transport dangerous goods in Germany and is it required to maintain a Hazardous Materials Transport License?
+68839bf30100003e0008fac6,,177311,question,responseOption1,46799,form,Yes
+68839bf30100003e0008fac6,,177311,question,responseOption2,46799,form,No

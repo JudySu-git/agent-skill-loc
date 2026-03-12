@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+602c2b26450000d9ba1c250b,6027125d420000fc2de21097,32428,questionGroup,questionGroupText,32428,form,Avetta PQF - Exothermic Welding
+602712d0420000fc2de21488,,107028,question,questionText,32428,form,Does your company perform exothermic welding?
+602712d0420000fc2de21488,,107028,question,responseOption1,32428,form,Yes
+602712d0420000fc2de21488,,107028,question,responseOption2,32428,form,No
+602712de420000fc2de2149b,,107029,question,questionText,32428,form,Please upload a copy of your Company's exothermic welding policy
+602712ed44000005158c568f,,107030,question,questionText,32428,form,Does your company policy cover the following:\n\nFire Mitigation?
+602712ed44000005158c568f,,107030,question,responseOption1,32428,form,Yes
+602712ed44000005158c568f,,107030,question,responseOption2,32428,form,No
+6027130244000005158c5691,,107031,question,questionText,32428,form,PPE?
+6027130244000005158c5691,,107031,question,responseOption1,32428,form,Yes
+6027130244000005158c5691,,107031,question,responseOption2,32428,form,No
+6027130f44000005158c5692,,107032,question,questionText,32428,form,Storage of Molds?
+6027130f44000005158c5692,,107032,question,responseOption1,32428,form,Yes
+6027130f44000005158c5692,,107032,question,responseOption2,32428,form,No

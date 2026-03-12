@@ -1,0 +1,43 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+642b028a140000eb0d01cfc3,642b028a140000eb0d01cfc3,39031,questionGroup,questionGroupText,39039,form,Company had a Fatality in the past 3 years:
+642b028a140000eb0d01cfd6,642b028a140000eb0d01cfd6,39033,questionGroup,questionGroupText,39039,form,Ericsson Safety Culture Review
+642da5f9140000694be643a8,642b0289140000eb0d01cf96,39039,questionGroup,description,39039,form,"It has been flagged in your Avetta account that certain Safety and Health criteria does not meet Ericsson’s requirements; therefore, Ericsson requires further documentation to review these specific deficiencies. Please go to your account dashboard for Ericsson and review the Flag Details tab to see the applicable line items your account is Red flagged for. You will be required to provide documents to address the specific Red flagged items. Ericsson’s variance process will also include a review of your company’s safety culture and documentation of safety related indicators for your company. Documents for verification will be in the form of tool-box topics, employee sign in sheets, photos, audits, training records, lessons learned, Safety alert, commitment letters and or policy changes. This requested information can be uploaded in the Ericsson Safety Culture Review section. Please return all documentation in 5 business days or sooner."
+642da5f9140000694be643a8,642b0289140000eb0d01cf96,39039,questionGroup,questionGroupText,39039,form,Ericsson Fatality Variance Request
+642b0289140000eb0d01cf98,,139398,question,questionText,39039,form,Contractor Company Contact: 
+642b0289140000eb0d01cf99,,139399,question,questionText,39039,form,Contractor Contact e-mail: 
+642b0289140000eb0d01cf9a,,139400,question,description,39039,form,Example: 123-456-7890
+642b0289140000eb0d01cf9a,,139400,question,questionText,39039,form,Contractor Contact phone: 
+642b028a140000eb0d01cfc4,,139437,question,questionText,39039,form,Please describe the Corrective Action Plan addressing the specific root cause(s) to prevent reoccurrence:
+642b028a140000eb0d01cfc5,,139438,question,questionText,39039,form,"Please upload on company letter head, a request for variance with an explanation of the non-conformity and examples of what the company has been doing to continually improve their safety culture:"
+642b028a140000eb0d01cfc6,,139439,question,questionText,39039,form,Please upload the Accident/incident reports attributed to the incident(s):
+642b028a140000eb0d01cfc7,,139440,question,questionText,39039,form,Please describe the Accident/incident reports attributed to the incident(s): 
+642b028a140000eb0d01cfc8,,139441,question,questionText,39039,form,Please upload the Contributing factor Root Cause Analysis related to incident(s):
+642b028a140000eb0d01cfc9,,139442,question,questionText,39039,form,Please describe the Contributing factor Root Cause Analysis related to incident(s):
+642b028a140000eb0d01cfca,,139443,question,questionText,39039,form,Please upload the Corrective Action Plan addressing the specific root cause(s) to prevent reoccurrence:
+642b028a140000eb0d01cfd7,,139454,question,questionText,39039,form,"Please provide details about Last 2 - year OSHA reported incident or incidents - Corrective action related to each event, and evidence how it was communicated to the field to prevent reoccurrence."
+642b028a140000eb0d01cfd8,,139455,question,questionText,39039,form,Please upload evidence of employee orientation.
+642b028a140000eb0d01cfd9,,139456,question,description,39039,form,Documentation can be the last or current quarter random test log or last 2 drug test employer copy from chain of custody or random selection document.
+642b028a140000eb0d01cfd9,,139456,question,questionText,39039,form,Please upload evidence the company is participating in the drug and alcohol program. 
+642b028a140000eb0d01cfda,,139457,question,questionText,39039,form,Please upload evidence of 2 near miss reports in the last 4 months.
+642b028a140000eb0d01cfdb,,139458,question,questionText,39039,form,Does your company participate in a Stretch and Flex Program?
+642b028a140000eb0d01cfdb,,139458,question,responseOption1,39039,form,Yes
+642b028a140000eb0d01cfdb,,139458,question,responseOption2,39039,form,No
+642b028a140000eb0d01cfdc,,139459,question,questionText,39039,form,Please provide evidence of Stretch and Flex Program:
+642b028a140000eb0d01cfdd,,139460,question,questionText,39039,form,Does your company have a Stop Work Program?
+642b028a140000eb0d01cfdd,,139460,question,responseOption1,39039,form,Yes
+642b028a140000eb0d01cfdd,,139460,question,responseOption2,39039,form,No
+642b028a140000eb0d01cfde,,139461,question,questionText,39039,form,Please provide evidence of Stop Work Program
+642b028a140000eb0d01cfdf,,139462,question,questionText,39039,form,Please upload your company Ladder Safety program and training tool-box topic. 
+642b028a140000eb0d01cfe0,,139463,question,questionText,39039,form,Please provide a date for a virtual field audit with a work crew in the field. This can be a part of a VSS audit as well.
+642b028a140000eb0d01cfe1,,139464,question,description,39039,form,e.g. Corrective action sign in sheets.
+642b028a140000eb0d01cfe1,,139464,question,questionText,39039,form,Please provide evidence of company field audit and corrective action. 
+642b028a140000eb0d01cfe2,,139465,question,questionText,39039,form,Please provide evidence of weekly safety meeting topics and sign in sheets for the last 3 weekly safety meetings.
+642b028a140000eb0d01cfe3,,139466,question,questionText,39039,form,Please upload a copy of your Loss/Run review sign in sheet and include management recommendation for improvements.
+642b028a140000eb0d01cfe4,,139467,question,questionText,39039,form,Please upload a copy of your JHA/ JSA for past 2 weeks for review.
+642b028a140000eb0d01cfe5,,139468,question,description,39039,form,This should show the number of employees trained and what each employee has completed training in a specific area.
+642b028a140000eb0d01cfe5,,139468,question,questionText,39039,form,Please upload a copy of your company training matrix. 
+642b028a140000eb0d01cfe6,,139469,question,description,39039,form,Can include in the company training matrix or separate.
+642b028a140000eb0d01cfe6,,139469,question,questionText,39039,form,Please provide evidence of vehicle driver training.
+642b028a140000eb0d01cfe7,,139470,question,questionText,39039,form,Please upload a copy of your updated Safety Manual with revision dated and signatures.
+642b028a140000eb0d01cfe8,,139471,question,questionText,39039,form,Please upload a copy of your Safety Manager Resume/ CV
+642b028b140000eb0d01cfe9,,139472,question,questionText,39039,form,Other Comments

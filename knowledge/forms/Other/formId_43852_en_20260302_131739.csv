@@ -1,0 +1,25 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67bce231010000a701fd06f6,67295d140100009a00cfa1c3,43852,questionGroup,questionGroupText,43852,form,Malaysia Social Security Organization (SOCSO)
+67295e0a010000b700cfa1cb,,161441,question,description,43852,form,https://perkeso.spab.gov.my/eApps/system/index.do?aplCode=en\n
+67295e0a010000b700cfa1cb,,161441,question,questionText,43852,form,Is your company required to comply with the Social Security Organization (SOCSO) in Malaysia?\n
+67295e0a010000b700cfa1cb,,161441,question,responseOption1,43852,form,Yes
+67295e0a010000b700cfa1cb,,161441,question,responseOption2,43852,form,No
+67295e570100003500cfa1ce,,161442,question,description,43852,form,"You will be required to confirm that you have alternative coverage for occupational health and safety risks (e.g., private insurance for foreign workers as required by the Workmen's Compensation Act 1952).\n"
+67295e570100003500cfa1ce,,161442,question,questionText,43852,form,Please select an option:\n
+67295e570100003500cfa1ce,,161442,question,responseOption1,43852,form,"All employees in the company earn more than RM 4,000 per month"
+67295e570100003500cfa1ce,,161442,question,responseOption2,43852,form,The company employs only foreign workers who are not covered by SOCSO but are insured under private insurance policies as required by the Workmen's Compensation Act 1952.
+67295e570100003500cfa1ce,,161442,question,responseOption3,43852,form,Other
+67295e810100009a00cfa1d0,,161443,question,description,43852,form,\n
+67295e810100009a00cfa1d0,,161443,question,questionText,43852,form,Please explain
+67295e810100009a00cfa1d0,,161443,question,responseOption1,43852,form,Yes
+67295e810100009a00cfa1d0,,161443,question,responseOption2,43852,form,No
+67295e92010000ba00cfa1d2,,161444,question,questionText,43852,form,Has your company made all required contributions for the previous fiscal year?\n
+67295e92010000ba00cfa1d2,,161444,question,responseOption1,43852,form,Yes
+67295e92010000ba00cfa1d2,,161444,question,responseOption2,43852,form,No
+67295e9b0100003900cfa1d4,,161445,question,description,43852,form,The receipt must be issued within 3 months prior to the submission date\n
+67295e9b0100003900cfa1d4,,161445,question,questionText,43852,form,Please upload a copy of your latest SOCSO Contribution Receipts\n
+67295e9b0100003900cfa1d4,,161445,question,responseOption1,43852,form,Yes
+67295e9b0100003900cfa1d4,,161445,question,responseOption2,43852,form,No
+67295ea8010000ba00cfa1d5,,161446,question,questionText,43852,form,Sign below to confirm the information and/or document provided is correct and updated
+67295ea8010000ba00cfa1d5,,161446,question,responseOption1,43852,form,Yes
+67295ea8010000ba00cfa1d5,,161446,question,responseOption2,43852,form,No

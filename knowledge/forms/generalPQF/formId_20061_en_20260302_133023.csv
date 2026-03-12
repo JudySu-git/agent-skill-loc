@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4cd2cdb2504943fc1631de52,4cd2cdb2504943fc1631de52,1204,questionGroup,questionGroupText,20061,form,Canadian Drug & Alcohol Program
+4b142a4e5049434c2e5f885b,,2927,question,questionText,20061,form,Does your company's drug and alcohol policy meet or exceed either the COAA or ENFORM A&D models?
+4b142a4e5049434c2e5f885b,,2927,question,responseOptionNo,20061,form,No
+4b142a4e5049434c2e5f885b,,2927,question,responseOptionYes,20061,form,Yes
+5c1824e437000058d1bf9c08,5ab037392b00006f00d42379,20061,questionGroup,questionGroupText,20061,form,Avetta PQF - Canada Drug & Alcohol Program

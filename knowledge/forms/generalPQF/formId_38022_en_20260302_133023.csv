@@ -1,0 +1,215 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+639cbca41600008301f79a1d,639278b519000046092fc7a1,38022,questionGroup,questionGroupText,38022,form,Avetta PQF - Plant & Equipment (Hired / Leased)
+6392794f19000081092fc8d8,6392794f19000081092fc8d7,38023,questionGroup,questionGroupText,38022,form,Plant & Equipment (Hired / Leased)
+6392795519000091092fc8da,6392795519000091092fc8d9,38024,questionGroup,questionGroupText,38022,form,Planning / Design Stage
+6392797c1900009a092fc8df,6392797c1900009a092fc8de,38025,questionGroup,questionGroupText,38022,form,Construction Phase
+639279881600007009dd1762,639279881600007009dd1761,38027,questionGroup,questionGroupText,38022,form,Training - Plant and Equipment
+639279901600005d09dd1766,639279901600005d09dd1765,38028,questionGroup,questionGroupText,38022,form,Validation of Documentation
+639279a01900009d092fc8e4,639279a01900009d092fc8e3,38029,questionGroup,questionGroupText,38022,form,Plant and Equipment Suitability
+639279ab19000047092fc8e8,639279ab19000047092fc8e7,38030,questionGroup,questionGroupText,38022,form,Competency 
+639279b419000096092fc8eb,639279b419000096092fc8ea,38031,questionGroup,questionGroupText,38022,form,Inspection 
+639279bd1600007909dd1878,639279bd1600007909dd1877,38032,questionGroup,questionGroupText,38022,form,Retention of Records
+639279e619000076092fc92a,,134631,question,questionText,38022,form,Does your company use hired plant and equipment when working on client sites?
+639279e619000076092fc92a,,134631,question,responseOption1,38022,form,Yes
+639279e619000076092fc92a,,134631,question,responseOption2,38022,form,No
+63936461190000f502288095,,134639,question,description,38022,form,"If the company does not conduct any aspect of the planning / design phase as this is undertaken by a 3rd party, check the NA option, if risk based information is provided on the different types of plant / equipment needed to deliver the project including how the equipment inside the buildings is commissioned, maintained and operated, you should confirm how this information is managed and coordinated between the different parties, especially where other parties have responsibility for securing the applicable equipment."
+63936461190000f502288095,,134639,question,questionText,38022,form,"Does the company confirm during the design and planning phase of the project what plant / equipment may be required to deliver the different stages of a project (Design, construction, maintenance, commissioning, etc) ? "
+63936461190000f502288095,,134639,question,responseOption1,38022,form,Yes
+63936461190000f502288095,,134639,question,responseOption2,38022,form,No
+63936461190000f502288095,,134639,question,responseOption3,38022,form,N/A
+6393649f190000e502288282,,134640,question,questionText,38022,form,"If categories of  plant / equipment are confirmed as being required during the design stage, is the decision to hire or lease made at this stage?"
+6393649f190000e502288282,,134640,question,responseOption1,38022,form,Yes
+6393649f190000e502288282,,134640,question,responseOption2,38022,form,No
+639364b417000055025986a5,,134641,question,description,38022,form,"To be used to provide plant / equipment as part of the construction phase and where applicable maintenance work, this may be short / long term lease or hire, may also include equipment that may be used within the constructed infrastructure."
+639364b417000055025986a5,,134641,question,questionText,38022,form,Does the company have a formal procurement process to evaluate 'hire / lease' companies during the different stages of the project?
+639364b417000055025986a5,,134641,question,responseOption1,38022,form,Yes
+639364b417000055025986a5,,134641,question,responseOption2,38022,form,No
+639364b417000055025986a5,,134641,question,responseOption3,38022,form,N/A
+639364d2170000f60259870c,,134642,question,questionText,38022,form,Confirm the process used to evaluate 'hire /  lease' companies before placing an order:
+639364d2170000f60259870c,,134642,question,responseOption1,38022,form,Use company purchasing process – Generic application for any service
+639364d2170000f60259870c,,134642,question,responseOption2,38022,form,"Use company purchasing process – Specific to lease / hire companies (Requires Specific Conditions: e.g. insurance, geographical cover, speed of delivery, etc.)."
+639364d2170000f60259870c,,134642,question,responseOption3,38022,form,Use site specific purchasing application – only enacted by site supervisory team
+639364d2170000f60259870c,,134642,question,responseOption4,38022,form,"Provider has to be approved by technical / engineering specialist in addition to company purchasing department (e.g. H&S, engineering, operations, etc.)"
+639364d2170000f60259870c,,134642,question,responseOption5,38022,form,Client mandates what plant / equipment must be used
+639364d2170000f60259870c,,134642,question,responseOption6,38022,form,Manufacturer specifies what must be used during installation phase
+639364d2170000f60259870c,,134642,question,responseOption7,38022,form,Other
+63936524170000fc02598ace,,134643,question,questionText,38022,form,Please Specify:
+63936538170000fc02598b8c,,134644,question,description,38022,form,"This maybe in the form of a checklist, company procedure or a simple written description explaining how the provider is sourced and evaluated"
+63936538170000fc02598b8c,,134644,question,questionText,38022,form,Upload documentary evidence demonstrating how providers of plant / equipment are verified / evaluated as a suitable supplier. 
+6393657e190000e502288cea,,134646,question,questionText,38022,form,Does the company have a formal procurement process that allows site based personnel  to order hired or leased plant / equipment which had not been identified at the design stage?
+6393657e190000e502288cea,,134646,question,responseOption1,38022,form,Yes
+6393657e190000e502288cea,,134646,question,responseOption2,38022,form,No
+6393659e170000fc02598fb0,,134647,question,questionText,38022,form,Categories of site-based personnel empowered to order hire / leased plant and equipment:
+6393659e170000fc02598fb0,,134647,question,responseOption1,38022,form,Site Supervisors
+6393659e170000fc02598fb0,,134647,question,responseOption2,38022,form,Project Managers
+6393659e170000fc02598fb0,,134647,question,responseOption3,38022,form,Operation Managers
+6393659e170000fc02598fb0,,134647,question,responseOption4,38022,form,Quantity Surveyors
+6393659e170000fc02598fb0,,134647,question,responseOption5,38022,form,Project Directors
+6393659e170000fc02598fb0,,134647,question,responseOption6,38022,form,Other
+639365dd190000f502289150,,134648,question,questionText,38022,form,Please Specify:
+639365f3190000e8022891ee,,134649,question,questionText,38022,form,Does the company provide training to nominated employees tasked with sourcing and ordering  plant and equipment (hired / leased) needed to deliver the work scope?
+639365f3190000e8022891ee,,134649,question,responseOption1,38022,form,Yes
+639365f3190000e8022891ee,,134649,question,responseOption2,38022,form,No
+63936602190000e902289274,,134650,question,description,38022,form,"It may be possible the training is the same for the purchasing of other assets and equipment, this is perfectly acceptable"
+63936602190000e902289274,,134650,question,questionText,38022,form,Company personnel provided with training to purchase hired or leased plant / equipment :
+63936602190000e902289274,,134650,question,responseOption1,38022,form,Procurement Specialists
+63936602190000e902289274,,134650,question,responseOption2,38022,form,Site Project Management Team Members
+63936602190000e902289274,,134650,question,responseOption3,38022,form,Any Member of the Site Supervisory Team
+63936602190000e902289274,,134650,question,responseOption4,38022,form,Health & Safety Management Team
+63936602190000e902289274,,134650,question,responseOption5,38022,form,Operations Management Team
+63936602190000e902289274,,134650,question,responseOption6,38022,form,Engineering Management Team
+63936602190000e902289274,,134650,question,responseOption7,38022,form,Production Management Team
+63936602190000e902289274,,134650,question,responseOption8,38022,form,Other 
+6393665a190000e9022894df,,134651,question,questionText,38022,form,Please Specify:
+63936672170000f6025995a3,,134652,question,questionText,38022,form,Training to order hire or leased plant / equipment covers:
+63936672170000f6025995a3,,134652,question,responseOption1,38022,form,Design Stage
+63936672170000f6025995a3,,134652,question,responseOption2,38022,form,Construction / Delivery Phase
+63936672170000f6025995a3,,134652,question,responseOption3,38022,form,Maintenance
+63936672170000f6025995a3,,134652,question,responseOption4,38022,form,Other
+6393669a190000e802289871,,134653,question,questionText,38022,form,Please Specify:
+639366a5190000e802289873,,134654,question,questionText,38022,form,Company personnel do not receive training on how to source hired or leased plant / equipment:
+639366a5190000e802289873,,134654,question,responseOption1,38022,form,All plant and equipment is mandated / identified by the client
+639366a5190000e802289873,,134654,question,responseOption2,38022,form,Company is too small to provide this type of training
+639366a5190000e802289873,,134654,question,responseOption3,38022,form,Company only use owned assets 
+639366a5190000e802289873,,134654,question,responseOption4,38022,form,Procurement team are deemed competent to purchase any item needed for work delivery – do not require specialist training
+639366a5190000e802289873,,134654,question,responseOption5,38022,form,All plant and equipment is mandated / identified by the (designer / architect) and client manage the securing of the plant or equipment
+639366a5190000e802289873,,134654,question,responseOption6,38022,form,Other
+63936763190000e502289d05,,134655,question,questionText,38022,form,Please Specify:
+63936bbb1900004c0328db55,,134656,question,questionText,38022,form,"Does the company provide training to project / site based workers to ensure they can evaluate the suitability of plant / equipment upon delivery, ensuring it is correct and appropriate for intended use?"
+63936bbb1900004c0328db55,,134656,question,responseOption1,38022,form,Yes
+63936bbb1900004c0328db55,,134656,question,responseOption2,38022,form,No
+63936bbb1900004c0328db55,,134656,question,responseOption3,38022,form,N/A
+63936bd51900004c0328dc60,,134657,question,description,38022,form,This section applies to the individuals tasked with taking receipt of leased or hired plant / equipment being delivered to the worksite.
+63936bd51900004c0328dc60,,134657,question,questionText,38022,form,"All personnel that are tasked with confirming hired or leased plant / equipment is suitable upon delivery, possess the necessary competency. "
+63936bd51900004c0328dc60,,134657,question,responseOption1,38022,form,Ability to read and understand risk based information issued with the equipment
+63936bd51900004c0328dc60,,134657,question,responseOption10,38022,form,Other
+63936bd51900004c0328dc60,,134657,question,responseOption2,38022,form,Understand safe systems of work and how the equipment should be used safely in the workplace
+63936bd51900004c0328dc60,,134657,question,responseOption3,38022,form,"Interpret documentation issued with equipment, e.g., Certificate of conformity"
+63936bd51900004c0328dc60,,134657,question,responseOption4,38022,form,Understand what documents should be provided with individual pieces of equipment
+63936bd51900004c0328dc60,,134657,question,responseOption5,38022,form,Validate competency of operators who may operate equipment
+63936bd51900004c0328dc60,,134657,question,responseOption6,38022,form,Confirm using a range of techniques to validate if there has been any relevant issues with the equipment being delivered 
+63936bd51900004c0328dc60,,134657,question,responseOption7,38022,form,Be empowered to reject equipment that does not meet the requirements based on identified workplace risk if wrong equipment is provided or incorrect documentation is provided during delivery
+63936bd51900004c0328dc60,,134657,question,responseOption8,38022,form,Understand potential consequences of accepting equipment without correct documentation
+63936bd51900004c0328dc60,,134657,question,responseOption9,38022,form,Understand potential consequences of accepting equipment that is different to that mandated to undertake a specific task 
+63936c381700001c0359da7e,,134660,question,questionText,38022,form,Please Specify:
+63936c761900005903290558,,134661,question,questionText,38022,form,"Does the company undertake formal verification checks on all documentation issued with plant / equipment (delivered to worksites), subject to hired or leasing agreements?"
+63936c761900005903290558,,134661,question,responseOption1,38022,form,Yes
+63936c761900005903290558,,134661,question,responseOption2,38022,form,No
+63936c761900005903290558,,134661,question,responseOption3,38022,form,N/A
+63936c871700003b035a132b,,134662,question,questionText,38022,form,Company verification checks undertaken on hired or leased plant / equipment before use:
+63936c871700003b035a132b,,134662,question,responseOption1,38022,form,Certificate of Conformity – for individual piece of equipment
+63936c871700003b035a132b,,134662,question,responseOption10,38022,form,Daily checks are undertaken and recorded / Provided before work commences
+63936c871700003b035a132b,,134662,question,responseOption11,38022,form,Insurance cover is suitable
+63936c871700003b035a132b,,134662,question,responseOption12,38022,form,Risk assessments specific to use / operation 
+63936c871700003b035a132b,,134662,question,responseOption13,38022,form,Hazardous substance assessment
+63936c871700003b035a132b,,134662,question,responseOption14,38022,form,Power sources needed
+63936c871700003b035a132b,,134662,question,responseOption15,38022,form, Storage required
+63936c871700003b035a132b,,134662,question,responseOption16,38022,form,Ventilation mandates
+63936c871700003b035a132b,,134662,question,responseOption17,38022,form,Equipment maintenance schedule is current
+63936c871700003b035a132b,,134662,question,responseOption18,38022,form,Accessories used with the equipment are compatible
+63936c871700003b035a132b,,134662,question,responseOption19,38022,form,Environmental impacts
+63936c871700003b035a132b,,134662,question,responseOption2,38022,form,Competency certification of operator (provided by supplier) 
+63936c871700003b035a132b,,134662,question,responseOption20,38022,form,Load limitations 
+63936c871700003b035a132b,,134662,question,responseOption21,38022,form,Confirmation the operator has verified the lifting equipment can be used / extended in the proposed area of work
+63936c871700003b035a132b,,134662,question,responseOption22,38022,form,Confirmation (where applicable) ground testing has been undertaken
+63936c871700003b035a132b,,134662,question,responseOption23,38022,form,Lifting equipment proposed  can meeting weight limits
+63936c871700003b035a132b,,134662,question,responseOption24,38022,form,Other
+63936c871700003b035a132b,,134662,question,responseOption3,38022,form,Equipment is same as stipulated in system of work
+63936c871700003b035a132b,,134662,question,responseOption4,38022,form,Documented safe system of work / methods
+63936c871700003b035a132b,,134662,question,responseOption5,38022,form,Recall notices – Verify no notice in place
+63936c871700003b035a132b,,134662,question,responseOption6,38022,form,Recall notice – confirmation historical notice has been withdrawn 
+63936c871700003b035a132b,,134662,question,responseOption7,38022,form,Period of hire is confirmed 
+63936c871700003b035a132b,,134662,question,responseOption8,38022,form,"Testing records e.g., lifting certificates"
+63936c871700003b035a132b,,134662,question,responseOption9,38022,form,Maintenance records are up to date
+63936d1a17000039035a195e,,134663,question,questionText,38022,form,Please Specify:
+63936d2817000027035a19fa,,134664,question,questionText,38022,form,Does the company have a process validating  if plant / equipment being used via a hire or lease agreement has been subject to any form of recall notice or the equipment was a factor in a serious event?
+63936d2817000027035a19fa,,134664,question,responseOption1,38022,form,Yes
+63936d2817000027035a19fa,,134664,question,responseOption2,38022,form,No
+63936d381900004f03290e1d,,134665,question,questionText,38022,form,Confirmation of recall notifications applied to hired and leased plant / equipment:
+63936d381900004f03290e1d,,134665,question,responseOption1,38022,form,Before ordering any plant / equipment a check is made with the company requesting confirmation there are no recall issues 
+63936d381900004f03290e1d,,134665,question,responseOption2,38022,form,Other
+63936d5e1900006e03290fe8,,134666,question,questionText,38022,form,Please Specify:
+63936d7f1900006e03290fea,,134667,question,questionText,38022,form,Confirmation if hired and leased plant / equipment has been involved in any major safety related incident:
+63936d7f1900006e03290fea,,134667,question,responseOption1,38022,form,Before ordering any plant / equipment a check is made with the company requesting confirmation there has been no major safety related incidents related to the equipment 
+63936d7f1900006e03290fea,,134667,question,responseOption2,38022,form,Confirmation there have been no historical incidents on company sites involving this equipment 
+63936d7f1900006e03290fea,,134667,question,responseOption3,38022,form,Other
+63936d9b1900006f03290fec,,134668,question,questionText,38022,form,Please Specify:
+63936e141700005d035a2a4b,,134670,question,questionText,38022,form,"Does the company have a formal process to verify plant / equipment provided by hire or lease company, is the equipment ordered, and suitable for the work to be completed safely?"
+63936e141700005d035a2a4b,,134670,question,responseOption1,38022,form,Yes
+63936e141700005d035a2a4b,,134670,question,responseOption2,38022,form,No
+63936e141700005d035a2a4b,,134670,question,responseOption3,38022,form,N/A
+63936e241700005d035a2ae4,,134671,question,questionText,38022,form,Additional company checks taking receipt of plant / equipment at site -workplace:
+63936e241700005d035a2ae4,,134671,question,responseOption1,38022,form,Confirmation pre-hire and inspection checks have been completed
+63936e241700005d035a2ae4,,134671,question,responseOption2,38022,form,Maintenance history
+63936e241700005d035a2ae4,,134671,question,responseOption3,38022,form,Product specific operating / user instructions are provided
+63936e241700005d035a2ae4,,134671,question,responseOption4,38022,form,Declaration / Certification of Conformity certification provided
+63936e241700005d035a2ae4,,134671,question,responseOption5,38022,form,"Testing certification is up to date (e.g., Lifting equipment tests)"
+63936e241700005d035a2ae4,,134671,question,responseOption6,38022,form,No recall notices  are applicable to the item
+63936e241700005d035a2ae4,,134671,question,responseOption7,38022,form,No history of safety related incidents with this equipment reported within country of operation
+63936e241700005d035a2ae4,,134671,question,responseOption8,38022,form,Other
+63936e5f1900007a03292385,,134673,question,questionText,38022,form,Please Specify:
+63936e6b1900008403292454,,134674,question,description,38022,form,This should be a formal program supporting the maintenance regime for plant and equipment where maintenance work can be undertaken by the end user or the 3rd party provider.
+63936e6b1900008403292454,,134674,question,questionText,38022,form,Does the company apply a preventative maintenance program (PMP) to hired / leased plant and equipment used on site?
+63936e6b1900008403292454,,134674,question,responseOption1,38022,form,Yes
+63936e6b1900008403292454,,134674,question,responseOption2,38022,form,No
+63936e9c17000053035a4bb2,,134675,question,description,38022,form,"This may include the guidance documentation issued by the 3rd party supplier detailing dates or mechanism for issue of replacement equipment while existing equipment is worked on, if the company is small and does not have a formal procedure a simple description written on company branded paper is sufficient."
+63936e9c17000053035a4bb2,,134675,question,questionText,38022,form,"Provide a work flow, description or company procedure that confirms how plant and equipment that is hired or leased is maintained based upon the manufacturer’s requirements."
+63936eb91900007903292dd1,,134677,question,questionText,38022,form,The company does not apply a preventative maintenance program to hired or leased equipment:
+63936eb91900007903292dd1,,134677,question,responseOption1,38022,form,All maintenance of hired and leased equipment managed by the provider
+63936eb91900007903292dd1,,134677,question,responseOption2,38022,form,Company do not have the capacity to undertake any maintenance work – all outsourced
+63936eb91900007903292dd1,,134677,question,responseOption3,38022,form,Other
+63936edd190000750329316e,,134678,question,questionText,38022,form,Please Specify:
+63936ef417000053035a504e,,134679,question,questionText,38022,form,Does the company hire or lease plant / equipment that is provided and operated by a qualified operator?
+63936ef417000053035a504e,,134679,question,responseOption1,38022,form,Yes
+63936ef417000053035a504e,,134679,question,responseOption2,38022,form,No
+63936ef417000053035a504e,,134679,question,responseOption3,38022,form,N/A
+63936f061700005c035a525f,,134680,question,questionText,38022,form,Does the company verify the competence of operators  provided by the hire or lease company to operate plant / equipment before they commence any operation?
+63936f061700005c035a525f,,134680,question,responseOption1,38022,form,Yes
+63936f061700005c035a525f,,134680,question,responseOption2,38022,form,No
+63936f151900007d03293578,,134681,question,questionText,38022,form,"Does the company verify the competence of operators  subcontracted independently (Not provided by the hire / lease company), to operate the hired / leased plant / equipment before they commence any operation?"
+63936f151900007d03293578,,134681,question,responseOption1,38022,form,Yes
+63936f151900007d03293578,,134681,question,responseOption2,38022,form,No
+63936f2a1900007d03293614,,134682,question,description,38022,form,*Note – if you do not utilise 3rd parties to operate plant you should upload a written declaration that confirms you do not use 3rd party operators and check the NA box.
+63936f2a1900007d03293614,,134682,question,questionText,38022,form,Upload the work instruction or checklist demonstrating how the competence of operators is verified:
+63936f6d1700005c035a581f,,134683,question,description,38022,form,This should include checks on the safe systems of work used to operate the plant/equipment.
+63936f6d1700005c035a581f,,134683,question,questionText,38022,form,"Can the company demonstrate the safety inspection program includes the operation, control and management of all plant / equipment received from hire  or lease companies?"
+63936f6d1700005c035a581f,,134683,question,responseOption1,38022,form,Yes
+63936f6d1700005c035a581f,,134683,question,responseOption2,38022,form,No
+63936f7d1900007c032938bd,,134684,question,questionText,38022,form,Onsite safety inspections of plant and equipment are undertaken by the following personnel:
+63936f7d1900007c032938bd,,134684,question,responseOption1,38022,form,Company HSE Personnel
+63936f7d1900007c032938bd,,134684,question,responseOption2,38022,form,Independent Engineers / Inspectors
+63936f7d1900007c032938bd,,134684,question,responseOption3,38022,form,Client Representatives
+63936f7d1900007c032938bd,,134684,question,responseOption4,38022,form,Company Engineers / Technicians 
+63936f7d1900007c032938bd,,134684,question,responseOption5,38022,form,Site Supervisory Team Members – Client 
+63936f7d1900007c032938bd,,134684,question,responseOption6,38022,form,Site Supervisory Team Members – Company 
+63936f7d1900007c032938bd,,134684,question,responseOption7,38022,form,Other
+63936fc717000027035a5826,,134685,question,questionText,38022,form,Please Specify:
+63936fde17000027035a5828,,134686,question,questionText,38022,form,Please upload a sample inspection checklist demonstrating how plant and equipment form part of the company safety inspection regime:
+63936fec17000027035a582b,,134687,question,questionText,38022,form,Does the company utilize any form of register to document hired / leased plant and equipment used on site?
+63936fec17000027035a582b,,134687,question,responseOption1,38022,form,Yes
+63936fec17000027035a582b,,134687,question,responseOption2,38022,form,No
+63936ffc17000059035a582e,,134689,question,description,38022,form,*This is not a corporate asset register this is a worksite related question
+63936ffc17000059035a582e,,134689,question,questionText,38022,form,Upload information demonstrating how the company records hired and leased plant / equipment being used on client work sites:
+6393702b1900006f032942f0,,134690,question,questionText,38022,form,Does your company have a formal management process to retain safety inspection records and maintenance records issued by the hire or lease companies?
+6393702b1900006f032942f0,,134690,question,responseOption1,38022,form,Yes
+6393702b1900006f032942f0,,134690,question,responseOption2,38022,form,No
+6393702b1900006f032942f0,,134690,question,responseOption3,38022,form,N/A
+6393703c1900007a032942f2,,134691,question,questionText,38022,form,Specify the retention period of safety inspection records relating to plant / equipment:
+6393703c1900007a032942f2,,134691,question,responseOption1,38022,form,6m - 1yr
+6393703c1900007a032942f2,,134691,question,responseOption2,38022,form,2yr - 3yr
+6393703c1900007a032942f2,,134691,question,responseOption3,38022,form,4yrs+
+6393703c1900007a032942f2,,134691,question,responseOption4,38022,form,Other
+6393707717000027035a5861,,134692,question,questionText,38022,form,Please Specify:
+639370821900006f032945f2,,134693,question,questionText,38022,form,Specify the retention period of maintenance records relating to plant / equipment:
+639370821900006f032945f2,,134693,question,responseOption1,38022,form,No records maintained – this is responsibility of company owning the assets
+639370821900006f032945f2,,134693,question,responseOption2,38022,form,6m - 1yr
+639370821900006f032945f2,,134693,question,responseOption3,38022,form,2yr - 3yr
+639370821900006f032945f2,,134693,question,responseOption4,38022,form,4yrs+
+639370821900006f032945f2,,134693,question,responseOption5,38022,form,Other
+6393713e1900007c032989a7,,134694,question,questionText,38022,form,Please Specify:
+6393715a17000040035a99b4,,134695,question,questionText,38022,form,Methods used to store / archive plant / equipment safety inspection and maintenance records:
+6393715a17000040035a99b4,,134695,question,responseOption1,38022,form,Hard copy – Paper
+6393715a17000040035a99b4,,134695,question,responseOption2,38022,form, Electronically – Hard Drive
+6393715a17000040035a99b4,,134695,question,responseOption3,38022,form,Cloud Based
+6393715a17000040035a99b4,,134695,question,responseOption4,38022,form,Other
+639371881900007e03298b6f,,134696,question,questionText,38022,form,Please Specify:

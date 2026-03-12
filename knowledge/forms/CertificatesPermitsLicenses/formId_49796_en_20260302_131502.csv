@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+694195c60100004400687b1b,693c92f40100004400e9a169,49796,questionGroup,description,49796,form,This requirement is triggered because you indicated your organization maintains a valid Tax Clearance Certificate in the Ireland Tax Clearance Certificate Applicability Assessment questionnaire.
+694195c60100004400687b1b,693c92f40100004400e9a169,49796,questionGroup,questionGroupText,49796,form,Ireland Tax Clearance Certificate
+693c92f4010000f300e9a16a,,193288,question,description,49796,form,
+693c92f4010000f300e9a16a,,193288,question,questionText,49796,form,Please upload your Tax Clearance Certificate.
+693c92f4010000f200e9a16b,,193289,question,questionText,49796,form,Please enter the issue date of your Tax Clearance Certificate.
+693c92f4010000f200e9a16c,,193290,question,description,49796,form,Please enter your expiration date 12 months after the issue date.
+693c92f4010000f200e9a16c,,193290,question,questionText,49796,form,Please enter the expiration date of your Tax Clearance Certificate.

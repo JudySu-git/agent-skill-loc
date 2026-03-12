@@ -1,0 +1,13 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+68db054d01000044024c9e1c,68db02cc0100003b004c9e0d,48015,questionGroup,description,48015,form,"If your company is required to comply with Czech Republic Social Insurance, you will be asked to provide relevant documents in a subsequent form."
+68db054d01000044024c9e1c,68db02cc0100003b004c9e0d,48015,questionGroup,questionGroupText,48015,form,Czech Republic Statutory Labor Insurance Applicability Assessment
+68db02cc0100005c004c9e0e,,183182,question,description,48015,form,"The social insurance system in the Czech Republic is administered by the state through the <a href=""https://www.zakonyprolidi.cz/cs/1992-589"" target=""_blank""> Czech Social Security Administration (ČSSZ)</a>, compulsory for all employees (and self-employed persons with some differences), financed by contributions from employers, employees and self-employed persons, and regulated by law (in particular Act No 589/1992 Coll.)."
+68db02cc0100005c004c9e0e,,183182,question,questionText,48015,form,Is your company required to comply with Czech Republic Social Insurance and maintain applicable documentation to show compliance?
+68db02cc0100005c004c9e0e,,183182,question,responseOption1,48015,form,Yes
+68db02cc0100005c004c9e0e,,183182,question,responseOption2,48015,form,No
+68db02cc01000043004c9e10,,183183,question,questionText,48015,form,"If other, please explain."
+68db02cc0100005c004c9e0f,,183184,question,questionText,48015,form,"Please select from the following reasons your company is exempt from compling with <a href=""https://ec.europa.eu/employment_social/empl_portal/SSRinEU/Your%20social%20security%20rights%20in%20Czech%20Republic_en.pdf"" target=""_blank""> Czech Republic Social Insurance</a>."
+68db02cc0100005c004c9e0f,,183184,question,responseOption1,48015,form,"The company is composed of employees earning less than CZK 2,000 per month or working less than 14 successive calendar days in a month."
+68db02cc0100005c004c9e0f,,183184,question,responseOption2,48015,form,The company has foreign or diplomatic employee(s) working temporarily (up to 24 months) in Czech Republic that are covered by the home country's scheme and are prepared to provide a copy of the A1 certificate(s) upon request.
+68db02cc0100005c004c9e0f,,183184,question,responseOption3,48015,form,The company is a sole proprietorship.
+68db02cc0100005c004c9e0f,,183184,question,responseOption4,48015,form,Other

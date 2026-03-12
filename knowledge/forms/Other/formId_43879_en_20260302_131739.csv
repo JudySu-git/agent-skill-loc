@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+672a9f470100004c01a64a96,672a9b0601000018013f2c3f,43879,questionGroup,questionGroupText,43879,form,Brazil Risk Management Program (PGR) Applicability Assessment
+672a9bf801000076003f2c4a,,161551,question,questionText,43879,form,Is your company required to implement a Risk Management Program (PGR) under Brazilian labor regulations (NR-1)?
+672a9bf801000076003f2c4a,,161551,question,responseOption1,43879,form,Yes
+672a9bf801000076003f2c4a,,161551,question,responseOption2,43879,form,No
+672a9c100100008500a64a7d,,161552,question,questionText,43879,form,Please upload an exemption document or a written statement on company letterhead to support your response.
+672a9c100100008500a64a7d,,161552,question,responseOption1,43879,form,Yes
+672a9c100100008500a64a7d,,161552,question,responseOption2,43879,form,No
+672a9c1f01000079003f2c8b,,161553,question,questionText,43879,form,Electronic Signature
+672a9c1f01000079003f2c8b,,161553,question,responseOption1,43879,form,Yes
+672a9c1f01000079003f2c8b,,161553,question,responseOption2,43879,form,No

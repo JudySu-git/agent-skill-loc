@@ -1,0 +1,18 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+667b462c010000080124708c,5dfd1a1a3700009d4b783072,28369,questionGroup,questionGroupText,28369,form,Avetta PQF - US Supplier Diversity: Women-Owned Business
+6580e429180000ae3a6e73ef,5dfd1a40320000fe2d7b3cc6,28370,questionGroup,description,28369,form,You are receiving this category because you selected Women-Owned Business in the United States Supplier Diversity Certification Questionnaire.
+6580e429180000ae3a6e73ef,5dfd1a40320000fe2d7b3cc6,28370,questionGroup,questionGroupText,28369,form,Women-Owned Business
+572d141f50494344c7fc5e7c,,37539,question,questionText,28369,form,Please indicate the certifying body / certificate issuer for your company’s Women-Owned Business certification.
+572d141f50494344c7fc5e7c,,37539,question,responseOption1,28369,form,National Women Business Owners Corporation (NWBOC)
+572d141f50494344c7fc5e7c,,37539,question,responseOptionOther,28369,form,State / Local / Other
+572d141f50494344c7fc5e7c,,37539,question,responseOptionWBENC,28369,form,Women's Business Enterprise National Council (WBENC)
+572d141f50494344c7fc5e7c,,37539,question,responseOptionWEConnect,28369,form,WEConnect International
+572d166e5049434f836873b4,,37540,question,questionText,28369,form,"State/Local/Other was selected, please specify:"
+572d166e5049434f836873b4,,37540,question,responseOptionOther,28369,form,Other / Not Listed
+572d166e5049434f836873b4,,37540,question,responseOptionWomen'sBusinessEnterpriseCouncil-West,28369,form,Women's Business Enterprise Council - West
+572d166e5049434f836873b4,,37540,question,responseOptionWomen'sBusinessEnterpriseCouncilSoutheast,28369,form,Women's Business Enterprise Council - Southeast
+572d17605049431bb9314402,,37541,question,questionText,28369,form,Not Listed was selected; please specify:
+5dfd1b24320000fe2d7b5f75,,90279,question,questionText,28369,form,Issue Date:
+5dfd1b30320000fe2d7b60e2,,90280,question,questionText,28369,form,Expiration Date:
+5dfd1b3b3400009d4b11de88,,90281,question,questionText,28369,form,Certificate Number:
+5dfd1b443700009d4b785483,,90282,question,questionText,28369,form,Please Upload a copy of your certification certificate:

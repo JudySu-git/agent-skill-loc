@@ -1,0 +1,42 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+656a64b61a0000760006c7b9,656a64b61a0000760006c7b9,40797,questionGroup,questionGroupText,40798,form,Ivory Coast
+656a6b3c1a0000670006c7cd,656a64b61a0000760006c7b8,40798,questionGroup,questionGroupText,40798,form,Avetta PQF - Ivory Coast Company Information
+656a64b61a0000760006c7ba,,147529,question,questionText,40798,form,Please indicate your company's business entity / form of business within this country.
+656a64b61a0000760006c7ba,,147529,question,responseOption1,40798,form,Sole Proprietorship
+656a64b61a0000760006c7ba,,147529,question,responseOption2,40798,form,Corporation
+656a64b61a0000760006c7ba,,147529,question,responseOption3,40798,form,Limited Liability Company
+656a64b61a0000760006c7ba,,147529,question,responseOption4,40798,form,General Partnership
+656a64b61a0000760006c7ba,,147529,question,responseOption5,40798,form,Limited Partnership
+656a64b61a0000760006c7ba,,147529,question,responseOption6,40798,form,Branch Office
+656a64b61a0000760006c7ba,,147529,question,responseOption7,40798,form,Foreign entity with no local fiscal presence
+656a64b61a0000760006c7ba,,147529,question,responseOption8,40798,form,Other
+656a64b61a0000760006c7bb,,147530,question,questionText,40798,form,Please indicate where your company is established:
+656a64b61a0000760006c7bb,,147530,question,responseOption1,40798,form,Yes
+656a64b61a0000760006c7bb,,147530,question,responseOption2,40798,form,No
+656a64b61a0000760006c7bc,,147531,question,questionText,40798,form,"If Other, please explain:"
+656a64b61a0000760006c7bc,,147531,question,responseOption1,40798,form,Yes
+656a64b61a0000760006c7bc,,147531,question,responseOption2,40798,form,No
+656a64b61a0000760006c7bd,,147532,question,questionText,40798,form,"Is your company registered with the <a href=""https://www.commerce.gouv.ci/"" \ntarget=""_Blank"">Ministry of Trade of Ivory Coast</a>?"
+656a64b61a0000760006c7bd,,147532,question,responseOption1,40798,form,Yes
+656a64b61a0000760006c7bd,,147532,question,responseOption2,40798,form,No
+656a64b81a0000760006c7be,,147533,question,questionText,40798,form,Please provide your company's registration number assigned by Ministry of Trade of Ivory Coast?
+656a64b81a0000760006c7be,,147533,question,responseOption1,40798,form,Yes
+656a64b81a0000760006c7be,,147533,question,responseOption2,40798,form,No
+656a64b81a0000760006c7bf,,147534,question,questionText,40798,form,Please explain why:
+656a64b81a0000760006c7bf,,147534,question,responseOption1,40798,form,Yes
+656a64b81a0000760006c7bf,,147534,question,responseOption2,40798,form,No
+656a64b81a0000760006c7c0,,147535,question,questionText,40798,form,"Is your company registered with the <a href=""https://www.dgi.gouv.ci/#/"" \ntarget=""_Blank"">DIRECTION GÉNÉRALE DES IMPÔTS (DGI)</a>?"
+656a64b81a0000760006c7c0,,147535,question,responseOption1,40798,form,Yes
+656a64b81a0000760006c7c0,,147535,question,responseOption2,40798,form,No
+656a64b81a0000760006c7c1,,147536,question,questionText,40798,form,Please provide your company's Tax Identification Number (TIN / NIF).
+656a64b81a0000760006c7c1,,147536,question,responseOption1,40798,form,Yes
+656a64b81a0000760006c7c1,,147536,question,responseOption2,40798,form,No
+656a64b81a0000760006c7c2,,147537,question,questionText,40798,form,Please explain why:
+656a64b81a0000760006c7c2,,147537,question,responseOption1,40798,form,Yes
+656a64b81a0000760006c7c2,,147537,question,responseOption2,40798,form,No
+656a64b81a0000760006c7c3,,147538,question,questionText,40798,form,"Please provide your primary Industry Classification Code (<a href=""/file-preview.html?fileId=2023-12-01T21%3A54%3A30.276Z~~*SW5kdXN0cnkgQ2xhc3NpZmljYXRpb24gQ29kZSAoSVNJQykucGRm"" \ntarget=""_Blank"">ISIC</a>)."
+656a64b81a0000760006c7c3,,147538,question,responseOption1,40798,form,Yes
+656a64b81a0000760006c7c3,,147538,question,responseOption2,40798,form,No
+656a64b81a0000760006c7c4,,147539,question,questionText,40798,form,"Please provide your secondary Industry Classification Code (<a href=""/file-preview.html?fileId=2023-12-01T21%3A54%3A30.276Z~~*SW5kdXN0cnkgQ2xhc3NpZmljYXRpb24gQ29kZSAoSVNJQykucGRm"" \ntarget=""_Blank"">ISIC</a>)."
+656a64b81a0000760006c7c4,,147539,question,responseOption1,40798,form,Yes
+656a64b81a0000760006c7c4,,147539,question,responseOption2,40798,form,No

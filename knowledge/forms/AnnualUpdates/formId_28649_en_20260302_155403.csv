@@ -1,0 +1,62 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6317c6852f00005abf73e381,5e5f2d1c3500008b01199507,28649,questionGroup,questionGroupText,28649,form,Annual Update - Road Transport (UK)
+6317c0432e000011b6b06f1d,5e5f2d9e3500000d5c85b0b1,28650,questionGroup,questionGroupText,28649,form,Please confirm the number of traffic accidents within your company this year in the following areas:
+5ea4bd2b340000acbc9de8cc,5e5f2dd73500008b0119950b,28651,questionGroup,questionGroupText,28649,form,Fatalities
+5ea4ca41340000224720c33a,5e738d7b33000087ff518cc7,28778,questionGroup,questionGroupText,28649,form,Company Operator Compliance Risk Score (OCRS)
+5ea4ca3c310000acbc589839,5ea4ca3c310000acbc589838,29698,questionGroup,questionGroupText,28649,form,Road Safety History
+5e5f2eda3500008b01199512,,91331,question,description,28649,form,Please enter the number of traffic accidents within your company that occurred on non-motorways during the given year.
+5e5f2eda3500008b01199512,,91331,question,questionText,28649,form,Non-motorway accidents:
+5e5f2fc6350000c7ea62d378,,91336,question,description,28649,form,Please confirm the number of your company's traffic accidents that occurred on urban roads for the given year:
+5e5f2fc6350000c7ea62d378,,91336,question,questionText,28649,form,Urban road accidents:
+5e5f30d13500000d5c85b0c0,,91345,question,description,28649,form,Please confirm the number of your company's traffic accidents that occurred on rural roads for the given year.
+5e5f30d13500000d5c85b0c0,,91345,question,questionText,28649,form,Rural road accidents:
+5e5f322f350000c7ea62d383,,91348,question,description,28649,form,Please enter the number of traffic-related accidents that occurred for the given year on a motorway.
+5e5f322f350000c7ea62d383,,91348,question,questionText,28649,form,Motorway accidents:
+5e5f3897350000c7ea62d38b,,91351,question,questionText,28649,form,"In the event that your company vehicles are involved in traffic accidents and/or incidents, does your company complete a full investigation?"
+5e5f3897350000c7ea62d38b,,91351,question,responseOption1,28649,form,Yes
+5e5f3897350000c7ea62d38b,,91351,question,responseOption2,28649,form,No
+5e5f3897350000c7ea62d38b,,91351,question,responseOption3,28649,form,Not Applicable
+5e5f39453500008b01199529,,91352,question,questionText,28649,form,Please confirm the number of oil/fuel related incidents relating to your company transport activity:
+5e5f3a0e360000c7ea73f9a6,,91353,question,questionText,28649,form,How many transport-related fatalities has your company been involved with in the given year?
+5e5f3a0e360000c7ea73f9a6,,91353,question,responseOption3,28649,form,Not Applicable
+5e738b4e330000c7eaa8cbdf,,91756,question,description,28649,form,Please select all that apply.
+5e738b4e330000c7eaa8cbdf,,91756,question,questionText,28649,form,What were the primary causes of traffic-related incidents within your business for the given year?
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption1,28649,form,Lost load
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption10,28649,form,Driver fatigue / falling asleep at the wheel
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption11,28649,form,Puncture
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption12,28649,form,Driver sickness
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption13,28649,form,Hijack
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption14,28649,form,Speeding
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption15,28649,form,Weather conditions
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption16,28649,form,Road surface
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption17,28649,form,Poor visibility
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption18,28649,form,Driver negligence (e.g.; using cell phone)
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption19,28649,form,Reversing
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption2,28649,form,Loss of a wheel
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption20,28649,form,Incorrect direction of traffic
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption3,28649,form,Collision with another vehicle
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption4,28649,form,Collision with pedestrian (site & public highway)
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption5,28649,form,Collision with animal
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption6,28649,form,Collision with stationary object
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption7,28649,form,Collision with stationary vehicle
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption8,28649,form,Vehicle overturned
+5e738b4e330000c7eaa8cbdf,,91756,question,responseOption9,28649,form,Influence of intoxicating substance
+5ea4bacc3500004a5b0987bb,,95223,question,questionText,28649,form,How many accidents with vehicles hitting / damaging bridges  have you recorded?
+5ea4becd3500004a5b0987bf,,95225,question,questionText,28649,form,Has the company been involved in an accident / incident involving the carriage of dangerous goods using road transport for the given year?
+5ea4becd3500004a5b0987bf,,95225,question,responseOption1,28649,form,Yes
+5ea4becd3500004a5b0987bf,,95225,question,responseOption2,28649,form,No
+5ea4cc07310000acbc58983e,,95226,question,description,28649,form,Please visit https://www.gov.uk/guidance/use-the-operator-compliance-risk-score-ocrs-system for information about OCRS bands and scoring information.
+5ea4cc07310000acbc58983e,,95226,question,questionText,28649,form,Does your company have an OCRS score of Red or Amber in any traffic area?
+5ea4cc07310000acbc58983e,,95226,question,responseOption1,28649,form,Yes
+5ea4cc07310000acbc58983e,,95226,question,responseOption2,28649,form,No
+5ea4cce63500004a5b09881c,,95227,question,questionText,28649,form,"If yes, please select the affected traffic area(s), where your company has a Red or Amber OCRS score:"
+5ea4cce63500004a5b09881c,,95227,question,responseOption1,28649,form,North West of England
+5ea4cce63500004a5b09881c,,95227,question,responseOption2,28649,form,West of England
+5ea4cce63500004a5b09881c,,95227,question,responseOption3,28649,form,London and South East
+5ea4cce63500004a5b09881c,,95227,question,responseOption4,28649,form,East of England
+5ea4cce63500004a5b09881c,,95227,question,responseOption5,28649,form,North East of England
+5ea4cce63500004a5b09881c,,95227,question,responseOption6,28649,form,West Midlands
+5ea4cce63500004a5b09881c,,95227,question,responseOption7,28649,form,Scotland
+5ea4cce63500004a5b09881c,,95227,question,responseOption8,28649,form,Wales
+6317c56f2f0000607c73dcfa,,130977,question,description,28649,form,Please confirm the total annual mileage completed by the company fleet. This should include where possible subcontracted vehicles working on your behalf. *This total may be an estimation.
+6317c56f2f0000607c73dcfa,,130977,question,questionText,28649,form,Total Fleet Mileage:

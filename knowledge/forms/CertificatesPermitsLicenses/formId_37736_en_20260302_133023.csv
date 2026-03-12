@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+674df5c60100007000a411b6,6377bd531a00001f01fd3bd7,37736,questionGroup,description,37736,form," You are getting this category because you selected ISO 45001:2023 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for the a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+674df5c60100007000a411b6,6377bd531a00001f01fd3bd7,37736,questionGroup,questionGroupText,37736,form,ISO 45001 - Occupational Health and Safety Management Systems
+63755be91600006f07b6c6ea,,133553,question,questionText,37736,form,Please upload your ISO 45001:2023 - Occupational Health and Safety Management Systems — Requirements with Guidance for use certificate:
+63755be91600006f07b6c6eb,,133554,question,questionText,37736,form,Please enter the certificate expiration date:\n

@@ -1,0 +1,141 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5640dd9f50494380dea18c33,5640dd9f50494380dea18c33,7955,questionGroup,questionGroupText,20383,form,Company
+5640ddaa504943a5215503f9,5640ddaa504943a5215503f9,7956,questionGroup,questionGroupText,20383,form,Safety
+5640ddd750494359c88cd146,5640ddd750494359c88cd146,7958,questionGroup,questionGroupText,20383,form,United States Accident and Incident Statistics
+5640ddf8504943b2bcd73c9b,5640ddf8504943b2bcd73c9b,7959,questionGroup,questionGroupText,20383,form,Accident and Incident Statistics
+5640de235049432bf826240b,5640de235049432bf826240b,7960,questionGroup,questionGroupText,20383,form,Quality
+5640de2e5049432acb538b74,5640de2e5049432acb538b74,7961,questionGroup,questionGroupText,20383,form,Environmental
+5640de3a50494321578c153a,5640de3a50494321578c153a,7962,questionGroup,questionGroupText,20383,form,Financial
+5640de4b504943686255ac4d,5640de4b504943686255ac4d,7963,questionGroup,questionGroupText,20383,form,Licenses
+5640de585049436336df0aac,5640de585049436336df0aac,7964,questionGroup,questionGroupText,20383,form,Agreement
+564bcef85049433a72859d4c,564bcef85049433a72859d4c,8007,questionGroup,questionGroupText,20383,form,Diversity Status
+60a43556440000611ba04b60,5b327f753500003f014788c9,20383,questionGroup,questionGroupText,20383,form,QuickVett - United States
+5637bf5a504943de98c3cbac,,34846,question,questionText,20383,form,How many employees does your company have in your entire organization?
+5637bf5a504943de98c3cbac,,34846,question,responseOption100to249,20383,form,100-249
+5637bf5a504943de98c3cbac,,34846,question,responseOption10to24,20383,form,10-24
+5637bf5a504943de98c3cbac,,34846,question,responseOption1to4,20383,form,1-4
+5637bf5a504943de98c3cbac,,34846,question,responseOption250to499,20383,form,250-499
+5637bf5a504943de98c3cbac,,34846,question,responseOption25to49,20383,form,25-49
+5637bf5a504943de98c3cbac,,34846,question,responseOption500to999,20383,form,500-999
+5637bf5a504943de98c3cbac,,34846,question,responseOption50to99,20383,form,50-99
+5637bf5a504943de98c3cbac,,34846,question,responseOption5to9,20383,form,5-9
+5637bf5a504943de98c3cbac,,34846,question,responseOptionover1000,20383,form,Over 1000
+5640e88450494332204ee487,,35023,question,questionText,20383,form,Does your company perform a background check on your employees?
+5640e88450494332204ee487,,35023,question,responseOptionNo,20383,form,No
+5640e88450494332204ee487,,35023,question,responseOptionYes,20383,form,Yes
+5640e949504943e414a7b9e7,,35024,question,questionText,20383,form,What percentage of contracted work does your company self-perform?
+5640e949504943e414a7b9e7,,35024,question,responseOption0pct,20383,form,0%
+5640e949504943e414a7b9e7,,35024,question,responseOption100pct,20383,form,100%
+5640e949504943e414a7b9e7,,35024,question,responseOption1to24pct,20383,form,1-24%
+5640e949504943e414a7b9e7,,35024,question,responseOption25to49pct,20383,form,25-49%
+5640e949504943e414a7b9e7,,35024,question,responseOption50to74pct,20383,form,50-74%
+5640e949504943e414a7b9e7,,35024,question,responseOption75to99pct,20383,form,75-99%
+5640ea3d5049438a63acc373,,35025,question,description,20383,form,"Select all options that apply.  Click in the box to display menu options.  Click the ""Submit"" button to the right of the menu once all selections are made."
+5640ea3d5049438a63acc373,,35025,question,questionText,20383,form,"Does your company perform commercial, residential, or industrial services?"
+5640ea3d5049438a63acc373,,35025,question,responseOptioncomm,20383,form,Commercial
+5640ea3d5049438a63acc373,,35025,question,responseOptionind,20383,form,Industrial
+5640ea3d5049438a63acc373,,35025,question,responseOptionres,20383,form,Residential
+5640ec79504943c0a6bcf875,,35026,question,questionText,20383,form,What is your company's three-year EMR score?
+5640ec79504943c0a6bcf875,,35026,question,responseOption0to24,20383,form,0.00-0.25
+5640ec79504943c0a6bcf875,,35026,question,responseOption125to149,20383,form,1.26-1.50
+5640ec79504943c0a6bcf875,,35026,question,responseOption150to174,20383,form,1.51-1.75
+5640ec79504943c0a6bcf875,,35026,question,responseOption175to199,20383,form,1.76-2.00
+5640ec79504943c0a6bcf875,,35026,question,responseOption1to124,20383,form,1.01-1.25
+5640ec79504943c0a6bcf875,,35026,question,responseOption25to49,20383,form,0.26-0.50
+5640ec79504943c0a6bcf875,,35026,question,responseOption50to74,20383,form,0.51-0.75
+5640ec79504943c0a6bcf875,,35026,question,responseOption75to99,20383,form,0.76-1.00
+5640ec79504943c0a6bcf875,,35026,question,responseOptionna,20383,form,N/A
+5640ec79504943c0a6bcf875,,35026,question,responseOptionover2,20383,form,Over 2.00
+5640edb35049436ee5d391a9,,35027,question,questionText,20383,form,Has your company had any fatalities in the past three years?
+5640edb35049436ee5d391a9,,35027,question,responseOptionNo,20383,form,No
+5640edb35049436ee5d391a9,,35027,question,responseOptionYes,20383,form,Yes
+5640edcf504943e528ff137d,,35028,question,questionText,20383,form,How many man-hours did your company work last year?
+5640edcf504943e528ff137d,,35028,question,responseOption100kto199999,20383,form,"100,000 - 199,999"
+5640edcf504943e528ff137d,,35028,question,responseOption10kto19999,20383,form,"10,000 - 19,999"
+5640edcf504943e528ff137d,,35028,question,responseOption1milto1999999,20383,form,"1,000,000 - 1,999,999"
+5640edcf504943e528ff137d,,35028,question,responseOption200kyo999999,20383,form,"200,000 - 999,999"
+5640edcf504943e528ff137d,,35028,question,responseOption20kto99999,20383,form,"20,000 - 99,999"
+5640edcf504943e528ff137d,,35028,question,responseOption2kto9999,20383,form,"2000 - 9,999"
+5640edcf504943e528ff137d,,35028,question,responseOption2milandup,20383,form,"2,000,000 and up"
+5640edcf504943e528ff137d,,35028,question,responseOptionlessthan2k,20383,form,"Under 2,000"
+5640ee475049435be99e5354,,35029,question,questionText,20383,form,Has your company had any serious OSHA violations in the past three years?
+5640ee475049435be99e5354,,35029,question,responseOptionNA,20383,form,N/A
+5640ee475049435be99e5354,,35029,question,responseOptionNo,20383,form,No
+5640ee475049435be99e5354,,35029,question,responseOptionYes,20383,form,Yes
+5641340d504943111d9db216,,35044,question,questionText,20383,form,Does your company have any open or unresolved regulatory violations?
+5641340d504943111d9db216,,35044,question,responseOptionNA,20383,form,N/A
+5641340d504943111d9db216,,35044,question,responseOptionNo,20383,form,No
+5641340d504943111d9db216,,35044,question,responseOptionYes,20383,form,Yes
+56413437504943f123ec9968,,35045,question,questionText,20383,form,Does your company have a drug and alcohol policy in place?
+56413437504943f123ec9968,,35045,question,responseOptionNo,20383,form,No
+56413437504943f123ec9968,,35045,question,responseOptionYes,20383,form,Yes
+5641395b504943cb95341ff8,,35046,question,questionText,20383,form,How many injuries (which required more than first-aid) did your company experience last year?
+5641395b504943cb95341ff8,,35046,question,responseOption0,20383,form,0
+5641395b504943cb95341ff8,,35046,question,responseOption1,20383,form,1
+5641395b504943cb95341ff8,,35046,question,responseOption10to14,20383,form,10-14
+5641395b504943cb95341ff8,,35046,question,responseOption15to19,20383,form,15-19
+5641395b504943cb95341ff8,,35046,question,responseOption20to24,20383,form,20-24
+5641395b504943cb95341ff8,,35046,question,responseOption25to29,20383,form,25-29
+5641395b504943cb95341ff8,,35046,question,responseOption2to4,20383,form,2-4
+5641395b504943cb95341ff8,,35046,question,responseOption5to9,20383,form,5-9
+5641395b504943cb95341ff8,,35046,question,responseOptionover30,20383,form,30+
+56413f1c50494342201af6af,,35051,question,questionText,20383,form,Does your company have a quality program in place?
+56413f1c50494342201af6af,,35051,question,responseOptionNA,20383,form,N/A
+56413f1c50494342201af6af,,35051,question,responseOptionNo,20383,form,No
+56413f1c50494342201af6af,,35051,question,responseOptionYes,20383,form,Yes
+56413f3b504943a070e15002,,35052,question,questionText,20383,form,Has your company had any product recalls in the past three years?
+56413f3b504943a070e15002,,35052,question,responseOptionNA,20383,form,N/A
+56413f3b504943a070e15002,,35052,question,responseOptionNo,20383,form,No
+56413f3b504943a070e15002,,35052,question,responseOptionYes,20383,form,Yes
+56413f80504943953d36440d,,35053,question,questionText,20383,form,Does your company have an environment or sustainability program in place?
+56413f80504943953d36440d,,35053,question,responseOptionNA,20383,form,N/A
+56413f80504943953d36440d,,35053,question,responseOptionNo,20383,form,No
+56413f80504943953d36440d,,35053,question,responseOptionYes,20383,form,Yes
+56413fbd5049432f9b3b3cee,,35054,question,questionText,20383,form,Has your company incurred any reportable spills within the past three years?
+56413fbd5049432f9b3b3cee,,35054,question,responseOptionNA,20383,form,N/A
+56413fbd5049432f9b3b3cee,,35054,question,responseOptionNo,20383,form,No
+56413fbd5049432f9b3b3cee,,35054,question,responseOptionYes,20383,form,Yes
+56413fe3504943895efd2139,,35055,question,questionText,20383,form,Has your company received a stop work order from an environmental regulatory body in the past three years?
+56413fe3504943895efd2139,,35055,question,responseOptionNo,20383,form,No
+56413fe3504943895efd2139,,35055,question,responseOptionYes,20383,form,Yes
+56414010504943758a3452eb,,35056,question,questionText,20383,form,Has your company been fined by an environmental regulatory body in the past three years?
+56414010504943758a3452eb,,35056,question,responseOptionNo,20383,form,No
+56414010504943758a3452eb,,35056,question,responseOptionYes,20383,form,Yes
+5641413f50494384fdfbfc7b,,35057,question,questionText,20383,form,What is the average value of project(s) your company works on?
+5641413f50494384fdfbfc7b,,35057,question,responseOption0to9999,20383,form,"0-9,999"
+5641413f50494384fdfbfc7b,,35057,question,responseOption100000to499999,20383,form,"100,000-499,999"
+5641413f50494384fdfbfc7b,,35057,question,responseOption10000to99999,20383,form,"10,000-99,999"
+5641413f50494384fdfbfc7b,,35057,question,responseOption500000to999999,20383,form,"500,000-999,999"
+5641413f50494384fdfbfc7b,,35057,question,responseOptionover1000000,20383,form,"Over 1,000,000"
+564141555049437cf45cd2eb,,35058,question,questionText,20383,form,Has your company ever filed for bankruptcy?
+564141555049437cf45cd2eb,,35058,question,responseOptionNo,20383,form,No
+564141555049437cf45cd2eb,,35058,question,responseOptionYes,20383,form,Yes
+564141e8504943606920f440,,35061,question,questionText,20383,form,Does your company have valid licenses in the jurisdiction for the services that it provides?
+564141e8504943606920f440,,35061,question,responseOptionNo,20383,form,No
+564141e8504943606920f440,,35061,question,responseOptionYes,20383,form,Yes
+564142295049439f8c713f84,,35063,question,questionText,20383,form,Has your company's licenses been suspended or revoked within the past three years?
+564142295049439f8c713f84,,35063,question,responseOptionNo,20383,form,No
+564142295049439f8c713f84,,35063,question,responseOptionYes,20383,form,Yes
+56414314504943144a4ed2b2,,35065,question,questionText,20383,form,"By signing below, you confirm that all of the information provided above is true and accurate on behalf of your company. The completion of this questionnaire does not guarantee that your Company will be awarded work by the Client, and further analysis and requirements may be required using Organizer should any work be authorized. If it is determined that false information has been provided, your Company may be disqualified from performing any awarded work with the Client, regardless of expenses that may have been incurred by your organization."
+564bceaa504943eb8eb66269,,35181,question,questionText,20383,form,What percentage of contracted work does your company subcontract?
+564bceaa504943eb8eb66269,,35181,question,responseOption0pct,20383,form,0%
+564bceaa504943eb8eb66269,,35181,question,responseOption100pct,20383,form,100%
+564bceaa504943eb8eb66269,,35181,question,responseOption1to24pct,20383,form,1-24%
+564bceaa504943eb8eb66269,,35181,question,responseOption25to49pct,20383,form,25-49%
+564bceaa504943eb8eb66269,,35181,question,responseOption50to74pct,20383,form,50-74%
+564bceaa504943eb8eb66269,,35181,question,responseOption75to99pct,20383,form,75-99%
+564bd130504943bd408f1a46,,35182,question,questionText,20383,form,What is your company's diversity status (select all that apply)
+564bd130504943bd408f1a46,,35182,question,responseOptionafricanamericanowned,20383,form,African American Owned
+564bd130504943bd408f1a46,,35182,question,responseOptionasianowned,20383,form,Asian Owned
+564bd130504943bd408f1a46,,35182,question,responseOptiondisabledvetowned,20383,form,Disabled Veteran Owned
+564bd130504943bd408f1a46,,35182,question,responseOptionhispanicowned,20383,form,Hispanic Owned
+564bd130504943bd408f1a46,,35182,question,responseOptionhubzone,20383,form,HUBZone
+564bd130504943bd408f1a46,,35182,question,responseOptionnativeamericanowned,20383,form,Native American Owned
+564bd130504943bd408f1a46,,35182,question,responseOptionnone,20383,form,None
+564bd130504943bd408f1a46,,35182,question,responseOptionsmallbus,20383,form,Small Business
+564bd130504943bd408f1a46,,35182,question,responseOptionsmalldis,20383,form,Small Disadvantaged
+564bd130504943bd408f1a46,,35182,question,responseOptionvetowned,20383,form,Veteran Owned
+564bd130504943bd408f1a46,,35182,question,responseOptionwomanowned,20383,form,Woman Owned
+56536ded5049431454ef5d96,,35262,question,questionText,20383,form,Does your company's employees participate in a union?
+56536ded5049431454ef5d96,,35262,question,responseOptionNo,20383,form,No
+56536ded5049431454ef5d96,,35262,question,responseOptionYes,20383,form,Yes

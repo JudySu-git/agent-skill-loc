@@ -1,0 +1,19 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4f39dc4f504943898935d2bd,4f39dc4f504943898935d2bd,32,questionGroup,questionGroupText,20079,form,PSM (Process Safety Management)
+4365b2e05049436ace73b137,,828,question,linkhttp://www.osha.gov/SLTC/processsafetymanagement/index.html,20079,form,Fed OSHA PSM Regulation Explanation
+4365b2e05049436ace73b137,,828,question,linkhttp://www.osha.gov/sltc/processsafetymanagement/index.html,20079,form,Fed OSHA PSM Regulation Explanation
+4365b2e05049436ace73b137,,828,question,questionText,20079,form,Does your company perform work activities at facilities regulated by the Process Safety Management Standards? <a href='http://www.osha.gov/SLTC/processsafetymanagement/index.html' target='_BLANK'>Fed OSHA PSM Regulation Explanation</a>
+4365b2e05049436ace73b137,,828,question,responseOptionNA,20079,form,N/A
+4365b2e05049436ace73b137,,828,question,responseOptionNo,20079,form,No
+4365b2e05049436ace73b137,,828,question,responseOptionYes,20079,form,Yes
+434f3b50504943f20a7f22f4,,829,question,questionText,20079,form,Does your company train employees in the work practices necessary to perform their jobs safely?
+434f3b50504943f20a7f22f4,,829,question,responseOptionNA,20079,form,N/A
+434f3b50504943f20a7f22f4,,829,question,responseOptionNo,20079,form,No
+434f3b50504943f20a7f22f4,,829,question,responseOptionYes,20079,form,Yes
+434f3b50504943858e1e5d3c,,830,question,questionText,20079,form,Does your company have documentation that shows employees have received and understood the training provided?
+434f3b50504943858e1e5d3c,,830,question,responseOptionNA,20079,form,N/A
+434f3b50504943858e1e5d3c,,830,question,responseOptionNo,20079,form,No
+434f3b50504943858e1e5d3c,,830,question,responseOptionYes,20079,form,Yes
+434f3b50504943d728f8b0de,,831,question,questionText,20079,form,"Describe how your company verifies that its employees are instructed in the known potential fire, explosion, or toxic release hazards and the applicable provisions of the emergency action plan."
+434f3b5050494365fce3d969,,832,question,questionText,20079,form,Describe how your company informs the host facility of any unique hazards associated with the company's work activities.
+5c181ece37000035c2bed185,5ab0a6b32b000078fdd4b646,20079,questionGroup,questionGroupText,20079,form,Avetta PQF - Process Safety Management (PSM)

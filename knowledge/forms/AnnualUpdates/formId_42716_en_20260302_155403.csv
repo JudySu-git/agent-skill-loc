@@ -1,0 +1,23 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66841f090100002a006ad5c1,6682cdd5010000390098d53d,42716,questionGroup,questionGroupText,42716,form,Avetta Brunei Annual Update
+6682d12e0100002e003d4f99,6682d12e0100002e003d4f98,42718,questionGroup,questionGroupText,42716,form,Brunei Specific Updates
+6682d137010000330098d550,6682d137010000330098d54f,42719,questionGroup,questionGroupText,42716,form,Brunei
+6682d14a010000380098d553,,156460,question,questionText,42716,form,What is the total number of Full Time Equivalent (FTE) employees? Approximate if necessary.
+6682d1ca010000330098d55a,,156463,question,questionText,42716,form,What is the total number of hours worked?
+6682d1ea0100002d003d4fa9,,156465,question,questionText,42716,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported is considerably *HIGHER* than the average annual hours typically worked by full-time employees. \n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+6682d301010000330098d56d,,156473,question,questionText,42716,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported is considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+6682d3510100004a003d4fb4,,156474,question,description,42716,form,PDF: https://shena.gov.bn/assets/components/07.-wsho---incident-reporting---amendments-incorporated.pdf
+6682d3510100004a003d4fb4,,156474,question,questionText,42716,form,Did your company have any reportable incidents?
+6682d3510100004a003d4fb4,,156474,question,responseOption1,42716,form,Yes
+6682d3510100004a003d4fb4,,156474,question,responseOption2,42716,form,No
+6682d37d0100002d0098d56f,,156475,question,questionText,42716,form,Please enter the total number of incidents.
+6682d3f6010000380098d572,,156476,question,description,42716,form,Fatalities: A work-related incident resulting in the death of an employee.
+6682d3f6010000380098d572,,156476,question,questionText,42716,form,"How many <a href = ""https://shena.gov.bn/incident-reporting-form/""target=""BLANK"">Fatalities</a> were there for the given year?"
+6682d41601000032003d4fb7,,156477,question,description,42716,form,"Major Accident: Uncontrolled loss of containment, fire, or explosion leading to serious danger to health, property, or environment, or major damage to facility structure, or death to 3 or more persons or serious injury to 3 or more persons."
+6682d41601000032003d4fb7,,156477,question,questionText,42716,form,"How many <a href = ""https://shena.gov.bn/incident-reporting-form/""target=""BLANK"">Major Accidents</a> were there for the given year?"
+6682d43e010000330098d576,,156478,question,description,42716,form,"Injury: Injury to an employee who was given more than 3 days of sick leave or admitted 24hrs in hospital, or accident to any person who is not at work or a self-employed person at the workplace which requires to be taken to the hospital for treatment with respect to that injury."
+6682d43e010000330098d576,,156478,question,questionText,42716,form,"How many <a href = ""https://shena.gov.bn/incident-reporting-form/""target=""BLANK"">Injuries</a> were there for the given year?"
+6682d497010000390098d57c,,156479,question,description,42716,form,"Dangerous Occurrences: Any disease specified in the <a href = ""https://shena.gov.bn/incident-reporting-form/""target=""BLANK"">Third Schedule</a>."
+6682d497010000390098d57c,,156479,question,questionText,42716,form,"How many <a href = ""https://shena.gov.bn/incident-reporting-form/""target=""BLANK"">Dangerous Occurrences</a> were there for the given year?"
+6682e3e20100002e003d5030,,156498,question,description,42716,form,"Occupational Disease: Any occurrence specified in the <a href = ""https://shena.gov.bn/incident-reporting-form/""target=""BLANK"">Second Schedule</a>."
+6682e3e20100002e003d5030,,156498,question,questionText,42716,form,"How many <a href = ""https://shena.gov.bn/incident-reporting-form/""target=""BLANK"">Occupational Diseases</a> were there for the given year?"

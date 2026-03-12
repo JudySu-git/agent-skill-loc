@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec610100002d00a473af,5d2f836e3300004e4db016f9,26860,questionGroup,questionGroupText,26860,form,Idaho Contractor License
+5d558ef93800008972800d22,5d2f83763300004e4db01714,26861,questionGroup,questionGroupText,26860,form,Idaho Contractor License
+5d2f83973400004341b80299,,84331,question,description,26860,form,"<a href = ""https://dopl.idaho.gov/license-search/""target=""_BLANK_"">Idaho Division of Occupational and Professional Licenses</a>"
+5d2f83973400004341b80299,,84331,question,questionText,26860,form,Idaho Contractor License Number:\n
+5d2f83a63400004341b8029b,,84332,question,description,26860,form,"<a href = ""https://dopl.idaho.gov/license-search/""target=""_BLANK_"">Idaho Division of Occupational and Professional Licenses</a>"
+5d2f83a63400004341b8029b,,84332,question,questionText,26860,form,Idaho Contractor License Classifications:
+5d2f83e43300004e4db01778,,84333,question,questionText,26860,form,Idaho License Expiration Date:\n
+5d2f83f23300004e4db0177a,,84334,question,description,26860,form,A URL will make verification quicker if provided
+5d2f83f23300004e4db0177a,,84334,question,questionText,26860,form,"Upload a copy of your license, and or provide the URL of the license."
+5d2f83f23300004e4db0177a,,84334,question,responseOption1,26860,form,File Upload
+5d2f83f23300004e4db0177a,,84334,question,responseOption2,26860,form,URL
+5d2f840f3400004341b80307,,84335,question,questionText,26860,form,Please upload a copy of your Idaho license:\n
+5d2f84203300004e4db0179a,,84336,question,questionText,26860,form,Please enter the URL of the license:\n

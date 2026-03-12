@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6365754a180000db04c0c78e,6365751d1700003906cf869b,37456,questionGroup,questionGroupText,37456,form,Electrical Contractor Licences – Australian Capital Territory (ACT)
+6365751d1700003906cf869c,,132378,question,questionText,37456,form,Please upload current Electrical Licence
+6365751d1700003906cf869d,,132379,question,questionText,37456,form,Licence Number
+6365751d1700003906cf869e,,132380,question,questionText,37456,form,Effective Date
+6365751d1700003906cf869f,,132381,question,questionText,37456,form,Expiration Date

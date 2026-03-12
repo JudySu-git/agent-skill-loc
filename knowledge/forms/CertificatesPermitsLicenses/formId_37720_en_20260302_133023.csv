@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+690bbcd7010000d300e9e8ba,6375587b160000aa06b689e1,37720,questionGroup,description,37720,form,"You are getting this category because you selected ISO 37001:2018 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+690bbcd7010000d300e9e8ba,6375587b160000aa06b689e1,37720,questionGroup,questionGroupText,37720,form,ISO 37001 - Anti-Bribery Management Systems
+6375587b160000aa06b689e2,,133547,question,questionText,37720,form,Please upload your ISO 37001:2018 - Anti-bribery Management Systems - Requirements with Guidance for use certificate:
+6375587b160000aa06b689e3,,133548,question,questionText,37720,form,Please enter the certificate expiration date:\n

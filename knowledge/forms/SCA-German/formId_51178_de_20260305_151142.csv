@@ -1,0 +1,11 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a8774ea36b6c4c635467c9,69a8774ea36b6c4c635467c8,51178,questionGroup,questionGroupText,51178,form,Optical Radiation,
+69a8774da36b6c4c635467c3,,200198,question,description,51178,form,"Optical radiation hazard assessment is required for activities with possible exposure and must consider radiation type, duration, and workplace conditions.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006827"">Ordinance on Optical Radiation, Section 1(1), 5</a>",
+69a8774da36b6c4c635467c3,,200198,question,questionText,51178,form,Hazard Assessment,
+69a8774da36b6c4c635467c4,,200199,question,description,51178,form,"Exposure limit compliance is required and must ensure artificial optical radiation limits are not exceeded for incoherent or laser sources.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006827"">Ordinance on Optical Radiation, Section 3(1)</a>",
+69a8774da36b6c4c635467c4,,200199,question,questionText,51178,form,Exposure Limits,
+69a8774da36b6c4c635467c5,,200200,question,description,51178,form,"Workplace design considerations must address separation, shielding, and layout controls. Exposure reduction measures must be implemented and must consider alternative equipment and technical controls.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006827"">Ordinance on Optical Radiation, Section 5(4)(1-2), 7(1)</a>",
+69a8774da36b6c4c635467c5,,200200,question,questionText,51178,form,"Control Measures (Engineering, Administrative, and/or Personal Protective Equipment)",
+69a8774da36b6c4c635467c6,,200201,question,description,51178,form,"Employee information on radiation risks is required and must address hazards and protective measures.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20006827"">Ordinance on Optical Radiation, Section 6(1)</a>",
+69a8774da36b6c4c635467c6,,200201,question,questionText,51178,form,Training,
+69a8774da36b6c4c635467c7,,200202,question,questionText,51178,form,<div></div>,

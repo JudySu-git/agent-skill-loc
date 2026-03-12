@@ -1,0 +1,9 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87753a36b6c4c63546807,69a87753a36b6c4c63546806,51186,questionGroup,questionGroupText,51186,form,Training,
+69a87753a36b6c4c63546802,,200245,question,description,51186,form,"Appropriate safety and health instructions for employees must be provided. Safety and health hazard information and preventive measures must be communicated during working hours.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 7(9), 12(1), 14(1)</a>",
+69a87753a36b6c4c63546802,,200245,question,questionText,51186,form,General Safety Instructions,
+69a87753a36b6c4c63546803,,200246,question,description,51186,form,"Safety information must be provided before work begins and repeated as needed. Instruction must be given before work, when changes occur, when new equipment or materials are introduced, or after incidents.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 12(2), 14(2)</a>",
+69a87753a36b6c4c63546803,,200246,question,questionText,51186,form,"Training (Pre-Work Starts, After Changes or Incidents)",
+69a87753a36b6c4c63546804,,200247,question,description,51186,form,"Safety information provided in understandable language and confirmed for understanding must be ensured.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 12(4), 14(4)</a>",
+69a87753a36b6c4c63546804,,200247,question,questionText,51186,form,Understandable Language,
+69a87753a36b6c4c63546805,,200248,question,questionText,51186,form,<div></div>,

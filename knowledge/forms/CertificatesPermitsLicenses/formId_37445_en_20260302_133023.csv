@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6365720e1800003604c0b77d,636571d31700000406cf72d8,37445,questionGroup,questionGroupText,37445,form,Demolition Contractor Licences – Australian Capital Territory (ACT)
+636571d31700000406cf72d9,,132318,question,questionText,37445,form,Please upload current Demolition Licence
+636571d31700000406cf72da,,132319,question,questionText,37445,form,Licence Number
+636571d31700000406cf72db,,132320,question,questionText,37445,form,Effective Date
+636571d31700000406cf72dc,,132321,question,questionText,37445,form,Expiration Date

@@ -1,0 +1,6 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+687e61890100003c0016d052,687e60800100003c0016d04a,46742,questionGroup,description,46742,form,"This requirement is triggered because you answered ""Yes"" to maintaining a Hazardous Chemicals Operation Permit in the China Hazardous Chemicals Applicability Assessment."
+687e61890100003c0016d052,687e60800100003c0016d04a,46742,questionGroup,questionGroupText,46742,form,China Hazardous Chemicals Operation Permit
+687e609f01000040001cc61a,,176748,question,questionText,46742,form,Please upload your Hazardous Chemicals Operation Permit.
+687e60a80100003d001cc61b,,176749,question,description,46742,form,The standard validity period is three years.
+687e60a80100003d001cc61b,,176749,question,questionText,46742,form,Please enter the expiration date of your Hazardous Chemicals Operation Permit.

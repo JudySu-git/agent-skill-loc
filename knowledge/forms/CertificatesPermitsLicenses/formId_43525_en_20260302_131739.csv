@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6706c760010000a000a404eb,67046a720100009100ef6edc,43525,questionGroup,questionGroupText,43525,form,Loureiro - CRR Insurance Questionnaire
+67046abe0100003300ef6ee1,,159965,question,questionText,43525,form,"Does your company handle the off-site transport, storage, or disposal of hazardous waste?"
+67046abe0100003300ef6ee1,,159965,question,responseOption1,43525,form,Yes
+67046abe0100003300ef6ee1,,159965,question,responseOption2,43525,form,No

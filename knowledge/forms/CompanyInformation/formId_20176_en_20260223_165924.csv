@@ -1,0 +1,83 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+656f5246160000f7074c9ced,50162ad65049439d88134b95,2805,questionGroup,questionGroupText,20176,form,Republic of South Africa
+655bc45e1800009c836f867b,50be3675504943f2a5e759ba,3201,questionGroup,questionGroupText,20176,form,BBBEE
+656f5246160000f7074c9cec,51222c1b504943ae47ad9edc,3484,questionGroup,questionGroupText,20176,form,Company Information
+52025bb4504943ad264d5f75,52025bb4504943ad264d5f75,4262,questionGroup,questionGroupText,20176,form,SIC Code - Republic of South Africa
+50be369d5049439e1dfd754d,,14747,question,description,20176,form,"<a href=""https://www.thedtic.gov.za/financial-and-non-financial-support/b-bbee/broad-based-black-economic-empowerment/"" target=""_BLANK"">BBBEE</a>"
+50be369d5049439e1dfd754d,,14747,question,questionText,20176,form,Is your company BBBEE compliant in accordance with the BBBEE Act of 2003?
+50be369d5049439e1dfd754d,,14747,question,responseOptionNo,20176,form,No
+50be369d5049439e1dfd754d,,14747,question,responseOptionYes,20176,form,Yes
+50be37fb50494338f1e458dd,,14748,question,questionText,20176,form,In what BBBEE sector is your company compliant?
+50be37fb50494338f1e458dd,,14748,question,responseOptionAccounting,20176,form,Accounting
+50be37fb50494338f1e458dd,,14748,question,responseOptionConstructionSector,20176,form,Construction Sector (Contractor or Professional)
+50be37fb50494338f1e458dd,,14748,question,responseOptionFinancialSector,20176,form,Financial Sector
+50be37fb50494338f1e458dd,,14748,question,responseOptionForestrySector,20176,form,Forestry Sector
+50be37fb50494338f1e458dd,,14748,question,responseOptionMining,20176,form,Mining
+50be37fb50494338f1e458dd,,14748,question,responseOptionOtherSectors,20176,form,Other Sectors
+50be37fb50494338f1e458dd,,14748,question,responseOptionPropertyInvestment,20176,form,Property Investment
+50be37fb50494338f1e458dd,,14748,question,responseOptionTourismSector,20176,form,Tourism Sector
+50be37fb50494338f1e458dd,,14748,question,responseOptionTransportSector,20176,form,Transport Sector
+50be3837504943eae7e978b7,,14749,question,questionText,20176,form,What is your company's classification?
+50be3837504943eae7e978b7,,14749,question,responseOptionEME,20176,form,EME (Emerging Medium Enterprise T/O below R5 mill)
+50be3837504943eae7e978b7,,14749,question,responseOptionGeneric,20176,form,Generic (Turnover above R35 mill)
+50be3837504943eae7e978b7,,14749,question,responseOptionQSE,20176,form,QSE (Qualifying Small Enterprise T/O between R5 mill and R35 mill)
+50be387a504943e43aaea160,,14751,question,description,20176,form,"<a href=""https://www.sanas.co.za/"" target=""_BLANK"">SANAS</a>"
+50be387a504943e43aaea160,,14751,question,questionText,20176,form,Is your issuing agency accredited by SANAS?
+50be387a504943e43aaea160,,14751,question,responseOptionNo,20176,form,No
+50be387a504943e43aaea160,,14751,question,responseOptionYes,20176,form,Yes
+50be3896504943ac7852752c,,14752,question,questionText,20176,form,What is your current BBBEE recognition level?
+50be3896504943ac7852752c,,14752,question,responseOption1,20176,form,1
+50be3896504943ac7852752c,,14752,question,responseOption10,20176,form,10
+50be3896504943ac7852752c,,14752,question,responseOption2,20176,form,2
+50be3896504943ac7852752c,,14752,question,responseOption3,20176,form,3
+50be3896504943ac7852752c,,14752,question,responseOption4,20176,form,4
+50be3896504943ac7852752c,,14752,question,responseOption5,20176,form,5
+50be3896504943ac7852752c,,14752,question,responseOption6,20176,form,6
+50be3896504943ac7852752c,,14752,question,responseOption7,20176,form,7
+50be3896504943ac7852752c,,14752,question,responseOption8,20176,form,8
+50be3896504943ac7852752c,,14752,question,responseOption9,20176,form,9
+50be38b050494376e15b05f2,,14753,question,questionText,20176,form,Please upload your current BBBEE Accreditation Certificate.
+51222ce0504943756f3323fb,,15873,question,description,20176,form,"All registered companies in South Africa are registered at the CIPC (Companies Intellectual Property Commission) and have a registration number. <a href=""Http://www.cipc.co.za"" target=""_BLANK"">Companies Intellectual Property Commission</a>"
+51222ce0504943756f3323fb,,15873,question,questionText,20176,form,Is your company registered with the CIPC (Companies Intellectual Property Commission)?
+51222ce0504943756f3323fb,,15873,question,responseOptionNo,20176,form,No
+51222ce0504943756f3323fb,,15873,question,responseOptionYes,20176,form,Yes
+51222d195049437f66e39662,,15874,question,questionText,20176,form,"If Yes, please provide your Registration number."
+51222da550494313bb77e575,,15875,question,description,20176,form,"Value-Added Tax (VAT) is an indirect tax based on consumption of goods and services in the economy. Revenue is raised for the government by requiring certain traders or vendors to register and to charge VAT on taxable supplies of goods or services. <a href=""https://www.sars.gov.za"" target=""_BLANK"">South Africa Revenue Service</a>"
+51222da550494313bb77e575,,15875,question,questionText,20176,form,Does your company have a VAT Registration number?
+51222da550494313bb77e575,,15875,question,responseOptionNo,20176,form,No
+51222da550494313bb77e575,,15875,question,responseOptionYes,20176,form,Yes
+51222dd95049432c4955be47,,15876,question,questionText,20176,form,"If Yes, please provide your VAT number."
+51222f5050494327dba60e2a,,15877,question,description,20176,form,"Employers of one or more employees are required to insure any employee(s) against death or disability due to accidents at work. The fund provides compensation to workers and their dependents for medical expenses and for loss of life or disability. It provides coverage for the employers should any claims be made against them due to a work-related incident. <a href=""https://www.labour.gov.za/legislation/acts/compensation-for-occupational-injuries-and-diseases/compensation-for-occupational-injuries-and-diseases-act/"" target=""_BLANK"">Compensation for Occupational Injuries and Diseases Act</a>"
+51222f5050494327dba60e2a,,15877,question,questionText,20176,form,Is your company registered with the Compensation Fund?
+51222f5050494327dba60e2a,,15877,question,responseOptionNo,20176,form,No
+51222f5050494327dba60e2a,,15877,question,responseOptionYes,20176,form,Yes
+51d2d5d4504943db275e108d,,18873,question,questionText,20176,form,"If No, please provide an explanation as to why your company is not registered with the Compensation Fund."
+51d2d68350494324dd7e1f8e,,18874,question,questionText,20176,form,I verify that my above responses to the Compensation Fund questions are true and accurate.
+52025cab504943dfe0db72dc,,20154,question,linkhttps://www.statssa.gov.za/additional_services/code_lists.asp,20176,form,Click here to locate your company's SIC Code through Statistics South Africa
+52025cab504943dfe0db72dc,,20154,question,questionText,20176,form,What is your company's primary SIC Code? \n<a href='https://www.statssa.gov.za/?page_id=377' target='_BLANK'>Click here to locate your company's SIC Code through Statistics South Africa</a>
+52025d1f504943a99dadb8d7,,20155,question,linkhttps://www.statssa.gov.za/additional_services/code_lists.asp,20176,form,Click here to locate your company's secondary SIC Code through Statistics South Africa
+52025d1f504943a99dadb8d7,,20155,question,questionText,20176,form,What is your company's secondary SIC Code? \n<a href='https://www.statssa.gov.za/?page_id=377' target='_BLANK'>Click here to locate your company's secondary SIC Code through Statistics South Africa</a>
+656f5727160000fe064dc3cf,5ac4687a220000cc007e55cd,20176,questionGroup,questionGroupText,20176,form,Avetta PQF - Republic of South Africa Company Information
+655bc04318000098836f8535,,147166,question,questionText,20176,form,Please indicate your company's business entity / form of business within this country.
+655bc04318000098836f8535,,147166,question,responseOption1,20176,form,Sole Proprietorship
+655bc04318000098836f8535,,147166,question,responseOption2,20176,form,Public Company (Ltd)
+655bc04318000098836f8535,,147166,question,responseOption3,20176,form,Private Company (Pty) Ltd
+655bc04318000098836f8535,,147166,question,responseOption4,20176,form,General Partnership
+655bc04318000098836f8535,,147166,question,responseOption5,20176,form,Limited Partnership
+655bc04318000098836f8535,,147166,question,responseOption6,20176,form,Foreign entity with no local fiscal presence
+655bc04318000098836f8535,,147166,question,responseOption7,20176,form,Other
+655bc3fa1800008b836f85d1,,147167,question,questionText,20176,form,Please indicate where your company is established:
+655bc3fa1800008b836f85d1,,147167,question,responseOption1,20176,form,Yes
+655bc3fa1800008b836f85d1,,147167,question,responseOption2,20176,form,No
+655bc40c1800009c836f85db,,147168,question,questionText,20176,form,"If Other, please explain:"
+655bc40c1800009c836f85db,,147168,question,responseOption1,20176,form,Yes
+655bc40c1800009c836f85db,,147168,question,responseOption2,20176,form,No
+655bc425180000a6836f85e7,,147169,question,questionText,20176,form,Please explain why:
+655bc425180000a6836f85e7,,147169,question,responseOption1,20176,form,Yes
+655bc425180000a6836f85e7,,147169,question,responseOption2,20176,form,No
+655bc45d180000a1836f8677,,147171,question,questionText,20176,form,Please explain why:
+655bc45d180000a1836f8677,,147171,question,responseOption1,20176,form,Yes
+655bc45d180000a1836f8677,,147171,question,responseOption2,20176,form,No
+656f5245160000f7074c9cdb,,147663,question,questionText,20176,form,Please explain why:
+656f5245160000f7074c9cdb,,147663,question,responseOption1,20176,form,Yes
+656f5245160000f7074c9cdb,,147663,question,responseOption2,20176,form,No

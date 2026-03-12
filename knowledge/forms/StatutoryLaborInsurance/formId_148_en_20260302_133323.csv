@@ -1,0 +1,97 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4f736822504943767c5fcf21,4f736822504943767c5fcf21,148,questionGroup,questionGroupText,148,category,NEW BELGIUM BREWING SPECIFIC
+4f04a89450494376bad52183,4f04a89450494376bad52183,641,questionGroup,questionGroupText,148,category,Training Certifications
+48d1e050504943c8c2ea18e1,,2018,question,questionText,148,category,"Training Certification for Foreman, Supervisors and Superintendents \nSafety Sensitive Contractors, take Note. All supervisors/foreman/superintendents (all trades) must at a minimum be OSHA 10 hour construction industry trained. Please upload certificates of completion as applicable."
+4efdd46b504943f29eb1346e,,10168,question,questionText,148,category,Electrical Work \nWill your company perform electrical work at NBB?
+4efdd46b504943f29eb1346e,,10168,question,responseOptionNo,148,category,No
+4efdd46b504943f29eb1346e,,10168,question,responseOptionYes,148,category,Yes
+4efdd48f5049438e2ba33d92,,10169,question,questionText,148,category,Upload your electrical safety program.
+4efdd4e750494385b0a2ba0a,,10170,question,questionText,148,category,What page number in your plan requires that only qualified person’s perform electrical work?
+4efdd4e95049439c9026a499,,10171,question,questionText,148,category,Upload the training certificate(s) of the electrical-safety qualified persons that will work at NBB job sites.
+4efdd508504943bb8555ad0c,,10172,question,questionText,148,category,Trenching or Excavation Work \nWill your company perform work that involves trenching or excavations at NBB?
+4efdd508504943bb8555ad0c,,10172,question,responseOptionNo,148,category,No
+4efdd508504943bb8555ad0c,,10172,question,responseOptionYes,148,category,Yes
+4efdd5b050494359d1b00e87,,10173,question,questionText,148,category,"Upload your trenching, shoring and excavation plan"
+4efdd5b350494372d51dfea9,,10174,question,questionText,148,category,What page number in your plan indicates that you require that a competent person remain on site during trenching and excavation operations?
+4efdd5bb5049431d792963d6,,10175,question,questionText,148,category,"What page number in your plan indicates that the competent person will inspect the excavation, trench and associated shoring each day and whenever conditions necessitate re-inspection?"
+4efdd5bf5049436686847500,,10176,question,questionText,148,category,"NBB requires _job-site specific excavation plans_ for any excavation that is or could be deeper than four feet. The plan must be compliant with all OSHA regulations, must account for all hazards, and must be present at the jobsite and accessible to all employees during all work. **FAILURE TO DEVELOP AND MAINTAIN A JOB SITE SPECIFIC EXCAVATION PLAN WILL RESULT IN IMMEDIATE SHUTDOWN UPON DISCOVERY**"
+4efdd5bf5049436686847500,,10176,question,responseOption1,148,category,Click Here to Acknowledge
+4efdd5c450494362b5502c76,,10177,question,questionText,148,category,Upload the training certificate(s) of the competent person/people that are responsible for excavation safety at NBB job sites.
+4efdd5f450494358bdbb2fd3,,10178,question,questionText,148,category,Scaffolding \nWill your company perform work from scaffolds at NBB?
+4efdd5f450494358bdbb2fd3,,10178,question,responseOptionNo,148,category,No
+4efdd5f450494358bdbb2fd3,,10178,question,responseOptionYes,148,category,Yes
+4efdd650504943adb532fc85,,10179,question,questionText,148,category,Upload your scaffold safety plan.
+4efdd65f504943c5cd640f88,,10180,question,questionText,148,category,What page number(s) in your plan indicate that you require a competent person to supervise the erection of scaffolds and complete inspections?
+4efdd66f50494382e4624671,,10181,question,questionText,148,category,Upload the training certificate(s) of the competent person/people that are responsible for scaffold safety at NBB job sites.
+4efdd68e50494352b366ae9b,,10182,question,questionText,148,category,Work at Heights / Fall Protection \nWill your company work at heights greater than 6 feet while at NBB?
+4efdd68e50494352b366ae9b,,10182,question,responseOptionNo,148,category,No
+4efdd68e50494352b366ae9b,,10182,question,responseOptionYes,148,category,Yes
+4efdd6c3504943f94eca7b9d,,10183,question,questionText,148,category,"NBB requires job-site specific fall protection plans for any work at heights over 6’ from the ground or level below. This includes steel erectors and roofers. The plan must be compliant with all OSHA regulations, must account for all hazards, and must be present at the jobsite and accessible to all employees during all work. The plan must be available for review by NBB staff. **FAILURE TO DEVELOP AND MAINTAIN A JOB SITE SPECIFIC FALL PROTECTION PLAN WILL RESULT IN IMMEDIATE SHUTDOWN UPON DISCOVERY**"
+4efdd6c3504943f94eca7b9d,,10183,question,responseOption1,148,category,Click Here to Acknowledge
+4efdd6d7504943f87f8b0940,,10184,question,questionText,148,category,Confined Spaces \nWill your company work in confined spaces or permit-required confined spaces?
+4efdd6d7504943f87f8b0940,,10184,question,responseOptionNo,148,category,No
+4efdd6d7504943f87f8b0940,,10184,question,responseOptionYes,148,category,Yes
+4efdd71a504943adb0c35741,,10185,question,linkResources!download.action?id=3595,148,category,NBB's confined-space entry program
+4efdd71a504943adb0c35741,,10185,question,linkresources!download.action?id=3595,148,category,NBB's confined-space entry program
+4efdd71a504943adb0c35741,,10185,question,questionText,148,category,"Download <a target='_BLANK' href='/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_3595.pdf'>NBB's confined-space entry program</a>, review."
+4efdd71a504943adb0c35741,,10185,question,responseOption1,148,category,Click Here to Acknowledge
+4efdd723504943c7a29c269b,,10186,question,questionText,148,category,Upload your confined space entry program
+4efdd72a504943a5d968cc3e,,10187,question,linkResources!download.action?id=3596,148,category,sample confined space entry form
+4efdd72a504943a5d968cc3e,,10187,question,linkresources!download.action?id=3596,148,category,sample confined space entry form
+4efdd72a504943a5d968cc3e,,10187,question,questionText,148,category,Upload a <a target='_BLANK' href='/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_3596.pdf'>sample confined space entry form</a> currently in use.
+4efdd766504943fa70c9cd32,,10188,question,questionText,148,category,Hotwork \nWill your company perform hotwork of any kind at NBB?
+4efdd766504943fa70c9cd32,,10188,question,responseOptionNo,148,category,No
+4efdd766504943fa70c9cd32,,10188,question,responseOptionYes,148,category,Yes
+4efdd7a7504943f1b06b0c93,,10189,question,linkResources!download.action?id=3607,148,category,NBB's hot work program
+4efdd7a7504943f1b06b0c93,,10189,question,linkresources!download.action?id=3607,148,category,NBB's hot work program
+4efdd7a7504943f1b06b0c93,,10189,question,questionText,148,category,"Download <a target='_BLANK' href='/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_3607.pdf'>NBB's hot work program</a>, review."
+4efdd7a7504943f1b06b0c93,,10189,question,responseOption1,148,category,Click Here to Acknowledge
+4efdd7ae504943222c49b830,,10190,question,questionText,148,category,Upload your hotwork program
+4efdd7b5504943fa13353a6b,,10191,question,linkResources!download.action?id=3602,148,category,sample hot work permit
+4efdd7b5504943fa13353a6b,,10191,question,linkresources!download.action?id=3602,148,category,sample hot work permit
+4efdd7b5504943fa13353a6b,,10191,question,questionText,148,category,Upload a <a target='_BLANK' href='/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_3602.pdf'>sample hot work permit</a>.
+4efdd7dd504943dbe8cbdc51,,10192,question,questionText,148,category,Overhead Lifting and Crane Work \nWill your company perform overhead lifting or crane work that requires rigging?
+4efdd7dd504943dbe8cbdc51,,10192,question,responseOptionNo,148,category,No
+4efdd7dd504943dbe8cbdc51,,10192,question,responseOptionYes,148,category,Yes
+4efdd8545049436793824c40,,10193,question,questionText,148,category,Upload the training certificate(s) for your qualified riggers that will work at NBB job sites
+4efdd85950494354c210e9ea,,10194,question,questionText,148,category,Do not locate a crane on NBB property until you have met with the NBB Construction Supervisor and have discussed crane placement and any subsurface features that would impact crane stability in compliance with 29 CFR 1926.1402.
+4efdd85950494354c210e9ea,,10194,question,responseOption1,148,category,Click Here to Acknowledge
+4efdd8ac5049433648ccae2a,,10195,question,questionText,148,category,Programming Work and Control Systems \nWill your company perform programming work and uploads to NBB control systems?
+4efdd8ac5049433648ccae2a,,10195,question,responseOptionNo,148,category,No
+4efdd8ac5049433648ccae2a,,10195,question,responseOptionYes,148,category,Yes
+4efdd91b5049437c8ce8b3ea,,10196,question,linkResources!download.action?id=3600,148,category,NBB's Control-System Remote Access Plan
+4efdd91b5049437c8ce8b3ea,,10196,question,linkresources!download.action?id=3600,148,category,NBB's Control-System Remote Access Plan
+4efdd91b5049437c8ce8b3ea,,10196,question,questionText,148,category,"Download <a target='_BLANK' href='/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_3600.pdf'>NBB's Control-System Remote Access Plan</a>, review."
+4efdd91b5049437c8ce8b3ea,,10196,question,responseOption1,148,category,Click Here to Acknowledge
+4efdd92350494335de233af0,,10197,question,questionText,148,category,"NBB restricts access to its control systems. If you require access to NBB control systems to upload, download or modify programs or data, you must complete a Control-System Remote Access permit and follow all safety procedures."
+4efdd92350494335de233af0,,10197,question,responseOption1,148,category,Click Here to Acknowledge
+4efdd95d504943ee8c6f0ca6,,10198,question,linkResources!download.action?id=3609,148,category,Avetta Requirements
+4efdd95d504943ee8c6f0ca6,,10198,question,linkresources!download.action?id=3609,148,category,Avetta Requirements
+4efdd95d504943ee8c6f0ca6,,10198,question,questionText,148,category,"Acknowledgment \nDownload <a target='_BLANK' href='/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_3609.pdf'>Avetta Requirements</a>, review."
+4efdd95d504943ee8c6f0ca6,,10198,question,responseOption1,148,category,Click Here to Acknowledge
+4efdd9705049433f9ad0dddf,,10199,question,linkResources!download.action?id=3597,148,category,NBB's Contractor EH&S Procedures
+4efdd9705049433f9ad0dddf,,10199,question,linkresources!download.action?id=3597,148,category,NBB's Contractor EH&S Procedures
+4efdd9705049433f9ad0dddf,,10199,question,questionText,148,category,"Download <a target='_BLANK' href='/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_3597.pdf'>NBB's Contractor EH&S Procedures</a>, review."
+4efdd9705049433f9ad0dddf,,10199,question,responseOption1,148,category,Click Here to Acknowledge
+4efdd99e5049437586b905bf,,10200,question,questionText,148,category,"Digitally sign below, acknowledging your review and understanding of items above."
+4f03246f504943b489e889bb,,10214,question,linkResources!download.action?id=3597,148,category,NBB Contractor EH&S Procedures
+4f03246f504943b489e889bb,,10214,question,linkresources!download.action?id=3597,148,category,NBB Contractor EH&S Procedures
+4f03246f504943b489e889bb,,10214,question,questionText,148,category,"Please reference the fall protection section of the <a target='_BLANK' href='/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_3597.pdf'>NBB Contractor EH&S Procedures</a>, on page 18 for additional information and requirements on this topic."
+4f03246f504943b489e889bb,,10214,question,responseOption1,148,category,Click here to acknowledge
+4f03271e5049437d1497c935,,10215,question,linkResources!download.action?id=3599,148,category,NBB's Control-System permit here
+4f03271e5049437d1497c935,,10215,question,linkresources!download.action?id=3599,148,category,NBB's Control-System permit here
+4f03271e5049437d1497c935,,10215,question,questionText,148,category,"Download <a target='_BLANK' href='/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_3599.pdf'>NBB's Control-System permit here</a>, review."
+4f03271e5049437d1497c935,,10215,question,responseOption1,148,category,Click here to acknowledge
+4f0328ea5049437fb0a7175d,,10216,question,questionText,148,category,"If you have a trained competent person in fall protection, please upload their training certificate."
+4f04a96f504943fd356bdd27,,10219,question,questionText,148,category,Hazcom / MSDS \nWill your company bring chemicals of any kind to NBB during the completion of work?
+4f04a96f504943fd356bdd27,,10219,question,responseOptionNo,148,category,No
+4f04a96f504943fd356bdd27,,10219,question,responseOptionYes,148,category,Yes
+4f04a9cb504943f3b19edf9c,,10220,question,questionText,148,category,Please compile and deliver a copy of all SDS to NBB prior to the start of work. NBB retains the right to disallow the use of certain chemicals.
+4f04aa755049432f49dfd235,,10221,question,questionText,148,category,"Ensure that your company maintains a complete copy of all SDS for all chemicals used at NBB at all times during work. SDS must be accessible by all of your employees, and NBB staff, at all times. **FAILURE TO MAINTAIN SDS WILL RESULT IN IMMEDIATE PROJECT SHUTDOWN UPON DISCOVERY**"
+4f04aa755049432f49dfd235,,10221,question,responseOption1,148,category,Click here to acknowledge
+4f7468d9504943e58ba9495a,,11167,question,linkResources!download.action?id=3608,148,category,Sample JHA Form
+4f7468d9504943e58ba9495a,,11167,question,linkhttp://www.osha.gov/Publications/osha3071.pdf,148,category,Job Hazard Analysis
+4f7468d9504943e58ba9495a,,11167,question,linkhttp://www.osha.gov/publications/osha3071.pdf,148,category,Job Hazard Analysis
+4f7468d9504943e58ba9495a,,11167,question,linkresources!download.action?id=3608,148,category,Sample JHA Form
+4f7468d9504943e58ba9495a,,11167,question,questionText,148,category,"Job Specific JHA Required \nSite and job-specifc job hazard analyses (JHA) are required for all construction work at New Belgium. Contractors must submit JHAs for all work with their bid submission. In addition, a pre-job walkthrough and JHA review meeting is required if your bid is accepted. Please contact your NBB Owner's Rep/PM or CM to submit your JHA and schedule your meeting. Failure to submit JHAs as indicated will result in disqualification from the bid-submission process.\r\n \n\r\nNBB requires substantial conformance with the following two ANSI/ASSE specifcations:\r\n \n\r\n- ANSI/ASSE A10.1-2011: Pre-Project & Pre-Task Safety & Health Planning\r\n \n\r\n- ANSI/ASSE A10.33-2011: Safety & Health Program Requirements for Multi-Employer Projects\r\n \n\r\nNeed more help? Check out the JHA Guidance from OSHA. - OSHA Publication 3071-2001: <a href=""http://www.osha.gov/Publications/osha3071.pdf"" target=""_blank"">Job Hazard Analysis</a> \n\r\nAn example of a typical JSA/JHA form is attached; you may use your own form or this one. <a href=""/file-preview.html?fileId=2018-01-01T00:00:00.688-08:00~~~resource_3608.doc"" target=""_blank"">Sample JHA Form</a>\r\n \n \n\r\nCheck the box to acknowledge that you have read this information."
+4f7468d9504943e58ba9495a,,11167,question,responseOption1,148,category,Click Here to Acknowledge

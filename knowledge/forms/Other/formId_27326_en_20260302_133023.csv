@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+606f74874400004cc136a9cc,5d66b8fe360000a8a8ffb7f3,27326,questionGroup,questionGroupText,27326,form,Workers' Compensation (Regional)
+606f741c4400004cc136a92e,5d66bad0360000a8a8ffcfb5,27327,questionGroup,questionGroupText,27326,form,Policy Information
+5d66bbe2330000dffe78cab0,5d66bbe2330000dffe78caaf,27329,questionGroup,questionGroupText,27326,form,Policy Limits
+5d66bb12360000a2133ced04,,86229,question,questionText,27326,form,Date of Commencement:
+5d66bb1d330000dffe78ca0d,,86230,question,questionText,27326,form,Expiration Date:
+5d66bb30360000a2133ced06,,86231,question,questionText,27326,form,Insurance Carrier:
+5d66bb74360000a8a8ffd00f,,86232,question,questionText,27326,form,Please upload Workers' Compensation (Regional) Certificate
+5d66bc10360000a2133ced40,,86233,question,questionText,27326,form,Monetary Limit
+606f741b4400004cc136a92d,,108563,question,description,27326,form,Used to provide instructions from Client
+606f741b4400004cc136a92d,,108563,question,questionText,27326,form,Comments
+606f743e4300008efba5a820,,108565,question,description,27326,form,Date the instructions from Client expire
+606f743e4300008efba5a820,,108565,question,questionText,27326,form,VARIANCE Expiration Date
+62f53f4182eb52eab3c18fc8,,130557,question,questionText,27326,form,Currency used in Certificate of Insurance (COI)

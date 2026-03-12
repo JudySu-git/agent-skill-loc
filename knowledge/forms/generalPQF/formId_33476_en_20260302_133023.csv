@@ -1,0 +1,118 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61004629420000d8b1b379f4,60e5c742420000aeeca02658,33476,questionGroup,questionGroupText,33476,form,Avetta PQF - Cybersecurity Assessment
+6100357d410000aa6330933a,60e5c90b430000b3cc0b1094,33478,questionGroup,questionGroupText,33476,form,Web Assessment
+61003636420000d8b1b2ce57,60e5c912430000b3cc0b10d1,33479,questionGroup,questionGroupText,33476,form,Communications Assessment
+6100368e420000d8b1b2cf32,60e5c918430000b3cc0b10ff,33480,questionGroup,questionGroupText,33476,form,Data Assessment
+610037f1410000aa6330a578,60e5c91d420000aeeca0336b,33481,questionGroup,questionGroupText,33476,form,IT Assessment
+610037c0420000d8b1b2dc21,610037c0420000d8b1b2dc20,33543,questionGroup,questionGroupText,33476,form,Payment Processing Assessment
+61003a1c410000aa6330fa2c,61003a1c410000aa6330fa2b,33544,questionGroup,questionGroupText,33476,form,Policy Coverage Assessment
+60e5ca36420000aeeca03aa3,,113096,question,description,33476,form,"Such as a company website, social media account or online application or service."
+60e5ca36420000aeeca03aa3,,113096,question,questionText,33476,form,Do you have an online presence?
+60e5ca36420000aeeca03aa3,,113096,question,responseOption1,33476,form,Yes
+60e5ca36420000aeeca03aa3,,113096,question,responseOption2,33476,form,No
+60e5ca44430000b3cc0b17df,,113097,question,description,33476,form,"Such as through email, text or phone."
+60e5ca44430000b3cc0b17df,,113097,question,questionText,33476,form,Do you communicate with clients electronically?
+60e5ca44430000b3cc0b17df,,113097,question,responseOption1,33476,form,Yes
+60e5ca44430000b3cc0b17df,,113097,question,responseOption2,33476,form,No
+60e5ca53420000aeeca03af3,,113098,question,description,33476,form,"In other words, do you store any information which belongs to your clients, their employees, or their customers? Such as, names, email addresses, or financial information?"
+60e5ca53420000aeeca03af3,,113098,question,questionText,33476,form,Do you retain client data?
+60e5ca53420000aeeca03af3,,113098,question,responseOption1,33476,form,Yes
+60e5ca53420000aeeca03af3,,113098,question,responseOption2,33476,form,No
+60e5ca62420000aeeca03b17,,113099,question,questionText,33476,form,Do you accept payment from your clients in the form of Debit or Credit cards?
+60e5ca62420000aeeca03b17,,113099,question,responseOption1,33476,form,Yes
+60e5ca62420000aeeca03b17,,113099,question,responseOption2,33476,form,No
+60e5ca6f430000b3cc0b18a1,,113100,question,description,33476,form,"Typical duties carried out by an Information Technology (IT) resource (employee or contractor) include:\n\n<li>Maintenance of office computers, networking and other electronic devices.</li>\n<li>Support of digital tools, applications or services used by your organization to conduct business.</li>\n<li>Management of your organization's Cybersecurity programs and policies.</li>\n"
+60e5ca6f430000b3cc0b18a1,,113100,question,questionText,33476,form,Do you have resources dedicated to Information Technology (IT)?
+60e5ca6f430000b3cc0b18a1,,113100,question,responseOption1,33476,form,Yes
+60e5ca6f430000b3cc0b18a1,,113100,question,responseOption2,33476,form,No
+60e5ca7b420000aeeca03b64,,113101,question,description,33476,form,Select all that apply
+60e5ca7b420000aeeca03b64,,113101,question,questionText,33476,form,Do you have any of the following policies in place?
+60e5ca7b420000aeeca03b64,,113101,question,responseOption1,33476,form,Information Security (InfoSec)
+60e5ca7b420000aeeca03b64,,113101,question,responseOption2,33476,form,Business Continuity
+60e5ca7b420000aeeca03b64,,113101,question,responseOption3,33476,form,Disaster Recovery
+60e5ca7b420000aeeca03b64,,113101,question,responseOption4,33476,form,I don't have any of these policies in place
+60e5cac2430000b3cc0b1b66,,113102,question,description,33476,form,"Meaning, does your organization use the internet in some capacity to conduct your business?\n\nSelect all that apply."
+60e5cac2430000b3cc0b1b66,,113102,question,questionText,33476,form,What platforms/technologies does your business use online? 
+60e5cac2430000b3cc0b1b66,,113102,question,responseOption1,33476,form,Company Website
+60e5cac2430000b3cc0b1b66,,113102,question,responseOption2,33476,form,Business Social Media account
+60e5cac2430000b3cc0b1b66,,113102,question,responseOption3,33476,form,Other
+60e5cadf420000aeeca03d33,,113103,question,description,33476,form,Please select all of the options which describe how your business interacts with clients using your online tools or websites.
+60e5cadf420000aeeca03d33,,113103,question,questionText,33476,form,How is your web presence used to interact with clients?
+60e5cadf420000aeeca03d33,,113103,question,responseOption1,33476,form,Advertising services to clients
+60e5cadf420000aeeca03d33,,113103,question,responseOption2,33476,form,Communicating with clients
+60e5cadf420000aeeca03d33,,113103,question,responseOption3,33476,form,Collecting client data
+60e5cadf420000aeeca03d33,,113103,question,responseOption4,33476,form,Processing payment from clients
+60e5cadf420000aeeca03d33,,113103,question,responseOption5,33476,form,Other
+60e5cb15430000b3cc0b1d8d,,113104,question,description,33476,form,Select all that apply.
+60e5cb15430000b3cc0b1d8d,,113104,question,questionText,33476,form,Which modes of electronic communication do you use to communicate with clients?
+60e5cb15430000b3cc0b1d8d,,113104,question,responseOption1,33476,form,Email
+60e5cb15430000b3cc0b1d8d,,113104,question,responseOption2,33476,form,Text
+60e5cb15430000b3cc0b1d8d,,113104,question,responseOption3,33476,form,Phone
+60e5cb15430000b3cc0b1d8d,,113104,question,responseOption4,33476,form,Other
+60e5cb26430000b3cc0b1de5,,113105,question,description,33476,form,Phishing is a social engineering tactic used by hackers to exploit businesses through email.
+60e5cb26430000b3cc0b1de5,,113105,question,questionText,33476,form,Do you have a program in place to train employees about phishing or social engineering?
+60e5cb26430000b3cc0b1de5,,113105,question,responseOption1,33476,form,Yes
+60e5cb26430000b3cc0b1de5,,113105,question,responseOption2,33476,form,No
+60e5cbce420000aeeca03e02,,113106,question,description,33476,form,Keep in mind that this data could even be something as simple as a name and phone number.\n\nSelect all that apply.
+60e5cbce420000aeeca03e02,,113106,question,questionText,33476,form,Which types of sensitive client data do you retain?
+60e5cbce420000aeeca03e02,,113106,question,responseOption1,33476,form,Client's employee data
+60e5cbce420000aeeca03e02,,113106,question,responseOption2,33476,form,Client's customer data
+60e5cbce420000aeeca03e02,,113106,question,responseOption3,33476,form,Client's financial data
+60e5cbce420000aeeca03e02,,113106,question,responseOption4,33476,form,Client's intellectual property
+60e5cbce420000aeeca03e02,,113106,question,responseOption5,33476,form,Other
+60e5cbf1420000aeeca03e04,,113107,question,description,33476,form,This question is mostly asking about what tools you are using to store client data.\n\nSelect all that apply.
+60e5cbf1420000aeeca03e04,,113107,question,questionText,33476,form,How is this data stored?
+60e5cbf1420000aeeca03e04,,113107,question,responseOption1,33476,form,Physical hardcopies
+60e5cbf1420000aeeca03e04,,113107,question,responseOption2,33476,form,On work computers or devices
+60e5cbf1420000aeeca03e04,,113107,question,responseOption3,33476,form,On personal computers or devices
+60e5cbf1420000aeeca03e04,,113107,question,responseOption4,33476,form,Locally hosted database
+60e5cbf1420000aeeca03e04,,113107,question,responseOption5,33476,form,Cloud hosted database
+60e5cbf1420000aeeca03e04,,113107,question,responseOption6,33476,form,CRM (such as Salesforce or Netsuite)
+60e5cbf1420000aeeca03e04,,113107,question,responseOption7,33476,form,Other
+60e5cc1b430000b3cc0b2392,,113108,question,description,33476,form,"This question is asking about the physical location of the device or server where the data is being stored. For example, if I saved client data to an excel sheet on my computer, I would select the location the corresponds to the physical location of my computer.\n\nSelect all that apply."
+60e5cc1b430000b3cc0b2392,,113108,question,questionText,33476,form,Where is this data stored?
+60e5cc1b430000b3cc0b2392,,113108,question,responseOption1,33476,form,United States
+60e5cc1b430000b3cc0b2392,,113108,question,responseOption2,33476,form,United Kingdom
+60e5cc1b430000b3cc0b2392,,113108,question,responseOption3,33476,form,Australia
+60e5cc1b430000b3cc0b2392,,113108,question,responseOption4,33476,form,Canada
+60e5cc1b430000b3cc0b2392,,113108,question,responseOption5,33476,form,Brazil
+60e5cc1b430000b3cc0b2392,,113108,question,responseOption6,33476,form,Germany
+60e5cc1b430000b3cc0b2392,,113108,question,responseOption7,33476,form,Other
+60e5cc39420000aeeca03e08,,113109,question,questionText,33476,form,"If Other, please enter in country where data is stored"
+60e5cc48430000b3cc0b24c8,,113110,question,description,33476,form,"By selecting yes, you are stating that you are taking steps to ensure that all client data within your possession is secure."
+60e5cc48430000b3cc0b24c8,,113110,question,questionText,33476,form,Are you taking steps to ensure that this data is secure?
+60e5cc48430000b3cc0b24c8,,113110,question,responseOption1,33476,form,Yes
+60e5cc48430000b3cc0b24c8,,113110,question,responseOption2,33476,form,No
+60e5cc70420000aeeca03e0a,,113111,question,description,33476,form,Select all that apply
+60e5cc70420000aeeca03e0a,,113111,question,questionText,33476,form,How do you address your Information Technology (IT) needs?
+60e5cc70420000aeeca03e0a,,113111,question,responseOption1,33476,form,We have our own IT department
+60e5cc70420000aeeca03e0a,,113111,question,responseOption2,33476,form,We contract with an IT Managed Service Provider (MSP)
+60e5cc70420000aeeca03e0a,,113111,question,responseOption3,33476,form,Other
+60e5cc9e420000aeeca04346,,113112,question,description,33476,form,Please select all that apply.
+60e5cc9e420000aeeca04346,,113112,question,questionText,33476,form,What are your IT resources responsible for?
+60e5cc9e420000aeeca04346,,113112,question,responseOption1,33476,form,Computer Hardware
+60e5cc9e420000aeeca04346,,113112,question,responseOption2,33476,form,Phone systems
+60e5cc9e420000aeeca04346,,113112,question,responseOption3,33476,form,Website
+60e5cc9e420000aeeca04346,,113112,question,responseOption4,33476,form,Networking (Internet connectivity)
+60e5cc9e420000aeeca04346,,113112,question,responseOption5,33476,form,Incident response (digital emergency intervention)
+60e5cc9e420000aeeca04346,,113112,question,responseOption6,33476,form,"Cybersecurity (manage your Anti-virus, firewall, etc.)"
+60e5cc9e420000aeeca04346,,113112,question,responseOption7,33476,form,Other
+60e5ccc7430000b3cc0b275b,,113113,question,questionText,33476,form,Please describe other duties or responsibilities which are managed by your IT resources:
+610035d9410000aa633095d9,,113396,question,questionText,33476,form,Please describe other online platforms/technologies you use:
+6100360c410000aa63309699,,113397,question,questionText,33476,form,Please describe other ways you use your web presence to interact with clients:
+61003668420000d8b1b2cf18,,113398,question,questionText,33476,form,Please describe any other modes of electronic communication you use to interact with clients:
+610036c3420000d8b1b2d0d6,,113399,question,questionText,33476,form,Please describe any additional types of client data you retain:
+61003702410000aa63309b8a,,113400,question,questionText,33476,form,Please describe how else you are storing client data:
+61003748420000d8b1b2d9c5,,113401,question,description,33476,form,Select all that apply
+61003748420000d8b1b2d9c5,,113401,question,questionText,33476,form,How is this data used?
+61003748420000d8b1b2d9c5,,113401,question,responseOption1,33476,form,We use this data to maintain client contact info
+61003748420000d8b1b2d9c5,,113401,question,responseOption2,33476,form,We use this data for billing the client
+61003748420000d8b1b2d9c5,,113401,question,responseOption3,33476,form,We use this data to market our services to the client
+61003748420000d8b1b2d9c5,,113401,question,responseOption4,33476,form,We use this data to market our services to other clients or potential clients
+61003748420000d8b1b2d9c5,,113401,question,responseOption5,33476,form,We share this data with one or more business affiliates
+61003748420000d8b1b2d9c5,,113401,question,responseOption6,33476,form,Other
+61003772420000d8b1b2db57,,113402,question,questionText,33476,form,Please describe how else you are using client data:
+61003794410000aa6330a458,,113403,question,questionText,33476,form,Please briefly describe the measures you're taking to ensure that your client's data is secure:
+610037a0420000d8b1b2dbe2,,113404,question,questionText,33476,form,Please describe why you are not taking steps to ensure that your client's data is secure:
+61003999420000d8b1b31f05,,113405,question,questionText,33476,form,Please describe how else you manage your IT requirements:
+61003a7e410000aa6330fe19,,113406,question,questionText,33476,form,Please explain why you do not have any of these policies:

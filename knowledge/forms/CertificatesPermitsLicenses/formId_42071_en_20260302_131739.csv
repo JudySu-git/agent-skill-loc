@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce4d75010000370021f9d0,66302de21a0000620045d5fc,42071,questionGroup,description,42071,form,You are getting this category because you selected a license in the Avetta PQF - Western Australia License.
+66ce4d75010000370021f9d0,66302de21a0000620045d5fc,42071,questionGroup,questionGroupText,42071,form,Western Australia Contractor License - Plumbing
+66302de21a00002c0045d5fd,,153514,question,questionText,42071,form,Expiration Date:
+66302de21a00002c0045d5fd,,153514,question,responseOption1,42071,form,Yes
+66302de21a00002c0045d5fd,,153514,question,responseOption2,42071,form,No
+66302de21a0000280045d5ff,,153515,question,questionText,42071,form,License Number:
+66302de21a0000280045d5ff,,153515,question,responseOption1,42071,form,Yes
+66302de21a0000280045d5ff,,153515,question,responseOption2,42071,form,No
+66302de21a00002c0045d5fe,,153516,question,questionText,42071,form,Please upload your license:\n
+66302de21a00002c0045d5fe,,153516,question,responseOption1,42071,form,Yes
+66302de21a00002c0045d5fe,,153516,question,responseOption2,42071,form,No

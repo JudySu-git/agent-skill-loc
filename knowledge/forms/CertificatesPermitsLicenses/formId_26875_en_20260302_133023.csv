@@ -1,0 +1,14 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6672ec5f0100004a00a4736d,5d30c529350000434197b9a4,26875,questionGroup,questionGroupText,26875,form,Vermont Contractor License
+5d5c3cf33600007cad0e4421,5d3765c73500002f3cacff58,27024,questionGroup,questionGroupText,26875,form,Vermont Contractor License
+5d3765e23500002f3cacffac,,84893,question,description,26875,form,"<a href = ""https://sos.vermont.gov/opr/find-a-professional/ ""target=""_BLANK_"">Vermont Secretary of State – Office of Professional Regulation</a>\n"
+5d3765e23500002f3cacffac,,84893,question,questionText,26875,form,Vermont Contractor License Number:
+5d3765fd330000b828a698e6,,84894,question,description,26875,form,"<a href = ""https://sos.vermont.gov/opr/find-a-professional/ ""target=""_BLANK_"">Vermont Secretary of State – Office of Professional Regulation</a>\n"
+5d3765fd330000b828a698e6,,84894,question,questionText,26875,form,Vermont Contractor License Classifications:
+5d376610330000b828a698f9,,84895,question,questionText,26875,form,Vermont License Expiration Date:
+5d37661b330000b828a6991a,,84896,question,description,26875,form,A URL will make verification quicker if provided
+5d37661b330000b828a6991a,,84896,question,questionText,26875,form,"Upload a copy of your license, and or provide the URL of the license."
+5d37661b330000b828a6991a,,84896,question,responseOption1,26875,form,File Upload
+5d37661b330000b828a6991a,,84896,question,responseOption2,26875,form,URL
+5d37662d3500002f3cacffec,,84897,question,questionText,26875,form,Please upload a copy of your Vermont license:
+5d37663b3500002f3cacfffa,,84898,question,questionText,26875,form,Please enter the URL of the license:

@@ -1,0 +1,92 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+655e37ab1a00004407b902db,553fc63a5049434dd78c55d9,6814,questionGroup,questionGroupText,20416,form,Indonesia
+655e40811a00009b08bcee5f,5b4686012200003a03c4be3a,20416,questionGroup,questionGroupText,20416,form,Avetta PQF - Indonesia Company Information
+553fc6b0504943eccf9e08e1,,30619,question,questionText,20416,form,Is your company registered with the Ministry of Law and Human Rights?
+553fc6b0504943eccf9e08e1,,30619,question,responseOptionNo,20416,form,No
+553fc6b0504943eccf9e08e1,,30619,question,responseOptionYes,20416,form,Yes
+553fc7065049433fbe449fee,,30620,question,description,20416,form,
+553fc7065049433fbe449fee,,30620,question,questionText,20416,form,What is the legal name of your company as registered in the company registry?
+553fc75950494387e2d98ed5,,30621,question,questionText,20416,form,Is your company registered with the Ministry of Trade?
+553fc75950494387e2d98ed5,,30621,question,responseOptionNo,20416,form,No
+553fc75950494387e2d98ed5,,30621,question,responseOptionYes,20416,form,Yes
+553fc8b6504943b821fbfa70,,30622,question,description,20416,form,"SIUP = <i>Surat Izin Usaha Perdagangan</i>\r\n<br><br>\r\n-<b>Micro SIUP</b> shall be owned by companies with net assets amounting less than 50 million rupiah, excluding land and building location of the business. The company must also be a sole proprietorship or partnership and the business activities are managed, operated, or maintained by its owner or family members/close relatives.<br>\r\n-<b>Small SIUP</b> shall be owned by companies with net assets amounting more than 50 million rupiah up to 500 million rupiah, excluding land and building location of the business.<br>\r\n-<b>Medium SIUP</b> shall be owned by companies with net assets amounting between 500 million rupiah up to 10 billion rupiah, excluding land and building location of the business.<br>\r\n-<b>Large SIUP</b> shall be owned by companies with net assets amounting more than 10 billion rupiah excluding land and building location of the business."
+553fc8b6504943b821fbfa70,,30622,question,questionText,20416,form,What is your company's business license (SIUP) classification?
+553fc8b6504943b821fbfa70,,30622,question,responseOptionLargeSIUP,20416,form,Large SIUP
+553fc8b6504943b821fbfa70,,30622,question,responseOptionMediumSIUP,20416,form,Medium SIUP
+553fc8b6504943b821fbfa70,,30622,question,responseOptionMicroSIUP,20416,form,Micro SIUP
+553fc8b6504943b821fbfa70,,30622,question,responseOptionSmallSIUP,20416,form,Small SIUP
+553fc979504943d3802d90e1,,30623,question,description,20416,form,Companies with more than 10 employees or more than 1 million rupiah in monthly payroll must register with the Ministry of Manpower.
+553fc979504943d3802d90e1,,30623,question,questionText,20416,form,Is your company registered with the Ministry of Manpower?
+553fc979504943d3802d90e1,,30623,question,responseOptionNo,20416,form,No
+553fc979504943d3802d90e1,,30623,question,responseOptionYes,20416,form,Yes
+553fc9ca504943395485f2c2,,30624,question,description,20416,form,BPJS = <i>Badan Penyelenggara Jaminan Sosial</i>\r\n<br><br>\r\nCompanies with more than 10 employees or more than 1 million rupiah in monthly payroll must register for Social Security (BPJS).
+553fc9ca504943395485f2c2,,30624,question,questionText,20416,form,Is your company registered with Social Security (BPJS)?
+553fc9ca504943395485f2c2,,30624,question,responseOptionNo,20416,form,No
+553fc9ca504943395485f2c2,,30624,question,responseOptionYes,20416,form,Yes
+553fca44504943ae088c1b0a,,30627,question,description,20416,form,"<a href=""https://www.pajak.go.id/?lang=en"" target=""_blank"">Tax in Indonesia</a>"
+553fca44504943ae088c1b0a,,30627,question,questionText,20416,form,Is your company registered to pay taxes?
+553fca44504943ae088c1b0a,,30627,question,responseOptionNo,20416,form,No
+553fca44504943ae088c1b0a,,30627,question,responseOptionYes,20416,form,Yes
+553fcaad504943a26c87ce9f,,30628,question,description,20416,form,NPWP = <i>Nomor Pokok Wajib Pajak</i>\r\n<br><br>\r\nThe tax identification number (NPWP) is typically 15 digits.
+553fcaad504943a26c87ce9f,,30628,question,questionText,20416,form,What is your company's tax identification number (NPWP)?
+553fcad950494335a3560c02,,30630,question,description,20416,form,NPPKP = <i>Nomor Pokok Pengusaha Kena Pajak</i>
+553fcad950494335a3560c02,,30630,question,questionText,20416,form,What is your company's VAT number (NPPKP)?
+553fcc66504943fd50206da4,,30631,question,questionText,20416,form,What is your company's primary Indonesian Standard Industrial Classification (ISIC/KBLI) Code?
+553fcc685049436a33b1b723,,30632,question,questionText,20416,form,What is your company's secondary Indonesian Standard Industrial Classification (ISIC/KBLI) Code?
+6374096f1600006c031b331b,,133508,question,description,20416,form,"Every entity has an NIB that is issued by the OSS (Online Single Submission system) <a href=""https://oss.go.id/""target=""_Blank"">https://oss.go.id/</a>"
+6374096f1600006c031b331b,,133508,question,questionText,20416,form,What is your company's Single Business Identity Number (NIB - Nomor Induk Berusaha)?
+63740beb1600005f031b4174,,133512,question,questionText,20416,form,Does your company have a business or operating license?\n
+63740beb1600005f031b4174,,133512,question,responseOption1,20416,form,Yes
+63740beb1600005f031b4174,,133512,question,responseOption2,20416,form,No
+63740c2116000094031b4268,,133513,question,questionText,20416,form,What is the License Number?
+63740c53160000bb05d5b5de,,133514,question,questionText,20416,form,Does  your company have an additional business or operating license?\n
+63740c53160000bb05d5b5de,,133514,question,responseOption1,20416,form,Yes
+63740c53160000bb05d5b5de,,133514,question,responseOption2,20416,form,No
+63740c781600005f031b431e,,133515,question,questionText,20416,form,What is the License Number?\n
+655e37a91a00002c08b9029e,,147313,question,questionText,20416,form,Please indicate your company's business entity / form of business within Indonesia. 
+655e37a91a00002c08b9029e,,147313,question,responseOption1,20416,form,Individual Enterprise (Usaha Perseorangan)
+655e37a91a00002c08b9029e,,147313,question,responseOption10,20416,form,Public Company (Perusahaan Terbuka)
+655e37a91a00002c08b9029e,,147313,question,responseOption11,20416,form,Representative Office (Kantor Perwakilan Perusahaan Asing or KPPA)
+655e37a91a00002c08b9029e,,147313,question,responseOption2,20416,form,Civil Partnership (Persekutuan Perdata)
+655e37a91a00002c08b9029e,,147313,question,responseOption3,20416,form,Firm (Firma)
+655e37a91a00002c08b9029e,,147313,question,responseOption4,20416,form,Limited Partnership (Persekutuan Komanditer or CV)
+655e37a91a00002c08b9029e,,147313,question,responseOption5,20416,form,Domestic Investment Company (PT PMDN)
+655e37a91a00002c08b9029e,,147313,question,responseOption6,20416,form,Foreign Direct Investment Company (PT PMA)
+655e37a91a00002c08b9029e,,147313,question,responseOption7,20416,form,Cooperative (Koperasi)
+655e37a91a00002c08b9029e,,147313,question,responseOption8,20416,form,State-Owned Enterprise (Badan Usaha Milik Negara or BUMN)
+655e37a91a00002c08b9029e,,147313,question,responseOption9,20416,form,Regional-Owned Enterprise (Badan Usaha Milik Daerah or BUMD)
+655e38b61a00008e08b93e07,,147314,question,questionText,20416,form,"If No, please explain:"
+655e38b61a00008e08b93e07,,147314,question,responseOption1,20416,form,Yes
+655e38b61a00008e08b93e07,,147314,question,responseOption2,20416,form,No
+655e392c1a0000eb07b98a52,,147315,question,questionText,20416,form,"If No, please explain:"
+655e392c1a0000eb07b98a52,,147315,question,responseOption1,20416,form,Yes
+655e392c1a0000eb07b98a52,,147315,question,responseOption2,20416,form,No
+655e396f1a00001709b9d205,,147316,question,questionText,20416,form,"If No, please explain:"
+655e396f1a00001709b9d205,,147316,question,responseOption1,20416,form,Yes
+655e396f1a00001709b9d205,,147316,question,responseOption2,20416,form,No
+655e39a41a00003505b9fa16,,147317,question,questionText,20416,form,Is your company registered for VAT?
+655e39a41a00003505b9fa16,,147317,question,responseOption1,20416,form,Yes
+655e39a41a00003505b9fa16,,147317,question,responseOption2,20416,form,No
+655e3a0b1a0000a108ba4022,,147318,question,questionText,20416,form,"If No, please explain:"
+655e3a0b1a0000a108ba4022,,147318,question,responseOption1,20416,form,Yes
+655e3a0b1a0000a108ba4022,,147318,question,responseOption2,20416,form,No
+655e3a361a0000db07ba4994,,147319,question,questionText,20416,form,"If No, please explain:"
+655e3a361a0000db07ba4994,,147319,question,responseOption1,20416,form,Yes
+655e3a361a0000db07ba4994,,147319,question,responseOption2,20416,form,No
+655e3a511a00001005ba5cfc,,147320,question,questionText,20416,form,"If No, please explain:"
+655e3a511a00001005ba5cfc,,147320,question,responseOption1,20416,form,Yes
+655e3a511a00001005ba5cfc,,147320,question,responseOption2,20416,form,No
+655e3a7b1a00003208ba685f,,147321,question,description,20416,form,"This program provides old age, disability, and survivor security including other benefits for individuals."
+655e3a7b1a00003208ba685f,,147321,question,questionText,20416,form,Is your company enrolled in the provident fund (Ketenagakerjaan)?
+655e3a7b1a00003208ba685f,,147321,question,responseOption1,20416,form,Yes
+655e3a7b1a00003208ba685f,,147321,question,responseOption2,20416,form,No
+655e3ab21a0000c608ba72c0,,147322,question,questionText,20416,form,"If No, please explain:"
+655e3ab21a0000c608ba72c0,,147322,question,responseOption1,20416,form,Yes
+655e3ab21a0000c608ba72c0,,147322,question,responseOption2,20416,form,No
+655e3ad41a0000d408ba7adc,,147323,question,description,20416,form,This program provides healthcare security including medical and maternal/paternal benefits for individuals and their dependents.
+655e3ad41a0000d408ba7adc,,147323,question,questionText,20416,form,Is your company enrolled in the healthcare system (Kesehatan)?
+655e3ad41a0000d408ba7adc,,147323,question,responseOption1,20416,form,Yes
+655e3ad41a0000d408ba7adc,,147323,question,responseOption2,20416,form,No
+655e3ade1a0000c608ba7d3e,,147324,question,questionText,20416,form,"If No, please explain:"
+655e3ade1a0000c608ba7d3e,,147324,question,responseOption1,20416,form,Yes
+655e3ade1a0000c608ba7d3e,,147324,question,responseOption2,20416,form,No

@@ -1,0 +1,40 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6893a4120100007c01b4faa1,68939d830100007901b4f947,46968,questionGroup,questionGroupText,46968,form,Avetta PQF - Algeria Company Information
+68939d830100008001b4f949,,178135,question,description,46968,form,"**Sole Proprietorship**\nA sole proprietorship indicates that a business is owned and operated by a single individual.\n\n<p> <br>\n\n**General Partnership with Joint Liability (SNC)**\nAn SNC is a partnership formed by at least two individuals or entities who operate a business jointly and severally liable for all partnership debts and obligations. \n\n<p> <br>\n\n**Limited Partnership (SCS)**\nAn SCS is a hybrid partnership composed of general partners—who manage the business and bear unlimited liability—and limited partners, who contribute capital but do not participate in management. Their liability is limited to the amount of their contributions.\n\n<p> <br>\n\n**Limited Liability Company (SARL)**\nA SARL is a private company form that separates the legal identity of the business from its owners (partners or shareholders).\n\n<p> <br>\n\n**Single-Member Limited Liability Company (EURL)**\nAn EURL is a variant of the SARL, with a single shareholder who enjoys the same limited liability protection as in a standard SARL.\n\n<p> <br>\n\n**Joint Stock Company (SPA)**\nThe SPA is the commercial company form typically used for larger enterprises. \n\n<p> <br>\n\n**Simplified Joint Stock Company (SAS)**\nThe SAS is a flexible hybrid commercial company introduced to better meet the needs of startups and innovative businesses.\n\n<p> <br>\n\n**Foreign Representative Office**\nForeign Representative Offices in Algeria serve exclusively as non-commercial liaison entities.\n\n<p> <br>"
+68939d830100008001b4f949,,178135,question,questionText,46968,form,Please indicate your company's business entity / form of business within Algeria.
+68939d830100008001b4f949,,178135,question,responseOption1,46968,form,Sole Proprietorship
+68939d830100008001b4f949,,178135,question,responseOption2,46968,form,Other
+68939d830100008001b4f949,,178135,question,responseOption3,46968,form,Single-Member Limited Liability Company (EURL)
+68939d830100008001b4f949,,178135,question,responseOption4,46968,form,Limited Liability Company (SARL)
+68939d830100008001b4f949,,178135,question,responseOption5,46968,form,Limited Partnership (SCS)
+68939d830100008001b4f949,,178135,question,responseOption6,46968,form,General Partnership with Joint Liability (SNC)
+68939d830100008001b4f949,,178135,question,responseOption7,46968,form,Simplified Joint Stock Company (SAS)
+68939d830100008001b4f949,,178135,question,responseOption8,46968,form,Joint Stock Company (SPA)
+68939d830100008001b4f949,,178135,question,responseOption9,46968,form,Foreign Representative Office
+68939d830100008201b4f948,,178136,question,description,46968,form,The Trade Register Number is your company's unique registration number assigned to every registered business in Algeria. The Trade Register Extract is the official document issued by the [National Center of the Trade Register (CNRC)](https://sidjilcom.cnrc.dz/en) that proves a company’s legal existence.
+68939d830100008201b4f948,,178136,question,questionText,46968,form,Does your company have a Commercial Registry Number (RC) and Trade Register Extract issued by the CNRC (Centre National du Registre de Commerce)?
+68939d830100008201b4f948,,178136,question,responseOption1,46968,form,Yes
+68939d830100008201b4f948,,178136,question,responseOption2,46968,form,No
+68939d830100007c01b4f94c,,178137,question,questionText,46968,form,"If Other, please explain."
+68939d830100007c01b4f953,,178138,question,questionText,46968,form,Please explain why your company does not have a Commercial Registry Number and Extract (RC).
+68939d830100007c01b4f952,,178139,question,description,46968,form,"A [Tax Identification Number (NIF)](https://www.mfdgi.gov.dz/) is a unique tax number required for all tax compliance, invoice issuance, imports/exports, and dealings with customs and the Directorate of Taxes. "
+68939d830100007c01b4f952,,178139,question,questionText,46968,form,Does your company have a Tax Identification Number (NIF)?
+68939d830100007c01b4f952,,178139,question,responseOption1,46968,form,Yes
+68939d830100007c01b4f952,,178139,question,responseOption2,46968,form,No
+68939d830100006a01b4f950,,178141,question,description,46968,form,"The [NIS](https://bawabatic.dz/?req=informations&op=detail&id=757&lang=en) consists of 15 digits, with part of the sequence identifying the company’s primary industry sector."
+68939d830100006a01b4f950,,178141,question,questionText,46968,form,Does your company have a Statistical Identification Number (NIS) issued by the Office National des Statistiques (ONS)?
+68939d830100006a01b4f950,,178141,question,responseOption1,46968,form,Yes
+68939d830100006a01b4f950,,178141,question,responseOption2,46968,form,No
+68939d830100007c01b4f94e,,178142,question,questionText,46968,form,Please explain why your company does not have a Statistical Identification Number (NIS).
+68939d830100007f01b4f94d,,178149,question,description,46968,form,Your company's NIS certificate can be requested directly from the ONS or via [official government portals.](https://aapi.dz/en/creation-dentreprise-en/)
+68939d830100007f01b4f94d,,178149,question,questionText,46968,form,Please upload a copy of your NIS certificate.
+68939d830100008201b4f96c,,178155,question,description,46968,form,The Tax Identification Number (NIF) Certificate can be found on your obtained on [Ministry of Finance NIF portal.](https://nifenligne.mfdgi.gov.dz/)
+68939d830100008201b4f96c,,178155,question,questionText,46968,form,Please upload a copy of your company's Tax Identification Number (NIF) Certificate.
+68939d830100008201b4f96b,,178156,question,questionText,46968,form,Please indicate where your company is legally established.
+68939d830100008401b4f95a,,178159,question,questionText,46968,form,Please explain why your company does not have a Tax Identification Number (NIF).
+68939d830100006d01b4f978,,178160,question,description,46968,form,You can find your RC Extract on the [official government portal](https://sidjilcom.cnrc.dz/en) for the National Center of the Trade Register (CNRC).
+68939d830100006d01b4f978,,178160,question,questionText,46968,form,Please upload a copy of your company’s RC Extract (Extrait du Registre de Commerce).
+68939d830100007401b4f95b,,178161,question,description,46968,form,The NIF is a 15- or 20-digit unique numeric code and can be found on your obtained on your Tax Identification Number (NIF) Certificate.
+68939d830100007401b4f95b,,178161,question,questionText,46968,form,Please provide your company's Tax Identification Number (NIF).
+68939d830100007c01b4f981,,178166,question,description,46968,form,You can find your Commercial Registry Number (RC) on the [official government portal](https://sidjilcom.cnrc.dz/en) for the National Center of the Trade Register (CNRC).
+68939d830100007c01b4f981,,178166,question,questionText,46968,form,Please provide your company's Commercial Registry Number (RC).

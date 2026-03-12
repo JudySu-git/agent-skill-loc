@@ -1,0 +1,11 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87734a36b6c4c63546698,69a87734a36b6c4c63546697,51143,questionGroup,questionGroupText,51143,form,Bau - Geräte und Ausrüstung,
+69a87733a36b6c4c63546692,,199963,question,description,51143,form,"Die Verwendung von Geräten und Betriebsmitteln darf nur nach den erforderlichen Prüfungen und der Behebung von Mängeln erfolgen.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 151 Abs. 1</a>",
+69a87733a36b6c4c63546692,,199963,question,questionText,51143,form,Prüfungen (vor der Verwendung),
+69a87733a36b6c4c63546693,,199964,question,description,51143,form,"Gerätprüfprogramme müssen Prüfungen vor der Verwendung sowie regelmäßige Prüfungen umfassen, um Mängel zu beseitigen.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 3a Abs. 1 Z 4</a>",
+69a87733a36b6c4c63546693,,199964,question,questionText,51143,form,Dokumentation der Prüfungen,
+69a87733a36b6c4c63546694,,199965,question,description,51143,form,"Für Arbeiten mit erhöhtem Risiko müssen Unterweisungen zur Geräteverwendung, zu Arbeitsmethoden und zu Schutzmaßnahmen durchgeführt werden.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 154 Abs. 3</a>",
+69a87733a36b6c4c63546694,,199965,question,questionText,51143,form,Unterweisung,
+69a87733a36b6c4c63546695,,199966,question,description,51143,form,"Bestehen Prüfverpflichtungen und ist kein bestimmtes Prüfintervall vorgeschrieben, so sind die Prüfungen mindestens einmal im Kalenderjahr durchzuführen.\n<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Bauarbeiterschutzverordnung, § 151 Abs. 2</a>",
+69a87733a36b6c4c63546695,,199966,question,questionText,51143,form,Jährliche Prüfung durch eine befähigte Person,
+69a87733a36b6c4c63546696,,199967,question,questionText,51143,form,<div></div>,

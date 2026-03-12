@@ -1,0 +1,12 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66ce3f45010000bc0021f3c9,662bd7c81b00002f00b792ee,41966,questionGroup,description,41966,form,You are getting this category because you selected a license in the Avetta PQF - Australia Capital Territory Contractor License.
+66ce3f45010000bc0021f3c9,662bd7c81b00002f00b792ee,41966,questionGroup,questionGroupText,41966,form,Australian Capital Territory Contractor License - Class B: Asbestos Removal
+662bd7c81b00003300b792f1,,153205,question,questionText,41966,form,License Number:
+662bd7c81b00003300b792f1,,153205,question,responseOption1,41966,form,Yes
+662bd7c81b00003300b792f1,,153205,question,responseOption2,41966,form,No
+662bd7c81b00003000b792f0,,153206,question,questionText,41966,form,Expiration Date:
+662bd7c81b00003000b792f0,,153206,question,responseOption1,41966,form,Yes
+662bd7c81b00003000b792f0,,153206,question,responseOption2,41966,form,No
+662bd7c81b00003000b792ef,,153207,question,questionText,41966,form,Please upload your license:\n
+662bd7c81b00003000b792ef,,153207,question,responseOption1,41966,form,Yes
+662bd7c81b00003000b792ef,,153207,question,responseOption2,41966,form,No

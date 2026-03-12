@@ -1,0 +1,1212 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+6009111043000058396f8ff4,5f43c6ec2e000078e8841fe4,31597,questionGroup,description,31597,form,For use in the UK only as a stand-alone PQF.
+6009111043000058396f8ff4,5f43c6ec2e000078e8841fe4,31597,questionGroup,questionGroupText,31597,form,Common Assessment Scheme (CAS)
+600907fc440000371714ef9f,5f43c8a02d00007e78d6b1e7,31598,questionGroup,questionGroupText,31597,form,Identity
+5fd1997a2b0000b8026b9673,5f43c8b92e000078e8841fea,31599,questionGroup,questionGroupText,31597,form,Financial
+5f43c8bf2d0000d93febf072,5f43c8bf2d0000d93febf071,31600,questionGroup,questionGroupText,31597,form,Corporate and Professional Standing
+5fe226622a000079718c9960,5f43c8c42c0000cd4fe82a8e,31601,questionGroup,questionGroupText,31597,form,Health and Safety
+5f43c8cc2d00007e78d6b1eb,5f43c8cc2d00007e78d6b1ea,31602,questionGroup,questionGroupText,31597,form,Environmental
+5f43c8d12e000078e8841fee,5f43c8d12e000078e8841fed,31603,questionGroup,questionGroupText,31597,form,Quality
+5f43c8de2d0000d93febf075,5f43c8de2d0000d93febf074,31604,questionGroup,questionGroupText,31597,form,Equality
+5f43c8ee2c0000cd4fe82a92,5f43c8ee2c0000cd4fe82a91,31605,questionGroup,questionGroupText,31597,form,Corporate Social Responsibility
+5f43c8f42d00007e78d6b1ee,5f43c8f42d00007e78d6b1ed,31606,questionGroup,questionGroupText,31597,form,Information Security and GDPR
+5f43c8fb2e000078e8841ff1,5f43c8fb2e000078e8841ff0,31607,questionGroup,questionGroupText,31597,form,Building Information Modelling
+5f43ccce2d00007e78d6b1f9,5f43ccce2d00007e78d6b1f8,31608,questionGroup,questionGroupText,31597,form,Company Contact
+5f43cb422c0000cd4fe82a97,,102235,question,questionText,31597,form,Legal company name:
+5f43cb792c0000cd4fe82a98,,102236,question,questionText,31597,form,Address:
+5f43cba82c0000cd4fe82a99,,102237,question,questionText,31597,form,Address (cont.):
+5f43cbd52c0000cd4fe82a9a,,102238,question,questionText,31597,form,Town:
+5f43cbe92d0000d93febf07c,,102239,question,questionText,31597,form,County:
+5f43cc6f2e000078e8841ff8,,102240,question,questionText,31597,form,Post code:
+5f43cc802e000078e8841ff9,,102241,question,questionText,31597,form,Website:
+5f43cdef2e000078e8841ffb,,102242,question,description,31597,form,"(Mr., Mrs., Ms., etc.)"
+5f43cdef2e000078e8841ffb,,102242,question,questionText,31597,form,Title:
+5f43ce2f2d00007e78d6b1fb,,102243,question,questionText,31597,form,Forename:
+5f43ce4f2c0000cd4fe82a9f,,102244,question,questionText,31597,form,Family name:
+5f43ce612c0000cd4fe82aa0,,102245,question,questionText,31597,form,Job title:
+5f43ce952c0000cd4fe82aa1,,102246,question,questionText,31597,form,E-mail address:
+5f43cef72c0000cd4fe82aa2,,102247,question,questionText,31597,form,Telephone number:
+5f43d07d2c0000cd4fe82aa3,,102248,question,questionText,31597,form,Fax number:
+5f43d1812d00007e78d6d957,,102249,question,description,31597,form,Property name/number
+5f43d1812d00007e78d6d957,,102249,question,questionText,31597,form,Address line 1:
+5f43d1a22d00007e78d6dd7e,,102250,question,questionText,31597,form,Address line 2:
+5f43d1b22c0000cd4fe84cbb,,102251,question,questionText,31597,form,Address line 3:
+5f43d1cb2e000078e8844025,,102252,question,questionText,31597,form,Town:
+5f43d1da2e000078e884404d,,102253,question,questionText,31597,form,County:
+5f43d1f12d00007e78d6dd81,,102254,question,questionText,31597,form,Postcode:
+5f5a2b2f290000507fdb8e24,,102843,question,questionText,31597,form,"Are you registered with <a href=""https://www.gov.uk/government/organisations/companies-house"" target=""_BLANK"">Companies House</a>?"
+5f5a2b2f290000507fdb8e24,,102843,question,responseOption1,31597,form,Yes
+5f5a2b2f290000507fdb8e24,,102843,question,responseOption2,31597,form,No
+5f5a2c262c0000d2243a08ef,,102844,question,questionText,31597,form,Please provide your Companies House (or equivalent) registration number.
+5f5a2caf2b0000e5a6a4ae38,,102845,question,questionText,31597,form,Are you a registered charity?
+5f5a2caf2b0000e5a6a4ae38,,102845,question,responseOption1,31597,form,Yes
+5f5a2caf2b0000e5a6a4ae38,,102845,question,responseOption2,31597,form,No
+5f5a2cca2b0000e5a6a4ae39,,102846,question,questionText,31597,form,Please provide your charity registration number.
+5f5a2ded2a0000507f496da7,,102847,question,questionText,31597,form,Do you have a VAT registration number?
+5f5a2ded2a0000507f496da7,,102847,question,responseOption1,31597,form,Yes
+5f5a2ded2a0000507f496da7,,102847,question,responseOption2,31597,form,No
+5f5a2e152a0000507f496da8,,102848,question,questionText,31597,form,Please provide your VAT registration number.
+5f5a2e472a0000507f496da9,,102849,question,questionText,31597,form,Do you have an immediate parent company?
+5f5a2e472a0000507f496da9,,102849,question,responseOption1,31597,form,Yes
+5f5a2e472a0000507f496da9,,102849,question,responseOption2,31597,form,No
+5f5a2e472a0000507f496da9,,102849,question,responseOption3,31597,form,N/A
+5f5a2e732a0000507f496daa,,102850,question,questionText,31597,form,Please provide the name of your immediate parent company.
+5f5a2e92290000507fdb8e29,,102851,question,questionText,31597,form,Do you have an ultimate parent company?
+5f5a2e92290000507fdb8e29,,102851,question,responseOption1,31597,form,Yes
+5f5a2e92290000507fdb8e29,,102851,question,responseOption2,31597,form,No
+5f5a2e92290000507fdb8e29,,102851,question,responseOption3,31597,form,N/A
+5f5a2ec4290000507fdb8e2a,,102852,question,questionText,31597,form,Please provide the name of your ultimate parent company.
+5f5a2fad2b0000e5a6a4ae40,,102853,question,description,31597,form,Select your company's business structure from the dropdown menu below.
+5f5a2fad2b0000e5a6a4ae40,,102853,question,questionText,31597,form,What type of organisation?
+5f5a2fad2b0000e5a6a4ae40,,102853,question,responseOption1,31597,form,PLC
+5f5a2fad2b0000e5a6a4ae40,,102853,question,responseOption2,31597,form,Limited Company
+5f5a2fad2b0000e5a6a4ae40,,102853,question,responseOption3,31597,form,LLP
+5f5a2fad2b0000e5a6a4ae40,,102853,question,responseOption4,31597,form,Other Partnership
+5f5a2fad2b0000e5a6a4ae40,,102853,question,responseOption5,31597,form,Sole Trader
+5f5a2fad2b0000e5a6a4ae40,,102853,question,responseOption6,31597,form,Other
+5f5a2ff42c0000d2243a08f8,,102854,question,questionText,31597,form,"If Other, please specify."
+5f5f75e82c00007792863016,,102857,question,questionText,31597,form,"Are you a micro, small or a medium-sized enterprise?\n\n>*Micro: (1) Less than 10 employees, and (2) Turnover below €2m (£1.8m) or balance Sheet total less than €2m (£1.8m).\n<br>Small: (1) Less than 50 employees, and (2) Turnover below €10m (£9m) or balance Sheet total less than €10m (£9m).\n<br>Medium: (1) Less than 250 employees, and (2) Turnover below €50m (£45m) or balance Sheet total less than €43m (£38.5m).*"
+5f5f75e82c00007792863016,,102857,question,responseOption1,31597,form,Micro
+5f5f75e82c00007792863016,,102857,question,responseOption2,31597,form,Small
+5f5f75e82c00007792863016,,102857,question,responseOption3,31597,form,Medium
+5f5f75e82c00007792863016,,102857,question,responseOption4,31597,form,None of the above (Large organization)
+5f5f77a02b0000507fa8b426,,102858,question,questionText,31597,form,"Is your organisation a sheltered workshop, a social enterprise or will it provide for the performance of the contract in the context of sheltered employment programmes?"
+5f5f77a02b0000507fa8b426,,102858,question,responseOption1,31597,form,Yes
+5f5f77a02b0000507fa8b426,,102858,question,responseOption2,31597,form,No
+5f5f780a2b0000507fa8b428,,102859,question,questionText,31597,form,"If yes, please select the applicable option from the list below:"
+5f5f780a2b0000507fa8b428,,102859,question,responseOption1,31597,form,Sheltered workshop
+5f5f780a2b0000507fa8b428,,102859,question,responseOption2,31597,form,Social Enterprise
+5f5f79672c000078e8c1f02d,,102860,question,description,31597,form,"If none or not applicable, enter ""0."""
+5f5f79672c000078e8c1f02d,,102860,question,questionText,31597,form,What is the corresponding percentage of disabled workers?
+5f5f7ab32b0000507fa8b42b,,102861,question,description,31597,form,"If none or not applicable, enter ""0."""
+5f5f7ab32b0000507fa8b42b,,102861,question,questionText,31597,form,What is the corresponding percentage of disadvantaged workers?
+5f5f7bf42c000078e8c1f030,,102862,question,questionText,31597,form,Please specify which category or categories of disabled or disadvantaged workers the employees concerned belong to.
+5f5f7bf42c000078e8c1f030,,102862,question,responseOption1,31597,form,Disabled workers
+5f5f7bf42c000078e8c1f030,,102862,question,responseOption2,31597,form,Disadvantaged workers
+5f5f7bf42c000078e8c1f030,,102862,question,responseOption3,31597,form,Not Applicable
+5f5f7c682c00005966629717,,102863,question,questionText,31597,form,"Is your organisation registered on an official list of approved economic operators or does it have an equivalent certificate (e.g., under a national (pre)qualification system)?"
+5f5f7c682c00005966629717,,102863,question,responseOption1,31597,form,Yes
+5f5f7c682c00005966629717,,102863,question,responseOption2,31597,form,No
+5f5f7c682c00005966629717,,102863,question,responseOption3,31597,form,N/A
+5f5f7cec2b0000507fa8b42f,,102864,question,questionText,31597,form,Please provide the name of the list for certificate and the relevant registration or certification number.
+5f5f7de62c000078e8c1f033,,102865,question,description,31597,form,"If an electronic version is available we will ask for information to locate.  If an electronic version is unavailable, you will be asked to upload a copy of the certificate."
+5f5f7de62c000078e8c1f033,,102865,question,questionText,31597,form,Is the certificate of registration or certification available electronically?
+5f5f7de62c000078e8c1f033,,102865,question,responseOption1,31597,form,Yes
+5f5f7de62c000078e8c1f033,,102865,question,responseOption2,31597,form,No
+5f5f80062c00007792863093,,102866,question,questionText,31597,form,Web address of the issuing authority:
+5f5f80552c00007792863094,,102867,question,questionText,31597,form,Name of the issuing authority or body:
+5f5f806d2c00007792863095,,102868,question,questionText,31597,form,Precise reference of the documentation:
+5f5f82a72c000078e8c1f11c,,102869,question,description,31597,form,Please upload a copy if an electronic version is unavailable.
+5f5f82a72c000078e8c1f11c,,102869,question,questionText,31597,form,Copy of certificate of registration or certification:
+5f5f89772c00005966629906,,102870,question,questionText,31597,form,"Please state the references on which the registration or certification is based, and, where applicable, the classification obtained in the official list."
+5f5f89a32c00005966629907,,102871,question,questionText,31597,form,Please confirm which sections of PAS 91 your registration or certificate covers:
+5f5f89a32c00005966629907,,102871,question,responseOption1,31597,form,Table 2: Financial
+5f5f89a32c00005966629907,,102871,question,responseOption2,31597,form,Table 3: Professional Standing
+5f5f89a32c00005966629907,,102871,question,responseOption3,31597,form,Table 4: Health and Safety
+5f5f89a32c00005966629907,,102871,question,responseOption4,31597,form,Table 5: Environmental
+5f5f89a32c00005966629907,,102871,question,responseOption5,31597,form,Table 6: Quality
+5f5f89a32c00005966629907,,102871,question,responseOption6,31597,form,Table 7: Equality
+5f5f89a32c00005966629907,,102871,question,responseOption7,31597,form,Table 8: Building Information Modelling (BIM)
+5f5f8ba12c0000779286309d,,102872,question,questionText,31597,form,Will your organisation be able to provide a certificate with regard to the payment of social security contributions and taxes or provide information enabling the contracting authority or contracting entity to obtain it directly by accessing a national database in any Member State that is available free of charge?
+5f5f8ba12c0000779286309d,,102872,question,responseOption1,31597,form,Yes
+5f5f8ba12c0000779286309d,,102872,question,responseOption2,31597,form,No
+5f5f8bbc2c0000779286309e,,102873,question,questionText,31597,form,"If the certificate of registration or certification is available electronically, please state:<br></br><i>The web address of the contracting authority or contracting entity:</i>"
+5f5f98b92c000078e8c1f12f,,102874,question,questionText,31597,form,<i>Name of the issuing authority or body:</i>
+5f5f98d12c000078e8c1f130,,102875,question,questionText,31597,form,<i>Precise reference of the documentation:</i>
+5f5f996e2c000077928630a9,,102876,question,questionText,31597,form,Are you participating in the procurement procedure together with others?
+5f5f996e2c000077928630a9,,102876,question,responseOption1,31597,form,Yes
+5f5f996e2c000077928630a9,,102876,question,responseOption2,31597,form,No
+5f5f996e2c000077928630a9,,102876,question,responseOption3,31597,form,N/A
+5f5f99b12c000077928630aa,,102877,question,questionText,31597,form,Please select your organisation's role from the list below:
+5f5f99b12c000077928630aa,,102877,question,responseOption1,31597,form,Sole supplier / Lead entity
+5f5f99b12c000077928630aa,,102877,question,responseOption2,31597,form,Group member
+5f5f99b12c000077928630aa,,102877,question,responseOption3,31597,form,Other entity (relied upon)
+5f5f99b12c000077928630aa,,102877,question,responseOption4,31597,form,Other entity (not relied upon)
+5f64b6a82c000078e849b0a9,,103052,question,questionText,31597,form,"To enable the collation of the group’s responses, please identify the other organisations participating in the procurement procedure.  Where applicable, indicate the name of the group."
+5f64b6cf2900000237c63290,,103053,question,questionText,31597,form,"Where applicable, please indicate the lot(s) for which you wish to tender."
+5f64b7992900000237c63292,,103054,question,questionText,31597,form,What is your company e-mail address?
+5f64b7cf2d00007e78de8dc4,,103055,question,questionText,31597,form,Is your company trading address different than the address mentioned the company contact address listed above?
+5f64b7cf2d00007e78de8dc4,,103055,question,responseOption1,31597,form,Yes
+5f64b7cf2d00007e78de8dc4,,103055,question,responseOption2,31597,form,No
+5f64b8bf2900000237c63295,,103056,question,questionText,31597,form,"Please provide your company trading address, if different from your registered office address, and the addresses of any branch offices (if applicable).\n\nFor each entity provide:<br></br>\n<li>Name\n<li>Address\n<li>Town\n<li>Country\n<li>Postcode"
+5f64baca2900000237c63297,,103057,question,questionText,31597,form,What is your company trading name?
+5f64badc2900000237c63299,,103058,question,questionText,31597,form,Do you have a unique tax reference (UTR)?
+5f64badc2900000237c63299,,103058,question,responseOption1,31597,form,Yes
+5f64badc2900000237c63299,,103058,question,responseOption2,31597,form,No
+5f64bb0c2c0000343f9b696a,,103059,question,questionText,31597,form,Please enter your unique tax reference (UTR):
+5f64bb222c000078e849b0ae,,103060,question,questionText,31597,form,What date did your business become incorporated?
+5f64bc752900000237c6329d,,103061,question,questionText,31597,form,What is your geographical area of operation?
+5f64bc752900000237c6329d,,103061,question,responseOption1,31597,form,London
+5f64bc752900000237c6329d,,103061,question,responseOption10,31597,form,South West
+5f64bc752900000237c6329d,,103061,question,responseOption11,31597,form,South East
+5f64bc752900000237c6329d,,103061,question,responseOption2,31597,form,Scotland
+5f64bc752900000237c6329d,,103061,question,responseOption3,31597,form,Northern Ireland
+5f64bc752900000237c6329d,,103061,question,responseOption4,31597,form,North West
+5f64bc752900000237c6329d,,103061,question,responseOption5,31597,form,North East
+5f64bc752900000237c6329d,,103061,question,responseOption6,31597,form,Yorkshire & the Humber
+5f64bc752900000237c6329d,,103061,question,responseOption7,31597,form,Wales
+5f64bc752900000237c6329d,,103061,question,responseOption8,31597,form,West Midlands
+5f64bc752900000237c6329d,,103061,question,responseOption9,31597,form,East Midlands
+5f64bcbc2900000237c6329e,,103062,question,questionText,31597,form,"Are you registered, based and active in the UK, Channel Islands and/or Republic of Ireland?"
+5f64bcbc2900000237c6329e,,103062,question,responseOption1,31597,form,Yes
+5f64bcbc2900000237c6329e,,103062,question,responseOption2,31597,form,No
+5f64bceb2c0000343f9b696e,,103063,question,questionText,31597,form,What types of construction trades/work does your company undertake?
+5f64bd0d2c000078e849b0b2,,103064,question,questionText,31597,form,Do you have any associated or group companies?
+5f64bd0d2c000078e849b0b2,,103064,question,responseOption1,31597,form,Yes
+5f64bd0d2c000078e849b0b2,,103064,question,responseOption2,31597,form,No
+5f64bd0d2c000078e849b0b2,,103064,question,responseOption3,31597,form,N/A
+5f64bd1f2c000078e849b0b4,,103065,question,questionText,31597,form,Can you provide details of the proprietors?
+5f64bd1f2c000078e849b0b4,,103065,question,responseOption1,31597,form,Yes
+5f64bd1f2c000078e849b0b4,,103065,question,responseOption2,31597,form,No
+5f64bd242d00007e78de8dd2,,103066,question,questionText,31597,form,"If so, can you provide details of their legal ownership?"
+5f64be2a2c0000343f9b6974,,103067,question,questionText,31597,form,What is the proprietors' name?
+5f64be442c000078e849b0b6,,103068,question,questionText,31597,form,Can you provide details of the partners?
+5f64be442c000078e849b0b6,,103068,question,responseOption1,31597,form,Yes
+5f64be442c000078e849b0b6,,103068,question,responseOption2,31597,form,No
+5f64be962900000237c632a5,,103069,question,questionText,31597,form,What is the partners name?
+5f64beab2900000237c632a6,,103070,question,questionText,31597,form,Can you provide details of the directors?
+5f64beab2900000237c632a6,,103070,question,responseOption1,31597,form,Yes
+5f64beab2900000237c632a6,,103070,question,responseOption2,31597,form,No
+5f64c2512900000237c632aa,,103071,question,questionText,31597,form,What is the director's name?
+5f64c2712900000237c632ac,,103072,question,questionText,31597,form,Can you provide details of the company secretary?
+5f64c2712900000237c632ac,,103072,question,responseOption1,31597,form,Yes
+5f64c2712900000237c632ac,,103072,question,responseOption2,31597,form,No
+5f64c3212900000237c632af,,103073,question,questionText,31597,form,What is the company secretary name?
+5f64c34b2c0000343f9b697e,,103074,question,questionText,31597,form,Do you employ sub-contractors?
+5f64c34b2c0000343f9b697e,,103074,question,responseOption1,31597,form,Yes
+5f64c34b2c0000343f9b697e,,103074,question,responseOption2,31597,form,No
+5f64c3662c000078e849b0ba,,103075,question,questionText,31597,form,Are you a Principal Designer as defined under the Construction (Design and Management) Regulations 2015 (CDM)?
+5f64c3662c000078e849b0ba,,103075,question,responseOption1,31597,form,Yes
+5f64c3662c000078e849b0ba,,103075,question,responseOption2,31597,form,No
+5f64c3972c000078e849b0bc,,103076,question,questionText,31597,form,Are you a Designer as defined under the Construction (Design and Management) Regulations 2015?
+5f64c3972c000078e849b0bc,,103076,question,responseOption1,31597,form,Yes
+5f64c3972c000078e849b0bc,,103076,question,responseOption2,31597,form,No
+5f64c4222d00007e78de8dda,,103077,question,questionText,31597,form,Are you a Principal Contractor as defined under the Construction (Design and Management) Regulations 2015?
+5f64c4222d00007e78de8dda,,103077,question,responseOption1,31597,form,Yes
+5f64c4222d00007e78de8dda,,103077,question,responseOption2,31597,form,No
+5f64c43a2c0000343f9b6980,,103078,question,questionText,31597,form,Are you a Contractor as defined under the Construction (Design and Management) Regulations 2015?
+5f64c43a2c0000343f9b6980,,103078,question,responseOption1,31597,form,Yes
+5f64c43a2c0000343f9b6980,,103078,question,responseOption2,31597,form,No
+5f64c4602c0000343f9b6981,,103079,question,questionText,31597,form,Do you work on any projects with a BIM requirement?
+5f64c4602c0000343f9b6981,,103079,question,responseOption1,31597,form,Yes
+5f64c4602c0000343f9b6981,,103079,question,responseOption2,31597,form,No
+5f658e312c0000343f9cb016,,103111,question,questionText,31597,form,Please provide your principal banker's address:
+5f658e4e2c000078e84af55f,,103112,question,questionText,31597,form,Have you signed up to a code of conduct or standards on payment practices?
+5f658e4e2c000078e84af55f,,103112,question,responseOption1,31597,form,Yes
+5f658e4e2c000078e84af55f,,103112,question,responseOption2,31597,form,No
+5f658e742900000237c786fc,,103113,question,questionText,31597,form,"If yes, please confirm which code(s)/standard(s), which may include: <a href='http://www.promptpaymentcode.org.uk/' target='_BLANK'>Prompt Payment Code</a>"
+5f658f7b2c000078e84af61f,,103114,question,questionText,31597,form,Do you check the financial stability of sub-contractors?
+5f658f7b2c000078e84af61f,,103114,question,responseOption1,31597,form,Yes
+5f658f7b2c000078e84af61f,,103114,question,responseOption2,31597,form,No
+5f658fca2900000237c78811,,103115,question,description,31597,form,This information may be provided as part of a sub-contractor selection policy or through another document.
+5f658fca2900000237c78811,,103115,question,questionText,31597,form,"If yes, please provide details or a copy of your arrangements. "
+5f7a1e02290000b2a75e47e5,,103599,question,questionText,31597,form,Do you hold a valid BS EN ISO 9001 (or equivalent) issued by a UKAS or equivalent accredited certification body?
+5f7a1e02290000b2a75e47e5,,103599,question,responseOption1,31597,form,Yes
+5f7a1e02290000b2a75e47e5,,103599,question,responseOption2,31597,form,No
+5f7a1e532b000042b77275a5,,103600,question,questionText,31597,form,Please provide a copy of your BS EN ISO 9001 certificate (or equivalent).
+5f7a1e692b000042b77275a7,,103601,question,questionText,31597,form,Do you have a policy and organisation for quality management?
+5f7a1e692b000042b77275a7,,103601,question,responseOption1,31597,form,Yes
+5f7a1e692b000042b77275a7,,103601,question,responseOption2,31597,form,No
+5f7a1eb9290000483699eef7,,103602,question,description,31597,form,"The policy should set out the responsibilities for quality management throughout the organization. If you are a small micro-business, you may provide a statement rather than a policy."
+5f7a1eb9290000483699eef7,,103602,question,questionText,31597,form,Please provide a copy of your quality management policy authorised by the chief executive or equivalent that is regularly reviewed (within the last 12 months). 
+5f7a1f342d000042b719cc53,,103603,question,description,31597,form,"If you are a small micro-business, you may answer N/A."
+5f7a1f342d000042b719cc53,,103603,question,questionText,31597,form,"Do you have arrangements for ensuring that your quality management, including the quality of construction output and general performance, is effective in reducing/preventing incidents of sub-standard delivery?\n\n"
+5f7a1f342d000042b719cc53,,103603,question,responseOption1,31597,form,Yes
+5f7a1f342d000042b719cc53,,103603,question,responseOption2,31597,form,No
+5f7a1f342d000042b719cc53,,103603,question,responseOption3,31597,form,N/A
+5f7a1fca2d000042b719cc54,,103604,question,description,31597,form,"These should include the arrangements for quality management throughout the organisation. They should set out how the company will carry out its policy, with a clear indication of how the arrangements are communicated to employees/other workforce."
+5f7a1fca2d000042b719cc54,,103604,question,questionText,31597,form,Please provide evidence that your organisation keeps copies of documentation setting out quality management organisation and procedures that meet currently agreed good practice.\n\n
+5f7a20342d000042b719cc55,,103605,question,description,31597,form,"If you are a small micro-business, you may answer N/A."
+5f7a20342d000042b719cc55,,103605,question,questionText,31597,form,Do you have arrangements for providing your workforce with quality-related training and information appropriate to the type of work for which your organisation is likely to bid?\n\n
+5f7a20342d000042b719cc55,,103605,question,responseOption1,31597,form,Yes
+5f7a20342d000042b719cc55,,103605,question,responseOption2,31597,form,No
+5f7a20342d000042b719cc55,,103605,question,responseOption3,31597,form,N/A
+5f7a2053290000483699eef8,,103606,question,description,31597,form,These arrangements should include a program of training that will keep employees/other workforce up to\ndate with required knowledge about quality related issues
+5f7a2053290000483699eef8,,103606,question,questionText,31597,form,"Please provide evidence, such as training manuals or training records, which shows your organisation has in place and implements training arrangements to ensure that its employees/other workforce has sufficient skills and understanding to discharge their various responsibilities. including copies of job profiles; training manuals; and training records.\n\n"
+5f7a20ad290000483699eef9,,103607,question,description,31597,form,"If you are a small micro-business, you may answer N/A."
+5f7a20ad290000483699eef9,,103607,question,questionText,31597,form,"Do you have procedures for periodically reviewing, correcting and improving quality performance?\n"
+5f7a20ad290000483699eef9,,103607,question,responseOption1,31597,form,Yes
+5f7a20ad290000483699eef9,,103607,question,responseOption2,31597,form,No
+5f7a20ad290000483699eef9,,103607,question,responseOption3,31597,form,N/A
+5f7a20dd2d000042b719cc5b,,103608,question,description,31597,form,"Your organisation should be able to provide evidence of systematic, periodic review and improvement of quality in respect of construction output and general performance."
+5f7a20dd2d000042b719cc5b,,103608,question,questionText,31597,form,Please provide evidence that your organisation has a system for monitoring quality management procedures on an ongoing basis.\n
+5f7a21092d000042b719cc5d,,103609,question,description,31597,form,"If you are a small micro-business, you may answer N/A."
+5f7a21092d000042b719cc5d,,103609,question,questionText,31597,form,Do you have arrangements for ensuring that your own suppliers apply quality management measures that are appropriate to the work for which they are being engaged?\n\n
+5f7a21092d000042b719cc5d,,103609,question,responseOption1,31597,form,Yes
+5f7a21092d000042b719cc5d,,103609,question,responseOption2,31597,form,No
+5f7a21092d000042b719cc5d,,103609,question,responseOption3,31597,form,N/A
+5f7a212b290000483699eefb,,103610,question,description,31597,form,"Please note this question refers just to suppliers, not sub- contractors."
+5f7a212b290000483699eefb,,103610,question,questionText,31597,form,"Please provide evidence, such as such as criteria to be on an approved supply chain register, which shows that your organisation has arrangements for monitoring supplier’s quality management arrangements and ensuring that  quality performance appropriate for the work to be undertaken is delivered throughout the whole of your organisations supply chain.\n"
+5f7a21542d000042b719cc60,,103611,question,questionText,31597,form,Do you have anyone who is ultimately responsible for quality within your company?
+5f7a21542d000042b719cc60,,103611,question,responseOption1,31597,form,Yes
+5f7a21542d000042b719cc60,,103611,question,responseOption2,31597,form,No
+5f7a2167290000483699eefd,,103612,question,questionText,31597,form,"Please provide details of the quality contact, who should be a director of the company or equivalent."
+5f7a2185290000b2a75e47ef,,103613,question,questionText,31597,form,Can you demonstrate organisational compliance with the Construction Products Regulations (CE Marking)?
+5f7a2185290000b2a75e47ef,,103613,question,responseOption1,31597,form,Yes
+5f7a2185290000b2a75e47ef,,103613,question,responseOption2,31597,form,No
+5f7a21962b000042b77275ab,,103614,question,questionText,31597,form,"Please provide further information on how you comply with the Construction Products Regulations (CE Marking). You should explain how the company checks the presence of CE Marking and other necessary documents for suppliers inside and outside the EU, and that only products with appropriate CE Marking are used. If you have a written policy or procedure, please upload a copy of this."
+5f7a21b02d000042b719cc63,,103615,question,questionText,31597,form,Do you CE Mark your own products?
+5f7a21b02d000042b719cc63,,103615,question,responseOption1,31597,form,Yes
+5f7a21b02d000042b719cc63,,103615,question,responseOption2,31597,form,No
+5f7a21c62d000042b719cc64,,103616,question,description,31597,form,"Please note this question refers just to sub-contractors, not suppliers."
+5f7a21c62d000042b719cc64,,103616,question,questionText,31597,form,"Please provide further information on your processes for the selection and control of sub-contractors. If you have a written policy or procedure(s), please upload a copy of this.\n"
+5f7a2206290000b2a75e47f2,,103617,question,questionText,31597,form,Do you have a selection standard/criteria that your sub- contractors must meet?
+5f7a2206290000b2a75e47f2,,103617,question,responseOption1,31597,form,Yes
+5f7a2206290000b2a75e47f2,,103617,question,responseOption2,31597,form,No
+5f7a22202d000042b719cc65,,103618,question,description,31597,form,"Please note this question refers just to sub-contractors, not suppliers."
+5f7a22202d000042b719cc65,,103618,question,questionText,31597,form,"If yes, please upload copy of relevant document. This information may be provided as part of a sub-contractor selection policy or through another document.\n"
+5f7a22412b000042b77275b1,,103619,question,description,31597,form,"If you are a small micro-business, you may answer N/A."
+5f7a22412b000042b77275b1,,103619,question,questionText,31597,form,"Do you have risk management policies, procedures and systems?\n\n"
+5f7a22412b000042b77275b1,,103619,question,responseOption1,31597,form,Yes
+5f7a22412b000042b77275b1,,103619,question,responseOption2,31597,form,No
+5f7a22412b000042b77275b1,,103619,question,responseOption3,31597,form,N/A
+5f7a22852b000042b77275b3,,103620,question,description,31597,form,"The policy should confirm:\n-How the company identifies risks\n-How they manage and review risk processes\n-The responsibility for compiling and authorising risk/impact assessments\n-How the company ensures site issues and incorporated into relevant risk/impact assessments\n-How risk/impact assessments are communicated to staff\n-Clients and sub-contractors, that records of risk/impact assessment briefings are retained\n-Method statements refer to risk/impact assessments and that periodic reviews are undertaken"
+5f7a22852b000042b77275b3,,103620,question,questionText,31597,form,Please provide a copy of your risk management policy which details how you manage risks.\n\n
+5f7a2880290000483699ef03,,103621,question,questionText,31597,form,Please upload a copy of your Factory Production Control (FPC) Certificate.
+5f7a28e62d000042b719cc67,,103622,question,questionText,31597,form,Do you have processes in place for the selection and control of sub-contractors?
+5f7a28e62d000042b719cc67,,103622,question,responseOption1,31597,form,Yes
+5f7a28e62d000042b719cc67,,103622,question,responseOption2,31597,form,No
+5f7e2bb42900004836af8871,,103705,question,questionText,31597,form,Do you hold a valid BS EN ISO 14001 (or equivalent) issued by a UKAS or equivalent accredited certification body or a valid EMAS certificate?
+5f7e2bb42900004836af8871,,103705,question,responseOption1,31597,form,Yes
+5f7e2bb42900004836af8871,,103705,question,responseOption2,31597,form,No
+5f7e2bd0290000f854d401ed,,103706,question,questionText,31597,form,Please provide a copy of your BS EN ISO 14001 certificate (or equivalent) or EMAS certificate.
+5f7e2c0b290000f854d40257,,103707,question,description,31597,form,"Guidance can be found here:  <a href=""https://startups.co.uk/how-to- create-an-environmental-policy-statement/"" target=""_blank"">https://startups.co.uk/how-to- create-an-environmental-policy-statement/ </a>"
+5f7e2c0b290000f854d40257,,103707,question,questionText,31597,form,Do you have a documented policy and organisation for the management of construction-related environmental issues?
+5f7e2c0b290000f854d40257,,103707,question,responseOption1,31597,form,Yes
+5f7e2c0b290000f854d40257,,103707,question,responseOption2,31597,form,No
+5f7e2c80290000f854d402d7,,103708,question,description,31597,form,"\nThe policy should be relevant to the nature and scale of the activity and set out the responsibilities for environmental management throughout the organisation. If you are a small micro-business, you may provide a statement rather than a policy."
+5f7e2c80290000f854d402d7,,103708,question,questionText,31597,form,Please provide a copy of your environmental management policy authorised by the chief executive or equivalent that is regularly reviewed (within the last 12 months).\n
+5f7e2cb32a0000b2a7d7ff78,,103709,question,questionText,31597,form,Do you have documented arrangements for ensuring that your environmental management procedures are effective in reducing/preventing significant impacts on the environment?
+5f7e2cb32a0000b2a7d7ff78,,103709,question,responseOption1,31597,form,Yes
+5f7e2cb32a0000b2a7d7ff78,,103709,question,responseOption2,31597,form,No
+5f7e2d442b0000b2a7257965,,103710,question,questionText,31597,form,"Please provide evidence that your organisation’s environmental policy implementation plan provides information as to how the company aims to discharge relevant legal responsibilities and provides clear indication of how these arrangements are communicated to employees/other workforce, in relation to environmental matters including:\n\n<li>  Sustainable materials procurement e.g.  BES6001, FSC / PEFC\n<li>   Waste management\n<li>    Energy management\n<li>     Carbon reduction\n\nThis should also include the arrangements for responding to, monitoring and recording environmental incidents, emergencies and complaints. "
+5f7e2d6a290000f854d40425,,103711,question,questionText,31597,form,"Do you have arrangements for providing employees who will engage in construction, with training and information on construction-related environmental issues?"
+5f7e2d6a290000f854d40425,,103711,question,responseOption1,31597,form,Yes
+5f7e2d6a290000f854d40425,,103711,question,responseOption2,31597,form,No
+5f7e2d822900004836af8b69,,103712,question,description,31597,form,This should include a programme of refresher training that will keep employees/other workforce updated on relevant legal requirements and good environmental management practice.
+5f7e2d822900004836af8b69,,103712,question,questionText,31597,form,"Please provide evidence, such as such as training manuals or training records, which shows that your organisation has in place, and implements, training arrangements to ensure that its workforce has sufficient skills and understanding to carry out their various duties.\n\n"
+5f7e2e2f2900004836af8c59,,103713,question,questionText,31597,form,"Do you check, review and where necessary improve your environmental management performance?"
+5f7e2e2f2900004836af8c59,,103713,question,responseOption1,31597,form,Yes
+5f7e2e2f2900004836af8c59,,103713,question,responseOption2,31597,form,No
+5f7e2e3f2b0000b2a7257b28,,103714,question,questionText,31597,form,Please provide evidence that your organisation has a system for monitoring environmental management procedures on an ongoing basis and for updating them at periodic intervals.\n\nPerformance refers to checking your business's actual operating methods against what is laid out in your procedures.
+5f7e2e6e2900004836af8c94,,103715,question,questionText,31597,form,Do you have arrangements for ensuring that any suppliers you engage apply environmental protection measures that are appropriate to the activity for which they are being engaged?
+5f7e2e6e2900004836af8c94,,103715,question,responseOption1,31597,form,Yes
+5f7e2e6e2900004836af8c94,,103715,question,responseOption2,31597,form,No
+5f7e2e90290000f854d4055e,,103716,question,questionText,31597,form,"Please provide evidence, such as criteria to be on an approved supply chain register, that your organisation has procedures for monitoring supplier’s environmental management arrangements and ensuring that environmental performance appropriate for the activity to be undertaken is delivered throughout the whole of your organisations supply chain."
+5f7e2ea9290000f854d40583,,103717,question,questionText,31597,form,Do you have access to competent environmental advice on environmental issues?
+5f7e2ea9290000f854d40583,,103717,question,responseOption1,31597,form,Yes
+5f7e2ea9290000f854d40583,,103717,question,responseOption2,31597,form,No
+5f7e2ec92b0000b2a7257b9b,,103718,question,questionText,31597,form,"If yes, please provide details of source of advice (e.g. contact details, company name if applicable). The advice could be from an internal source, a trade association or external company."
+5f7e2ee02a0000b2a7d80321,,103719,question,questionText,31597,form,"Do you have a waste carrier, broker or dealers (England) licence or are a registered professional carrier and transporter of waste (Scotland)?"
+5f7e2ee02a0000b2a7d80321,,103719,question,responseOption1,31597,form,Yes
+5f7e2ee02a0000b2a7d80321,,103719,question,responseOption2,31597,form,No
+5f7e2ef6290000f854d405f3,,103720,question,questionText,31597,form,"If yes, please upload a copy of your waste carrier license."
+5f85dc852a0000fb4916849d,,103750,question,questionText,31597,form,"Has your company or any of its Directors and/or Executive Officers been the subject of criminal or civil court action (including for bankruptcy or insolvency) in respect of the business activities currently engaged in, for which the outcome was a judgement against you or them?"
+5f85dc852a0000fb4916849d,,103750,question,responseOption1,31597,form,Yes
+5f85dc852a0000fb4916849d,,103750,question,responseOption2,31597,form,No
+5f85dc952a0000fb491684a9,,103751,question,questionText,31597,form,"If yes, please provide information about the conviction including:\n<ln>\n<li>Details of the circumstances"
+5f85de56290000b06897ae62,,103752,question,questionText,31597,form,Whether the organisation has a remedial plan and what actions have been taken for remediation.
+5f85de662a0000fb4916868d,,103753,question,questionText,31597,form,"If your company or any of its Directors and/or Executive Officers are the subject of ongoing or pending criminal or civil court action (including for bankruptcy or insolvency) in respect of the business activities currently engaged in, have all claims been properly notified in accordance with relevant insurance policy requirements and been accepted by the insurers?"
+5f85de662a0000fb4916868d,,103753,question,responseOption1,31597,form,Yes
+5f85de662a0000fb4916868d,,103753,question,responseOption2,31597,form,No
+5f85dee1290000b06897ae71,,103754,question,questionText,31597,form,"If yes, please provide information about the conviction including:\n<ln>\n<li> Details of the circumstances"
+5f85df002a0000fb491686ce,,103755,question,questionText,31597,form,Whether the organisation has a remedial plan and what actions have been taken for remediation.
+5f85df1d290000cbe20f5021,,103756,question,questionText,31597,form,Has your company or any of its Directors and/or Executive Officers been in receipt of enforcement/remedial orders that are still unresolved (such as those in relation to the Environment Agency or Office of Rail Regulation enforcement) in the last three years?
+5f85df1d290000cbe20f5021,,103756,question,responseOption1,31597,form,Yes
+5f85df1d290000cbe20f5021,,103756,question,responseOption2,31597,form,No
+5f85df32260000b562ce28c2,,103757,question,questionText,31597,form,"If yes, please provide information about the conviction including:\n<ln>\n<li>  Details of the circumstances\n"
+5f85df542a0000fb491686f7,,103758,question,questionText,31597,form,Whether the organisation has a remedial plan and what actions have been taken for remediation.
+5f85e11f290000cbe20f5425,,103759,question,questionText,31597,form,Have you submitted a completed European Single Procurement Document (ESPD)?
+5f85e11f290000cbe20f5425,,103759,question,responseOption1,31597,form,Yes
+5f85e11f290000cbe20f5425,,103759,question,responseOption2,31597,form,No
+5f85e15d260000b562ce2a05,,103760,question,questionText,31597,form,"If yes, please upload a copy of your ESPD."
+5f85e2fb290000b06897b199,,103762,question,questionText,31597,form,"In respect of Regulations 57(1 and 2) of the Public Contracts Regulations 2015, the detailed grounds for mandatory exclusion of an organisation are set out on the following webpage, which should be referred to before completing the following sections.\n\n<a href=""https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/551130/List_of_Mandatory_and_Discretionary_Exclusions.pdf""target=blank>Public Contracts Regulations 2015</a>\n\nWithin the past five years, anywhere in the world, have you, your organisation or any person who has powers of representation, decision or control in the organisation been convicted of any of the offences within following questions and listed on the above referenced webpage."
+5f861f1e2a0000fb4918be0f,,103764,question,description,31597,form,"Participation offence as defined by section 45 of the Serious Crime Act 2015 or conspiracy within the meaning of:\n<li>  Section 1 or 1A of the Criminal Law Act 1977, or\n<li>  Article 9 or 9A of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 where that conspiracy relates to participation in a criminal organisation as defined in Article 2 of Council Framework Decision 2008/841/JHA on the fight against organised crime."
+5f861f1e2a0000fb4918be0f,,103764,question,questionText,31597,form,Participation in a criminal organisation.
+5f861f1e2a0000fb4918be0f,,103764,question,responseOption1,31597,form,Yes
+5f861f1e2a0000fb4918be0f,,103764,question,responseOption2,31597,form,No
+5f861f3a290000b06899bdeb,,103765,question,questionText,31597,form,Date of conviction and the jurisdiction
+5f861fba290000b06899cdd6,,103767,question,questionText,31597,form,Which of the grounds listed the conviction was for
+5f861fc6290000b06899cdd7,,103768,question,questionText,31597,form,The reasons for conviction
+5f861fcd290000b06899cdd9,,103769,question,questionText,31597,form,The identity of who has been convicted
+5f861fdc290000cbe211666c,,103770,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning - see Regulation 57(13 to 17) of the Public Contracts Regulations 2015).
+5f861fed2a0000fb4918e818,,103771,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f861fed2a0000fb4918e818,,103771,question,responseOption1,31597,form,Yes
+5f861fed2a0000fb4918e818,,103771,question,responseOption2,31597,form,No
+5f861fff2a0000fb4918e81a,,103772,question,questionText,31597,form,The web address
+5f862008290000cbe2116a78,,103773,question,questionText,31597,form,Issuing authority
+5f8620132a0000fb4918e81d,,103774,question,questionText,31597,form, Precise reference of the documents
+5f8620222a0000fb4918e826,,103775,question,description,31597,form,"Corruption  within  the  meaning  of  section  1(2)  of the Public  Bodies  Corrupt  Practices Act 1889 or section 1 of the Prevention of Corruption Act 1906; the common law offence of bribery; bribery  within  the  meaning  of sections  1,  2  or  6  of  the  Bribery  Act  2010,  or  section 113 of the Representation of the People Act 1983."
+5f8620222a0000fb4918e826,,103775,question,questionText,31597,form,Corruption
+5f8620222a0000fb4918e826,,103775,question,responseOption1,31597,form,Yes
+5f8620222a0000fb4918e826,,103775,question,responseOption2,31597,form,No
+5f8624c8260000b562d0b53a,,103776,question,questionText,31597,form,Date of conviction and the jurisdiction
+5f8624d5290000cbe2116ca7,,103777,question,questionText,31597,form,Which of the grounds listed the conviction was for
+5f8624dd290000b06899e4a7,,103778,question,questionText,31597,form,The reasons for conviction
+5f8624e8260000b562d0b53e,,103779,question,questionText,31597,form,The identity of who has been convicted
+5f8624f32a0000fb4918ec58,,103780,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning - see Regulation 57(13 to 17) of the Public Contracts Regulations 2015).
+5f8624ff260000b562d0b54d,,103781,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f8624ff260000b562d0b54d,,103781,question,responseOption1,31597,form,Yes
+5f8624ff260000b562d0b54d,,103781,question,responseOption2,31597,form,No
+5f86250d260000b562d0b557,,103782,question,questionText,31597,form,The web address
+5f862528290000b06899e4dd,,103783,question,questionText,31597,form, Issuing authority
+5f8625322a0000fb4918ec82,,103784,question,questionText,31597,form,Precise reference of the documents
+5f86253e290000cbe2116ccc,,103785,question,description,31597,form,"Any of the following offences, where the offence relates to fraud affecting the European Communities’ financial interests as defined by Article 1 of the convention on the protection of the financial interests of the European Communities:\n<li>The common law offence of cheating the Revenue\n<li>The common law offence of conspiracy to defraud, fraud or theft within the meaning of the Theft Act 1968\n<li> The Theft Act (Northern Ireland) 1969, the Theft Act 1978 or the Theft (Northern Ireland) Order 1978\n<li>Fraudulent trading within the meaning of section 458 of the Companies Act 1985, article 451 of the Companies (Northern Ireland) Order 1986 or section 993 of the Companies Act 2006\n<li> Fraudulent evasion within the meaning of section 170 of the Customs and Excise Management Act 1979 or section 72 of the Value Added Tax Act 1994; an offence in connection with taxation in the European Union within the meaning of section 71 of the Criminal Justice Act 1993\n<li>Destroying, defacing or concealing of documents or\nprocuring the execution of a valuable security within the meaning of section 20 of the Theft Act 1968 or section 19 of the Theft Act (Northern Ireland) 1969\n<li> Fraud within the meaning of section 2, 3 or 4 of the Fraud Act 2006\n<li> The possession of articles for use in frauds within the meaning of section 6 of the Fraud Act 2006, or the making, adapting, supplying or offering to supply articles for use in frauds within the meaning of section 7 of that Act"
+5f86253e290000cbe2116ccc,,103785,question,questionText,31597,form,Fraud
+5f86253e290000cbe2116ccc,,103785,question,responseOption1,31597,form,Yes
+5f86253e290000cbe2116ccc,,103785,question,responseOption2,31597,form,No
+5f862923290000cbe2116ec2,,103786,question,questionText,31597,form,Date of conviction and the jurisdiction
+5f862966290000cbe2116ec3,,103787,question,questionText,31597,form,Which of the grounds listed the conviction was for
+5f86296e290000cbe2116ec4,,103788,question,questionText,31597,form,The reasons for conviction
+5f8629782a0000fb4918eec2,,103789,question,questionText,31597,form,The identity of who has been convicted
+5f862980260000b562d0b754,,103790,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning - see Regulation 57(13 to 17) of the Public Contracts Regulations 2015).
+5f86298a2a0000fb4918eec5,,103791,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f86298a2a0000fb4918eec5,,103791,question,responseOption1,31597,form,Yes
+5f86298a2a0000fb4918eec5,,103791,question,responseOption2,31597,form,No
+5f8629d2290000cbe2116efa,,103792,question,questionText,31597,form,The web address
+5f8629da290000cbe2116f0e,,103793,question,questionText,31597,form, Issuing authority
+5f862a59290000b06899e760,,103794,question,questionText,31597,form,Precise reference of the documents
+5f862a77260000b562d0b794,,103795,question,description,31597,form,Any offence:\n<li>     Listed in section 41 of the Counter Terrorism Act 2008\n<li>     Listed in schedule 2 to that Act where the court has determined that there is a terrorist connection\n<li>    Under sections 44 to 46 of the Serious Crime Act 2007 which relates to an offence covered by the previous two points.
+5f862a77260000b562d0b794,,103795,question,questionText,31597,form,Terrorist offences or offences linked to terrorist activities.
+5f862a77260000b562d0b794,,103795,question,responseOption1,31597,form,Yes
+5f862a77260000b562d0b794,,103795,question,responseOption2,31597,form,No
+5f862d3e290000cbe211a1cd,,103796,question,questionText,31597,form,Date of conviction and the jurisdiction
+5f862d47290000b06899ff55,,103797,question,questionText,31597,form,Which of the grounds listed the conviction was for
+5f862d4e260000b562d10dcc,,103798,question,questionText,31597,form,The reasons for conviction
+5f862d53260000b562d10dce,,103799,question,questionText,31597,form,The identity of who has been convicted
+5f862d5a2a0000fb49192ba6,,103800,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning - see Regulation 57(13 to 17) of the Public Contracts Regulations 2015).
+5f862d63260000b562d10dda,,103801,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f862d63260000b562d10dda,,103801,question,responseOption1,31597,form,Yes
+5f862d63260000b562d10dda,,103801,question,responseOption2,31597,form,No
+5f862d71260000b562d10de7,,103802,question,questionText,31597,form,The web address
+5f862d7c2a0000fb49192bc7,,103803,question,questionText,31597,form, Issuing authority
+5f862d84290000cbe211a1f4,,103804,question,questionText,31597,form,Precise reference of the documents
+5f862d922a0000fb49192be7,,103805,question,description,31597,form,"Please answer yes or no.\nMoney laundering within the meaning of sections 340(11) and 415 of the Proceeds of Crime Act 2002 or an offence in\nconnection with the proceeds of criminal conduct within the meaning of section 93A, 93B or 93C of the Criminal Justice\n\nAct 1988 or article 45, 46 or 47 of the Proceeds of Crime (Northern Ireland) Order 1996."
+5f862d922a0000fb49192be7,,103805,question,questionText,31597,form,Money laundering or terrorist financing.
+5f862d922a0000fb49192be7,,103805,question,responseOption1,31597,form,Yes
+5f862d922a0000fb49192be7,,103805,question,responseOption2,31597,form,No
+5f862f08290000cbe211a32b,,103806,question,questionText,31597,form,Date of conviction and the jurisdiction
+5f862f23260000b562d10f0c,,103807,question,questionText,31597,form,Which of the grounds listed the conviction was for
+5f862f2f2a0000fb49192cea,,103808,question,questionText,31597,form,The reasons for conviction
+5f862f37290000b0689a0068,,103809,question,questionText,31597,form,The identity of who has been convicted
+5f8632ac260000b562d111cb,,103810,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning - see Regulation 57(13 to 17) of the Public Contracts Regulations 2015).
+5f8632b3260000b562d111d6,,103811,question,questionText,31597,form,Are the relevant documentation is available electronically please provide:
+5f8632b3260000b562d111d6,,103811,question,responseOption1,31597,form,Yes
+5f8632b3260000b562d111d6,,103811,question,responseOption2,31597,form,No
+5f8632c0290000cbe211a4ce,,103812,question,questionText,31597,form,The web address
+5f8632cb290000cbe211a4cf,,103813,question,questionText,31597,form, Issuing authority
+5f8632d6290000cbe211a4d1,,103814,question,questionText,31597,form, Precise reference of the documents
+5f877450290000b562a99ad7,,103816,question,description,31597,form,"Any of the following:\n<ln>\n<li>     An offence under section 4 of the Asylum and Immigration (Treatment of Claimants etc.) Act 2004\n<li>     An offence under section 59A of the Sexual Offences Act 2003\n<li>     An offence under section 71 of the Coroners and Justice Act 2009\n<li>      An offence in connection with the proceeds of drug trafficking within the meaning of section 49, 50 or 51 of the Drug Trafficking Act 1994\n<li>     An offence under section 2 or section 4 of the Modern Slavery Act 2015"
+5f877450290000b562a99ad7,,103816,question,questionText,31597,form,Child labour and other forms of trafficking human beings.
+5f877450290000b562a99ad7,,103816,question,responseOption1,31597,form,Yes
+5f877450290000b562a99ad7,,103816,question,responseOption2,31597,form,No
+5f87749d290000b562a99ad9,,103817,question,questionText,31597,form,Date of conviction and the jurisdiction
+5f8774b62b00005dcf2ab885,,103818,question,questionText,31597,form,Which of the grounds listed the conviction was for
+5f8774bc2a0000b068b19f4d,,103819,question,questionText,31597,form,The reasons for conviction
+5f8774c8290000b562a99adc,,103820,question,questionText,31597,form,The identity of who has been convicted
+5f8774d02a0000b06860fea2,,103821,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning - see Regulation 57(13 to 17) of the Public Contracts Regulations 2015).
+5f8774d92b00005dcf2ab888,,103822,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f8774d92b00005dcf2ab888,,103822,question,responseOption1,31597,form,Yes
+5f8774d92b00005dcf2ab888,,103822,question,responseOption2,31597,form,No
+5f8774ea2a0000b068b19f4f,,103823,question,questionText,31597,form,The web address
+5f8774f12a0000b068b19f50,,103824,question,questionText,31597,form,Issuing authority
+5f8774fe2a0000b068b19f51,,103825,question,questionText,31597,form,Precise reference of the documents
+5f87750c290000b562a99ade,,103826,question,description,31597,form,Guidance can be found here: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/551130/List_of_Mandatory_and_Discretionary_Exclusions.pdf
+5f87750c290000b562a99ade,,103826,question,questionText,31597,form,"Any other offence within the meaning of Article 57(1) of the Directive as defined by the law of any jurisdiction outside England, Wales or Northern Ireland."
+5f87750c290000b562a99ade,,103826,question,responseOption1,31597,form,Yes
+5f87750c290000b562a99ade,,103826,question,responseOption2,31597,form,No
+5f877532290000b562a99adf,,103827,question,questionText,31597,form,Date of conviction and the jurisdiction
+5f8775392a0000b06860fea5,,103828,question,questionText,31597,form,Which of the grounds listed the conviction was for
+5f8775482a0000b06860fea6,,103829,question,questionText,31597,form,The reasons for conviction
+5f87754f290000b562a99ae3,,103830,question,questionText,31597,form,The identity of who has been convicted
+5f8775572b00005dcf2ab891,,103831,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning - see Regulation 57(13 to 17) of the Public Contracts Regulations 2015).
+5f8775602a0000b06860fea8,,103832,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f8775602a0000b06860fea8,,103832,question,responseOption1,31597,form,Yes
+5f8775602a0000b06860fea8,,103832,question,responseOption2,31597,form,No
+5f87756b2b00005dcf2ab893,,103833,question,questionText,31597,form,The web address
+5f8775732a0000b068b19f57,,103834,question,questionText,31597,form,Issuing authority
+5f87757e2a0000b06860feaa,,103835,question,questionText,31597,form,Precise reference of the documents
+5f8775872a0000b068b19f59,,103836,question,description,31597,form,Guidance can be found here: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/551130/List_of_Mandatory_and_Discretionary_Exclusions.pdf
+5f8775872a0000b068b19f59,,103836,question,questionText,31597,form,"Any other offence within the meaning of Article 57(1) of the Directive created after 26 February 2015 in England, Wales or Northern Ireland."
+5f8775872a0000b068b19f59,,103836,question,responseOption1,31597,form,Yes
+5f8775872a0000b068b19f59,,103836,question,responseOption2,31597,form,No
+5f8775a9290000b562a99ae6,,103837,question,questionText,31597,form,Date of conviction and the jurisdiction
+5f8775b3290000b562a99ae7,,103838,question,questionText,31597,form,Which of the grounds listed the conviction was for
+5f8775be290000b562a99ae9,,103839,question,questionText,31597,form,The reasons for conviction
+5f8775c7290000b562a99aea,,103840,question,questionText,31597,form,The identity of who has been convicted
+5f8775d1290000b562a99aeb,,103841,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning - see Regulation 57(13 to 17) of the Public Contracts Regulations 2015).
+5f8775dd2b00005dcf2ab898,,103842,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f8775dd2b00005dcf2ab898,,103842,question,responseOption1,31597,form,Yes
+5f8775dd2b00005dcf2ab898,,103842,question,responseOption2,31597,form,No
+5f8775e82a0000b068b19f5e,,103843,question,questionText,31597,form,The web address
+5f8775f02a0000b06860feb1,,103844,question,questionText,31597,form,Issuing authority
+5f8775fb290000b562a99aed,,103845,question,questionText,31597,form,Precise reference of the documents
+5f87769f2a0000b06860feb2,,103846,question,description,31597,form,"In respect of Regulation 57(3) and (4) of the Public Contracts Regulations 2015, the detailed grounds for mandatory and discretionary exclusion of an organisation are set out on the webpage: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/551130/List_of_Mandatory_and_Discretionary_Exclusions.pdf "
+5f87769f2a0000b06860feb2,,103846,question,questionText,31597,form,"Has your organisation met all of its legal, HMRC (and other tax authority for non-UK jurisdictions) obligations relating to the payment of taxes or social security contributions, both in the UK and in the country in which the organisation is established (if outside the UK)?"
+5f87769f2a0000b06860feb2,,103846,question,responseOption1,31597,form,Yes
+5f87769f2a0000b06860feb2,,103846,question,responseOption2,31597,form,No
+5f8776d7290000b562a99aef,,103847,question,questionText,31597,form,"If No, was this through a judicial, HMRC (or other tax authority for non-UK jurisdictions) or administrative decision having final and binding effect? "
+5f8776d7290000b562a99aef,,103847,question,responseOption1,31597,form,Yes
+5f8776d7290000b562a99aef,,103847,question,responseOption2,31597,form,No
+5f8776ec290000b562a99af0,,103848,question,questionText,31597,form,"If No, please provide further information "
+5f8776fc2a0000b06860feb5,,103849,question,questionText,31597,form,Do  you believe there to be any overriding reasons for non-payment 
+5f8776fc2a0000b06860feb5,,103849,question,responseOption1,31597,form,Yes
+5f8776fc2a0000b06860feb5,,103849,question,responseOption2,31597,form,No
+5f87770d290000b562a99af2,,103850,question,questionText,31597,form,What is the country or state concerned? 
+5f8777172b00005dcf2ab89f,,103851,question,questionText,31597,form,The date of the conviction or decision (if applicable)
+5f8777292a0000b068b19f64,,103852,question,questionText,31597,form,"In case of a conviction, insofar as established directly therein, the length of the period of exclusion "
+5f8777332b00005dcf2ab8a0,,103853,question,questionText,31597,form,"Have you paid, or have entered into a binding arrangement with a view to paying, “the taxes or social security contributions due” including where applicable any interest accrued and/or fines."
+5f8777332b00005dcf2ab8a0,,103853,question,responseOption1,31597,form,Yes
+5f8777332b00005dcf2ab8a0,,103853,question,responseOption2,31597,form,No
+5f87774a2a0000b068b19f66,,103854,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f87774a2a0000b068b19f66,,103854,question,responseOption1,31597,form,Yes
+5f87774a2a0000b068b19f66,,103854,question,responseOption2,31597,form,No
+5f87775a2b00005dcf2ab8a2,,103855,question,questionText,31597,form,The web address
+5f87776e2b00005dcf2ab8a3,,103856,question,questionText,31597,form,Issuing authority
+5f87777b2a0000b068b19f69,,103857,question,questionText,31597,form,Precise reference of the documents
+5f877788290000b562a99af8,,103858,question,questionText,31597,form,Have any tax returns submitted on or after 1 October 2012 been found to be incorrect as a result of:
+5f8778402a0000b068b19f6b,,103859,question,description,31597,form,Guidance can be found here: https://www.gov.uk/government/publications/tax-avoidance-general-anti-abuse-rules
+5f8778402a0000b068b19f6b,,103859,question,questionText,31597,form,HMRC successfully challenging the potential supplier under the General Anti–Abuse Rule (GAAR) or the “Halifax” abuse principle.
+5f8778402a0000b068b19f6b,,103859,question,responseOption1,31597,form,Yes
+5f8778402a0000b068b19f6b,,103859,question,responseOption2,31597,form,No
+5f87785f2a0000b06860febb,,103860,question,questionText,31597,form,Do you believe there to be any overriding reasons for non-payment?
+5f87785f2a0000b06860febb,,103860,question,responseOption1,31597,form,Yes
+5f87785f2a0000b06860febb,,103860,question,responseOption2,31597,form,No
+5f8778b9290000b562a99afb,,103861,question,questionText,31597,form,What is the country or state concerned? 
+5f8778c52a0000b06860febf,,103862,question,questionText,31597,form,What is the amount concerned?
+5f8778d02b00005dcf2ab8a8,,103863,question,questionText,31597,form,A tax authority in a jurisdiction in which the potential\nsupplier is established successfully challenging it under any tax rules or legislation that have an effect equivalent or similar to the GAAR or “Halifax” abuse principle.
+5f8778d02b00005dcf2ab8a8,,103863,question,responseOption1,31597,form,Yes
+5f8778d02b00005dcf2ab8a8,,103863,question,responseOption2,31597,form,No
+5f8778e62a0000b06860fec1,,103864,question,questionText,31597,form,Do you believe there to be any overriding reasons for non-payment
+5f8778e62a0000b06860fec1,,103864,question,responseOption1,31597,form,Yes
+5f8778e62a0000b06860fec1,,103864,question,responseOption2,31597,form,No
+5f87792a290000b562a99afe,,103865,question,questionText,31597,form,What is the country or state concerned? 
+5f877953290000b562a99b01,,103866,question,questionText,31597,form,What is the amount concerned?
+5f87795a2a0000b06860fec3,,103867,question,questionText,31597,form,"A failure to notify, or failure of an avoidance scheme which the supplier is or was involved in, under the Disclosure of Tax Avoidance Scheme rules (DOTAS), VADR (Schedule 11A to the Value Added Tax Act 1994 (as amended by Schedule 1 to the Finance (no. 2) Act 2005) or any equivalent or similar regime in a jurisdiction in which the supplier is established."
+5f87795a2a0000b06860fec3,,103867,question,responseOption1,31597,form,Yes
+5f87795a2a0000b06860fec3,,103867,question,responseOption2,31597,form,No
+5f8779692a0000b068b19f6e,,103868,question,description,31597,form,Guidance can be found here: https://www.gov.uk/guidance/disclosure-of-tax-avoidance-schemes-overview
+5f8779692a0000b068b19f6e,,103868,question,questionText,31597,form,Do you believe there to be any overriding reasons for non-payment
+5f8779692a0000b068b19f6e,,103868,question,responseOption1,31597,form,Yes
+5f8779692a0000b068b19f6e,,103868,question,responseOption2,31597,form,No
+5f8779a32a0000b068b19f71,,103869,question,questionText,31597,form,What is the country or state concerned? 
+5f8779ae2a0000b068b19f72,,103870,question,questionText,31597,form,What is the amount concerned?
+5f877a652a0000b06860fec7,,103871,question,description,31597,form,"In respect of Regulation 57(8) of the Public Contracts Regulations 2015, the detailed grounds for discretionary\nexclusion of an organisation are set out on the webpage: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/551130/List_of_Mandatory_and_Discretionary_Exclusions.pdf"
+5f877a652a0000b06860fec7,,103871,question,questionText,31597,form,"Have you had a breach of obligations in the field of environment, social and/or labour law."
+5f877a652a0000b06860fec7,,103871,question,responseOption1,31597,form,Yes
+5f877a652a0000b06860fec7,,103871,question,responseOption2,31597,form,No
+5f877aaf2b00005dcf2ab8ae,,103872,question,questionText,31597,form,Please provide details of the circumstances:
+5f877ab8290000b562a99b04,,103873,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning – see Regulation 57 (13 to 17) of the Public Contracts Regulations 2015).
+5f877ac2290000b562a99b05,,103874,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f877ac2290000b562a99b05,,103874,question,responseOption1,31597,form,Yes
+5f877ac2290000b562a99b05,,103874,question,responseOption2,31597,form,No
+5f877ad02b00005dcf2ab8b0,,103875,question,questionText,31597,form,The web address
+5f877afe290000b562a99b07,,103876,question,questionText,31597,form,Issuing authority
+5f877b072a0000b06860fecb,,103877,question,questionText,31597,form,Precise reference of the documents
+5f877b0f2a0000b06860fecc,,103878,question,questionText,31597,form,Have you had a bankruptcy or insolvency?
+5f877b0f2a0000b06860fecc,,103878,question,responseOption1,31597,form,Yes
+5f877b0f2a0000b06860fecc,,103878,question,responseOption2,31597,form,No
+5f877b202a0000b06860fecd,,103879,question,questionText,31597,form,Please provide details of the circumstances:
+5f877b312a0000b06860fece,,103880,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning – see Regulation 57 (13 to 17) of the Public Contracts Regulations 2015).
+5f877b422b00005dcf2ab8b2,,103881,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f877b422b00005dcf2ab8b2,,103881,question,responseOption1,31597,form,Yes
+5f877b422b00005dcf2ab8b2,,103881,question,responseOption2,31597,form,No
+5f877b50290000b562a99b0c,,103882,question,questionText,31597,form,The web address
+5f877b5c290000b562a99b0d,,103883,question,questionText,31597,form, Issuing authority
+5f877b632a0000b06860fed1,,103884,question,questionText,31597,form,Precise reference of the documents
+5f877b712b00005dcf2ab8b6,,103885,question,questionText,31597,form,Have you ever been found guilty of grave professional misconduct?
+5f877b712b00005dcf2ab8b6,,103885,question,responseOption1,31597,form,Yes
+5f877b712b00005dcf2ab8b6,,103885,question,responseOption2,31597,form,No
+5f877b7d2b00005dcf2ab8b7,,103886,question,questionText,31597,form,Please provide details of the circumstances:
+5f877b872b00005dcf2ab8b8,,103887,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning – see Regulation 57 (13 to 17) of the Public Contracts Regulations 2015).
+5f877b902b00005dcf2ab8b9,,103888,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f877b902b00005dcf2ab8b9,,103888,question,responseOption1,31597,form,Yes
+5f877b902b00005dcf2ab8b9,,103888,question,responseOption2,31597,form,No
+5f877b9d2a0000b068b19f7f,,103889,question,questionText,31597,form,The web address
+5f877ba42b00005dcf2ab8bc,,103890,question,questionText,31597,form,Issuing authority
+5f877bac2a0000b068b19f80,,103891,question,questionText,31597,form,Precise reference of the documents
+5f877bb42a0000b06860fed9,,103892,question,questionText,31597,form,Distortion of competition
+5f877bb42a0000b06860fed9,,103892,question,responseOption1,31597,form,Yes
+5f877bb42a0000b06860fed9,,103892,question,responseOption2,31597,form,No
+5f877bc4290000b562a99b13,,103893,question,questionText,31597,form,Please provide details of the circumstances:
+5f877bcd290000b562a99b14,,103894,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning – see Regulation 57 (13 to 17) of the Public Contracts Regulations 2015).
+5f877bdb290000b562a99b15,,103895,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f877bdb290000b562a99b15,,103895,question,responseOption1,31597,form,Yes
+5f877bdb290000b562a99b15,,103895,question,responseOption2,31597,form,No
+5f877be72a0000b068b19f84,,103896,question,questionText,31597,form,The web address
+5f877bf12a0000b068b19f85,,103897,question,questionText,31597,form,Issuing authority
+5f877bfa2a0000b068b19f86,,103898,question,questionText,31597,form,Precise reference of the documents
+5f877c052a0000b068b19f87,,103899,question,questionText,31597,form,Aware of any conflict of interest
+5f877c052a0000b068b19f87,,103899,question,responseOption1,31597,form,Yes
+5f877c052a0000b068b19f87,,103899,question,responseOption2,31597,form,No
+5f877c102b00005dcf2ab8c2,,103900,question,questionText,31597,form,Please provide details of the circumstances:
+5f877c1c2a0000b068b19f8a,,103901,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning – see Regulation 57 (13 to 17) of the Public Contracts Regulations 2015).
+5f877c282b00005dcf2ab8c3,,103902,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f877c282b00005dcf2ab8c3,,103902,question,responseOption1,31597,form,Yes
+5f877c282b00005dcf2ab8c3,,103902,question,responseOption2,31597,form,No
+5f877c34290000b562a99b19,,103903,question,questionText,31597,form,The web address
+5f877c3f2b00005dcf2ab8c5,,103904,question,questionText,31597,form,Issuing authority
+5f877c482b00005dcf2ab8c7,,103905,question,questionText,31597,form,Precise reference of the documents
+5f877c542b00005dcf2ab8c8,,103906,question,questionText,31597,form,Have you been involved in the preparation of the procurement procedure?
+5f877c542b00005dcf2ab8c8,,103906,question,responseOption1,31597,form,Yes
+5f877c542b00005dcf2ab8c8,,103906,question,responseOption2,31597,form,No
+5f877c5f2a0000b06860fee3,,103907,question,questionText,31597,form,Please provide details of the circumstances:
+5f877c6d2a0000b06860fee4,,103908,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning – see Regulation 57 (13 to 17) of the Public Contracts Regulations 2015).
+5f877d3b2a0000b068b19f8e,,103909,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f877d3b2a0000b068b19f8e,,103909,question,responseOption1,31597,form,Yes
+5f877d3b2a0000b068b19f8e,,103909,question,responseOption2,31597,form,No
+5f877d49290000b562a99b20,,103910,question,questionText,31597,form,The web address
+5f877d4f2a0000b068b19f90,,103911,question,questionText,31597,form,Issuing authority
+5f877d572a0000b068b19f91,,103912,question,questionText,31597,form,Precise reference of the documents
+5f877d63290000b562a99b22,,103913,question,questionText,31597,form,"Performance deficiencies on a previous contract leading to early termination, damages or other sanctions."
+5f877d63290000b562a99b22,,103913,question,responseOption1,31597,form,Yes
+5f877d63290000b562a99b22,,103913,question,responseOption2,31597,form,No
+5f877d70290000b562a99b24,,103914,question,questionText,31597,form,Please provide details of the circumstances:
+5f877d7e2b00005dcf2ab8cd,,103915,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning – see Regulation 57 (13 to 17) of the Public Contracts Regulations 2015).
+5f877dbf2a0000b06860fee8,,103916,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f877dbf2a0000b06860fee8,,103916,question,responseOption1,31597,form,Yes
+5f877dbf2a0000b06860fee8,,103916,question,responseOption2,31597,form,No
+5f877dd1290000b562a99b27,,103917,question,questionText,31597,form,The web address
+5f877ddb290000b562a99b28,,103918,question,questionText,31597,form,Issuing authority
+5f877de42a0000b06860feed,,103919,question,questionText,31597,form, Precise reference of the documents
+5f877df12a0000b06860feee,,103920,question,questionText,31597,form,Misrepresentation and undue influence.  \nDo any of the statements in the following questions apply to your organisation?
+5f877df12a0000b06860feee,,103920,question,responseOption1,31597,form,Yes
+5f877df12a0000b06860feee,,103920,question,responseOption2,31597,form,No
+5f877e32290000b562a99b2a,,103921,question,questionText,31597,form,The organisation is guilty of serious misrepresentation in supplying the information required for the verification of the absence of grounds for exclusion or the fulfilment of the selection criteria.
+5f877e32290000b562a99b2a,,103921,question,responseOption1,31597,form,Yes
+5f877e32290000b562a99b2a,,103921,question,responseOption2,31597,form,No
+5f877e48290000b562a99b2c,,103922,question,questionText,31597,form,Please provide details of the circumstances:
+5f877e542b00005dcf2ab8d0,,103923,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning – see Regulation 57 (13 to 17) of the Public Contracts Regulations 2015).
+5f877e5e2b00005dcf2ab8d1,,103924,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f877e5e2b00005dcf2ab8d1,,103924,question,responseOption1,31597,form,Yes
+5f877e5e2b00005dcf2ab8d1,,103924,question,responseOption2,31597,form,No
+5f877e6c2a0000b06860fef3,,103925,question,questionText,31597,form,The web address
+5f877e752a0000b068b19f99,,103926,question,questionText,31597,form,Issuing authority
+5f877e7d2b00005dcf2ab8d3,,103927,question,questionText,31597,form,Precise reference of the documents
+5f877e862a0000b068b19f9a,,103928,question,questionText,31597,form,The organisation has withheld such information.
+5f877e862a0000b068b19f9a,,103928,question,responseOption1,31597,form,Yes
+5f877e862a0000b068b19f9a,,103928,question,responseOption2,31597,form,No
+5f877e972a0000b06860fef8,,103929,question,questionText,31597,form,Please provide details of the circumstances:
+5f877ec3290000b562a99b2f,,103930,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning – see Regulation 57 (13 to 17) of the Public Contracts Regulations 2015).
+5f877ee02a0000b068b19f9c,,103931,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f877ee02a0000b068b19f9c,,103931,question,responseOption1,31597,form,Yes
+5f877ee02a0000b068b19f9c,,103931,question,responseOption2,31597,form,No
+5f877eec2b00005dcf2ab8d8,,103932,question,questionText,31597,form,The web address
+5f877ef5290000b562a99b32,,103933,question,questionText,31597,form,Issuing authority
+5f877efe2a0000b068b19f9f,,103934,question,questionText,31597,form,Precise reference of the documents
+5f877f072a0000b068b19fa1,,103935,question,questionText,31597,form,The organisation is not able to submit supporting documents required under Regulation 59 of the Public Contracts Regulations 2015.
+5f877f072a0000b068b19fa1,,103935,question,responseOption1,31597,form,Yes
+5f877f072a0000b068b19fa1,,103935,question,responseOption2,31597,form,No
+5f877f15290000b562a99b34,,103936,question,questionText,31597,form,Please provide details of the circumstances:
+5f877f21290000b562a99b35,,103937,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning – see Regulation 57 (13 to 17) of the Public Contracts Regulations 2015).
+5f877f29290000b562a99b37,,103938,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f877f29290000b562a99b37,,103938,question,responseOption1,31597,form,Yes
+5f877f29290000b562a99b37,,103938,question,responseOption2,31597,form,No
+5f877f382a0000b06860fefe,,103939,question,questionText,31597,form,The web address
+5f877f3e290000b562a99b39,,103940,question,questionText,31597,form,Issuing authority
+5f877f492b00005dcf2ab8de,,103941,question,questionText,31597,form,Precise reference of the documents
+5f877f582a0000b06860feff,,103942,question,questionText,31597,form,The organisation has influenced the decision-making process of the contracting authority to obtain confidential information that may confer upon the organisation undue advantages in the procurement procedure.
+5f877f582a0000b06860feff,,103942,question,responseOption1,31597,form,Yes
+5f877f582a0000b06860feff,,103942,question,responseOption2,31597,form,No
+5f877f692a0000b06860ff00,,103943,question,questionText,31597,form,Please provide details of the circumstances:
+5f877f73290000b562a99b3b,,103944,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning – see Regulation 57 (13 to 17) of the Public Contracts Regulations 2015).
+5f877f7c2a0000b068b19fa7,,103945,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f877f7c2a0000b068b19fa7,,103945,question,responseOption1,31597,form,Yes
+5f877f7c2a0000b068b19fa7,,103945,question,responseOption2,31597,form,No
+5f877f8b290000b562a99b3d,,103946,question,questionText,31597,form,The web address
+5f877f932a0000b06860ff02,,103947,question,questionText,31597,form,Issuing authority
+5f877f9b2a0000b06860ff03,,103948,question,questionText,31597,form,Precise reference of the documents
+5f877fa42a0000b068b19faa,,103949,question,questionText,31597,form,"The organisation has negligently provided misleading information that may have a material influence on decisions concerning exclusion, selection or award."
+5f877fa42a0000b068b19faa,,103949,question,responseOption1,31597,form,Yes
+5f877fa42a0000b068b19faa,,103949,question,responseOption2,31597,form,No
+5f877faf2a0000b06860ff04,,103950,question,questionText,31597,form,Please provide details of the circumstances:
+5f877fbc2b00005dcf2ab8e7,,103951,question,questionText,31597,form,Explain what measures have been taken to demonstrate the reliability of the organisation despite the existence of a relevant ground for exclusion (Self-cleaning – see Regulation 57 (13 to 17) of the Public Contracts Regulations 2015).
+5f877fc42a0000b068b19fad,,103952,question,questionText,31597,form,Are the relevant documentation available electronically?
+5f877fc42a0000b068b19fad,,103952,question,responseOption1,31597,form,Yes
+5f877fc42a0000b068b19fad,,103952,question,responseOption2,31597,form,No
+5f877fd02b00005dcf2ab8e8,,103953,question,questionText,31597,form,The web address
+5f877fd72a0000b068b19fae,,103954,question,questionText,31597,form, Issuing authority
+5f877fe1290000b562a99b45,,103955,question,questionText,31597,form,Precise reference of the documents
+5f88a8f12a0000b068e607c9,,103956,question,questionText,31597,form,"Do any of the circumstances as set out in Part 4 Regulation 23(1) of the Defence and Security Public Contracts Regulations 2011 (SI 1848), including any amendments to the legislation identified, apply to you as the Applicant or to members of any Applicant Group?\n\n>*If your organisation or any Director or partner or any other person who has powers of representation, decision or control has been convicted of any of the offences in questions  <u>A to F and G to W</u>, please provide\ninformation.*\n\n>*Fraud, where the offence relates to fraud affecting the financial interests of the European Communities as defined by Article 1 of the Convention relating to the protection of the financial interests of the European Union, within the meaning of questions <u>G to W</u>*.\n\n(A) Conspiracy within the meaning of section 1 or section 1A of the Criminal Law Act 1977 or article 9 or 9A of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983, or in Scotland the Offence of Conspiracy, where that conspiracy relates to participation in a criminal organisation as defined in Article 2 of Council Framework Decision 2008/841/JHA."
+5f88a8f12a0000b068e607c9,,103956,question,responseOption1,31597,form,Yes
+5f88a8f12a0000b068e607c9,,103956,question,responseOption2,31597,form,No
+5f88a9a6290000b562f02731,,103957,question,questionText,31597,form,Please provide further information
+5f88a9b3290000b562f02732,,103958,question,questionText,31597,form,(B) Involvement in serious organised crime or directing serious organised crime within the meaning of section 28 or 30 of the Criminal Justice and Licensing (Scotland) Act 2010.
+5f88a9b3290000b562f02732,,103958,question,responseOption1,31597,form,Yes
+5f88a9b3290000b562f02732,,103958,question,responseOption2,31597,form,No
+5f88a9c82a0000b068e60835,,103959,question,questionText,31597,form,Please provide further information
+5f88a9d3280000fb4943129d,,103960,question,questionText,31597,form,(C) Corruption within the meaning of section 1 of the Public Bodies Corrupt Practices Act 1889 or section 1 of the\nPrevention of Corruption Act 1906.
+5f88a9d3280000fb4943129d,,103960,question,responseOption1,31597,form,Yes
+5f88a9d3280000fb4943129d,,103960,question,responseOption2,31597,form,No
+5f88a9e9280000fb4943129e,,103961,question,questionText,31597,form,Please provide further information
+5f88a9f7280000fb4943129f,,103962,question,questionText,31597,form,(D) The offence of bribery.
+5f88a9f7280000fb4943129f,,103962,question,responseOption1,31597,form,Yes
+5f88a9f7280000fb4943129f,,103962,question,responseOption2,31597,form,No
+5f88aa06290000b562f0273a,,103963,question,questionText,31597,form,Please provide further information
+5f88aa0f2a0000b068e60837,,103964,question,questionText,31597,form,"(E) Bribery within the meaning of section 1, 2 or 6 of the Bribery Act 2010."
+5f88aa0f2a0000b068e60837,,103964,question,responseOption1,31597,form,Yes
+5f88aa0f2a0000b068e60837,,103964,question,responseOption2,31597,form,No
+5f88aa1d290000b562f02764,,103965,question,questionText,31597,form,Please provide further information
+5f88aa25290000b562f02765,,103966,question,questionText,31597,form,(F) Bribery or corruption within the meaning of section 68 and 69 of the Criminal Justice (Scotland) Act 2003.
+5f88aa25290000b562f02765,,103966,question,responseOption1,31597,form,Yes
+5f88aa25290000b562f02765,,103966,question,responseOption2,31597,form,No
+5f88aa372900005dcf346479,,103967,question,questionText,31597,form,Please provide further information
+5f88aa3f290000b562f02767,,103968,question,questionText,31597,form,(G) The offence of cheating the Revenue.
+5f88aa3f290000b562f02767,,103968,question,responseOption1,31597,form,Yes
+5f88aa3f290000b562f02767,,103968,question,responseOption2,31597,form,No
+5f88aa8c280000fb494312e2,,103969,question,questionText,31597,form,Please provide further information
+5f88aa952900005dcf34647c,,103970,question,questionText,31597,form,(H) The offence of conspiracy to defraud.
+5f88aa952900005dcf34647c,,103970,question,responseOption1,31597,form,Yes
+5f88aa952900005dcf34647c,,103970,question,responseOption2,31597,form,No
+5f88aaa0280000fb494312e6,,103971,question,questionText,31597,form,Please provide further information
+5f88aaaa290000b562f02769,,103972,question,questionText,31597,form,"(I) Fraud or theft within the meaning of the Theft Act 1968, the Theft Act (Northern Ireland) 1969, the Theft Act 1978, or the Theft (Northern Ireland) Order 1978."
+5f88aaaa290000b562f02769,,103972,question,responseOption1,31597,form,Yes
+5f88aaaa290000b562f02769,,103972,question,responseOption2,31597,form,No
+5f88aab82900005dcf34647e,,103973,question,questionText,31597,form,Please provide further information
+5f88aabf2900005dcf346480,,103974,question,questionText,31597,form,"(J) Fraud within the meaning of section 2, 3 or 4 of the Fraud Act 2006."
+5f88aabf2900005dcf346480,,103974,question,responseOption1,31597,form,Yes
+5f88aabf2900005dcf346480,,103974,question,responseOption2,31597,form,No
+5f88aacb2a0000b068e60863,,103975,question,questionText,31597,form,Please provide further information
+5f88aad62a0000b068e60864,,103976,question,questionText,31597,form,"(K) In Scotland, the offence of fraud."
+5f88aad62a0000b068e60864,,103976,question,responseOption1,31597,form,Yes
+5f88aad62a0000b068e60864,,103976,question,responseOption2,31597,form,No
+5f88ab7d290000b562f02802,,103977,question,questionText,31597,form,Please provide further information
+5f88ab8a280000fb4943133a,,103978,question,questionText,31597,form,"(L) In Scotland, the offence of theft."
+5f88ab8a280000fb4943133a,,103978,question,responseOption1,31597,form,Yes
+5f88ab8a280000fb4943133a,,103978,question,responseOption2,31597,form,No
+5f88ab97280000fb4943133e,,103979,question,questionText,31597,form,Please provide further information
+5f88aba02a0000b068e608b3,,103980,question,questionText,31597,form,"(M) Fraudulent trading within the meaning of section 458 of the Companies Act 1985, article 451 of the Companies Act (Northern Ireland) Order 1986 or section 993 of the Companies Act 2006."
+5f88aba02a0000b068e608b3,,103980,question,responseOption1,31597,form,Yes
+5f88aba02a0000b068e608b3,,103980,question,responseOption2,31597,form,No
+5f88abac2a0000b068e608ba,,103981,question,questionText,31597,form,Please provide further information
+5f88abb92900005dcf3464a8,,103982,question,questionText,31597,form,(N) Fraudulent evasion within the meaning of section 170 of the Customs and Excise Management Act 1979 or section 72 of the Value Added Tax Act 1994.
+5f88abb92900005dcf3464a8,,103982,question,responseOption1,31597,form,Yes
+5f88abb92900005dcf3464a8,,103982,question,responseOption2,31597,form,No
+5f88abc6290000b562f02806,,103983,question,questionText,31597,form,Please provide further information
+5f88abcf2900005dcf3464aa,,103984,question,questionText,31597,form,(O) An offence in connection with taxation in the European Union within the meaning of section 71 of the Criminal Justice Act 1993.
+5f88abcf2900005dcf3464aa,,103984,question,responseOption1,31597,form,Yes
+5f88abcf2900005dcf3464aa,,103984,question,responseOption2,31597,form,No
+5f88abde2a0000b068e608cf,,103985,question,questionText,31597,form,Please provide further information
+5f88abe6280000fb49431350,,103986,question,questionText,31597,form,"(P) Destroying, defacing or concealing of documents or procuring the execution of a valuable security within the meaning of section 20 of the Theft Act 1968 or section 19 of the Theft Act (Northern Ireland) 1969 or making, adapting, supplying or offering to supply articles for use in frauds within the meaning of section 7 of the Fraud Act 2006."
+5f88abe6280000fb49431350,,103986,question,responseOption1,31597,form,Yes
+5f88abe6280000fb49431350,,103986,question,responseOption2,31597,form,No
+5f88abf6290000b562f0280a,,103987,question,questionText,31597,form,Please provide further information
+5f88ac002a0000b068e608e2,,103988,question,questionText,31597,form,"(Q) In Scotland, the offence of uttering."
+5f88ac002a0000b068e608e2,,103988,question,responseOption1,31597,form,Yes
+5f88ac002a0000b068e608e2,,103988,question,responseOption2,31597,form,No
+5f88ac46280000fb49431352,,103989,question,questionText,31597,form,Please provide further information
+5f88ac562a0000b068e608e7,,103990,question,questionText,31597,form,"(R) In Scotland, the criminal offence of attempting to pervert the course of justice."
+5f88ac562a0000b068e608e7,,103990,question,responseOption1,31597,form,Yes
+5f88ac562a0000b068e608e7,,103990,question,responseOption2,31597,form,No
+5f88ac672a0000b068e608e8,,103991,question,questionText,31597,form,Please provide further information
+5f88ac6e280000fb4943135c,,103992,question,questionText,31597,form,"(S) Money laundering within the meaning of section 93A, 93B, or 93C of the Criminal Justice Act 1988, section 45, 46 or 47 of the Proceeds of Crime (Northern Ireland) Order 1996 or the Money Laundering Regulations 2003 or money laundering or terrorist financing within the meaning of the Money Laundering Regulations 2007"
+5f88ac6e280000fb4943135c,,103992,question,responseOption1,31597,form,Yes
+5f88ac6e280000fb4943135c,,103992,question,responseOption2,31597,form,No
+5f88ac7d290000b562f0281d,,103993,question,questionText,31597,form,Please provide further information
+5f88ac832a0000b068e608eb,,103994,question,questionText,31597,form,"(T) Terrorist offences or offences linked to terrorist activities, as defined in Articles 1 and 3 of Framework Decision\n2002/475/JHA."
+5f88ac832a0000b068e608eb,,103994,question,responseOption1,31597,form,Yes
+5f88ac832a0000b068e608eb,,103994,question,responseOption2,31597,form,No
+5f88ac94290000b562f0281f,,103995,question,questionText,31597,form,Please provide further information
+5f88ac9e290000b562f02820,,103996,question,questionText,31597,form,"(U) An offence in connection with proceeds of drug trafficking within the meaning of section 49, 50 or 51 of the Drug\nTrafficking Act 1994."
+5f88ac9e290000b562f02820,,103996,question,responseOption1,31597,form,Yes
+5f88ac9e290000b562f02820,,103996,question,responseOption2,31597,form,No
+5f88acaf280000fb4943135f,,103997,question,questionText,31597,form,Please provide further information
+5f88acf72900005dcf346534,,103998,question,questionText,31597,form,"(V) In Scotland, the offence of incitement to commit any of the crimes described in Regulation 23(1)."
+5f88acf72900005dcf346534,,103998,question,responseOption1,31597,form,Yes
+5f88acf72900005dcf346534,,103998,question,responseOption2,31597,form,No
+5f88ad04280000fb4943138a,,103999,question,questionText,31597,form,Please provide further information
+5f88ad0c290000b562f02823,,104000,question,questionText,31597,form,(W) Any other offence within the meaning of Article 39(1) of the Defence and Security Procurement Directive 2009/81/EC as defined by the national law of any Member State.
+5f88ad0c290000b562f02823,,104000,question,responseOption1,31597,form,Yes
+5f88ad0c290000b562f02823,,104000,question,responseOption2,31597,form,No
+5f88ad242900005dcf346541,,104001,question,questionText,31597,form,Please provide further information
+5f88ad2d280000fb4943138b,,104002,question,questionText,31597,form,Is any of the following in questions true of your organisation?\n\nDo any of the circumstances as set out in Part 4 Regulation 23(4) of the Defence and Security Public Contracts Regulations 2011 (SI 1848) apply to the Applicant or to members of any Applicant Group?
+5f88ad2d280000fb4943138b,,104002,question,responseOption1,31597,form,Yes
+5f88ad2d280000fb4943138b,,104002,question,responseOption2,31597,form,No
+5f88adf0280000fb4943138c,,104003,question,questionText,31597,form,"Being an individual, is a person in respect of whom a debt relief order has been made or is bankrupt or has had a receiving order or administration order or bankruptcy restrictions order or debt relief restrictions order made against him or has made any composition or arrangement with or for the benefit of creditors or has made any conveyance or assignment for the benefit of creditors or appears unable to pay or to have no reasonable prospect of being able to pay, a debt within the meaning of Section 268 of the Insolvency Act 1986, or Article 242 of the Insolvency (Northern Ireland) Order 1989, or in Scotland has granted a trust deed for creditors or become otherwise apparently insolvent, or is the subject of a petition presented for sequestration of his estate, or is the subject of any similar procedure under the law of any other Member State."
+5f88adf0280000fb4943138c,,104003,question,responseOption1,31597,form,Yes
+5f88adf0280000fb4943138c,,104003,question,responseOption2,31597,form,No
+5f88ae0a2900005dcf34654e,,104004,question,questionText,31597,form,Please provide further information
+5f88ae122a0000b068e60943,,104005,question,questionText,31597,form,"Being a partnership constituted under Scots law, has granted a trust deed or become otherwise apparently insolvent, or is the subject of a petition presented for sequestration of its estate."
+5f88ae122a0000b068e60943,,104005,question,responseOption1,31597,form,Yes
+5f88ae122a0000b068e60943,,104005,question,responseOption2,31597,form,No
+5f88ae212900005dcf346559,,104006,question,questionText,31597,form,Please provide further information
+5f88ae282900005dcf346564,,104007,question,questionText,31597,form,"Being a company or any other entity within the meaning of section 255 of the Enterprise Act 2002 has passed a resolution or is the subject of an order by the court for the company’s winding up otherwise than for the purpose of bona fide reconstruction or amalgamation, or has had a receiver, manager or administrator on behalf of a creditor appointed in respect of the company’s business or any part of the company’s business or is the subject of similar procedures under the law of any other State?"
+5f88ae282900005dcf346564,,104007,question,responseOption1,31597,form,Yes
+5f88ae282900005dcf346564,,104007,question,responseOption2,31597,form,No
+5f88ae3a2a0000b068e60946,,104008,question,questionText,31597,form,Please provide further information
+5f88ae412a0000b068e60947,,104009,question,questionText,31597,form,"Has your organisation done any of the following:\n\nBeen convicted of a criminal offence relating to the conduct of its business or profession, including, for example, any infringements of any national or foreign law on protecting security of information or the export of defence or security goods."
+5f88ae412a0000b068e60947,,104009,question,responseOption1,31597,form,Yes
+5f88ae412a0000b068e60947,,104009,question,responseOption2,31597,form,No
+5f88ae872900005dcf3465c9,,104010,question,questionText,31597,form,Please provide further information
+5f88ae92290000b562f028e9,,104011,question,questionText,31597,form,"Committed an act of grave misconduct in the course of its business or profession, including a breach of obligations regarding security of information or security of supply required by the contracting authority in accordance with Regulation 38 or 39 of the DSPCR during a previous contract."
+5f88ae92290000b562f028e9,,104011,question,responseOption1,31597,form,Yes
+5f88ae92290000b562f028e9,,104011,question,responseOption2,31597,form,No
+5f88aea02900005dcf3465eb,,104012,question,questionText,31597,form,Please provide further information
+5f88aead2900005dcf3465fc,,104013,question,questionText,31597,form,"Been told by a contracting authority, that the Potential Provider does not possess the reliability necessary to exclude risks to the security of the United Kingdom."
+5f88aead2900005dcf3465fc,,104013,question,responseOption1,31597,form,Yes
+5f88aead2900005dcf3465fc,,104013,question,responseOption2,31597,form,No
+5f88aebd2900005dcf34660d,,104014,question,questionText,31597,form,Please provide further information
+5f88aec42900005dcf34661a,,104015,question,questionText,31597,form,Failed to fulfil obligations relating to the payment of social security contributions under the law of any part of the United Kingdom or of the member State in which it is established.
+5f88aec42900005dcf34661a,,104015,question,responseOption1,31597,form,Yes
+5f88aec42900005dcf34661a,,104015,question,responseOption2,31597,form,No
+5f88aed12a0000b068e60954,,104016,question,questionText,31597,form,Please provide further information
+5f88aed92a0000b068e6095c,,104017,question,questionText,31597,form,Failed to fulfil obligations relating to the payment of taxes under the law of any part of the United Kingdom or of the Member State in which it is established.
+5f88aed92a0000b068e6095c,,104017,question,responseOption1,31597,form,Yes
+5f88aed92a0000b068e6095c,,104017,question,responseOption2,31597,form,No
+5f88aee42a0000b068e60965,,104018,question,questionText,31597,form,Please provide further information
+5f88aeed280000fb494313a8,,104019,question,questionText,31597,form,"#### Investigations\n\nHas your organisation, or its' Directors, or owners, been the subject of any investigation or are you aware of any circumstances which are likely to give rise to an investigation, proceeding, dispute or conviction of the type mentioned?"
+5f88aeed280000fb494313a8,,104019,question,responseOption1,31597,form,Yes
+5f88aeed280000fb494313a8,,104019,question,responseOption2,31597,form,No
+5f88af812a0000b068e609c7,,104020,question,questionText,31597,form,"Has your company or any of its Directors and/or Executive Officers been the subject of criminal or civil court action (including for bankruptcy or insolvency) in respect of the business activities currently engaged in, for which the outcome was a judgement against you or them?"
+5f88af812a0000b068e609c7,,104020,question,responseOption1,31597,form,Yes
+5f88af812a0000b068e609c7,,104020,question,responseOption2,31597,form,No
+5f88af8f2900005dcf3466d0,,104021,question,questionText,31597,form,"If your company or any of its Directors and/or Executive Officers are the subject of ongoing or pending criminal or civil court action (including for bankruptcy or insolvency) in respect of the business activities currently engaged in, have all claims been properly notified in accordance with relevant Insurance policy requirements and been accepted by the insurers?"
+5f88af8f2900005dcf3466d0,,104021,question,responseOption1,31597,form,Yes
+5f88af8f2900005dcf3466d0,,104021,question,responseOption2,31597,form,No
+5f88af9c290000b562f029dd,,104022,question,questionText,31597,form,"Has your company or any of its Directors and/or Executive Officers been in receipt of enforcement/remedial orders that are still unresolved (such as those in relation to Environment Agency or Office of Rail Regulation enforcement), in the last three years?"
+5f88af9c290000b562f029dd,,104022,question,responseOption1,31597,form,Yes
+5f88af9c290000b562f029dd,,104022,question,responseOption2,31597,form,No
+5f88afa92a0000b068e609c9,,104023,question,questionText,31597,form,Has your organisation or any of its Directors or owners been the subject of debarment or professional suspension?
+5f88afa92a0000b068e609c9,,104023,question,responseOption1,31597,form,Yes
+5f88afa92a0000b068e609c9,,104023,question,responseOption2,31597,form,No
+5f88afb52900005dcf3466da,,104024,question,questionText,31597,form,Please provide a statement of reason why and remediation plan.
+5f88afc3280000fb49431443,,104025,question,description,31597,form,Guidance can be found here: https://www.gov.uk/government/publications/blacklisting-of-trade-unionists-guidance 
+5f88afc3280000fb49431443,,104025,question,questionText,31597,form,Has your organisation ever been found to be in breach of the Employment Relations Act 1999 (Blacklists) Regulations 2010?
+5f88afc3280000fb49431443,,104025,question,responseOption1,31597,form,Yes
+5f88afc3280000fb49431443,,104025,question,responseOption2,31597,form,No
+5f88b00a280000fb49431450,,104026,question,description,31597,form,Guidance can be found here: https://www.gov.uk/government/publications/blacklisting-of-trade-unionists-guidance
+5f88b00a280000fb49431450,,104026,question,questionText,31597,form,Is your organisation the subject of ongoing or pending court action in relation to the Employment Relations Act 1999 (Blacklists) Regulations 2010?
+5f88b00a280000fb49431450,,104026,question,responseOption1,31597,form,Yes
+5f88b00a280000fb49431450,,104026,question,responseOption2,31597,form,No
+5f88b026290000b562f02a2a,,104027,question,description,31597,form,Guidance can be found here: https://www.gov.uk/government/publications/bribery-act-2010-guidance
+5f88b026290000b562f02a2a,,104027,question,questionText,31597,form,"Is any government entity, Public Official or Relevant Person a Principal of your organisation or do they exert any control over your organisation?"
+5f88b026290000b562f02a2a,,104027,question,responseOption1,31597,form,Yes
+5f88b026290000b562f02a2a,,104027,question,responseOption2,31597,form,No
+5f88b0442a0000b068e609d9,,104028,question,description,31597,form,Guidance can be found here: https://www.gov.uk/government/publications/bribery-act-2010-guidance
+5f88b0442a0000b068e609d9,,104028,question,questionText,31597,form,Does any Public Official or Relevant Person stand to benefit in any way as a result of your organisation being awarded work?
+5f88b0442a0000b068e609d9,,104028,question,responseOption1,31597,form,Yes
+5f88b0442a0000b068e609d9,,104028,question,responseOption2,31597,form,No
+5f88b063280000fb49431484,,104029,question,description,31597,form,Guidance can be found here: https://www.gov.uk/government/publications/bribery-act-2010-guidance
+5f88b063280000fb49431484,,104029,question,questionText,31597,form,"Are you aware of any circumstances which are likely to give rise to an investigation, proceeding, dispute or conviction of the type mentioned?"
+5f88b063280000fb49431484,,104029,question,responseOption1,31597,form,Yes
+5f88b063280000fb49431484,,104029,question,responseOption2,31597,form,No
+5f88b0812900005dcf346730,,104030,question,questionText,31597,form,Please provide further information
+5f88b08e2a0000b068e609db,,104031,question,questionText,31597,form,Do you have an Anti-Bribery and Corruption policy?
+5f88b08e2a0000b068e609db,,104031,question,responseOption1,31597,form,Yes
+5f88b08e2a0000b068e609db,,104031,question,responseOption2,31597,form,No
+5f88b09e2900005dcf346741,,104032,question,questionText,31597,form,Please provide a copy of your anti-bribery and corruption policy authorised by the chief executive or equivalent that is regularly reviewed (within the last 36 months).
+5f88b0a82900005dcf346742,,104033,question,questionText,31597,form,Do you communicate your Anti-Bribery and Corruption policy to staff?
+5f88b0a82900005dcf346742,,104033,question,responseOption1,31597,form,Yes
+5f88b0a82900005dcf346742,,104033,question,responseOption2,31597,form,No
+5f88b0da280000fb49431499,,104034,question,questionText,31597,form,"Please provide evidence, such as staff inductions, staff documentation or training, of how you communicate\nyour policy/statement."
+5f88b0eb290000b562f02ab6,,104035,question,description,31597,form,Guidance can be found here: https://www.gov.uk/government/publications/corporate-offences-for-failing-to-prevent-criminal-facilitation-of-tax-evasion
+5f88b0eb290000b562f02ab6,,104035,question,questionText,31597,form,Does your organisation have adequate procedures in place in respect of the Corporate Criminal Offences of failing to prevent those acting on its behalf from the criminal facilitation of tax evasion under the Criminal Finance Act 2017?
+5f88b0eb290000b562f02ab6,,104035,question,responseOption1,31597,form,Yes
+5f88b0eb290000b562f02ab6,,104035,question,responseOption2,31597,form,No
+5f88b1082900005dcf34676e,,104036,question,questionText,31597,form,Please provide further information
+5f88b112280000fb4943149c,,104037,question,description,31597,form,Guidance can be found here:\n<li>  https://builduk.wpengine.com/wp-content/uploads/2017/02/Build-UK-Illegal-Workers-Guidance-Note-February-2017.pdf\n\n\n<li> https://www.gov.uk/government/publications/right-to-work-checklist
+5f88b112280000fb4943149c,,104037,question,questionText,31597,form,"Do you check that your workforce, including any supplied by external employment agencies or your supply chain, is legally entitled to work in the UK?"
+5f88b112280000fb4943149c,,104037,question,responseOption1,31597,form,Yes
+5f88b112280000fb4943149c,,104037,question,responseOption2,31597,form,No
+5f88b16b280000fb494314c9,,104038,question,questionText,31597,form,"Please provide information on how you check that your workforce, and any supplied, is legally entitled to work in the UK."
+5f88b1ee2900005dcf3467e4,,104039,question,questionText,31597,form,"If you have a written policy or procedure, please provide a copy."
+5f88b1fb2900005dcf3467e6,,104040,question,questionText,31597,form,Have any bodies made any allegations or complaints about the company infringing competition law which has led to an internal investigation within the last five years?
+5f88b1fb2900005dcf3467e6,,104040,question,responseOption1,31597,form,Yes
+5f88b1fb2900005dcf3467e6,,104040,question,responseOption2,31597,form,No
+5f88b209290000b562f02b6d,,104041,question,questionText,31597,form,Please provide details of any written allegations or\ncomplaints.
+5f88b215290000b562f02b82,,104042,question,description,31597,form,Guidance can be found here: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/415175/bis-15-200-whistleblowing-guidance-for-employers-and-code-of-practice.pdf
+5f88b215290000b562f02b82,,104042,question,questionText,31597,form,Do you have a whistleblowing policy?
+5f88b215290000b562f02b82,,104042,question,responseOption1,31597,form,Yes
+5f88b215290000b562f02b82,,104042,question,responseOption2,31597,form,No
+5f88b232280000fb494314cb,,104043,question,questionText,31597,form,Please provide a copy of your whistleblowing policy
+5f88b23d280000fb494314cd,,104044,question,questionText,31597,form,"If you are in-scope to CITB, please provide your CITB Registration Number."
+5f88b23d280000fb494314cd,,104044,question,responseOption1,31597,form,Yes
+5f88b23d280000fb494314cd,,104044,question,responseOption2,31597,form,No
+5f88b24d2a0000b068e60aed,,104045,question,questionText,31597,form,Please provide your CITB registration number.
+5f88b2572a0000b068e60aef,,104046,question,questionText,31597,form,Do you hold any Trade Association or professional body memberships?
+5f88b2572a0000b068e60aef,,104046,question,responseOption1,31597,form,Yes
+5f88b2572a0000b068e60aef,,104046,question,responseOption2,31597,form,No
+5f88b266280000fb494314ce,,104047,question,questionText,31597,form,"Please provide evidence of membership(s) such as membership number, certificate or link to Member Directory"
+5f88b29a280000fb494314cf,,104048,question,questionText,31597,form,Please upload
+5f88b2a9280000fb494314d1,,104049,question,questionText,31597,form,"Have you been suspended or expelled from any Trade Association, Professional Body or Trustmark in the last three years?"
+5f88b2a9280000fb494314d1,,104049,question,responseOption1,31597,form,Yes
+5f88b2a9280000fb494314d1,,104049,question,responseOption2,31597,form,No
+5f88b2b92a0000b068e60ba5,,104050,question,questionText,31597,form,Please provide statement of reason why and\nremediation plan.
+5f8e06dd2700009c38cf4f7f,,104061,question,description,31597,form,"Guidance can be found here:  <a href=""https://ico.org.uk/for-organisations/report-a-breach/ "" target=""_blank""> https://ico.org.uk/for-organisations/report-a-breach/</a>"
+5f8e06dd2700009c38cf4f7f,,104061,question,questionText,31597,form,Have you had any data protection law breaches in the last 5 years? 
+5f8e06dd2700009c38cf4f7f,,104061,question,responseOption1,31597,form,Yes
+5f8e06dd2700009c38cf4f7f,,104061,question,responseOption2,31597,form,No
+5f8e07612700009c38cf5353,,104062,question,questionText,31597,form,Please provide details and explain what remedial action you took 
+5f8e076f2a0000085b671126,,104063,question,description,31597,form,"Guidance can be found here:  <a href=""https://ico.org.uk/for-organisations/guide-to-data-protection/  "" target=""_blank""> https://ico.org.uk/for-organisations/guide-to-data-protection/ </a>"
+5f8e076f2a0000085b671126,,104063,question,questionText,31597,form,Do you have a Data Protection Policy and Privacy Notice in place?
+5f8e076f2a0000085b671126,,104063,question,responseOption1,31597,form,Yes
+5f8e076f2a0000085b671126,,104063,question,responseOption2,31597,form,No
+5f8e07a7280000e6e379ed91,,104064,question,questionText,31597,form,"Please provide copies of your data protection policy and privacy notice, which may be incorporated within your data protection policy signed by the chief executive or equivalent. \n\nThe policy should cover the company's programme to comply with GDPR; set out the responsibilities for handling sensitive material and data throughout the organisation; and the arrangements in place regarding IT data security.\n\nIf you are a small micro-business, you may provide a statement rather than a policy along with your privacy\nnotice."
+5f8e07be280000e6e379ee80,,104065,question,questionText,31597,form,"Have you documented the personal data you hold, where it came from and who you share it with, and do you maintain appropriate records and registers of your data processing\nactivities?"
+5f8e07be280000e6e379ee80,,104065,question,responseOption1,31597,form,Yes
+5f8e07be280000e6e379ee80,,104065,question,responseOption2,31597,form,No
+5f8e07d32700009c38cf56c4,,104066,question,questionText,31597,form,"Have you carried out a Data Protection Impact Assessment to establish what measures you need to take to comply with the General Data Protection Regulations and the Data Protection Act 2018, including measures to ensure compliance with EU Data Protection Laws for any personal data that is shared outside the European Economic Area?"
+5f8e07d32700009c38cf56c4,,104066,question,responseOption1,31597,form,Yes
+5f8e07d32700009c38cf56c4,,104066,question,responseOption2,31597,form,No
+5f8e07e2280000e6e379f206,,104067,question,questionText,31597,form,"Do you have procedures in place to ensure the rights of individuals, including how you handle subject access\nrequests and requests for deletion of personal data?"
+5f8e07e2280000e6e379f206,,104067,question,responseOption1,31597,form,Yes
+5f8e07e2280000e6e379f206,,104067,question,responseOption2,31597,form,No
+5f8e07f2280000e6e379f406,,104068,question,questionText,31597,form,Do you have a Data Protection Officer or someone\nresponsible for data protection?
+5f8e07f2280000e6e379f406,,104068,question,responseOption1,31597,form,Yes
+5f8e07f2280000e6e379f406,,104068,question,responseOption2,31597,form,No
+5f8e0803280000e6e379f40c,,104069,question,questionText,31597,form,Do you carry out data protection training for staff?
+5f8e0803280000e6e379f40c,,104069,question,responseOption1,31597,form,Yes
+5f8e0803280000e6e379f40c,,104069,question,responseOption2,31597,form,No
+5f8e08172b0000085b2171b9,,104070,question,questionText,31597,form,Do you ensure that sub-contractors and suppliers implement similar data protection procedures?
+5f8e08172b0000085b2171b9,,104070,question,responseOption1,31597,form,Yes
+5f8e08172b0000085b2171b9,,104070,question,responseOption2,31597,form,No
+5f90a91c2800003502f47d94,,104099,question,description,31597,form,"Guidance can be found here:  <a href=""https://www.gov.uk/guidance/equality-act-2010-guidance  "" target=""_blank""> https://www.gov.uk/guidance/equality-act-2010-guidance </a>"
+5f90a91c2800003502f47d94,,104099,question,questionText,31597,form,"As an employer, do you meet the requirements of the positive equality duties in relation to the Equalities Act 2010?"
+5f90a91c2800003502f47d94,,104099,question,responseOption1,31597,form,Yes
+5f90a91c2800003502f47d94,,104099,question,responseOption2,31597,form,No
+5f90a9c22b0000e6e35f8d2b,,104100,question,questionText,31597,form,Please upload a copy of your equality policy which should be authorised by the chief executive or equivalent and\nregularly reviewed (within the last 12 months).
+5f90a9dc2b0000e6e35f8d31,,104101,question,description,31597,form,"Guidance can be found here:\n<li><a href=""https://www.equalityhumanrights.com/en/advice-and-guidance/guidance-employers  "" target=""_blank""> https://www.equalityhumanrights.com/en/advice-and-guidance/guidance-employers </a>\n\n<li><a href=""https://www.equalityhumanrights.com/en/advice-and-guidance/equality-act-guidance  "" target=""_blank""> https://www.equalityhumanrights.com/en/advice-and-guidance/equality-act-guidance </a>\n"
+5f90a9dc2b0000e6e35f8d31,,104101,question,questionText,31597,form,"In respect of question 1,  do you have copies of relevant instructions or written statement/evidence of relevant actions."
+5f90a9dc2b0000e6e35f8d31,,104101,question,responseOption1,31597,form,Yes
+5f90a9dc2b0000e6e35f8d31,,104101,question,responseOption2,31597,form,No
+5f90aa752800003502f47f14,,104102,question,questionText,31597,form,Please provide evidence of any instructions you have given which ensure that you meet the requirements of the positive equality duties in relation to the Equalities Act 2010.
+5f90aa8d2800003502f47f23,,104103,question,description,31597,form,"Guidance can be found here:\n<li><a href=""https://www.equalityhumanrights.com/en/advice-and-guidance/guidance-employers  "" target=""_blank""> https://www.equalityhumanrights.com/en/advice-and-guidance/guidance-employers </a>\n<li><a href=""https://www.equalityhumanrights.com/en/advice-and-guidance/equality-act-guidance  "" target=""_blank""> https://www.equalityhumanrights.com/en/advice-and-guidance/equality-act-guidance </a>\n"
+5f90aa8d2800003502f47f23,,104103,question,questionText,31597,form,"In respect of question 1,  do you have copies of relevant guidance or written statement/evidence of relevant actions."
+5f90aa8d2800003502f47f23,,104103,question,responseOption1,31597,form,Yes
+5f90aa8d2800003502f47f23,,104103,question,responseOption2,31597,form,No
+5f90aae12b0000e6e35f8f62,,104104,question,questionText,31597,form,Please provide copies of any guidance you have produced which ensures that you meet the requirements of the positive equality duties in relation to the Equalities Act 2010.
+5f90aaeb2800003502f47f69,,104105,question,description,31597,form,"Guidance can be found here:\n<li><a href=""https://www.equalityhumanrights.com/en/advice-and-guidance/guidance-employers  "" target=""_blank""> https://www.equalityhumanrights.com/en/advice-and-guidance/guidance-employers </a>\n<li><a href=""https://www.equalityhumanrights.com/en/advice-and-guidance/equality-act-guidance  "" target=""_blank""> https://www.equalityhumanrights.com/en/advice-and-guidance/equality-act-guidance </a>\n"
+5f90aaeb2800003502f47f69,,104105,question,questionText,31597,form,"In respect of question 1,  do you have copies of relevant policies/literatrure or written statement/evidence of relevant actions."
+5f90aaeb2800003502f47f69,,104105,question,responseOption1,31597,form,Yes
+5f90aaeb2800003502f47f69,,104105,question,responseOption2,31597,form,No
+5f90ab352b0000e6e35f8f96,,104106,question,questionText,31597,form,"If yes, please provide copies of any polices/literature you have which ensure that you meet the requirements of the positive equality duties in relation to the Equalities Act 2010."
+5f90ab482b0000e6e35f8fa4,,104107,question,description,31597,form,"Guidance can be found here:\n<li><a href=""https://www.equalityhumanrights.com/en/advice-and-guidance/guidance-employers  "" target=""_blank""> https://www.equalityhumanrights.com/en/advice-and-guidance/guidance-employers </a>\n<li><a href=""https://www.equalityhumanrights.com/en/advice-and-guidance/equality-act-guidance  "" target=""_blank""> https://www.equalityhumanrights.com/en/advice-and-guidance/equality-act-guidance </a>"
+5f90ab482b0000e6e35f8fa4,,104107,question,questionText,31597,form,"In respect of question 1, can you evidence where you believe these policies have made a difference."
+5f90ab482b0000e6e35f8fa4,,104107,question,responseOption1,31597,form,Yes
+5f90ab482b0000e6e35f8fa4,,104107,question,responseOption2,31597,form,No
+5f90ab642800003502f47fd5,,104108,question,questionText,31597,form,Please provide evidence of where your actions have made a difference.
+5f90ab6f2b0000e6e35f8fcc,,104109,question,description,31597,form,"Guidance can be found: \n<li><a href=""https://www.gov.uk/guidance/equality-act-2010-guidance  "" target=""_blank""> https://www.gov.uk/guidance/equality-act-2010-guidance </a>\n<li><a href=""https://www.gov.uk/discrimination-your-rights  "" target=""_blank""> https://www.gov.uk/discrimination-your-rights </a>"
+5f90ab6f2b0000e6e35f8fcc,,104109,question,questionText,31597,form,"Is it your policy as an employer to comply with anti- discrimination legislation, and to treat all people fairly and equally so that no one group of people is treated less favourably than others?"
+5f90ab6f2b0000e6e35f8fcc,,104109,question,responseOption1,31597,form,Yes
+5f90ab6f2b0000e6e35f8fcc,,104109,question,responseOption2,31597,form,No
+5f90abc82800003502f4803a,,104110,question,questionText,31597,form,In the last three years has any finding of unlawful discrimination been made against your organisation by any court or industrial or employment tribunal or equivalent body?
+5f90abc82800003502f4803a,,104110,question,responseOption1,31597,form,Yes
+5f90abc82800003502f4803a,,104110,question,responseOption2,31597,form,No
+5f90abdd2b0000e6e35f901e,,104111,question,questionText,31597,form,Please provide details of the nature of the breach and\ndetails of any findings.
+5f90abeb2b0000e6e35f9039,,104112,question,questionText,31597,form,In the last three years has your organisation been subject to a compliance action by the Equality and Human Rights Commission or an equivalent body on grounds of alleged unlawful discrimination?
+5f90abeb2b0000e6e35f9039,,104112,question,responseOption1,31597,form,Yes
+5f90abeb2b0000e6e35f9039,,104112,question,responseOption2,31597,form,No
+5f90ac0c2b0000e6e35f9042,,104113,question,questionText,31597,form,Please provide details of the nature of the breach and\ndetails of any findings.
+5f90ac192b0000e6e35f9053,,104114,question,questionText,31597,form,"In the last three years has your organisation been found in breach of section 15 of the Immigration, Asylum and Nationality Act 2006?"
+5f90ac192b0000e6e35f9053,,104114,question,responseOption1,31597,form,Yes
+5f90ac192b0000e6e35f9053,,104114,question,responseOption2,31597,form,No
+5f90ac2a2b0000e6e35f9067,,104115,question,questionText,31597,form,Please provide details of the nature of the breach and\ndetails of any findings.
+5f90ac3c2b0000e6e35f9068,,104116,question,questionText,31597,form,In the last three years has your organisation been found to be in breach of the National Minimum Wage Act 1998?
+5f90ac3c2b0000e6e35f9068,,104116,question,responseOption1,31597,form,Yes
+5f90ac3c2b0000e6e35f9068,,104116,question,responseOption2,31597,form,No
+5f90ac492800003502f48182,,104117,question,questionText,31597,form,Please provide details of the nature of the breach and\ndetails of any findings.
+5f90ac592800003502f4818c,,104118,question,questionText,31597,form,In the last three years has your organisation been found to be in breach of the National Minimum Wage Act 1998?
+5f90ac592800003502f4818c,,104118,question,responseOption1,31597,form,Yes
+5f90ac592800003502f4818c,,104118,question,responseOption2,31597,form,No
+5f90ac7d2b0000e6e35f9093,,104119,question,questionText,31597,form,Please provide details of the nature of the breach and\ndetails of any findings.
+5f90ac9f2800003502f481c2,,104120,question,questionText,31597,form,"If the answer to any of questions above is yes, what steps did your organisation take as a result of that finding or investigation?"
+5f90acc72800003502f48222,,104121,question,questionText,31597,form,Does your organisation operate appropriate arrangements to ensure that equality and diversity is embedded within your organisation?
+5f90acc72800003502f48222,,104121,question,responseOption1,31597,form,Yes
+5f90acc72800003502f48222,,104121,question,responseOption2,31597,form,No
+5f90acd62600008def5cf977,,104122,question,questionText,31597,form,Please provide copies of relevant policies or written statement/evidence of relevant actions. \n\nThe information should confirm that arrangements are in place to ensure that equality and diversity are embedded within the company.\n\nThis information may be provided as part of an equality\npolicy or through other documentation such as a statement.
+5f90acf02600008def5cf9b2,,104123,question,questionText,31597,form,"Do you actively promote good practice in terms of eliminating discrimination in all forms through guidance to your employees/suppliers concerned with recruitment, training and promotion?"
+5f90acf02600008def5cf9b2,,104123,question,responseOption1,31597,form,Yes
+5f90acf02600008def5cf9b2,,104123,question,responseOption2,31597,form,No
+5f90ad062800003502f48246,,104124,question,questionText,31597,form,"Please provide copies of relevant guidance or written statement/evidence of relevant actions. The information should confirm that the company actively promotes good practice in terms of eliminating discrimination in all forms through guidance to employees/suppliers concerned with recruitment, training and promotion.\n\nThis information may be provided as part of an equality policy or through other documentation such as a statement,\ntraining records, training manuals or staff inductions."
+5f90ad212b0000e6e35f90d9,,104125,question,questionText,31597,form,"Do you actively promote good practice in terms of eliminating discrimination in all forms through making guidance or policy documents concerning how the organisation embeds equality and diversity available to employees/sub-contractors, recognised trade unions or other representative groups of employees?"
+5f90ad212b0000e6e35f90d9,,104125,question,responseOption1,31597,form,Yes
+5f90ad212b0000e6e35f90d9,,104125,question,responseOption2,31597,form,No
+5f90ad362800003502f482f9,,104126,question,questionText,31597,form,"Please provide copies of relevant guidance, policies  or written statement/evidence of relevant actions. \n\nThe information should confirm that the company actively embeds equality and diversity available to employees/sub- contractors, recognised trade unions or other representative groups of employees.\n\nThis information may be provided as part of an equality policy or through other documentation such as criteria to be on an approved supply chain register."
+5f90ad61290000085b618b8b,,104127,question,questionText,31597,form,Do you actively promote good practice in terms of eliminating discrimination in all forms through appropriate recruitment advertisements or other literature?
+5f90ad61290000085b618b8b,,104127,question,responseOption1,31597,form,Yes
+5f90ad61290000085b618b8b,,104127,question,responseOption2,31597,form,No
+5f90ad6f290000085b618b8c,,104128,question,questionText,31597,form,Please provide copies of any relevant advertisement or written statement/evidence of relevant actions. \n\nThe information should confirm that the company actively promotes good practice in terms of eliminating discrimination in all forms through appropriate recruitment\nadvertisements or other literature.
+5fa31f2f28000002fb1870c1,,104312,question,questionText,31597,form,Do you have a corporate social responsibility policy?
+5fa31f2f28000002fb1870c1,,104312,question,responseOption1,31597,form,Yes
+5fa31f2f28000002fb1870c1,,104312,question,responseOption2,31597,form,No
+5fa31f432a0000085b8f9742,,104313,question,questionText,31597,form,Please upload copies of relevant documents - this could be either a single corporate social responsibility policy or multiple codes of practice. \n\nThe documents could include examples of your company's approach to: compliance; protecting people and the environment; volunteering; learning; supporting the community; business ethics; treatment of workers etc.
+5fa31f552a0000085b8f9743,,104314,question,description,31597,form,"Guidance can be found here:  <a href=""https://www.gov.uk/government/publications/transparency-in-supply-chains-a-practical-guide  "" target=""_blank""> https://www.gov.uk/government/publications/transparency-in-supply-chains-a-practical-guide</a>\n\nIf your annual turnover is more than £36 million, you are legally required to have an anti-slavery and human trafficking statement and this question is mandatory."
+5fa31f552a0000085b8f9743,,104314,question,questionText,31597,form,Do you have an anti-slavery and human trafficking statement?
+5fa31f552a0000085b8f9743,,104314,question,responseOption1,31597,form,Yes
+5fa31f552a0000085b8f9743,,104314,question,responseOption2,31597,form,No
+5fa31f852c00009c3845390c,,104315,question,questionText,31597,form,Please provide a copy of your statement which must define the steps the organisation has taken during the financial year to ensure that slavery and human trafficking is not taking place in any of its supply chains and in any part of its own business.
+5fa31f972c00009c3845390d,,104316,question,questionText,31597,form,"Do you ensure that your supply chain is aware of, and\nabides by, Modern Slavery legislation?"
+5fa31f972c00009c3845390d,,104316,question,responseOption1,31597,form,Yes
+5fa31f972c00009c3845390d,,104316,question,responseOption2,31597,form,No
+5fa31fad2c00009c3845390e,,104317,question,questionText,31597,form,Please upload copies of relevant documents.
+5fa31fbd2c00009c3845390f,,104318,question,description,31597,form,"Guidance can be found here:  <a href=""https://www.gov.uk/national-minimum-wage-rates  "" target=""_blank""> https://www.gov.uk/national-minimum-wage-rates</a>"
+5fa31fbd2c00009c3845390f,,104318,question,questionText,31597,form,Please can you confirm that you pay your staff at least the legal minimum wage?
+5fa31fbd2c00009c3845390f,,104318,question,responseOption1,31597,form,Yes
+5fa31fbd2c00009c3845390f,,104318,question,responseOption2,31597,form,No
+5fa31fed2c00009c38453910,,104319,question,description,31597,form,"Guidance can be found here:  <a href=""https://www.gov.uk/workplace-bullying-and-harassment  "" target=""_blank""> https://www.gov.uk/workplace-bullying-and-harassment</a>"
+5fa31fed2c00009c38453910,,104319,question,questionText,31597,form,Do you manage the prevention of workplace bullying?
+5fa31fed2c00009c38453910,,104319,question,responseOption1,31597,form,Yes
+5fa31fed2c00009c38453910,,104319,question,responseOption2,31597,form,No
+5fa32031290000e6e36a3d11,,104320,question,questionText,31597,form,"Please provide details or a copy of your anti-bullying policy.\n\n>*If you are a small micro-business, you may provide a statement rather than a policy.*"
+5fa326972c00009c38453a66,,104321,question,questionText,31597,form,Do you hold a valid PAS 1192:2:2013 (or equivalent) issued by a UKAS or equivalent accredited certification body? 
+5fa326972c00009c38453a66,,104321,question,responseOption1,31597,form,Yes
+5fa326972c00009c38453a66,,104321,question,responseOption2,31597,form,No
+5fa326a72c00009c38453a67,,104322,question,questionText,31597,form,"Please provide a copy of your BS PAS 1192:2:2013 certificate, from a UKAS or equivalent accredited certification body, or equivalent certificate such as a BIM Level 2 accreditation. "
+5fa326b22c00009c38453a68,,104323,question,questionText,31597,form,Do you have the capability of working with a project using a “Common Data Environment” as described in PAS 1192:2:2013?
+5fa326b22c00009c38453a68,,104323,question,responseOption1,31597,form,Yes
+5fa326b22c00009c38453a68,,104323,question,responseOption2,31597,form,No
+5fa326c328000002fb1874f2,,104324,question,questionText,31597,form,"Please provide evidence that your organisation understands the concept of a “Common Data Environment” as described in PAS 1192-2:2013 (or equivalent) and is able to exchange information between supply chain members in an efficient and collaborative manner. If you have delivered a project in this way, you may use this to demonstrate your capability. Your explanation should be clear and concise. This evidence may be provided as part of a BIM process or through other documentation such as a list of relevant projects with case study material."
+5fa326ce290000e6e36a3e7c,,104325,question,questionText,31597,form,"Do you have a documented policy, systems and procedures to achieve “Level 2 BIM” maturity as defined in the government’s BIM Strategy?"
+5fa326ce290000e6e36a3e7c,,104325,question,responseOption1,31597,form,Yes
+5fa326ce290000e6e36a3e7c,,104325,question,responseOption2,31597,form,No
+5fa326db290000e6e36a3e7d,,104326,question,questionText,31597,form,"Guidance can be found here: <a href=""https://bim-level2.org/en/faqs/"" target=""_blank""> https://bim-level2.org/en/faqs/</a>\nPlease provide a copy of your BIM policy authorised by the chief executive or equivalent that is regularly reviewed (within the last 12 months). The policy should set out the systems and procedures to achieve “Level 2 BIM” maturity as defined in the government’s BIM Strategy."
+5fa3270628000002fb1874ff,,104327,question,questionText,31597,form,Do you have the capability of developing and delivering or working to a BIM Execution Plan (BEP) as described in PAS 1192:2:2013?
+5fa3270628000002fb1874ff,,104327,question,responseOption1,31597,form,Yes
+5fa3270628000002fb1874ff,,104327,question,responseOption2,31597,form,No
+5fa327122a0000085b8f9a20,,104328,question,questionText,31597,form,"Please provide evidence that your organisation understands the requirements of PAS 1192-2:2013, in particular with respect to BEP.\n\nThis will include how to create reliable information and exchange it between supply chain members in an efficient and collaborative manner, and where appropriate, to the client, in the form specified (e.g. in accordance with the COBie UK 2012 standard and other typical client’s information requirements). If you have delivered a project in this way, you may present an example BEP. You could also provide list of relevant projects with case study material."
+5fa32727290000e6e36a3e92,,104329,question,questionText,31597,form,Do you have arrangements for training employees in BIM related skills and do you assess their capabilities?
+5fa32727290000e6e36a3e92,,104329,question,responseOption1,31597,form,Yes
+5fa32727290000e6e36a3e92,,104329,question,responseOption2,31597,form,No
+5fa32733290000e6e36a3ea5,,104330,question,questionText,31597,form,"Please provide evidence that your organisation has in place training arrangements to ensure that its staff/workforce have sufficient skills and understanding to implement and deliver projects in accordance with the policy and procedures established to achieve “Level 2 BIM” maturity. \n\nCompleted Construction Project Information Exchange (CPIx) templates referred to in the Project Implementation Plan (PIP), part of the BEP defined in PAS 1192-2:2013 would be considered. \n\nIf this PQQ is for the first such project that you have considered undertaking, a training plan and evidence of how prior training outcomes in other areas have been assessed, would also be considered."
+5fa327412a0000085b8f9a21,,104331,question,questionText,31597,form,Do you develop or manage design information?
+5fa327412a0000085b8f9a21,,104331,question,responseOption1,31597,form,Yes
+5fa327412a0000085b8f9a21,,104331,question,responseOption2,31597,form,No
+5fa327532c00009c38453a9a,,104332,question,questionText,31597,form,"Please upload evidence that describes the type of design work you carry out: for example whether you act as a D&B Contractor, design consultant, or whether you are responsible for co-ordinating the designs of others, or whether you have only input as a specialist contractor into the designs of (limited parts of) the project and whether you have the facility for CAD. \n\nThe supporting evidence should include:\n<li>*Documented process for submission of designs (including revision status, change process etc.)*\n<li> *A process to engage with specialist consultants (e.g. acoustic/air tightness) to assist with the design*\n<li>*Ensuring that the proposed designs meet the specification and the design brief*\n<li>*If applicable, what controls does the company have in place to manage sublet work/design packages with organisations that are based overseas and that they are\nable to meet UK regulatory requirements.*"
+5fa327832a0000085b8fb57c,,104333,question,questionText,31597,form,How does your organisation control design information?
+5fa327832a0000085b8fb57c,,104333,question,responseOption1,31597,form,Yes
+5fa327832a0000085b8fb57c,,104333,question,responseOption2,31597,form,No
+5fa3279a2c00009c384561ab,,104334,question,questionText,31597,form,"Please provide a copy of your design information control process or supporting evidence of your arrangements in place.\n\nThis should include:\n<li>* A robust checking and validation procedure for all design information prior to issue*\n<li> *Methodology for managing the production, distribution and quality of construction information, including that generated by CAD/BIM systems*\n<li>  *Methodology for receiving/amending and returning information from/to the BIM execution plan, using a disciplined process for collaboration and a specified\nnaming policy.*"
+5fc720f42a00006f88f99d85,,104868,question,questionText,31597,form,Do you hold a valid Safety Schemes in Procurement [SSIP](https://ssip.org.uk/) scheme certificate; BS OHSAS 18001 (or equivalent) by a [UKAS](https://www.ukas.com/) or equivalent accredited certification body; or a certificate from an assessment provider able to demonstrate that its information gathering process is equivalent to that of PAS 91?
+5fc720f42a00006f88f99d85,,104868,question,responseOption1,31597,form,Yes
+5fc720f42a00006f88f99d85,,104868,question,responseOption2,31597,form,No
+5fc723bf2a0000124bcd2168,,104869,question,questionText,31597,form,"If yes, please confirm which certification you hold and whether it is for general health and safety (H&S) or specific to one of the CDM Dutyholder roles to reflect your organisation’s activity:"
+5fc723bf2a0000124bcd2168,,104869,question,responseOption1,31597,form,Principal Contractor
+5fc723bf2a0000124bcd2168,,104869,question,responseOption2,31597,form,Contractor
+5fc723bf2a0000124bcd2168,,104869,question,responseOption3,31597,form,Principal Designer
+5fc723bf2a0000124bcd2168,,104869,question,responseOption4,31597,form,Designer
+5fc7240b2a0000124bcd216b,,104870,question,questionText,31597,form,Have you within the last twelve months successfully completed a pre-qualification application undertaken by an assessment provider able to demonstrate that its information gathering process is equivalent to that of PAS?
+5fc7240b2a0000124bcd216b,,104870,question,responseOption1,31597,form,Yes
+5fc7240b2a0000124bcd216b,,104870,question,responseOption2,31597,form,No
+5fc724362a0000124bcd216e,,104871,question,questionText,31597,form,"If yes, please provide a copy of your certificate:"
+5fc7244c2a0000124bcd2170,,104872,question,questionText,31597,form,Have you within the last twelve months successfully met the assessment requirements of a construction-related scheme in registered membership of the SSIP Forum?
+5fc7244c2a0000124bcd2170,,104872,question,responseOption1,31597,form,Yes
+5fc7244c2a0000124bcd2170,,104872,question,responseOption2,31597,form,No
+5fc7247c2a0000124bcd2172,,104873,question,questionText,31597,form,Do you hold a certificate of compliance with BS OHSAS 18001 (or equivalent) issued by a Conformity Assessment Body accredited to provide conformity assessment services to that standard e.g. accredited by UKAS?
+5fc7247c2a0000124bcd2172,,104873,question,responseOption1,31597,form,Yes
+5fc7247c2a0000124bcd2172,,104873,question,responseOption2,31597,form,No
+5fc724b32a0000124bcd2174,,104874,question,questionText,31597,form,"If yes, please provide a copy of a BS OHSAS 18001\ncertificate or equivalent certificate such as ISO 45001."
+5fc724ec2a00006f88f9a20a,,104875,question,questionText,31597,form,Are you able to show that you have a general policy and an organisation which is responsible for ensuring effective H&S management?
+5fc724ec2a00006f88f9a20a,,104875,question,responseOption1,31597,form,Yes
+5fc724ec2a00006f88f9a20a,,104875,question,responseOption2,31597,form,No
+5fc7250d2a00006f88f9a212,,104876,question,description,31597,form,The policy should set out the responsibilities for H&S\nmanagement throughout the organisation.
+5fc7250d2a00006f88f9a212,,104876,question,questionText,31597,form,"If yes, please provide a copy of your health and safety policy authorised by the chief executive or equivalent that is regularly reviewed (within the last 12 months)."
+5fc7252c2a0000124bcd21a0,,104877,question,questionText,31597,form,"Are you able to show your arrangements for ensuring that your H&S measures are effective in reducing/preventing work-related incidents, occupational ill-health and\naccidents?"
+5fc7252c2a0000124bcd21a0,,104877,question,responseOption1,31597,form,Yes
+5fc7252c2a0000124bcd21a0,,104877,question,responseOption2,31597,form,No
+5fc7254d2a0000124bcd21a7,,104878,question,questionText,31597,form,Please provide a clear explanation of the arrangements which the company has made for putting its policy into effect and for discharging its duties under current relevant:
+5fc725652a0000124bcd21b7,,104879,question,questionText,31597,form,Do you have ready access to competent H&S advice/assistance?
+5fc725652a0000124bcd21b7,,104879,question,responseOption1,31597,form,Yes
+5fc725652a0000124bcd21b7,,104879,question,responseOption2,31597,form,No
+5fc7257c2a00006f88f9a270,,104880,question,questionText,31597,form,Please provide the name and competency details of the source of advice along with two examples from the last 24 months of advice given and action taken. The source of advice could include:\n1. Competent employee\n2. Safety group\n3.  Trade association\n4. Consultant who provides H&S information and advice.
+5fc725ca2a0000124bcd21d7,,104881,question,questionText,31597,form,Do you have a process for providing your employees/other workforce with training and other information appropriate to the activities that your organisation is likely to undertake?
+5fc725ca2a0000124bcd21d7,,104881,question,responseOption1,31597,form,Yes
+5fc725ca2a0000124bcd21d7,,104881,question,responseOption2,31597,form,No
+5fc725e82a00006f88f9a308,,104882,question,questionText,31597,form,"Please provide supporting evidence which could include:\n1. Headline training records\n2. Evidence of a H&S training culture including records, certificates of attendance and adequate H&S induction training\n3. Evidence of an active CPD programme\n4. Example of ‘toolbox talk’ type training\n5. Evidence of relevant training as required by H&S legislation or approved code of practice e.g. asbestos\nawareness training."
+5fc7261b2a0000124bcd2210,,104883,question,questionText,31597,form,"Do  your  employees/other  workforce  have  H&S  and  other relevant  knowledge,  experience  and  skills  to  carry  out activities that your organisation is likely to undertake?"
+5fc7261b2a0000124bcd2210,,104883,question,responseOption1,31597,form,Yes
+5fc7261b2a0000124bcd2210,,104883,question,responseOption2,31597,form,No
+5fc726462a00006f88f9a321,,104884,question,questionText,31597,form,"Please provide details of qualifications and/or experience of specific corporate post holders, for example board members, health and safety advisor etc. relevant for the industry sector for both construction and non-construction activities. Other key roles should be named or identified and details of relevant qualifications and experience provided."
+5fc726662a00006f88f9ca33,,104885,question,questionText,31597,form,Are you a <u>Principal Contractor</u> or <u>Contractor</u>?
+5fc726662a00006f88f9ca33,,104885,question,responseOption1,31597,form,Yes
+5fc726662a00006f88f9ca33,,104885,question,responseOption2,31597,form,No
+5fc726d92a00006f88f9d6b1,,104886,question,questionText,31597,form,"If you are a Principal Contractor or Contractor, please\nprovide supporting evidence of the skills, knowledge and experience of H&S in construction in the organisation. For individual roles within the organisation:\n\n>*<u>Site managers:</u> Details of any specific training such as the CITB ‘Site Management Safety Training Scheme’ certificate or equivalent.*\n\n>*<u>Professionals:</u> Details of qualifications and/or professional institution membership.*\n\n>*<u>Site workers:</u> Details of any relevant qualifications or training such as S/NVQ certificate and evidence of a company-based training programme suitable for the work to be carried out.*"
+5fc727692a00006f88f9d825,,104887,question,questionText,31597,form,Are you a <u>Principal Contractor</u>?
+5fc727692a00006f88f9d825,,104887,question,responseOption1,31597,form,Yes
+5fc727692a00006f88f9d825,,104887,question,responseOption2,31597,form,No
+5fc727c62a00006f88f9d91c,,104888,question,questionText,31597,form,"If you are a Principal Contractor, please also provide details of number/percentage of people engaged in the organisation who have passed a construction health and safety assessment, for example the CITB touch screen test or similar schemes, such as the CCNSG equivalent."
+5fc727e52a0000124bcd464d,,104889,question,questionText,31597,form,Are you a <u>Principal Designer</u>?
+5fc727e52a0000124bcd464d,,104889,question,responseOption1,31597,form,Yes
+5fc727e52a0000124bcd464d,,104889,question,responseOption2,31597,form,No
+5fc728072a0000124bcd4650,,104890,question,questionText,31597,form,"If you are a Principal Designer, please provide supporting evidence of the skills, knowledge and experience of H&S in construction in the organisation:\n\n>*1. Details of qualifications to confirm the organisation’s operational capability to manage construction H&S which may include NEBOSH Construction, NVQ in Occupational Health & Safety, or NCRQ in applied health & safety etc.*\n\n>*2. Details of qualifications relevant to specific area of expertise, which may include Higher National Diploma or certificate, Bachelor degree or Masters etc.*\n\n>*3. Details of relevant professional institution membership such as member of the registers administered by the APS or ICS (formerly known as the CDM co-ordinators' registers), or the ICE construction health & safety register etc.*\n\n>*4. Evidence of a clear commitment to continued improvement, training and the Continued Professional Development of staff in relevant areas of expertise and health & safety.*\n"
+5fc728752a0000124bcd4652,,104891,question,questionText,31597,form,Are you a  <u>Designer</u>?
+5fc728752a0000124bcd4652,,104891,question,responseOption1,31597,form,Yes
+5fc728752a0000124bcd4652,,104891,question,responseOption2,31597,form,No
+5fc728a22a00006f88f9db17,,104892,question,questionText,31597,form,"If you are a Designer, please provide supporting evidence of the skills, knowledge and experience of H&S in construction in the organisation:\n\n>*1. Details of qualifications relevant to specific area of expertise, which may include Higher National Diploma or certificate, Bachelor degree or Masters, etc.*\n\n>*2. Details of professional institution membership such as RiBA, ICE, APS, RiAS, CIAT, ARB, IstructE, etc.*\n\n>*3. Evidence of a clear commitment to the continued improvement, training and Continued Professional Development of staff in relevant areas of expertise and H&S.*"
+5fc72a792a0000124bcd4860,,104893,question,questionText,31597,form,"Do you check, review and, where necessary, improve your H&S performance?"
+5fc72a792a0000124bcd4860,,104893,question,responseOption1,31597,form,Yes
+5fc72a792a0000124bcd4860,,104893,question,responseOption2,31597,form,No
+5fc72aa32a00006f88f9de33,,104894,question,questionText,31597,form,Please provide evidence of recent monitoring and management response. \n\n>*This could be through formal audit or discussions/reports to senior managers or from copies of workplace/site inspection reports.*
+5fc72b0f2a0000124bcd4925,,104895,question,questionText,31597,form,Do you have procedures for involving your employees/ other workforce in the planning and implementation of H&S measures?
+5fc72b0f2a0000124bcd4925,,104895,question,responseOption1,31597,form,Yes
+5fc72b0f2a0000124bcd4925,,104895,question,responseOption2,31597,form,No
+5fc72b282a00006f88f9dee3,,104896,question,description,31597,form,"1. Records of health and safety committees\n2. Names of appointed safety representatives (trade union or other).\n3. If you employ less than five persons, please describe how you consult with your employees to achieve the consultation\nrequired."
+5fc72b282a00006f88f9dee3,,104896,question,questionText,31597,form,Please provide evidence of how consultation is carried out which could include:\n
+5fc72b5d2a00006f88f9df1d,,104897,question,questionText,31597,form,Do you routinely record and review accidents/incidents and undertake follow-up action?
+5fc72b5d2a00006f88f9df1d,,104897,question,responseOption1,31597,form,Yes
+5fc72b5d2a00006f88f9df1d,,104897,question,responseOption2,31597,form,No
+5fc72b7f2a00006f88f9df4b,,104898,question,description,31597,form,"For large companies, please also provide simple statistics showing incidence rates of specified injuries, over seven-day injuries, reportable cases of ill health and dangerous occurrences for the last three years. \n\nRecords should include any incidents that occurred to direct employees or sub-contractors including if the company traded under a different name."
+5fc72b7f2a00006f88f9df4b,,104898,question,questionText,31597,form,Please provide evidence of how you record and investigate accidents and incidents. This could include:\n1. Records of the last two accidents/incidents and action taken to prevent recurrence\n2. Records of any enforcement action taken over the last five years\n3. What action was taken to put matters right (information on enforcement taken by HSE over the last five years is available on the HSE website).
+5fc72bdf2a0000124bcd49ca,,104899,question,description,31597,form,Guidance can be found here: http://www.hse.gov.uk/pubns/indg368.pdf
+5fc72bdf2a0000124bcd49ca,,104899,question,questionText,31597,form,Do you have arrangements for ensuring that your suppliers also apply H&S measures that are appropriate to the activities that your organisation is likely to undertake?
+5fc72bdf2a0000124bcd49ca,,104899,question,responseOption1,31597,form,Yes
+5fc72bdf2a0000124bcd49ca,,104899,question,responseOption2,31597,form,No
+5fc72c2a2a0000124bcd49d8,,104900,question,questionText,31597,form,Please provide evidence of how you ensure sub- contractors/consultants are competent.\n\nThis could include:\n>*1. Written procedures or arrangements*\n\n>*2. Documented examples of sub-contractor/consultant assessments you have carried out*\n\n>*3. How you require similar standards of competence assessment from sub-contractors/consultants*\n\n>*4. How you monitor sub-contractor/consultant\nperformance*
+5fc72c5c2a00006f88f9e104,,104901,question,questionText,31597,form,Do you operate a process of risk assessment capable of supporting safe systems of work?
+5fc72c5c2a00006f88f9e104,,104901,question,responseOption1,31597,form,Yes
+5fc72c5c2a00006f88f9e104,,104901,question,responseOption2,31597,form,No
+5fc72c742a0000124bcd4a3b,,104902,question,questionText,31597,form,Please provide evidence of how the company identifies significant H&S hazards and how the assessed risks will be controlled. \n\nThis could include:\n\n>*1. Sample risk assessments*\n>*2. Safe systems of work*\n>*3. Method statements*
+5fc72c9b2a00006f88f9e143,,104903,question,questionText,31597,form,Please indicate whether your organisation fulfils any of the CDM Dutyholder roles:
+5fc72c9b2a00006f88f9e143,,104903,question,responseOption1,31597,form,Principal Contractor
+5fc72c9b2a00006f88f9e143,,104903,question,responseOption2,31597,form,Contractor
+5fc72c9b2a00006f88f9e143,,104903,question,responseOption3,31597,form,Principal Designer
+5fc72c9b2a00006f88f9e143,,104903,question,responseOption4,31597,form,Designer
+5fc862fe290000124b0dbafd,,105030,question,questionText,31597,form,"Do you have arrangements for co-operating and co- ordinating your work with others (including other suppliers, notably contractors)?"
+5fc862fe290000124b0dbafd,,105030,question,responseOption1,31597,form,Yes
+5fc862fe290000124b0dbafd,,105030,question,responseOption2,31597,form,No
+5fc8631a290000124b0dbb5f,,105031,question,questionText,31597,form,Please provide supporting evidence which could include:\n1. Sample risk assessments\n2. Procedural arrangements\n3. How the organisation co-ordinates its work with other interested parties\n4. Project team meeting notes.
+5fc86349290000124b0dbb73,,105032,question,questionText,31597,form,Do you have arrangements for ensuring on-site welfare for your employees/other workforce?
+5fc86349290000124b0dbb73,,105032,question,responseOption1,31597,form,Yes
+5fc86349290000124b0dbb73,,105032,question,responseOption2,31597,form,No
+5fc863622a0000b8027fa898,,105033,question,questionText,31597,form,"Please provide supporting evidence, which could include:\n\n>*1. H&S policy commitment*\n>*2. Contracts with welfare facility providers including cleaning arrangements.*"
+5fc86388290000124b0dbb78,,105034,question,questionText,31597,form,"If you are a Principal Contractor, please also provide\nevidence of compliance to Schedule 2 of the CDM\nRegulations and details of the type of welfare facilities provided on previous projects."
+5fc863a62a0000b8027fa89f,,105035,question,questionText,31597,form,"Are you able to provide evidence of the skills, knowledge and experience of H&S in construction in your organisation?"
+5fc863a62a0000b8027fa89f,,105035,question,responseOption1,31597,form,Yes
+5fc863a62a0000b8027fa89f,,105035,question,responseOption2,31597,form,No
+5fc863bf290000124b0dbb7b,,105036,question,questionText,31597,form,"Please provide supporting evidence of the skills, knowledge and experience of H&S in construction in the organisation.\nFor individual roles within the organisation:\n1. Site managers: Details of any specific training such as the CITB ‘Site Management Safety Training Scheme’ certificate or equivalent.\n2. Professionals: Details of qualifications and/or professional institution membership.\n3. Site workers: Details of any relevant qualifications or training such as S/NVQ certificate and evidence of a company-based training programme suitable for the work to be carried out."
+5fc863e22a0000b8027fa8db,,105037,question,questionText,31597,form,"If you are a Principal Contractor, please also provide details of number/percentage of people engaged in the organisation who have passed a construction H&S assessment, for example the CITB touch screen test or similar schemes, such as the CCNSG equivalent."
+5fc863fb2a0000b8027fa8dd,,105038,question,questionText,31597,form,Do you review and develop your effectiveness in the Contractor/Principal Contractor role?
+5fc863fb2a0000b8027fa8dd,,105038,question,responseOption1,31597,form,Yes
+5fc863fb2a0000b8027fa8dd,,105038,question,responseOption2,31597,form,No
+5fc8641c290000124b0dbbaf,,105039,question,questionText,31597,form,Please provide supporting evidence which should confirm that there are arrangements in place for reviewing and developing your effectiveness in the Contractor/Principal Contractor role including:\n>*1. Monitoring procedures*\n>*2. Periodic checking or auditing of procedures*\n>*3. Periodic reviewing of practices and management *response\n>*4. Post-project review*
+5fc8644d2a0000b8027fa949,,105040,question,questionText,31597,form,Do you implement arrangements to meet the ‘Principal Contractor’ duties under the CDM Regulations?
+5fc8644d2a0000b8027fa949,,105040,question,responseOption1,31597,form,Yes
+5fc8644d2a0000b8027fa949,,105040,question,responseOption2,31597,form,No
+5fc8646c290000124b0dbbd2,,105041,question,questionText,31597,form,"Do you plan, manage, monitor and co-ordinate H&S in the construction phase, including communication with the Client, Principal Designer and Contractors?"
+5fc8646c290000124b0dbbd2,,105041,question,responseOption1,31597,form,Yes
+5fc8646c290000124b0dbbd2,,105041,question,responseOption2,31597,form,No
+5fc8648d2a0000b8027fa964,,105042,question,questionText,31597,form,"Please provide evidence of concise, practical examples, relevant and proportionate to the type of activity likely to be carried out. The supporting evidence should confirm that there are arrangements in place for planning, managing, monitoring and co-ordinating H&S in the construction phase including communication with the Client, Principal Designer and Contractors."
+5fc864c3290000124b0dbbee,,105044,question,questionText,31597,form,"Please provide evidence of concise, practical examples, relevant and proportionate to the type of activity likely to be carried out. This could include examples of previous CPPs."
+5fc864d62a0000b8027fa983,,105045,question,questionText,31597,form,Do you organise co-operation between contractors and others and co-ordinate the work?
+5fc864d62a0000b8027fa983,,105045,question,responseOption1,31597,form,Yes
+5fc864d62a0000b8027fa983,,105045,question,responseOption2,31597,form,No
+5fc864f32a0000b8027fa99d,,105046,question,questionText,31597,form,"Please provide evidence of concise, practical examples, relevant and proportionate to the type of activity likely to be carried out which could include:\n>*1. Notes of meetings and other discussions*\n>*2. Examples of exchanges of safety information*\n>*3. Previous agreements on issues which affect other site users such as emergency arrangements/procedures, deliveries, traffic routes, design interfaces and the like.*"
+5fc865172a0000b8027fa99e,,105047,question,questionText,31597,form,Do you ensure relevant and suitable site inductions?
+5fc865172a0000b8027fa99e,,105047,question,responseOption1,31597,form,Yes
+5fc865172a0000b8027fa99e,,105047,question,responseOption2,31597,form,No
+5fc8654e2a0000b8027fa9ca,,105049,question,questionText,31597,form,Provide information for the H&S file.
+5fc8654e2a0000b8027fa9ca,,105049,question,responseOption1,31597,form,Yes
+5fc8654e2a0000b8027fa9ca,,105049,question,responseOption2,31597,form,No
+5fc865752a0000b8027fa9e2,,105050,question,questionText,31597,form,"Please provide evidence of concise, practical examples, relevant and proportionate to the type of activity likely to be carried out. The supporting evidence, which could include examples of previously prepared information, should confirm that there are arrangements in place for the preparation and provision of relevant information for the H&S file."
+5fc8665f2a0000b8027faa56,,105051,question,questionText,31597,form,Do you implement arrangements to meet the ‘Designer’ duties under the CDM Regulations?
+5fc8665f2a0000b8027faa56,,105051,question,responseOption1,31597,form,Yes
+5fc8665f2a0000b8027faa56,,105051,question,responseOption2,31597,form,No
+5fc86679290000124b0dbc59,,105052,question,questionText,31597,form,Do you check that the Client is aware of their duties?
+5fc86679290000124b0dbc59,,105052,question,responseOption1,31597,form,Yes
+5fc86679290000124b0dbc59,,105052,question,responseOption2,31597,form,No
+5fc866982a0000b8027faa6e,,105053,question,questionText,31597,form,Please provide evidence of arrangements in place for helping the Client to meet its duties under the CDM Regulations.
+5fc866b1290000124b0dbc7d,,105054,question,questionText,31597,form,"Do you ensure that you and your workforce have the necessary skills, knowledge and experience to discharge their legal duties under the CDM Regulations?"
+5fc866b1290000124b0dbc7d,,105054,question,responseOption1,31597,form,Yes
+5fc866b1290000124b0dbc7d,,105054,question,responseOption2,31597,form,No
+5fc867c7290000124b0dbd36,,105055,question,questionText,31597,form,"Please provide details of qualifications relevant to specific area of expertise, which may include:\n>*1. Higher National Diploma or certificate*\n>*2. Bachelor degree or Masters etc.*\n>*3. Details of professional institution membership such as RiBA, ICE, APS, RiAS, CIAT, ARB, IstructE etc.*\n\nPlease also provide evidence which shows a clear commitment to the continued improvement, training and Continued Professional Development of staff in relevant areas of expertise and H&S."
+5fc867ee2a0000b8027faaf8,,105056,question,questionText,31597,form,"Do you ensure significant risks are eliminated by design, taking account of the principles of prevention and show how construction and lifecycle risks are eliminated or controlled (with reference to buildability, maintainability and use)?"
+5fc867ee2a0000b8027faaf8,,105056,question,responseOption1,31597,form,Yes
+5fc867ee2a0000b8027faaf8,,105056,question,responseOption2,31597,form,No
+5fc8680c2a0000b8027fab33,,105057,question,questionText,31597,form,"Please provide supporting evidence, which could include minutes or notes of meetings, notes on drawings and sketches, as well as risk registers and similar items on more complex projects, which shows how the company:\n>*1. Ensures co-operation and co-ordination of design work within the design team and with other Designers/Contractors*\n\n>*2. Takes into account the general principles of prevention when preparing or modifying a design with the first aim to eliminate risks or, if that is not possible, to reduce or control the risks*\n\n>*3. Provides information about the risks arising from the design during construction, maintenance/cleaning and use of the building as a workplace i.e. residual risk*\n>*4. How design changes are managed during pre- construction and construction phases*\n\n>*5. Ensure that any structure which will be used as a workplace will meet the relevant requirements of the Workplace (Health, Safety and Welfare) Regulations.*\n\nThe level of detail required in passing on information about risks should be proportionate to the risks involved.\n\nInsignificant risks can usually be ignored as can risks arising from routine construction activities, unless the\ndesign compounds or significantly alters these risks."
+5fc868672a0000b8027fab41,,105058,question,questionText,31597,form,"Do you effectively manage design changes, with regard to ensuring H&S during and post-completion?"
+5fc868672a0000b8027fab41,,105058,question,responseOption1,31597,form,Yes
+5fc868672a0000b8027fab41,,105058,question,responseOption2,31597,form,No
+5fc868982a0000b8027fab4b,,105059,question,questionText,31597,form,Please provide evidence which shows that there are arrangements in place for managing design changes.
+5fc868d32a0000b8027fab4d,,105061,question,questionText,31597,form,"Do you review and monitor your design performance, notably in relation to H&S?"
+5fc868d32a0000b8027fab4d,,105061,question,responseOption1,31597,form,Yes
+5fc868d32a0000b8027fab4d,,105061,question,responseOption2,31597,form,No
+5fc868ee290000124b0dbda5,,105062,question,questionText,31597,form,"Please provide supporting evidence which shows that there are arrangements in place for reviewing, developing and monitoring design performance including:\n>*1. Monitoring procedures*\n>*2. Periodic checking or auditing of procedures*\n>*3. Periodic reviewing of practices and management response*\n>*4. Post-project review.*"
+5fc869132a0000b8027fab79,,105063,question,questionText,31597,form,Do you implement arrangements to meet the ‘Principal Designer’ duties under the CDM Regulations?
+5fc869132a0000b8027fab79,,105063,question,responseOption1,31597,form,Yes
+5fc869132a0000b8027fab79,,105063,question,responseOption2,31597,form,No
+5fc8692c2a0000b8027fab7b,,105064,question,questionText,31597,form,Do you help the Client to meet its duties under the CDM Regulations?
+5fc8692c2a0000b8027fab7b,,105064,question,responseOption1,31597,form,Yes
+5fc8692c2a0000b8027fab7b,,105064,question,responseOption2,31597,form,No
+5fc869452a0000b8027fab7d,,105065,question,questionText,31597,form,Please provide evidence of arrangements in place for communication with Clients and helping the Client to meet its duties under the CDM Regulations e.g. meeting minutes or examples of pre-construction information collated for a project and distributed to the relevant project team members.
+5fc86957290000124b0dbdaa,,105066,question,questionText,31597,form,"Do you gather, prepare, communicate and co-ordinate information, including design information, with other duty holders during the pre-construction phase?"
+5fc86957290000124b0dbdaa,,105066,question,responseOption1,31597,form,Yes
+5fc86957290000124b0dbdaa,,105066,question,responseOption2,31597,form,No
+5fc869f7290000124b0dbdbd,,105067,question,questionText,31597,form,"Please provide evidence which shows that there are arrangements in place for the gathering, preparation, communication and co-ordinating of information, including design information, with other duty holders during the pre- construction phase."
+5fc86a0c290000124b0dbdbf,,105068,question,questionText,31597,form,"Do you plan, manage and monitor H&S related information, including design information, in the pre-construction phase of a project, with the aim of identifying, eliminating or controlling foreseeable risks?"
+5fc86a0c290000124b0dbdbf,,105068,question,responseOption1,31597,form,Yes
+5fc86a0c290000124b0dbdbf,,105068,question,responseOption2,31597,form,No
+5fc86a2f290000124b0dbdc1,,105069,question,questionText,31597,form,"Please provide evidence which shows that there are arrangements in place for planning, managing and monitoring H&S related information, including design information, in the pre-construction phase of a project, with the aim of identifying, eliminating or controlling foreseeable risks."
+5fc86a46290000124b0dbdc4,,105070,question,questionText,31597,form,"Do you ensure Designers carry out their duties, including oversight and co-ordination within the design team and with other Designers/Contractors?"
+5fc86a46290000124b0dbdc4,,105070,question,responseOption1,31597,form,Yes
+5fc86a46290000124b0dbdc4,,105070,question,responseOption2,31597,form,No
+5fc86a5f2a0000b8027facd5,,105071,question,questionText,31597,form,"Please provide supporting evidence which shows that there are arrangements in place for ensuring ensure Designers carry out their duties, including oversight and co-ordination within the design team and with other Designers/ Contractors."
+5fc86a72290000124b0dbdf3,,105072,question,questionText,31597,form,Do you liaise with the Principal Contractor?
+5fc86a72290000124b0dbdf3,,105072,question,responseOption1,31597,form,Yes
+5fc86a72290000124b0dbdf3,,105072,question,responseOption2,31597,form,No
+5fc86aa1290000124b0dbdf6,,105073,question,questionText,31597,form,"Please provide supporting evidence which shows that there are arrangements in place for ensuring successful liaison with the Principal Designer on a project. Evidence could\ninclude:\n1. Notes of meetings and other discussions\n2. Examples of exchanges of safety information\n3. Previous agreements on issues which affect other site users such as emergency arrangements/procedures, deliveries, traffic routes, design interfaces and the like."
+5fc86abe2a0000b8027facd9,,105074,question,questionText,31597,form,"Do you prepare and provide relevant information to other duty holders, including the H&S file?"
+5fc86abe2a0000b8027facd9,,105074,question,responseOption1,31597,form,Yes
+5fc86abe2a0000b8027facd9,,105074,question,responseOption2,31597,form,No
+5fc86ada2a0000b8027facdb,,105075,question,questionText,31597,form,"Please provide supporting evidence, such as examples of previously prepared information, which shows that there are arrangements in place for the preparation and provision of relevant information to other duty holders, including the H&S file."
+5fc86aec2a0000b8027facdd,,105076,question,questionText,31597,form,"Are you able to provide evidence of the skills, knowledge and experience of H&S in construction in your organisation?"
+5fc86aec2a0000b8027facdd,,105076,question,responseOption1,31597,form,Yes
+5fc86aec2a0000b8027facdd,,105076,question,responseOption2,31597,form,No
+5fc86b042a0000b8027facde,,105077,question,questionText,31597,form,"Please provide supporting evidence which shows\nthat the company's employees/other workforce have H&S and other relevant knowledge, experience and skills to carry out activities that they are likely to undertake. Evidence could include:\n1. Details of qualifications to confirm the organisation’s operational capability to manage construction H&S which may include NEBOSH Construction, NVQ in Occupational Health & Safety or NCRQ in applied health & safety etc.\n2. Details of qualifications relevant to specific areas of expertise, which may include Higher National Diploma or certificate, Bachelor degree or Masters etc.\n3. Details of relevant professional institution membership such as member of the registers administered by the APS or ICS (formerly known as the CDM co-ordinators' registers) or the ICE construction health & safety register\netc."
+5fc86bf4290000124b0dbdfe,,105078,question,questionText,31597,form,Do you review and develop your effectiveness in the Principal Designer role?
+5fc86bf4290000124b0dbdfe,,105078,question,responseOption1,31597,form,Yes
+5fc86bf4290000124b0dbdfe,,105078,question,responseOption2,31597,form,No
+5fc86c34290000124b0dbe00,,105079,question,questionText,31597,form,Please provide supporting evidence which should confirm that there are arrangements in place for reviewing and developing your effectiveness in the Principal Designer role including:\n1. Monitoring procedures\n2. Periodic checking or auditing of procedures\n3. Periodic reviewing of practices and management response\n4. Post-project review
+5fc86c5c290000124b0dbe03,,105080,question,questionText,31597,form,Who is ultimately responsible for H&S within your company?
+5fc86c702a0000b8027fad01,,105081,question,questionText,31597,form,"Do all of your workforce (including those who are self- employed), who are working on construction sites undertaking a recognised construction occupation, hold CSCS or CSCS partner scheme cards?"
+5fc86c702a0000b8027fad01,,105081,question,responseOption1,31597,form,Yes
+5fc86c702a0000b8027fad01,,105081,question,responseOption2,31597,form,No
+5fc86cb3290000124b0dbe08,,105082,question,questionText,31597,form,Is your company part of any fleet operations/management scheme?
+5fc86cb3290000124b0dbe08,,105082,question,responseOption1,31597,form,Yes
+5fc86cb3290000124b0dbe08,,105082,question,responseOption2,31597,form,No
+5fc86ccb290000124b0dbe0a,,105083,question,questionText,31597,form,"If yes, please provide a copy of your certificate which may include:\n>*1. Fleet Operator Recognition Scheme (FORS)*\n>*2. Van Excellence*\n>*3. Truck Excellence*\n>*4. Van Compliance Scheme*\n>*5. Construction Logistics and Community Safety (CLOCS)*\n>*6. Other (please specify)*"
+5fc86d092a0000b8027fad12,,105084,question,questionText,31597,form,Do you have a drug and alcohol policy?
+5fc86d092a0000b8027fad12,,105084,question,responseOption1,31597,form,Yes
+5fc86d092a0000b8027fad12,,105084,question,responseOption2,31597,form,No
+5fc86d23290000124b0dbe19,,105085,question,questionText,31597,form,"If yes, please upload copy of drug and alcohol policy. This information may also be provided as part of your H&S policy or through another document. The drug and alcohol policy must include as a minimum:\n1. What preventative measures your company takes to ensure employees do not attend site under the influence\nof alcohol and/or drugs\n2. Addresses items such as testing requirement, frequency, substances tested for and management of test results\n3. Whether the policy addresses post-incident and/or reasonable cause drug and alcohol testing\n4. Whether the policy addresses a return-to-duty testing process and unannounced testing programmes for employees following a policy violation and/or substance abuse treatment.\n\nIf you are a small micro-business, you may provide a statement rather than a policy."
+5fc87bc1290000124b0dc70b,,105086,question,questionText,31597,form,"Do you prepare, review and maintain construction phase plans (CPPs)?"
+5fc87bc1290000124b0dc70b,,105086,question,responseOption1,31597,form,Yes
+5fc87bc1290000124b0dc70b,,105086,question,responseOption2,31597,form,No
+5fc87df42a0000b8027fb3b4,,105087,question,questionText,31597,form,"Please provide evidence of concise, practical examples, relevant and proportionate to the type of activity likely to be carried out. The supporting evidence, which could include examples of previous site inductions and attendance sheets, should confirm that there are arrangements in place for provision of site inductions."
+5fd199742b0000b8026b9672,,105425,question,questionText,31597,form,"Financial information for a start-up business that has not reported accounts to the Inland Revenue or Companies House.\n\n>*If you are not a start-up business that has not reported accounts to the Inland Revenue or Companies House, please answer N/A.<br></br>If you are a start-up business that has not reported accounts to the Inland Revenue or Companies House, please provide a forecast of turnover for the current year and a statement of funding provided by the owners and/or the bank, or an alternative means of demonstrating financial status.*"
+5fd199742b0000b8026b9672,,105425,question,responseOption1,31597,form,Yes
+5fd199742b0000b8026b9672,,105425,question,responseOption2,31597,form,No
+5fd199742b0000b8026b9672,,105425,question,responseOption3,31597,form,N/A
+5fd199f22b0000b8026b9686,,105426,question,questionText,31597,form,"If you are a start-up business that has not reported accounts to the Inland Revenue or Companies House, please provide a forecast of turnover forthe current year and a statement of funding provided bythe owners and/or the bank, or an alternative means of demonstrating financial status."
+5fd19a0d2b00001047748041,,105427,question,questionText,31597,form,"Accounts for an unincorporated business (sole traders and partnerships).\n\n>*If you are not an unincorporated business (sole traders and partnerships), please answer N/A.  \nIf you are an unincorporated business (sole traders and partnerships), please provide a copy of the most recent accounts that contain turnover, profit before tax, and balance sheet (if prepared) covering either the most recent two-year period of trading or, if trading for less than two years, the period that is available.*\n\n>*If accounts are not prepared, provide the relevant pages from the latest tax returns (self-employment pages for sole traders/partnership pages for partnerships), together with the tax assessment.*"
+5fd19a0d2b00001047748041,,105427,question,responseOption1,31597,form,Yes
+5fd19a0d2b00001047748041,,105427,question,responseOption2,31597,form,No
+5fd19a0d2b00001047748041,,105427,question,responseOption3,31597,form,N/A
+5fd19a9e2b0000b8026b96ac,,105428,question,questionText,31597,form,"If you are an unincorporated business (sole traders and partnerships), please provide a copy of the most recent accounts that contain turnover, profit before tax, and balance sheet (if prepared) covering either the most recent two-year period of trading or, if trading for less than two years, the period that is available. \n\nIf accounts are not prepared, provide the relevant pages from the latest tax returns (self-employment pages for sole traders/partnership pages for partnerships), together with the tax assessment."
+5fd19ba82b0000b8026b970b,,105429,question,questionText,31597,form,"Accounts for a small company or limited liability partnership with a turnover below the audit threshold at which the preparation of audited accounts is not required.\n\n>*If you are not a small company or limited liability partnership with a turnover below the audit threshold at which the preparation of audited accounts is not required, please answer N/A.*\n\n>*If you are a small company or limited liability partnership with a turnover below the audit threshold at which the preparation of audited accounts is not required, please provide a copy of the most recent accounts as submitted to the Inland Revenue covering either the most recent two-year period of trading or, if trading for less than two years, the period that is available. Abbreviated accounts are not acceptable.*\n\n>*A company may qualify for an audit exemption if it has at least two of the following:*\n\n>><li>*An annual turnover of no more than £10.2 million*\n<li>*Assets worth no more than £5.1 million*\n<li>*50 or fewer employees on average.*"
+5fd19ba82b0000b8026b970b,,105429,question,responseOption1,31597,form,Yes
+5fd19ba82b0000b8026b970b,,105429,question,responseOption2,31597,form,No
+5fd19ba82b0000b8026b970b,,105429,question,responseOption3,31597,form,N/A
+5fd19c442a00006f88e56320,,105430,question,questionText,31597,form,"If you are a small company or limited liability partnership with a turnover below the audit threshold at which the preparation of audited accounts is not required, please provide a copy of the most recent accounts as submitted to the Inland \n\nRevenue covering either the most recent two-year period of trading or, if trading for less than two years, the period that is available. \n\nAbbreviated accounts are not acceptable. \n\nA company may qualify for an audit exemption if it has at least two of the following:\n1. An annual turnover of no more than £10.2 million\n2. Assets worth no more than £5.1 million\n3. 50or fewer employees on average."
+5fd19d0d2b0000b8026b9774,,105431,question,questionText,31597,form,"Accounts for a medium to large incorporated entity and all other organisations that are required to prepare audited accounts.\n\n>*If you are not a medium to large incorporated entity or other organisation that is required to prepare audited accounts, please answer N/A.*\n\n>*If you are a medium to large incorporated entity or other organisation that is required to prepare audited accounts, please provide a copy of the most recent audited accounts covering either the most recent two-year period of trading or, if trading for less than two years, the period that is available.*"
+5fd19d0d2b0000b8026b9774,,105431,question,responseOption1,31597,form,Yes
+5fd19d0d2b0000b8026b9774,,105431,question,responseOption2,31597,form,No
+5fd19d0d2b0000b8026b9774,,105431,question,responseOption3,31597,form,N/A
+5fd19dc42b0000b8026b9798,,105432,question,questionText,31597,form,"If you are a medium to large incorporated entity or other organisation that is required to prepare audited accounts, please provide a copy of the most recent audited accounts covering either the most recent two-year period of trading or, if trading for less than two years, the period that is available."
+5fd19e122b0000b8026b97c3,,105433,question,questionText,31597,form,"Accounts for other organisation types.\n\n>*If you are not another organisation type (e.g. not for profit entities, local authorities, housing associations, charities), please answer N/A. *\n\n>*If you are another organisation type, please provide a copy of your audited accounts. If you do not have any audited accounts, an unaudited copy of the most recent accounts as described in prior question should be provided.*"
+5fd19e122b0000b8026b97c3,,105433,question,responseOption1,31597,form,Yes
+5fd19e122b0000b8026b97c3,,105433,question,responseOption2,31597,form,No
+5fd19e122b0000b8026b97c3,,105433,question,responseOption3,31597,form,N/A
+5fd19ebc2b0000b8026b97c9,,105434,question,questionText,31597,form,"If you are another organisation type, please provide a copy of your audited accounts. If you do not have any audited accounts, an unaudited copy of the most recent accounts as described in prior question should be provided."
+5fd19f0f2b0000b8026b97e6,,105435,question,questionText,31597,form,"Do you have contractors all risk insurance?\n\n>*If yes, you will need to provide a copy of your insurance certificate, which must include the Policy Number, Limit, Excess, and Expiry Date.*  \n\n>*This task will display separately under the ""Insurance"" section of the application.*"
+5fd19f0f2b0000b8026b97e6,,105435,question,responseOption1,31597,form,Yes
+5fd19f0f2b0000b8026b97e6,,105435,question,responseOption2,31597,form,No
+5fd19f0f2b0000b8026b97e6,,105435,question,responseOption3,31597,form,N/A
+5fd19f832b0000b8026b97f6,,105436,question,questionText,31597,form,Please provide details of your insurance broker(s):
+5fdd3f242a00003d1ac78e98,,105797,question,questionText,31597,form,How many personnel do you have in total?
+5fdd3f5e2d0000e94742f7bb,,105798,question,questionText,31597,form,How many of your personnel are directly employed management and clerical?
+5fdd3fee2d0000e94742f8b0,,105799,question,questionText,31597,form,How many of your personnel are directly employed off-site?
+5fdd40152d0000e94742f8ca,,105800,question,questionText,31597,form,How many of your personnel are directly employed on-site?
+5fdd403a2d0000e94742f8d5,,105801,question,questionText,31597,form,How many of your personnel are self-employed on-site?
+6009071b43000058396e8b9f,,106634,question,questionText,31597,form,Does your company have disabled or disadvantaged workers?
+6009071b43000058396e8b9f,,106634,question,responseOption1,31597,form,Yes
+6009071b43000058396e8b9f,,106634,question,responseOption2,31597,form,No
+6009071b43000058396e8b9f,,106634,question,responseOption3,31597,form,N/A

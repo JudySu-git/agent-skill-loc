@@ -1,0 +1,244 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5a4d21e4504943efdcfbb3dd,5a4d21e4504943efdcfbb3dd,12509,questionGroup,questionGroupText,20060,form,Information Technology (IT)
+5a4d22d75049433235f64116,5a4d22d75049433235f64116,12510,questionGroup,questionGroupText,20060,form,Logical Security / Data Communication
+5a4d254f504943b036ade04e,5a4d254f504943b036ade04e,12511,questionGroup,questionGroupText,20060,form,Physical Safeguards
+5a4d25ca504943e83eee39f7,5a4d25ca504943e83eee39f7,12512,questionGroup,questionGroupText,20060,form,Control Environment
+5a4d26eb5049436806778d4a,5a4d26eb5049436806778d4a,12513,questionGroup,questionGroupText,20060,form,Change Management
+5a4d328550494346d6491d79,5a4d328550494346d6491d79,12514,questionGroup,questionGroupText,20060,form,General
+5a4d467d50494397d5baf861,5a4d467d50494397d5baf861,12515,questionGroup,questionGroupText,20060,form,Incident Management
+5a4d5e56504943dd4bebeeb9,5a4d5e56504943dd4bebeeb9,12516,questionGroup,questionGroupText,20060,form,Confidentiality
+5c1823843600004dcd42891b,5ab004eb2b00006f00d412df,20060,questionGroup,questionGroupText,20060,form,Avetta PQF - Information Technology (IT)
+5a4d22f55049432aeea38ba3,,51821,question,questionText,20060,form,"Does your organization have database and authentication settings for the database and application that supports the systems (e.g., password length requirements, password expiration intervals, account lockout settings, etc.)?"
+5a4d22f55049432aeea38ba3,,51821,question,responseOptionNA,20060,form,N/A
+5a4d22f55049432aeea38ba3,,51821,question,responseOptionNo,20060,form,No
+5a4d22f55049432aeea38ba3,,51821,question,responseOptionYes,20060,form,Yes
+5a4d230d504943c8e1dcf52e,,51822,question,questionText,20060,form,Does your organization have an Access Control Policy and Procedures?
+5a4d230d504943c8e1dcf52e,,51822,question,responseOptionNA,20060,form,N/A
+5a4d230d504943c8e1dcf52e,,51822,question,responseOptionNo,20060,form,No
+5a4d230d504943c8e1dcf52e,,51822,question,responseOptionYes,20060,form,Yes
+5a4d236b504943b02f543ecf,,51823,question,questionText,20060,form,"Does your organization have a system listing of network, database and application administrators / super users for the network, database and application that supports the systems under review?"
+5a4d236b504943b02f543ecf,,51823,question,responseOptionNA,20060,form,N/A
+5a4d236b504943b02f543ecf,,51823,question,responseOptionNo,20060,form,No
+5a4d236b504943b02f543ecf,,51823,question,responseOptionYes,20060,form,Yes
+5a4d2383504943572bdec6a0,,51824,question,questionText,20060,form,"Does your organization have network, database and application access control list / user listing with assigned access levels / roles for the network, database and application that supports the systems?"
+5a4d2383504943572bdec6a0,,51824,question,responseOptionNA,20060,form,N/A
+5a4d2383504943572bdec6a0,,51824,question,responseOptionNo,20060,form,No
+5a4d2383504943572bdec6a0,,51824,question,responseOptionYes,20060,form,Yes
+5a4d23b2504943c4be84ccf3,,51825,question,questionText,20060,form,"Does your organization have a system-generated network, database and application directory permissions showing access rights associated with each group or role for the network, database and application that supports the systems?"
+5a4d23b2504943c4be84ccf3,,51825,question,responseOptionNA,20060,form,N/A
+5a4d23b2504943c4be84ccf3,,51825,question,responseOptionNo,20060,form,No
+5a4d23b2504943c4be84ccf3,,51825,question,responseOptionYes,20060,form,Yes
+5a4d23ec5049435baf40d5da,,51826,question,questionText,20060,form,Does your organization have a description of your firewall systems?
+5a4d23ec5049435baf40d5da,,51826,question,responseOptionNA,20060,form,N/A
+5a4d23ec5049435baf40d5da,,51826,question,responseOptionNo,20060,form,No
+5a4d23ec5049435baf40d5da,,51826,question,responseOptionYes,20060,form,Yes
+5a4d2406504943d0d38952b6,,51827,question,questionText,20060,form,Does your organization maintain physical and logical network diagrams inclusive of firewalls protecting the production servers?
+5a4d2406504943d0d38952b6,,51827,question,responseOptionNA,20060,form,N/A
+5a4d2406504943d0d38952b6,,51827,question,responseOptionNo,20060,form,No
+5a4d2406504943d0d38952b6,,51827,question,responseOptionYes,20060,form,Yes
+5a4d2424504943d83b91b24d,,51828,question,description,20060,form,Full rules set is not required; please provide at a minimum the IP address range for the production network(s) and traffic access rules into and out of the production network segment(s)
+5a4d2424504943d83b91b24d,,51828,question,questionText,20060,form,Does your organization have firewall rules set that demonstrate that the system is in place and configured to block certain traffic?
+5a4d2424504943d83b91b24d,,51828,question,responseOptionNA,20060,form,N/A
+5a4d2424504943d83b91b24d,,51828,question,responseOptionNo,20060,form,No
+5a4d2424504943d83b91b24d,,51828,question,responseOptionYes,20060,form,Yes
+5a4d24435049433fca69dd24,,51829,question,questionText,20060,form,Does your organization have a description of encryption mechanisms in place to protect data transmission?
+5a4d24435049433fca69dd24,,51829,question,responseOptionNA,20060,form,N/A
+5a4d24435049433fca69dd24,,51829,question,responseOptionNo,20060,form,No
+5a4d24435049433fca69dd24,,51829,question,responseOptionYes,20060,form,Yes
+5a4d245e50494376e16df8d2,,51830,question,description,20060,form,If shared accounts are used please provide individuals name's and job titles that have knowledge of user ID and password
+5a4d245e50494376e16df8d2,,51830,question,questionText,20060,form,Does your organization have a listing of employees with the ability to authenticate and to administer the firewall?
+5a4d245e50494376e16df8d2,,51830,question,responseOptionNA,20060,form,N/A
+5a4d245e50494376e16df8d2,,51830,question,responseOptionNo,20060,form,No
+5a4d245e50494376e16df8d2,,51830,question,responseOptionYes,20060,form,Yes
+5a4d247050494381f01c88b0,,51831,question,questionText,20060,form,Does your organization have an Intrusion Prevention System?
+5a4d247050494381f01c88b0,,51831,question,responseOptionNA,20060,form,N/A
+5a4d247050494381f01c88b0,,51831,question,responseOptionNo,20060,form,No
+5a4d247050494381f01c88b0,,51831,question,responseOptionYes,20060,form,Yes
+5a4d2488504943a69e1d3229,,51832,question,questionText,20060,form,Does your organization have a description of the anti-virus systems utilized? This includes a description of the systems that are protected.
+5a4d2488504943a69e1d3229,,51832,question,responseOptionNA,20060,form,N/A
+5a4d2488504943a69e1d3229,,51832,question,responseOptionNo,20060,form,No
+5a4d2488504943a69e1d3229,,51832,question,responseOptionYes,20060,form,Yes
+5a4d24ab504943e92ef96974,,51833,question,questionText,20060,form,Can your organization provide system-generated screen prints from anti-virus server showing the update and distribution settings for each production server?
+5a4d24ab504943e92ef96974,,51833,question,responseOptionNA,20060,form,N/A
+5a4d24ab504943e92ef96974,,51833,question,responseOptionNo,20060,form,No
+5a4d24ab504943e92ef96974,,51833,question,responseOptionYes,20060,form,Yes
+5a4d24c45049438b7d363c80,,51834,question,questionText,20060,form,Can your organization provide screenshots from the anti-virus server showing current virus definition level and antivirus version number?
+5a4d24c45049438b7d363c80,,51834,question,responseOptionNA,20060,form,N/A
+5a4d24c45049438b7d363c80,,51834,question,responseOptionNo,20060,form,No
+5a4d24c45049438b7d363c80,,51834,question,responseOptionYes,20060,form,Yes
+5a4d24d55049431cfc6905c9,,51835,question,questionText,20060,form,Does your organization have written policies regarding software updates/revisions that are done periodically.
+5a4d24d55049431cfc6905c9,,51835,question,responseOptionNA,20060,form,N/A
+5a4d24d55049431cfc6905c9,,51835,question,responseOptionNo,20060,form,No
+5a4d24d55049431cfc6905c9,,51835,question,responseOptionYes,20060,form,Yes
+5a4d2565504943435ceb0321,,51836,question,questionText,20060,form,"Does your organization have a description of the physical security system (i.e., nature and extent of audible alarms, motion detectors, cameras, glass breakage sensors, etc.)?"
+5a4d2565504943435ceb0321,,51836,question,responseOptionNA,20060,form,N/A
+5a4d2565504943435ceb0321,,51836,question,responseOptionNo,20060,form,No
+5a4d2565504943435ceb0321,,51836,question,responseOptionYes,20060,form,Yes
+5a4d257650494319bf14a02a,,51837,question,questionText,20060,form,Does your organization maintain a system-generated access control list for the badge access system administration? (i.e. who can change access card rights)
+5a4d257650494319bf14a02a,,51837,question,responseOptionNA,20060,form,N/A
+5a4d257650494319bf14a02a,,51837,question,responseOptionNo,20060,form,No
+5a4d257650494319bf14a02a,,51837,question,responseOptionYes,20060,form,Yes
+5a4d2590504943340c599e4e,,51838,question,questionText,20060,form,Does your organization maintain a system-generated badge access listing with zone assignments?
+5a4d2590504943340c599e4e,,51838,question,responseOptionNA,20060,form,N/A
+5a4d2590504943340c599e4e,,51838,question,responseOptionNo,20060,form,No
+5a4d2590504943340c599e4e,,51838,question,responseOptionYes,20060,form,Yes
+5a4d25a250494323f386e4f6,,51839,question,questionText,20060,form,Does your organization maintain a system-generated badge access system log demonstrating that successful and unsuccessful access attempts are logged?
+5a4d25a250494323f386e4f6,,51839,question,responseOptionNA,20060,form,N/A
+5a4d25a250494323f386e4f6,,51839,question,responseOptionNo,20060,form,No
+5a4d25a250494323f386e4f6,,51839,question,responseOptionYes,20060,form,Yes
+5a4d25df504943e8612580cb,,51840,question,questionText,20060,form,Does your organization have a list of all current employees including titles?
+5a4d25df504943e8612580cb,,51840,question,responseOptionNA,20060,form,N/A
+5a4d25df504943e8612580cb,,51840,question,responseOptionNo,20060,form,No
+5a4d25df504943e8612580cb,,51840,question,responseOptionYes,20060,form,Yes
+5a4d25f0504943ee64dd4b13,,51841,question,questionText,20060,form,Does your organization have a list of all new employees hired during the review period?
+5a4d25f0504943ee64dd4b13,,51841,question,responseOptionNA,20060,form,N/A
+5a4d25f0504943ee64dd4b13,,51841,question,responseOptionNo,20060,form,No
+5a4d25f0504943ee64dd4b13,,51841,question,responseOptionYes,20060,form,Yes
+5a4d26045049432c5bcaab32,,51842,question,questionText,20060,form,Does your organization have list of all terminated employees during the review period?
+5a4d26045049432c5bcaab32,,51842,question,responseOptionNA,20060,form,N/A
+5a4d26045049432c5bcaab32,,51842,question,responseOptionNo,20060,form,No
+5a4d26045049432c5bcaab32,,51842,question,responseOptionYes,20060,form,Yes
+5a4d262550494390446154b3,,51843,question,questionText,20060,form,Does your organization have a hiring checklist?
+5a4d262550494390446154b3,,51843,question,responseOptionNA,20060,form,N/A
+5a4d262550494390446154b3,,51843,question,responseOptionNo,20060,form,No
+5a4d262550494390446154b3,,51843,question,responseOptionYes,20060,form,Yes
+5a4d263850494328d2c682d4,,51844,question,questionText,20060,form,Does your organization require all employees to sign an employee code of conduct upon hire?
+5a4d263850494328d2c682d4,,51844,question,responseOptionNA,20060,form,N/A
+5a4d263850494328d2c682d4,,51844,question,responseOptionNo,20060,form,No
+5a4d263850494328d2c682d4,,51844,question,responseOptionYes,20060,form,Yes
+5a4d264b5049433088f8d817,,51845,question,questionText,20060,form,Does your organization complete criminal background checks for new hires?
+5a4d264b5049433088f8d817,,51845,question,responseOptionNA,20060,form,N/A
+5a4d264b5049433088f8d817,,51845,question,responseOptionNo,20060,form,No
+5a4d264b5049433088f8d817,,51845,question,responseOptionYes,20060,form,Yes
+5a4d27075049436c5835d362,,51846,question,questionText,20060,form,Is your organization a software provider?
+5a4d27075049436c5835d362,,51846,question,responseOptionNo,20060,form,No
+5a4d27075049436c5835d362,,51846,question,responseOptionYes,20060,form,Yes
+5a4d272f504943fa0fd22c14,,51847,question,questionText,20060,form,Does your organization have a Change Management Policy and Procedure?
+5a4d272f504943fa0fd22c14,,51847,question,responseOptionNA,20060,form,N/A
+5a4d272f504943fa0fd22c14,,51847,question,responseOptionNo,20060,form,No
+5a4d272f504943fa0fd22c14,,51847,question,responseOptionYes,20060,form,Yes
+5a4d275550494342766ceffa,,51848,question,questionText,20060,form,Does your organization have a system generated list of all changes from the ticket system that affects the system security?
+5a4d275550494342766ceffa,,51848,question,responseOptionNA,20060,form,N/A
+5a4d275550494342766ceffa,,51848,question,responseOptionNo,20060,form,No
+5a4d275550494342766ceffa,,51848,question,responseOptionYes,20060,form,Yes
+5a4d2778504943be75375422,,51849,question,questionText,20060,form,Does your organization have evidence that changes/upgrades that were made to the security system were reviewed and approved by the Change Control Board and documented in ChangeGear prior to migrating to the production environment?
+5a4d2778504943be75375422,,51849,question,responseOptionNA,20060,form,N/A
+5a4d2778504943be75375422,,51849,question,responseOptionNo,20060,form,No
+5a4d2778504943be75375422,,51849,question,responseOptionYes,20060,form,Yes
+5a4d27ae504943a944b8587e,,51850,question,questionText,20060,form,Does your organization have evidence that OS (Operating System) and DB (Database) changes to client's production environment was approved prior to migrating into the production systems?
+5a4d27ae504943a944b8587e,,51850,question,responseOptionNA,20060,form,N/A
+5a4d27ae504943a944b8587e,,51850,question,responseOptionNo,20060,form,No
+5a4d27ae504943a944b8587e,,51850,question,responseOptionYes,20060,form,Yes
+5a4d27ca504943b1ead54dd1,,51851,question,questionText,20060,form,Does your organization have a system generated list of all emergency changes that were made to the security system during the review period?
+5a4d27ca504943b1ead54dd1,,51851,question,responseOptionNA,20060,form,N/A
+5a4d27ca504943b1ead54dd1,,51851,question,responseOptionNo,20060,form,No
+5a4d27ca504943b1ead54dd1,,51851,question,responseOptionYes,20060,form,Yes
+5a4d27e3504943e86e8238f6,,51852,question,questionText,20060,form,Does your organization have evidence of after the fact approvals on a sample of emergency changes made to the security system?
+5a4d27e3504943e86e8238f6,,51852,question,responseOptionNA,20060,form,N/A
+5a4d27e3504943e86e8238f6,,51852,question,responseOptionNo,20060,form,No
+5a4d27e3504943e86e8238f6,,51852,question,responseOptionYes,20060,form,Yes
+5a4d32ae504943a66ed0b5dd,,51853,question,questionText,20060,form,Does your organization have an Information Security Policy and Procedures document?
+5a4d32ae504943a66ed0b5dd,,51853,question,responseOptionNA,20060,form,N/A
+5a4d32ae504943a66ed0b5dd,,51853,question,responseOptionNo,20060,form,No
+5a4d32ae504943a66ed0b5dd,,51853,question,responseOptionYes,20060,form,Yes
+5a4d33025049433495fab0ed,,51854,question,questionText,20060,form,Is your organization SOC 2 certified?
+5a4d33025049433495fab0ed,,51854,question,responseOptionNA,20060,form,N/A
+5a4d33025049433495fab0ed,,51854,question,responseOptionNo,20060,form,No
+5a4d33025049433495fab0ed,,51854,question,responseOptionYes,20060,form,Yes
+5a4d338f5049439fffcc00a7,,51855,question,linkhttps://www.iso.org/isoiec-27001-information-security.html,20060,form,ISO 27001
+5a4d338f5049439fffcc00a7,,51855,question,questionText,20060,form,"Is your organization <a href=""https://www.iso.org/isoiec-27001-information-security.html"" target=""_BLANK"">ISO 27001</a> certified?"
+5a4d338f5049439fffcc00a7,,51855,question,responseOptionNA,20060,form,N/A
+5a4d338f5049439fffcc00a7,,51855,question,responseOptionNo,20060,form,No
+5a4d338f5049439fffcc00a7,,51855,question,responseOptionYes,20060,form,Yes
+5a4d33a65049432c0348105a,,51856,question,questionText,20060,form,Does IT Management review your organization's Security Policy annually?
+5a4d33a65049432c0348105a,,51856,question,responseOptionNA,20060,form,N/A
+5a4d33a65049432c0348105a,,51856,question,responseOptionNo,20060,form,No
+5a4d33a65049432c0348105a,,51856,question,responseOptionYes,20060,form,Yes
+5a4d33b5504943d4466d30d6,,51857,question,questionText,20060,form,Does your organization have a system description with all its boundaries?
+5a4d33b5504943d4466d30d6,,51857,question,responseOptionNA,20060,form,N/A
+5a4d33b5504943d4466d30d6,,51857,question,responseOptionNo,20060,form,No
+5a4d33b5504943d4466d30d6,,51857,question,responseOptionYes,20060,form,Yes
+5a4d33c75049438f9d5f90b6,,51858,question,questionText,20060,form,Does your organization have IT resource guidelines?
+5a4d33c75049438f9d5f90b6,,51858,question,responseOptionNA,20060,form,N/A
+5a4d33c75049438f9d5f90b6,,51858,question,responseOptionNo,20060,form,No
+5a4d33c75049438f9d5f90b6,,51858,question,responseOptionYes,20060,form,Yes
+5a4d33db5049437cebca4084,,51859,question,questionText,20060,form,Does your organization have an Acceptable Use Policy?
+5a4d33db5049437cebca4084,,51859,question,responseOptionNA,20060,form,N/A
+5a4d33db5049437cebca4084,,51859,question,responseOptionNo,20060,form,No
+5a4d33db5049437cebca4084,,51859,question,responseOptionYes,20060,form,Yes
+5a4d33ef504943f1f93581f1,,51860,question,questionText,20060,form,Does your organization have a copy of use policy and / or Non Disclosure agreement for employees and contractors/suppliers with any level of access?
+5a4d33ef504943f1f93581f1,,51860,question,responseOptionNA,20060,form,N/A
+5a4d33ef504943f1f93581f1,,51860,question,responseOptionNo,20060,form,No
+5a4d33ef504943f1f93581f1,,51860,question,responseOptionYes,20060,form,Yes
+5a4d34025049435af462077e,,51861,question,questionText,20060,form,Has your organization had any security breaches in the past 12 months?
+5a4d34025049435af462077e,,51861,question,responseOptionNA,20060,form,N/A
+5a4d34025049435af462077e,,51861,question,responseOptionNo,20060,form,No
+5a4d34025049435af462077e,,51861,question,responseOptionYes,20060,form,Yes
+5a4d341550494348ea9edf2c,,51862,question,questionText,20060,form,Does your organization have a Security Awareness Training program?
+5a4d341550494348ea9edf2c,,51862,question,responseOptionNA,20060,form,N/A
+5a4d341550494348ea9edf2c,,51862,question,responseOptionNo,20060,form,No
+5a4d341550494348ea9edf2c,,51862,question,responseOptionYes,20060,form,Yes
+5a4d34295049434f9b916bc4,,51863,question,questionText,20060,form,Does your organization attend IT Security conferences and webinars?
+5a4d34295049434f9b916bc4,,51863,question,responseOptionNA,20060,form,N/A
+5a4d34295049434f9b916bc4,,51863,question,responseOptionNo,20060,form,No
+5a4d34295049434f9b916bc4,,51863,question,responseOptionYes,20060,form,Yes
+5a4d343b504943b9b91f1e76,,51864,question,questionText,20060,form,Has your organization performed a Risk Assessment to identify and assess the risks associated with your system's security?
+5a4d343b504943b9b91f1e76,,51864,question,responseOptionNA,20060,form,N/A
+5a4d343b504943b9b91f1e76,,51864,question,responseOptionNo,20060,form,No
+5a4d343b504943b9b91f1e76,,51864,question,responseOptionYes,20060,form,Yes
+5a4d34565049438673231ef2,,51865,question,questionText,20060,form,Has your organization undergone a penetration test in the last 12 months?
+5a4d34565049438673231ef2,,51865,question,responseOptionNA,20060,form,N/A
+5a4d34565049438673231ef2,,51865,question,responseOptionNo,20060,form,No
+5a4d34565049438673231ef2,,51865,question,responseOptionYes,20060,form,Yes
+5a4d34665049432e7f60ec76,,51866,question,questionText,20060,form,Does your organization have a data classification policy and procedures?
+5a4d34665049432e7f60ec76,,51866,question,responseOptionNA,20060,form,N/A
+5a4d34665049432e7f60ec76,,51866,question,responseOptionNo,20060,form,No
+5a4d34665049432e7f60ec76,,51866,question,responseOptionYes,20060,form,Yes
+5a4d44f350494315389d0837,,51867,question,questionText,20060,form,Does your organization have a system in place to remote manage devices?
+5a4d44f350494315389d0837,,51867,question,responseOptionNA,20060,form,N/A
+5a4d44f350494315389d0837,,51867,question,responseOptionNo,20060,form,No
+5a4d44f350494315389d0837,,51867,question,responseOptionYes,20060,form,Yes
+5a4d4523504943e074c69376,,51868,question,questionText,20060,form,Does your organization have a policy regarding Personal Device Usage?
+5a4d4523504943e074c69376,,51868,question,responseOptionNA,20060,form,N/A
+5a4d4523504943e074c69376,,51868,question,responseOptionNo,20060,form,No
+5a4d4523504943e074c69376,,51868,question,responseOptionYes,20060,form,Yes
+5a4d460f504943591e8ad439,,51869,question,questionText,20060,form,Does your organization have a Data Retention Policy?
+5a4d460f504943591e8ad439,,51869,question,responseOptionNA,20060,form,N/A
+5a4d460f504943591e8ad439,,51869,question,responseOptionNo,20060,form,No
+5a4d460f504943591e8ad439,,51869,question,responseOptionYes,20060,form,Yes
+5a4d46a25049431cf3bff72c,,51870,question,questionText,20060,form,Does your organization have an incident response policy and procedure?
+5a4d46a25049431cf3bff72c,,51870,question,responseOptionNA,20060,form,N/A
+5a4d46a25049431cf3bff72c,,51870,question,responseOptionNo,20060,form,No
+5a4d46a25049431cf3bff72c,,51870,question,responseOptionYes,20060,form,Yes
+5a4d5e38504943b1bb3df5f0,,51871,question,questionText,20060,form,Does your organization have an incident log for all incidents that happened during the review period?
+5a4d5e38504943b1bb3df5f0,,51871,question,responseOptionNA,20060,form,N/A
+5a4d5e38504943b1bb3df5f0,,51871,question,responseOptionNo,20060,form,No
+5a4d5e38504943b1bb3df5f0,,51871,question,responseOptionYes,20060,form,Yes
+5a4d5e6950494313c85f1e91,,51872,question,questionText,20060,form,Does your organization have a Confidentiality policy and procedure?
+5a4d5e6950494313c85f1e91,,51872,question,responseOptionNA,20060,form,N/A
+5a4d5e6950494313c85f1e91,,51872,question,responseOptionNo,20060,form,No
+5a4d5e6950494313c85f1e91,,51872,question,responseOptionYes,20060,form,Yes
+5a4d5e7c504943a03f13e041,,51873,question,questionText,20060,form,Does your organization have a Data Transmission policy?
+5a4d5e7c504943a03f13e041,,51873,question,responseOptionNA,20060,form,N/A
+5a4d5e7c504943a03f13e041,,51873,question,responseOptionNo,20060,form,No
+5a4d5e7c504943a03f13e041,,51873,question,responseOptionYes,20060,form,Yes
+5a4d7ac9504943933cf3c485,,51874,question,questionText,20060,form,Does your organization allow employees to use personal devices?
+5a4d7ac9504943933cf3c485,,51874,question,responseOptionNA,20060,form,N/A
+5a4d7ac9504943933cf3c485,,51874,question,responseOptionNo,20060,form,No
+5a4d7ac9504943933cf3c485,,51874,question,responseOptionYes,20060,form,Yes
+5a4d7ae350494363acd2cfad,,51875,question,questionText,20060,form,Does your organization allow contractors to use personal devices?
+5a4d7ae350494363acd2cfad,,51875,question,responseOptionNA,20060,form,N/A
+5a4d7ae350494363acd2cfad,,51875,question,responseOptionNo,20060,form,No
+5a4d7ae350494363acd2cfad,,51875,question,responseOptionYes,20060,form,Yes
+5a4d7b365049433b003ad916,,51876,question,questionText,20060,form,"If yes, does your organization have a way to ensure that all employee information is deleted from the device(s) in the event that employment is terminated or they no longer are working with your organization?"
+5a4d7b365049433b003ad916,,51876,question,responseOptionNA,20060,form,N/A
+5a4d7b365049433b003ad916,,51876,question,responseOptionNo,20060,form,No
+5a4d7b365049433b003ad916,,51876,question,responseOptionYes,20060,form,Yes
+5a4d7b5a5049436520fcf439,,51877,question,questionText,20060,form,"If yes, how does your organization have a way to ensure that all contractors/contractor employees' information is deleted from the device(s) in the event that employment is terminated or they no longer are working with your organization?"
+5a4d7b5a5049436520fcf439,,51877,question,responseOptionNA,20060,form,N/A
+5a4d7b5a5049436520fcf439,,51877,question,responseOptionNo,20060,form,No
+5a4d7b5a5049436520fcf439,,51877,question,responseOptionYes,20060,form,Yes
+5a4d7bcf5049437682236841,,51878,question,questionText,20060,form,Does your organization require Non Disclosure Agreements to be signed with third parties?
+5a4d7bcf5049437682236841,,51878,question,responseOptionNA,20060,form,N/A
+5a4d7bcf5049437682236841,,51878,question,responseOptionNo,20060,form,No
+5a4d7bcf5049437682236841,,51878,question,responseOptionYes,20060,form,Yes

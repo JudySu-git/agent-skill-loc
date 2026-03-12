@@ -1,0 +1,10 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+5deeaafb340000306379d32b,4fc4b08f5049432a8c117694,2659,questionGroup,questionGroupText,20170,form,Policy Information
+5c61fba636000009437c72ee,4fc4b19950494352dff86dfe,2661,questionGroup,questionGroupText,20170,form,Policy Limits
+4fc4b1c0504943f489a4caef,,11934,question,questionText,20170,form,Monetary Limit
+60706b3343000090e8634870,5ac3ae6322000099011bfcaa,20170,questionGroup,questionGroupText,20170,form,Professional Indemnity
+60706ae64500009d89bc00e9,,108623,question,description,20170,form,Used to provide instructions from Client
+60706ae64500009d89bc00e9,,108623,question,questionText,20170,form,Comments
+60706af743000090e86345d4,,108624,question,description,20170,form,Date the instructions from Client expire
+60706af743000090e86345d4,,108624,question,questionText,20170,form,VARIANCE Expiration Date
+62f53f2882eb52eab3c18f9d,,130514,question,questionText,20170,form,Currency used in Certificate of Insurance (COI)

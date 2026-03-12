@@ -1,0 +1,36 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+67d0a5d40100000501158d19,67cf64bc01000038008fd72c,44706,questionGroup,questionGroupText,44706,form,Constellation Brands Performance Review
+67cf64bc01000044018fd72d,67cf64bc01000044018fd72d,44707,questionGroup,questionGroupText,44706,form,Review - General Information
+67cf64bc01000044018fd72f,67cf64bc01000044018fd72f,44708,questionGroup,questionGroupText,44706,form,Review - Quality
+67cf64bc01000044018fd733,67cf64bc01000044018fd733,44709,questionGroup,questionGroupText,44706,form,Review - General Comments
+67cf64bc01000044018fd72e,67cf64bc01000044018fd72e,44710,questionGroup,questionGroupText,44706,form,Review - Safety
+67cf64bc01000044018fd731,67cf64bc01000044018fd731,44711,questionGroup,questionGroupText,44706,form,Review - Cost/Financial/Budget
+67cf64bc01000044018fd730,67cf64bc01000044018fd730,44712,questionGroup,questionGroupText,44706,form,Review - Schedule/Time
+67cf64bc01000044018fd732,67cf64bc01000044018fd732,44713,questionGroup,questionGroupText,44706,form,Review - Environmental and Sustainability
+67cf64bc0100005b018fd735,,166395,question,questionText,44706,form,Project Name
+67cf64bc0100005b018fd734,,166396,question,questionText,44706,form,Project Completion Date
+67cf64bc01000042008fd737,,166397,question,questionText,44706,form,Please provide any additional comments or constructive feedback for this contractor:
+67cf64bc01000044018fd73a,,166398,question,questionText,44706,form,Attachments (Optional):
+67cf64bc01000042018fd736,,166399,question,questionText,44706,form,How well did the contractor/supplier adhere to all applicable environmental regulations and sustainability practices?
+67cf64bc01000042018fd738,,166400,question,questionText,44706,form,Comments:
+67cf64bc01000042018fd73b,,166401,question,questionText,44706,form,Comment - Quality of Materials and Workmanship
+67cf64bc010000aa008fd73c,,166402,question,questionText,44706,form,How well did the contractor/supplier complete the project with regards to quality of materials and workmanship?
+67cf64bc01000042018fd740,,166403,question,questionText,44706,form,Comments:
+67cf64bc01000042008fd739,,166404,question,questionText,44706,form,Comment - Environment and Sustainability
+67cf64bc0100005a008fd741,,166405,question,questionText,44706,form,How well did the contractor/supplier adhere to agreed-upon budget and costs?
+67cf64bc010000aa008fd73d,,166406,question,questionText,44706,form,"If cost changes were made, how well did the contractor communicate those changes?"
+67cf64bc010000aa008fd743,,166407,question,questionText,44706,form,Comments:
+67cf64bc01000040008fd746,,166408,question,questionText,44706,form,Comment - Budget and Costs
+67cf64bc0100005c018fd73e,,166409,question,questionText,44706,form,How well did the contractor/supplier follow all applicable health and safety guidelines throughout the duration of the project?
+67cf64bc010000aa008fd74c,,166410,question,questionText,44706,form,Comment - Incident Resolution
+67cf64bc01000042018fd73f,,166411,question,questionText,44706,form,How well did the contractor/supplier properly use personal protection equipment if required?
+67cf64bc01000040008fd742,,166412,question,questionText,44706,form,Comments:
+67cf64bc01000040008fd745,,166413,question,questionText,44706,form,How well did the contractor/supplier complete the project within the agreed-upon time frames and schedules?
+67cf64bc010000aa008fd744,,166414,question,questionText,44706,form,Comment - Changes in Schedule
+67cf64bc010000aa008fd749,,166415,question,questionText,44706,form,Comment - Health and Safety Guidelines
+67cf64bc01000040008fd747,,166416,question,questionText,44706,form,Comment - Cost Changes
+67cf64bc010000aa008fd74e,,166417,question,questionText,44706,form,"If there was an incident, how well did the contractor/supplier resolve the issue in accordance with all applicable guidelines and regulation?"
+67cf64bc010000aa008fd74b,,166418,question,questionText,44706,form,Comment- Project Completion
+67cf64bc01000040008fd748,,166419,question,questionText,44706,form,"If changes in schedule took place, how well did the contractor/supplier effectively communicate the changes?"
+67cf64bc010000aa008fd74d,,166420,question,questionText,44706,form,Comment - Use of Personal Protection Equipment
+67cf64bc010000aa008fd74a,,166421,question,questionText,44706,form,Comments:

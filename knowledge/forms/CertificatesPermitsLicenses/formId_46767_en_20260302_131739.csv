@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+688120fd010000da012908e7,688119590100003f00895249,46767,questionGroup,questionGroupText,46767,form,KLF Insurance - Professional Liability
+688119590100007b0089524a,688119590100007b0089524a,46768,questionGroup,questionGroupText,46767,form,Policy Limits
+688119590100007b0089524b,688119590100007b0089524b,46769,questionGroup,questionGroupText,46767,form,Policy Information
+688119590100007b0089524c,,177073,question,questionText,46767,form,Aggregate
+68811959010000a20189524d,,177074,question,questionText,46767,form,Each Occurrence
+68811959010000a20189524e,,177075,question,questionText,46767,form,Currency used in Certificate of Insurance (COI)
+688119590100005600895250,,177076,question,questionText,46767,form,Expiration Date:
+688119590100007b0089524f,,177077,question,questionText,46767,form,Date of Commencement:
+688119590100005600895251,,177078,question,questionText,46767,form,Please upload Professional Liability Certificate
+688119590100005600895252,,177079,question,questionText,46767,form,Insurance Carrier:
+688119590100005600895253,,177080,question,description,46767,form,Used to provide instructions from Client
+688119590100005600895253,,177080,question,questionText,46767,form,Comments
+688119590100005600895254,,177081,question,description,46767,form,Date the instructions from Client expire
+688119590100005600895254,,177081,question,questionText,46767,form,VARIANCE Expiration Date

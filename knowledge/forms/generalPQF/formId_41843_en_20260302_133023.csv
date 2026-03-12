@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+661fe8b21d00002b00007d67,6619c20b1c000032008f15b4,41843,questionGroup,questionGroupText,41843,form,Avetta PQF - UK Supplier Diversity Questionnaire
+6619c2441c000032008f15b8,,152696,question,description,41843,form,"Your Clients are looking to identify diverse suppliers. Providing this information is entirely voluntary.             \n\nVeteran-Owned Business: A business that is at least 51% owned, managed and controlled by anyone who has served for at least one day in His Majesty’s Armed Forces (Regular or Reserve) or Merchant Mariners who have seen duty on legally defined military operations.\n\nWomen-Owned Business Enterprise (WOBE): A business that is at least 51% owned, managed, and controlled by one or more women.\n\nDisability-Owned Business Enterprise (DOBE): A business that is at least 51% owned, managed, and controlled by one or more individuals with a disability.\n\nLGBTQ+-Owned Business: A business that is at least 51% owned, managed and controlled by individuals who identify as part of the LGBTQ+ community.\n\nEthnic/Minority-Owned Businesses: a business that is at least 51% owned, managed and controlled by individuals who identify as an Ethnic Minority."
+6619c2441c000032008f15b8,,152696,question,questionText,41843,form,Does your company hold any current UK Diversity Classifications listed below:
+6619c2441c000032008f15b8,,152696,question,responseOption1,41843,form,Yes
+6619c2441c000032008f15b8,,152696,question,responseOption2,41843,form,No
+6619c29c1c00002e008f15bb,,152697,question,questionText,41843,form,Please select the diversity classification(s) your company currenly holds. Please select all that apply.
+6619c29c1c00002e008f15bb,,152697,question,responseOption1,41843,form,Veteran-Owned Business
+6619c29c1c00002e008f15bb,,152697,question,responseOption2,41843,form,Women-Owned Business Enterprise (WOBE)
+6619c29c1c00002e008f15bb,,152697,question,responseOption3,41843,form,Disability-Owned Business Enterprise (DOBE)
+6619c29c1c00002e008f15bb,,152697,question,responseOption4,41843,form,LGBTQ+-Owned Business
+6619c29c1c00002e008f15bb,,152697,question,responseOption5,41843,form,Ethnic Minority Owned Businesses
+661fe85d1d00002b00007d64,,152805,question,questionText,41843,form,"As an authorized signatory, I certify that the information entered is accurate:"
+661fe85d1d00002b00007d64,,152805,question,responseOption1,41843,form,Yes
+661fe85d1d00002b00007d64,,152805,question,responseOption2,41843,form,No

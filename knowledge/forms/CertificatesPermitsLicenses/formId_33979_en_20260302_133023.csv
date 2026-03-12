@@ -1,0 +1,30 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+61afc2d72d00004b39370646,617039bf2d0000fd98d3ae56,33979,questionGroup,questionGroupText,33979,form,QuickVett Safety Acknowledgement Form
+61afc29d2e0000cdeb855cc0,6176d00b2d0000b3df15055c,34024,questionGroup,questionGroupText,33979,form,Safety
+6176d07c2d0000b3df15069e,6176d07c2d0000b3df15069d,34025,questionGroup,questionGroupText,33979,form,Accident and Incident Statistics
+61703df22d0000fd98d3ae6e,,115490,question,questionText,33979,form,Has your company had any fatalities in the past 3 years?
+61703df22d0000fd98d3ae6e,,115490,question,responseOption1,33979,form,Yes
+61703df22d0000fd98d3ae6e,,115490,question,responseOption2,33979,form,No
+6176cef92e0000be63d00776,,115608,question,questionText,33979,form,Does your company have any open or unresolved regulatory violations?
+6176cef92e0000be63d00776,,115608,question,responseOption1,33979,form,Yes
+6176cef92e0000be63d00776,,115608,question,responseOption2,33979,form,No
+6176cef92e0000be63d00776,,115608,question,responseOption3,33979,form,N/A
+6176d0982e0000be63d00ef7,,115612,question,questionText,33979,form,How many man-hours did your company work last year?
+6176d0982e0000be63d00ef7,,115612,question,responseOption1,33979,form,"Under 2,000"
+6176d0982e0000be63d00ef7,,115612,question,responseOption2,33979,form,"2000 - 9,999"
+6176d0982e0000be63d00ef7,,115612,question,responseOption3,33979,form,"10,000 - 19,999"
+6176d0982e0000be63d00ef7,,115612,question,responseOption4,33979,form,"20,000 - 99,999"
+6176d0982e0000be63d00ef7,,115612,question,responseOption5,33979,form,"100,000 - 199,999"
+6176d0982e0000be63d00ef7,,115612,question,responseOption6,33979,form,"200,000 - 999,999"
+6176d0982e0000be63d00ef7,,115612,question,responseOption7,33979,form,"1,000,000 - 1,999,999"
+6176d0982e0000be63d00ef7,,115612,question,responseOption8,33979,form,"2,000,000 and up"
+6176fb752e0000be63d120d0,,115621,question,questionText,33979,form,How many injuries (which required more than first-aid) did your company experience last year?
+6176fb752e0000be63d120d0,,115621,question,responseOption1,33979,form,0
+6176fb752e0000be63d120d0,,115621,question,responseOption2,33979,form,1
+6176fb752e0000be63d120d0,,115621,question,responseOption3,33979,form,2-4
+6176fb752e0000be63d120d0,,115621,question,responseOption4,33979,form,5-9
+6176fb752e0000be63d120d0,,115621,question,responseOption5,33979,form,10-14
+6176fb752e0000be63d120d0,,115621,question,responseOption6,33979,form,15-19
+6176fb752e0000be63d120d0,,115621,question,responseOption7,33979,form,20-24
+6176fb752e0000be63d120d0,,115621,question,responseOption8,33979,form,25-29
+6176fb752e0000be63d120d0,,115621,question,responseOption9,33979,form,30+

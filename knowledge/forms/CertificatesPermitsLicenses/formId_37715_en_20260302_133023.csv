@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+674df5c50100007000a411aa,637550f51600006705b65414,37715,questionGroup,description,37715,form,"You are getting this category because you selected ISO 22301:2019 in the Avetta PQF - ISO Certifications Questionnaire\n\nISO Certificates issued for the a prior standard that are still valid and not expired will be accepted. If your organization also has a country specific certificate that is equivalent to the ISO Standard listed below, that certification will also be accepted as long as it is still valid."
+674df5c50100007000a411aa,637550f51600006705b65414,37715,questionGroup,questionGroupText,37715,form,ISO 22301 - Security and Resilience
+637550f51600006705b65415,,133537,question,questionText,37715,form,Please upload your ISO 22301:2019 - Security and Resilience — Business Continuity Management Systems — Requirements certificate:
+637550f51600006705b65416,,133538,question,questionText,37715,form,Please enter the certificate expiration date:\n

@@ -1,0 +1,18 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87730a36b6c4c63546674,69a87730a36b6c4c63546673,51139,questionGroup,questionGroupText,51139,form,建筑施工 - 喷砂处理,
+69a8772fa36b6c4c6354666d,,199934,question,description,51139,form,"必须为执行喷砂作业的工人以及暴露于喷砂粉尘的工人提供合适的呼吸防护装备和防护服。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 126(3)</a>",
+69a8772fa36b6c4c6354666d,,199934,question,questionText,51139,form,呼吸防护,
+69a8772fa36b6c4c6354666e,,199935,question,description,51139,form,"在喷砂作业期间，必须禁止与喷砂作业无关的人员进入危险区域。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 126(3)</a>",
+69a8772fa36b6c4c6354666e,,199935,question,questionText,51139,form,限制进入管控,
+69a8772fa36b6c4c6354666f,,199936,question,description,51139,form,"喷砂作业必须以防止或最大限度减少有害粉尘暴露的方式进行。必须采取适当的技术措施，防止喷砂粉尘扩散。必要时，喷砂区域必须进行封闭或以其他有效方式加以围挡，以限制粉尘扩散。沉积的喷砂粉尘必须以防止再次产生粉尘暴露的方式加以清除。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 126(3)</a>",
+69a8772fa36b6c4c6354666f,,199936,question,questionText,51139,form,粉尘控制,
+69a8772fa36b6c4c63546670,,199937,question,description,51139,form,"如涉及喷砂作业的建筑施工预计持续时间超过五个工作日，必须向相关劳动监察机构进行通报。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 3(5)(4)</a>",
+69a8772fa36b6c4c63546670,,199937,question,questionText,51139,form,向劳动监察机构通报,
+69a8772fa36b6c4c63546671,,199938,question,description,51139,form,"禁止使用石英含量（质量分数）超过2%的磨料，喷砂作业中不得使用此类磨料。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008904"">Construction Workers Protection Ordinance, Section 126(2)</a>",
+69a8772fa36b6c4c63546671,,199938,question,questionText,51139,form,禁止使用石英含量>2%的磨料,
+69a8772fa36b6c4c63546672,,199939,question,questionText,51139,form,<div></div>,

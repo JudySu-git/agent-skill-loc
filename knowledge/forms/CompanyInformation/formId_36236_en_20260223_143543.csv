@@ -1,0 +1,33 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+62d822c5300000c3a286a543,6275a4182f0000b56ac90e01,36236,questionGroup,questionGroupText,36236,form,Avetta PQF - Pakistan Company Information
+62d8211f300000c3a28681e4,6275a4392e000057ef2b5921,36237,questionGroup,questionGroupText,36236,form,Paskistan
+6275abb12f0000b56ac93a19,,126835,question,description,36236,form,Note: The Partnership/Association of Persons are registered with the Provincial Authorities in the Province the Partnership is operating.\n\nThere is no formal incorporation of Sole-Proprietorship apart from registration with the Tax Authorities i.e. FBR from where NTN is obtained.
+6275abb12f0000b56ac93a19,,126835,question,questionText,36236,form,Please indicate your company's business entity / form of business within this country.
+6275abb12f0000b56ac93a19,,126835,question,responseOption1,36236,form,Private Limited Company
+6275abb12f0000b56ac93a19,,126835,question,responseOption2,36236,form,Single Member Company (SMCs)
+6275abb12f0000b56ac93a19,,126835,question,responseOption3,36236,form,Public Limited Company
+6275abb12f0000b56ac93a19,,126835,question,responseOption4,36236,form,A Guarantee Limited Company
+6275abb12f0000b56ac93a19,,126835,question,responseOption5,36236,form,Partnership/Association of Persons
+6275abb12f0000b56ac93a19,,126835,question,responseOption6,36236,form,Sole-Proprietorship
+6275abd52f0000b56ac93aaa,,126836,question,questionText,36236,form,Is your company registered with the Federal Board of Revenue (FBR) and issuance of a national tax number (NTN)?
+6275abd52f0000b56ac93aaa,,126836,question,responseOption1,36236,form,Yes
+6275abd52f0000b56ac93aaa,,126836,question,responseOption2,36236,form,No
+6275abe92e000057ef2b9665,,126837,question,description,36236,form,"https://org-id.guide/list/PK-NTN\n\n7 digits – text\n\nThe validity of NTN and its status as Active (Active means the person is regularly filing the statutory returns) or not can be verified from the following site of FBR: https://e.fbr.gov.pk/esbn/Verification# \n\n(For security purposes, all Government Sites are blocked from being opened or accessed from outside Pakistan)\n"
+6275abe92e000057ef2b9665,,126837,question,questionText,36236,form,Please provide tax number.
+6275abff2f0000b56ac93b50,,126838,question,description,36236,form,"Annual Returns is required to be filed by the companies, in terms of Section-130 of the Companies Act, 2017.\nhttps://www.secp.gov.pk/company-formation/running-a-company/annual-returns/\n\nThe status of the company’s current filing can be verified from the official website of Securities and Exchange Commission of Pakistan (SECP) i.e. https://eservices.secp.gov.pk/eServices/NameSearch.jsp.  Although for verification of the shareholding and owners, the copies of the forms would be required anyways as indicated by you above.\n\n\n(Government Sites cannot be accessed from outside Pakistan due to security reasons)\n"
+6275abff2f0000b56ac93b50,,126838,question,questionText,36236,form,Please provide the latest Annual Return (Form A/B) of your company.
+6275ac1a2e000057ef2b96ee,,126839,question,description,36236,form,"Copy of valid membership certificate of chamber of commerce may be required, as the membership of chamber is renewed on regular basis. There are several Chamber of Commerce for each business city in Pakistan, the detail of each chamber is available on the site of Federal Chamber of Commerce & Industry (FCCI), as every Chamber is member of FCCI. The complete list of Chamber of Commerce of operating in Pakistan are available on the site of FCCI along with the site address on the following link: https://fpcci.org.pk/wp-content/uploads/2022/06/MEMBER-TBs-FPCCI-2021-2022-24-06-2022.pdf\n"
+6275ac1a2e000057ef2b96ee,,126839,question,questionText,36236,form,Is your company a member of any chamber of the Chamber of Commerce and Industries? (CCI) 
+6275ac1a2e000057ef2b96ee,,126839,question,responseOption1,36236,form,Yes
+6275ac1a2e000057ef2b96ee,,126839,question,responseOption2,36236,form,No
+6275ac1a2e000057ef2b96ee,,126839,question,responseOption3,36236,form,N/A
+6275ac372e000057ef2b97e2,,126840,question,questionText,36236,form,"Please enter your company’s main <a href =""https://www.pbs.gov.pk/content/classifications"" target = ""_blank_"">Industry Classification code(s)</a> in Pakistan."
+6275ac672f0000b56ac93ddd,,126841,question,questionText,36236,form,Does your company have any additional Industry classification codes?
+6275ac672f0000b56ac93ddd,,126841,question,responseOption1,36236,form,Yes
+6275ac672f0000b56ac93ddd,,126841,question,responseOption2,36236,form,No
+6275ac762f0000b56ac93ddf,,126842,question,questionText,36236,form,Please provide the additional Industry classification code
+6275ac822e000057ef2b9839,,126843,question,questionText,36236,form,Does your company have any additional Industry classification codes?
+6275ac822e000057ef2b9839,,126843,question,responseOption1,36236,form,Yes
+6275ac822e000057ef2b9839,,126843,question,responseOption2,36236,form,No
+6275ac892e000057ef2b9a92,,126844,question,questionText,36236,form,Please provide the additional Industry classification code
+62d8211d300000c3a28681c7,,129982,question,questionText,36236,form,"Please upload a Form-C for registration of the Partnership, copy of updated Partnership Deed and Form-D in case of any amendments."

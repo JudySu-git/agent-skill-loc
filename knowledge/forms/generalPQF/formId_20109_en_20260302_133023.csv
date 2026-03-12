@@ -1,0 +1,120 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63a33efe160000a804e28bda,502a37da504943701a49dc3c,2839,questionGroup,questionGroupText,20109,form,CDM Management
+5085508f50494354c0d1cb45,5085508f50494354c0d1cb45,3100,questionGroup,questionGroupText,20109,form,Principal Contractor
+508551375049433ab88036b9,508551375049433ab88036b9,3101,questionGroup,questionGroupText,20109,form,Principal Designer
+50855147504943d0e9a3ea51,50855147504943d0e9a3ea51,3102,questionGroup,questionGroupText,20109,form,Designer
+502a384c504943200987e808,,12886,question,questionText,20109,form,"How does your company ensure that site specific induction, training and instruction are carried out?"
+502a384c504943200987e808,,12886,question,responseOptionNo,20109,form,No
+502a384c504943200987e808,,12886,question,responseOptionYes,20109,form,Yes
+502a3894504943576afd5d7c,,12887,question,description,20109,form,"e.g. site meetings, toolbox talks, bulletins or other means."
+502a3894504943576afd5d7c,,12887,question,questionText,20109,form,How does your company consult with workers about any changes and progress of the project?
+502a3894504943576afd5d7c,,12887,question,responseOptionNo,20109,form,No
+502a3894504943576afd5d7c,,12887,question,responseOptionYes,20109,form,Yes
+502a38a65049431c9356c7f8,,12888,question,description,20109,form,A construction project will be non-notifiable where the work lasts for fewer than 30 days or involves fewer than 500 person days of work.
+502a38a65049431c9356c7f8,,12888,question,questionText,20109,form,Does your company act as a Principal Contractor for all non-notifiable projects?
+502a38a65049431c9356c7f8,,12888,question,responseOptionNo,20109,form,No
+502a38a65049431c9356c7f8,,12888,question,responseOptionYes,20109,form,Yes
+502a38b85049435c2db88e0e,,12889,question,description,20109,form,"A construction project will be notifiable where the work lasts for more than 30 days and has more than 20 workers on site at any one time, or involves more than 500 person days of work (for example, 50 people working for more than 10 days)."
+502a38b85049435c2db88e0e,,12889,question,questionText,20109,form,Does your company act as a Principal Contractor for all notifiable projects?
+502a38b85049435c2db88e0e,,12889,question,responseOptionNo,20109,form,No
+502a38b85049435c2db88e0e,,12889,question,responseOptionYes,20109,form,Yes
+502a38cb504943963cb58355,,12890,question,description,20109,form,"It is a key duty of a Principal Contractor to co-ordinate the construction phase of a project which includes liaising with the Client and Principal Designer, preparing the construction phase plan, and organising contractors and their work."
+502a38cb504943963cb58355,,12890,question,questionText,20109,form,"Describe how your company plans, manages, monitors and co-ordinates the construction phase of a project."
+502a38cb504943963cb58355,,12890,question,responseOptionNo,20109,form,No
+502a38cb504943963cb58355,,12890,question,responseOptionYes,20109,form,Yes
+502a38ff504943c8dbcbc0e1,,12891,question,questionText,20109,form,"Please provide details of the experience, training, qualifications, and knowledge of health & safety and arrangements of your designers."
+502a390f504943a031adb2b8,,12892,question,questionText,20109,form,"Does your company have procedures in place to ensure that your designs meet the requirements of The Workplace (Health, Safety and Welfare) Regulations 1992?"
+502a390f504943a031adb2b8,,12892,question,responseOptionNo,20109,form,No
+502a390f504943a031adb2b8,,12892,question,responseOptionYes,20109,form,Yes
+502a392250494383ea7a7bc5,,12893,question,description,20109,form,"Your aim is to eliminate hazards from the design (so far as is reasonably practicable), and reduce risks from any remaining hazards – giving priority to collective protective measures before individual protective measures. The consideration of hazard and risk is integrated within the design process, so there is no need to carry out a separate ’design risk assessment’. A design review may be useful as a means of checking that the principal aim of eliminating hazards or reducing risks is achieved. A design practice or design team may choose to develop their own arrangements to make sure that designers are aware of their responsibility to eliminate hazards and reduce risks. The nature of these arrangements will depend on the size of the design practice/team and the type of work undertaken. In general, the production of design risk assessments that cover well-known and understood construction hazards should be avoided. The crucial information, ie that which covers unusual or complex hazards, is then much less likely to be missed and should be passed on to those that will need it in a format that is readily accessible to them."
+502a392250494383ea7a7bc5,,12893,question,questionText,20109,form,Does your company ensure hazards are eliminated and risks are reduced in the design process?
+502a392250494383ea7a7bc5,,12893,question,responseOptionNo,20109,form,No
+502a392250494383ea7a7bc5,,12893,question,responseOptionYes,20109,form,Yes
+502a395c5049435180d3cf3e,,12895,question,questionText,20109,form,"Does your company co-ordinate and communicate with the client, other designers, the Principal Designer and Principal Contractor and contractors?"
+502a395c5049435180d3cf3e,,12895,question,responseOptionNo,20109,form,No
+502a395c5049435180d3cf3e,,12895,question,responseOptionYes,20109,form,Yes
+502a40c750494386a7e9838d,,12897,question,description,20109,form,"<a href=""http://www.hse.gov.uk/construction/cdm/2015/index.htm"" target=""_blank"" >CDM2015</a>"
+502a40c750494386a7e9838d,,12897,question,questionText,20109,form,Do your company's services require CDM compliance?
+502a40c750494386a7e9838d,,12897,question,responseOptionNo,20109,form,No
+502a40c750494386a7e9838d,,12897,question,responseOptionYes,20109,form,Yes
+50855ba35049439e769506b8,,14365,question,questionText,20109,form,Does your company sub-contract work to other companies or individuals?
+50855ba35049439e769506b8,,14365,question,responseOptionNo,20109,form,No
+50855ba35049439e769506b8,,14365,question,responseOptionYes,20109,form,Yes
+50855c805049433b265f10ea,,14368,question,questionText,20109,form,Does your company provide regular updated schedules and documentation to contractors working for you?
+50855c805049433b265f10ea,,14368,question,responseOptionNo,20109,form,No
+50855c805049433b265f10ea,,14368,question,responseOptionYes,20109,form,Yes
+50855cde5049437766885f7f,,14370,question,description,20109,form,You should be able to demonstrate that your organization has and implements procedures for carrying out risk assessments and for developing and implementing safe systems of work (method statements).
+50855cde5049437766885f7f,,14370,question,questionText,20109,form,Does your company check sub-contractor risk assessments/method statements and safe systems of work to ensure they meet your company and your client requirements?
+50855cde5049437766885f7f,,14370,question,responseOptionNo,20109,form,No
+50855cde5049437766885f7f,,14370,question,responseOptionYes,20109,form,Yes
+50855cfb50494343aa99355c,,14371,question,questionText,20109,form,Does your company provide site security to ensure unauthorised persons cannot access site and work activities involving employees and contractors are kept separate from members of the public?
+50855cfb50494343aa99355c,,14371,question,responseOptionNo,20109,form,No
+50855cfb50494343aa99355c,,14371,question,responseOptionYes,20109,form,Yes
+50855d7e504943430b639a66,,14372,question,description,20109,form,"<a href=""http://www.hse.gov.uk/pubns/priced/l153.pdf"" target=""_blank"" >CDM Guidance</a>"
+50855d7e504943430b639a66,,14372,question,questionText,20109,form,Does your company undertake the role of Principal Designer?
+50855d7e504943430b639a66,,14372,question,responseOptionNo,20109,form,No
+50855d7e504943430b639a66,,14372,question,responseOptionYes,20109,form,Yes
+50855de450494328e0819560,,14373,question,questionText,20109,form,"Does your company ensure that individuals have sufficient knowledge, experience and ability to carry out their Principal Designer role?"
+50855de450494328e0819560,,14373,question,responseOptionNo,20109,form,No
+50855de450494328e0819560,,14373,question,responseOptionYes,20109,form,Yes
+50855e045049431d48dda893,,14374,question,questionText,20109,form,"Please provide details of the experience, training, qualifications, and knowledge of health & safety and arrangements of your Principal Designers."
+50855e215049432c72154292,,14375,question,description,20109,form,"Principal Designers need to plan, manage, monitor and co-ordinate health and safety in the pre-construction phase which should include ensuring designers carry out their duties"
+50855e215049432c72154292,,14375,question,questionText,20109,form,How does your company coordinate the health and safety aspects of design work?
+50855e49504943c4f5b903b2,,14376,question,questionText,20109,form,What are your arrangements for compiling pre-construction information?
+50855e8e5049434e323bef1c,,14377,question,description,20109,form,"Principal Designers need to liaise with the Principal Contractor to help in the planning, management, monitoring and co-ordination of the construction phase."
+50855e8e5049434e323bef1c,,14377,question,questionText,20109,form,What are your arrangements for ensuring the Principal Contractor receives the pre-construction information?
+50855ea75049433115319ddc,,14378,question,questionText,20109,form,Is your company able to prepare and update the health and safety file in line with client requirements?
+50855ea75049433115319ddc,,14378,question,responseOptionNo,20109,form,No
+50855ea75049433115319ddc,,14378,question,responseOptionYes,20109,form,Yes
+50855f00504943420e1057d7,,14380,question,questionText,20109,form,Does your company make sure that the client is aware of their CDM duties?
+50855f00504943420e1057d7,,14380,question,responseOptionNo,20109,form,No
+50855f00504943420e1057d7,,14380,question,responseOptionYes,20109,form,Yes
+50855fca5049436b8de8ba70,,14381,question,description,20109,form,"Demonstrate how these are communicated to the design team, contractors, client etc."
+50855fca5049436b8de8ba70,,14381,question,questionText,20109,form,How does your company provide adequate information about remaining risks associated with your element of the design?
+50855ff850494368fc32bfd0,,14382,question,description,20109,form,"Demonstrate how risk was managed through design, e.g. design risk assessment example."
+50855ff850494368fc32bfd0,,14382,question,questionText,20109,form,Please provide an example of an actual project where hazards were eliminated and risks were reduced at the design stage.
+508561dd504943a2c9a5ae80,,14383,question,questionText,20109,form,Is your company able to provide the information needed for the health and safety file?
+508561dd504943a2c9a5ae80,,14383,question,responseOptionNo,20109,form,No
+508561dd504943a2c9a5ae80,,14383,question,responseOptionYes,20109,form,Yes
+63a343f0180000830019ecee,5ab468742e000064005d1e3a,20109,questionGroup,questionGroupText,20109,form,Avetta PQF - CDM Management
+555a1548504943ebef81a621,,30864,question,description,20109,form,"<a href=""http://www.hse.gov.uk/pubns/priced/l153.pdf"" target=""_blank"" >CDM Guidance</a>"
+555a1548504943ebef81a621,,30864,question,questionText,20109,form,Do the services your organization deliver require your company to act as Principal Contractor under CDM2015?
+555a1548504943ebef81a621,,30864,question,responseOptionNo,20109,form,No
+555a1548504943ebef81a621,,30864,question,responseOptionYes,20109,form,Yes
+555a19a9504943a46fb13abe,,30865,question,questionText,20109,form,Does your company liaise and co-operate with the Principal Designer?
+555a19a9504943a46fb13abe,,30865,question,responseOptionNo,20109,form,No
+555a19a9504943a46fb13abe,,30865,question,responseOptionYes,20109,form,Yes
+555a1a6950494388d78884f5,,30866,question,questionText,20109,form,"Does your company prepare, develop and implement a construction phase plan?"
+555a1a6950494388d78884f5,,30866,question,responseOptionNo,20109,form,No
+555a1a6950494388d78884f5,,30866,question,responseOptionYes,20109,form,Yes
+555a1b52504943101286cd92,,30867,question,description,20109,form,"When you employ or control people doing work for you, you must ensure that they have the necessary skills, knowledge, training and experience to do the job safely and without putting their own or others' health and safety at risk."
+555a1b52504943101286cd92,,30867,question,questionText,20109,form,"Describe how your company ensures all contractors and workers on site have the necessary skills, knowledge, training and experience to do the job safely."
+555a26a9504943118569d9b1,,30869,question,description,20109,form,<a href='http://www.hse.gov.uk/pubns/priced/l153.pdf ' target='_BLANK'>CDM2015</a>
+555a26a9504943118569d9b1,,30869,question,linkhttp://www.hse.gov.uk/pubns/priced/l153.pdf,20109,form,CDM2015
+555a26a9504943118569d9b1,,30869,question,questionText,20109,form,Does your company provide design services under <a href='http://www.hse.gov.uk/pubns/priced/l153.pdf ' target='_BLANK'>CDM2015</a>?
+555a26a9504943118569d9b1,,30869,question,responseOptionNo,20109,form,No
+555a26a9504943118569d9b1,,30869,question,responseOptionYes,20109,form,Yes
+63a33efc1600007c04e28bd9,63a33efc1600007c04e28bd8,38229,questionGroup,questionGroupText,20109,form,Contractor
+5a27664c50494375bcb6eeae,,51298,question,description,20109,form,"You should be able to demonstrate how you ensure suitable welfare facilities will be in place before starting work on site, whether provided by site specific arrangement or own organizational measures."
+5a27664c50494375bcb6eeae,,51298,question,questionText,20109,form,Describe how your company ensures that adequate welfare facilities are available throughout the duration of the project.
+63a33f471600008606ccdfd9,,135555,question,questionText,20109,form,Do the services your organization deliver require your company to act as a Contractor under CDM2015?
+63a33f471600008606ccdfd9,,135555,question,responseOption1,20109,form,Yes
+63a33f471600008606ccdfd9,,135555,question,responseOption2,20109,form,No
+63a33f5a160000b804e28bdf,,135556,question,description,20109,form,"Contractors: roles and responsibilities:\n<a href\t= ""https://www.hse.gov.uk/construction/cdm/2015/contractors.htm""target=""_BLANK_"">https://www.hse.gov.uk/construction/cdm/2015/contractors.htm</a>\n"
+63a33f5a160000b804e28bdf,,135556,question,questionText,20109,form,"Does your company plan, manage and monitor all work carried out by your workers?"
+63a33f5a160000b804e28bdf,,135556,question,responseOption1,20109,form,Yes
+63a33f5a160000b804e28bdf,,135556,question,responseOption2,20109,form,No
+63a33fdd160000ba04e28be3,,135558,question,questionText,20109,form,"Does your company ensure that all workers have the skills, knowledge, training and experience to carry out the work?"
+63a33fdd160000ba04e28be3,,135558,question,responseOption1,20109,form,Yes
+63a33fdd160000ba04e28be3,,135558,question,responseOption2,20109,form,No
+63a33ff21600009106ccdfe7,,135559,question,description,20109,form,Site-specific induction could be delivered by the Principal Contractor.
+63a33ff21600009106ccdfe7,,135559,question,questionText,20109,form,"Does your company ensure that all workers under your control have a suitable, site-specific induction?"
+63a33ff21600009106ccdfe7,,135559,question,responseOption1,20109,form,Yes
+63a33ff21600009106ccdfe7,,135559,question,responseOption2,20109,form,No
+63a3400b160000b704e28be7,,135560,question,questionText,20109,form,"Describe how your company provides appropriate supervision, information and instructions to workers under your control."
+63a340151600007406ccdfeb,,135561,question,description,20109,form,"For projects involving more than one contractor, your company has a duty to ensure your work is coordinated with other trades on site."
+63a340151600007406ccdfeb,,135561,question,questionText,20109,form,Describe how your company ensures that all work is coordinated with the work of others in the project team.
+63a3402d160000ab04e28be9,,135562,question,description,20109,form,This includes complying with parts of the construction phase plan relevant to your work.
+63a3402d160000ab04e28be9,,135562,question,questionText,20109,form,Does your company comply with directions given by the Principal Designer and/or Principal Contractor?
+63a3402d160000ab04e28be9,,135562,question,responseOption1,20109,form,Yes
+63a3402d160000ab04e28be9,,135562,question,responseOption2,20109,form,No

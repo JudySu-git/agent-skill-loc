@@ -1,0 +1,8 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+688bdac90100005600608f72,688bbc7101000046002007f1,46911,questionGroup,description,46911,form,This requirement is triggered because you indicated your organization maintains a valid Commercial Vehicle Operator's Registration Certificate (CVOR) in the Canada Commercial Vehicle Operator's Registration Certificate (CVOR) Applicability Assessment questionnaire.
+688bdac90100005600608f72,688bbc7101000046002007f1,46911,questionGroup,questionGroupText,46911,form,Canada Commercial Vehicle Operator's Registration Certificate (CVOR)
+688bbcc20100005700608f16,,177859,question,description,46911,form,
+688bbcc20100005700608f16,,177859,question,questionText,46911,form,Please upload your  Commercial Vehicle Operator's Registration Certificate (CVOR).
+688bbcd10100005800608f19,,177860,question,questionText,46911,form,Please enter the issue date of your  Commercial Vehicle Operator's Registration Certificate (CVOR).
+688bbcdf0100003a00608f1c,,177861,question,description,46911,form,"Please enter the expiration date as 1 or 2 years after the issue date depending on your <a href=""https://www.ontario.ca/page/renew-replace-or-update-commercial-vehicle-operators-registration-cvor-certificate""target=""_blank"">safety rating</a>."
+688bbcdf0100003a00608f1c,,177861,question,questionText,46911,form,Please enter the expiration date of your Commercial Vehicle Operator's Registration Certificate (CVOR).

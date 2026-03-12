@@ -1,0 +1,33 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87747a36b6c4c63546785,69a87747a36b6c4c63546784,51169,questionGroup,questionGroupText,51169,form,Überdruckarbeiten – Taucherarbeiten,
+69a87747a36b6c4c63546779,,200142,question,description,51169,form,"Tägliche Zustandsprüfungen müssen durchgeführt werden, und die Ausrüstung muss vor der Verwendung und nach jedem Tauchgang untersucht werden. Jährliche Inspektionen sind erforderlich, und Tauchausrüstung muss von einer qualifizierten Person geprüft werden. Leichte Ausrüstung muss zweimal jährlich geprüft werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 28 Abs. 2, § 37 Abs. 1, § 37 Abs. 3, § 39 Abs. 8</a>",
+69a87747a36b6c4c63546779,,200142,question,questionText,51169,form,"Ausrüstungsprüfungen (Vor der Verwendung, nach dem Tauchgang, halbjährlich, jährlich)",
+69a87747a36b6c4c6354677a,,200143,question,description,51169,form,"Prüfaufzeichnungen müssen für Ausrüstungskontrollen und -tests geführt werden. Die Aufbewahrung von Protokollen muss Auftauchaufzeichnungen für mindestens zehn Jahre sicherstellen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 28 Abs. 2, § 47 Abs. 2, § 50 Abs. 1</a>",
+69a87747a36b6c4c6354677a,,200143,question,questionText,51169,form,Aufzeichnungen,
+69a87747a36b6c4c6354677b,,200144,question,description,51169,form,"Taucherarbeiten müssen der Arbeitsinspektion vor Arbeitsbeginn gemeldet werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 29, § 47 Abs. 1 Z 1</a>",
+69a87747a36b6c4c6354677b,,200144,question,questionText,51169,form,Meldung an die Arbeitsinspektion (vor Arbeitsbeginn),
+69a87747a36b6c4c6354677c,,200145,question,description,51169,form,"Die Gefahrenunterweisung vor dem Tauchgang muss Schiffsverkehr, Strömungen, Untergrundverhältnisse und bekannte Unterwassergefahren umfassen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 36 Abs. 1</a>",
+69a87747a36b6c4c6354677c,,200145,question,questionText,51169,form,Gefahrenunterweisung vor dem Tauchgang,
+69a87747a36b6c4c6354677d,,200146,question,description,51169,form,"Die Zusammensetzung des Taucherteams muss mindestens zwei Taucher und zwei Hilfspersonen umfassen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 30 Abs. 1</a>",
+69a87747a36b6c4c6354677d,,200146,question,questionText,51169,form,Mindestbesetzung des Taucherteams (zwei Taucher und zwei Hilfspersonen),
+69a87747a36b6c4c6354677e,,200147,question,description,51169,form,"Die qualifizierte Aufsicht muss durch eine zuverlässige und fachkundige Person gewährleistet werden. Taucheranweisungen dürfen nur von Personen mit einer Ausbildung und Erfahrung als Taucher oder Signalgeber erteilt werden.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 30 Abs. 1–2</a>",
+69a87747a36b6c4c6354677e,,200147,question,questionText,51169,form,Qualifizierte Aufsicht,
+69a87747a36b6c4c6354677f,,200148,question,description,51169,form,"Die Aufgaben des Signalgebers müssen ausschließlich der Kommunikation gewidmet sein, während der Taucher unter Wasser ist. Die Fachkompetenz des Signalpersonals muss Kenntnisse im Arbeitsschutz sowie Kenntnisse der Signale und Ausrüstung umfassen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 32 Abs. 1, § 32 Abs. 3</a>",
+69a87747a36b6c4c6354677f,,200148,question,questionText,51169,form,Signalgeber,
+69a87747a36b6c4c63546780,,200149,question,description,51169,form,"Die Mitglieder des Taucherteams müssen körperlich und geistig geeignet sowie für ihre jeweiligen Aufgaben ausgebildet sein. Das Signalpersonal muss über Fachkompetenz im Arbeitsschutz sowie Kenntnisse der Signale und Ausrüstung verfügen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 30 Abs. 3, § 31 Abs. 1, § 32 Abs. 1, § 47 Abs. 1 Z 1</a>",
+69a87747a36b6c4c63546780,,200149,question,questionText,51169,form,Ausbildung,
+69a87747a36b6c4c63546781,,200150,question,description,51169,form,"Die Verfügbarkeit eines Reservetauchers muss vollständige Notfallausrüstung und Einsatzbereitschaft umfassen. Die Verfügbarkeit eines Rettungsbootes muss während der Taucherarbeiten sichergestellt sein.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 30 Abs. 2, § 34 Abs. 4</a>",
+69a87747a36b6c4c63546781,,200150,question,questionText,51169,form,Verfügbarkeit eines Rettungsbootes,
+69a87747a36b6c4c63546782,,200151,question,description,51169,form,"Das Mindestalter und die gesundheitliche Eignungsanforderungen für Taucher müssen erfüllt sein. Taucher müssen mindestens 21 Jahre alt und medizinisch geeignet sein. Die jährliche ärztliche Eignungsbescheinigung muss alle 12 Monate erneuert werden, um die Taucherarbeiten fortsetzen zu dürfen.
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008298&utm_"">Druckluft- und Taucherarbeiten-Verordnung, § 31 Abs. 1, § 31 Abs. 3</a>",
+69a87747a36b6c4c63546782,,200151,question,questionText,51169,form,Ärztliche Eignungsuntersuchungen (jährlich),
+69a87747a36b6c4c63546783,,200152,question,questionText,51169,form,<div></div>,

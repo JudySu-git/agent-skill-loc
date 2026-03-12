@@ -1,0 +1,5 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+69375213010000e0019e5315,693744730100004100e1e85d,49557,questionGroup,description,49557,form,This requirement is triggered because you indicated your organization maintains valid Honduran Social Security documentation in the Honduras Social Security IHSS Applicability Assessment questionnaire.
+69375213010000e0019e5315,693744730100004100e1e85d,49557,questionGroup,questionGroupText,49557,form,Honduras Social Security IHSS Registration Certificate
+693744730100004800e1e85e,,192011,question,description,49557,form,
+693744730100004800e1e85e,,192011,question,questionText,49557,form,Please upload your company’s valid IHSS Registration Certificate to confirm compliance with Honduran Social Security requirements.

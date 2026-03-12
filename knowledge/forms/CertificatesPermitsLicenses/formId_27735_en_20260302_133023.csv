@@ -1,0 +1,15 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+60709bc143000090e8659994,5dc344053500008bc569b103,27735,questionGroup,questionGroupText,27735,form,Inland Marine Liability
+60709b8643000090e865998b,5dc34493350000e61a7eeec1,27736,questionGroup,questionGroupText,27735,form,Policy Information
+5dc344963400008bc53e02c8,5dc344963400008bc53e02c7,27737,questionGroup,questionGroupText,27735,form,Policy Limits
+5dc344cf350000e61a7ef54c,,87804,question,questionText,27735,form,Date of Commencement:
+5dc344e83900006ed9963376,,87806,question,questionText,27735,form,Expiration Date:
+5dc344ff3500008bc569d211,,87807,question,questionText,27735,form,Insurance Carrier:
+5dc34546350000e61a7efee6,,87809,question,questionText,27735,form,Please upload Inland Marine Liability Certificate
+5dc345b63500008bc569f021,,87810,question,questionText,27735,form,Each Occurrence:
+5dc345e1350000e61a7f1ff2,,87811,question,questionText,27735,form,Aggregate:
+60709b8543000090e865998a,,108757,question,description,27735,form,Used to provide instructions from Client
+60709b8543000090e865998a,,108757,question,questionText,27735,form,Comments
+60709b9443000090e865998e,,108758,question,description,27735,form,Date the instructions from Client expire
+60709b9443000090e865998e,,108758,question,questionText,27735,form,VARIANCE Expiration Date
+62f53f4182eb52eab3c18fc9,,130558,question,questionText,27735,form,Currency used in Certificate of Insurance (COI)

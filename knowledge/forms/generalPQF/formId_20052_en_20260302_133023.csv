@@ -1,0 +1,42 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63a4c6671800003202fb6a74,4e02183b504943fcadb26f3c,13,questionGroup,questionGroupText,20052,form,Communications
+429d40d05049431c8947cca6,,147,question,description,20052,form,"A Health, Safety and Environmental (HSE) Committee or Safety Committee is a representative group of employees and managers. HSE committees provide governance and support of HSE risk identification and mitigation."
+429d40d05049431c8947cca6,,147,question,questionText,20052,form,"Does your company have a Health, Safety, and Environmental (HSE) committee?"
+429d40d05049431c8947cca6,,147,question,responseOptionNo,20052,form,No
+429d40d05049431c8947cca6,,147,question,responseOptionYes,20052,form,Yes
+429e92505049432cbc7fe1a4,,237,question,description,20052,form,"Some examples are Safety Meetings/Toolbox Talks, Training, Job Hazard Analysis/Safe Work Method Statement."
+429e92505049432cbc7fe1a4,,237,question,questionText,20052,form,"Does your company communicate Health, Safety & Environmental (HSE) information to your workers to provide the knowledge required to perform their job safely? "
+429e92505049432cbc7fe1a4,,237,question,responseOptionNo,20052,form,No
+429e92505049432cbc7fe1a4,,237,question,responseOptionYes,20052,form,Yes
+63a4cc701800008802fba0b3,4b70617e504943c1dd45cd85,401,questionGroup,questionGroupText,20052,form,Work Orders & Practices
+492a42e05049434808ba3480,,2041,question,description,20052,form,Check all that apply
+492a42e05049434808ba3480,,2041,question,questionText,20052,form,Please identify the type of stop work orders and/or fines:
+492a42e05049434808ba3480,,2041,question,responseOption1,20052,form,Administrative Fines
+492a42e05049434808ba3480,,2041,question,responseOption2,20052,form,Convictions
+492a42e05049434808ba3480,,2041,question,responseOption3,20052,form,Stop Work Orders
+492a42e0504943ba1afbf451,,2045,question,questionText,20052,form,"Are there any HSE (Health, Safety, Environmental) related judgments, claims or suits pending or outstanding against your company?"
+492a42e0504943ba1afbf451,,2045,question,responseOptionNA,20052,form,N/A
+492a42e0504943ba1afbf451,,2045,question,responseOptionNo,20052,form,No
+492a42e0504943ba1afbf451,,2045,question,responseOptionYes,20052,form,Yes
+492a42e0504943a4b8295a9d,,2047,question,questionText,20052,form,Are employees informed of job / task specific hazards?
+492a42e0504943a4b8295a9d,,2047,question,responseOptionNo,20052,form,No
+492a42e0504943a4b8295a9d,,2047,question,responseOptionYes,20052,form,Yes
+50105574504943d28ba60780,50105574504943d28ba60780,2791,questionGroup,questionGroupText,20052,form,Equipment Inspections/Specific Hazards
+4b8dac4050494331028f2267,,3285,question,questionText,20052,form,Has your company been involved in any reportable spills or releases in the past three years?
+4b8dac4050494331028f2267,,3285,question,responseOptionNA,20052,form,N/A
+4b8dac4050494331028f2267,,3285,question,responseOptionNo,20052,form,No
+4b8dac4050494331028f2267,,3285,question,responseOptionYes,20052,form,Yes
+4b8ff03f50494372eb412b4b,,3297,question,questionText,20052,form,"Does your company have a Health, Safety and Environmental (HSE) inspection program in place?"
+4b8ff03f50494372eb412b4b,,3297,question,responseOptionNA,20052,form,N/A
+4b8ff03f50494372eb412b4b,,3297,question,responseOptionNo,20052,form,No
+4b8ff03f50494372eb412b4b,,3297,question,responseOptionYes,20052,form,Yes
+50535e805049432a738fad94,,13256,question,questionText,20052,form,Does your company provide reasonable assurance workers are physically able to perform their assigned duties?
+50535e805049432a738fad94,,13256,question,responseOptionNA,20052,form,N/A
+50535e805049432a738fad94,,13256,question,responseOptionNo,20052,form,No
+50535e805049432a738fad94,,13256,question,responseOptionYes,20052,form,Yes
+50535f185049435f081c2429,,13257,question,questionText,20052,form,"If yes, what is the process that is followed to assure employees are physically fit?"
+63a4d372180000f7024a3bca,5aade63e2b00001400d3e130,20052,questionGroup,questionGroupText,20052,form,Avetta PQF - General Safety Information
+547f8f1650494351ceda54c2,,27580,question,questionText,20052,form,Does your company have a process to communicate safe working practices to a multilingual workforce?
+547f8f1650494351ceda54c2,,27580,question,responseOptionNA,20052,form,N/A
+547f8f1650494351ceda54c2,,27580,question,responseOptionNo,20052,form,No
+547f8f1650494351ceda54c2,,27580,question,responseOptionYes,20052,form,Yes

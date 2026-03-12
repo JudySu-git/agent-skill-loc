@@ -1,0 +1,12 @@
+_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en,de
+69a87753a36b6c4c63546807,69a87753a36b6c4c63546806,51186,questionGroup,questionGroupText,51186,form,培训,
+69a87753a36b6c4c63546802,,200245,question,description,51186,form,"必须为员工提供适当的安全与健康指导。必须在工作期间传达安全与健康危害信息及预防措施。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 7(9), 12(1), 14(1)</a>",
+69a87753a36b6c4c63546802,,200245,question,questionText,51186,form,一般安全说明,
+69a87753a36b6c4c63546803,,200246,question,description,51186,form,"必须在工作开始前提供安全信息，并根据需要重复说明。必须在工作开始前、发生变更时、引入新设备或新材料时，或事故发生后进行培训。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 12(2), 14(2)</a>",
+69a87753a36b6c4c63546803,,200246,question,questionText,51186,form,培训（工作开始前、变更后或事故后）,
+69a87753a36b6c4c63546804,,200247,question,description,51186,form,"必须确保以可理解的语言提供安全信息，并确认员工已理解。
+<a target=""_BLANK"" href=""https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008910&utm_"">Employee Protection Act, Section 12(4), 14(4)</a>",
+69a87753a36b6c4c63546804,,200247,question,questionText,51186,form,可理解的语言,
+69a87753a36b6c4c63546805,,200248,question,questionText,51186,form,<div></div>,

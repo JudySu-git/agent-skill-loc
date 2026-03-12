@@ -1,0 +1,18 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+66833aff0100004a003d51c5,668309ad0100003a0098d671,42732,questionGroup,questionGroupText,42732,form,Avetta Nepal Annual Update
+668309ad010000640198d672,668309ad010000640198d672,42733,questionGroup,questionGroupText,42732,form,Nepal Specific Updates
+668309ad010000640198d673,668309ad010000640198d673,42734,questionGroup,questionGroupText,42732,form,Nepal
+668309ad010000680198d675,,156511,question,questionText,42732,form,What is the total of Full Time Equivalent (FTE) employees? Approximate if necessary.
+668309ad010000e70098d67a,,156513,question,questionText,42732,form,How many Major Accidents were there for the given year?
+668309ad010000e80098d67e,,156514,question,questionText,42732,form,"### Low Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *LOWER* than the average annual hours typically worked by full-time and part-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."
+668309ad010000680198d676,,156515,question,questionText,42732,form,Total number of  days away from work.
+668309ad010000e70098d679,,156516,question,questionText,42732,form,How many Minor Accidents were there for the given year?
+668309ad010000e80098d677,,156520,question,description,42732,form,"National occupational safety and health profile for Nepal, 2022: https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@asia/@ro-bangkok/@ilo-kathmandu/documents/publication/wcms_866976.pdf (page 65)"
+668309ad010000e80098d677,,156520,question,questionText,42732,form,Did your company have any incidents?
+668309ad010000e80098d677,,156520,question,responseOption1,42732,form,Yes
+668309ad010000e80098d677,,156520,question,responseOption2,42732,form,No
+668309ad010000e70098d67f,,156521,question,questionText,42732,form,Please enter total number of incidents.
+668309ad010000e70098d67d,,156522,question,questionText,42732,form,How many Fatal Accidents were there for the given year?
+668309ad010000690198d681,,156523,question,description,42732,form,"Labor Act, 2017 (2074 B.S.) of Nepal: https://www.lawcommission.gov.np/en/wp-content/uploads/2021/03/The-Labor-Act-2017-2074.pdf (page 12)"
+668309ad010000690198d681,,156523,question,questionText,42732,form,What is the total number of hours worked?
+668309ad010000e70098d67c,,156524,question,questionText,42732,form,"### High Work Hours:\n\nAre your hours and/or employee count entered correctly? The total number of hours reported are considerably *HIGHER* than the average annual hours typically worked by full-time employees.\n\nPlease validate that you have entered your correct employee count and/or total hours. If correct, provide a brief explanation for approval (this will be visible to your client connections). Otherwise, please correct your answers."

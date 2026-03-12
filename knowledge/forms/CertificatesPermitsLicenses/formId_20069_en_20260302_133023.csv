@@ -1,0 +1,194 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4b8ff9015049435ee9f1eaa1,4b8ff9015049435ee9f1eaa1,18,questionGroup,questionGroupText,20069,form,Environmental Issues
+4365b2e05049433ca19f6f03,,254,question,questionText,20069,form,"Is your company required to have any Federal, state, or local environmental licenses or permits to perform their service(s) (for example, NORM, asbestos, DOT, lead, explosives, etc.)?"
+4365b2e05049433ca19f6f03,,254,question,responseOptionNo,20069,form,No
+4365b2e05049433ca19f6f03,,254,question,responseOptionYes,20069,form,Yes
+4365b2e05049437747661900,,255,question,questionText,20069,form,"If yes, list the types of environmental licenses/permits and state of issue:"
+4365b2e050494388a678f3ed,,256,question,questionText,20069,form,Does your company have a written environmental program?
+4365b2e050494388a678f3ed,,256,question,responseOptionNA,20069,form,N/A
+4365b2e050494388a678f3ed,,256,question,responseOptionNo,20069,form,No
+4365b2e050494388a678f3ed,,256,question,responseOptionYes,20069,form,Yes
+4b8da98f50494333536a14b2,4b8da98f50494333536a14b2,393,questionGroup,questionGroupText,20069,form,Environmental Programs and Policies
+4b8da993504943786c1be0fd,4b8da993504943786c1be0fd,394,questionGroup,questionGroupText,20069,form,Refrigerant Management
+4365b2e0504943419194eed3,,567,question,questionText,20069,form,Does your company's Environmental Management System (EMS) address management commitment and expectations?
+4365b2e0504943419194eed3,,567,question,responseOptionNA,20069,form,N/A
+4365b2e0504943419194eed3,,567,question,responseOptionNo,20069,form,No
+4365b2e0504943419194eed3,,567,question,responseOptionYes,20069,form,Yes
+4365b2e050494333f62501c9,,568,question,questionText,20069,form,"Does your company's EMS address accountability and responsibilities for managers, supervisors, and employees?"
+4365b2e050494333f62501c9,,568,question,responseOptionNA,20069,form,N/A
+4365b2e050494333f62501c9,,568,question,responseOptionNo,20069,form,No
+4365b2e050494333f62501c9,,568,question,responseOptionYes,20069,form,Yes
+4365b2e0504943fd26b2bc83,,569,question,questionText,20069,form,Does your company's EMS address resources for meeting environmental requirements?
+4365b2e0504943fd26b2bc83,,569,question,responseOptionNA,20069,form,N/A
+4365b2e0504943fd26b2bc83,,569,question,responseOptionNo,20069,form,No
+4365b2e0504943fd26b2bc83,,569,question,responseOptionYes,20069,form,Yes
+4365b2e0504943763a26edac,,570,question,questionText,20069,form,Does your company's EMS address periodic environmental performance appraisals for all employees?
+4365b2e0504943763a26edac,,570,question,responseOptionNA,20069,form,N/A
+4365b2e0504943763a26edac,,570,question,responseOptionNo,20069,form,No
+4365b2e0504943763a26edac,,570,question,responseOptionYes,20069,form,Yes
+4365b2e05049433ff5bb0336,,571,question,questionText,20069,form,Does your company's EMS address hazard recognition and operational environmental control?
+4365b2e05049433ff5bb0336,,571,question,responseOptionNA,20069,form,N/A
+4365b2e05049433ff5bb0336,,571,question,responseOptionNo,20069,form,No
+4365b2e05049433ff5bb0336,,571,question,responseOptionYes,20069,form,Yes
+4365b2e0504943f72fb2e1f6,,572,question,questionText,20069,form,Does your company's EMS identify anticipated significant environmental risks?
+4365b2e0504943f72fb2e1f6,,572,question,responseOptionNA,20069,form,N/A
+4365b2e0504943f72fb2e1f6,,572,question,responseOptionNo,20069,form,No
+4365b2e0504943f72fb2e1f6,,572,question,responseOptionYes,20069,form,Yes
+4365b2e050494388dc83a867,,573,question,questionText,20069,form,Does your company's EMS have objectives and targets to minimize significant environmental risks?
+4365b2e050494388dc83a867,,573,question,responseOptionNA,20069,form,N/A
+4365b2e050494388dc83a867,,573,question,responseOptionNo,20069,form,No
+4365b2e050494388dc83a867,,573,question,responseOptionYes,20069,form,Yes
+4365b2e0504943e7b41b8e08,,574,question,questionText,20069,form,Does your company's EMS address written procedures for minimizing significant environmental risks?
+4365b2e0504943e7b41b8e08,,574,question,responseOptionNA,20069,form,N/A
+4365b2e0504943e7b41b8e08,,574,question,responseOptionNo,20069,form,No
+4365b2e0504943e7b41b8e08,,574,question,responseOptionYes,20069,form,Yes
+4365b2e050494392a89a9eff,,575,question,questionText,20069,form,"Does your company's EMS address a method for management of required certifications, documentation, calibrations, and permits?"
+4365b2e050494392a89a9eff,,575,question,responseOptionNA,20069,form,N/A
+4365b2e050494392a89a9eff,,575,question,responseOptionNo,20069,form,No
+4365b2e050494392a89a9eff,,575,question,responseOptionYes,20069,form,Yes
+4365b2e05049434d2291ceaa,,576,question,questionText,20069,form,Does your company's EMS satisfy legal obligations that ensure employees follow the requirements of the facility?
+4365b2e05049434d2291ceaa,,576,question,responseOptionNA,20069,form,N/A
+4365b2e05049434d2291ceaa,,576,question,responseOptionNo,20069,form,No
+4365b2e05049434d2291ceaa,,576,question,responseOptionYes,20069,form,Yes
+4365b2e0504943f1a222bfb0,,577,question,questionText,20069,form,Does your company's EMS satisfy the legal obligations for advising the facilities owner(s) of any unique hazards/issues presented by your company's work or any hazards/issues found by your company?
+4365b2e0504943f1a222bfb0,,577,question,responseOptionNA,20069,form,N/A
+4365b2e0504943f1a222bfb0,,577,question,responseOptionNo,20069,form,No
+4365b2e0504943f1a222bfb0,,577,question,responseOptionYes,20069,form,Yes
+4365b2e050494398d7a3f620,,578,question,questionText,20069,form,Does your company have written programs (which include training documentation where applicable) for preventing stormwater pollution when performing any digging or excavating?
+4365b2e050494398d7a3f620,,578,question,responseOptionNA,20069,form,N/A
+4365b2e050494398d7a3f620,,578,question,responseOptionNo,20069,form,No
+4365b2e050494398d7a3f620,,578,question,responseOptionYes,20069,form,Yes
+4365b2e05049436948128731,,579,question,questionText,20069,form,Does your company have written programs (which include training documentation where applicable) for all relevant Waste Management Regulations?
+4365b2e05049436948128731,,579,question,responseOptionNA,20069,form,N/A
+4365b2e05049436948128731,,579,question,responseOptionNo,20069,form,No
+4365b2e05049436948128731,,579,question,responseOptionYes,20069,form,Yes
+4365b2e0504943f0cbac6196,,581,question,questionText,20069,form,"Does your company have written policies (which include training documentation where applicable) for permitting equipment with internal combustion engines (including hydroblasters, generators, welders, light towers, filtering systems, hydrolazers, Baker Tanks, and Vacuum Trucks)?"
+4365b2e0504943f0cbac6196,,581,question,responseOptionNA,20069,form,N/A
+4365b2e0504943f0cbac6196,,581,question,responseOptionNo,20069,form,No
+4365b2e0504943f0cbac6196,,581,question,responseOptionYes,20069,form,Yes
+4365b2e05049437b86547d6a,,582,question,questionText,20069,form,Does your company have written policies (which include training documentation where applicable) for tank seal inspections?
+4365b2e05049437b86547d6a,,582,question,responseOptionNA,20069,form,N/A
+4365b2e05049437b86547d6a,,582,question,responseOptionNo,20069,form,No
+4365b2e05049437b86547d6a,,582,question,responseOptionYes,20069,form,Yes
+4365b2e050494323de95e09d,,584,question,questionText,20069,form,Does your company have written policies (which include training documentation where applicable) for painting?
+4365b2e050494323de95e09d,,584,question,responseOptionNA,20069,form,N/A
+4365b2e050494323de95e09d,,584,question,responseOptionNo,20069,form,No
+4365b2e050494323de95e09d,,584,question,responseOptionYes,20069,form,Yes
+4365b2e050494391c71742f0,,585,question,questionText,20069,form,Does your company have written policies (which include training documentation where applicable) for solvent usage?
+4365b2e050494391c71742f0,,585,question,responseOptionNA,20069,form,N/A
+4365b2e050494391c71742f0,,585,question,responseOptionNo,20069,form,No
+4365b2e050494391c71742f0,,585,question,responseOptionYes,20069,form,Yes
+4365b2e05049438ef8951253,,586,question,questionText,20069,form,Does your company have written policies (which include training documentation where applicable) for container hazard communication labeling?
+4365b2e05049438ef8951253,,586,question,responseOptionNA,20069,form,N/A
+4365b2e05049438ef8951253,,586,question,responseOptionNo,20069,form,No
+4365b2e05049438ef8951253,,586,question,responseOptionYes,20069,form,Yes
+4365b2e05049433c714f01c7,,587,question,questionText,20069,form,Does your company have written programs (which include training documentation where applicable) for fugitive hydrocarbon or particulate emissions?
+4365b2e05049433c714f01c7,,587,question,responseOptionNA,20069,form,N/A
+4365b2e05049433c714f01c7,,587,question,responseOptionNo,20069,form,No
+4365b2e05049433c714f01c7,,587,question,responseOptionYes,20069,form,Yes
+4365b2e0504943c5b3ff7cd9,,588,question,questionText,20069,form,Does your company have written programs (which include training documentation where applicable) for drains?
+4365b2e0504943c5b3ff7cd9,,588,question,responseOptionNA,20069,form,N/A
+4365b2e0504943c5b3ff7cd9,,588,question,responseOptionNo,20069,form,No
+4365b2e0504943c5b3ff7cd9,,588,question,responseOptionYes,20069,form,Yes
+4365b2e0504943bc559f3427,,589,question,questionText,20069,form,Does your company have written policies (which include training documentation where applicable) for visible emissions?
+4365b2e0504943bc559f3427,,589,question,responseOptionNA,20069,form,N/A
+4365b2e0504943bc559f3427,,589,question,responseOptionNo,20069,form,No
+4365b2e0504943bc559f3427,,589,question,responseOptionYes,20069,form,Yes
+4365b2e0504943d704657b4c,,590,question,questionText,20069,form,Does your company have written programs (which include training documentation where applicable) for odors?
+4365b2e0504943d704657b4c,,590,question,responseOptionNA,20069,form,N/A
+4365b2e0504943d704657b4c,,590,question,responseOptionNo,20069,form,No
+4365b2e0504943d704657b4c,,590,question,responseOptionYes,20069,form,Yes
+4365b2e0504943565a6f514e,,591,question,questionText,20069,form,Does your company have written policies (which include training documentation where applicable) for spill and release prevention?
+4365b2e0504943565a6f514e,,591,question,responseOptionNA,20069,form,N/A
+4365b2e0504943565a6f514e,,591,question,responseOptionNo,20069,form,No
+4365b2e0504943565a6f514e,,591,question,responseOptionYes,20069,form,Yes
+4365b2e0504943298761b323,,592,question,questionText,20069,form,Does your company have written programs (which include training documentation where applicable) for source testing?
+4365b2e0504943298761b323,,592,question,responseOptionNA,20069,form,N/A
+4365b2e0504943298761b323,,592,question,responseOptionNo,20069,form,No
+4365b2e0504943298761b323,,592,question,responseOptionYes,20069,form,Yes
+4365b2e05049436be8e66feb,,593,question,questionText,20069,form,Does your company have written programs (which include training documentation where applicable) for pollution prevention?
+4365b2e05049436be8e66feb,,593,question,responseOptionNA,20069,form,N/A
+4365b2e05049436be8e66feb,,593,question,responseOptionNo,20069,form,No
+4365b2e05049436be8e66feb,,593,question,responseOptionYes,20069,form,Yes
+4ced7c0e50494316b0ee977e,4ced7c0e50494316b0ee977e,1244,questionGroup,questionGroupText,20069,form,Sustainability Assessment
+4940ac605049436e98322428,,2067,question,questionText,20069,form,Does your company provide services that involve refrigerant/freon environmental issues?
+4940ac605049436e98322428,,2067,question,responseOptionNo,20069,form,No
+4940ac605049436e98322428,,2067,question,responseOptionYes,20069,form,Yes
+4940ac605049438eea4426c4,,2068,question,questionText,20069,form,Do your company's technicians have the appropriate certification to perform work involving refrigerants?
+4940ac605049438eea4426c4,,2068,question,responseOptionNA,20069,form,N/A
+4940ac605049438eea4426c4,,2068,question,responseOptionNo,20069,form,No
+4940ac605049438eea4426c4,,2068,question,responseOptionYes,20069,form,Yes
+4940ac605049438803db9b37,,2069,question,questionText,20069,form,"Does your company have documentation of certification for refrigerant recovery and recycle equipment used by personnel and subcontractors, including loaned and rented equipment?"
+4940ac605049438803db9b37,,2069,question,responseOptionNA,20069,form,N/A
+4940ac605049438803db9b37,,2069,question,responseOptionNo,20069,form,No
+4940ac605049438803db9b37,,2069,question,responseOptionYes,20069,form,Yes
+4940ac60504943c1fe37283e,,2070,question,questionText,20069,form,Do your company's records include the certification information for reclaimers that receive materials from your company for reclamation?
+4940ac60504943c1fe37283e,,2070,question,responseOptionNA,20069,form,N/A
+4940ac60504943c1fe37283e,,2070,question,responseOptionNo,20069,form,No
+4940ac60504943c1fe37283e,,2070,question,responseOptionYes,20069,form,Yes
+4ced7d0e5049437389633e08,,5768,question,questionText,20069,form,Energy and Climate: \nDoes your company measure their corporate greenhouse gas emissions?
+4ced7d0e5049437389633e08,,5768,question,responseOptionNA,20069,form,N/A
+4ced7d0e5049437389633e08,,5768,question,responseOptionNo,20069,form,No
+4ced7d0e5049437389633e08,,5768,question,responseOptionYes,20069,form,Yes
+4ced7d58504943859b724d08,,5769,question,questionText,20069,form,Does your company report their greenhouse gas emissions to the Carbon Disclosure Project (CDP)?
+4ced7d58504943859b724d08,,5769,question,responseOptionNA,20069,form,N/A
+4ced7d58504943859b724d08,,5769,question,responseOptionNo,20069,form,No
+4ced7d58504943859b724d08,,5769,question,responseOptionYes,20069,form,Yes
+4ced7ded504943989edf7c9c,,5771,question,questionText,20069,form,Does your company publicly disclose your greenhouse gas reduction targets?
+4ced7ded504943989edf7c9c,,5771,question,responseOptionNA,20069,form,N/A
+4ced7ded504943989edf7c9c,,5771,question,responseOptionNo,20069,form,No
+4ced7ded504943989edf7c9c,,5771,question,responseOptionYes,20069,form,Yes
+4ced7f1b504943a393836b60,,5772,question,questionText,20069,form,"If yes, what are those targets?"
+4ced7f94504943965e6596a9,,5773,question,questionText,20069,form,Please report the total amount of solid waste generated from the facilities that produce your company's product(s) for the most recent year measured.
+4ced7fc950494328d57b6834,,5774,question,questionText,20069,form,Does your company publicly disclose your solid waste reduction targets?
+4ced7fc950494328d57b6834,,5774,question,responseOptionNA,20069,form,N/A
+4ced7fc950494328d57b6834,,5774,question,responseOptionNo,20069,form,No
+4ced7fc950494328d57b6834,,5774,question,responseOptionYes,20069,form,Yes
+4ced7ff5504943ee88566fec,,5775,question,questionText,20069,form,"If yes, what are those targets?"
+4ced817c504943b49793a4c2,,5776,question,questionText,20069,form,Please report total water use from facilities that produce your company's product(s) for the most recent year measured.
+4ced81ac504943b471cb4b21,,5777,question,questionText,20069,form,Does your company publicly disclose your water use reduction targets?
+4ced81ac504943b471cb4b21,,5777,question,responseOptionNA,20069,form,N/A
+4ced81ac504943b471cb4b21,,5777,question,responseOptionNo,20069,form,No
+4ced81ac504943b471cb4b21,,5777,question,responseOptionYes,20069,form,Yes
+4ced81c6504943db22e5c8b2,,5778,question,questionText,20069,form,"If yes, what are those targets?"
+4ced8261504943eb85e84116,,5779,question,questionText,20069,form,"Natural Resources: \nDoes your company establish publicly available sustainability purchasing guidelines for their direct suppliers that address issues such as environmental compliance, employment practices and product/ingredient safety?"
+4ced8261504943eb85e84116,,5779,question,responseOptionNA,20069,form,N/A
+4ced8261504943eb85e84116,,5779,question,responseOptionNo,20069,form,No
+4ced8261504943eb85e84116,,5779,question,responseOptionYes,20069,form,Yes
+4ced82e6504943c6b528c664,,5780,question,questionText,20069,form,Does your company obtain 3rd party certifications for any of the products that are sold?
+4ced82e6504943c6b528c664,,5780,question,responseOptionNA,20069,form,N/A
+4ced82e6504943c6b528c664,,5780,question,responseOptionNo,20069,form,No
+4ced82e6504943c6b528c664,,5780,question,responseOptionYes,20069,form,Yes
+4ced834250494347c0dc6fb1,,5781,question,questionText,20069,form,People and Community: \nDoes your company know the location of all its facilities that are used for production?
+4ced834250494347c0dc6fb1,,5781,question,responseOptionNA,20069,form,N/A
+4ced834250494347c0dc6fb1,,5781,question,responseOptionNo,20069,form,No
+4ced834250494347c0dc6fb1,,5781,question,responseOptionYes,20069,form,Yes
+4ced839750494396ec4d50ad,,5782,question,questionText,20069,form,"Before beginning a business relationship with a manufacturing facility, does your company evaluate the quality of, and capacity for, production?"
+4ced839750494396ec4d50ad,,5782,question,responseOptionNA,20069,form,N/A
+4ced839750494396ec4d50ad,,5782,question,responseOptionNo,20069,form,No
+4ced839750494396ec4d50ad,,5782,question,responseOptionYes,20069,form,Yes
+4ced83ce5049439dcd3d0faa,,5783,question,questionText,20069,form,Does your company have a process for managing social compliance at the manufacturing level?
+4ced83ce5049439dcd3d0faa,,5783,question,responseOptionNA,20069,form,N/A
+4ced83ce5049439dcd3d0faa,,5783,question,responseOptionNo,20069,form,No
+4ced83ce5049439dcd3d0faa,,5783,question,responseOptionYes,20069,form,Yes
+4ced842450494337e6505389,,5784,question,questionText,20069,form,Does your company work with your supplier base to resolve issues found during social compliance evaluations and also document specific corrections and improvements?
+4ced842450494337e6505389,,5784,question,responseOptionNA,20069,form,N/A
+4ced842450494337e6505389,,5784,question,responseOptionNo,20069,form,No
+4ced842450494337e6505389,,5784,question,responseOptionYes,20069,form,Yes
+4ced8458504943d9ec70a641,,5785,question,questionText,20069,form,Does your company invest in community development activities in the markets that it sources from and/or operates within?
+4ced8458504943d9ec70a641,,5785,question,responseOptionNA,20069,form,N/A
+4ced8458504943d9ec70a641,,5785,question,responseOptionNo,20069,form,No
+4ced8458504943d9ec70a641,,5785,question,responseOptionYes,20069,form,Yes
+5c1825273700001ed2bf9c12,5ab06e3e2b0000c84bd45b08,20069,questionGroup,questionGroupText,20069,form,Avetta PQF - Environmental Issues
+547ca668504943eadfbd936c,,27383,question,questionText,20069,form,What is your company's total annual greenhouse gas emissions reported in the most recent year measured?
+547ca84b504943e3424793bb,,27384,question,questionText,20069,form,"If no, please explain why your company does not publicly disclose those targets:"
+547ca8935049438c1ae5c824,,27385,question,questionText,20069,form,Material Efficiency: \nDoes your company measure the amount of solid waste generated from its production facilities?
+547ca8935049438c1ae5c824,,27385,question,responseOptionNA,20069,form,N/A
+547ca8935049438c1ae5c824,,27385,question,responseOptionNo,20069,form,No
+547ca8935049438c1ae5c824,,27385,question,responseOptionYes,20069,form,Yes
+547caa35504943e899d9a921,,27386,question,questionText,20069,form,"If no, please explain why your company does not publicly disclose those targets:"
+547caabc504943811711d999,,27389,question,questionText,20069,form,Does your company measure the total water use from its production facilities?
+547caabc504943811711d999,,27389,question,responseOptionNA,20069,form,N/A
+547caabc504943811711d999,,27389,question,responseOptionNo,20069,form,No
+547caabc504943811711d999,,27389,question,responseOptionYes,20069,form,Yes
+547cabb2504943a7beddb679,,27391,question,questionText,20069,form,"If no, please explain why your company does not publicly disclose those targets:"

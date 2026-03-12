@@ -1,0 +1,119 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+4f39dd0b50494317745cdb38,4f39dd0b50494317745cdb38,26,questionGroup,questionGroupText,20133,form,Public Works Specific
+429fe3d05049439c62634aaf,,270,question,questionText,20133,form,"At the time of submitting this pre-qualification form, is your firm ineligible to bid on or be awarded a public works contract, or perform as a subcontractor on a public works contract, pursuant to either Labor Code section 1777.1 or Labor Code section 1777.7?"
+429fe3d05049439c62634aaf,,270,question,responseOptionNA,20133,form,N/A
+429fe3d05049439c62634aaf,,270,question,responseOptionNo,20133,form,No
+429fe3d05049439c62634aaf,,270,question,responseOptionYes,20133,form,Yes
+429fe3d0504943673a4845e6,,273,question,questionText,20133,form,Please explain the details behind your firm's ineligibility:
+429fe3d050494323acb98d39,,274,question,questionText,20133,form,At any time in the last five years has your firm been assessed and paid liquidated damages after completion of a project under a construction contract with either a public or private owner?
+429fe3d050494323acb98d39,,274,question,responseOptionNA,20133,form,N/A
+429fe3d050494323acb98d39,,274,question,responseOptionNo,20133,form,No
+429fe3d050494323acb98d39,,274,question,responseOptionYes,20133,form,Yes
+429fe3d050494354bc5b0632,,275,question,questionText,20133,form,"If yes, explain projects by owner, owner's address, the date of completion of the project, amount of liquidated damages assessed, and all other information necessary to fully explain the assessment of liquidated damages:"
+429fe3d0504943b8e99b7eb7,,276,question,questionText,20133,form,"In the last five years has your firm, or any firm with which any of your company owners, officers, or partners was associated (OWNER, PARTNER, OFFICER), been debarred, disqualified, removed or otherwise prevented from bidding on, or completing, any government agency or public works project for any reason?"
+429fe3d0504943b8e99b7eb7,,276,question,responseOptionNA,20133,form,N/A
+429fe3d0504943b8e99b7eb7,,276,question,responseOptionNo,20133,form,No
+429fe3d0504943b8e99b7eb7,,276,question,responseOptionYes,20133,form,Yes
+429fe3d0504943cebc472fe4,,277,question,questionText,20133,form,"If yes, list by name of the company, name of the person within your firm who was associated with that company, year of the event, owner of the project, the project, and the basis for the action:"
+429fe3d0504943c7bb311986,,278,question,questionText,20133,form,In the last five years has your firm been denied an award of a public works contract based on a finding by a public agency that your company was not a responsible bidder?
+429fe3d0504943c7bb311986,,278,question,responseOptionNA,20133,form,N/A
+429fe3d0504943c7bb311986,,278,question,responseOptionNo,20133,form,No
+429fe3d0504943c7bb311986,,278,question,responseOptionYes,20133,form,Yes
+429fe3d05049436e4d9435f1,,279,question,questionText,20133,form,"If yes, identify the year of the event, the owner, the project, and the basis for the finding by the public agency."
+429fe3d05049439a25461b33,,280,question,questionText,20133,form,In the past five years has any claim against your firm concerning your firm's work on a construction project been filed in court or arbitration?
+429fe3d05049439a25461b33,,280,question,responseOptionNA,20133,form,N/A
+429fe3d05049439a25461b33,,280,question,responseOptionNo,20133,form,No
+429fe3d05049439a25461b33,,280,question,responseOptionYes,20133,form,Yes
+429fe3d050494370165e1f5a,,281,question,questionText,20133,form,"If yes, identify the claim(s) by providing the project name, date of the claim, name of the claimant, a brief description of the nature of the claim, the court in which the case was filed and a brief description of the status of the claim (pending or, if resolved, a brief description of the resolution)."
+429fe3d05049437658355ee7,,282,question,questionText,20133,form,In the past five years has your firm made any claim against a project owner concerning work on a project or payment for a contract and filed that claim in court or arbitration?
+429fe3d05049437658355ee7,,282,question,responseOptionNA,20133,form,N/A
+429fe3d05049437658355ee7,,282,question,responseOptionNo,20133,form,No
+429fe3d05049437658355ee7,,282,question,responseOptionYes,20133,form,Yes
+429fe3d050494387cf16f0ff,,283,question,questionText,20133,form,"If yes, identify the claim by providing the project name, date of the claim, name of the entity (or entities) against whom the claim was filed, a brief description of the nature of the claim, the court in which the case was filed, and a brief description of the status of the claim (pending, or if resolved, a brief description of the resolution)."
+429fe3d0504943ab46338cd2,,284,question,questionText,20133,form,"At any time during the past five years, has any surety company made any payments on your firm's behalf as a result of a default, to satisfy any claims made against a performance or payment bond issued on your firm's behalf, in connection with a construction project, either public or private?"
+429fe3d0504943ab46338cd2,,284,question,responseOptionNA,20133,form,N/A
+429fe3d0504943ab46338cd2,,284,question,responseOptionNo,20133,form,No
+429fe3d0504943ab46338cd2,,284,question,responseOptionYes,20133,form,Yes
+429fe3d0504943cfed94faa5,,285,question,questionText,20133,form,"If yes, list the amount of each such claim, the name and telephone number of the claimant, the date of the claim, the grounds for the claim, the present status of the claim, the date of resolution of such claim if resolved, the method by which such was resolved if resolved, the nature of the resolution and the amount, if any, at which the claim was resolved."
+429fe3d0504943f62bb21ca8,,288,question,questionText,20133,form,"Has your firm or any of its owners, officers or partners ever been found liable in a civil suit or found guilty in a criminal action for making any false claim or material misrepresentation to any public agency or entity?"
+429fe3d0504943f62bb21ca8,,288,question,responseOptionNA,20133,form,N/A
+429fe3d0504943f62bb21ca8,,288,question,responseOptionNo,20133,form,No
+429fe3d0504943f62bb21ca8,,288,question,responseOptionYes,20133,form,Yes
+429fe3d0504943880d81ecf0,,289,question,questionText,20133,form,"If yes, list who was involved, the name of the public agency, the date of the investigation, and the grounds for the finding."
+429fe3d0504943e178f193fc,,290,question,questionText,20133,form,"Has your firm or any of its owners, officers, or partners ever been convicted of a crime involving any federal, state, or local law related to construction?"
+429fe3d0504943e178f193fc,,290,question,responseOptionNA,20133,form,N/A
+429fe3d0504943e178f193fc,,290,question,responseOptionNo,20133,form,No
+429fe3d0504943e178f193fc,,290,question,responseOptionYes,20133,form,Yes
+429fe3d0504943237a9ca746,,291,question,questionText,20133,form,"If yes, list who was involved, the name of the public agency, the date of the conviction, and the grounds for the conviction."
+429fe3d0504943b4d5b23669,,292,question,questionText,20133,form,"Has your firm or any of its owners, officers, or partners ever been convicted of a federal or state crime of fraud, theft, or any other act of dishonesty?"
+429fe3d0504943b4d5b23669,,292,question,responseOptionNA,20133,form,N/A
+429fe3d0504943b4d5b23669,,292,question,responseOptionNo,20133,form,No
+429fe3d0504943b4d5b23669,,292,question,responseOptionYes,20133,form,Yes
+429fe3d05049435c8f982852,,293,question,questionText,20133,form,"If yes, identify the person or persons convicted, the court (the county if a state court, the district or location of the federal court), the year, and the criminal conduct."
+4340bad0504943e31cb7146e,,294,question,questionText,20133,form,What is your company's bonding capacity?
+429fe3d0504943da112d1957,,295,question,questionText,20133,form,Name of bonding company/surety:
+429fe3d0504943234a19299e,,296,question,questionText,20133,form,"Name of surety agent, address, and telephone number:"
+429fe3d0504943f3efa832ba,,297,question,questionText,20133,form,"If yes, state the percentage that your firm was required to pay. You may provide an explanation for a percentage rate higher than (.01) one percent, if you wish to do so."
+429fe3d05049435d2db94d4c,,298,question,questionText,20133,form,"List all other sureties (name and full address) that have written bonds for your firm during the last five years, including the dates during which each wrote the bonds:"
+429fe3d050494396f8b6f421,,299,question,questionText,20133,form,"During the last five years, has your firm ever been denied bond coverage by a surety company, or has there ever been a period of time when your firm had no surety bond in place during a public construction project when one was required?"
+429fe3d050494396f8b6f421,,299,question,responseOptionNA,20133,form,N/A
+429fe3d050494396f8b6f421,,299,question,responseOptionNo,20133,form,No
+429fe3d050494396f8b6f421,,299,question,responseOptionYes,20133,form,Yes
+429fe3d0504943cddae066c7,,300,question,questionText,20133,form,"If yes, indicate the date when your firm was denied coverage and the name of the company or companies which denied coverage. Please also indicate the period during which your company had no surety bond in place."
+429fe3d0504943ada23b6882,,303,question,questionText,20133,form,"NOTE: This question refers only to your own firm's violation of prevailing wage laws, not to violations of the prevailing wage laws by a subcontractor. \nHas there been more than one occasion during the last five years in which your firm was required to pay either back wages or penalties for your own firm's failure to comply with a state's prevailing wage laws?"
+429fe3d0504943ada23b6882,,303,question,responseOptionNA,20133,form,N/A
+429fe3d0504943ada23b6882,,303,question,responseOptionNo,20133,form,No
+429fe3d0504943ada23b6882,,303,question,responseOptionYes,20133,form,Yes
+429fe3d0504943f0232e795f,,304,question,questionText,20133,form,"If yes, describe the nature of each violation, identifying the name of the project, the date of its completion, the public agency for which it was constructed, the number of employees who were initially underpaid, and the amount of back wages and penalties that your company was required to pay."
+429fe3d0504943d7f3cc557b,,305,question,questionText,20133,form,"During the last five years, has there been more than one occasion in which your own firm has been penalized or required to pay back wages for failure to comply with the federal Davis-Bacon prevailing wage requirements?"
+429fe3d0504943d7f3cc557b,,305,question,responseOptionNA,20133,form,N/A
+429fe3d0504943d7f3cc557b,,305,question,responseOptionNo,20133,form,No
+429fe3d0504943d7f3cc557b,,305,question,responseOptionYes,20133,form,Yes
+429fe3d050494375d0c813de,,307,question,questionText,20133,form,"If yes, describe the nature of the violation, identifying the name of the project, the date of its completion, the public agency for which it was constructed, the number of employees who were initially underpaid, and the amount of back wages your company was required to pay along with the amount of any penalty paid."
+429fe3d050494396f08a7828,,308,question,questionText,20133,form,"Provide the name, address, and telephone number of the apprenticeship program (approved by a State Apprenticeship Council) from whom your company intend to request the dispatch of apprentices to your company for use on any public work project for which your company is awarded a contract by [Public Entity]."
+429fe3d0504943df86ce3831,,309,question,questionText,20133,form,Does your firm operate its own state-approved apprenticeship program?
+429fe3d0504943df86ce3831,,309,question,responseOptionNA,20133,form,N/A
+429fe3d0504943df86ce3831,,309,question,responseOptionNo,20133,form,No
+429fe3d0504943df86ce3831,,309,question,responseOptionYes,20133,form,Yes
+429fe3d050494368857ff242,,310,question,questionText,20133,form,"If yes, identify the craft(s) in which your firm provided apprenticeship training in the past year."
+433f6950504943462bbf0136,,311,question,questionText,20133,form,"Advise the year in which each such apprenticeship program was approved, and list the most recent State Apprenticeship Council approval(s) of your apprenticeship program(s)."
+429fe3d0504943f884ad92b8,,312,question,questionText,20133,form,"Advise the number of individuals who were employed by your firm as apprentices at any time during the past three years in each apprenticeship and the number of persons who, during the past three years, completed apprenticeships in each craft while employed by your firm."
+429fe3d05049436a50ead8cd,,313,question,questionText,20133,form,"At any time during the last five years, has your firm been found to have violated any provision of a State's apprenticeship laws or regulations, or the laws pertaining to use of apprentices on public works?"
+429fe3d05049436a50ead8cd,,313,question,responseOptionNA,20133,form,N/A
+429fe3d05049436a50ead8cd,,313,question,responseOptionNo,20133,form,No
+429fe3d05049436a50ead8cd,,313,question,responseOptionYes,20133,form,Yes
+429fe3d0504943774b73eed0,,314,question,questionText,20133,form,"Omit any incident that occurred prior to January 1, 1998, if the violation was by a subcontractor and your firm, as general contractor on a project, had no knowledge of the subcontractor's violation at the time they occurred \nIf yes, provide the date(s) of such findings and list copies of the Department's final decision(s)."
+429fe3d0504943cdc7b91a3a,,315,question,questionText,20133,form,"During the past five years, has your company been the subject of a tax lien by federal, state, or any other tax authority?"
+429fe3d0504943cdc7b91a3a,,315,question,responseOptionNA,20133,form,N/A
+429fe3d0504943cdc7b91a3a,,315,question,responseOptionNo,20133,form,No
+429fe3d0504943cdc7b91a3a,,315,question,responseOptionYes,20133,form,Yes
+429fe3d0504943342ba98d0c,,316,question,questionText,20133,form,"If the answer is yes, to the above question, please explain:"
+429fe3d0504943c33dd38be2,,317,question,questionText,20133,form,"In the past ten years has the Applicant Firm or any of its Key Persons or Affiliates given, or offered to give, money or any other benefit to a public official or employee with intent to influence that person regarding any of their official acts, duties, or decisions?"
+429fe3d0504943c33dd38be2,,317,question,responseOptionNA,20133,form,N/A
+429fe3d0504943c33dd38be2,,317,question,responseOptionNo,20133,form,No
+429fe3d0504943c33dd38be2,,317,question,responseOptionYes,20133,form,Yes
+5755c9af504943c3e3edfedc,5755c9af504943c3e3edfedc,414,questionGroup,questionGroupText,20133,form,Public Works
+5755c9af5049436a4f299044,5755c9af5049436a4f299044,415,questionGroup,questionGroupText,20133,form,Disputes
+5755c9af50494370e3b7bf55,5755c9af50494370e3b7bf55,416,questionGroup,questionGroupText,20133,form,Criminal Matters & Civil Suits
+5755c9af50494354125d20fb,5755c9af50494354125d20fb,417,questionGroup,questionGroupText,20133,form,Bonding
+4f39dd05504943c56bd3b8a7,4f39dd05504943c56bd3b8a7,418,questionGroup,questionGroupText,20133,form,Prevailing Wage & Apprentice Compliance
+43b61e60504943618f4bfc4f,,895,question,questionText,20133,form,Does your company perform Public Works projects?
+43b61e60504943618f4bfc4f,,895,question,responseOptionNA,20133,form,N/A
+43b61e60504943618f4bfc4f,,895,question,responseOptionNo,20133,form,No
+43b61e60504943618f4bfc4f,,895,question,responseOptionYes,20133,form,Yes
+43ba12e0504943473d70403b,,897,question,questionText,20133,form,Has your firm been required to pay a premium of more than one percent (.01) for a performance and payment bond on any project(s) on which your firm worked at any time during the last three years?
+43ba12e0504943473d70403b,,897,question,responseOptionNA,20133,form,N/A
+43ba12e0504943473d70403b,,897,question,responseOptionNo,20133,form,No
+43ba12e0504943473d70403b,,897,question,responseOptionYes,20133,form,Yes
+5c182dca360000d4e642e53a,5ab8261e3500006d028e790f,20133,questionGroup,questionGroupText,20133,form,Avetta PQF - Public Works Specific
+54874e9f5049435ea0469442,,27747,question,description,20133,form,"Only answer yes regarding disputes involving your firm and a project owner. Do not include information about disputes between your company, a supplier, another contractor, or subcontractor."
+54874e9f5049435ea0469442,,27747,question,questionText,20133,form,Has your company been involved in a dispute with a project owner involving amounts greater than $50K?
+54874e9f5049435ea0469442,,27747,question,responseOptionNA,20133,form,N/A
+54874e9f5049435ea0469442,,27747,question,responseOptionNo,20133,form,No
+54874e9f5049435ea0469442,,27747,question,responseOptionYes,20133,form,Yes
+548759a45049437003e20095,,27757,question,questionText,20133,form,Provide an explanation / overview of the project:
+54875a4450494339f74bd360,,27758,question,questionText,20133,form,Owner name and address:
+54875a7d504943bd3adeaae9,,27759,question,questionText,20133,form,Date of completion for the project:
+54875b2450494331a62c40f5,,27760,question,questionText,20133,form,Amount of liquidated damages assessed. Provide comments if there is any other information to fully explain the assessment.
+5488d5c05049439c4d7d5f63,,27805,question,questionText,20133,form,"Advise the year in which each such apprenticeship program was approved, and list the most recent State Apprenticeship Council approval(s) of your apprenticeship program(s)."
+5488d65c5049438df44da844,,27806,question,questionText,20133,form,"Advise the number of individuals who were employed by your firm as apprentices at any time during the past three years in each apprenticeship and the number of persons who, during the past three years, completed apprenticeships in each craft while employed by your firm."

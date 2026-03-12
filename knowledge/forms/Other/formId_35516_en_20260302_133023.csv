@@ -1,0 +1,49 @@
+﻿_id,mongoId,avettaId,mongoObject,field,formDisplayId,questionGroupType,en
+63f9505e150000110143608d,6215321e2e0000823824c1aa,35516,questionGroup,questionGroupText,35516,form,Greenhouse Gas (GHG) Emissions Collection and Removal Annual Reporting
+6393df3a170000b10a5fb1b7,6215328e2e0000c9507a6d2b,35517,questionGroup,questionGroupText,35516,form,GHG Annual Reporting Scope 1
+6393dbbb170000ab0a5f9692,6393dbbb170000ab0a5f9691,38044,questionGroup,questionGroupText,35516,form,GHG Annual Reporting Scope 2
+6393dbd1190000fc0a2f8d66,6393dbd1190000fc0a2f8d65,38045,questionGroup,questionGroupText,35516,form,Carbon Offsets
+620ee4052f00006794fff04b,,121719,question,description,35516,form,"Fuel your organization uses in owned or leased vehicles and mobile equipment, like cars, trucks, vans, boats, company planes, portable generators, agricultural equipment, and fuel-powered landscaping tools."
+620ee4052f00006794fff04b,,121719,question,questionText,35516,form,Do you track and calculate GHG for Mobile sources?
+620ee4052f00006794fff04b,,121719,question,responseOption1,35516,form,Yes
+620ee4052f00006794fff04b,,121719,question,responseOption2,35516,form,No
+620ee4052f00006794fff04b,,121719,question,responseOption3,35516,form,N/A
+620ee42e2f00006794fff04d,,121720,question,description,35516,form,"Releases of refrigerants during installation, use, maintenance, and decommissioning in equipment your organization owns or controls. Include all activities that use refrigerants, like cooling buildings, vehicles, or products."
+620ee42e2f00006794fff04d,,121720,question,questionText,35516,form,Do you track and calculate GHG for Fugitive emissions - Refrigeration?
+620ee42e2f00006794fff04d,,121720,question,responseOption1,35516,form,Yes
+620ee42e2f00006794fff04d,,121720,question,responseOption2,35516,form,No
+620ee42e2f00006794fff04d,,121720,question,responseOption3,35516,form,N/A
+621513b02e0000c9507a5c51,,121721,question,questionText,35516,form,Please provide your calculated annual MT CO2e for Mobile sources
+621513f82e0000c9507a5c52,,121722,question,questionText,35516,form,Please provide your calculated annual MT CO2e for Fugitive emissions - Refrigeration
+621514062e00008238243b4e,,121723,question,description,35516,form,"Chemical leaks from or use of building fire suppression systems or equipment your organization owns or controls. Include releases from the installation, maintenance, and decommissioning of building systems, as well as discharges to put out fires in emergencies or during training activities."
+621514062e00008238243b4e,,121723,question,questionText,35516,form,Do you track and calculate GHG for Fugitive emissions - Fire suppression?
+621514062e00008238243b4e,,121723,question,responseOption1,35516,form,Yes
+621514062e00008238243b4e,,121723,question,responseOption2,35516,form,No
+621514062e00008238243b4e,,121723,question,responseOption3,35516,form,N/A
+621514302e0000c9507a5c55,,121724,question,questionText,35516,form,Please provide your calculated annual MT CO2e for Fugitive emissions - Fire suppression
+6215326f2e0000c9507a6d1e,,121740,question,questionText,35516,form,"Based on your Sustainability and ESG responses, you are required to report your GHG emissions on a consistent basis. This will provide visibility to your connected Clients to see relevant reporting of Scope 1 and 2 emissions.\n\nPlease report the total MT CO2e for that scope and period in your responses below.  Ensure that your inputs align with either a monthly or quarterly input, based on your GHG reporting frequency."
+6393df381900003b0b2fba9a,,134708,question,description,35516,form,"Fuel burned in buildings or equipment your organization owns or operates. Include building heating fuels, like oil or gas, fuel used in stationary generators, and fuel-powered production equipment."
+6393df381900003b0b2fba9a,,134708,question,questionText,35516,form,Do you track and calculate GHG for Stationary combustion?
+6393df381900003b0b2fba9a,,134708,question,responseOption1,35516,form,Yes
+6393df381900003b0b2fba9a,,134708,question,responseOption2,35516,form,No
+6393df381900003b0b2fba9a,,134708,question,responseOption3,35516,form,N/A
+6393dfcd190000300b2fc2b1,,134711,question,questionText,35516,form,Please provide your calculated annual MT CO2e for Stationary combustion
+6393e082190000fc0a2fc9b7,,134712,question,description,35516,form,"The production and distribution of electricity you purchase from the utility or another supplier. If your electricity mix is high in fossil fuels, your emissions will be higher."
+6393e082190000fc0a2fc9b7,,134712,question,questionText,35516,form,Do you track and calculate GHG for Purchased electricity?
+6393e082190000fc0a2fc9b7,,134712,question,responseOption1,35516,form,Yes
+6393e082190000fc0a2fc9b7,,134712,question,responseOption2,35516,form,No
+6393e082190000fc0a2fc9b7,,134712,question,responseOption3,35516,form,N/A
+6393e0ec190000390b2fd175,,134713,question,questionText,35516,form,Please provide your calculated annual MT CO2e for Purchased electricity
+6393e130170000b90a5fcaf7,,134714,question,description,35516,form,"Steam, heat, and cooling generated off-site that you purchase from a utility or another supplier—for instance, district heating and cooling, or steam used in industrial processes. Not to be confused with heat you generate on-site by using a boiler or furnace or cooling your facility with an electricity-powered AC unit."
+6393e130170000b90a5fcaf7,,134714,question,questionText,35516,form,"Do you track and calculate GHG for Purchased steam, heat or cooling?"
+6393e130170000b90a5fcaf7,,134714,question,responseOption1,35516,form,Yes
+6393e130170000b90a5fcaf7,,134714,question,responseOption2,35516,form,No
+6393e130170000b90a5fcaf7,,134714,question,responseOption3,35516,form,N/A
+6393e1ae1700008f0a5fce1f,,134715,question,questionText,35516,form,"Please provide your calculated annual MT CO2e for Purchased steam, heat and cooling"
+6393e2041700008e0a5fd4eb,,134716,question,questionText,35516,form,Do you have Carbon Offsets for the year that you would like to report?
+6393e2041700008e0a5fd4eb,,134716,question,responseOption1,35516,form,Yes
+6393e2041700008e0a5fd4eb,,134716,question,responseOption2,35516,form,No
+6393e2041700008e0a5fd4eb,,134716,question,responseOption3,35516,form,N/A
+6393e22d170000ab0a5fd86f,,134717,question,questionText,35516,form,Please provide your annual carbon offsets in MT CO2e
+6393e2491900002e0b2fe5e1,,134718,question,questionText,35516,form,Please upload any documentation related to your Carbon Offset purchase
+6393e2b91900003d0b2fe8a8,,134719,question,questionText,35516,form,"Carbon offsets are purchases made by a company to help reach their goals for Carbon Neutral.  There are various providers of carbon offsets to purchase these credits from.  Avetta has partnered with Cloverly who is a leading marketplace for high quality offsets.  \n\n<a href=""https://info.cloverly.com/cloverly-avetta-partnership""target=""blank"">https://info.cloverly.com/cloverly-avetta-partnership</a> (English language only; translate Cloverly projects to your preferred language using free solutions such as Google Translate, Baidu Translate, and others)\n\nBelow, you will be able to report those carbon offsets for the prior calendar year to help in your reporting and progress towards carbon neutral."
